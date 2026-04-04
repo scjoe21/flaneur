@@ -465,9 +465,17 @@ img { max-width: 100%; }
   font-size: 11px; color: var(--text-light);
   margin-bottom: 4px;
 }
+.saved-item__clip {
+  font-size: 13px; color: var(--text);
+  line-height: 1.6;
+  border-left: 3px solid var(--gold-lt);
+  padding-left: 10px;
+  margin: 6px 0 6px;
+  font-style: italic;
+}
 .saved-item__title {
-  font-size: 14px; font-weight: 500;
-  line-height: 1.4; color: var(--text);
+  font-size: 12px; font-weight: 400;
+  color: var(--text-muted); margin-top: 4px;
 }
 .saved-item__remove {
   position: absolute; top: 10px; right: 10px;
@@ -484,6 +492,33 @@ img { max-width: 100%; }
 .saved-panel__footer {
   padding: 16px;
   border-top: 1px solid var(--border);
+}
+
+/* ── 구절 저장 툴팁 ── */
+.clip-tooltip {
+  position: fixed;
+  z-index: 9999;
+  transform: translateX(-50%);
+  background: var(--accent);
+  border-radius: 20px;
+  padding: 7px 16px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.2);
+  pointer-events: auto;
+}
+.clip-tooltip::after {
+  content: '';
+  position: absolute;
+  top: 100%; left: 50%;
+  transform: translateX(-50%);
+  border: 6px solid transparent;
+  border-top-color: var(--accent);
+}
+.clip-tooltip button {
+  color: #fff;
+  font-size: 13px;
+  font-weight: 600;
+  white-space: nowrap;
+  letter-spacing: 0.01em;
 }
 
 /* ── 에세이 페이지 ── */

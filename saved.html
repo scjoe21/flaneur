@@ -19,48 +19,37 @@
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
       gap: 18px;
     }
-    .saved-full-item {
-      background: var(--bg-card);
+    .clip-card {
+      background: #fffdf6;
       border: 1px solid var(--gold-lt);
       border-radius: var(--radius-lg);
-      padding: 22px;
-      cursor: pointer;
+      padding: 20px 22px;
       transition: var(--transition);
       position: relative;
-      background: #fffdf6;
     }
-    .saved-full-item:hover {
-      box-shadow: var(--shadow);
-      transform: translateY(-2px);
+    .clip-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .clip-card__meta {
+      font-size: 11px; color: var(--text-light);
+      margin-bottom: 10px; letter-spacing: 0.02em;
     }
-    .saved-full-item__source {
-      font-size: 12px; color: var(--text-light);
-      margin-bottom: 8px;
+    .clip-card__text {
+      font-size: 15px; color: var(--text);
+      line-height: 1.75; font-style: italic;
+      border-left: 3px solid var(--gold);
+      padding-left: 14px;
+      margin: 0 0 12px;
     }
-    .saved-full-item__title {
-      font-family: var(--font-serif);
-      font-size: 16px; font-weight: 600;
-      line-height: 1.4; color: var(--text);
-      margin-bottom: 10px;
+    .clip-card__title {
+      font-size: 12px; color: var(--text-muted);
     }
-    .saved-full-item__summary {
-      font-size: 13px; color: var(--text-muted);
-      line-height: 1.65;
-      display: -webkit-box;
-      -webkit-line-clamp: 2;
-      -webkit-box-orient: vertical;
-      overflow: hidden;
-    }
-    .saved-full-item__remove {
+    .clip-card__remove {
       position: absolute; top: 14px; right: 14px;
-      width: 28px; height: 28px; border-radius: 50%;
+      width: 26px; height: 26px; border-radius: 50%;
       background: var(--bg-subtle); color: var(--text-light);
       display: flex; align-items: center; justify-content: center;
-      font-size: 12px; transition: var(--transition);
+      font-size: 11px; transition: var(--transition);
     }
-    .saved-full-item__remove:hover {
-      background: #fee2e2; color: #dc2626;
-    }
+    .clip-card__remove:hover { background: #fee2e2; color: #dc2626; }
     .clear-all-btn {
       font-size: 13px; color: var(--text-muted);
       border: 1px solid var(--border);
@@ -91,18 +80,18 @@
   <div class="container">
     <div class="saved-page__header" style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:16px">
       <div>
-        <h1 class="saved-page__title">★ 저장한 내용</h1>
-        <p class="saved-page__sub" id="saved-count-text">저장된 항목이 없습니다.</p>
+        <h1 class="saved-page__title">✦ 저장한 구절</h1>
+        <p class="saved-page__sub" id="saved-count-text">저장된 구절이 없습니다.</p>
       </div>
       <button class="clear-all-btn" id="clear-all-btn">전체 삭제</button>
     </div>
 
     <div class="saved-grid" id="saved-grid">
       <div class="empty-state">
-        <div class="empty-state__icon">★</div>
+        <div class="empty-state__icon">✦</div>
         <div class="empty-state__text">
-          아직 저장한 내용이 없습니다.<br>
-          카드의 ☆ 버튼으로 핵심 내용을 저장해 보세요.
+          아직 저장한 구절이 없습니다.<br>
+          자세히 보기에서 텍스트를 드래그해 구절을 저장해 보세요.
         </div>
       </div>
     </div>
@@ -122,7 +111,6 @@
     <div class="modal-body"></div>
     <div class="modal-actions">
       <button class="btn btn--primary" id="modal-source-btn">원문 보기 →</button>
-      <button class="btn btn--outline saved" id="modal-save-btn">★ 저장됨</button>
       <button class="btn btn--ghost" onclick="closeModal()">닫기</button>
     </div>
   </div>
@@ -142,78 +130,45 @@
 <div class="toast" id="toast"></div>
 
 <script>
-const DAY_CONFIG = {
-  monday:    { label: '월요일', flag: '🇫🇷', country: 'france' },
-  tuesday:   { label: '화요일', flag: '🇩🇪', country: 'germany' },
-  wednesday: { label: '수요일', flag: '🇮🇹', country: 'italy' },
-  thursday:  { label: '목요일', flag: '🇬🇧', country: 'uk' },
-  friday:    { label: '금요일', flag: '🇺🇸', country: 'usa' },
-};
+let clipList = JSON.parse(localStorage.getItem('flaneur_clips') || '[]');
 
-let savedIds = new Set(JSON.parse(localStorage.getItem('flaneur_saved') || '[]'));
-let newsData = null;
-let openItem = null;
-
-async function init() {
-  try {
-    const res = await fetch('data/news.json?v=' + Date.now());
-    newsData  = await res.json();
-  } catch { newsData = { items: [] }; }
-  renderSavedGrid();
-}
-
-function renderSavedGrid() {
+function renderClipGrid() {
   const grid = document.getElementById('saved-grid');
-  const items = (newsData?.items || []).filter(i => savedIds.has(i.id));
 
   document.getElementById('saved-count-text').textContent =
-    items.length ? `${items.length}개 항목이 저장되어 있습니다.` : '저장된 항목이 없습니다.';
+    clipList.length ? `${clipList.length}개 구절이 저장되어 있습니다.` : '저장된 구절이 없습니다.';
 
-  if (!items.length) {
+  if (!clipList.length) {
     grid.innerHTML = `<div class="empty-state">
-      <div class="empty-state__icon">★</div>
-      <div class="empty-state__text">아직 저장한 내용이 없습니다.<br>메인 페이지 카드의 ☆ 버튼으로 저장해 보세요.</div>
+      <div class="empty-state__icon">✦</div>
+      <div class="empty-state__text">아직 저장한 구절이 없습니다.<br>자세히 보기에서 텍스트를 드래그해 저장해 보세요.</div>
     </div>`;
     return;
   }
 
   grid.innerHTML = '';
-  items.forEach(item => {
-    const cfg = DAY_CONFIG[item.day] || {};
-    const el  = document.createElement('div');
-    el.className = 'saved-full-item';
+  [...clipList].reverse().forEach(clip => {
+    const el = document.createElement('div');
+    el.className = 'clip-card';
     el.innerHTML = `
-      <div class="saved-full-item__source">${cfg.flag || ''} ${item.source} · ${item.dayLabel}</div>
-      <div class="saved-full-item__title">${item.title}</div>
-      <div class="saved-full-item__summary">${item.summary}</div>
-      <button class="saved-full-item__remove" data-id="${item.id}" title="저장 해제">★</button>
+      <div class="clip-card__meta">${clip.flag} ${clip.source} · ${clip.dayLabel}</div>
+      <blockquote class="clip-card__text">${clip.text}</blockquote>
+      <div class="clip-card__title">— ${clip.articleTitle}</div>
+      <button class="clip-card__remove" data-id="${clip.clipId}" title="삭제">✕</button>
     `;
-    el.querySelector('.saved-full-item__remove').addEventListener('click', e => {
+    el.querySelector('.clip-card__remove').addEventListener('click', e => {
       e.stopPropagation();
-      savedIds.delete(item.id);
-      localStorage.setItem('flaneur_saved', JSON.stringify([...savedIds]));
+      clipList = clipList.filter(c => c.clipId !== clip.clipId);
+      localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
       el.remove();
-      showToast('저장을 취소했습니다.');
       document.getElementById('saved-count-text').textContent =
-        savedIds.size ? `${savedIds.size}개 항목이 저장되어 있습니다.` : '저장된 항목이 없습니다.';
+        clipList.length ? `${clipList.length}개 구절이 저장되어 있습니다.` : '저장된 구절이 없습니다.';
+      showToast('삭제했습니다.');
     });
-    el.addEventListener('click', () => openModal(item));
     grid.appendChild(el);
   });
 }
 
-function openModal(item) {
-  openItem = item;
-  const overlay = document.getElementById('modal-overlay');
-  const cfg = DAY_CONFIG[item.day] || {};
-  overlay.querySelector('.modal-day').textContent   = `${cfg.flag || ''} ${item.dayLabel}`;
-  overlay.querySelector('.modal-source').innerHTML  = `<strong>${item.source}</strong>`;
-  overlay.querySelector('.modal-title').textContent = item.title;
-  overlay.querySelector('.modal-body').textContent  = item.detail;
-  document.getElementById('modal-source-btn').onclick = () => window.open(item.sourceUrl, '_blank', 'noopener');
-  overlay.classList.add('open');
-  document.body.style.overflow = 'hidden';
-}
 function closeModal() {
   document.getElementById('modal-overlay').classList.remove('open');
   document.body.style.overflow = '';
@@ -231,15 +186,15 @@ document.getElementById('modal-overlay').addEventListener('click', e => {
 document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
 
 document.getElementById('clear-all-btn').addEventListener('click', () => {
-  if (!savedIds.size) return;
-  if (!confirm('저장한 내용을 모두 삭제하시겠습니까?')) return;
-  savedIds.clear();
-  localStorage.setItem('flaneur_saved', '[]');
-  renderSavedGrid();
+  if (!clipList.length) return;
+  if (!confirm('저장한 구절을 모두 삭제하시겠습니까?')) return;
+  clipList = [];
+  localStorage.setItem('flaneur_clips', '[]');
+  renderClipGrid();
   showToast('전체 삭제되었습니다.');
 });
 
-init();
+renderClipGrid();
 </script>
 </body>
 </html>

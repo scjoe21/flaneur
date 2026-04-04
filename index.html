@@ -172,10 +172,14 @@
     <div class="modal-body"></div>
     <div class="modal-actions">
       <button class="btn btn--primary" id="modal-source-btn">원문 보기 →</button>
-      <button class="btn btn--outline" id="modal-save-btn">☆ 저장하기</button>
       <button class="btn btn--ghost" onclick="document.getElementById('modal-overlay').classList.remove('open');document.body.style.overflow=''">닫기</button>
     </div>
   </div>
+</div>
+
+<!-- ── 구절 저장 툴팁 ── -->
+<div class="clip-tooltip" id="clip-tooltip" style="display:none">
+  <button id="clip-save-btn">✦ 구절 저장</button>
 </div>
 
 <!-- ── 저장함 패널 ── -->

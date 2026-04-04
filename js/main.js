@@ -14,7 +14,7 @@ const DAY_ORDER = ['monday','tuesday','wednesday','thursday','friday'];
 
 // ── 상태 ──
 let newsData  = null;
-let savedIds  = new Set(JSON.parse(localStorage.getItem('flaneur_saved') || '[]'));
+let clipList  = JSON.parse(localStorage.getItem('flaneur_clips') || '[]');
 let activeDay = 'all';
 let openItem  = null;
 
@@ -245,11 +245,9 @@ function renderNewsGrid(day) {
 }
 
 function buildCard(item) {
-  const isSaved = savedIds.has(item.id);
-  const cfg     = DAY_CONFIG[item.day] || {};
-
+  const cfg  = DAY_CONFIG[item.day] || {};
   const card = document.createElement('article');
-  card.className = 'news-card' + (isSaved ? ' saved' : '');
+  card.className = 'news-card';
   card.dataset.id = item.id;
 
   card.innerHTML = `
@@ -260,7 +258,6 @@ function buildCard(item) {
         <span class="card-source__dot"></span>
         <span class="card-country card-country--${item.country}">${item.countryLabel}</span>
       </div>
-      <button class="save-btn ${isSaved ? 'saved' : ''}" data-id="${item.id}">${isSaved ? '★' : '☆'}</button>
     </div>
     <h3 class="card-title">${item.title}</h3>
     <p class="card-summary">${item.summary}</p>
@@ -276,17 +273,6 @@ function buildCard(item) {
     </div>
   `;
 
-  card.querySelector('.save-btn').addEventListener('click', e => {
-    e.stopPropagation();
-    toggleSave(item.id);
-    const btn = card.querySelector('.save-btn');
-    const s   = savedIds.has(item.id);
-    btn.classList.toggle('saved', s);
-    btn.textContent = s ? '★' : '☆';
-    card.classList.toggle('saved', s);
-    showToast(s ? '저장했습니다.' : '저장을 취소했습니다.');
-  });
-
   card.addEventListener('click', () => openModal(item));
   return card;
 }
@@ -296,16 +282,14 @@ function openModal(item) {
   openItem = item;
   const overlay = document.getElementById('modal-overlay');
   const cfg     = DAY_CONFIG[item.day] || {};
-  const isSaved = savedIds.has(item.id);
 
   overlay.querySelector('.modal-day').textContent   = `${cfg.flag || ''} ${item.dayLabel} · ${item.countryLabel}`;
   overlay.querySelector('.modal-source').innerHTML  = `<strong>${item.source}</strong>`;
   overlay.querySelector('.modal-title').textContent = item.title;
-  overlay.querySelector('.modal-body').textContent  = item.detail;
 
-  const saveBtn = overlay.querySelector('#modal-save-btn');
-  saveBtn.className = 'btn btn--outline' + (isSaved ? ' saved' : '');
-  saveBtn.innerHTML = isSaved ? '★ 저장됨' : '☆ 저장하기';
+  const body = overlay.querySelector('.modal-body');
+  body.textContent = item.detail;
+  body.onmouseup = () => showClipTooltip(item);
 
   overlay.querySelector('#modal-source-btn').onclick =
     () => window.open(item.sourceUrl, '_blank', 'noopener');
@@ -317,22 +301,48 @@ function openModal(item) {
 function closeModal() {
   document.getElementById('modal-overlay').classList.remove('open');
   document.body.style.overflow = '';
+  document.getElementById('clip-tooltip').style.display = 'none';
   openItem = null;
 }
 
-// ── 저장 ──
-function toggleSave(id) {
-  savedIds.has(id) ? savedIds.delete(id) : savedIds.add(id);
-  localStorage.setItem('flaneur_saved', JSON.stringify([...savedIds]));
-  updateSavedBadge();
-  refreshSavedPanel();
+// ── 구절 저장 ──
+function showClipTooltip(item) {
+  const sel     = window.getSelection();
+  const tooltip = document.getElementById('clip-tooltip');
+  if (!sel || sel.toString().trim().length < 5) {
+    tooltip.style.display = 'none';
+    return;
+  }
+  const range = sel.getRangeAt(0).getBoundingClientRect();
+  tooltip.style.display = 'block';
+  tooltip.style.top  = (range.top - 44) + 'px';
+  tooltip.style.left = (range.left + range.width / 2) + 'px';
+  document.getElementById('clip-save-btn').onclick = () => saveClip(sel.toString().trim(), item);
 }
 
-function updateSavedBadge() {
+function saveClip(text, item) {
+  const cfg = DAY_CONFIG[item.day] || {};
+  clipList.push({
+    clipId:        'clip_' + Date.now() + '_' + Math.random().toString(36).slice(2, 5),
+    articleId:     item.id,
+    articleTitle:  item.title,
+    source:        item.source,
+    dayLabel:      item.dayLabel,
+    flag:          cfg.flag || '',
+    text,
+    savedAt:       new Date().toISOString()
+  });
+  localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
+  document.getElementById('clip-tooltip').style.display = 'none';
+  updateClipBadge();
+  showToast('구절을 저장했습니다.');
+}
+
+function updateClipBadge() {
   const badge = document.getElementById('saved-badge');
   if (!badge) return;
-  badge.querySelector('.count').textContent = savedIds.size;
-  badge.style.display = savedIds.size > 0 ? 'flex' : 'none';
+  badge.querySelector('.count').textContent = clipList.length;
+  badge.style.display = clipList.length > 0 ? 'flex' : 'none';
 }
 
 // ── 저장함 패널 ──
@@ -351,36 +361,29 @@ function bindSavedPanel() {
 }
 
 function refreshSavedPanel() {
-  const body  = document.getElementById('saved-panel-body');
-  const items = newsData?.items.filter(i => savedIds.has(i.id)) || [];
+  const body = document.getElementById('saved-panel-body');
 
-  if (!items.length) {
-    body.innerHTML = '<div class="saved-empty">아직 저장한 내용이 없습니다.</div>';
+  if (!clipList.length) {
+    body.innerHTML = '<div class="saved-empty">텍스트를 드래그해 구절을 저장해 보세요.</div>';
     return;
   }
 
   body.innerHTML = '';
-  items.forEach(item => {
+  [...clipList].reverse().forEach(clip => {
     const el = document.createElement('div');
     el.className = 'saved-item';
     el.innerHTML = `
-      <div class="saved-item__source">${item.source} · ${item.dayLabel}</div>
-      <div class="saved-item__title">${item.title}</div>
-      <button class="saved-item__remove" data-id="${item.id}">✕</button>
+      <div class="saved-item__source">${clip.flag} ${clip.source} · ${clip.dayLabel}</div>
+      <blockquote class="saved-item__clip">${clip.text}</blockquote>
+      <div class="saved-item__title">${clip.articleTitle}</div>
+      <button class="saved-item__remove" data-id="${clip.clipId}">✕</button>
     `;
     el.querySelector('.saved-item__remove').addEventListener('click', e => {
       e.stopPropagation();
-      toggleSave(item.id);
+      clipList = clipList.filter(c => c.clipId !== clip.clipId);
+      localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
       el.remove();
-      const card = document.querySelector(`.news-card[data-id="${item.id}"]`);
-      if (card) {
-        card.classList.remove('saved');
-        const sb = card.querySelector('.save-btn');
-        if (sb) { sb.classList.remove('saved'); sb.textContent = '☆'; }
-      }
-    });
-    el.addEventListener('click', e => {
-      if (!e.target.closest('.saved-item__remove')) openModal(item);
+      updateClipBadge();
     });
     body.appendChild(el);
   });
@@ -445,25 +448,17 @@ document.addEventListener('DOMContentLoaded', () => {
   document.getElementById('modal-close')?.addEventListener('click', closeModal);
   document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
 
-  // 모달 저장 버튼
-  document.getElementById('modal-save-btn')?.addEventListener('click', () => {
-    if (!openItem) return;
-    toggleSave(openItem.id);
-    const s = savedIds.has(openItem.id);
-    const btn = document.getElementById('modal-save-btn');
-    btn.className = 'btn btn--outline' + (s ? ' saved' : '');
-    btn.innerHTML = s ? '★ 저장됨' : '☆ 저장하기';
-    const card = document.querySelector(`.news-card[data-id="${openItem.id}"]`);
-    if (card) {
-      card.classList.toggle('saved', s);
-      const sb = card.querySelector('.save-btn');
-      if (sb) { sb.classList.toggle('saved', s); sb.textContent = s ? '★' : '☆'; }
+  // 모달 외부 클릭 시 구절 툴팁 닫기
+  document.addEventListener('click', e => {
+    if (!e.target.closest('#clip-tooltip') && !e.target.closest('.modal-body')) {
+      const tooltip = document.getElementById('clip-tooltip');
+      if (tooltip) tooltip.style.display = 'none';
     }
-    showToast(s ? '저장했습니다.' : '저장을 취소했습니다.');
   });
 
   // 저장함
   bindSavedPanel();
+  updateClipBadge();
 
   // 초기 화면 결정
   applyView();
