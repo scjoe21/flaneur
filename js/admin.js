@@ -18,6 +18,8 @@ async function init() {
   renderWeekMeta();
   bindEvents();
   updatePublishBar();
+  loadFeedSummary();
+  loadEssaySuggestions();
 }
 
 async function loadSources() {
@@ -211,6 +213,27 @@ function stripHtml(html) {
   return div.textContent || '';
 }
 
+// ── 번역 (MyMemory, 무료/키 불필요) ──
+const LANG_MAP = { france:'fr', germany:'de', italy:'it', uk:'en', usa:'en' };
+const xlateCache = {};
+
+async function xlate(text, langFrom) {
+  if (!text) return '';
+  const key = `${langFrom}|${text}`;
+  if (xlateCache[key]) return xlateCache[key];
+  try {
+    const url = `https://api.mymemory.translated.net/get?q=${encodeURIComponent(text)}&langpair=${langFrom}|ko`;
+    const res = await fetch(url, { signal: AbortSignal.timeout(8000) });
+    const data = await res.json();
+    const t = data.responseData?.translatedText;
+    if (t && data.responseStatus === 200) {
+      xlateCache[key] = t;
+      return t;
+    }
+  } catch {}
+  return text;
+}
+
 // ── 우선순위 채점 (Python 스크립트와 동일 로직) ──
 const SCORE_KEYWORDS = {
   daily: [
@@ -301,24 +324,62 @@ function renderFeedList(items, src) {
       </span>` : '';
 
     const el = document.createElement('div');
-    el.className = 'feed-item';
+    el.className = 'feed-item feed-item--clickable';
     el.innerHTML = `
-      <div style="min-width:0;flex:1">
-        <div class="feed-item__date" style="display:flex;align-items:center;gap:8px">
-          <span>${item.date}</span>${scoreBadge}
-        </div>
-        <div class="feed-item__title">${item.title}</div>
-        <div class="feed-item__desc">${item.description || '설명 없음'}</div>
+      <div class="feed-item__date" style="display:flex;align-items:center;gap:8px">
+        <span>${item.date}</span>${scoreBadge}
       </div>
-      <div class="feed-item__actions">
-        <button class="feed-item__btn feed-item__btn--select">선택 →</button>
-        <a href="${item.url}" target="_blank" rel="noopener" class="feed-item__btn feed-item__btn--link">원문</a>
-      </div>
+      <div class="feed-item__title">${item.title}</div>
+      <div class="feed-item__desc">${item.description || '설명 없음'}</div>
+      <div class="feed-item__hint">번역 보기 ↓</div>
     `;
-    el.querySelector('.feed-item__btn--select').addEventListener('click', () => {
-      openEditForm(item, src);
-    });
+    el.addEventListener('click', () => toggleExpand(el, item, src));
     listEl.appendChild(el);
+  });
+}
+
+// ── 번역 펼침 ──
+async function toggleExpand(el, item, src) {
+  const existing = el.nextElementSibling;
+  if (existing?.classList.contains('feed-expand')) {
+    existing.remove();
+    el.classList.remove('feed-item--expanded');
+    return;
+  }
+
+  // 다른 펼침 닫기
+  document.querySelectorAll('.feed-expand').forEach(e => e.remove());
+  document.querySelectorAll('.feed-item--expanded').forEach(e => e.classList.remove('feed-item--expanded'));
+
+  el.classList.add('feed-item--expanded');
+
+  const expand = document.createElement('div');
+  expand.className = 'feed-expand';
+  expand.innerHTML = `<div class="feed-expand__loading">번역 중…</div>`;
+  el.after(expand);
+  expand.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+
+  const lang = LANG_MAP[src.country] || 'en';
+  const [titleKo, descKo] = await Promise.all([
+    xlate(item.title, lang),
+    xlate(item.description || '', lang),
+  ]);
+
+  expand.innerHTML = `
+    <div class="feed-expand__title">${titleKo}</div>
+    <div class="feed-expand__desc">${descKo || '설명 없음'}</div>
+    <div class="feed-expand__actions">
+      <a href="${escapeAttr(item.url)}" target="_blank" rel="noopener" class="btn btn--primary">
+        원소스 보기 →
+      </a>
+      <button class="btn btn--outline feed-expand__add-btn">이번 주에 추가</button>
+    </div>
+  `;
+
+  expand.querySelector('.feed-expand__add-btn').addEventListener('click', () => {
+    openEditForm({ ...item, title: titleKo, description: descKo }, src);
+    expand.remove();
+    el.classList.remove('feed-item--expanded');
   });
 }
 
@@ -746,6 +807,88 @@ async function loadFeedSummary() {
   }
 }
 
+// ── 에세이 소스 제안 로드 ──
+async function loadEssaySuggestions() {
+  const panel = document.getElementById('essay-suggestions-panel');
+  if (!panel) return;
+
+  try {
+    const res = await fetch(`data/essay-suggestions.json?v=${Date.now()}`);
+    if (!res.ok) {
+      panel.innerHTML = `<p style="font-size:13px;color:var(--text-muted)">
+        아직 제안 목록이 없습니다.<br>
+        매년 <strong>1월 1일</strong>과 <strong>7월 1일</strong>에 GitHub Actions가 자동 수집합니다.<br>
+        지금 바로 보려면 Actions 탭에서 <em>에세이 소스 제안</em> 워크플로우를 수동 실행하세요.
+      </p>`;
+      return;
+    }
+
+    const data = await res.json();
+    const generated = data.generatedAt
+      ? new Date(data.generatedAt).toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' })
+      : '';
+
+    const themeTags = (data.themes || []).map(t =>
+      `<span style="display:inline-block;background:var(--bg-subtle);border:1px solid var(--border);
+        border-radius:12px;padding:2px 10px;font-size:12px;color:var(--text-muted);margin:2px">${t}</span>`
+    ).join('');
+
+    const sourceSections = (data.sources || []).map(s => {
+      const items = (s.items || []).slice(0, 4).map(item => `
+        <div style="padding:10px 12px;background:var(--bg);border:1px solid var(--border);
+          border-radius:var(--radius);margin-bottom:6px">
+          <div style="font-size:12px;color:var(--text-light);margin-bottom:3px">${item.date || ''}</div>
+          <div style="font-size:13px;font-weight:500;color:var(--text);line-height:1.4;margin-bottom:4px">
+            ${item.title || ''}
+          </div>
+          <div style="font-size:12px;color:var(--text-muted);line-height:1.5;
+            display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden;margin-bottom:6px">
+            ${item.description || ''}
+          </div>
+          <a href="${item.url || '#'}" target="_blank" rel="noopener"
+            style="font-size:11px;color:var(--accent)">원문 보기 →</a>
+        </div>
+      `).join('');
+
+      const langBadge = { en:'🇬🇧 영어', fr:'🇫🇷 프랑스어', it:'🇮🇹 이탈리아어', de:'🇩🇪 독일어' }[s.source.lang] || s.source.lang;
+
+      return `
+        <div style="margin-bottom:24px">
+          <div style="display:flex;align-items:center;gap:8px;margin-bottom:4px">
+            <span style="font-size:14px;font-weight:600;color:var(--text)">${s.source.name}</span>
+            <span style="font-size:11px;color:var(--text-light)">${langBadge}</span>
+            <a href="${s.source.url}" target="_blank" rel="noopener"
+              style="font-size:11px;color:var(--accent);margin-left:auto">사이트 →</a>
+          </div>
+          <div style="font-size:12px;color:var(--text-muted);margin-bottom:8px">${s.source.note}</div>
+          ${items}
+        </div>
+      `;
+    }).join('');
+
+    panel.innerHTML = `
+      <div style="background:var(--bg-subtle);border-radius:var(--radius);padding:14px 16px;margin-bottom:20px;font-size:13px;line-height:1.7">
+        <strong style="color:var(--text)">${data.season || ''} 에세이 소스 제안</strong>
+        &nbsp;·&nbsp; <span style="color:var(--text-muted)">${generated} 갱신</span><br>
+        <span style="color:var(--text-muted)">${data.hint || ''}</span>
+      </div>
+      <div style="margin-bottom:16px">
+        <div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:8px;text-transform:uppercase;letter-spacing:.5px">이번 시즌 추천 테마</div>
+        <div>${themeTags}</div>
+      </div>
+      <div style="margin-bottom:8px">
+        <div style="font-size:12px;font-weight:600;color:var(--text-muted);margin-bottom:12px;text-transform:uppercase;letter-spacing:.5px">소스별 추천 글</div>
+        ${sourceSections}
+      </div>
+      <p style="font-size:12px;color:var(--text-light);border-top:1px solid var(--border);padding-top:12px;margin-top:8px">
+        ${data.note || ''}
+      </p>
+    `;
+  } catch {
+    panel.innerHTML = `<p style="font-size:13px;color:var(--text-muted)">에세이 소스 제안을 불러올 수 없습니다.</p>`;
+  }
+}
+
 // ── PIN 변경 ──
 function changeOwnerPin() {
   const statusEl = document.getElementById('pin-change-status');
@@ -915,10 +1058,13 @@ function bindEvents() {
     if (actionsLink) actionsLink.href = `https://github.com/${ghOwner}/${ghRepo}/actions`;
   }
 
-  // 설정 탭이 열릴 때 피드 상태 로드
+  // 탭 전환 시 추가 로드
   document.querySelectorAll('.admin-tab').forEach(tab => {
     if (tab.dataset.tab === 'settings') {
       tab.addEventListener('click', loadFeedSummary);
+    }
+    if (tab.dataset.tab === 'essay') {
+      tab.addEventListener('click', loadEssaySuggestions);
     }
   });
 }

@@ -41,6 +41,7 @@
       <div class="admin-tabs">
         <button class="admin-tab active" data-tab="feed">소스 피드</button>
         <button class="admin-tab" data-tab="week">이번 주 목록</button>
+        <button class="admin-tab" data-tab="essay">에세이 소스</button>
         <button class="admin-tab" data-tab="settings">설정</button>
       </div>
 
@@ -78,6 +79,19 @@
             <span class="week-items__count" id="week-items-count">0개</span>
           </div>
           <div id="week-items-list"></div>
+        </div>
+      </div>
+
+      <!-- ── 에세이 소스 탭 ── -->
+      <div data-panel="essay" style="display:none">
+        <h2 style="font-family:var(--font-serif);font-size:20px;font-weight:700;margin-bottom:8px">에세이 소스 제안</h2>
+        <p style="font-size:13px;color:var(--text-muted);margin-bottom:24px;line-height:1.7">
+          에세이는 운영자가 직접 작성합니다. 이 목록은 매년 <strong>1월</strong>과 <strong>7월</strong>에 자동 갱신되는
+          국제 철학·인문 에세이 사이트의 최신 글 추천입니다.<br>
+          참고 소스를 읽고 영감을 얻어 <a href="write.html" style="color:var(--accent)">에세이 작성 →</a>
+        </p>
+        <div id="essay-suggestions-panel">
+          <p style="font-size:13px;color:var(--text-muted)">불러오는 중…</p>
         </div>
       </div>
 

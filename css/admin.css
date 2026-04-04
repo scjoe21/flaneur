@@ -157,6 +157,52 @@
 }
 .feed-item__btn--link:hover { color: var(--text); }
 
+/* ── 클릭형 피드 아이템 ── */
+.feed-item--clickable {
+  cursor: pointer;
+  display: block;
+}
+.feed-item--clickable .feed-item__hint {
+  font-size: 11px; color: var(--accent);
+  opacity: 0; transition: opacity 0.15s;
+  margin-top: 6px;
+}
+.feed-item--clickable:hover .feed-item__hint { opacity: 1; }
+.feed-item--expanded {
+  border-color: var(--accent);
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  background: #f9fdfb;
+}
+.feed-item--expanded .feed-item__hint { opacity: 0 !important; }
+
+/* ── 번역 펼침 패널 ── */
+.feed-expand {
+  background: #f9fdfb;
+  border: 1px solid var(--accent);
+  border-top: none;
+  border-radius: 0 0 var(--radius-lg) var(--radius-lg);
+  padding: 20px 18px 18px;
+  margin-bottom: 10px;
+}
+.feed-expand__loading {
+  font-size: 13px; color: var(--text-muted);
+  padding: 4px 0;
+}
+.feed-expand__title {
+  font-size: 15px; font-weight: 600;
+  color: var(--text); line-height: 1.45;
+  margin-bottom: 10px;
+}
+.feed-expand__desc {
+  font-size: 13px; color: var(--text-muted);
+  line-height: 1.75; margin-bottom: 16px;
+  white-space: pre-wrap;
+}
+.feed-expand__actions {
+  display: flex; gap: 10px; flex-wrap: wrap;
+}
+
 /* ── 편집 폼 ── */
 .edit-panel {
   background: var(--bg-card);
