@@ -1,0 +1,256 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>관리자 패널 — Flâneur</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/admin.css">
+</head>
+<body>
+
+<!-- ── 헤더 ── -->
+<header class="site-header">
+  <div class="container" style="max-width:100%">
+    <a href="index.html" class="site-logo">
+      <span class="site-logo__kr">Flâneur</span>
+    </a>
+    <nav class="site-nav">
+      <a href="index.html" class="nav-link">← 사이트 보기</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ── 관리자 레이아웃 ── -->
+<div class="admin-layout">
+
+  <!-- 왼쪽 사이드바: 소스 목록 -->
+  <aside class="admin-sidebar">
+    <div class="admin-week-info">
+      <strong>이번 주 소식 관리</strong>
+      소스를 선택하면 최신 피드를 불러옵니다. 항목을 선택하고 요약을 작성하세요.
+    </div>
+    <div id="source-list"></div>
+  </aside>
+
+  <!-- 오른쪽 메인 -->
+  <div style="display:flex;flex-direction:column;min-height:calc(100vh - 64px)">
+    <div class="admin-main" style="flex:1">
+
+      <!-- 탭 -->
+      <div class="admin-tabs">
+        <button class="admin-tab active" data-tab="feed">소스 피드</button>
+        <button class="admin-tab" data-tab="week">이번 주 목록</button>
+        <button class="admin-tab" data-tab="settings">설정</button>
+      </div>
+
+      <!-- ── 피드 탭 ── -->
+      <div data-panel="feed">
+        <div id="feed-area">
+          <div class="empty-state" style="padding:60px 20px">
+            <div class="empty-state__icon">👈</div>
+            <div class="empty-state__text">왼쪽에서 소스를 선택하면<br>최신 피드를 불러옵니다.</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- ── 이번 주 목록 탭 ── -->
+      <div data-panel="week" style="display:none">
+        <div style="margin-bottom:28px">
+          <h2 style="font-family:var(--font-serif);font-size:20px;font-weight:700;margin-bottom:20px">주간 설정</h2>
+          <div class="form-row">
+            <div class="form-group">
+              <label class="form-label">이번 주 주제 *</label>
+              <input type="text" class="form-input" id="meta-theme"
+                placeholder="예: 욕망과 절제: 우리는 왜 멈추지 못하는가">
+            </div>
+            <div class="form-group">
+              <label class="form-label">날짜 범위 *</label>
+              <input type="text" class="form-input" id="meta-week"
+                placeholder="예: 2026년 4월 6일 — 10일">
+            </div>
+          </div>
+        </div>
+
+        <div class="week-items">
+          <div class="week-items__header">
+            <span class="week-items__title">추가된 소식</span>
+            <span class="week-items__count" id="week-items-count">0개</span>
+          </div>
+          <div id="week-items-list"></div>
+        </div>
+      </div>
+
+      <!-- ── 설정 탭 ── -->
+      <div data-panel="settings" style="display:none">
+        <h2 style="font-family:var(--font-serif);font-size:20px;font-weight:700;margin-bottom:24px">설정</h2>
+
+        <!-- 피드 수집 상태 -->
+        <div style="margin-bottom:36px">
+          <h3 style="font-size:16px;font-weight:600;margin-bottom:12px">피드 수집 상태</h3>
+          <div style="background:var(--bg-subtle);border-radius:var(--radius);padding:16px 18px;margin-bottom:12px;font-size:13px;line-height:1.8;color:var(--text-muted)">
+            GitHub Actions가 <strong style="color:var(--text)">매일 오전 9시</strong>에 자동으로 모든 소스 피드를 수집합니다.<br>
+            수집된 데이터는 <code style="background:var(--bg);padding:1px 5px;border-radius:3px">data/feeds/</code> 폴더에 저장되며, 관리자 패널이 이를 우선 사용합니다.<br>
+            GitHub Actions 탭에서 수동 실행도 가능합니다.
+          </div>
+          <div id="feed-summary-panel" style="display:flex;flex-direction:column;gap:8px">
+            <p style="font-size:13px;color:var(--text-muted)">피드 상태 불러오는 중…</p>
+          </div>
+          <div style="margin-top:14px;display:flex;gap:10px;align-items:center;flex-wrap:wrap">
+            <button class="btn btn--outline" id="refresh-feeds-btn">↻ 피드 상태 새로고침</button>
+            <span style="font-size:12px;color:var(--text-muted)">
+              GitHub Actions 수동 실행:
+              <a id="gh-actions-link" href="#" target="_blank" style="color:var(--accent)">Actions 탭 열기 →</a>
+            </span>
+          </div>
+        </div>
+
+        <!-- YouTube API 키 -->
+        <div style="margin-bottom:36px">
+          <h3 style="font-size:16px;font-weight:600;margin-bottom:12px">YouTube Data API v3 키 (선택)</h3>
+          <div class="api-notice">
+            <strong>API 키 없이도 사용 가능합니다.</strong> YouTube RSS 피드로 최신 영상 목록을 불러올 수 있습니다.<br><br>
+            API 키를 입력하면 <strong>영상 검색 및 전체 설명 가져오기</strong>가 가능합니다.
+            API 키는 <a href="https://console.cloud.google.com" target="_blank">Google Cloud Console</a>에서 발급받으세요.
+            (YouTube Data API v3 활성화 필요, 무료 할당량: 10,000 유닛/일)
+            <div class="api-key-form">
+              <input type="password" class="api-key-input" id="yt-api-key"
+                placeholder="AIza...">
+              <button class="api-key-btn" id="save-api-btn">저장</button>
+            </div>
+          </div>
+        </div>
+
+        <!-- 운영자 PIN 설정 -->
+        <div style="margin-bottom:36px">
+          <h3 style="font-size:16px;font-weight:600;margin-bottom:6px">운영자 PIN 변경</h3>
+          <p style="font-size:13px;color:var(--text-muted);margin-bottom:14px">
+            메인 페이지 로고를 3번 클릭하면 PIN을 입력해 운영자 모드로 전환됩니다.<br>
+            기본값은 <code style="background:var(--bg);padding:2px 6px;border-radius:4px">0000</code>입니다. 변경하려면 새 PIN을 입력하고 저장하세요.
+          </p>
+          <div style="display:flex;gap:12px;align-items:flex-end;flex-wrap:wrap">
+            <div class="form-group" style="margin-bottom:0">
+              <label class="form-label">현재 PIN</label>
+              <input type="password" class="form-input" id="pin-current"
+                placeholder="현재 PIN" maxlength="8" style="width:160px;letter-spacing:4px;text-align:center">
+            </div>
+            <div class="form-group" style="margin-bottom:0">
+              <label class="form-label">새 PIN</label>
+              <input type="password" class="form-input" id="pin-new"
+                placeholder="새 PIN" maxlength="8" style="width:160px;letter-spacing:4px;text-align:center">
+            </div>
+            <div class="form-group" style="margin-bottom:0">
+              <label class="form-label">새 PIN 확인</label>
+              <input type="password" class="form-input" id="pin-confirm"
+                placeholder="새 PIN 재입력" maxlength="8" style="width:160px;letter-spacing:4px;text-align:center">
+            </div>
+            <button class="btn btn--primary" id="save-pin-btn" style="background:var(--accent);margin-bottom:1px">PIN 변경</button>
+          </div>
+          <p id="pin-change-status" style="font-size:13px;margin-top:10px;min-height:18px"></p>
+        </div>
+
+        <!-- GitHub 배포 설정 -->
+        <div style="margin-bottom:36px">
+          <h3 style="font-size:16px;font-weight:600;margin-bottom:6px">GitHub Pages 배포 설정</h3>
+          <p style="font-size:13px;color:var(--text-muted);margin-bottom:14px">
+            설정하면 "이번 주 발행" 버튼 클릭 한 번으로 사이트가 자동 업데이트됩니다.<br>
+            설정하지 않으면 JSON 파일 다운로드 → 수동 업로드 방식으로 작동합니다.
+          </p>
+          <div class="api-notice" style="background:#f0f6ef;border-color:#a8d5a0;color:#2a5a24">
+            <strong>GitHub Personal Access Token 발급 방법</strong><br>
+            GitHub → Settings → Developer settings → Personal access tokens → Tokens (classic)<br>
+            → Generate new token → <code style="background:#fff;padding:1px 5px;border-radius:3px">repo</code> 권한 체크 → 생성
+          </div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:14px;margin-bottom:12px">
+            <div class="form-group" style="margin-bottom:0">
+              <label class="form-label">GitHub 사용자명</label>
+              <input type="text" class="form-input" id="gh-owner" placeholder="예: username">
+            </div>
+            <div class="form-group" style="margin-bottom:0">
+              <label class="form-label">저장소 이름</label>
+              <input type="text" class="form-input" id="gh-repo" placeholder="예: flaneur">
+            </div>
+          </div>
+          <div class="form-group" style="margin-bottom:12px">
+            <label class="form-label">Personal Access Token</label>
+            <input type="password" class="form-input" id="gh-token" placeholder="ghp_...">
+          </div>
+          <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap">
+            <button class="btn btn--primary" id="save-gh-btn" style="background:var(--accent)">설정 저장</button>
+            <button class="btn btn--outline" id="gh-test-btn">연결 테스트</button>
+            <span id="gh-status" style="font-size:13px;color:var(--text-muted)"></span>
+          </div>
+        </div>
+
+        <!-- 소스 목록 안내 -->
+        <div style="margin-bottom:36px">
+          <h3 style="font-size:16px;font-weight:600;margin-bottom:12px">등록된 소스</h3>
+          <div id="sources-table" style="display:flex;flex-direction:column;gap:8px"></div>
+        </div>
+
+        <!-- 사용 방법 -->
+        <div style="margin-bottom:36px">
+          <h3 style="font-size:16px;font-weight:600;margin-bottom:12px">사용 방법</h3>
+          <div style="background:var(--bg-subtle);border-radius:var(--radius);padding:20px;font-size:14px;line-height:2;color:var(--text-muted)">
+            <strong style="color:var(--text);display:block;margin-bottom:8px">매주 콘텐츠 업데이트 과정</strong>
+            1. 왼쪽 소스 목록에서 채널을 선택합니다.<br>
+            2. 피드에서 이번 주 다룰 영상/글을 선택합니다.<br>
+            3. 한 줄 요약과 30~50줄 상세 설명을 작성합니다.<br>
+            4. "이번 주 소식에 추가" 버튼을 클릭합니다.<br>
+            5. 20개 내외 추가 후 하단 "이번 주 발행" 버튼을 클릭합니다.<br>
+            6. GitHub 설정이 되어 있으면 즉시 반영, 없으면 JSON 다운로드 후 <code style="background:var(--bg);padding:2px 6px;border-radius:4px">data/</code> 폴더에 교체합니다.<br><br>
+            <strong style="color:var(--text)">📌 피드가 안 불러와질 때</strong><br>
+            CORS 제한으로 인해 일부 피드는 직접 입력만 가능합니다.<br>
+            "직접 입력하기" 버튼을 이용해 원소스 URL과 내용을 직접 입력하세요.
+          </div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- ── 하단 발행 바 ── -->
+    <div class="publish-bar">
+      <div class="publish-bar__info" id="publish-info">
+        이번 주 소식 <strong>0개</strong> 준비됨
+      </div>
+      <div class="publish-bar__actions">
+        <button class="btn btn--ghost" id="reset-btn">초기화</button>
+        <button class="btn btn--primary" id="publish-btn">
+          이번 주 발행 →
+        </button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/admin.js"></script>
+<script>
+// 설정 탭 소스 테이블 렌더링
+document.addEventListener('DOMContentLoaded', () => {
+  fetch('data/sources.json?v=' + Date.now())
+    .then(r => r.json())
+    .then(d => {
+      const container = document.getElementById('sources-table');
+      if (!container) return;
+      d.sources.forEach(src => {
+        const el = document.createElement('div');
+        el.style.cssText = 'display:flex;align-items:center;gap:12px;padding:10px 14px;background:var(--bg-card);border:1px solid var(--border);border-radius:var(--radius);font-size:13px';
+        el.innerHTML = `
+          <span style="font-size:18px">${src.flag}</span>
+          <span style="font-weight:500;min-width:120px">${src.name}</span>
+          <span style="color:var(--text-muted);min-width:60px">${src.countryLabel}</span>
+          <span style="color:var(--text-light);min-width:60px">${{monday:'월요일',tuesday:'화요일',wednesday:'수요일',thursday:'목요일',friday:'금요일'}[src.day]}</span>
+          <span style="background:${src.type==='youtube'?'#fee2e2':'#fef3c7'};color:${src.type==='youtube'?'#dc2626':'#d97706'};padding:2px 8px;border-radius:8px;font-size:11px;font-weight:500">
+            ${src.type === 'youtube' ? 'YouTube' : 'RSS'}
+          </span>
+          <a href="${src.url}" target="_blank" style="color:var(--accent);font-size:12px;margin-left:auto">바로가기 →</a>
+        `;
+        container.appendChild(el);
+      });
+    });
+});
+</script>
+</body>
+</html>

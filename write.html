@@ -1,0 +1,176 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>에세이 쓰기 — Flâneur</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .write-layout {
+      display: grid;
+      grid-template-columns: 1fr 260px;
+      gap: 40px;
+      align-items: start;
+    }
+    .write-sidebar {
+      position: sticky; top: 80px;
+    }
+    .write-sidebar__title {
+      font-size: 12px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 1px;
+      color: var(--text-muted); margin-bottom: 14px;
+    }
+    .draft-item {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      margin-bottom: 10px;
+    }
+    .draft-item__date {
+      font-size: 11px; color: var(--text-light);
+      margin-bottom: 4px;
+    }
+    .draft-item__title {
+      font-size: 14px; font-weight: 500;
+      color: var(--text); margin-bottom: 10px;
+      line-height: 1.4;
+    }
+    .draft-item__actions {
+      display: flex; gap: 8px;
+    }
+    .draft-item__btn {
+      font-size: 12px; padding: 3px 10px;
+      border-radius: 6px; border: 1px solid var(--border);
+      color: var(--text-muted); background: var(--bg);
+      cursor: pointer; transition: var(--transition);
+    }
+    .draft-item__btn:hover {
+      border-color: var(--accent); color: var(--accent);
+    }
+    .draft-item__btn--delete:hover {
+      border-color: #dc2626; color: #dc2626;
+      background: #fef2f2;
+    }
+    .char-counter {
+      font-size: 12px; color: var(--text-light);
+      text-align: right; margin-top: 6px;
+    }
+    .write-hint {
+      font-size: 13px; color: var(--text-muted);
+      background: var(--bg-subtle);
+      border-radius: var(--radius);
+      padding: 14px 16px;
+      line-height: 1.65;
+      margin-bottom: 20px;
+    }
+    .write-hint strong { color: var(--text); }
+    @media (max-width: 900px) {
+      .write-layout { grid-template-columns: 1fr; }
+      .write-sidebar { position: static; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── 헤더 ── -->
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="site-logo">
+      <span class="site-logo__kr">Flâneur</span>
+    </a>
+    <nav class="site-nav">
+      <a href="index.html" class="nav-link">이번 주</a>
+      <a href="essay.html" class="nav-link nav-link--essay">에세이</a>
+      <a href="write.html" class="nav-link active">✍ 쓰기</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ── 쓰기 페이지 ── -->
+<main class="write-page">
+  <div class="container">
+    <div style="display:flex;align-items:center;justify-content:space-between;margin-bottom:32px;flex-wrap:wrap;gap:12px">
+      <h1 style="font-family:var(--font-serif);font-size:26px;font-weight:700" id="page-title">새 에세이 쓰기</h1>
+      <a href="essay.html" style="font-size:14px;color:var(--text-muted)">← 에세이 목록</a>
+    </div>
+
+    <div class="write-layout">
+      <!-- 에디터 -->
+      <div>
+        <div class="write-hint">
+          <strong>토요일 에세이 템플릿</strong><br>
+          ① 한국 일상의 구체적인 장면으로 시작 → ② 이번 주 철학적 시선 교차 적용 → ③ 나의 해석과 입장 제시 → ④ 독자 토론 질문으로 마무리
+        </div>
+
+        <input type="hidden" id="draft-id">
+
+        <div class="form-group">
+          <label class="form-label" for="essay-title-input">제목</label>
+          <input type="text" class="form-input" id="essay-title-input"
+            placeholder="예: \"빨리빨리\"와 스토아 — 속도의 철학">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="essay-subtitle-input">부제 (선택)</label>
+          <input type="text" class="form-input" id="essay-subtitle-input"
+            placeholder="예: 왜 한국인은 기다리지 못하는가, 그리고 그것은 덕인가 악인가">
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="essay-body-input">본문</label>
+          <textarea class="form-textarea" id="essay-body-input"
+            placeholder="일상의 구체적인 장면에서 시작해 보세요…&#10;&#10;에스컬레이터, 카페, 출퇴근 지하철 — 우리가 매일 스치는 장면들이 가장 좋은 철학의 출발점입니다."></textarea>
+          <div class="char-counter" id="char-counter">0줄 / 0자</div>
+        </div>
+
+        <div class="form-group">
+          <label class="form-label" for="essay-tags-input">태그 (쉼표로 구분)</label>
+          <input type="text" class="form-input" id="essay-tags-input"
+            placeholder="예: 빨리빨리, 스토아철학, 한국문화">
+        </div>
+
+        <div class="write-actions">
+          <button class="btn btn--save" id="save-btn">임시 저장</button>
+          <button class="btn btn--primary" id="publish-btn">발행하기</button>
+          <button class="btn btn--ghost" id="clear-btn">초기화</button>
+        </div>
+      </div>
+
+      <!-- 사이드바 -->
+      <aside class="write-sidebar">
+        <div class="write-sidebar__title">저장된 초안</div>
+        <div id="draft-list">
+          <p style="color:var(--text-muted);font-size:13px;">저장된 초안이 없습니다.</p>
+        </div>
+
+        <div style="margin-top:28px;padding-top:20px;border-top:1px solid var(--border)">
+          <div class="write-sidebar__title">이번 주 소식 참고</div>
+          <p style="font-size:13px;color:var(--text-muted);line-height:1.65">
+            이번 주 큐레이션된 소식을 참고해 에세이를 작성해 보세요. 다섯 나라의 시각이 하나의 주제로 수렴합니다.
+          </p>
+          <a href="index.html" class="btn btn--outline" style="margin-top:12px;width:100%;justify-content:center;font-size:13px">
+            이번 주 소식 보기 →
+          </a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+
+<!-- ── 푸터 ── -->
+<footer class="site-footer">
+  <div class="container">
+    <p class="footer-copy">© 2026 Flâneur. 철학적 일상의 큐레이션.</p>
+    <nav class="footer-nav">
+      <a href="index.html">이번 주</a>
+      <a href="essay.html">에세이</a>
+    </nav>
+  </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/write.js"></script>
+</body>
+</html>

@@ -1,0 +1,43 @@
+name: 피드 자동 수집
+
+on:
+  # 매일 오전 9시 KST (자정 UTC) 자동 실행
+  schedule:
+    - cron: '0 0 * * *'
+
+  # 관리자 패널에서 수동 실행 버튼
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: '실행 사유 (선택)'
+        required: false
+        default: '수동 실행'
+
+jobs:
+  fetch:
+    name: RSS / YouTube 피드 수집
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write   # 결과를 저장소에 커밋
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 환경
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 피드 수집 실행
+        run: python scripts/fetch_feeds.py
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config user.name  "flaneur-bot"
+          git config user.email "bot@flaneur.kr"
+          git add data/feeds/
+          # 변경사항 있을 때만 커밋
+          git diff --cached --quiet || \
+            git commit -m "자동 피드 수집 — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push

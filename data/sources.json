@@ -1,0 +1,117 @@
+{
+  "sources": [
+    {
+      "id": "monsieur-phi",
+      "name": "Monsieur Phi",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "youtube",
+      "channelId": "UCqA8H22FwgBVcF3GJpp0MQg",
+      "url": "https://www.youtube.com/@MonsieurPhi",
+      "description": "프랑스 철학 유튜버. 논증 구조와 개념 해설 중심.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqA8H22FwgBVcF3GJpp0MQg"
+    },
+    {
+      "id": "le-precepteur",
+      "name": "Le Précepteur",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "youtube",
+      "channelId": "UCB3n8MBZpRandGMEoOY20SA",
+      "url": "https://www.youtube.com/@LePrecepteur",
+      "description": "프랑스 철학 개념 해설 채널.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCB3n8MBZpRandGMEoOY20SA"
+    },
+    {
+      "id": "gert-scobel",
+      "name": "Gert Scobel",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "youtube",
+      "channelId": "UCkEl0ICOBLpGnbVtanQgmfQ",
+      "url": "https://www.youtube.com/@GertScobel",
+      "description": "ZDF 철학·과학 교차 분석. 과학적 인과론과 철학 결합.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCkEl0ICOBLpGnbVtanQgmfQ"
+    },
+    {
+      "id": "rick-dufer",
+      "name": "Rick DuFer",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "flag": "🇮🇹",
+      "day": "wednesday",
+      "type": "youtube",
+      "channelId": "UCOiGAYLRBnVPHFNaQ_-sBhA",
+      "url": "https://www.youtube.com/@RickDuFer",
+      "description": "이탈리아 철학 유튜버. 강한 서사성과 니체·대륙철학 중심.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCOiGAYLRBnVPHFNaQ_-sBhA"
+    },
+    {
+      "id": "tlon",
+      "name": "Tlon",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "flag": "🇮🇹",
+      "day": "wednesday",
+      "type": "youtube",
+      "channelId": "UCruzlGFNFCvPmyLV3GXGsCw",
+      "url": "https://www.youtube.com/@tlon_it",
+      "description": "이탈리아 철학 집단. 미디어·신화·문화 비판 중심.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCruzlGFNFCvPmyLV3GXGsCw"
+    },
+    {
+      "id": "philosophy-now",
+      "name": "Philosophy Now",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "rss",
+      "url": "https://philosophynow.org",
+      "description": "영국 철학 잡지. 응용윤리 및 시사 철학 중심.",
+      "rssUrl": "https://philosophynow.org/rss.php"
+    },
+    {
+      "id": "overthink",
+      "name": "Overthink Podcast",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "rss",
+      "url": "https://www.overthinkpodcast.com",
+      "description": "영국 페미니스트 철학 팟캐스트. 응용윤리·젠더·일상 철학.",
+      "rssUrl": "https://feeds.buzzsprout.com/1022415.rss"
+    },
+    {
+      "id": "daily-stoic",
+      "name": "Daily Stoic",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://dailystoic.com",
+      "description": "스토아 철학 실천 콘텐츠. 라이언 홀리데이 운영.",
+      "rssUrl": "https://dailystoic.com/feed/"
+    },
+    {
+      "id": "big-think",
+      "name": "Big Think",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://bigthink.com",
+      "description": "미국 지식 미디어. 과학·철학·사회 교차 콘텐츠.",
+      "rssUrl": "https://bigthink.com/feed/"
+    }
+  ]
+}

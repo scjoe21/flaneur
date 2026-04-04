@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Flâneur — 철학적 일상의 기록</title>
+  <meta name="description" content="일상과 철학이 만나는 곳. 한 사람의 철학적 산책 기록.">
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<!-- ── 헤더 ── -->
+<header class="site-header">
+  <div class="container">
+    <button class="site-logo" id="logo-btn" title="로고를 3번 클릭하면 운영자 모드">
+      <span class="site-logo__kr">Flâneur</span>
+    </button>
+
+    <!-- 공개 네비게이션 -->
+    <nav class="site-nav" id="nav-public">
+      <a href="#essay-archive" class="nav-link">에세이</a>
+      <a href="#about" class="nav-link">소개</a>
+    </nav>
+
+    <!-- 운영자 네비게이션 (숨김) -->
+    <nav class="site-nav" id="nav-owner" style="display:none">
+      <span class="owner-badge">운영자 모드</span>
+      <a href="index.html" class="nav-link active">이번 주</a>
+      <a href="essay.html" class="nav-link nav-link--essay">에세이</a>
+      <a href="write.html" class="nav-link">✍ 쓰기</a>
+      <a href="admin.html" class="nav-link">관리</a>
+      <button id="nav-saved" class="nav-link">저장함</button>
+      <button id="exit-owner-btn" class="nav-link nav-link--exit">나가기</button>
+    </nav>
+  </div>
+</header>
+
+<!-- ══════════════════════════════════════════
+     공개 화면 (방문자 기본)
+══════════════════════════════════════════ -->
+<div id="public-view">
+
+  <!-- 인트로 -->
+  <section class="flaneur-intro">
+    <div class="container--narrow">
+      <p class="flaneur-intro__label">Flâneur</p>
+      <h1 class="flaneur-intro__title">
+        일상을 걸으며<br>철학을 묻다
+      </h1>
+      <p class="flaneur-intro__desc">
+        출퇴근길, 식탁, 스마트폰 화면 앞 — 스쳐 지나가는 순간들에서<br>
+        철학적 질문을 발견하는 한 사람의 기록입니다.
+      </p>
+    </div>
+  </section>
+
+  <!-- 최신 에세이 -->
+  <section class="latest-essay-section">
+    <div class="container--narrow">
+      <div class="section-label">
+        <span class="section-label__title">최근 에세이</span>
+        <div class="section-label__line"></div>
+      </div>
+      <div id="latest-essay-card" class="latest-essay-card">
+        <div class="latest-essay-card__skeleton">불러오는 중…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 에세이 아카이브 -->
+  <section class="essay-archive-section" id="essay-archive">
+    <div class="container--narrow">
+      <div class="section-label">
+        <span class="section-label__title">에세이 전체</span>
+        <div class="section-label__line"></div>
+      </div>
+      <div id="essay-archive-list">
+        <div style="color:var(--text-muted);font-size:14px;padding:20px 0">불러오는 중…</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- 소개 -->
+  <section class="about-section" id="about">
+    <div class="container--narrow">
+      <div class="section-label">
+        <span class="section-label__title">이 공간에 대하여</span>
+        <div class="section-label__line"></div>
+      </div>
+      <div class="about-text">
+        <p>Flâneur는 19세기 파리의 도시를 유유히 걷던 산책자를 가리키는 말입니다. 목적지 없이 걷고, 거리의 장면들을 관찰하고, 그 안에서 의미를 발견하는 사람.</p>
+        <p>이 사이트는 그런 시선으로 일상을 바라보는 기록입니다. 매주 유럽 각국의 철학 채널에서 수집한 생각들을 읽고, 한국의 일상과 연결 짓는 에세이를 씁니다.</p>
+        <p>거창한 이론이 아니라, 오늘 아침 지하철에서 느낀 것, 식탁에서 나눈 대화, 퇴근길의 풍경 — 그 속에서 철학이 살아 있다고 믿습니다.</p>
+      </div>
+    </div>
+  </section>
+
+</div><!-- /public-view -->
+
+
+<!-- ══════════════════════════════════════════
+     운영자 화면 (PIN 인증 후)
+══════════════════════════════════════════ -->
+<div id="owner-view" style="display:none">
+
+  <!-- 히어로 -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero__week" id="hero-week"></div>
+      <h1 class="hero__theme" id="hero-theme"></h1>
+      <p class="hero__sub">월요일부터 금요일까지, 소스에서 수집된 이번 주 소식입니다.</p>
+      <div class="hero__meta">
+        <span class="hero__count" id="hero-count"></span>
+        <button class="saved-badge" id="saved-badge" style="display:none">
+          <span>★</span><span>저장한 내용</span>
+          <span class="count">0</span><span>개</span>
+        </button>
+      </div>
+    </div>
+  </section>
+
+  <main>
+    <div class="container">
+      <!-- 요일 탭 -->
+      <div class="day-tabs">
+        <div class="day-tabs__list" id="day-tabs"></div>
+      </div>
+
+      <!-- 뉴스 그리드 -->
+      <section class="news-section">
+        <div class="news-grid" id="news-grid">
+          <div class="empty-state">
+            <div class="empty-state__icon">⏳</div>
+            <div class="empty-state__text">소식을 불러오는 중입니다…</div>
+          </div>
+        </div>
+      </section>
+
+      <!-- 에세이 미리보기 -->
+      <section class="essay-section">
+        <div class="section-label">
+          <span class="section-label__title">이번 주 에세이</span>
+          <div class="section-label__line"></div>
+        </div>
+        <div class="essay-card" id="essay-card">
+          <div class="essay-card__content">
+            <div class="essay-card__label"></div>
+            <h2 class="essay-card__title"></h2>
+            <p class="essay-card__subtitle"></p>
+            <p class="essay-card__excerpt"></p>
+            <div class="essay-card__meta"></div>
+          </div>
+          <div class="essay-card__arrow">→</div>
+        </div>
+      </section>
+    </div>
+  </main>
+
+</div><!-- /owner-view -->
+
+
+<!-- ── 뉴스 모달 ── -->
+<div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true">
+  <div class="modal">
+    <button class="modal-close" id="modal-close">✕</button>
+    <div class="modal-meta">
+      <span class="modal-day"></span>
+      <span style="color:var(--border)">·</span>
+      <span class="modal-source"></span>
+    </div>
+    <h2 class="modal-title"></h2>
+    <div class="modal-body"></div>
+    <div class="modal-actions">
+      <button class="btn btn--primary" id="modal-source-btn">원문 보기 →</button>
+      <button class="btn btn--outline" id="modal-save-btn">☆ 저장하기</button>
+      <button class="btn btn--ghost" onclick="document.getElementById('modal-overlay').classList.remove('open');document.body.style.overflow=''">닫기</button>
+    </div>
+  </div>
+</div>
+
+<!-- ── 저장함 패널 ── -->
+<aside class="saved-panel" id="saved-panel">
+  <div class="saved-panel__header">
+    <h2 class="saved-panel__title">저장한 내용</h2>
+    <button class="modal-close" id="saved-panel-close">✕</button>
+  </div>
+  <div class="saved-panel__body" id="saved-panel-body">
+    <div class="saved-empty">아직 저장한 내용이 없습니다.</div>
+  </div>
+  <div class="saved-panel__footer">
+    <a href="saved.html" class="btn btn--outline" style="width:100%;justify-content:center">저장 목록 전체 보기</a>
+  </div>
+</aside>
+
+<!-- ── PIN 모달 ── -->
+<div class="pin-overlay" id="pin-overlay">
+  <div class="pin-modal">
+    <button class="modal-close" id="pin-close">✕</button>
+    <div class="pin-modal__icon">🗝</div>
+    <h2 class="pin-modal__title">운영자 모드</h2>
+    <p class="pin-modal__desc">PIN을 입력하면 이번 주 소식 피드를 볼 수 있습니다.</p>
+    <input type="password" class="pin-input" id="pin-input"
+      placeholder="PIN 입력" maxlength="8" inputmode="numeric" autocomplete="off">
+    <p class="pin-error" id="pin-error"></p>
+    <button class="btn btn--primary" id="pin-submit" style="width:100%;justify-content:center">확인</button>
+  </div>
+</div>
+
+<!-- ── 푸터 ── -->
+<footer class="site-footer">
+  <div class="container">
+    <p class="footer-copy">© 2026 Flâneur. 철학적 일상의 기록.</p>
+    <nav class="footer-nav">
+      <a href="essay.html">에세이 전체</a>
+    </nav>
+  </div>
+</footer>
+
+<div class="toast" id="toast"></div>
+
+<script src="js/main.js"></script>
+</body>
+</html>

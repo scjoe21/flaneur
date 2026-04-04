@@ -1,0 +1,307 @@
+/* =========================================
+   플라뇌르 관리자 패널 스타일
+   ========================================= */
+
+.admin-layout {
+  display: grid;
+  grid-template-columns: 280px 1fr;
+  min-height: calc(100vh - 64px);
+}
+
+/* ── 사이드바 ── */
+.admin-sidebar {
+  background: var(--bg-card);
+  border-right: 1px solid var(--border);
+  padding: 24px 16px;
+  position: sticky;
+  top: 64px;
+  height: calc(100vh - 64px);
+  overflow-y: auto;
+}
+.admin-sidebar__title {
+  font-size: 11px; font-weight: 600;
+  text-transform: uppercase; letter-spacing: 1px;
+  color: var(--text-muted); padding: 0 8px;
+  margin-bottom: 8px; margin-top: 20px;
+}
+.admin-sidebar__title:first-child { margin-top: 0; }
+
+.source-btn {
+  display: flex; align-items: center; gap: 10px;
+  width: 100%; padding: 10px 10px;
+  border-radius: var(--radius); text-align: left;
+  font-size: 13px; color: var(--text-muted);
+  transition: var(--transition);
+  border: 1px solid transparent;
+}
+.source-btn:hover { background: var(--bg-subtle); color: var(--text); }
+.source-btn.active {
+  background: var(--bg-subtle);
+  color: var(--text);
+  border-color: var(--border);
+}
+.source-btn__flag { font-size: 16px; flex-shrink: 0; }
+.source-btn__info { min-width: 0; }
+.source-btn__name { font-weight: 500; color: var(--text); font-size: 13px; }
+.source-btn__day  { font-size: 11px; color: var(--text-light); }
+.source-btn__badge {
+  margin-left: auto; flex-shrink: 0;
+  font-size: 10px; padding: 2px 6px;
+  border-radius: 8px;
+}
+.source-btn__badge--yt { background: #fee2e2; color: #dc2626; }
+.source-btn__badge--rss { background: #fef3c7; color: #d97706; }
+
+.admin-week-info {
+  margin: 0 8px 16px;
+  padding: 12px;
+  background: var(--bg-subtle);
+  border-radius: var(--radius);
+  font-size: 12px;
+  color: var(--text-muted);
+  line-height: 1.6;
+}
+.admin-week-info strong { color: var(--accent); display: block; margin-bottom: 4px; }
+
+/* ── 메인 콘텐츠 ── */
+.admin-main {
+  padding: 32px 36px;
+  max-width: 900px;
+}
+
+.admin-header {
+  margin-bottom: 28px;
+}
+.admin-header h2 {
+  font-family: var(--font-serif);
+  font-size: 22px; font-weight: 700;
+  margin-bottom: 6px;
+}
+.admin-header p { font-size: 14px; color: var(--text-muted); }
+
+/* ── RSS 피드 목록 ── */
+.feed-section { margin-bottom: 40px; }
+.feed-section__header {
+  display: flex; align-items: center;
+  justify-content: space-between;
+  margin-bottom: 16px;
+}
+.feed-section__title {
+  font-size: 14px; font-weight: 600;
+  display: flex; align-items: center; gap: 8px;
+}
+.feed-status {
+  font-size: 12px; color: var(--text-muted);
+}
+.feed-status--loading { color: var(--gold); }
+.feed-status--error   { color: #dc2626; }
+.feed-status--ok      { color: var(--accent); }
+
+.feed-list { display: flex; flex-direction: column; gap: 10px; }
+
+.feed-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 16px 18px;
+  display: grid;
+  grid-template-columns: 1fr auto;
+  gap: 14px;
+  align-items: start;
+  transition: var(--transition);
+}
+.feed-item:hover { border-color: var(--accent-lt); }
+.feed-item.selected {
+  border-color: var(--accent);
+  background: #f0f6ef;
+}
+.feed-item__date {
+  font-size: 11px; color: var(--text-light);
+  margin-bottom: 5px;
+}
+.feed-item__title {
+  font-size: 14px; font-weight: 500;
+  line-height: 1.4; color: var(--text);
+  margin-bottom: 6px;
+}
+.feed-item__desc {
+  font-size: 13px; color: var(--text-muted);
+  line-height: 1.55;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+.feed-item__actions {
+  display: flex; flex-direction: column;
+  gap: 6px; flex-shrink: 0;
+}
+.feed-item__btn {
+  font-size: 12px; padding: 6px 12px;
+  border-radius: 6px; white-space: nowrap;
+  transition: var(--transition);
+}
+.feed-item__btn--select {
+  background: var(--accent); color: #fff;
+}
+.feed-item__btn--select:hover { background: var(--accent-lt); }
+.feed-item__btn--select.selected {
+  background: var(--bg-subtle);
+  color: var(--accent);
+  border: 1px solid var(--accent);
+}
+.feed-item__btn--link {
+  background: var(--bg-subtle);
+  color: var(--text-muted);
+  border: 1px solid var(--border);
+}
+.feed-item__btn--link:hover { color: var(--text); }
+
+/* ── 편집 폼 ── */
+.edit-panel {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 28px;
+  margin-top: 24px;
+}
+.edit-panel__title {
+  font-family: var(--font-serif);
+  font-size: 18px; font-weight: 700;
+  margin-bottom: 20px;
+  padding-bottom: 16px;
+  border-bottom: 1px solid var(--border);
+}
+.form-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 16px;
+}
+@media (max-width: 700px) { .form-row { grid-template-columns: 1fr; } }
+
+.field-hint {
+  font-size: 11px; color: var(--text-light);
+  margin-top: 4px;
+}
+
+/* ── 이번 주 목록 ── */
+.week-items { margin-top: 40px; }
+.week-items__header {
+  display: flex; align-items: center;
+  justify-content: space-between; margin-bottom: 16px;
+}
+.week-items__title {
+  font-size: 16px; font-weight: 600;
+}
+.week-items__count {
+  font-size: 13px; color: var(--text-muted);
+}
+.week-item {
+  background: var(--bg-card);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 14px 16px;
+  display: flex; align-items: start;
+  gap: 14px; margin-bottom: 8px;
+  transition: var(--transition);
+}
+.week-item:hover { border-color: var(--border); box-shadow: var(--shadow-sm); }
+.week-item__drag {
+  color: var(--text-light); cursor: grab;
+  font-size: 16px; padding-top: 2px;
+  flex-shrink: 0;
+}
+.week-item__info { flex: 1; min-width: 0; }
+.week-item__meta {
+  font-size: 11px; color: var(--text-light); margin-bottom: 4px;
+}
+.week-item__title {
+  font-size: 14px; font-weight: 500; color: var(--text);
+  line-height: 1.4;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.week-item__actions { display: flex; gap: 6px; flex-shrink: 0; }
+.week-item__btn {
+  font-size: 11px; padding: 4px 10px;
+  border-radius: 6px; border: 1px solid var(--border);
+  color: var(--text-muted); background: var(--bg);
+  transition: var(--transition);
+}
+.week-item__btn:hover { color: var(--text); border-color: var(--text-muted); }
+.week-item__btn--delete:hover { color: #dc2626; border-color: #dc2626; background: #fef2f2; }
+
+/* ── 주간 발행 ── */
+.publish-bar {
+  position: sticky; bottom: 0;
+  background: var(--bg-card);
+  border-top: 1px solid var(--border);
+  padding: 16px 36px;
+  display: flex; align-items: center;
+  justify-content: space-between;
+  box-shadow: 0 -4px 16px rgba(0,0,0,.06);
+  z-index: 50;
+}
+.publish-bar__info { font-size: 14px; color: var(--text-muted); }
+.publish-bar__info strong { color: var(--text); }
+.publish-bar__actions { display: flex; gap: 10px; }
+
+/* ── API 키 설정 ── */
+.api-notice {
+  background: #fef8ec;
+  border: 1px solid #f5d87a;
+  border-radius: var(--radius);
+  padding: 14px 18px;
+  font-size: 13px;
+  color: #92600a;
+  line-height: 1.65;
+  margin-bottom: 20px;
+}
+.api-notice a { color: var(--gold); text-decoration: underline; }
+.api-key-form {
+  display: flex; gap: 10px; margin-top: 10px;
+}
+.api-key-input {
+  flex: 1; padding: 8px 12px;
+  border: 1px solid #f5d87a;
+  border-radius: 6px; font-size: 13px;
+  background: #fff; color: var(--text);
+}
+.api-key-input:focus {
+  outline: none; border-color: var(--gold);
+}
+.api-key-btn {
+  padding: 8px 16px; border-radius: 6px;
+  background: var(--gold); color: #fff;
+  font-size: 13px; font-weight: 500;
+}
+
+/* ── 탭 ── */
+.admin-tabs {
+  display: flex; gap: 0;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 28px;
+}
+.admin-tab {
+  padding: 10px 20px;
+  font-size: 14px; font-weight: 500;
+  color: var(--text-muted);
+  border-bottom: 2px solid transparent;
+  margin-bottom: -1px;
+  transition: var(--transition);
+}
+.admin-tab:hover { color: var(--text); }
+.admin-tab.active { color: var(--accent); border-bottom-color: var(--accent); }
+
+/* ── 반응형 ── */
+@media (max-width: 900px) {
+  .admin-layout { grid-template-columns: 1fr; }
+  .admin-sidebar {
+    position: static; height: auto;
+    display: flex; flex-wrap: wrap; gap: 6px;
+    padding: 16px;
+  }
+  .admin-sidebar__title { width: 100%; }
+  .source-btn { width: auto; flex-direction: row; }
+  .admin-main { padding: 20px 16px; }
+  .publish-bar { padding: 14px 16px; }
+}

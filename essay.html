@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>에세이 — Flâneur</title>
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    .essay-list-item {
+      display: block;
+      padding: 14px 16px;
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      margin-bottom: 10px;
+      transition: var(--transition);
+      background: var(--bg-card);
+    }
+    .essay-list-item:hover {
+      border-color: #d4c8f0;
+      background: #f8f5fd;
+    }
+    .essay-list-item__label {
+      font-size: 11px; color: var(--essay);
+      font-weight: 500; margin-bottom: 4px;
+    }
+    .essay-list-item__title {
+      font-size: 15px; font-weight: 500; color: var(--text);
+    }
+    .essay-sidebar {
+      position: sticky; top: 80px;
+    }
+    .essay-sidebar__title {
+      font-size: 12px; font-weight: 600;
+      text-transform: uppercase; letter-spacing: 1px;
+      color: var(--text-muted); margin-bottom: 14px;
+    }
+    .essay-layout {
+      display: grid;
+      grid-template-columns: 1fr 260px;
+      gap: 48px;
+      align-items: start;
+    }
+    @media (max-width: 900px) {
+      .essay-layout { grid-template-columns: 1fr; }
+      .essay-sidebar { position: static; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ── 헤더 ── -->
+<header class="site-header">
+  <div class="container">
+    <a href="index.html" class="site-logo">
+      <span class="site-logo__kr">Flâneur</span>
+    </a>
+    <nav class="site-nav">
+      <a href="index.html" class="nav-link">이번 주</a>
+      <a href="essay.html" class="nav-link nav-link--essay active">에세이</a>
+      <a href="write.html" class="nav-link">✍ 쓰기</a>
+    </nav>
+  </div>
+</header>
+
+<!-- ── 에세이 본문 ── -->
+<main class="essay-page">
+  <div class="container">
+    <button class="essay-back" id="back-btn">
+      ← 이번 주 소식으로
+    </button>
+
+    <div class="essay-layout">
+      <!-- 본문 -->
+      <article>
+        <header class="essay-header">
+          <div class="essay-header__label" id="essay-label"></div>
+          <h1 class="essay-header__title" id="essay-title">불러오는 중…</h1>
+          <p class="essay-header__subtitle" id="essay-subtitle"></p>
+          <div class="essay-header__meta" id="essay-meta"></div>
+        </header>
+
+        <div class="essay-divider"></div>
+
+        <div class="essay-body" id="essay-body"></div>
+
+        <div class="card-tags" id="essay-tags" style="margin-top:32px"></div>
+
+        <div style="margin-top:40px;padding-top:28px;border-top:1px solid var(--border);display:flex;gap:12px;flex-wrap:wrap">
+          <a href="write.html" class="btn btn--outline">✍ 새 에세이 쓰기</a>
+          <a href="index.html" class="btn btn--ghost">← 이번 주 소식</a>
+        </div>
+      </article>
+
+      <!-- 사이드바: 다른 에세이 -->
+      <aside class="essay-sidebar">
+        <div class="essay-sidebar__title">다른 에세이</div>
+        <div id="essay-list">
+          <p style="color:var(--text-muted);font-size:13px;">불러오는 중…</p>
+        </div>
+        <div style="margin-top:20px">
+          <a href="write.html" class="btn btn--outline" style="width:100%;justify-content:center;font-size:13px">
+            ✍ 새 에세이 쓰기
+          </a>
+        </div>
+      </aside>
+    </div>
+  </div>
+</main>
+
+<!-- ── 푸터 ── -->
+<footer class="site-footer">
+  <div class="container">
+    <p class="footer-copy">© 2026 Flâneur. 철학적 일상의 큐레이션.</p>
+    <nav class="footer-nav">
+      <a href="index.html">이번 주</a>
+      <a href="write.html">글쓰기</a>
+    </nav>
+  </div>
+</footer>
+
+<script src="js/essay.js"></script>
+</body>
+</html>
