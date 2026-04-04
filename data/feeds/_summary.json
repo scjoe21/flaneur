@@ -1,8 +1,17 @@
 {
-  "lastRun": null,
-  "ok": [],
+  "lastRun": "2026-04-04T08:44:52.686417+00:00",
+  "ok": [
+    "monsieur-phi",
+    "le-precepteur",
+    "gert-scobel",
+    "rick-dufer",
+    "tlon",
+    "philosophy-now",
+    "overthink",
+    "daily-stoic",
+    "big-think"
+  ],
   "fail": [],
-  "total": 0,
-  "fetched": 0,
-  "note": "GitHub Actions 첫 실행 전입니다. 배포 후 자동 수집됩니다."
+  "total": 9,
+  "fetched": 9
 }
