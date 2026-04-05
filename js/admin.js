@@ -457,15 +457,21 @@ function openEditForm(feedItem, src) {
   document.getElementById('feed-list').after(panel);
   panel.scrollIntoView({ behavior: 'smooth', block: 'start' });
 
-  // 줄 수 카운터
+  // 줄 수 / 글자 수 카운터
   const detailInput = panel.querySelector('#edit-detail');
   const counter = panel.querySelector('#edit-detail-counter');
-  detailInput.addEventListener('input', () => {
-    const lines = detailInput.value.split('\n').length;
+  function updateDetailCounter() {
     const chars = detailInput.value.length;
-    counter.textContent = `${lines}줄 / ${chars}자`;
-    counter.style.color = lines >= 30 ? 'var(--accent)' : 'var(--text-light)';
-  });
+    const lines = detailInput.value.split('\n').length;
+    let label, cls;
+    if (chars < 800)       { label = '부족';  cls = 'field-hint--short'; }
+    else if (chars <= 1200) { label = '적절';  cls = 'field-hint--ok';    }
+    else                    { label = '과다';  cls = 'field-hint--long';  }
+    counter.textContent = `${chars}자 / ${lines}줄 — ${label} (권장 800~1,200자)`;
+    counter.className = `field-hint ${cls}`;
+  }
+  detailInput.addEventListener('input', updateDetailCounter);
+  updateDetailCounter();
 
   panel.querySelector('#edit-add-btn').addEventListener('click', () => addToWeek(src));
   panel.querySelector('#edit-cancel-btn').addEventListener('click', () => panel.remove());
@@ -614,9 +620,18 @@ function openEditExisting(item) {
 
     const detailInput = panel.querySelector('#edit-detail');
     const counter     = panel.querySelector('#edit-detail-counter');
-    detailInput.addEventListener('input', () => {
-      counter.textContent = `${detailInput.value.split('\n').length}줄`;
-    });
+    function updateDetailCounterEdit() {
+      const chars = detailInput.value.length;
+      const lines = detailInput.value.split('\n').length;
+      let label, cls;
+      if (chars < 800)       { label = '부족';  cls = 'field-hint--short'; }
+      else if (chars <= 1200) { label = '적절';  cls = 'field-hint--ok';    }
+      else                    { label = '과다';  cls = 'field-hint--long';  }
+      counter.textContent = `${chars}자 / ${lines}줄 — ${label} (권장 800~1,200자)`;
+      counter.className = `field-hint ${cls}`;
+    }
+    detailInput.addEventListener('input', updateDetailCounterEdit);
+    updateDetailCounterEdit();
 
     panel.querySelector('#edit-update-btn').addEventListener('click', () => {
       const idx = newsData.items.findIndex(i => i.id === item.id);

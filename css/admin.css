@@ -229,6 +229,9 @@
   font-size: 11px; color: var(--text-light);
   margin-top: 4px;
 }
+.field-hint--short  { color: var(--text-muted); }
+.field-hint--ok     { color: #4caf82; }
+.field-hint--long   { color: var(--accent); }
 
 /* ── 이번 주 목록 ── */
 .week-items { margin-top: 40px; }
