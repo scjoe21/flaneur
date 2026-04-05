@@ -663,6 +663,7 @@ img { max-width: 100%; }
 .flaneur-intro__desc {
   font-size: 16px; line-height: 1.8;
   color: var(--text-muted);
+  word-break: keep-all; overflow-wrap: break-word;
 }
 
 /* ── 공개 화면 — 최신 에세이 ── */
@@ -783,6 +784,7 @@ img { max-width: 100%; }
 .about-text p {
   font-size: 15px; line-height: 1.85;
   color: var(--text-muted);
+  word-break: keep-all; overflow-wrap: break-word;
 }
 
 /* ── PIN 모달 ── */
@@ -882,6 +884,7 @@ img { max-width: 100%; }
 
 @media (max-width: 480px) {
   .container { padding: 0 16px; }
+  .container--narrow { padding: 0 16px; }
   .modal { padding: 22px 18px; }
 }
 
