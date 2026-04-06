@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-04-05T01:55:38.956660+00:00",
+  "fetchedAt": "2026-04-06T01:56:36.172357+00:00",
   "items": [
     {
       "title": "Le paradoxe de la tolérance",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Les lois du pouvoir",
+      "url": "https://www.youtube.com/shorts/XNFI6oV0xtk",
+      "description": "Au début du XVIe siècle, à Florence, Nicolas Machiavel observe les complots, les trahisons et les guerres qui déchirent l’Italie. Dans cette vidéo, je vous explique pourquoi, selon lui, la politique ne doit pas obéir à la morale, mais à l’efficacité, et en quoi gouverner consiste moins à être vertueux qu’à savoir manipuler le peuple.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #machiavel #politique #pouvoir #morale",
+      "date": "2026-04-05",
+      "thumbnail": "https://i1.ytimg.com/vi/XNFI6oV0xtk/hqdefault.jpg",
+      "videoId": "XNFI6oV0xtk",
+      "priority": 49,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 49
       }
     },
     {
@@ -112,22 +128,6 @@
         "phil": 15,
         "flaneur": 0,
         "novelty": 5,
-        "total": 35
-      }
-    },
-    {
-      "title": "Le cogito",
-      "url": "https://www.youtube.com/shorts/ZpHYd9zLhek",
-      "description": "Au XVIIe siècle, alors que la science bouleverse toutes les certitudes, Descartes décide de tout remettre en question, y compris ses propres pensées. Dans cette vidéo, je vous explique pourquoi il choisit de douter de tout et comment l'idée « Je pense, donc je suis » a marqué le véritable point de départ de la philosophie moderne.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #descartes #cogito #penséemoderne",
-      "date": "2026-02-25",
-      "thumbnail": "https://i3.ytimg.com/vi/ZpHYd9zLhek/hqdefault.jpg",
-      "videoId": "ZpHYd9zLhek",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 35
       }
     },
