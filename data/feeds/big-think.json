@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-06T01:56:39.289396+00:00",
+  "fetchedAt": "2026-04-07T01:52:50.503710+00:00",
   "items": [
     {
       "title": "This isn’t a trip, it’s the most challenging therapy session of your life",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Reboot your mind for flow, unanxiousness, and resilience",
+      "url": "https://bigthink.com/series/the-big-think-interview/manage-your-mind-compilation/",
+      "description": "When you think about the word “anxiety,” it likely comes with a negative connotation. But anxiety is a normal human emotion that nearly all of us experience. Reframing anxiety as a tool for change, adopting concepts from Zen Buddhism, and striving to live in a ‘flow state’ can quell the negative thoughts we experience and amplify your mind’s abilities. \n Optimizing your brain so that you can work in harmony with your thoughts is entirely possible. These 3 experts explain how we can work with our",
+      "date": "Sun, 05 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2024/08/A1-Web-Mind.jpg?w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
       "title": "The hidden reason smart people stop growing",
       "url": "https://bigthink.com/series/the-big-think-interview/robert-herjavec-mentorship/",
       "description": "Most people spend years searching for a mentor who will change their life, never realizing the most valuable lessons are already happening around them.  \n Shark Tank’s Robert Herjavec breaks down why the traditional idea of mentorship is not only outdated, but actively getting in the way of your growth. \n This video  The hidden reason smart people stop growing  is featured on  Big Think .",
@@ -52,32 +68,16 @@
       }
     },
     {
-      "title": "What 1,000-year-old companies know about resilience",
-      "url": "https://bigthink.com/the-long-game/what-1000-year-old-companies-know-about-resilience/",
-      "description": "Not long ago, I found myself in line at my local dry cleaner. It’s a modest shop, the kind of place you’ve passed a thousand times without a second thought. But the man behind the counter — let’s call him Howard — is not a modest man. He pays an almost fussy, forensic level of attention to every customer. He remembers names and checks garment tags twice. He asks follow-up questions about a persistent wine stain on a lapel that suggest he genuinely, deeply cares about the outcome of his work. \n W",
-      "date": "Tue, 31 Mar 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/trees-web-1.jpg?w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "The flimsy case for evolving dark energy",
-      "url": "https://bigthink.com/starts-with-a-bang/flimsy-case-evolving-dark-energy/",
-      "description": "There’s a legendary bit of wisdom that applies just as well to theoretical physics as it does to  the drug culture from which it arose : “Don’t get high on your own supply.” While theoretical physicists are famous for coming up with extraordinary, creative, exotic scenarios for what may yet be possible in the Universe, there’s a great danger in buying into such an idea, and thinking that it’s likely, before a sufficient amount of supporting evidence has been found in favor of it. This was the fa",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/01/noirlab2408c.jpg?w=640",
+      "title": "“Agreeable Gray”: How color vanished from modern life (and why it’s coming back)",
+      "url": "https://bigthink.com/strange-maps/grayening-why-everything-is-gray/",
+      "description": "No, you haven’t suddenly gone colorblind. This map is in color. In fact, it is a map  of  color — specifically, of each U.S. state’s favorite house paint color. It’s just that those favorites look like a swatch book for a funeral parlor — like fifty shades of gray. \n Well, gray- ish . From Hawaii to Maine, from Alaska to Florida, the most popular shade for your home’s exterior is some variation of gray, off-white, beige, or greige — a hue so existentially undecided that it can’t commit to being ",
+      "date": "Mon, 06 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Grayening_16x9.jpg?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -100,35 +100,35 @@
       }
     },
     {
-      "title": "We saved the world once — we can do it again",
-      "url": "https://bigthink.com/strange-maps/ozone-hole/",
-      "description": "In the late 20 th  century, the world came together to plug a hole in the ozone layer — the part of Earth’s atmosphere that absorbs most of the Sun’s harmful ultraviolet radiation. If left unchecked, this hole would have exposed life on Earth to dangerous — and in some regions potentially lethal — levels of radiation, but an international treaty brought us back from the brink of disaster. \n That treaty, the Montreal Protocol, is a lesson in human resilience: We  can  save the world, because we a",
-      "date": "Tue, 31 Mar 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/strangemps.jpg?w=640",
+      "title": "40 years ago, “Frames of Mind” cracked open the idea of intelligence. It’s not done.",
+      "url": "https://bigthink.com/books/frames-of-mind/",
+      "description": "“Who owns intelligence?” \n Howard Gardner, a developmental psychologist and the John H. and Elisabeth A. Hobbs Research Professor of Cognition and Education at Harvard University, has  grappled with thi s   question of late . Who gets to be the arbiter of what intelligence is and who, or what, has it? \n More than a century ago, psychometricians staked their claim by proposing the almighty  g , or general intelligence. They measured it with IQ tests, which assess cognitive abilities such as verba",
+      "date": "Mon, 06 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/intelligence-thumbnail.jpg?w=640",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
         "daily": 10,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     },
     {
-      "title": "The Roots of Resilience",
-      "url": "https://bigthink.com/collections/the-roots-of-resilience/",
-      "description": "In this monthly issue, we look at resilience not as a buzzword or a self-help prescription, but as a property — one that shows up, or doesn’t, at every scale.",
-      "date": "Tue, 31 Mar 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/resilience-cover-sq.jpg?w=640",
+      "title": "Something special is happening in space right now",
+      "url": "https://bigthink.com/starts-with-a-bang/something-special-happening-space/",
+      "description": "Until April of 2026, only 24 astronauts had ever left low-Earth orbit. \n \n \n \n The Apollo 11 crew, after safely returning to Earth from their historic voyage to the Moon, are shown in the Mobile Quarantine Facility alongside then-President Nixon. All 24 astronauts who journeyed to the Moon as part of the Apollo program, either orbiting or landing on it, were safely returned to Earth.\n \n Credit : NASA/JSC \n \n \n In 1968,  Apollo astronaut Bill Anders  — one of the first — captured  this iconic pho",
+      "date": "Mon, 06 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/art002e008486large.jpg?w=640",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "novelty": 5,
+        "total": 10
       }
     },
     {
