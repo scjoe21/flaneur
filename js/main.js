@@ -289,7 +289,8 @@ function openModal(item) {
 
   const body = overlay.querySelector('.modal-body');
   body.textContent = item.detail;
-  body.onmouseup = () => showClipTooltip(item);
+  body.onmouseup = null;
+  body.ontouchend = () => setTimeout(() => showClipTooltip(item), 100);
 
   overlay.querySelector('#modal-source-btn').onclick =
     () => window.open(item.sourceUrl, '_blank', 'noopener');
