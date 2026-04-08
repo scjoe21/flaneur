@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-07T01:52:50.503710+00:00",
+  "fetchedAt": "2026-04-08T01:53:34.571480+00:00",
   "items": [
     {
       "title": "This isn’t a trip, it’s the most challenging therapy session of your life",
@@ -52,23 +52,7 @@
       }
     },
     {
-      "title": "The hidden reason smart people stop growing",
-      "url": "https://bigthink.com/series/the-big-think-interview/robert-herjavec-mentorship/",
-      "description": "Most people spend years searching for a mentor who will change their life, never realizing the most valuable lessons are already happening around them.  \n Shark Tank’s Robert Herjavec breaks down why the traditional idea of mentorship is not only outdated, but actively getting in the way of your growth. \n This video  The hidden reason smart people stop growing  is featured on  Big Think .",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/A1-Web-Herjavec.jpg?w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "“Agreeable Gray”: How color vanished from modern life (and why it’s coming back)",
+      "title": "How the modern world turned gray (and why color may be coming back)",
       "url": "https://bigthink.com/strange-maps/grayening-why-everything-is-gray/",
       "description": "No, you haven’t suddenly gone colorblind. This map is in color. In fact, it is a map  of  color — specifically, of each U.S. state’s favorite house paint color. It’s just that those favorites look like a swatch book for a funeral parlor — like fifty shades of gray. \n Well, gray- ish . From Hawaii to Maine, from Alaska to Florida, the most popular shade for your home’s exterior is some variation of gray, off-white, beige, or greige — a hue so existentially undecided that it can’t commit to being ",
       "date": "Mon, 06 Apr 2026",
@@ -84,19 +68,19 @@
       }
     },
     {
-      "title": "Ghost map: Europe’s first glimpse of Tenochtitlan shows a city already destroyed",
-      "url": "https://bigthink.com/strange-maps/aztec-capital-map/",
-      "description": "For early 16th-century Europeans, this map was a revelation. It showed a previously unknown island metropolis in the recently discovered Americas — an alien Venice, if you will. \n However, by the time this first European portrait of the Aztec capital Tenochtitlan was published in 1524, the city, once home to perhaps 200,000 people, was already gone — razed in 1521 by Spanish  conquistador  Hernán Cortés. In its place, Mexico City would eventually rise. \n Yet this is more than the ghost map of a ",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/tenoch-grande.jpg?w=640",
+      "title": "What chess’s “intermezzo” moves can teach us about making better life decisions",
+      "url": "https://bigthink.com/books/thinking-sideways/",
+      "description": "Sneaky sideways moves that strong chess players swear by are called “intermezzos,” or “in-between moves.” The American chess genius and unofficial World Champion Paul Morphy executed these many times in the New Orleans cafés where he won game after game in the 1800s. Morphy’s move seemed obvious. Why not just recapture the piece that was just taken? But then, BOOM. Morphy interrupted the sequence with a different aggressive move, throwing his opponent’s position into turmoil. Intermezzos are sho",
+      "date": "Tue, 07 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/thinking-sideways_excerpt.jpg?w=640",
       "videoId": "",
-      "priority": 18,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 15,
         "phil": 0,
-        "flaneur": 8,
-        "novelty": 5,
-        "total": 18
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
       }
     },
     {
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Astronomers just found the most pristine star of all time",
+      "url": "https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/",
+      "description": "Long ago, far beyond our deepest views of the cosmos, stars formed in the Universe for the very first time. It’s not a complete surprise that  we haven’t spotted them  yet; made almost entirely of hydrogen and helium alone, they were extremely massive and short-lived compared to the stars we see today. However, once those first stars die, their ejecta — depending on your perspective — either “enrich” or “pollute” the interstellar medium around them, meaning that the next generation of stars to f",
+      "date": "Tue, 07 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/mps.jpg?w=640",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-04-07T01:52:49.024930+00:00",
+  "fetchedAt": "2026-04-08T01:53:33.281259+00:00",
   "items": [
     {
       "title": "Talking Politics with Sarah Stein Lubrano",
@@ -84,22 +84,6 @@
       }
     },
     {
-      "title": "Cuteness",
-      "url": "",
-      "description": "What do Labubus, Beanie Babies, Hello Kitty, and Furbies have in common? They’re all cute! In episode 153 of Overthink, Ellie and David discuss cuteness. From the idea of cuteness as a logic of contagion to the evolutionary explanation for why we find babies so adorable, this episode has it all. How is the increasing demand for shortform content a symptom of cuteification? What are the harms of categorizing certain animals as cute? In what ways is cuteness tied to consumption? And is society hea",
-      "date": "Tue, 23 Dec 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
       "title": "Closer Look: Haraway, Cyborg Manifesto",
       "url": "",
       "description": "Is the way we interact with technology moving us towards a cyborg future? In episode 164 of Overthink, Ellie and David take a closer look at Donna Haraway’s seminal essay, “A Cyborg Manifesto,” in which Haraway critiques the increasing technologization of everyday life and questions what it means to be a feminist and a socialist in the age of informatics and cybernetics. They discuss her critique of identity politics, her notion of the “homework economy,” the increase of miniaturization in techn",
@@ -113,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "Closer Look: Levinas, On Escape",
+      "url": "",
+      "description": "Why do we seek to escape from ourselves? In episode 168 of Overthink, Ellie and David take a closer look at Emmanuel Levinas’s article “On Escape.” They discuss Levinas’s claim that escape is central to the human condition and explore what exactly we try to escape from and escape to. They explain how this aspect of human existence is crystallized by our experiences of need, pleasure, and even nausea. Are we condemned to being needy beings? How does Levinas’s view of shame put him at a distance f",
+      "date": "Tue, 07 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
