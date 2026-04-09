@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-04-07T01:52:47.160797+00:00",
+  "fetchedAt": "2026-04-09T01:45:33.592676+00:00",
   "items": [
     {
       "title": "Le paradoxe de la tolérance",
@@ -116,19 +116,19 @@
       }
     },
     {
-      "title": "La liberté est une illusion",
-      "url": "https://www.youtube.com/shorts/ZTnJ20WwV_A",
-      "description": "Chez Baruch Spinoza, la liberté est une illusion. Nous croyons choisir librement, alors que nos désirs et nos décisions sont déterminés par des causes que nous ignorons. Dans cette vidéo, je vous explique pourquoi Spinoza défend cette idée, et en quoi elle peut paradoxalement nous rendre plus lucides et plus libres.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #spinoza #liberté #déterminisme",
-      "date": "2026-03-01",
-      "thumbnail": "https://i3.ytimg.com/vi/ZTnJ20WwV_A/hqdefault.jpg",
-      "videoId": "ZTnJ20WwV_A",
-      "priority": 35,
+      "title": "L'expérience de Milgram",
+      "url": "https://www.youtube.com/shorts/16vl46yTVGA",
+      "description": "En 1961, le psychologue américain Stanley Milgram met au point une expérience pour comprendre jusqu’où des individus ordinaires peuvent obéir à une autorité. Dans cette vidéo, je vous explique pourquoi, selon lui, nous sommes capables d’infliger de la souffrance à autrui dès lors qu’une autorité nous en donne l’ordre, et en quoi la responsabilité morale ne disparaît jamais derrière l’obéissance.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #milgram #psychologie #",
+      "date": "2026-04-08",
+      "thumbnail": "https://i2.ytimg.com/vi/16vl46yTVGA/hqdefault.jpg",
+      "videoId": "16vl46yTVGA",
+      "priority": 39,
       "scoreDetail": {
         "daily": 15,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
       }
     },
     {
