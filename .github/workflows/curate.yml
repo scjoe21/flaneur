@@ -1,0 +1,47 @@
+name: 주간 AI 큐레이션
+
+on:
+  # 매주 월요일 오전 9시 30분 KST (0시 30분 UTC) — 피드 수집 완료 후 실행
+  schedule:
+    - cron: '30 0 * * 1'
+
+  # 수동 실행 (관리자 패널 또는 Actions 탭)
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: '실행 사유 (선택)'
+        required: false
+        default: '수동 실행'
+
+jobs:
+  curate:
+    name: AI 큐레이션 (요일별 3개 선택 + 한국어 요약)
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: 저장소 체크아웃
+        uses: actions/checkout@v4
+
+      - name: Python 환경
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: 의존성 설치
+        run: pip install anthropic
+
+      - name: AI 큐레이션 실행
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/curate.py
+
+      - name: 변경사항 커밋 및 푸시
+        run: |
+          git config user.name  "flaneur-bot"
+          git config user.email "bot@flaneur.kr"
+          git add data/news.json
+          git diff --cached --quiet || \
+            git commit -m "자동 커밋 — $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
