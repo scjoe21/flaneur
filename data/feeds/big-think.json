@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-10T01:57:31.500769+00:00",
+  "fetchedAt": "2026-04-10T11:35:54.421171+00:00",
   "items": [
     {
       "title": "The physiology of dreams, explained by 2 scientists",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 35
+      }
+    },
+    {
+      "title": "Over-optimizing your life is making you fragile, not better",
+      "url": "https://bigthink.com/series/full-interview/excellence-stulberg/",
+      "description": "Most people chasing excellence are chasing the wrong thing entirely. Brad Stulberg argues that the 4am routines, optimization stacks, and recovery scores are just elaborate performance passed off as “excellence.” \n Stulberg breaks down the biology, philosophy, and psychology behind genuine excellence and how to reach it. \n This video  Over-optimizing your life is making you fragile, not better  is featured on  Big Think .",
+      "date": "Fri, 10 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-11.24.37-AM-1.png?w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -49,6 +65,22 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 29
+      }
+    },
+    {
+      "title": "Ask Ethan: How did Artemis II break Apollo’s distance record?",
+      "url": "https://bigthink.com/starts-with-a-bang/how-artemis-ii-break-apollo-distance-record/",
+      "description": "On April 6, 2026, humanity set an all-time record as part of the Artemis II mission: the distance record for how far a living human has ever traveled away from planet Earth. Traveling farther than any other humans in history, astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen reached a maximum distance of 406,773 km (252,757 miles), breaking the previous record set way back on April 15, 1970 by the Apollo 13 mission. For 56 years, the Apollo 13 record stood, as those astro",
+      "date": "Fri, 10 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/55193207308_5031aaa6c0_o.jpg?w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -97,38 +129,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "Astronomers just found the most pristine star of all time",
-      "url": "https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/",
-      "description": "Long ago, far beyond our deepest views of the cosmos, stars formed in the Universe for the very first time. It’s not a complete surprise that  we haven’t spotted them  yet; made almost entirely of hydrogen and helium alone, they were extremely massive and short-lived compared to the stars we see today. However, once those first stars die, their ejecta — depending on your perspective — either “enrich” or “pollute” the interstellar medium around them, meaning that the next generation of stars to f",
-      "date": "Tue, 07 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/mps.jpg?w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "3 ways to prove you’re human online",
-      "url": "https://bigthink.com/science-tech/3-ways-to-prove-youre-human-online/",
-      "description": "In 2010, Eric Schmidt, then-CEO of Google, claimed that every two days, humanity was creating as much information as it had generated from the dawn of civilization through 2003 — 48 hours’ worth of texts, photos, articles, tweets, and other content added up to more than five exabytes of data, according to Schmidt.  \n Since then, generative AI has helped take our shift from information scarcity to information abundance to a whole new level — as of September 2025, we were generating  more than 16 ",
-      "date": "Tue, 07 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/3-ways-prove-humanity_compressed.jpg?w=640",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {
