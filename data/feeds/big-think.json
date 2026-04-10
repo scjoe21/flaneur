@@ -1,22 +1,38 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-09T01:45:36.357119+00:00",
+  "fetchedAt": "2026-04-10T01:57:31.500769+00:00",
   "items": [
     {
-      "title": "Reboot your mind for flow, unanxiousness, and resilience",
-      "url": "https://bigthink.com/series/the-big-think-interview/manage-your-mind-compilation/",
-      "description": "When you think about the word “anxiety,” it likely comes with a negative connotation. But anxiety is a normal human emotion that nearly all of us experience. Reframing anxiety as a tool for change, adopting concepts from Zen Buddhism, and striving to live in a ‘flow state’ can quell the negative thoughts we experience and amplify your mind’s abilities. \n Optimizing your brain so that you can work in harmony with your thoughts is entirely possible. These 3 experts explain how we can work with our",
-      "date": "Sun, 05 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/flo-brain.jpg?w=640",
+      "title": "The physiology of dreams, explained by 2 scientists",
+      "url": "https://bigthink.com/perception-box/the-physiology-of-dreams-explained/",
+      "description": "Every 90 minutes, our bodies go paralyzed while our brains become more active than during waking life. Sleep psychologist Dr. Shelby Harris and neuroscientist Dr. Patrick McNamara, Associate Professor of Neurology at Boston University, dig into one of the most fascinating mysteries in human biology: why we dream and what our brains are actually doing during REM sleep. They explore competing theories of what dreaming is for, McNamara makes a compelling case that REM sleep may have been a key driv",
+      "date": "Thu, 09 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/UC-BB-Dreams-Web-C.png?w=640",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 10,
         "total": 35
+      }
+    },
+    {
+      "title": "If life exists on Mars, it’s likely hiding — or maybe sleeping",
+      "url": "https://bigthink.com/science-tech/if-life-exists-on-mars-its-likely-hiding-or-maybe-sleeping/",
+      "description": "With the latest detection of organic compounds by the  Curiosity  rover, the case for past life on Mars becomes stronger than ever, as suggested in  a recent paper by Alexander Pavlov in the journal  Astrobiology . And that lends additional credence to an even more exciting idea — that living organisms may still exist on Mars today. \n If that’s true, what form should we expect them to take? And where should we search for them? The planet’s surface is a brutal environment for any known type of or",
+      "date": "Thu, 09 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/life-on-mars-hiding_compressed.jpg?w=640",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
@@ -36,16 +52,16 @@
       }
     },
     {
-      "title": "How the modern world turned gray (and why color may be coming back)",
-      "url": "https://bigthink.com/strange-maps/grayening-why-everything-is-gray/",
-      "description": "No, you haven’t suddenly gone colorblind. This map is in color. In fact, it is a map  of  color — specifically, of each U.S. state’s favorite house paint color. It’s just that those favorites look like a swatch book for a funeral parlor — like fifty shades of gray. \n Well, gray- ish . From Hawaii to Maine, from Alaska to Florida, the most popular shade for your home’s exterior is some variation of gray, off-white, beige, or greige — a hue so existentially undecided that it can’t commit to being ",
-      "date": "Mon, 06 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Grayening_16x9.jpg?w=640",
+      "title": "The important role of ignorance in building a better society",
+      "url": "https://bigthink.com/books/ignorance-better-societies/",
+      "description": "Imagine that you live in total freedom among a group of people unencumbered by traditions, customs, and any other restrictions. Would that be the pinnacle of joy? Maybe not so much. There would be no government, no police, no fire department, no traffic laws, no court of justice; life would be totally free but totally lawless. As the political philosopher Thomas Hobbes (1588–1679) wrote in his magnum opus  Leviathan , there would be no culture, no navigation, no knowledge of the face of the eart",
+      "date": "Thu, 09 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/ignorance_excerpt.jpg?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 5,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -84,22 +100,6 @@
       }
     },
     {
-      "title": "40 years ago, “Frames of Mind” cracked open the idea of intelligence. It’s not done.",
-      "url": "https://bigthink.com/books/frames-of-mind/",
-      "description": "“Who owns intelligence?” \n Howard Gardner, a developmental psychologist and the John H. and Elisabeth A. Hobbs Research Professor of Cognition and Education at Harvard University, has  grappled with thi s   question of late . Who gets to be the arbiter of what intelligence is and who, or what, has it? \n More than a century ago, psychometricians staked their claim by proposing the almighty  g , or general intelligence. They measured it with IQ tests, which assess cognitive abilities such as verba",
-      "date": "Mon, 06 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/intelligence-thumbnail.jpg?w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Astronomers just found the most pristine star of all time",
       "url": "https://bigthink.com/starts-with-a-bang/astronomers-found-most-pristine-star/",
       "description": "Long ago, far beyond our deepest views of the cosmos, stars formed in the Universe for the very first time. It’s not a complete surprise that  we haven’t spotted them  yet; made almost entirely of hydrogen and helium alone, they were extremely massive and short-lived compared to the stars we see today. However, once those first stars die, their ejecta — depending on your perspective — either “enrich” or “pollute” the interstellar medium around them, meaning that the next generation of stars to f",
@@ -112,22 +112,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Something special is happening in space right now",
-      "url": "https://bigthink.com/starts-with-a-bang/something-special-happening-space/",
-      "description": "Until April of 2026, only 24 astronauts had ever left low-Earth orbit. \n \n \n \n The Apollo 11 crew, after safely returning to Earth from their historic voyage to the Moon, are shown in the Mobile Quarantine Facility alongside then-President Nixon. All 24 astronauts who journeyed to the Moon as part of the Apollo program, either orbiting or landing on it, were safely returned to Earth.\n \n Credit : NASA/JSC \n \n \n In 1968,  Apollo astronaut Bill Anders  — one of the first — captured  this iconic pho",
-      "date": "Mon, 06 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/art002e008486large.jpg?w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 10
       }
     },
@@ -145,6 +129,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Cosmic inflation explains the Universe’s low entropy at birth",
+      "url": "https://bigthink.com/starts-with-a-bang/cosmic-inflation-past-hypothesis/",
+      "description": "Right now, at this very moment, the total amount of entropy contained within the observable Universe is greater than it’s ever been before. Tomorrow’s entropy will be even greater still, while yesterday, the entropy wasn’t quite as great as it is today. With each passing moment, inevitably, the Universe inches closer to its seemingly inevitable maximum entropy state known as the “heat death” of the Universe: a situation where all the particles and fields have reached their lowest-energy, equilib",
+      "date": "Thu, 09 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/09/https___specials-images.forbesimg.com_imageserve_5fa0a88e21fec1f57da23ea2_When-a-black-hole-is-formed-one-idea-is-that-it-gives-birth-to-a-new-baby-Universe-_960x0-e1758146716422.jpg?w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

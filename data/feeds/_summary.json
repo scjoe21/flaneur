@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-04-09T01:45:36.357583+00:00",
+  "lastRun": "2026-04-10T01:57:31.501133+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -8,11 +8,10 @@
     "tlon",
     "philosophy-now",
     "overthink",
+    "daily-stoic",
     "big-think"
   ],
-  "fail": [
-    "daily-stoic"
-  ],
+  "fail": [],
   "total": 9,
-  "fetched": 8
+  "fetched": 9
 }
