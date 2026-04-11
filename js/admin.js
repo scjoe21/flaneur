@@ -905,27 +905,13 @@ async function loadEssaySuggestions() {
 }
 
 // ── PIN 변경 ──
+// PIN은 js/main.js의 DEFAULT_PIN 상수로 고정 관리 (localStorage 미사용)
 function changeOwnerPin() {
   const statusEl = document.getElementById('pin-change-status');
-  const current  = document.getElementById('pin-current')?.value;
-  const next     = document.getElementById('pin-new')?.value.trim();
-  const confirm  = document.getElementById('pin-confirm')?.value.trim();
-  const stored   = localStorage.getItem('flaneur_owner_pin') || '0000';
-
-  const err = (msg) => { statusEl.textContent = msg; statusEl.style.color = '#dc2626'; };
-  const ok  = (msg) => { statusEl.textContent = msg; statusEl.style.color = 'var(--accent)'; };
-
-  if (current !== stored) return err('현재 PIN이 맞지 않습니다.');
-  if (!next)              return err('새 PIN을 입력하세요.');
-  if (next !== confirm)   return err('새 PIN이 일치하지 않습니다.');
-  if (next.length < 4)    return err('PIN은 4자리 이상이어야 합니다.');
-
-  localStorage.setItem('flaneur_owner_pin', next);
-  document.getElementById('pin-current').value = '';
-  document.getElementById('pin-new').value = '';
-  document.getElementById('pin-confirm').value = '';
-  ok('PIN이 변경되었습니다.');
-  setTimeout(() => { if (statusEl) statusEl.textContent = ''; }, 3000);
+  if (statusEl) {
+    statusEl.textContent = 'PIN 변경은 js/main.js의 DEFAULT_PIN 값을 수정하세요.';
+    statusEl.style.color = 'var(--accent)';
+  }
 }
 
 // ── GitHub 설정 저장 ──

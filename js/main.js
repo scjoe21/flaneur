@@ -23,7 +23,7 @@ let openItem  = null;
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 const OWNER_SESSION_KEY = 'flaneur_owner';
-const DEFAULT_PIN       = '0000';
+const DEFAULT_PIN       = '1215';
 
 function isOwner() {
   return sessionStorage.getItem(OWNER_SESSION_KEY) === 'true';
@@ -87,7 +87,7 @@ function closePinModal() {
 
 function submitPin() {
   const input      = document.getElementById('pin-input').value.trim();
-  const storedPin  = localStorage.getItem('flaneur_owner_pin') || DEFAULT_PIN;
+  const storedPin  = DEFAULT_PIN;
   const errorEl    = document.getElementById('pin-error');
 
   if (!input) { errorEl.textContent = 'PIN을 입력해 주세요.'; return; }
