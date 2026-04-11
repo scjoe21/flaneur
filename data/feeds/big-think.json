@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-10T11:35:54.421171+00:00",
+  "fetchedAt": "2026-04-11T01:48:05.788383+00:00",
   "items": [
+    {
+      "title": "This isn’t a trip, it’s the most challenging therapy session of your life",
+      "url": "https://bigthink.com/series/full-interview/mdma-therapy-yehuda/",
+      "description": "Trauma doesn’t end when the danger does, and for decades, science couldn’t explain why. \n Rachel Yehuda, a leading PTSD researcher, has spent her career inside that question, uncovering the way that trauma can leave impressions on our genes, sometimes passing biological echoes of those events to the next generation. \n Now, she’s focused on MDMA therapy, which could actually break the chain. \n \n This video  This isn’t a trip, it’s the most challenging therapy session of your life  is featured on ",
+      "date": "Fri, 10 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/A1-Web-Yehuda.jpg?w=640",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 10,
+        "total": 44
+      }
+    },
     {
       "title": "The physiology of dreams, explained by 2 scientists",
       "url": "https://bigthink.com/perception-box/the-physiology-of-dreams-explained/",
@@ -100,22 +116,6 @@
       }
     },
     {
-      "title": "What chess’s “intermezzo” moves can teach us about making better life decisions",
-      "url": "https://bigthink.com/books/thinking-sideways/",
-      "description": "Sneaky sideways moves that strong chess players swear by are called “intermezzos,” or “in-between moves.” The American chess genius and unofficial World Champion Paul Morphy executed these many times in the New Orleans cafés where he won game after game in the 1800s. Morphy’s move seemed obvious. Why not just recapture the piece that was just taken? But then, BOOM. Morphy interrupted the sequence with a different aggressive move, throwing his opponent’s position into turmoil. Intermezzos are sho",
-      "date": "Tue, 07 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/thinking-sideways_excerpt.jpg?w=640",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
       "title": "The “rawdogging” trend: A new term for an ancient practice",
       "url": "https://bigthink.com/mini-philosophy/the-rawdogging-trend-a-new-term-for-an-ancient-practice/",
       "description": "“Rawdogging” is a deeply unfortunate term that was popularized with fresh connotations a couple of years back, when people started using the word to describe the unmediated friction of sitting through a flight without any distractions. Video after video began to appear on TikTok, each featuring someone engaging in quaint, analogue activities like looking out the window, people watching, or staring vaguely ahead while thinking. There is something confronting about taking a form of introspection —",
@@ -132,6 +132,22 @@
       }
     },
     {
+      "title": "Militant democracy or creeping illiberalism? Germany’s free speech dilemma.",
+      "url": "https://bigthink.com/books/the-future-of-free-speech/",
+      "description": "Due to its Nazi past, Germany’s post–World War II militant democracy has been unusually aggressive in banning hatred and extremism. Early postwar laws prohibited Nazi symbols, propaganda, and organizations. A turning point came in 1960 with the “swastika epidemic” — a surge of anti-Semitic graffiti and attacks on synagogues. In response, the German parliament made it illegal to incite hatred or insult “segments of the population” in ways that might disturb public peace. The epidemic was later re",
+      "date": "Fri, 10 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/future-of-free-speech_excerpt.jpg?w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Cosmic inflation explains the Universe’s low entropy at birth",
       "url": "https://bigthink.com/starts-with-a-bang/cosmic-inflation-past-hypothesis/",
       "description": "Right now, at this very moment, the total amount of entropy contained within the observable Universe is greater than it’s ever been before. Tomorrow’s entropy will be even greater still, while yesterday, the entropy wasn’t quite as great as it is today. With each passing moment, inevitably, the Universe inches closer to its seemingly inevitable maximum entropy state known as the “heat death” of the Universe: a situation where all the particles and fields have reached their lowest-energy, equilib",
@@ -145,22 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "To alien eyes, Earth looks deceptively peaceful",
-      "url": "https://bigthink.com/starts-with-a-bang/alien-eyes-earth-peaceful/",
-      "description": "Of all the planets, star systems, and galaxies we’ve ever discovered, the only one that displays any yet-detected signals of life is right here: planet Earth which orbits the Sun right here in our own Milky Way. While there are: \n \n hundreds of known planetary bodies in our own Solar System, \n more than 6000 known exoplanets detected so far, \n approximately 400 billion stars located within the Milky Way, \n and trillions of galaxies within the observable Universe, \n \n each one of them only repres",
-      "date": "Wed, 08 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/05/apollo08_earthrise.jpg?w=640",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     }
   ]
