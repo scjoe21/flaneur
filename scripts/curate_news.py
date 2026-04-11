@@ -122,6 +122,30 @@ def call_claude_api(api_key, messages, system):
     return result["content"][0]["text"].strip()
 
 
+def trim_detail_to_80(text):
+    """detail 텍스트를 단락 경계에서 원문의 약 80% 길이로 다듬는다."""
+    if not text:
+        return text
+    paras = [p for p in text.split('\n\n') if p.strip()]
+    if len(paras) <= 1:
+        # 단락이 하나뿐이면 문장 단위로 80% 적용
+        target = int(len(text) * 0.80)
+        return text[:target].rsplit('。', 1)[0] + '。' if '。' in text[:target] else text[:target]
+    target = len(text) * 0.80
+    total = 0
+    kept = []
+    for p in paras:
+        if total + len(p) + 2 <= target * 1.05:
+            kept.append(p)
+            total += len(p) + 2
+        else:
+            if total >= target * 0.70:
+                break
+            kept.append(p)
+            break
+    return '\n\n'.join(kept)
+
+
 def parse_json_response(text):
     """Claude 응답에서 JSON 배열 추출"""
     # 마크다운 코드블록 제거
@@ -227,7 +251,7 @@ def main():
                     "sourceUrl":    item.get("sourceUrl", ""),
                     "title":        item.get("title", ""),
                     "summary":      item.get("summary", ""),
-                    "detail":       item.get("detail", ""),
+                    "detail":       trim_detail_to_80(item.get("detail", "")),
                     "tags":         item.get("tags", []),
                 })
         except Exception as e:
