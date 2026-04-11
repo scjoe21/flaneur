@@ -107,14 +107,67 @@
     .clip-card__title {
       font-size: 12px; color: var(--text-muted);
     }
-    .clip-card__remove {
+    .clip-card__actions {
       position: absolute; top: 14px; right: 14px;
+      display: flex; gap: 6px;
+    }
+    .clip-card__remove,
+    .clip-card__edit {
       width: 26px; height: 26px; border-radius: 50%;
       background: var(--bg-subtle); color: var(--text-light);
       display: flex; align-items: center; justify-content: center;
       font-size: 11px; transition: var(--transition);
     }
     .clip-card__remove:hover { background: #fee2e2; color: #dc2626; }
+    .clip-card__edit:hover { background: #e0f0ff; color: #2563eb; }
+
+    /* ── 수정 모달 ── */
+    .clip-edit-overlay {
+      display: none;
+      position: fixed; inset: 0;
+      background: rgba(0,0,0,0.45);
+      z-index: 9000;
+      align-items: center; justify-content: center;
+    }
+    .clip-edit-overlay.open { display: flex; }
+    .clip-edit-modal {
+      background: var(--bg-card);
+      border-radius: var(--radius-lg);
+      padding: 28px 30px;
+      width: 100%; max-width: 540px;
+      box-shadow: 0 8px 40px rgba(0,0,0,0.18);
+      display: flex; flex-direction: column; gap: 16px;
+    }
+    .clip-edit-modal h3 {
+      font-family: var(--font-serif);
+      font-size: 16px; font-weight: 700;
+      margin: 0;
+    }
+    .clip-edit-modal label {
+      font-size: 12px; font-weight: 600; color: var(--text-muted);
+      display: block; margin-bottom: 6px;
+    }
+    .clip-edit-modal textarea,
+    .clip-edit-modal input[type="text"] {
+      width: 100%; box-sizing: border-box;
+      font-family: var(--font-body, inherit);
+      font-size: 14px; color: var(--text);
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 12px;
+      resize: vertical;
+      line-height: 1.7;
+      transition: border-color 0.15s;
+    }
+    .clip-edit-modal textarea:focus,
+    .clip-edit-modal input[type="text"]:focus {
+      outline: none; border-color: var(--accent);
+    }
+    .clip-edit-modal textarea { min-height: 140px; }
+    .clip-edit-modal__actions {
+      display: flex; gap: 10px; justify-content: flex-end;
+    }
 
     /* ── 전체 탭 — 월별 아코디언 ── */
     .month-group { margin-bottom: 12px; }
@@ -246,6 +299,25 @@
 
 <div class="toast" id="toast"></div>
 
+<!-- ── 수정 모달 ── -->
+<div class="clip-edit-overlay" id="clip-edit-overlay">
+  <div class="clip-edit-modal">
+    <h3>구절 수정</h3>
+    <div>
+      <label for="clip-edit-text">저장한 구절</label>
+      <textarea id="clip-edit-text"></textarea>
+    </div>
+    <div>
+      <label for="clip-edit-article">출처 글 제목</label>
+      <input type="text" id="clip-edit-article">
+    </div>
+    <div class="clip-edit-modal__actions">
+      <button id="clip-edit-cancel" style="padding:8px 18px;border-radius:var(--radius);border:1px solid var(--border);background:var(--bg-subtle);font-size:13px;color:var(--text-muted);cursor:pointer">취소</button>
+      <button id="clip-edit-save" style="padding:8px 18px;border-radius:var(--radius);background:var(--accent);color:#fff;font-size:13px;font-weight:600;cursor:pointer">저장</button>
+    </div>
+  </div>
+</div>
+
 <script>
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 날짜 유틸
@@ -323,11 +395,18 @@ function buildCard(clip) {
     <div class="clip-card__meta">${clip.flag || ''} ${clip.source} · ${clip.dayLabel}</div>
     <blockquote class="clip-card__text">${clip.text}</blockquote>
     <div class="clip-card__title">— ${clip.articleTitle}</div>
-    <button class="clip-card__remove" data-id="${clip.clipId}" title="삭제">✕</button>
+    <div class="clip-card__actions">
+      <button class="clip-card__edit" title="수정">✎</button>
+      <button class="clip-card__remove" title="삭제">✕</button>
+    </div>
   `;
   el.querySelector('.clip-card__remove').addEventListener('click', e => {
     e.stopPropagation();
     removeClip(clip.clipId, el);
+  });
+  el.querySelector('.clip-card__edit').addEventListener('click', e => {
+    e.stopPropagation();
+    openEditClip(clip, el);
   });
   return el;
 }
@@ -341,6 +420,55 @@ function removeClip(clipId, el) {
   setTimeout(() => { el.remove(); updateCounts(); }, 200);
   showToast('삭제했습니다.');
 }
+
+// ── 클립 수정 ──
+let editingClipId = null;
+let editingCardEl = null;
+
+function openEditClip(clip, cardEl) {
+  editingClipId = clip.clipId;
+  editingCardEl = cardEl;
+  document.getElementById('clip-edit-text').value    = clip.text;
+  document.getElementById('clip-edit-article').value = clip.articleTitle;
+  document.getElementById('clip-edit-overlay').classList.add('open');
+  document.getElementById('clip-edit-text').focus();
+}
+
+function closeEditClip() {
+  editingClipId = null;
+  editingCardEl = null;
+  document.getElementById('clip-edit-overlay').classList.remove('open');
+}
+
+function saveEditClip() {
+  const newText    = document.getElementById('clip-edit-text').value.trim();
+  const newTitle   = document.getElementById('clip-edit-article').value.trim();
+  if (!newText) { alert('구절 내용을 입력해 주세요.'); return; }
+
+  const idx = clipList.findIndex(c => c.clipId === editingClipId);
+  if (idx < 0) { closeEditClip(); return; }
+
+  clipList[idx] = { ...clipList[idx], text: newText, articleTitle: newTitle };
+  localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
+
+  // 카드 DOM 즉시 반영
+  if (editingCardEl) {
+    editingCardEl.querySelector('.clip-card__text').textContent = newText;
+    editingCardEl.querySelector('.clip-card__title').textContent = '— ' + newTitle;
+  }
+
+  closeEditClip();
+  showToast('수정했습니다.');
+}
+
+document.getElementById('clip-edit-save').addEventListener('click', saveEditClip);
+document.getElementById('clip-edit-cancel').addEventListener('click', closeEditClip);
+document.getElementById('clip-edit-overlay').addEventListener('click', e => {
+  if (e.target === document.getElementById('clip-edit-overlay')) closeEditClip();
+});
+document.getElementById('clip-edit-text').addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeEditClip();
+});
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 이번 주 렌더
