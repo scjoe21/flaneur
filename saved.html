@@ -163,13 +163,6 @@
     .saved-actions {
       display: flex; align-items: center; gap: 10px;
     }
-    .clear-all-btn {
-      font-size: 12px; color: var(--text-muted);
-      border: 1px solid var(--border);
-      padding: 5px 14px; border-radius: 20px;
-      transition: var(--transition);
-    }
-    .clear-all-btn:hover { border-color: #dc2626; color: #dc2626; background: #fef2f2; }
 
     /* ── 이번 달 — 주차 구분선 ── */
     .week-divider {
@@ -206,9 +199,6 @@
       <div>
         <h1 class="saved-page__title">✦ 저장한 구절</h1>
         <p class="saved-page__sub" id="total-count-text"></p>
-      </div>
-      <div class="saved-actions">
-        <button class="clear-all-btn" id="clear-all-btn">전체 삭제</button>
       </div>
     </div>
 
@@ -504,17 +494,6 @@ document.querySelectorAll('.shelf-tab').forEach(btn => {
   });
 });
 
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 전체 삭제
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-document.getElementById('clear-all-btn').addEventListener('click', () => {
-  if (!clipList.length) return;
-  if (!confirm('저장한 구절을 모두 삭제하시겠습니까?')) return;
-  clipList = [];
-  localStorage.setItem('flaneur_clips', '[]');
-  location.reload();
-});
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 유틸
