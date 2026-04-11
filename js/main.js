@@ -321,8 +321,22 @@ function showClipTooltip(item) {
   document.getElementById('clip-save-btn').onclick = () => saveClip(sel.toString().trim(), item);
 }
 
+function getWeekKey(d = new Date()) {
+  const date = new Date(d);
+  date.setHours(0, 0, 0, 0);
+  date.setDate(date.getDate() + 3 - (date.getDay() + 6) % 7);
+  const w1 = new Date(date.getFullYear(), 0, 4);
+  const weekNum = 1 + Math.round(((date - w1) / 86400000 - 3 + (w1.getDay() + 6) % 7) / 7);
+  return `${date.getFullYear()}-W${String(weekNum).padStart(2, '0')}`;
+}
+
+function getMonthKey(d = new Date()) {
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+}
+
 function saveClip(text, item) {
   const cfg = DAY_CONFIG[item.day] || {};
+  const now = new Date();
   clipList.push({
     clipId:        'clip_' + Date.now() + '_' + Math.random().toString(36).slice(2, 5),
     articleId:     item.id,
@@ -331,7 +345,9 @@ function saveClip(text, item) {
     dayLabel:      item.dayLabel,
     flag:          cfg.flag || '',
     text,
-    savedAt:       new Date().toISOString()
+    savedAt:       now.toISOString(),
+    weekKey:       getWeekKey(now),
+    monthKey:      getMonthKey(now)
   });
   localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
   document.getElementById('clip-tooltip').style.display = 'none';

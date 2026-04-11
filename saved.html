@@ -6,18 +6,83 @@
   <title>저장함 — Flâneur</title>
   <link rel="stylesheet" href="css/style.css">
   <style>
+    /* ── 페이지 레이아웃 ── */
     .saved-page { padding: 48px 0 80px; }
-    .saved-page__header { margin-bottom: 36px; }
+    .saved-page__header { margin-bottom: 32px; }
     .saved-page__title {
       font-family: var(--font-serif);
-      font-size: 28px; font-weight: 700;
-      margin-bottom: 8px;
+      font-size: 26px; font-weight: 700;
+      margin-bottom: 6px;
     }
-    .saved-page__sub { font-size: 15px; color: var(--text-muted); }
-    .saved-grid {
+    .saved-page__sub { font-size: 14px; color: var(--text-muted); }
+
+    /* ── 선반 탭 ── */
+    .shelf-tabs {
+      display: flex;
+      gap: 4px;
+      border-bottom: 2px solid var(--border);
+      margin-bottom: 28px;
+    }
+    .shelf-tab {
+      padding: 10px 20px;
+      font-size: 14px; font-weight: 500;
+      color: var(--text-muted);
+      border-radius: var(--radius) var(--radius) 0 0;
+      transition: var(--transition);
+      position: relative;
+      bottom: -2px;
+      border-bottom: 2px solid transparent;
+    }
+    .shelf-tab:hover { color: var(--text); background: var(--bg-subtle); }
+    .shelf-tab.active {
+      color: var(--accent);
+      border-bottom-color: var(--accent);
+      background: var(--bg-card);
+    }
+    .shelf-tab .shelf-count {
+      display: inline-flex;
+      align-items: center; justify-content: center;
+      min-width: 20px; height: 20px;
+      background: var(--bg-subtle);
+      border-radius: 10px;
+      font-size: 11px; font-weight: 600;
+      padding: 0 6px;
+      margin-left: 6px;
+      color: var(--text-muted);
+    }
+    .shelf-tab.active .shelf-count {
+      background: var(--accent);
+      color: #fff;
+    }
+
+    /* ── 탭 패널 ── */
+    .shelf-panel { display: none; }
+    .shelf-panel.active { display: block; }
+
+    /* ── 섹션 구분 (주차/월별) ── */
+    .clip-section { margin-bottom: 36px; }
+    .clip-section__header {
+      display: flex; align-items: center; gap: 12px;
+      margin-bottom: 16px;
+      padding-bottom: 10px;
+      border-bottom: 1px solid var(--border-lt);
+    }
+    .clip-section__label {
+      font-family: var(--font-serif);
+      font-size: 15px; font-weight: 600;
+      color: var(--text);
+    }
+    .clip-section__badge {
+      font-size: 11px; color: var(--text-light);
+      background: var(--bg-subtle);
+      padding: 2px 8px; border-radius: 10px;
+    }
+
+    /* ── 클립 카드 그리드 ── */
+    .clip-grid {
       display: grid;
       grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-      gap: 18px;
+      gap: 16px;
     }
     .clip-card {
       background: #fffdf6;
@@ -50,13 +115,70 @@
       font-size: 11px; transition: var(--transition);
     }
     .clip-card__remove:hover { background: #fee2e2; color: #dc2626; }
-    .clear-all-btn {
-      font-size: 13px; color: var(--text-muted);
+
+    /* ── 전체 탭 — 월별 아코디언 ── */
+    .month-group { margin-bottom: 12px; }
+    .month-group__toggle {
+      display: flex; align-items: center; gap: 10px;
+      width: 100%; padding: 12px 16px;
+      background: var(--bg-subtle);
       border: 1px solid var(--border);
-      padding: 6px 16px; border-radius: 20px;
+      border-radius: var(--radius);
+      font-size: 14px; font-weight: 600;
+      color: var(--text);
+      transition: var(--transition);
+      text-align: left;
+    }
+    .month-group__toggle:hover { background: var(--border); }
+    .month-group__toggle .arrow {
+      margin-left: auto;
+      font-size: 11px;
+      color: var(--text-muted);
+      transition: transform 0.2s;
+    }
+    .month-group.open .month-group__toggle .arrow { transform: rotate(180deg); }
+    .month-group__count {
+      font-size: 11px; font-weight: 400;
+      color: var(--text-muted);
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      padding: 1px 8px; border-radius: 10px;
+    }
+    .month-group__body {
+      display: none;
+      padding: 16px 0 4px;
+    }
+    .month-group.open .month-group__body { display: block; }
+
+    /* ── 빈 상태 ── */
+    .empty-state {
+      text-align: center;
+      padding: 48px 24px;
+      color: var(--text-muted);
+    }
+    .empty-state__icon { font-size: 32px; margin-bottom: 12px; }
+    .empty-state__text { font-size: 14px; line-height: 1.8; }
+
+    /* ── 헤더 액션 ── */
+    .saved-actions {
+      display: flex; align-items: center; gap: 10px;
+    }
+    .clear-all-btn {
+      font-size: 12px; color: var(--text-muted);
+      border: 1px solid var(--border);
+      padding: 5px 14px; border-radius: 20px;
       transition: var(--transition);
     }
     .clear-all-btn:hover { border-color: #dc2626; color: #dc2626; background: #fef2f2; }
+
+    /* ── 이번 달 — 주차 구분선 ── */
+    .week-divider {
+      font-size: 12px; color: var(--text-light);
+      letter-spacing: 0.04em;
+      margin: 24px 0 10px;
+      padding-left: 2px;
+    }
+    .week-divider:first-child { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -78,43 +200,48 @@
 
 <main class="saved-page">
   <div class="container">
+
+    <!-- ── 헤더 ── -->
     <div class="saved-page__header" style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:16px">
       <div>
         <h1 class="saved-page__title">✦ 저장한 구절</h1>
-        <p class="saved-page__sub" id="saved-count-text">저장된 구절이 없습니다.</p>
+        <p class="saved-page__sub" id="total-count-text"></p>
       </div>
-      <button class="clear-all-btn" id="clear-all-btn">전체 삭제</button>
+      <div class="saved-actions">
+        <button class="clear-all-btn" id="clear-all-btn">전체 삭제</button>
+      </div>
     </div>
 
-    <div class="saved-grid" id="saved-grid">
-      <div class="empty-state">
-        <div class="empty-state__icon">✦</div>
-        <div class="empty-state__text">
-          아직 저장한 구절이 없습니다.<br>
-          자세히 보기에서 텍스트를 드래그해 구절을 저장해 보세요.
-        </div>
-      </div>
+    <!-- ── 탭 ── -->
+    <div class="shelf-tabs">
+      <button class="shelf-tab active" data-shelf="week">
+        이번 주 <span class="shelf-count" id="count-week">0</span>
+      </button>
+      <button class="shelf-tab" data-shelf="month">
+        이번 달 <span class="shelf-count" id="count-month">0</span>
+      </button>
+      <button class="shelf-tab" data-shelf="all">
+        전체 <span class="shelf-count" id="count-all">0</span>
+      </button>
     </div>
+
+    <!-- ── 이번 주 패널 ── -->
+    <div id="panel-week" class="shelf-panel active">
+      <div id="grid-week"></div>
+    </div>
+
+    <!-- ── 이번 달 패널 ── -->
+    <div id="panel-month" class="shelf-panel">
+      <div id="grid-month"></div>
+    </div>
+
+    <!-- ── 전체 패널 ── -->
+    <div id="panel-all" class="shelf-panel">
+      <div id="grid-all"></div>
+    </div>
+
   </div>
 </main>
-
-<!-- ── 뉴스 모달 (재사용) ── -->
-<div class="modal-overlay" id="modal-overlay" role="dialog" aria-modal="true">
-  <div class="modal">
-    <button class="modal-close" id="modal-close">✕</button>
-    <div class="modal-meta">
-      <span class="modal-day"></span>
-      <span style="color:var(--border)">·</span>
-      <span class="modal-source"></span>
-    </div>
-    <h2 class="modal-title"></h2>
-    <div class="modal-body"></div>
-    <div class="modal-actions">
-      <button class="btn btn--primary" id="modal-source-btn">원문 보기 →</button>
-      <button class="btn btn--ghost" onclick="closeModal()">닫기</button>
-    </div>
-  </div>
-</div>
 
 <!-- ── 푸터 ── -->
 <footer class="site-footer">
@@ -130,71 +257,290 @@
 <div class="toast" id="toast"></div>
 
 <script>
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 날짜 유틸
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function getWeekKey(d = new Date()) {
+  const date = new Date(d);
+  date.setHours(0, 0, 0, 0);
+  date.setDate(date.getDate() + 3 - (date.getDay() + 6) % 7);
+  const w1 = new Date(date.getFullYear(), 0, 4);
+  const weekNum = 1 + Math.round(((date - w1) / 86400000 - 3 + (w1.getDay() + 6) % 7) / 7);
+  return `${date.getFullYear()}-W${String(weekNum).padStart(2, '0')}`;
+}
+
+function getMonthKey(d = new Date()) {
+  return `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}`;
+}
+
+function weekKeyLabel(wk) {
+  // "2026-W15" → "2026년 15주차"
+  const [year, w] = wk.split('-W');
+  return `${year}년 ${parseInt(w, 10)}주차`;
+}
+
+function monthKeyLabel(mk) {
+  // "2026-04" → "2026년 4월"
+  const [year, month] = mk.split('-');
+  return `${year}년 ${parseInt(month, 10)}월`;
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 클립 로드 및 마이그레이션
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+const NOW         = new Date();
+const CUR_WEEK    = getWeekKey(NOW);
+const CUR_MONTH   = getMonthKey(NOW);
+
 let clipList = JSON.parse(localStorage.getItem('flaneur_clips') || '[]');
 
-function renderClipGrid() {
-  const grid = document.getElementById('saved-grid');
+// 기존 클립에 weekKey/monthKey 없으면 savedAt 기준으로 채워줌
+let migrated = false;
+clipList = clipList.map(clip => {
+  if (!clip.weekKey || !clip.monthKey) {
+    const d = clip.savedAt ? new Date(clip.savedAt) : new Date();
+    migrated = true;
+    return { ...clip, weekKey: getWeekKey(d), monthKey: getMonthKey(d) };
+  }
+  return clip;
+});
+if (migrated) localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
 
-  document.getElementById('saved-count-text').textContent =
-    clipList.length ? `${clipList.length}개 구절이 저장되어 있습니다.` : '저장된 구절이 없습니다.';
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 분류
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  if (!clipList.length) {
-    grid.innerHTML = `<div class="empty-state">
-      <div class="empty-state__icon">✦</div>
-      <div class="empty-state__text">아직 저장한 구절이 없습니다.<br>자세히 보기에서 텍스트를 드래그해 저장해 보세요.</div>
-    </div>`;
+function getShelf(clip) {
+  if (clip.weekKey === CUR_WEEK)                              return 'week';
+  if (clip.monthKey === CUR_MONTH && clip.weekKey !== CUR_WEEK) return 'month';
+  return 'all';
+}
+
+const weekClips  = clipList.filter(c => getShelf(c) === 'week');
+const monthClips = clipList.filter(c => getShelf(c) === 'month');
+const allClips   = clipList.filter(c => getShelf(c) === 'all');
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 카드 빌더
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function buildCard(clip) {
+  const el = document.createElement('div');
+  el.className = 'clip-card';
+  el.innerHTML = `
+    <div class="clip-card__meta">${clip.flag || ''} ${clip.source} · ${clip.dayLabel}</div>
+    <blockquote class="clip-card__text">${clip.text}</blockquote>
+    <div class="clip-card__title">— ${clip.articleTitle}</div>
+    <button class="clip-card__remove" data-id="${clip.clipId}" title="삭제">✕</button>
+  `;
+  el.querySelector('.clip-card__remove').addEventListener('click', e => {
+    e.stopPropagation();
+    removeClip(clip.clipId, el);
+  });
+  return el;
+}
+
+function removeClip(clipId, el) {
+  clipList = clipList.filter(c => c.clipId !== clipId);
+  localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
+  el.style.opacity = '0';
+  el.style.transform = 'scale(0.95)';
+  el.style.transition = '0.2s';
+  setTimeout(() => { el.remove(); updateCounts(); }, 200);
+  showToast('삭제했습니다.');
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 이번 주 렌더
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function renderWeek() {
+  const wrap = document.getElementById('grid-week');
+  wrap.innerHTML = '';
+
+  if (!weekClips.length) {
+    wrap.innerHTML = emptyHTML('이번 주에 저장한 구절이 없습니다.<br>글 자세히 보기에서 텍스트를 드래그해 저장해 보세요.');
     return;
   }
 
-  grid.innerHTML = '';
-  [...clipList].reverse().forEach(clip => {
-    const el = document.createElement('div');
-    el.className = 'clip-card';
-    el.innerHTML = `
-      <div class="clip-card__meta">${clip.flag} ${clip.source} · ${clip.dayLabel}</div>
-      <blockquote class="clip-card__text">${clip.text}</blockquote>
-      <div class="clip-card__title">— ${clip.articleTitle}</div>
-      <button class="clip-card__remove" data-id="${clip.clipId}" title="삭제">✕</button>
-    `;
-    el.querySelector('.clip-card__remove').addEventListener('click', e => {
-      e.stopPropagation();
-      clipList = clipList.filter(c => c.clipId !== clip.clipId);
-      localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
-      el.remove();
-      document.getElementById('saved-count-text').textContent =
-        clipList.length ? `${clipList.length}개 구절이 저장되어 있습니다.` : '저장된 구절이 없습니다.';
-      showToast('삭제했습니다.');
-    });
-    grid.appendChild(el);
+  const grid = document.createElement('div');
+  grid.className = 'clip-grid';
+  [...weekClips].reverse().forEach(clip => grid.appendChild(buildCard(clip)));
+  wrap.appendChild(grid);
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 이번 달 렌더 (주차별 그룹)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function renderMonth() {
+  const wrap = document.getElementById('grid-month');
+  wrap.innerHTML = '';
+
+  if (!monthClips.length) {
+    wrap.innerHTML = emptyHTML('이번 달 이전 주차에 저장한 구절이 없습니다.<br>이번 주가 지나면 이곳으로 이동합니다.');
+    return;
+  }
+
+  // 주차별 그룹화 (최신 주차 먼저)
+  const byWeek = {};
+  [...monthClips].reverse().forEach(clip => {
+    if (!byWeek[clip.weekKey]) byWeek[clip.weekKey] = [];
+    byWeek[clip.weekKey].push(clip);
   });
+
+  Object.entries(byWeek)
+    .sort(([a], [b]) => b.localeCompare(a))
+    .forEach(([wk, clips]) => {
+      const section = document.createElement('div');
+      section.className = 'clip-section';
+      section.innerHTML = `
+        <div class="clip-section__header">
+          <span class="clip-section__label">${weekKeyLabel(wk)}</span>
+          <span class="clip-section__badge">${clips.length}개</span>
+        </div>
+      `;
+      const grid = document.createElement('div');
+      grid.className = 'clip-grid';
+      clips.forEach(clip => grid.appendChild(buildCard(clip)));
+      section.appendChild(grid);
+      wrap.appendChild(section);
+    });
 }
 
-function closeModal() {
-  document.getElementById('modal-overlay').classList.remove('open');
-  document.body.style.overflow = '';
-}
-function showToast(msg) {
-  const t = document.getElementById('toast');
-  t.textContent = msg; t.classList.add('show');
-  setTimeout(() => t.classList.remove('show'), 2200);
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 전체 렌더 (월별 아코디언)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function renderAll() {
+  const wrap = document.getElementById('grid-all');
+  wrap.innerHTML = '';
+
+  if (!allClips.length) {
+    wrap.innerHTML = emptyHTML('이전 달에 저장한 구절이 없습니다.<br>이번 달이 지나면 이곳으로 이동합니다.');
+    return;
+  }
+
+  // 월별 그룹화 (최신 월 먼저)
+  const byMonth = {};
+  [...allClips].reverse().forEach(clip => {
+    if (!byMonth[clip.monthKey]) byMonth[clip.monthKey] = [];
+    byMonth[clip.monthKey].push(clip);
+  });
+
+  Object.entries(byMonth)
+    .sort(([a], [b]) => b.localeCompare(a))
+    .forEach(([mk, clips], idx) => {
+      const group = document.createElement('div');
+      group.className = 'month-group' + (idx === 0 ? ' open' : '');
+
+      const toggle = document.createElement('button');
+      toggle.className = 'month-group__toggle';
+      toggle.innerHTML = `
+        ${monthKeyLabel(mk)}
+        <span class="month-group__count">${clips.length}개</span>
+        <span class="arrow">▼</span>
+      `;
+      toggle.addEventListener('click', () => {
+        group.classList.toggle('open');
+      });
+
+      const body = document.createElement('div');
+      body.className = 'month-group__body';
+
+      // 월 내부도 주차별 구분
+      const byWeek = {};
+      clips.forEach(clip => {
+        if (!byWeek[clip.weekKey]) byWeek[clip.weekKey] = [];
+        byWeek[clip.weekKey].push(clip);
+      });
+
+      Object.entries(byWeek)
+        .sort(([a], [b]) => b.localeCompare(a))
+        .forEach(([wk, wClips]) => {
+          const divider = document.createElement('div');
+          divider.className = 'week-divider';
+          divider.textContent = weekKeyLabel(wk);
+          body.appendChild(divider);
+
+          const grid = document.createElement('div');
+          grid.className = 'clip-grid';
+          wClips.forEach(clip => grid.appendChild(buildCard(clip)));
+          body.appendChild(grid);
+        });
+
+      group.appendChild(toggle);
+      group.appendChild(body);
+      wrap.appendChild(group);
+    });
 }
 
-document.getElementById('modal-close').addEventListener('click', closeModal);
-document.getElementById('modal-overlay').addEventListener('click', e => {
-  if (e.target.id === 'modal-overlay') closeModal();
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 카운트 & 헤더
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function updateCounts() {
+  document.getElementById('count-week').textContent  = weekClips.length;
+  document.getElementById('count-month').textContent = monthClips.length;
+  document.getElementById('count-all').textContent   = allClips.length;
+
+  const total = clipList.length;
+  document.getElementById('total-count-text').textContent =
+    total ? `총 ${total}개 구절 저장됨` : '저장된 구절이 없습니다.';
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 탭 전환
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+document.querySelectorAll('.shelf-tab').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.shelf-tab').forEach(b => b.classList.remove('active'));
+    document.querySelectorAll('.shelf-panel').forEach(p => p.classList.remove('active'));
+    btn.classList.add('active');
+    document.getElementById('panel-' + btn.dataset.shelf).classList.add('active');
+  });
 });
-document.addEventListener('keydown', e => { if (e.key === 'Escape') closeModal(); });
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 전체 삭제
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 document.getElementById('clear-all-btn').addEventListener('click', () => {
   if (!clipList.length) return;
   if (!confirm('저장한 구절을 모두 삭제하시겠습니까?')) return;
   clipList = [];
   localStorage.setItem('flaneur_clips', '[]');
-  renderClipGrid();
-  showToast('전체 삭제되었습니다.');
+  location.reload();
 });
 
-renderClipGrid();
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 유틸
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function emptyHTML(msg) {
+  return `<div class="empty-state">
+    <div class="empty-state__icon">✦</div>
+    <div class="empty-state__text">${msg}</div>
+  </div>`;
+}
+
+function showToast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg; t.classList.add('show');
+  setTimeout(() => t.classList.remove('show'), 2200);
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 초기화
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+renderWeek();
+renderMonth();
+renderAll();
+updateCounts();
 </script>
 </body>
 </html>
