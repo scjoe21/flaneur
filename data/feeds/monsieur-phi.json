@@ -1,7 +1,7 @@
 {
   "sourceId": "monsieur-phi",
   "sourceName": "Monsieur Phi",
-  "fetchedAt": "2026-04-11T01:48:03.728133+00:00",
+  "fetchedAt": "2026-04-14T01:59:30.258142+00:00",
   "items": [
     {
       "title": "La sagesse selon YouTube : plongée dans un océan de contenu généré par IA",
@@ -148,19 +148,19 @@
       }
     },
     {
-      "title": "Une expérience de pensée électorale 🗳️ par Isaac Asimov",
-      "url": "https://www.youtube.com/watch?v=67u8B2PFRXM",
-      "description": "J'ai concocté cette vidéo dans l'urgence si bien que je n'ai pas eu le temps de faire un générique en bonne et due forme où remercier celles et ceux qui me soutiennent sur les plateformes de financement. Je le fais donc ici : MERCI vraiment, c'est grâce à vous que ces vidéos existent.\n\nLa carte de la honte pour vous renseigner sur les excellentes qualités des candidats RN : https://cartedelahonte.github.io/\n\nQuelques vidéos que vous pourriez avoir envie de regarder (dont je parle à la fin):\n\nStu",
-      "date": "2024-07-05",
-      "thumbnail": "https://i3.ytimg.com/vi/67u8B2PFRXM/hqdefault.jpg",
-      "videoId": "67u8B2PFRXM",
-      "priority": 14,
+      "title": "Il faut qu'on parle de Claude Mythos",
+      "url": "https://www.youtube.com/watch?v=JBaBAg4ny6U",
+      "description": "Pour financer le Late Show du Siècle : https://fr.ulule.com/le-late-show-du-siecle---une-emission-de-monsieur-phi/\n\nCette vidéo a été faite dans une forme d'urgence (ça se sent peut-être), j'en ai oublié de remercier toutes les personnes qui soutiennent aussi mon travail sur les plateformes de don, Patreon, Tipeee. C'est avant tout vous qui avez financé mon travail sur les LLM toutes ces années !\n\nJ'ai vu après coup une vidéo de @GEEKCONCEPT sur Mythos qui traite davantage des raisons pour lesqu",
+      "date": "2026-04-11",
+      "thumbnail": "https://i3.ytimg.com/vi/JBaBAg4ny6U/hqdefault.jpg",
+      "videoId": "JBaBAg4ny6U",
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 14
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
