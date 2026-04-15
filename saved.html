@@ -139,7 +139,8 @@
     .clip-card__remove:hover { background: #fee2e2; color: #dc2626; }
 
     /* ── 인라인 편집 ── */
-    .clip-card { cursor: pointer; }
+    .clip-card { cursor: default; }
+    .clip-card--editable { cursor: pointer; }
     .clip-card.editing { cursor: default; }
     .clip-card__textarea {
       width: 100%; box-sizing: border-box;
@@ -464,9 +465,9 @@ const allClips   = clipList.filter(c => getShelf(c) === 'all');
 // 카드 빌더
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-function buildCard(clip) {
+function buildCard(clip, editable = false) {
   const el = document.createElement('div');
-  el.className = 'clip-card';
+  el.className = 'clip-card' + (editable ? ' clip-card--editable' : '');
   el.innerHTML = `
     <div class="clip-card__meta">${clip.flag || ''} ${clip.source} · ${clip.dayLabel}</div>
     <blockquote class="clip-card__text">${clip.text}</blockquote>
@@ -479,11 +480,13 @@ function buildCard(clip) {
     e.stopPropagation();
     removeClip(clip.clipId, el);
   });
-  el.addEventListener('click', e => {
-    if (e.target.closest('.clip-card__remove')) return;
-    if (el.classList.contains('editing')) return;
-    enterEditMode(clip, el);
-  });
+  if (editable) {
+    el.addEventListener('click', e => {
+      if (e.target.closest('.clip-card__remove')) return;
+      if (el.classList.contains('editing')) return;
+      enterEditMode(clip, el);
+    });
+  }
   return el;
 }
 
@@ -587,7 +590,7 @@ function renderWeek() {
 
   const grid = document.createElement('div');
   grid.className = 'clip-grid';
-  [...weekClips].reverse().forEach(clip => grid.appendChild(buildCard(clip)));
+  [...weekClips].reverse().forEach(clip => grid.appendChild(buildCard(clip, true)));
   wrap.appendChild(grid);
 }
 
@@ -624,7 +627,7 @@ function renderMonth() {
       `;
       const grid = document.createElement('div');
       grid.className = 'clip-grid';
-      clips.forEach(clip => grid.appendChild(buildCard(clip)));
+      clips.forEach(clip => grid.appendChild(buildCard(clip, false)));
       section.appendChild(grid);
       wrap.appendChild(section);
     });
@@ -686,7 +689,7 @@ function renderAll() {
 
     const grid = document.createElement('div');
     grid.className = 'clip-grid';
-    [...clips].reverse().forEach(clip => grid.appendChild(buildCard(clip)));
+    [...clips].reverse().forEach(clip => grid.appendChild(buildCard(clip, false)));
     body.appendChild(grid);
 
     group.appendChild(toggle);
