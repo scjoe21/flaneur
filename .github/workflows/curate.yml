@@ -1,8 +1,8 @@
-name: 주간 콘텐츠 자동 생성
+name: 주간 자동 발행
 
 on:
   schedule:
-    - cron: '0 15 * * 6'   # 토요일 자정 KST (15:00 UTC)
+    - cron: '0 1 * * 1'   # 매주 월요일 오전 10시 KST (1:00 UTC)
   workflow_dispatch:
     inputs:
       reason:
@@ -11,8 +11,8 @@ on:
         default: '수동 실행'
 
 jobs:
-  generate:
-    name: Claude API로 다음 주 콘텐츠 생성
+  publish:
+    name: 피드 수집 → AI 큐레이션 → 발행
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -26,19 +26,22 @@ jobs:
         with:
           python-version: '3.12'
 
-      - name: anthropic 패키지 설치
+      - name: 의존성 설치
         run: pip install anthropic
 
-      - name: 콘텐츠 생성 실행
-        run: python scripts/generate_news.py
+      - name: 피드 수집
+        run: python scripts/fetch_feeds.py
+
+      - name: AI 큐레이션
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/curate.py
 
-      - name: news.json 커밋 및 푸시
+      - name: 변경사항 커밋 및 푸시
         run: |
           git config user.name  "flaneur-bot"
           git config user.email "bot@flaneur.kr"
-          git add data/news.json
+          git add data/feeds/ data/news.json
           git diff --cached --quiet || \
-            git commit -m "주간 콘텐츠 자동 생성 — $(date -u '+%Y-W%V')"
+            git commit -m "주간 자동 발행 — $(date -u '+%Y-%m-%d')"
           git push
