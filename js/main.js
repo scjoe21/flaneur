@@ -393,8 +393,12 @@ function refreshSavedPanel() {
       <div class="saved-item__source">${clip.flag} ${clip.source} · ${clip.dayLabel}</div>
       <blockquote class="saved-item__clip">${clip.text}</blockquote>
       <div class="saved-item__title">${clip.articleTitle}</div>
-      <button class="saved-item__remove" data-id="${clip.clipId}">✕</button>
+      <div class="saved-item__btns">
+        <button class="saved-item__edit" title="편집">✎</button>
+        <button class="saved-item__remove" title="삭제">✕</button>
+      </div>
     `;
+
     el.querySelector('.saved-item__remove').addEventListener('click', e => {
       e.stopPropagation();
       clipList = clipList.filter(c => c.clipId !== clip.clipId);
@@ -402,8 +406,87 @@ function refreshSavedPanel() {
       el.remove();
       updateClipBadge();
     });
+
+    el.querySelector('.saved-item__edit').addEventListener('click', e => {
+      e.stopPropagation();
+      if (!el.classList.contains('editing')) enterSavedItemEdit(clip, el);
+    });
+
+    el.addEventListener('click', e => {
+      if (e.target.closest('.saved-item__btns')) return;
+      if (e.target.closest('.saved-item__edit-actions')) return;
+      if (el.classList.contains('editing')) return;
+      enterSavedItemEdit(clip, el);
+    });
+
     body.appendChild(el);
   });
+}
+
+function enterSavedItemEdit(clip, el) {
+  el.classList.add('editing');
+
+  const blockquote = el.querySelector('.saved-item__clip');
+  const titleEl    = el.querySelector('.saved-item__title');
+  const btnsEl     = el.querySelector('.saved-item__btns');
+
+  const textarea = document.createElement('textarea');
+  textarea.className = 'saved-item__textarea';
+  textarea.value = clip.text;
+  blockquote.replaceWith(textarea);
+  textarea.focus();
+
+  titleEl.style.display = 'none';
+  btnsEl.style.display  = 'none';
+
+  const actions = document.createElement('div');
+  actions.className = 'saved-item__edit-actions';
+  actions.innerHTML = `
+    <button class="saved-item__cancel">취소</button>
+    <button class="saved-item__save">저장</button>
+  `;
+  el.appendChild(actions);
+
+  actions.querySelector('.saved-item__save').addEventListener('click', e => {
+    e.stopPropagation();
+    const newText = textarea.value.trim();
+    if (!newText) return;
+    const idx = clipList.findIndex(c => c.clipId === clip.clipId);
+    if (idx >= 0) {
+      clipList[idx] = { ...clipList[idx], text: newText };
+      clip.text = newText;
+      localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
+    }
+    exitSavedItemEdit(clip, el);
+    showToast('수정했습니다.');
+  });
+
+  actions.querySelector('.saved-item__cancel').addEventListener('click', e => {
+    e.stopPropagation();
+    exitSavedItemEdit(clip, el);
+  });
+
+  textarea.addEventListener('keydown', e => {
+    if (e.key === 'Escape') exitSavedItemEdit(clip, el);
+  });
+}
+
+function exitSavedItemEdit(clip, el) {
+  el.classList.remove('editing');
+
+  const textarea  = el.querySelector('.saved-item__textarea');
+  const titleEl   = el.querySelector('.saved-item__title');
+  const btnsEl    = el.querySelector('.saved-item__btns');
+  const actionsEl = el.querySelector('.saved-item__edit-actions');
+
+  const blockquote = document.createElement('blockquote');
+  blockquote.className = 'saved-item__clip';
+  blockquote.textContent = clip.text;
+  textarea.replaceWith(blockquote);
+
+  titleEl.style.display = '';
+  btnsEl.style.display  = '';
+  actionsEl?.remove();
 }
 
 // ── 에세이 미리보기 ──

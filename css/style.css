@@ -477,14 +477,50 @@ img { max-width: 100%; }
   font-size: 12px; font-weight: 400;
   color: var(--text-muted); margin-top: 4px;
 }
-.saved-item__remove {
+.saved-item.editing { cursor: default; }
+.saved-item__btns {
   position: absolute; top: 10px; right: 10px;
+  display: flex; gap: 4px;
+}
+.saved-item__edit,
+.saved-item__remove {
   width: 24px; height: 24px; border-radius: 50%;
   background: var(--bg-subtle); color: var(--text-light);
   display: flex; align-items: center; justify-content: center;
   font-size: 12px; transition: var(--transition);
 }
+.saved-item__edit:hover { background: #e0f0ff; color: #2563eb; }
 .saved-item__remove:hover { background: #fee2e2; color: #dc2626; }
+.saved-item__textarea {
+  width: 100%; box-sizing: border-box;
+  font-family: inherit;
+  font-size: 13px; color: var(--text);
+  background: var(--bg-subtle);
+  border: 1px solid var(--accent);
+  border-radius: var(--radius);
+  padding: 8px 10px;
+  resize: vertical; line-height: 1.6;
+  min-height: 90px;
+  transition: border-color 0.15s;
+}
+.saved-item__textarea:focus { outline: none; }
+.saved-item__edit-actions {
+  display: flex; gap: 6px; justify-content: flex-end;
+  margin-top: 8px;
+}
+.saved-item__save {
+  padding: 5px 14px;
+  background: var(--accent); color: #fff;
+  border-radius: var(--radius);
+  font-size: 12px; font-weight: 600; cursor: pointer;
+}
+.saved-item__cancel {
+  padding: 5px 12px;
+  background: var(--bg-subtle);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  font-size: 12px; color: var(--text-muted); cursor: pointer;
+}
 .saved-empty {
   text-align: center; padding: 40px 20px;
   color: var(--text-muted); font-size: 14px;
