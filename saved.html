@@ -54,6 +54,24 @@
       background: var(--accent);
       color: #fff;
     }
+    .shelf-tab__sub {
+      display: block;
+      font-size: 10px;
+      color: var(--text-light);
+      font-weight: 400;
+      margin-top: 2px;
+      letter-spacing: 0.04em;
+    }
+    .shelf-tab.active .shelf-tab__sub { color: var(--accent); }
+
+    /* ── 주제별 그룹 ── */
+    .theme-group .month-group__toggle { background: var(--bg-card); }
+    .theme-group.open .month-group__toggle { background: #faf8f2; }
+    .theme-group__label {
+      font-family: var(--font-serif);
+      font-size: 15px; font-weight: 600;
+      color: var(--text);
+    }
 
     /* ── 탭 패널 ── */
     .shelf-panel { display: none; }
@@ -254,6 +272,7 @@
       </button>
       <button class="shelf-tab" data-shelf="all">
         전체 <span class="shelf-count" id="count-all">0</span>
+        <span class="shelf-tab__sub">주제별</span>
       </button>
     </div>
 
@@ -341,7 +360,94 @@ clipList = clipList.map(clip => {
 if (migrated) localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 분류
+// 철학 주제 분류
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+const THEMES = [
+  {
+    id: '욕망',
+    label: '욕망과 쾌락',
+    keywords: ['욕망', '욕구', '갈망', '충동', '쾌락', '탐욕', '유혹', '절제', '금욕', '중독',
+               'desire', 'pleasure', 'craving', 'appetite', 'lust', 'temperance',
+               'désir', 'plaisir', 'Begierde', 'Lust', 'desiderio']
+  },
+  {
+    id: '자유',
+    label: '자유와 의지',
+    keywords: ['자유', '의지', '선택', '자율', '자유의지', '결정', '해방', '책임',
+               'freedom', 'liberty', 'autonomy', 'will', 'choice', 'responsibility',
+               'liberté', 'Freiheit', 'libertà', 'libre arbitre']
+  },
+  {
+    id: '정의',
+    label: '정의와 윤리',
+    keywords: ['정의', '공정', '평등', '도덕', '윤리', '불평등', '권리', '의무', '법', '규범',
+               'justice', 'ethics', 'moral', 'equality', 'rights', 'fairness', 'norm',
+               'Gerechtigkeit', 'justice', 'giustizia', 'morale']
+  },
+  {
+    id: '행복',
+    label: '행복과 의미',
+    keywords: ['행복', '만족', '평온', '기쁨', '의미', '목적', '번영', '안녕', '고통', '불안',
+               'happiness', 'joy', 'meaning', 'purpose', 'flourishing', 'wellbeing', 'suffering', 'anxiety',
+               'bonheur', 'Glück', 'felicità', 'eudaimonia']
+  },
+  {
+    id: '관계',
+    label: '관계와 타인',
+    keywords: ['관계', '사랑', '우정', '타인', '공동체', '연대', '가족', '고독', '외로움', '소통',
+               'love', 'friendship', 'community', 'solidarity', 'other', 'loneliness', 'connection',
+               'amour', 'Liebe', 'amore', 'amitié']
+  },
+  {
+    id: '환경',
+    label: '자연과 환경',
+    keywords: ['환경', '자연', '생태', '기후', '지구', '생명', '지속가능', '동물', '오염', '녹색',
+               'nature', 'environment', 'climate', 'ecology', 'earth', 'life', 'green', 'animal',
+               'Umwelt', 'environnement', 'natura', 'ambiente']
+  },
+  {
+    id: '기술',
+    label: '과학과 기술',
+    keywords: ['기술', 'ai', '인공지능', '디지털', '알고리즘', '과학', '기계', '자동화', '인터넷', '소셜미디어', '데이터',
+               'technology', 'artificial', 'digital', 'science', 'algorithm', 'automation', 'data', 'robot',
+               'technologie', 'Technologie', 'tecnologia', 'intelligence artificielle']
+  },
+  {
+    id: '시간',
+    label: '시간과 죽음',
+    keywords: ['시간', '기억', '죽음', '과거', '미래', '현재', '순간', '영원', '노화', '유한', '망각',
+               'time', 'death', 'memory', 'past', 'future', 'eternity', 'mortality', 'forgetting',
+               'temps', 'Zeit', 'tempo', 'mort', 'Tod', 'morte']
+  },
+  {
+    id: '노동',
+    label: '노동과 경제',
+    keywords: ['노동', '일', '직업', '경제', '자본', '소비', '생산', '빈곤', '부', '불평등', '계급',
+               'work', 'labor', 'economy', 'capital', 'capitalism', 'production', 'poverty', 'class',
+               'travail', 'Arbeit', 'lavoro', 'capitalisme']
+  },
+  {
+    id: '존재',
+    label: '존재와 진리',
+    keywords: ['존재', '실존', '진리', '인식', '허무', '자아', '정체성', '현실', '의식', '이성',
+               'existence', 'truth', 'being', 'self', 'identity', 'consciousness', 'reason', 'reality',
+               'Sein', 'être', 'essere', 'existenz']
+  },
+];
+
+function classifyClip(clip) {
+  const haystack = ((clip.text || '') + ' ' + (clip.articleTitle || '')).toLowerCase();
+  for (const theme of THEMES) {
+    for (const kw of theme.keywords) {
+      if (haystack.includes(kw.toLowerCase())) return theme.id;
+    }
+  }
+  return '기타';
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 시간대 분류
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 function getShelf(clip) {
@@ -525,7 +631,7 @@ function renderMonth() {
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 전체 렌더 (월별 아코디언)
+// 전체 렌더 (주제별 아코디언)
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 function renderAll() {
@@ -533,62 +639,60 @@ function renderAll() {
   wrap.innerHTML = '';
 
   if (!allClips.length) {
-    wrap.innerHTML = emptyHTML('이전 달에 저장한 구절이 없습니다.<br>이번 달이 지나면 이곳으로 이동합니다.');
+    wrap.innerHTML = emptyHTML('한 달이 지난 구절이 없습니다.<br>이번 달이 지나면 철학 주제별로 자동 분류되어 이곳에 보관됩니다.');
     return;
   }
 
-  // 월별 그룹화 (최신 월 먼저)
-  const byMonth = {};
-  [...allClips].reverse().forEach(clip => {
-    if (!byMonth[clip.monthKey]) byMonth[clip.monthKey] = [];
-    byMonth[clip.monthKey].push(clip);
+  // 주제별 분류
+  const byTheme = {};
+  allClips.forEach(clip => {
+    const tid = classifyClip(clip);
+    if (!byTheme[tid]) byTheme[tid] = [];
+    byTheme[tid].push(clip);
   });
 
-  Object.entries(byMonth)
-    .sort(([a], [b]) => b.localeCompare(a))
-    .forEach(([mk, clips], idx) => {
-      const group = document.createElement('div');
-      group.className = 'month-group' + (idx === 0 ? ' open' : '');
+  // 안내 문구
+  const note = document.createElement('p');
+  note.style.cssText = 'font-size:13px;color:var(--text-muted);margin-bottom:20px;line-height:1.8';
+  note.textContent = '한 달이 지난 구절을 텍스트 키워드 기반으로 철학 주제에 자동 분류합니다.';
+  wrap.appendChild(note);
 
-      const toggle = document.createElement('button');
-      toggle.className = 'month-group__toggle';
-      toggle.innerHTML = `
-        ${monthKeyLabel(mk)}
-        <span class="month-group__count">${clips.length}개</span>
-        <span class="arrow">▼</span>
-      `;
-      toggle.addEventListener('click', () => {
-        group.classList.toggle('open');
-      });
+  // 정의된 테마 순서 + 미분류(기타)
+  const themeOrder = THEMES.map(t => t.id).concat(['기타']);
+  let firstOpen = true;
 
-      const body = document.createElement('div');
-      body.className = 'month-group__body';
+  themeOrder.forEach(tid => {
+    const clips = byTheme[tid];
+    if (!clips?.length) return;
 
-      // 월 내부도 주차별 구분
-      const byWeek = {};
-      clips.forEach(clip => {
-        if (!byWeek[clip.weekKey]) byWeek[clip.weekKey] = [];
-        byWeek[clip.weekKey].push(clip);
-      });
+    const themeInfo = THEMES.find(t => t.id === tid);
+    const label = themeInfo ? themeInfo.label : '기타';
 
-      Object.entries(byWeek)
-        .sort(([a], [b]) => b.localeCompare(a))
-        .forEach(([wk, wClips]) => {
-          const divider = document.createElement('div');
-          divider.className = 'week-divider';
-          divider.textContent = weekKeyLabel(wk);
-          body.appendChild(divider);
+    const group = document.createElement('div');
+    group.className = 'month-group theme-group' + (firstOpen ? ' open' : '');
+    firstOpen = false;
 
-          const grid = document.createElement('div');
-          grid.className = 'clip-grid';
-          wClips.forEach(clip => grid.appendChild(buildCard(clip)));
-          body.appendChild(grid);
-        });
+    const toggle = document.createElement('button');
+    toggle.className = 'month-group__toggle';
+    toggle.innerHTML = `
+      <span class="theme-group__label">${label}</span>
+      <span class="month-group__count">${clips.length}개</span>
+      <span class="arrow">▼</span>
+    `;
+    toggle.addEventListener('click', () => group.classList.toggle('open'));
 
-      group.appendChild(toggle);
-      group.appendChild(body);
-      wrap.appendChild(group);
-    });
+    const body = document.createElement('div');
+    body.className = 'month-group__body';
+
+    const grid = document.createElement('div');
+    grid.className = 'clip-grid';
+    [...clips].reverse().forEach(clip => grid.appendChild(buildCard(clip)));
+    body.appendChild(grid);
+
+    group.appendChild(toggle);
+    group.appendChild(body);
+    wrap.appendChild(group);
+  });
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
