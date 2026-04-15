@@ -1,9 +1,9 @@
 name: 주간 AI 큐레이션
 
 on:
-  # 매주 월요일 오전 9시 30분 KST (0시 30분 UTC) — 피드 수집 완료 후 실행
-  schedule:
-    - cron: '30 0 * * 1'
+  # generate-news.yml(일요일 KST)이 주간 콘텐츠를 담당하므로 스케줄 비활성화
+  # schedule:
+  #   - cron: '30 0 * * 1'
 
   # 수동 실행 (관리자 패널 또는 Actions 탭)
   workflow_dispatch:

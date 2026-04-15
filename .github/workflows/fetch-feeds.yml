@@ -12,10 +12,6 @@ on:
         description: '실행 사유 (선택)'
         required: false
         default: '수동 실행'
-      force_curate:
-        description: '강제 큐레이션 실행 (월요일 아니어도)'
-        required: false
-        default: 'false'
 
 jobs:
   fetch:
@@ -36,36 +32,14 @@ jobs:
       - name: 피드 수집 실행
         run: python scripts/fetch_feeds.py
 
-      - name: 큐레이션 실행 여부 확인
-        id: day_check
-        run: |
-          IS_MONDAY=$([ "$(date -u +%u)" -eq 1 ] && echo 'true' || echo 'false')
-          FORCE="${{ github.event.inputs.force_curate }}"
-          if [ "$IS_MONDAY" = "true" ] || [ "$FORCE" = "true" ]; then
-            echo "run_curate=true" >> $GITHUB_OUTPUT
-          else
-            echo "run_curate=false" >> $GITHUB_OUTPUT
-          fi
-          echo "오늘 요일: $(date -u +%A), 큐레이션 실행: $(cat $GITHUB_OUTPUT | grep run_curate | cut -d= -f2)"
-
-      - name: Claude 자동 큐레이션 (주간 news.json 생성)
-        if: steps.day_check.outputs.run_curate == 'true'
-        env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-        run: python scripts/curate_news.py
-
       - name: 변경사항 커밋 및 푸시
         run: |
           git config user.name  "flaneur-bot"
           git config user.email "bot@flaneur.kr"
-          git add data/feeds/ data/news.json
+          git add data/feeds/
           # 변경사항 있을 때만 커밋
           if ! git diff --cached --quiet; then
-            if [ "${{ steps.day_check.outputs.run_curate }}" = "true" ]; then
-              git commit -m "자동 큐레이션 — $(date -u '+%Y-%m-%d %H:%M UTC')"
-            else
-              git commit -m "자동 피드 수집 — $(date -u '+%Y-%m-%d %H:%M UTC')"
-            fi
+            git commit -m "자동 피드 수집 — $(date -u '+%Y-%m-%d %H:%M UTC')"
             git push
           else
             echo "변경사항 없음, 커밋 생략"
