@@ -1,8 +1,24 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-04-14T01:59:33.077089+00:00",
+  "fetchedAt": "2026-04-16T02:04:01.828816+00:00",
   "items": [
+    {
+      "title": "Discipline",
+      "url": "",
+      "description": "With the rise of hustle culture, the grind, and capitalist productivity, we often associate discipline with toxicity. But is there still value in disciplining oneself? In episode 169 of Overthink, Ellie and David take a disciplined approach to this question and more! They discuss modern culture’s rejection of discipline and how this manifests on the left vs the right, the association between discipline and punishment, and Michel Foucault’s seminal ideas on disciplinary power. How can we discipli",
+      "date": "Tue, 14 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
     {
       "title": "Talking Politics with Sarah Stein Lubrano",
       "url": "",
@@ -177,22 +193,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "Living With Men with Manon Garcia",
-      "url": "",
-      "description": "Content warning: this episode extensively discusses rape, sexual violence, and incest. In episode 154 of Overthink, Ellie and David talk to philosopher Manon Garcia about her book,  Living with Men: Reflections on the Pelicot Trial . They discuss the rape case of Gisèle Pelicot and how the subsequent trial of her husband and fifty additional men sheds light on the normalization and acceptance of sexual violence in what is known as 'rape culture.' In what ways is the current understanding of cons",
-      "date": "Tue, 30 Dec 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {

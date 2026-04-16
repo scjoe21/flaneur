@@ -1,70 +1,38 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-14T01:59:34.070819+00:00",
+  "fetchedAt": "2026-04-16T02:04:02.692659+00:00",
   "items": [
     {
-      "title": "This isn’t a trip, it’s the most challenging therapy session of your life",
-      "url": "https://bigthink.com/series/full-interview/mdma-therapy-yehuda/",
-      "description": "Trauma doesn’t end when the danger does, and for decades, science couldn’t explain why. \n Rachel Yehuda, a leading PTSD researcher, has spent her career inside that question, uncovering the way that trauma can leave impressions on our genes, sometimes passing biological echoes of those events to the next generation. \n Now, she’s focused on MDMA therapy, which could actually break the chain. \n \n This video  This isn’t a trip, it’s the most challenging therapy session of your life  is featured on ",
-      "date": "Fri, 10 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/A1-Web-Yehuda.jpg?w=640",
+      "title": "How to get employees to actually care about your L&D program",
+      "url": "https://bigthink.com/plus/market-your-learning-and-development-programs/",
+      "description": "Marketers wake up every morning convinced nobody cares about what they’re selling. Most learning and development (L&D) pros assume the opposite, that attention comes with the job title, or at least with the mandatory completion requirement. \n That gap explains a lot. \n Mandatory Doesn’t Mean Engaged \n Think about the last compliance course you clicked through. You showed up. You moved the slider. You passed the quiz. And three days later, you remembered almost nothing. \n The training counted as ",
+      "date": "Wed, 15 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-16.01.21.png?w=640",
       "videoId": "",
-      "priority": 44,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 5,
         "flaneur": 4,
         "novelty": 10,
-        "total": 44
+        "total": 39
       }
     },
     {
-      "title": "The physiology of dreams, explained by 2 scientists",
-      "url": "https://bigthink.com/perception-box/the-physiology-of-dreams-explained/",
-      "description": "Every 90 minutes, our bodies go paralyzed while our brains become more active than during waking life. Sleep psychologist Dr. Shelby Harris and neuroscientist Dr. Patrick McNamara, Associate Professor of Neurology at Boston University, dig into one of the most fascinating mysteries in human biology: why we dream and what our brains are actually doing during REM sleep. They explore competing theories of what dreaming is for, McNamara makes a compelling case that REM sleep may have been a key driv",
-      "date": "Thu, 09 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/UC-BB-Dreams-Web-C.png?w=640",
+      "title": "There is no you in your brain — your identity is a “society of the mind”",
+      "url": "https://bigthink.com/books/our-brains-our-selves/",
+      "description": "What makes us who we are? Most of us might say that it is our background that creates our identities: our families, where we’ve lived, how we were brought up and educated, the people who have influenced us, the jobs we’ve held. But there is something far more fundamental that makes us who we are, and which transcends social and cultural experiences. This is our brain. Our brains create us. No matter where you are from, where you live or have lived, the language you speak, the color of your skin,",
+      "date": "Tue, 14 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/no-you-in-your-mind.jpg?w=640",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
+        "daily": 30,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 10,
+        "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Over-optimizing your life is making you fragile, not better",
-      "url": "https://bigthink.com/series/full-interview/excellence-stulberg/",
-      "description": "Most people chasing excellence are chasing the wrong thing entirely. Brad Stulberg argues that the 4am routines, optimization stacks, and recovery scores are just elaborate performance passed off as “excellence.” \n Stulberg breaks down the biology, philosophy, and psychology behind genuine excellence and how to reach it. \n This video  Over-optimizing your life is making you fragile, not better  is featured on  Big Think .",
-      "date": "Fri, 10 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-09-at-11.24.37-AM-1.png?w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "If life exists on Mars, it’s likely hiding — or maybe sleeping",
-      "url": "https://bigthink.com/science-tech/if-life-exists-on-mars-its-likely-hiding-or-maybe-sleeping/",
-      "description": "With the latest detection of organic compounds by the  Curiosity  rover, the case for past life on Mars becomes stronger than ever, as suggested in  a recent paper by Alexander Pavlov in the journal  Astrobiology . And that lends additional credence to an even more exciting idea — that living organisms may still exist on Mars today. \n If that’s true, what form should we expect them to take? And where should we search for them? The planet’s surface is a brutal environment for any known type of or",
-      "date": "Thu, 09 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/life-on-mars-hiding_compressed.jpg?w=640",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -84,35 +52,35 @@
       }
     },
     {
-      "title": "Ask Ethan: How did Artemis II break Apollo’s distance record?",
-      "url": "https://bigthink.com/starts-with-a-bang/how-artemis-ii-break-apollo-distance-record/",
-      "description": "On April 6, 2026, humanity set an all-time record as part of the Artemis II mission: the distance record for how far a living human has ever traveled away from planet Earth. Traveling farther than any other humans in history, astronauts Reid Wiseman, Victor Glover, Christina Koch, and Jeremy Hansen reached a maximum distance of 406,773 km (252,757 miles), breaking the previous record set way back on April 15, 1970 by the Apollo 13 mission. For 56 years, the Apollo 13 record stood, as those astro",
-      "date": "Fri, 10 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/55193207308_5031aaa6c0_o.jpg?w=640",
+      "title": "Everything in the Universe changes by adding enough mass",
+      "url": "https://bigthink.com/starts-with-a-bang/everything-changes-adding-mass/",
+      "description": "Out there in the vast depths of space, from our Solar System to the farthest reaches of the Universe, all sorts of objects can be found. There are enormous numbers of small bodies, from tiny moonlets to asteroids to comets and more, that simply aren’t massive enough to pull themselves into hydrostatic equilibrium. Beyond that, there are round planetary bodies — numerous moons, dwarf planets, and even rocky worlds themselves — that have enough mass to get that job done. At still higher masses, we",
+      "date": "Tue, 14 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/11/COLOR_IMAGE_Zp_Lp_Zp_Halpha_LRGB.jpg?w=640",
       "videoId": "",
-      "priority": 20,
+      "priority": 14,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 10,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 14
       }
     },
     {
-      "title": "The important role of ignorance in building a better society",
-      "url": "https://bigthink.com/books/ignorance-better-societies/",
-      "description": "Imagine that you live in total freedom among a group of people unencumbered by traditions, customs, and any other restrictions. Would that be the pinnacle of joy? Maybe not so much. There would be no government, no police, no fire department, no traffic laws, no court of justice; life would be totally free but totally lawless. As the political philosopher Thomas Hobbes (1588–1679) wrote in his magnum opus  Leviathan , there would be no culture, no navigation, no knowledge of the face of the eart",
-      "date": "Thu, 09 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/ignorance_excerpt.jpg?w=640",
+      "title": "Rome’s triumph was the ancient world’s most effective piece of propaganda",
+      "url": "https://bigthink.com/series/the-big-think-interview/roman-triumph-mary-beard/",
+      "description": "Mary Beard uncovers the spectacle of the Ancient Roman parade, the Roman Triumph. Simultaneously a declaration of Roman supremacy and an admission that conquest may be theft at scale, these Roman propaganda events were so terrifying that Cleopatra famously chose death over appearing in one. \n \n This video  Rome’s triumph was the ancient world’s most effective piece of propaganda  is featured on  Big Think .",
+      "date": "Tue, 14 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/C1-Web-Beard.jpg?w=640",
       "videoId": "",
-      "priority": 20,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
-        "phil": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 10
       }
     },
     {
@@ -129,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The arc of human history is toward cooperation, not division",
+      "url": "https://bigthink.com/history-society/the-great-progression-human-development/",
+      "description": "In the early 1980s, I hitchhiked from London to Cape Town at the tip of South Africa. The overland trip took more than six months, and I traveled about 11,000 miles — almost half the circumference of the Earth. I dropped down through Europe, crossed into Morocco via the Strait of Gibraltar, and then traveled across North Africa. From Egypt, I followed the Nile all the way to its source in East Africa before making my way down to South Africa, which was still under apartheid at the time. \n I was ",
+      "date": "Tue, 14 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/TGP-19_lead-1.png?w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "This viral image of Saturn isn’t real; it’s AI slop",
+      "url": "https://bigthink.com/starts-with-a-bang/viral-saturn-real-ai-slop/",
+      "description": "Back in 1997, a joint venture between NASA, ESA, and the  Italian Space Agency  (ASI) was launched with the explicit purpose of studying the most distant naked eye planet of the Solar System: Saturn. The Cassini-Huygens mission, unlike the predecessor missions that visited Saturn — Pioneer 11, Voyager 1, and Voyager 2 — wasn’t simply a fly-by mission, but rather flew to Saturn with the intention of remaining there. After a seven year journey to get there, Cassini arrived, where it had many close",
+      "date": "Wed, 15 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/coverslop.jpg?w=640",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]
