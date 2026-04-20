@@ -30,6 +30,7 @@ jobs:
         run: pip install anthropic
 
       - name: 피드 수집
+        continue-on-error: true
         run: python scripts/fetch_feeds.py
 
       - name: AI 큐레이션
