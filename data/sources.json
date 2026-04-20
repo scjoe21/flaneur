@@ -27,6 +27,30 @@
       "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCvRgiAmogg7a_BgQ_Ftm6fA"
     },
     {
+      "id": "france-culture-philo",
+      "name": "France Culture — Philosophie",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "rss",
+      "url": "https://www.radiofrance.fr/franceculture/philosophie",
+      "description": "프랑스 공영라디오 철학 프로그램. 매일 방송, 안정적 RSS.",
+      "rssUrl": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie/feed"
+    },
+    {
+      "id": "philosophie-magazine",
+      "name": "Philosophie Magazine",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "rss",
+      "url": "https://www.philomag.com",
+      "description": "프랑스 대중 철학 잡지. 일상·사회 현상과 철학을 연결.",
+      "rssUrl": "https://www.philomag.com/feed"
+    },
+    {
       "id": "gert-scobel",
       "name": "Gert Scobel",
       "country": "germany",
@@ -38,6 +62,30 @@
       "url": "https://www.youtube.com/@GertScobel",
       "description": "ZDF 철학·과학 교차 분석. 과학적 인과론과 철학 결합.",
       "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCHnmeuSOn1Hscizw6otqWrA"
+    },
+    {
+      "id": "deutschlandfunk-philosophie",
+      "name": "Deutschlandfunk — Philosophie",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "rss",
+      "url": "https://www.deutschlandfunk.de/philosophie",
+      "description": "독일 공영라디오 철학 섹션. 시사·사회 현상 철학적 분석.",
+      "rssUrl": "https://www.deutschlandfunk.de/philosophie.2173.de.rss"
+    },
+    {
+      "id": "hohe-luft",
+      "name": "Hohe Luft Magazin",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "rss",
+      "url": "https://www.hoheluft-magazin.de",
+      "description": "독일 대중 철학 잡지. 일상·문화 주제를 철학적으로 다룸.",
+      "rssUrl": "https://www.hoheluft-magazin.de/feed/"
     },
     {
       "id": "rick-dufer",
@@ -66,6 +114,18 @@
       "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCP8R6WbHCErZhvlEC-hmT_w"
     },
     {
+      "id": "rai-radio3-filosofia",
+      "name": "RAI Radio 3 — Filosofia",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "flag": "🇮🇹",
+      "day": "wednesday",
+      "type": "rss",
+      "url": "https://www.raiplayradio.it/programmi/uominieprofeti/",
+      "description": "이탈리아 공영라디오 RAI의 철학·문화 팟캐스트.",
+      "rssUrl": "https://www.spreaker.com/show/3290253/episodes/feed"
+    },
+    {
       "id": "philosophy-now",
       "name": "Philosophy Now",
       "country": "uk",
@@ -90,6 +150,30 @@
       "rssUrl": "https://rss.art19.com/overthink"
     },
     {
+      "id": "aeon",
+      "name": "Aeon Magazine",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "rss",
+      "url": "https://aeon.co",
+      "description": "영미권 최고 수준의 철학·사상 에세이 매거진. 일상 현상을 철학과 자연스럽게 연결.",
+      "rssUrl": "https://aeon.co/feed.rss"
+    },
+    {
+      "id": "philosophy-bites",
+      "name": "Philosophy Bites",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "rss",
+      "url": "https://philosophybites.com",
+      "description": "영국 옥스퍼드·워릭 교수 운영 철학 팟캐스트. 철학자 인터뷰 중심.",
+      "rssUrl": "https://philosophybites.com/atom.xml"
+    },
+    {
       "id": "daily-stoic",
       "name": "Daily Stoic",
       "country": "usa",
@@ -112,6 +196,18 @@
       "url": "https://bigthink.com",
       "description": "미국 지식 미디어. 과학·철학·사회 교차 콘텐츠.",
       "rssUrl": "https://bigthink.com/feed/"
+    },
+    {
+      "id": "the-atlantic-ideas",
+      "name": "The Atlantic — Ideas",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://www.theatlantic.com/ideas/",
+      "description": "미국 대표 시사·사상 잡지. 사회현상과 철학·윤리를 깊이 있게 연결.",
+      "rssUrl": "https://www.theatlantic.com/feed/channel/ideas/"
     }
   ]
 }
