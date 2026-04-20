@@ -156,7 +156,7 @@ def extract_json(text: str) -> dict:
 def curate_day(client: anthropic.Anthropic, day: str, items: list) -> list:
     """Claude API로 해당 요일 상위 3개 선택 + 한국어 요약 반환."""
     response = client.messages.create(
-        model="claude-haiku-4-5-20251001",
+        model="claude-sonnet-4-6",
         max_tokens=8192,
         system=SYSTEM_PROMPT,
         messages=[{"role": "user", "content": build_user_prompt(day, items)}],
