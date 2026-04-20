@@ -1,0 +1,71 @@
+{
+  "sourceId": "rai-radio3-filosofia",
+  "sourceName": "RAI Radio 3 — Filosofia",
+  "fetchedAt": "2026-04-20T13:36:01.163164+00:00",
+  "items": [
+    {
+      "title": "Episodio 4 - El show de Juan Antonio",
+      "url": "https://www.spreaker.com/user/11008991/episodio-4-el-show-de-juan-antonio",
+      "description": "",
+      "date": "Wed, 09 Jan 2019",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Episodio 3 - El show de Juan Antonio",
+      "url": "https://www.spreaker.com/user/11008991/episodio-3-el-show-de-juan-antonio",
+      "description": "",
+      "date": "Tue, 08 Jan 2019",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Episodio 2 - El show de Juan Antonio",
+      "url": "https://www.spreaker.com/user/11008991/episodio-2-el-show-de-juan-antonio",
+      "description": "",
+      "date": "Tue, 08 Jan 2019",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Mi primer episodio con Spreaker Studio",
+      "url": "https://www.spreaker.com/user/11008991/mi-primer-episodio-con-spreaker-studio",
+      "description": "",
+      "date": "Tue, 08 Jan 2019",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    }
+  ]
+}

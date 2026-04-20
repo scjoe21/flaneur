@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-16T02:04:02.692659+00:00",
+  "fetchedAt": "2026-04-20T13:36:03.516640+00:00",
   "items": [
+    {
+      "title": "Your suffering is a compass. Here’s how to read it.",
+      "url": "https://bigthink.com/series/full-interview/true-happiness-maturity/",
+      "description": "Most people are trying to solve the wrong problem, optimizing for happiness when happiness isn’t actually a goal, it’s a byproduct.  Mark Manson, author of  The Subtle Art of Not Giving a F * ck , argues that the entire self-help industry has been selling ephemeral highs: affirmations, visualizations, the relentless pursuit of feeling good. The research doesn’t support it, and more importantly, neither does lived experience. \n \n This video  Your suffering is a compass. Here’s how to read it.  is",
+      "date": "Fri, 17 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-10.39.53-AM.png?w=640",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 45
+      }
+    },
     {
       "title": "How to get employees to actually care about your L&D program",
       "url": "https://bigthink.com/plus/market-your-learning-and-development-programs/",
@@ -17,6 +33,22 @@
         "flaneur": 4,
         "novelty": 10,
         "total": 39
+      }
+    },
+    {
+      "title": "How your brain builds and edits your identity",
+      "url": "https://bigthink.com/perception-box/how-your-brain-builds-and-edits-your-identity/",
+      "description": "Perception feels stable. Your sense of self feels solid. Yet neuroscientist Heather Berlin, psychologist Ethan Kross and neuroscientist Nicole Vignola explain that both are created by the brain. Through prediction, memory and neural pruning, the mind builds a narrative that feels coherent and fixed, even though modern science suggests that it’s continually shaped by pre-existing beliefs and experience. Seeing the construction clearly is the first step toward altering it. \n We created this video ",
+      "date": "Thu, 16 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/UC-BB-Perception-Identity-Web-A.png?w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -36,43 +68,43 @@
       }
     },
     {
-      "title": "4 classics that were basically written as propaganda",
-      "url": "https://bigthink.com/books/4-classics-propaganda/",
-      "description": "Authors write novels for many reasons. Anthony Burgess, of  A Clockwork Orange  fame, was once  described  as a man “always on a money-fishing expedition.” Ernest Vincent Wright wrote  Gadsby , a novel that avoids using the letter E, as a self-imposed challenge. Joan Didion processed her grief following the sudden death of her husband in her memoir  The Year of Magical Thinking . \n The books on this list were basically written as propaganda. Their authors devised them to advance a particular ide",
-      "date": "Mon, 13 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/12/Novels_Propoganda.jpg?w=640",
+      "title": "Ask Ethan: How long does it take planets to form?",
+      "url": "https://bigthink.com/starts-with-a-bang/how-long-take-planets-form/",
+      "description": "Here in our Universe, there were many profound steps that needed to occur in order for creatures like humans to be able to arise. We needed to forge heavy elements in previous generations of stars: elements that the Universe wasn’t born with, but that are required to enable molecules that can link up to form complex bonds and macroscopic structures. We needed enough of those elements so that when new stars formed, rocky planets could arise around them. And we needed enough time to pass so that l",
+      "date": "Fri, 17 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5f4e9558bdfe347880de396e_An-illustration-of-the-young-solar-system-at-the-end-of-its-protoplanetary-disk_960x0.jpg?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
       }
     },
     {
-      "title": "Everything in the Universe changes by adding enough mass",
-      "url": "https://bigthink.com/starts-with-a-bang/everything-changes-adding-mass/",
-      "description": "Out there in the vast depths of space, from our Solar System to the farthest reaches of the Universe, all sorts of objects can be found. There are enormous numbers of small bodies, from tiny moonlets to asteroids to comets and more, that simply aren’t massive enough to pull themselves into hydrostatic equilibrium. Beyond that, there are round planetary bodies — numerous moons, dwarf planets, and even rocky worlds themselves — that have enough mass to get that job done. At still higher masses, we",
-      "date": "Tue, 14 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/11/COLOR_IMAGE_Zp_Lp_Zp_Halpha_LRGB.jpg?w=640",
+      "title": "Star birth doesn’t come from ignition, but from equilibrium",
+      "url": "https://bigthink.com/starts-with-a-bang/stars-ignition-equilibrium/",
+      "description": "Wherever star-formation happens, a classic cosmic story unfolds. \n \n \n \n A spiral galaxy typically consists of four main gaseous regions within the disk: diffuse atomic gas, dense molecular gas, stars and star clusters, and ionized regions of matter arising from energy injections from star-forming regions, young stars, and stellar cataclysms. JWST, along with the other PHANGS data sources, helps reveal different aspects of this life cycle, but once a galaxy’s gas is gone and no new gas reservoir",
+      "date": "Mon, 20 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/coverSH2-284.jpg?w=640",
       "videoId": "",
-      "priority": 14,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 14
+        "total": 15
       }
     },
     {
-      "title": "Rome’s triumph was the ancient world’s most effective piece of propaganda",
-      "url": "https://bigthink.com/series/the-big-think-interview/roman-triumph-mary-beard/",
-      "description": "Mary Beard uncovers the spectacle of the Ancient Roman parade, the Roman Triumph. Simultaneously a declaration of Roman supremacy and an admission that conquest may be theft at scale, these Roman propaganda events were so terrifying that Cleopatra famously chose death over appearing in one. \n \n This video  Rome’s triumph was the ancient world’s most effective piece of propaganda  is featured on  Big Think .",
-      "date": "Tue, 14 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/C1-Web-Beard.jpg?w=640",
+      "title": "Jan Morris, and the struggle between coherence and uncovering another’s inner life",
+      "url": "https://bigthink.com/books/jan-morris/",
+      "description": "“I think it could be claimed,” Morris wrote in a late unpublished fragment, “that during the second half of the twentieth century I wrote about more places than anyone else, and I was in a position to witness, and to reflect in my writing, many of the great historical events of the time. As I experienced all this first as a man, then as a woman, it might also be said (although I wouldn’t want to make much of this) that my viewpoint was unique.” \n The contradictions and anomalies that kept on com",
+      "date": "Fri, 17 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/jan-morris_excerpt.jpg?w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
@@ -84,19 +116,19 @@
       }
     },
     {
-      "title": "“One bad measurement” ruled out as Hubble tension explanation",
-      "url": "https://bigthink.com/starts-with-a-bang/bad-measurement-hubble-tension-explanation/",
-      "description": "For 15 years now, the  expanding Universe hasn’t added up . \n \n \n \n This graph shows a comparison between the value of H0, or the expansion rate today, as derived from Hubble Space Telescope Cepheids and anchors as well as other subsamples of JWST Cepheids (or other types of stars) and anchors. A comparison to Planck, which uses the early relic method instead of the distance ladder method, is also shown. Very clearly, the distance ladder and early relic methods do not yield mutually compatible r",
-      "date": "Mon, 13 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/noirlab2611b.jpg?w=640",
+      "title": "Can you explain the strong nuclear force without colors?",
+      "url": "https://bigthink.com/starts-with-a-bang/the-strong-nuclear-force-made-easy-without-colors-or-group-theory/",
+      "description": "If you were asked to think about a physical phenomenon that’s responsible for any sort of force in the Universe, what answer would you give? Most people, when asked, respond with one of two answers. Most people will give gravity as their answer: the attractive force between all objects with mass or energy. Alternatively, they’ll list any other force that occurs between atoms on Earth, all of which are some manifestation of the electromagnetic force. Either: \n \n there’s an attractive force betwee",
+      "date": "Thu, 16 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/12/gluony.jpg?w=640",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -105,38 +137,6 @@
       "description": "In the early 1980s, I hitchhiked from London to Cape Town at the tip of South Africa. The overland trip took more than six months, and I traveled about 11,000 miles — almost half the circumference of the Earth. I dropped down through Europe, crossed into Morocco via the Strait of Gibraltar, and then traveled across North Africa. From Egypt, I followed the Nile all the way to its source in East Africa before making my way down to South Africa, which was still under apartheid at the time. \n I was ",
       "date": "Tue, 14 Apr 2026",
       "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/TGP-19_lead-1.png?w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Starts With A Bang #128 – Planet formation and proto-protoplanets",
-      "url": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-128-planet-formation-and-proto-protoplanets/",
-      "description": "Whenever a new star forms, several processes appear to be nearly universal. A cloud of cold molecular gas contracts, fragments, and rapidly collapses in certain places. The densest, coldest clumps of gas contract first, drawing in larger and larger amounts of matter onto them. A large, massive enough clump will heat up and have a random shape: collapsing along the shortest axis first, forming a protostar at the center surrounded by a disk of material. That’s where the story of planet formation b",
-      "date": "Sat, 11 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/GoHam_JWST_NIRCam_short-e1775926572106.jpg?w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Militant democracy or creeping illiberalism? Germany’s free speech dilemma.",
-      "url": "https://bigthink.com/books/the-future-of-free-speech/",
-      "description": "Due to its Nazi past, Germany’s post–World War II militant democracy has been unusually aggressive in banning hatred and extremism. Early postwar laws prohibited Nazi symbols, propaganda, and organizations. A turning point came in 1960 with the “swastika epidemic” — a surge of anti-Semitic graffiti and attacks on synagogues. In response, the German parliament made it illegal to incite hatred or insult “segments of the population” in ways that might disturb public peace. The epidemic was later re",
-      "date": "Fri, 10 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/future-of-free-speech_excerpt.jpg?w=640",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
