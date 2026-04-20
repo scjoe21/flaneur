@@ -62,7 +62,7 @@ def load_feeds_for_day(sources: list, day: str) -> list:
             continue
         with open(feed_path, encoding="utf-8") as f:
             data = json.load(f)
-        for item in data.get("items", [])[:12]:   # 소스당 최대 12개
+        for item in data.get("items", [])[:6]:    # 소스당 최대 6개 (소스 수 증가로 조정)
             items.append({
                 "source":       src["name"],
                 "channelUrl":   src["url"],
