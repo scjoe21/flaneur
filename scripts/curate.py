@@ -144,25 +144,51 @@ def build_user_prompt(day: str, items: list) -> str:
 
 
 def extract_json(text: str) -> dict:
-    """응답에서 JSON 블록 추출."""
+    """응답에서 JSON 블록 추출. 파싱 실패 시 제어문자 정리 후 재시도."""
     text = text.strip()
     if "```json" in text:
         text = text.split("```json")[1].split("```")[0].strip()
     elif "```" in text:
         text = text.split("```")[1].split("```")[0].strip()
-    return json.loads(text)
+    try:
+        return json.loads(text)
+    except json.JSONDecodeError:
+        # JSON 문자열 값 내부의 리터럴 줄바꿈·탭을 이스케이프 처리
+        import re
+        cleaned = re.sub(r'(?<!\\)\n', r'\\n', text)
+        cleaned = re.sub(r'(?<!\\)\t', r'\\t', cleaned)
+        cleaned = re.sub(r'(?<!\\)\r', r'\\r', cleaned)
+        return json.loads(cleaned)
 
 
 def curate_day(client: anthropic.Anthropic, day: str, items: list) -> list:
-    """Claude API로 해당 요일 상위 3개 선택 + 한국어 요약 반환."""
-    response = client.messages.create(
-        model="claude-sonnet-4-6",
-        max_tokens=8192,
-        system=SYSTEM_PROMPT,
-        messages=[{"role": "user", "content": build_user_prompt(day, items)}],
-    )
+    """Claude API로 해당 요일 상위 3개 선택 + 한국어 요약 반환. JSON 파싱 실패 시 1회 재시도."""
+    messages = [{"role": "user", "content": build_user_prompt(day, items)}]
 
-    result  = extract_json(response.content[0].text)
+    for attempt in range(2):
+        response = client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=8192,
+            system=SYSTEM_PROMPT,
+            messages=messages,
+        )
+        raw = response.content[0].text
+        try:
+            result = extract_json(raw)
+            break
+        except json.JSONDecodeError as e:
+            if attempt == 0:
+                print(f"    [RETRY] JSON 파싱 실패({e}), 재시도...")
+                messages.append({"role": "assistant", "content": raw})
+                messages.append({"role": "user", "content": (
+                    "JSON 파싱 오류가 발생했습니다. "
+                    "문자열 내부의 줄바꿈은 반드시 \\n으로 이스케이프하고, "
+                    "따옴표는 \\'로 이스케이프한 올바른 JSON만 다시 출력하세요."
+                )})
+            else:
+                raise
+
+    result  = result
     curated = []
 
     for sel in result.get("selected", []):
