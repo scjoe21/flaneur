@@ -143,8 +143,34 @@ def build_user_prompt(day: str, items: list) -> str:
 }}"""
 
 
+def _fix_string_escapes(text: str) -> str:
+    """JSON 문자열 값 내부의 리터럴 제어문자만 이스케이프. 구조적 줄바꿈은 건드리지 않음."""
+    result = []
+    in_string = False
+    skip_next = False
+    for ch in text:
+        if skip_next:
+            result.append(ch)
+            skip_next = False
+        elif ch == '\\' and in_string:
+            result.append(ch)
+            skip_next = True
+        elif ch == '"':
+            in_string = not in_string
+            result.append(ch)
+        elif in_string and ch == '\n':
+            result.append('\\n')
+        elif in_string and ch == '\r':
+            result.append('\\r')
+        elif in_string and ch == '\t':
+            result.append('\\t')
+        else:
+            result.append(ch)
+    return ''.join(result)
+
+
 def extract_json(text: str) -> dict:
-    """응답에서 JSON 블록 추출. 파싱 실패 시 제어문자 정리 후 재시도."""
+    """응답에서 JSON 블록 추출. 파싱 실패 시 문자열 내부 제어문자만 정리 후 재시도."""
     text = text.strip()
     if "```json" in text:
         text = text.split("```json")[1].split("```")[0].strip()
@@ -153,12 +179,7 @@ def extract_json(text: str) -> dict:
     try:
         return json.loads(text)
     except json.JSONDecodeError:
-        # JSON 문자열 값 내부의 리터럴 줄바꿈·탭을 이스케이프 처리
-        import re
-        cleaned = re.sub(r'(?<!\\)\n', r'\\n', text)
-        cleaned = re.sub(r'(?<!\\)\t', r'\\t', cleaned)
-        cleaned = re.sub(r'(?<!\\)\r', r'\\r', cleaned)
-        return json.loads(cleaned)
+        return json.loads(_fix_string_escapes(text))
 
 
 def curate_day(client: anthropic.Anthropic, day: str, items: list) -> list:
