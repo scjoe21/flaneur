@@ -16,7 +16,7 @@
     }
     .saved-page__sub { font-size: 14px; color: var(--text-muted); }
 
-    /* ── 선반 탭 ── */
+    /* ── 탭 ── */
     .shelf-tabs {
       display: flex;
       gap: 4px;
@@ -32,6 +32,7 @@
       position: relative;
       bottom: -2px;
       border-bottom: 2px solid transparent;
+      display: flex; flex-direction: column; align-items: center; gap: 2px;
     }
     .shelf-tab:hover { color: var(--text); background: var(--bg-subtle); }
     .shelf-tab.active {
@@ -39,7 +40,8 @@
       border-bottom-color: var(--accent);
       background: var(--bg-card);
     }
-    .shelf-tab .shelf-count {
+    .shelf-tab__label { display: flex; align-items: center; gap: 6px; }
+    .shelf-count {
       display: inline-flex;
       align-items: center; justify-content: center;
       min-width: 20px; height: 20px;
@@ -47,7 +49,6 @@
       border-radius: 10px;
       font-size: 11px; font-weight: 600;
       padding: 0 6px;
-      margin-left: 6px;
       color: var(--text-muted);
     }
     .shelf-tab.active .shelf-count {
@@ -55,27 +56,29 @@
       color: #fff;
     }
     .shelf-tab__sub {
-      display: block;
       font-size: 10px;
       color: var(--text-light);
       font-weight: 400;
-      margin-top: 2px;
       letter-spacing: 0.04em;
     }
-    .shelf-tab.active .shelf-tab__sub { color: var(--accent); }
-
-    /* ── 주제별 그룹 ── */
-    .theme-group .month-group__toggle { background: var(--bg-card); }
-    .theme-group.open .month-group__toggle { background: #faf8f2; }
-    .theme-group__label {
-      font-family: var(--font-serif);
-      font-size: 15px; font-weight: 600;
-      color: var(--text);
-    }
+    .shelf-tab.active .shelf-tab__sub { color: var(--accent-lt); }
 
     /* ── 탭 패널 ── */
     .shelf-panel { display: none; }
     .shelf-panel.active { display: block; }
+
+    /* ── 안내 배너 ── */
+    .flow-banner {
+      display: flex; align-items: center; gap: 8px;
+      background: var(--bg-subtle);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 10px 16px;
+      font-size: 12px; color: var(--text-muted);
+      margin-bottom: 24px;
+      line-height: 1.6;
+    }
+    .flow-banner__icon { font-size: 14px; flex-shrink: 0; }
 
     /* ── 섹션 구분 (주차/월별) ── */
     .clip-section { margin-bottom: 36px; }
@@ -110,10 +113,20 @@
       transition: var(--transition);
       position: relative;
     }
-    .clip-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .clip-card--editable { cursor: pointer; }
+    .clip-card--editable:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .clip-card.editing { cursor: default; transform: none !important; box-shadow: none !important; }
     .clip-card__meta {
       font-size: 11px; color: var(--text-light);
       margin-bottom: 10px; letter-spacing: 0.02em;
+      display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+    }
+    .clip-card__category {
+      display: inline-flex; align-items: center;
+      font-size: 10px; font-weight: 600;
+      padding: 2px 7px; border-radius: 8px;
+      background: #f0ebf8; color: var(--essay);
+      margin-left: auto;
     }
     .clip-card__text {
       font-size: 15px; color: var(--text);
@@ -121,16 +134,17 @@
       border-left: 3px solid var(--gold);
       padding-left: 14px;
       margin: 0 0 12px;
+      word-break: keep-all; overflow-wrap: break-word;
     }
     .clip-card__title {
       font-size: 12px; color: var(--text-muted);
+      word-break: keep-all; overflow-wrap: break-word;
     }
     .clip-card__actions {
       position: absolute; top: 14px; right: 14px;
       display: flex; gap: 6px;
     }
-    .clip-card__remove,
-    .clip-card__edit {
+    .clip-card__remove {
       width: 26px; height: 26px; border-radius: 50%;
       background: var(--bg-subtle); color: var(--text-light);
       display: flex; align-items: center; justify-content: center;
@@ -139,12 +153,9 @@
     .clip-card__remove:hover { background: #fee2e2; color: #dc2626; }
 
     /* ── 인라인 편집 ── */
-    .clip-card { cursor: default; }
-    .clip-card--editable { cursor: pointer; }
-    .clip-card.editing { cursor: default; }
     .clip-card__textarea {
       width: 100%; box-sizing: border-box;
-      font-family: var(--font-body, inherit);
+      font-family: inherit;
       font-size: 15px; color: var(--text);
       background: var(--bg-subtle);
       border: 1px solid var(--accent);
@@ -177,9 +188,9 @@
       cursor: pointer;
     }
 
-    /* ── 전체 탭 — 월별 아코디언 ── */
-    .month-group { margin-bottom: 12px; }
-    .month-group__toggle {
+    /* ── 전체 탭 — 주제별 아코디언 ── */
+    .theme-group { margin-bottom: 10px; }
+    .theme-group__toggle {
       display: flex; align-items: center; gap: 10px;
       width: 100%; padding: 12px 16px;
       background: var(--bg-subtle);
@@ -189,27 +200,42 @@
       color: var(--text);
       transition: var(--transition);
       text-align: left;
+      cursor: pointer;
     }
-    .month-group__toggle:hover { background: var(--border); }
-    .month-group__toggle .arrow {
-      margin-left: auto;
-      font-size: 11px;
-      color: var(--text-muted);
-      transition: transform 0.2s;
-    }
-    .month-group.open .month-group__toggle .arrow { transform: rotate(180deg); }
-    .month-group__count {
+    .theme-group__toggle:hover { background: var(--border-lt); }
+    .theme-group.open .theme-group__toggle { background: #f8f4ff; border-color: #d4c8f0; }
+    .theme-group__label { color: var(--text); }
+    .theme-group__count {
       font-size: 11px; font-weight: 400;
       color: var(--text-muted);
       background: var(--bg-card);
       border: 1px solid var(--border);
       padding: 1px 8px; border-radius: 10px;
     }
-    .month-group__body {
-      display: none;
-      padding: 16px 0 4px;
+    .theme-group.open .theme-group__count { background: #ede6ff; border-color: #c4b8e8; color: var(--essay); }
+    .theme-group__arrow {
+      margin-left: auto;
+      font-size: 11px;
+      color: var(--text-muted);
+      transition: transform 0.2s;
     }
-    .month-group.open .month-group__body { display: block; }
+    .theme-group.open .theme-group__arrow { transform: rotate(180deg); }
+    .theme-group__body {
+      display: none;
+      padding: 16px 0 8px;
+    }
+    .theme-group.open .theme-group__body { display: block; }
+
+    /* ── 전체 탭 — 월별 서브그룹 ── */
+    .month-sub {
+      margin-bottom: 20px;
+    }
+    .month-sub__label {
+      font-size: 12px; color: var(--text-light);
+      letter-spacing: 0.04em;
+      margin-bottom: 10px;
+      padding-left: 2px;
+    }
 
     /* ── 빈 상태 ── */
     .empty-state {
@@ -220,19 +246,11 @@
     .empty-state__icon { font-size: 32px; margin-bottom: 12px; }
     .empty-state__text { font-size: 14px; line-height: 1.8; }
 
-    /* ── 헤더 액션 ── */
-    .saved-actions {
-      display: flex; align-items: center; gap: 10px;
+    /* ── 반응형 ── */
+    @media (max-width: 600px) {
+      .clip-grid { grid-template-columns: 1fr; }
+      .shelf-tab { padding: 8px 14px; }
     }
-
-    /* ── 이번 달 — 주차 구분선 ── */
-    .week-divider {
-      font-size: 12px; color: var(--text-light);
-      letter-spacing: 0.04em;
-      margin: 24px 0 10px;
-      padding-left: 2px;
-    }
-    .week-divider:first-child { margin-top: 0; }
   </style>
 </head>
 <body>
@@ -255,40 +273,53 @@
 <main class="saved-page">
   <div class="container">
 
-    <!-- ── 헤더 ── -->
-    <div class="saved-page__header" style="display:flex;align-items:flex-start;justify-content:space-between;flex-wrap:wrap;gap:16px">
-      <div>
-        <h1 class="saved-page__title">✦ 저장한 구절</h1>
-        <p class="saved-page__sub" id="total-count-text"></p>
-      </div>
+    <div class="saved-page__header">
+      <h1 class="saved-page__title">✦ 저장한 구절</h1>
+      <p class="saved-page__sub" id="total-count-text"></p>
     </div>
 
     <!-- ── 탭 ── -->
     <div class="shelf-tabs">
       <button class="shelf-tab active" data-shelf="week">
-        이번 주 <span class="shelf-count" id="count-week">0</span>
+        <span class="shelf-tab__label">이번 주 <span class="shelf-count" id="count-week">0</span></span>
+        <span class="shelf-tab__sub">읽기 · 편집</span>
       </button>
       <button class="shelf-tab" data-shelf="month">
-        이번 달 <span class="shelf-count" id="count-month">0</span>
+        <span class="shelf-tab__label">이번 달 <span class="shelf-count" id="count-month">0</span></span>
+        <span class="shelf-tab__sub">주차별 보기</span>
       </button>
       <button class="shelf-tab" data-shelf="all">
-        전체 <span class="shelf-count" id="count-all">0</span>
-        <span class="shelf-tab__sub">주제별</span>
+        <span class="shelf-tab__label">전체 <span class="shelf-count" id="count-all">0</span></span>
+        <span class="shelf-tab__sub">주제별 분류</span>
       </button>
     </div>
 
     <!-- ── 이번 주 패널 ── -->
     <div id="panel-week" class="shelf-panel active">
+      <div class="flow-banner">
+        <span class="flow-banner__icon">✎</span>
+        이번 주 저장한 구절입니다. 카드를 클릭해 내용을 수정하거나 편집하세요.
+        다음 주가 되면 <strong style="color:var(--text)">이번 달</strong> 탭으로 자동 이동합니다.
+      </div>
       <div id="grid-week"></div>
     </div>
 
     <!-- ── 이번 달 패널 ── -->
     <div id="panel-month" class="shelf-panel">
+      <div class="flow-banner">
+        <span class="flow-banner__icon">📅</span>
+        이번 달 이전 주차에 저장한 구절입니다. 카드를 클릭해 편집할 수 있습니다.
+        다음 달이 되면 <strong style="color:var(--text)">전체</strong> 탭의 철학 주제별로 자동 분류됩니다.
+      </div>
       <div id="grid-month"></div>
     </div>
 
     <!-- ── 전체 패널 ── -->
     <div id="panel-all" class="shelf-panel">
+      <div class="flow-banner">
+        <span class="flow-banner__icon">◉</span>
+        모든 구절을 철학 주제별로 분류합니다. 카테고리는 구절 텍스트의 키워드를 기반으로 자동 배정됩니다.
+      </div>
       <div id="grid-all"></div>
     </div>
 
@@ -298,7 +329,7 @@
 <!-- ── 푸터 ── -->
 <footer class="site-footer">
   <div class="container">
-    <p class="footer-copy">© 2026 Flâneur. 철학적 일상의 큐레이션.</p>
+    <p class="footer-copy">© 2026 Flâneur. 철학적 일상의 기록.</p>
     <nav class="footer-nav">
       <a href="index.html">이번 주</a>
       <a href="essay.html">에세이</a>
@@ -327,28 +358,25 @@ function getMonthKey(d = new Date()) {
 }
 
 function weekKeyLabel(wk) {
-  // "2026-W15" → "2026년 15주차"
   const [year, w] = wk.split('-W');
   return `${year}년 ${parseInt(w, 10)}주차`;
 }
 
 function monthKeyLabel(mk) {
-  // "2026-04" → "2026년 4월"
   const [year, month] = mk.split('-');
   return `${year}년 ${parseInt(month, 10)}월`;
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 클립 로드 및 마이그레이션
+// 상태 & 초기화
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-const NOW         = new Date();
-const CUR_WEEK    = getWeekKey(NOW);
-const CUR_MONTH   = getMonthKey(NOW);
+const CUR_WEEK  = getWeekKey();
+const CUR_MONTH = getMonthKey();
 
 let clipList = JSON.parse(localStorage.getItem('flaneur_clips') || '[]');
 
-// 기존 클립에 weekKey/monthKey 없으면 savedAt 기준으로 채워줌
+// 기존 클립에 weekKey/monthKey 없으면 savedAt 기준으로 채움
 let migrated = false;
 clipList = clipList.map(clip => {
   if (!clip.weekKey || !clip.monthKey) {
@@ -361,80 +389,63 @@ clipList = clipList.map(clip => {
 if (migrated) localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 파생 컬렉션 (항상 최신 clipList 기반)
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+// 이번 주
+function getWeekClips()  { return clipList.filter(c => c.weekKey === CUR_WEEK); }
+
+// 이번 달 중 이번 주를 제외한 이전 주차 (다음 주부터 여기로 이동)
+function getMonthClips() { return clipList.filter(c => c.monthKey === CUR_MONTH && c.weekKey !== CUR_WEEK); }
+
+// 전체 — 모든 클립을 주제별로
+function getAllClips()   { return [...clipList]; }
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 철학 주제 분류
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 const THEMES = [
-  {
-    id: '욕망',
-    label: '욕망과 쾌락',
-    keywords: ['욕망', '욕구', '갈망', '충동', '쾌락', '탐욕', '유혹', '절제', '금욕', '중독',
-               'desire', 'pleasure', 'craving', 'appetite', 'lust', 'temperance',
-               'désir', 'plaisir', 'Begierde', 'Lust', 'desiderio']
-  },
-  {
-    id: '자유',
-    label: '자유와 의지',
+  { id: '존재',  label: '존재와 진리',
+    keywords: ['존재', '실존', '진리', '인식', '허무', '자아', '정체성', '현실', '의식', '이성',
+               'existence', 'truth', 'being', 'self', 'identity', 'consciousness', 'reason',
+               'Sein', 'être', 'essere'] },
+  { id: '자유',  label: '자유와 의지',
     keywords: ['자유', '의지', '선택', '자율', '자유의지', '결정', '해방', '책임',
                'freedom', 'liberty', 'autonomy', 'will', 'choice', 'responsibility',
-               'liberté', 'Freiheit', 'libertà', 'libre arbitre']
-  },
-  {
-    id: '정의',
-    label: '정의와 윤리',
-    keywords: ['정의', '공정', '평등', '도덕', '윤리', '불평등', '권리', '의무', '법', '규범',
-               'justice', 'ethics', 'moral', 'equality', 'rights', 'fairness', 'norm',
-               'Gerechtigkeit', 'justice', 'giustizia', 'morale']
-  },
-  {
-    id: '행복',
-    label: '행복과 의미',
+               'liberté', 'Freiheit', 'libertà'] },
+  { id: '행복',  label: '행복과 의미',
     keywords: ['행복', '만족', '평온', '기쁨', '의미', '목적', '번영', '안녕', '고통', '불안',
-               'happiness', 'joy', 'meaning', 'purpose', 'flourishing', 'wellbeing', 'suffering', 'anxiety',
-               'bonheur', 'Glück', 'felicità', 'eudaimonia']
-  },
-  {
-    id: '관계',
-    label: '관계와 타인',
+               'happiness', 'joy', 'meaning', 'purpose', 'flourishing', 'wellbeing', 'suffering',
+               'bonheur', 'Glück', 'felicità', 'eudaimonia'] },
+  { id: '욕망',  label: '욕망과 쾌락',
+    keywords: ['욕망', '욕구', '갈망', '충동', '쾌락', '탐욕', '유혹', '절제', '금욕', '중독',
+               'desire', 'pleasure', 'craving', 'appetite', 'lust', 'temperance',
+               'désir', 'plaisir', 'Begierde', 'desiderio'] },
+  { id: '정의',  label: '정의와 윤리',
+    keywords: ['정의', '공정', '평등', '도덕', '윤리', '불평등', '권리', '의무', '법', '규범',
+               'justice', 'ethics', 'moral', 'equality', 'rights', 'fairness',
+               'Gerechtigkeit', 'giustizia', 'morale'] },
+  { id: '관계',  label: '관계와 타인',
     keywords: ['관계', '사랑', '우정', '타인', '공동체', '연대', '가족', '고독', '외로움', '소통',
-               'love', 'friendship', 'community', 'solidarity', 'other', 'loneliness', 'connection',
-               'amour', 'Liebe', 'amore', 'amitié']
-  },
-  {
-    id: '환경',
-    label: '자연과 환경',
-    keywords: ['환경', '자연', '생태', '기후', '지구', '생명', '지속가능', '동물', '오염', '녹색',
-               'nature', 'environment', 'climate', 'ecology', 'earth', 'life', 'green', 'animal',
-               'Umwelt', 'environnement', 'natura', 'ambiente']
-  },
-  {
-    id: '기술',
-    label: '과학과 기술',
-    keywords: ['기술', 'ai', '인공지능', '디지털', '알고리즘', '과학', '기계', '자동화', '인터넷', '소셜미디어', '데이터',
-               'technology', 'artificial', 'digital', 'science', 'algorithm', 'automation', 'data', 'robot',
-               'technologie', 'Technologie', 'tecnologia', 'intelligence artificielle']
-  },
-  {
-    id: '시간',
-    label: '시간과 죽음',
+               'love', 'friendship', 'community', 'solidarity', 'loneliness', 'connection',
+               'amour', 'Liebe', 'amore'] },
+  { id: '시간',  label: '시간과 죽음',
     keywords: ['시간', '기억', '죽음', '과거', '미래', '현재', '순간', '영원', '노화', '유한', '망각',
                'time', 'death', 'memory', 'past', 'future', 'eternity', 'mortality', 'forgetting',
-               'temps', 'Zeit', 'tempo', 'mort', 'Tod', 'morte']
-  },
-  {
-    id: '노동',
-    label: '노동과 경제',
+               'temps', 'Zeit', 'tempo', 'mort'] },
+  { id: '노동',  label: '노동과 경제',
     keywords: ['노동', '일', '직업', '경제', '자본', '소비', '생산', '빈곤', '부', '불평등', '계급',
-               'work', 'labor', 'economy', 'capital', 'capitalism', 'production', 'poverty', 'class',
-               'travail', 'Arbeit', 'lavoro', 'capitalisme']
-  },
-  {
-    id: '존재',
-    label: '존재와 진리',
-    keywords: ['존재', '실존', '진리', '인식', '허무', '자아', '정체성', '현실', '의식', '이성',
-               'existence', 'truth', 'being', 'self', 'identity', 'consciousness', 'reason', 'reality',
-               'Sein', 'être', 'essere', 'existenz']
-  },
+               'work', 'labor', 'economy', 'capital', 'capitalism', 'production', 'poverty',
+               'travail', 'Arbeit', 'lavoro'] },
+  { id: '기술',  label: '과학과 기술',
+    keywords: ['기술', 'ai', '인공지능', '디지털', '알고리즘', '과학', '기계', '자동화', '데이터',
+               'technology', 'artificial', 'digital', 'science', 'algorithm', 'automation',
+               'technologie', 'Technologie', 'tecnologia'] },
+  { id: '환경',  label: '자연과 환경',
+    keywords: ['환경', '자연', '생태', '기후', '지구', '생명', '지속가능', '동물', '오염', '녹색',
+               'nature', 'environment', 'climate', 'ecology', 'earth', 'green',
+               'Umwelt', 'environnement', 'natura'] },
 ];
 
 function classifyClip(clip) {
@@ -447,39 +458,58 @@ function classifyClip(clip) {
   return '기타';
 }
 
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 시간대 분류
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-function getShelf(clip) {
-  if (clip.weekKey === CUR_WEEK)                              return 'week';
-  if (clip.monthKey === CUR_MONTH && clip.weekKey !== CUR_WEEK) return 'month';
-  return 'all';
+function themeLabel(id) {
+  return THEMES.find(t => t.id === id)?.label || '기타';
 }
 
-const weekClips  = clipList.filter(c => getShelf(c) === 'week');
-const monthClips = clipList.filter(c => getShelf(c) === 'month');
-const allClips   = clipList.filter(c => getShelf(c) === 'all');
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 저장 & 카운트 갱신
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+function persist() {
+  localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
+  updateCounts();
+}
+
+function updateCounts() {
+  document.getElementById('count-week').textContent  = getWeekClips().length;
+  document.getElementById('count-month').textContent = getMonthClips().length;
+  document.getElementById('count-all').textContent   = getAllClips().length;
+
+  const total = clipList.length;
+  document.getElementById('total-count-text').textContent =
+    total ? `총 ${total}개 구절 저장됨` : '저장된 구절이 없습니다.';
+}
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 카드 빌더
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-function buildCard(clip, editable = false) {
+function buildCard(clip, editable = false, showCategory = false) {
+  const catId    = classifyClip(clip);
+  const catLabel = themeLabel(catId);
+  const dateStr  = clip.savedAt ? new Date(clip.savedAt).toLocaleDateString('ko-KR', { month: 'short', day: 'numeric' }) : '';
+
   const el = document.createElement('div');
   el.className = 'clip-card' + (editable ? ' clip-card--editable' : '');
   el.innerHTML = `
-    <div class="clip-card__meta">${clip.flag || ''} ${clip.source} · ${clip.dayLabel}</div>
-    <blockquote class="clip-card__text">${clip.text}</blockquote>
-    <div class="clip-card__title">— ${clip.articleTitle}</div>
+    <div class="clip-card__meta">
+      <span>${clip.flag || ''} ${clip.source || ''}</span>
+      ${dateStr ? `<span style="color:var(--border)">·</span><span>${dateStr}</span>` : ''}
+      ${showCategory ? `<span class="clip-card__category">${catLabel}</span>` : ''}
+    </div>
+    <blockquote class="clip-card__text">${escapeHtml(clip.text)}</blockquote>
+    <div class="clip-card__title">— ${escapeHtml(clip.articleTitle || '')}</div>
     <div class="clip-card__actions">
       <button class="clip-card__remove" title="삭제">✕</button>
     </div>
   `;
+
   el.querySelector('.clip-card__remove').addEventListener('click', e => {
     e.stopPropagation();
     removeClip(clip.clipId, el);
   });
+
   if (editable) {
     el.addEventListener('click', e => {
       if (e.target.closest('.clip-card__remove')) return;
@@ -490,17 +520,31 @@ function buildCard(clip, editable = false) {
   return el;
 }
 
+function escapeHtml(str) {
+  return String(str)
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;');
+}
+
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 삭제
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 function removeClip(clipId, el) {
   clipList = clipList.filter(c => c.clipId !== clipId);
-  localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
+  persist();
   el.style.opacity = '0';
   el.style.transform = 'scale(0.95)';
   el.style.transition = '0.2s';
-  setTimeout(() => { el.remove(); updateCounts(); }, 200);
+  setTimeout(() => el.remove(), 200);
   showToast('삭제했습니다.');
 }
 
-// ── 인라인 편집 ──
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+// 인라인 편집
+// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 function enterEditMode(clip, el) {
   el.classList.add('editing');
@@ -509,17 +553,14 @@ function enterEditMode(clip, el) {
   const titleEl    = el.querySelector('.clip-card__title');
   const actionsEl  = el.querySelector('.clip-card__actions');
 
-  // blockquote → textarea
   const textarea = document.createElement('textarea');
   textarea.className = 'clip-card__textarea';
   textarea.value = clip.text;
   blockquote.replaceWith(textarea);
   textarea.focus();
 
-  // 출처 숨김
   titleEl.style.display = 'none';
 
-  // 저장/취소 버튼
   actionsEl.innerHTML = `
     <div class="clip-card__edit-actions">
       <button class="clip-card__cancel">취소</button>
@@ -535,7 +576,7 @@ function enterEditMode(clip, el) {
     if (idx >= 0) {
       clipList[idx] = { ...clipList[idx], text: newText };
       clip.text = newText;
-      localStorage.setItem('flaneur_clips', JSON.stringify(clipList));
+      persist();
     }
     exitEditMode(clip, el);
     showToast('수정했습니다.');
@@ -547,7 +588,7 @@ function enterEditMode(clip, el) {
   });
 
   textarea.addEventListener('keydown', e => {
-    if (e.key === 'Escape') exitEditMode(clip, el);
+    if (e.key === 'Escape') { e.preventDefault(); exitEditMode(clip, el); }
   });
 }
 
@@ -558,16 +599,13 @@ function exitEditMode(clip, el) {
   const titleEl   = el.querySelector('.clip-card__title');
   const actionsEl = el.querySelector('.clip-card__actions');
 
-  // textarea → blockquote
   const blockquote = document.createElement('blockquote');
   blockquote.className = 'clip-card__text';
   blockquote.textContent = clip.text;
   textarea.replaceWith(blockquote);
 
-  // 출처 복원
   titleEl.style.display = '';
 
-  // 삭제 버튼 복원
   actionsEl.innerHTML = `<button class="clip-card__remove" title="삭제">✕</button>`;
   actionsEl.querySelector('.clip-card__remove').addEventListener('click', e => {
     e.stopPropagation();
@@ -580,136 +618,135 @@ function exitEditMode(clip, el) {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 function renderWeek() {
-  const wrap = document.getElementById('grid-week');
+  const wrap  = document.getElementById('grid-week');
+  const clips = getWeekClips();
   wrap.innerHTML = '';
 
-  if (!weekClips.length) {
+  if (!clips.length) {
     wrap.innerHTML = emptyHTML('이번 주에 저장한 구절이 없습니다.<br>글 자세히 보기에서 텍스트를 드래그해 저장해 보세요.');
     return;
   }
 
   const grid = document.createElement('div');
   grid.className = 'clip-grid';
-  [...weekClips].reverse().forEach(clip => grid.appendChild(buildCard(clip, true)));
+  // 카테고리 뱃지 표시: 다음 달이 되면 어디로 갈지 미리보기
+  [...clips].reverse().forEach(clip => grid.appendChild(buildCard(clip, true, true)));
   wrap.appendChild(grid);
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 이번 달 렌더 (주차별 그룹)
+// 이번 달 렌더 (이번 주 제외, 주차별 그룹)
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 function renderMonth() {
-  const wrap = document.getElementById('grid-month');
+  const wrap  = document.getElementById('grid-month');
+  const clips = getMonthClips();
   wrap.innerHTML = '';
 
-  if (!monthClips.length) {
-    wrap.innerHTML = emptyHTML('이번 달 이전 주차에 저장한 구절이 없습니다.<br>이번 주가 지나면 이곳으로 이동합니다.');
+  if (!clips.length) {
+    wrap.innerHTML = emptyHTML('이번 달 이전 주차 구절이 없습니다.<br>이번 주가 지나면 이곳으로 이동합니다.');
     return;
   }
 
-  // 주차별 그룹화 (최신 주차 먼저)
+  // 주차별 그룹 (최신순)
   const byWeek = {};
-  [...monthClips].reverse().forEach(clip => {
+  [...clips].reverse().forEach(clip => {
     if (!byWeek[clip.weekKey]) byWeek[clip.weekKey] = [];
     byWeek[clip.weekKey].push(clip);
   });
 
   Object.entries(byWeek)
     .sort(([a], [b]) => b.localeCompare(a))
-    .forEach(([wk, clips]) => {
+    .forEach(([wk, weekItems]) => {
       const section = document.createElement('div');
       section.className = 'clip-section';
       section.innerHTML = `
         <div class="clip-section__header">
           <span class="clip-section__label">${weekKeyLabel(wk)}</span>
-          <span class="clip-section__badge">${clips.length}개</span>
+          <span class="clip-section__badge">${weekItems.length}개</span>
         </div>
       `;
       const grid = document.createElement('div');
       grid.className = 'clip-grid';
-      clips.forEach(clip => grid.appendChild(buildCard(clip, false)));
+      weekItems.forEach(clip => grid.appendChild(buildCard(clip, true, true)));
       section.appendChild(grid);
       wrap.appendChild(section);
     });
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 전체 렌더 (주제별 아코디언)
+// 전체 렌더 (모든 클립, 주제별 아코디언 → 월별 서브그룹)
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 function renderAll() {
-  const wrap = document.getElementById('grid-all');
+  const wrap  = document.getElementById('grid-all');
+  const clips = getAllClips();
   wrap.innerHTML = '';
 
-  if (!allClips.length) {
-    wrap.innerHTML = emptyHTML('한 달이 지난 구절이 없습니다.<br>이번 달이 지나면 철학 주제별로 자동 분류되어 이곳에 보관됩니다.');
+  if (!clips.length) {
+    wrap.innerHTML = emptyHTML('저장한 구절이 없습니다.');
     return;
   }
 
   // 주제별 분류
   const byTheme = {};
-  allClips.forEach(clip => {
+  clips.forEach(clip => {
     const tid = classifyClip(clip);
     if (!byTheme[tid]) byTheme[tid] = [];
     byTheme[tid].push(clip);
   });
 
-  // 안내 문구
-  const note = document.createElement('p');
-  note.style.cssText = 'font-size:13px;color:var(--text-muted);margin-bottom:20px;line-height:1.8';
-  note.textContent = '한 달이 지난 구절을 텍스트 키워드 기반으로 철학 주제에 자동 분류합니다.';
-  wrap.appendChild(note);
-
-  // 정의된 테마 순서 + 미분류(기타)
   const themeOrder = THEMES.map(t => t.id).concat(['기타']);
   let firstOpen = true;
 
   themeOrder.forEach(tid => {
-    const clips = byTheme[tid];
-    if (!clips?.length) return;
+    const themeClips = byTheme[tid];
+    if (!themeClips?.length) return;
 
-    const themeInfo = THEMES.find(t => t.id === tid);
-    const label = themeInfo ? themeInfo.label : '기타';
+    const label = themeLabel(tid);
 
     const group = document.createElement('div');
-    group.className = 'month-group theme-group' + (firstOpen ? ' open' : '');
+    group.className = 'theme-group' + (firstOpen ? ' open' : '');
     firstOpen = false;
 
     const toggle = document.createElement('button');
-    toggle.className = 'month-group__toggle';
+    toggle.className = 'theme-group__toggle';
     toggle.innerHTML = `
       <span class="theme-group__label">${label}</span>
-      <span class="month-group__count">${clips.length}개</span>
-      <span class="arrow">▼</span>
+      <span class="theme-group__count">${themeClips.length}개</span>
+      <span class="theme-group__arrow">▼</span>
     `;
     toggle.addEventListener('click', () => group.classList.toggle('open'));
 
     const body = document.createElement('div');
-    body.className = 'month-group__body';
+    body.className = 'theme-group__body';
 
-    const grid = document.createElement('div');
-    grid.className = 'clip-grid';
-    [...clips].reverse().forEach(clip => grid.appendChild(buildCard(clip, false)));
-    body.appendChild(grid);
+    // 월별 서브그룹
+    const byMonth = {};
+    [...themeClips].reverse().forEach(clip => {
+      const mk = clip.monthKey || 'unknown';
+      if (!byMonth[mk]) byMonth[mk] = [];
+      byMonth[mk].push(clip);
+    });
+
+    Object.entries(byMonth)
+      .sort(([a], [b]) => b.localeCompare(a))
+      .forEach(([mk, monthItems]) => {
+        const sub = document.createElement('div');
+        sub.className = 'month-sub';
+        sub.innerHTML = `<div class="month-sub__label">${monthKeyLabel(mk)}</div>`;
+
+        const grid = document.createElement('div');
+        grid.className = 'clip-grid';
+        monthItems.forEach(clip => grid.appendChild(buildCard(clip, true, false)));
+        sub.appendChild(grid);
+        body.appendChild(sub);
+      });
 
     group.appendChild(toggle);
     group.appendChild(body);
     wrap.appendChild(group);
   });
-}
-
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 카운트 & 헤더
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-function updateCounts() {
-  document.getElementById('count-week').textContent  = weekClips.length;
-  document.getElementById('count-month').textContent = monthClips.length;
-  document.getElementById('count-all').textContent   = allClips.length;
-
-  const total = clipList.length;
-  document.getElementById('total-count-text').textContent =
-    total ? `총 ${total}개 구절 저장됨` : '저장된 구절이 없습니다.';
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -724,7 +761,6 @@ document.querySelectorAll('.shelf-tab').forEach(btn => {
     document.getElementById('panel-' + btn.dataset.shelf).classList.add('active');
   });
 });
-
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 유틸
