@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-20T14:04:08.049295+00:00",
+  "fetchedAt": "2026-04-21T02:00:52.562246+00:00",
   "items": [
     {
       "title": "Pourquoi aime-t-on les premiers rayons de soleil ?",
@@ -84,35 +84,35 @@
       }
     },
     {
-      "title": "Guerre du “slop” : la nouvelle querelle des images",
-      "url": "https://www.philomag.com/articles/guerre-du-slop-la-nouvelle-querelle-des-images",
+      "title": "“Je suis partout” : édition du dimanche",
+      "url": "https://www.philomag.com/articles/je-suis-partout-edition-du-dimanche",
       "description": "",
-      "date": "Fri, 17 Apr 2026",
+      "date": "Mon, 20 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "“Trop dangereuse pour être publique” : l’IA Claude Mythos, menace ou mystification ?",
-      "url": "https://www.philomag.com/articles/trop-dangereuse-pour-etre-publique-lia-claude-mythos-menace-ou-mystification",
+      "title": "Olivier Hamant : \"La crise énergétique actuelle est le signe typique d’un monde qui craque\"",
+      "url": "https://www.philomag.com/articles/olivier-hamant-la-crise-energetique-actuelle-est-le-signe-typique-dun-monde-qui-craque",
       "description": "",
-      "date": "Fri, 17 Apr 2026",
+      "date": "Mon, 20 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

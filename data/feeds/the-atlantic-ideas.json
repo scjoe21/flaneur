@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-04-20T14:04:14.042879+00:00",
+  "fetchedAt": "2026-04-21T02:00:59.102757+00:00",
   "items": [
+    {
+      "title": "San Francisco Solved Metro Vandalism With One Neat Trick",
+      "url": "https://www.theatlantic.com/ideas/2026/04/fare-gate-society-bart/686868/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "What I Learned About Billionaires at Jeff Bezos’s Private Retreat",
       "url": "https://www.theatlantic.com/magazine/2026/05/billionaire-consequence-free-reality/686588/?utm_source=feed",
@@ -52,35 +68,35 @@
       }
     },
     {
-      "title": "Hegseth’s Unholy War",
-      "url": "https://www.theatlantic.com/ideas/2026/04/pete-hegseth-unholy-war-iran/686789/?utm_source=feed",
+      "title": "The End of the Argument <em>ad Orbánum</em>",
+      "url": "https://www.theatlantic.com/ideas/2026/04/orban-defeat-american-resilience/686864/?utm_source=feed",
       "description": "",
-      "date": "2026-04-14",
+      "date": "2026-04-20",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Three Changes Wrought by the Iran War",
-      "url": "https://www.theatlantic.com/ideas/2026/04/iran-war-trump-us-shifts/686780/?utm_source=feed",
+      "title": "DOJ’s First ‘Weaponization’ Report Is a Bust",
+      "url": "https://www.theatlantic.com/ideas/2026/04/doj-weaponization-working-group/686863/?utm_source=feed",
       "description": "",
-      "date": "2026-04-13",
+      "date": "2026-04-20",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "SpaceX Is Basically a Huge Meme Stock",
       "url": "https://www.theatlantic.com/ideas/2026/04/spacex-ipo-elon-musk/686793/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump’s Latest Meltdown",
-      "url": "https://www.theatlantic.com/ideas/2026/04/trump-pope-post-truth-social/686802/?utm_source=feed",
       "description": "",
       "date": "2026-04-14",
       "thumbnail": "",
