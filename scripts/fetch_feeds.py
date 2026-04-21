@@ -14,6 +14,7 @@ import json
 import os
 import re
 import sys
+import time
 import urllib.request
 import urllib.error
 import xml.etree.ElementTree as ET
@@ -198,7 +199,7 @@ def strip_html(html: str) -> str:
 # HTTP 요청
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-def fetch_url(url: str, timeout: int = 15) -> str:
+def fetch_url(url: str, timeout: int = 15, retries: int = 3) -> str:
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (compatible; FlaneurBot/1.0; "
@@ -206,10 +207,25 @@ def fetch_url(url: str, timeout: int = 15) -> str:
         ),
         "Accept": "application/rss+xml, application/atom+xml, text/xml, */*",
     }
-    req = urllib.request.Request(url, headers=headers)
-    with urllib.request.urlopen(req, timeout=timeout) as resp:
-        charset = resp.headers.get_content_charset() or "utf-8"
-        return resp.read().decode(charset, errors="replace")
+    last_err = None
+    for attempt in range(retries):
+        try:
+            req = urllib.request.Request(url, headers=headers)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                charset = resp.headers.get_content_charset() or "utf-8"
+                return resp.read().decode(charset, errors="replace")
+        except urllib.error.HTTPError as e:
+            # 4xx는 재시도해도 무의미
+            if 400 <= e.code < 500:
+                raise
+            last_err = e
+        except Exception as e:
+            last_err = e
+        if attempt < retries - 1:
+            wait = 2 ** attempt  # 1s → 2s
+            print(f"재시도 {attempt + 1}/{retries - 1} ({wait}s 대기)...", end=" ", flush=True)
+            time.sleep(wait)
+    raise last_err
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
