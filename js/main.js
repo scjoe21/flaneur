@@ -137,7 +137,7 @@ function renderLatestEssay(essays) {
     ${latest.subtitle ? `<p class="latest-essay__subtitle">${latest.subtitle}</p>` : ''}
     <p class="latest-essay__excerpt">${firstPara}</p>
     <div class="latest-essay__footer">
-      <span class="latest-essay__meta">${latest.date || ''} · 약 ${latest.readTime || 5}분</span>
+      <span class="latest-essay__meta">${latest.date || ''}</span>
       <a href="essay.html?id=${latest.id}" class="btn btn--primary latest-essay__btn">읽기 →</a>
     </div>
   `;
@@ -157,8 +157,10 @@ function renderEssayArchive(essays) {
   container.innerHTML = sorted.map((e, i) => `
     <a href="essay.html?id=${e.id}" class="archive-item ${i === 0 ? 'archive-item--latest' : ''}">
       <div class="archive-item__date">${e.date || ''}</div>
-      <div class="archive-item__title">${e.title}</div>
-      ${e.subtitle ? `<div class="archive-item__subtitle">${e.subtitle}</div>` : ''}
+      <div class="archive-item__body">
+        <div class="archive-item__title">${e.title}</div>
+        ${e.subtitle ? `<div class="archive-item__subtitle">${e.subtitle}</div>` : ''}
+      </div>
       <span class="archive-item__arrow">→</span>
     </a>
   `).join('');
