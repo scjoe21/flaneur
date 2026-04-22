@@ -1,38 +1,22 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-21T02:00:52.562246+00:00",
+  "fetchedAt": "2026-04-22T01:59:20.444110+00:00",
   "items": [
     {
-      "title": "Pourquoi aime-t-on les premiers rayons de soleil ?",
-      "url": "https://www.philomag.com/articles/pourquoi-aime-t-les-premiers-rayons-de-soleil",
+      "title": "Les Iraniens font-ils la guerre comme les Perses de l’Antiquité ?",
+      "url": "https://www.philomag.com/articles/les-iraniens-font-ils-la-guerre-comme-les-perses-de-lantiquite",
       "description": "",
-      "date": "Sat, 18 Apr 2026",
+      "date": "Tue, 21 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Leibniz, la bienveillance de Dieu et l'existence du mal",
-      "url": "https://www.philomag.com/articles/leibniz-la-bienveillance-de-dieu-et-lexistence-du-mal",
-      "description": "",
-      "date": "Sat, 18 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -68,19 +52,51 @@
       }
     },
     {
-      "title": "“Satyagraha” de Philip Glass : un opéra indien en quête de vérité",
-      "url": "https://www.philomag.com/articles/satyagraha-de-philip-glass-un-opera-indien-en-quete-de-verite",
+      "title": "À Gaza et au Liban, les ravages du nécropouvoir",
+      "url": "https://www.philomag.com/articles/gaza-et-au-liban-les-ravages-du-necropouvoir",
       "description": "",
-      "date": "Fri, 17 Apr 2026",
+      "date": "Tue, 21 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Pascal Bruckner : “Sans la diversité de ses auteurs, Grasset ne survivra pas”",
+      "url": "https://www.philomag.com/articles/pascal-bruckner-sans-la-diversite-de-ses-auteurs-grasset-ne-survivra-pas",
+      "description": "",
+      "date": "Tue, 21 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Discorde”, “controverse”, “clash”… Avez-vous les mots pour décrire la dispute ?",
+      "url": "https://www.philomag.com/articles/discorde-controverse-clash-avez-vous-les-mots-pour-decrire-la-dispute",
+      "description": "",
+      "date": "Tue, 21 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.philomag.com/articles/jen-fais-toute-une-histoire-le-rire-stoicien-de-lecrivaine-et-cineaste-nora-ephron",
       "description": "",
       "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le fourmillement philosophique des Pokémon",
-      "url": "https://www.philomag.com/articles/le-fourmillement-philosophique-des-pokemon",
-      "description": "",
-      "date": "Sat, 18 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

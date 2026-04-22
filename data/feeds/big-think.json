@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-21T02:00:58.410544+00:00",
+  "fetchedAt": "2026-04-22T01:59:25.249349+00:00",
   "items": [
     {
       "title": "Your suffering is a compass. Here’s how to read it.",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "How to get employees to actually care about your L&D program",
-      "url": "https://bigthink.com/plus/market-your-learning-and-development-programs/",
-      "description": "Marketers wake up every morning convinced nobody cares about what they’re selling. Most learning and development (L&D) pros assume the opposite, that attention comes with the job title, or at least with the mandatory completion requirement. \n That gap explains a lot. \n Mandatory Doesn’t Mean Engaged \n Think about the last compliance course you clicked through. You showed up. You moved the slider. You passed the quiz. And three days later, you remembered almost nothing. \n The training counted as ",
-      "date": "Wed, 15 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-16.01.21.png?w=640",
+      "title": "The solar revolution turning sunlight into synthetic fuel",
+      "url": "https://bigthink.com/series/the-big-think-interview/terraform-industries/",
+      "description": "Could solar energy be the key to unlocking a future free from fossil fuels and extreme poverty? Casey Handmer, founder and CEO of Terraform Industries, believes so. His company is pioneering technology that could revolutionize how we produce and consume energy, potentially solving climate change and global energy inequality in one fell swoop. \n Terraform Industries is developing machines that create synthetic natural gas from sunlight and air. It sounds like science fiction, but the technology i",
+      "date": "Tue, 21 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/B1-Web-Handmer.jpg?w=640",
       "videoId": "",
-      "priority": 39,
+      "priority": 40,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 39
+        "daily": 40,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -52,19 +52,35 @@
       }
     },
     {
-      "title": "There is no you in your brain — your identity is a “society of the mind”",
-      "url": "https://bigthink.com/books/our-brains-our-selves/",
-      "description": "What makes us who we are? Most of us might say that it is our background that creates our identities: our families, where we’ve lived, how we were brought up and educated, the people who have influenced us, the jobs we’ve held. But there is something far more fundamental that makes us who we are, and which transcends social and cultural experiences. This is our brain. Our brains create us. No matter where you are from, where you live or have lived, the language you speak, the color of your skin,",
-      "date": "Tue, 14 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/no-you-in-your-mind.jpg?w=640",
+      "title": "The surprising reason why Americans sound, well, American",
+      "url": "https://bigthink.com/books/why-we-talk-funny/",
+      "description": "The most pivotal turning point of what would become known as the General American accent was the willingness of the Quakers to share the New World with others from the outset. Early on, the Quakers settled the Delaware Valley alongside a community of Swedes and Finns, who had been part of the New Sweden colony, which had been captured by the Dutch and absorbed into the New Netherland colony. That colony, in turn, ended up being taken over by the British in 1664, who also stuck a “new” moniker (a",
+      "date": "Tue, 21 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/american-accent.jpg?w=640",
       "videoId": "",
-      "priority": 35,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 30,
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
+    {
+      "title": "Your ancestors aren’t who you think they are",
+      "url": "https://bigthink.com/the-well/your-ancestors-arent-who-you-think-they-are/",
+      "description": "Over the last 15 years, data on ancient DNA has upended the old story of human history. In this full-length interview, geneticist David Reich explains how new findings have challenged the family tree model of ancestry and revealed a past shaped by migration, interbreeding, disappearance, and constant change.  \n From Neanderthals and Denisovans to the myths of purity that still shape modern identity, Reich shows how the last decade of research has rewritten what we thought we knew about human ori",
+      "date": "Tue, 21 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/The-Well-David-Reich-Full-Interview-Web.jpg?w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 35
+        "total": 30
       }
     },
     {
@@ -132,35 +148,19 @@
       }
     },
     {
-      "title": "The arc of human history is toward cooperation, not division",
-      "url": "https://bigthink.com/history-society/the-great-progression-human-development/",
-      "description": "In the early 1980s, I hitchhiked from London to Cape Town at the tip of South Africa. The overland trip took more than six months, and I traveled about 11,000 miles — almost half the circumference of the Earth. I dropped down through Europe, crossed into Morocco via the Strait of Gibraltar, and then traveled across North Africa. From Egypt, I followed the Nile all the way to its source in East Africa before making my way down to South Africa, which was still under apartheid at the time. \n I was ",
-      "date": "Tue, 14 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/TGP-19_lead-1.png?w=640",
+      "title": "Dark matter passes a new cosmic test, while MOND fails",
+      "url": "https://bigthink.com/starts-with-a-bang/dark-matter-new-cosmic-test-mond-fails/",
+      "description": "If you take everything we know of and can directly observe in the Universe — stars, stellar remnants, galaxies, gas, dust, plasma, and black holes — we find that it’s insufficient to explain what we see on the grandest of all cosmic scales. Unless you hypothesize some novel form of matter, something that’s not included in the Standard Model of elementary particles, you cannot explain a whole suite of evidence. This includes: \n \n the abundances of the light elements and isotopes found in the most",
+      "date": "Tue, 21 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/ALMAs_Hole_in_the_Universe.jpg?w=640",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "This viral image of Saturn isn’t real; it’s AI slop",
-      "url": "https://bigthink.com/starts-with-a-bang/viral-saturn-real-ai-slop/",
-      "description": "Back in 1997, a joint venture between NASA, ESA, and the  Italian Space Agency  (ASI) was launched with the explicit purpose of studying the most distant naked eye planet of the Solar System: Saturn. The Cassini-Huygens mission, unlike the predecessor missions that visited Saturn — Pioneer 11, Voyager 1, and Voyager 2 — wasn’t simply a fly-by mission, but rather flew to Saturn with the intention of remaining there. After a seven year journey to get there, Cassini arrived, where it had many close",
-      "date": "Wed, 15 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/coverslop.jpg?w=640",
-      "videoId": "",
-      "priority": 0,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 0
+        "total": 4
       }
     }
   ]
