@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-22T01:59:20.444110+00:00",
+  "fetchedAt": "2026-04-23T02:03:25.980693+00:00",
   "items": [
     {
       "title": "Les Iraniens font-ils la guerre comme les Perses de l’Antiquité ?",
@@ -20,35 +20,67 @@
       }
     },
     {
-      "title": "La chanteuse Peaches répond à notre “Questionnaire de Socrate”",
-      "url": "https://www.philomag.com/articles/la-chanteuse-peaches-repond-notre-questionnaire-de-socrate",
+      "title": "Valère Novarina, révolutionnaire du langage au secours des sciences ? La chronique d’Étienne Klein",
+      "url": "https://www.philomag.com/articles/valere-novarina-revolutionnaire-du-langage-au-secours-des-sciences-la-chronique-detienne",
       "description": "",
-      "date": "Sun, 19 Apr 2026",
+      "date": "Wed, 22 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
-      "title": "Après la mort de Habermas, une longue guerre d’héritage en vue",
-      "url": "https://www.philomag.com/articles/apres-la-mort-de-habermas-une-longue-guerre-dheritage-en-vue",
+      "title": "Elon Musk, Sam Altman, Alex Karp… Coups de “tech” sur le contrat social",
+      "url": "https://www.philomag.com/articles/elon-musk-sam-altman-alex-karp-coups-de-tech-sur-le-contrat-social",
       "description": "",
-      "date": "Sun, 19 Apr 2026",
+      "date": "Wed, 22 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Christian Jambet : “Les philosophes iraniens proposent des voyages dans le monde intelligible”",
+      "url": "https://www.philomag.com/articles/christian-jambet-les-philosophes-iraniens-proposent-des-voyages-dans-le-monde",
+      "description": "",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Robot poursuivant des sangliers : une scène post-humaine ?",
+      "url": "https://www.philomag.com/articles/robot-poursuivant-des-sangliers-une-scene-post-humaine",
+      "description": "",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -118,38 +150,6 @@
     {
       "title": "Olivier Hamant : \"La crise énergétique actuelle est le signe typique d’un monde qui craque\"",
       "url": "https://www.philomag.com/articles/olivier-hamant-la-crise-energetique-actuelle-est-le-signe-typique-dun-monde-qui-craque",
-      "description": "",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump contre le pape Léon XIV : les clés d’une controverse",
-      "url": "https://www.philomag.com/articles/trump-contre-le-pape-leon-xiv-les-cles-dune-controverse",
-      "description": "",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“J’en fais toute une histoire” : le rire stoïcien de l'écrivaine et cinéaste Nora Ephron",
-      "url": "https://www.philomag.com/articles/jen-fais-toute-une-histoire-le-rire-stoicien-de-lecrivaine-et-cineaste-nora-ephron",
       "description": "",
       "date": "Mon, 20 Apr 2026",
       "thumbnail": "",

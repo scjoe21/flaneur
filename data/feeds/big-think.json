@@ -1,94 +1,62 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-22T01:59:25.249349+00:00",
+  "fetchedAt": "2026-04-23T02:03:32.314882+00:00",
   "items": [
     {
-      "title": "Your suffering is a compass. Here’s how to read it.",
-      "url": "https://bigthink.com/series/full-interview/true-happiness-maturity/",
-      "description": "Most people are trying to solve the wrong problem, optimizing for happiness when happiness isn’t actually a goal, it’s a byproduct.  Mark Manson, author of  The Subtle Art of Not Giving a F * ck , argues that the entire self-help industry has been selling ephemeral highs: affirmations, visualizations, the relentless pursuit of feeling good. The research doesn’t support it, and more importantly, neither does lived experience. \n \n This video  Your suffering is a compass. Here’s how to read it.  is",
-      "date": "Fri, 17 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-10.39.53-AM.png?w=640",
+      "title": "Why rest alone doesn’t restore energy",
+      "url": "https://bigthink.com/mind-behavior/why-rest-alone-doesnt-restore-energy/",
+      "description": "When I signed a book deal in the middle of my PhD, I knew that I’d have to be very disciplined when it came to rest, so I did what most people would consider the “right” thing: I took regular breaks and went to bed early. \n On paper, I was doing everything you’re supposed to do to protect your energy. And yet, I kept feeling tired. It didn’t make sense, so I started looking into it, and what I found is that most of us are working with the wrong model of energy management. \n We tend to think of p",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/rest-doesnt-restore-energy_compressed.png?w=640",
       "videoId": "",
-      "priority": 45,
+      "priority": 30,
       "scoreDetail": {
         "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 45
-      }
-    },
-    {
-      "title": "The solar revolution turning sunlight into synthetic fuel",
-      "url": "https://bigthink.com/series/the-big-think-interview/terraform-industries/",
-      "description": "Could solar energy be the key to unlocking a future free from fossil fuels and extreme poverty? Casey Handmer, founder and CEO of Terraform Industries, believes so. His company is pioneering technology that could revolutionize how we produce and consume energy, potentially solving climate change and global energy inequality in one fell swoop. \n Terraform Industries is developing machines that create synthetic natural gas from sunlight and air. It sounds like science fiction, but the technology i",
-      "date": "Tue, 21 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/B1-Web-Handmer.jpg?w=640",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 40,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "How your brain builds and edits your identity",
-      "url": "https://bigthink.com/perception-box/how-your-brain-builds-and-edits-your-identity/",
-      "description": "Perception feels stable. Your sense of self feels solid. Yet neuroscientist Heather Berlin, psychologist Ethan Kross and neuroscientist Nicole Vignola explain that both are created by the brain. Through prediction, memory and neural pruning, the mind builds a narrative that feels coherent and fixed, even though modern science suggests that it’s continually shaped by pre-existing beliefs and experience. Seeing the construction clearly is the first step toward altering it. \n We created this video ",
-      "date": "Thu, 16 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/UC-BB-Perception-Identity-Web-A.png?w=640",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "The surprising reason why Americans sound, well, American",
-      "url": "https://bigthink.com/books/why-we-talk-funny/",
-      "description": "The most pivotal turning point of what would become known as the General American accent was the willingness of the Quakers to share the New World with others from the outset. Early on, the Quakers settled the Delaware Valley alongside a community of Swedes and Finns, who had been part of the New Sweden colony, which had been captured by the Dutch and absorbed into the New Netherland colony. That colony, in turn, ended up being taken over by the British in 1664, who also stuck a “new” moniker (a",
-      "date": "Tue, 21 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/american-accent.jpg?w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
-      }
-    },
-    {
-      "title": "Your ancestors aren’t who you think they are",
-      "url": "https://bigthink.com/the-well/your-ancestors-arent-who-you-think-they-are/",
-      "description": "Over the last 15 years, data on ancient DNA has upended the old story of human history. In this full-length interview, geneticist David Reich explains how new findings have challenged the family tree model of ancestry and revealed a past shaped by migration, interbreeding, disappearance, and constant change.  \n From Neanderthals and Denisovans to the myths of purity that still shape modern identity, Reich shows how the last decade of research has rewritten what we thought we knew about human ori",
-      "date": "Tue, 21 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/The-Well-David-Reich-Full-Interview-Web.jpg?w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
       }
     },
     {
-      "title": "Ask Ethan: How long does it take planets to form?",
-      "url": "https://bigthink.com/starts-with-a-bang/how-long-take-planets-form/",
-      "description": "Here in our Universe, there were many profound steps that needed to occur in order for creatures like humans to be able to arise. We needed to forge heavy elements in previous generations of stars: elements that the Universe wasn’t born with, but that are required to enable molecules that can link up to form complex bonds and macroscopic structures. We needed enough of those elements so that when new stars formed, rocky planets could arise around them. And we needed enough time to pass so that l",
-      "date": "Fri, 17 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5f4e9558bdfe347880de396e_An-illustration-of-the-young-solar-system-at-the-end-of-its-protoplanetary-disk_960x0.jpg?w=640",
+      "title": "Why AI data centers might lower electricity prices — not raise them",
+      "url": "https://bigthink.com/science-tech/why-ai-data-centers-might-lower-electricity-prices-not-raise-them/",
+      "description": "Planning commission meetings in Joliet, Illinois, aren’t typically raucous affairs. The one on March 5, however, was buzzing and standing-room-only. \n Hundreds of residents crammed into City Hall, filling multiple overflow rooms. Most were waiting for a chance to voice their opinion on a proposal to site a $20 billion AI data center — the largest in the state — on 795 acres of farmland on Joliet’s east side. \n “These are mega-rich people who are not here to do charitable things,”  said  lifelong",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/AI-data-center.jpeg?w=640",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "The power grid is breaking. Can it fix itself?",
+      "url": "https://bigthink.com/science-tech/the-power-grid-is-breaking-can-it-fix-itself/",
+      "description": "A week before Christmas,  nearly 50,000  people living along Colorado’s Front Range lost power for multiple days. \n The outage was deliberate. Xcel Energy, the region’s utility, had implemented a “public safety power shutoff” out of fear that high winds would down power lines and spark fires. The danger wasn’t hypothetical. Conditions were warm and dry, with wind gusts exceeding 100 miles per hour. In 2021, a similar windstorm had led to the most destructive wildfire in Colorado history: the Mar",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/The-power-grid-optimized.gif?w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "The Strait of Hormuz is today’s energy chokepoint. China is tomorrow’s.",
+      "url": "https://bigthink.com/strange-maps/the-strait-of-hormuz-is-todays-energy-chokepoint-china-is-tomorrows/",
+      "description": "Here’s something you didn’t know about the Strait of Hormuz: It is named after Ahura Mazda, the Zoroastrian sky god. And here’s another: In about 20 years, Iran will likely be unable to throttle the global economy by closing this maritime chokepoint, as it did in response to the latest U.S.-Israeli war on its Islamic regime. \n Why? Because we’ll be two decades further down the road to decarbonization. Oil will still flow out of the Strait, but it will matter significantly less to the world econo",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/map2.jpg?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
@@ -100,11 +68,27 @@
       }
     },
     {
-      "title": "Star birth doesn’t come from ignition, but from equilibrium",
-      "url": "https://bigthink.com/starts-with-a-bang/stars-ignition-equilibrium/",
-      "description": "Wherever star-formation happens, a classic cosmic story unfolds. \n \n \n \n A spiral galaxy typically consists of four main gaseous regions within the disk: diffuse atomic gas, dense molecular gas, stars and star clusters, and ionized regions of matter arising from energy injections from star-forming regions, young stars, and stellar cataclysms. JWST, along with the other PHANGS data sources, helps reveal different aspects of this life cycle, but once a galaxy’s gas is gone and no new gas reservoir",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/coverSH2-284.jpg?w=640",
+      "title": "Philip Pullman: The thing every writer needs to overcome",
+      "url": "https://bigthink.com/mini-philosophy/philip-pullman-the-thing-every-writer-needs-to-overcome/",
+      "description": "Sometimes, great writing makes me angry. \n It’s nothing to do with the ideas inside, of course. Poets and bestselling authors are good at their game. What bothers me is when those ideas are expressed with such perfect beauty that I cannot hope to match them. \n There might be a degree of professional pride to this. When I gawp at an old poet like T.S. Eliot or a modern writer like Samantha Harvey, I’m just jealous. Yes, they might be better trained than I am. Yes, they likely took more time on th",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/every-writer-needs-2-overcome_compressed.png?w=640",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The Energy Transition",
+      "url": "https://bigthink.com/collections/the-energy-transition/",
+      "description": "In this monthly issue, we examine how our understanding of energy — and how we source and use it — is evolving.",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/042226-BigThink-Energy-Cover_2500X1406-1.png?w=640",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
@@ -116,51 +100,67 @@
       }
     },
     {
-      "title": "Jan Morris, and the struggle between coherence and uncovering another’s inner life",
-      "url": "https://bigthink.com/books/jan-morris/",
-      "description": "“I think it could be claimed,” Morris wrote in a late unpublished fragment, “that during the second half of the twentieth century I wrote about more places than anyone else, and I was in a position to witness, and to reflect in my writing, many of the great historical events of the time. As I experienced all this first as a man, then as a woman, it might also be said (although I wouldn’t want to make much of this) that my viewpoint was unique.” \n The contradictions and anomalies that kept on com",
-      "date": "Fri, 17 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/jan-morris_excerpt.jpg?w=640",
+      "title": "Only antimatter provides the energy we need for interstellar travel",
+      "url": "https://bigthink.com/starts-with-a-bang/antimatter-energy-interstellar-travel/",
+      "description": "As humanity basks in the aftermath of the unprecedented success of Artemis II, which took humans back to the Moon for the first time in 54 years and brought them farther from Earth than ever before, many of us can’t help but think about grander goals. As a species, we don’t just dream of returning to the Moon, but of heading to places we’ve never been: other planets, other star systems, or even other galaxies. However, there are big problems we have to solve if we ever want to send humans outsid",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/antimatter-rocket.jpeg?w=640",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Everything you eat is sunlight. Scientists want to cut out the middleman.",
+      "url": "https://bigthink.com/science-tech/everything-you-eat-is-sunlight-scientists-want-to-cut-out-the-middleman/",
+      "description": "For you to live, other organisms have to die. \n That’s because humans, like all animals, are heterotrophs. To fuel our bodies, we must eat other living things, killing them in the process. However, most plants and algae are  autotrophs . They bootstrap their biomass without the barbarism of eating others: using photosynthesis, turning sunlight, water, and carbon (pulled from the air) into energy. They may kill through competition, but they don’t need to kill to eat. \n Ultimately, everything we a",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/eating-sunshine-4.jpg?w=640",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "A physicist explains what the Kardashev scale gets wrong",
+      "url": "https://bigthink.com/13-8/a-physicist-explains-what-the-kardashev-scale-gets-wrong/",
+      "description": "In the mid-20th century, while Carl Sagan pioneered the search for extraterrestrial intelligence (SETI) in the U.S., eminent Russian astrophysicist Nikolai Kardashev did the same in the Soviet Union, which was, at the time, the other great scientific superpower.  \n From that vantage point, he proposed using the energy demands of an alien civilization as a way to categorize its place on the ladder of technological advancement. This framework became known as the Kardashev scale, and it is one of t",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Type-I-on-the-Kardeshev-Scale.jpeg?w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "Can you explain the strong nuclear force without colors?",
-      "url": "https://bigthink.com/starts-with-a-bang/the-strong-nuclear-force-made-easy-without-colors-or-group-theory/",
-      "description": "If you were asked to think about a physical phenomenon that’s responsible for any sort of force in the Universe, what answer would you give? Most people, when asked, respond with one of two answers. Most people will give gravity as their answer: the attractive force between all objects with mass or energy. Alternatively, they’ll list any other force that occurs between atoms on Earth, all of which are some manifestation of the electromagnetic force. Either: \n \n there’s an attractive force betwee",
-      "date": "Thu, 16 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/12/gluony.jpg?w=640",
+      "title": "What if the real driver of your health isn’t genes or diet — but energy flow?",
+      "url": "https://bigthink.com/science-tech/what-if-the-real-driver-of-your-health-isnt-genes-or-diet-but-energy-flow/",
+      "description": "“When you compare a dead body with a living one, the only difference is the presence of energy — the physical machinery, the DNA, the proteins, the skin, the organs, it’s all still there.” \n I was surprised by Martin Picard’s choice of words. Evoking a lifeless image to start a conversation about energy flow was counterintuitive, but the image lingers and proves his point. Cadavers have all the “stuff” we associate with being human. The only thing missing, the Columbia professor suggests, is the",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/energy-driver-health_compressed.png?w=640",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Dark matter passes a new cosmic test, while MOND fails",
-      "url": "https://bigthink.com/starts-with-a-bang/dark-matter-new-cosmic-test-mond-fails/",
-      "description": "If you take everything we know of and can directly observe in the Universe — stars, stellar remnants, galaxies, gas, dust, plasma, and black holes — we find that it’s insufficient to explain what we see on the grandest of all cosmic scales. Unless you hypothesize some novel form of matter, something that’s not included in the Standard Model of elementary particles, you cannot explain a whole suite of evidence. This includes: \n \n the abundances of the light elements and isotopes found in the most",
-      "date": "Tue, 21 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/ALMAs_Hole_in_the_Universe.jpg?w=640",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     }
   ]

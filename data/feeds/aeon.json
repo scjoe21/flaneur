@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-04-22T01:59:24.312150+00:00",
+  "fetchedAt": "2026-04-23T02:03:30.768095+00:00",
   "items": [
     {
       "title": "White-collar sweatshops",
@@ -116,19 +116,19 @@
       }
     },
     {
-      "title": "Living without my self",
-      "url": "https://aeon.co/essays/robert-musil-gives-confidence-to-the-no-self-minority-like-me?utm_source=rss-feed",
-      "description": "Our culture valorises the big, coherent self: reading Robert Musil helps me embrace the beauty of my no-self existence - by Mette Leonard Høeg Read on Aeon",
-      "date": "Tue, 07 Apr 2026",
+      "title": "Butterfly (Papillon)",
+      "url": "https://aeon.co/videos/the-swimmer-who-went-from-the-olympics-to-auschwitz-and-back-again?utm_source=rss-feed",
+      "description": "Crafting each frame by hand, an animator paints the story of an Olympic swimmer’s return after surviving the Holocaust - by Aeon Video Watch on Aeon",
+      "date": "Wed, 22 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

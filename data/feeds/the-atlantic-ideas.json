@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-04-22T01:59:25.688565+00:00",
+  "fetchedAt": "2026-04-23T02:03:32.774447+00:00",
   "items": [
     {
       "title": "San Francisco Solved Metro Vandalism With One Neat Trick",
@@ -52,19 +52,35 @@
       }
     },
     {
-      "title": "What Viktor Orbán’s Opponents Sacrificed to Beat Him",
-      "url": "https://www.theatlantic.com/ideas/2026/04/hungary-orban-election-magyar/686810/?utm_source=feed",
+      "title": "The Virginia Gerrymander Disenfranchises Republicans",
+      "url": "https://www.theatlantic.com/ideas/2026/04/virginia-congress-midterms-trump/686895/?utm_source=feed",
       "description": "",
-      "date": "2026-04-15",
+      "date": "2026-04-22",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Apple Is Boring Now",
+      "url": "https://www.theatlantic.com/ideas/2026/04/tim-cook-ternus-apple/686893/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/04/tax-day-irs-filing/686805/?utm_source=feed",
       "description": "",
       "date": "2026-04-15",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Blasphemous President",
-      "url": "https://www.theatlantic.com/ideas/2026/04/trump-pope-leo-iran-war/686800/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-14",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
