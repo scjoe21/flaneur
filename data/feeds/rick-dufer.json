@@ -1,7 +1,7 @@
 {
   "sourceId": "rick-dufer",
   "sourceName": "Rick DuFer",
-  "fetchedAt": "2026-04-23T02:03:29.109881+00:00",
+  "fetchedAt": "2026-04-24T02:03:52.186404+00:00",
   "items": [
     {
       "title": "Il Signore degli Anelli come non l'hai mai visto: magia e artigianato - con Pierpaolo Errico",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "L'Anti-Rings of Power: la DURA verità su Tolkien che Hollywood cerca di ignorare",
+      "url": "https://www.youtube.com/watch?v=KltSN2KVs-A",
+      "description": "Leggi Il Pensiero Incoraggiante ➤➤➤ https://amzn.to/4t63qSD \nDimenticate le serie TV. Tra elfi tragici, metaverso e la paura della morte, scopriamo come J.R.R. Tolkien ci ha lasciato gli strumenti per affrontare l'oscurità di oggi e diventare adulti.\n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \nI prossimi eventi dal vivo ➤➤➤ https://www.dailycogito.com/eventi",
+      "date": "2026-04-23",
+      "thumbnail": "https://i4.ytimg.com/vi/KltSN2KVs-A/hqdefault.jpg",
+      "videoId": "KltSN2KVs-A",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -154,22 +170,6 @@
       "date": "2026-04-19",
       "thumbnail": "https://i4.ytimg.com/vi/cUvKrrw7Ras/hqdefault.jpg",
       "videoId": "cUvKrrw7Ras",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Fantasmi a LUCCA il 21 maggio! #rickdufer #terrasolaris #carolmag #teatro",
-      "url": "https://www.youtube.com/shorts/qupqdFM-wEM",
-      "description": "Ci vediamo a LUCCA il 21 maggio!!! 🎉\n\nPrenota il posto: https://www.dailycogito.com/eventi/\n\n\"Terra-Solaris\" arriva al Teatro Manzoni di Massarosa: una serata di storie e musica, tra i fantasmi di Shakespeare e Dante, in un monologo che vi farà incontrare la vera saggezza del passato, il valore delle storie che raccontiamo da migliaia di anni. Con le musiche originali di Carol, \"Terra-Solaris\" vi farà emozionare e commuovere, portandovi dal pianeta alieno Solaris fino al Paradiso di Dante, in un",
-      "date": "2026-04-09",
-      "thumbnail": "https://i2.ytimg.com/vi/qupqdFM-wEM/hqdefault.jpg",
-      "videoId": "qupqdFM-wEM",
       "priority": 15,
       "scoreDetail": {
         "daily": 10,

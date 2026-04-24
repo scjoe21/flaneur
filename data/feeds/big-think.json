@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-23T02:03:32.314882+00:00",
+  "fetchedAt": "2026-04-24T02:04:42.675176+00:00",
   "items": [
+    {
+      "title": "The often-ignored system controlling your mood, memory, and focus",
+      "url": "https://bigthink.com/perception-box/your-mind-body-connection-explained/",
+      "description": "Your brain didn’t evolve in isolation. It evolved to run the economy of your body, and every heartbeat, breath, and moment of thirst or anxiety is evidence of that system at work. \n Neuroscientist and author Aditi Nerurkar, neuroscientist Wendy Suzuki, and neurologist-philosopher Antonio Damasio break down the science of the mind-body connection: why it exists, how it works, and why understanding it can change the way you experience the world. \n We created this video for  Brain Briefs , a Big Th",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/YC-BB-Marquee-7-Brain-Body-Connection-Web-C.png?w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Why rest alone doesn’t restore energy",
       "url": "https://bigthink.com/mind-behavior/why-rest-alone-doesnt-restore-energy/",
@@ -36,11 +52,11 @@
       }
     },
     {
-      "title": "The power grid is breaking. Can it fix itself?",
-      "url": "https://bigthink.com/science-tech/the-power-grid-is-breaking-can-it-fix-itself/",
-      "description": "A week before Christmas,  nearly 50,000  people living along Colorado’s Front Range lost power for multiple days. \n The outage was deliberate. Xcel Energy, the region’s utility, had implemented a “public safety power shutoff” out of fear that high winds would down power lines and spark fires. The danger wasn’t hypothetical. Conditions were warm and dry, with wind gusts exceeding 100 miles per hour. In 2021, a similar windstorm had led to the most destructive wildfire in Colorado history: the Mar",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/The-power-grid-optimized.gif?w=640",
+      "title": "The idea of “theories of everything” may be fundamentally wrong",
+      "url": "https://bigthink.com/starts-with-a-bang/theories-of-everything/",
+      "description": "Our Universe, to the best of our knowledge, doesn’t make sense in an extremely fundamental way. On the one hand, we have quantum physics, which does an exquisite job of describing the fundamental particles and the electromagnetic and nuclear forces and interactions that take place between them. On the other hand, we have general relativity, which — with equal success — describes the way that matter and energy move through space and time, as well as how space and time themselves evolve in the pre",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/02/Volume_dunivers-e1736197799913.png?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
@@ -52,16 +68,16 @@
       }
     },
     {
-      "title": "The Strait of Hormuz is today’s energy chokepoint. China is tomorrow’s.",
-      "url": "https://bigthink.com/strange-maps/the-strait-of-hormuz-is-todays-energy-chokepoint-china-is-tomorrows/",
-      "description": "Here’s something you didn’t know about the Strait of Hormuz: It is named after Ahura Mazda, the Zoroastrian sky god. And here’s another: In about 20 years, Iran will likely be unable to throttle the global economy by closing this maritime chokepoint, as it did in response to the latest U.S.-Israeli war on its Islamic regime. \n Why? Because we’ll be two decades further down the road to decarbonization. Oil will still flow out of the Strait, but it will matter significantly less to the world econo",
+      "title": "The power grid is breaking. Can it fix itself?",
+      "url": "https://bigthink.com/science-tech/the-power-grid-is-breaking-can-it-fix-itself/",
+      "description": "A week before Christmas,  nearly 50,000  people living along Colorado’s Front Range lost power for multiple days. \n The outage was deliberate. Xcel Energy, the region’s utility, had implemented a “public safety power shutoff” out of fear that high winds would down power lines and spark fires. The danger wasn’t hypothetical. Conditions were warm and dry, with wind gusts exceeding 100 miles per hour. In 2021, a similar windstorm had led to the most destructive wildfire in Colorado history: the Mar",
       "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/map2.jpg?w=640",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/The-power-grid-optimized.gif?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -116,43 +132,27 @@
       }
     },
     {
-      "title": "Everything you eat is sunlight. Scientists want to cut out the middleman.",
-      "url": "https://bigthink.com/science-tech/everything-you-eat-is-sunlight-scientists-want-to-cut-out-the-middleman/",
-      "description": "For you to live, other organisms have to die. \n That’s because humans, like all animals, are heterotrophs. To fuel our bodies, we must eat other living things, killing them in the process. However, most plants and algae are  autotrophs . They bootstrap their biomass without the barbarism of eating others: using photosynthesis, turning sunlight, water, and carbon (pulled from the air) into energy. They may kill through competition, but they don’t need to kill to eat. \n Ultimately, everything we a",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/eating-sunshine-4.jpg?w=640",
+      "title": "Elon Musk, SpaceX, and the rise of “sovereignty as a service”",
+      "url": "https://bigthink.com/books/elon-musk-sovereignty-as-a-service/",
+      "description": "“What can be very frustrating is that regulation is often irrational,” Musk told an audience at Stanford in 2003. “It doesn’t make any sense.” He arrived at the following solution: He would be the one to decide what made sense. And he would not be shy about exercising this authority, even if it meant challenging the law. “If the rules are such that you can’t make progress, then you have to fight the rules,” he said. SpaceX would fight the rules constantly, whether those set by NASA, the Pentagon",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/muskism_excerpt.jpg?w=640",
       "videoId": "",
-      "priority": 14,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "A physicist explains what the Kardashev scale gets wrong",
-      "url": "https://bigthink.com/13-8/a-physicist-explains-what-the-kardashev-scale-gets-wrong/",
-      "description": "In the mid-20th century, while Carl Sagan pioneered the search for extraterrestrial intelligence (SETI) in the U.S., eminent Russian astrophysicist Nikolai Kardashev did the same in the Soviet Union, which was, at the time, the other great scientific superpower.  \n From that vantage point, he proposed using the energy demands of an alien civilization as a way to categorize its place on the ladder of technological advancement. This framework became known as the Kardashev scale, and it is one of t",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Type-I-on-the-Kardeshev-Scale.jpeg?w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
-      "title": "What if the real driver of your health isn’t genes or diet — but energy flow?",
-      "url": "https://bigthink.com/science-tech/what-if-the-real-driver-of-your-health-isnt-genes-or-diet-but-energy-flow/",
-      "description": "“When you compare a dead body with a living one, the only difference is the presence of energy — the physical machinery, the DNA, the proteins, the skin, the organs, it’s all still there.” \n I was surprised by Martin Picard’s choice of words. Evoking a lifeless image to start a conversation about energy flow was counterintuitive, but the image lingers and proves his point. Cadavers have all the “stuff” we associate with being human. The only thing missing, the Columbia professor suggests, is the",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/energy-driver-health_compressed.png?w=640",
+      "title": "5 ways ancient Persia shaped our modern world",
+      "url": "https://bigthink.com/mini-philosophy/persian-empire-contributions/",
+      "description": "It’s often said that history is written by the winners. But when you look back on the ancient world, it’s more accurate to say that history is written by historians. Although  China has a strong claim , many tend to cite ancient Greece as the birthplace of history as a discipline. In Herodotus and Thucydides, we see the origins of the historical method — a vaguely reputable attempt to document events, and not a somewhat-historical imaginarium of magical beasts, bored gods, and local heroes. And ",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/03/AdobeStock_162430077.jpg?w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

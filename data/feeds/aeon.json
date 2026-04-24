@@ -1,24 +1,8 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-04-23T02:03:30.768095+00:00",
+  "fetchedAt": "2026-04-24T02:03:53.954875+00:00",
   "items": [
-    {
-      "title": "White-collar sweatshops",
-      "url": "https://aeon.co/essays/what-made-law-into-a-white-collar-sweatshop-in-the-1980s?utm_source=rss-feed",
-      "description": "How did law firms and other professional workplaces become places of such crushing and soulless work? - by Dylan Gottlieb Read on Aeon",
-      "date": "Thu, 09 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
     {
       "title": "The engineering method",
       "url": "https://aeon.co/videos/many-complex-structures-predate-the-scientific-method-how?utm_source=rss-feed",
@@ -52,22 +36,6 @@
       }
     },
     {
-      "title": "Your opinion, please",
-      "url": "https://aeon.co/videos/a-vivid-portrait-of-montana-built-from-call-in-radio-clips?utm_source=rss-feed",
-      "description": "From poetry to politics, this radio show asked listeners to speak their minds. Decades later, their words still resonate - by Aeon Video Watch on Aeon",
-      "date": "Wed, 08 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Justice is geometric",
       "url": "https://aeon.co/essays/lessons-from-the-fairness-of-african-fractal-societies?utm_source=rss-feed",
       "description": "Where centralised societies excel at extraction, African fractal systems allow for circulation, reciprocity and return - by Likam Kyanzaire Read on Aeon",
@@ -81,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "No nature without fear",
+      "url": "https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed",
+      "description": "Aldo Leopold saw this in the eyes of a dying wolf: when we no longer fear nature, we are on the road to its destruction - by Shawn Simpson Read on Aeon",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Life invisible",
+      "url": "https://aeon.co/videos/searching-for-superbug-cures-in-the-salt-flats-of-the-atacama-desert?utm_source=rss-feed",
+      "description": "In the Atacama Desert, scientists race to find novel cures for antibiotic-resistant infections, as mining interests encroach - by Aeon Video Watch on Aeon",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

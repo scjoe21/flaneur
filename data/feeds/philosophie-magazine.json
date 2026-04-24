@@ -1,22 +1,38 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-23T02:03:25.980693+00:00",
+  "fetchedAt": "2026-04-24T02:03:49.318401+00:00",
   "items": [
     {
-      "title": "Les Iraniens font-ils la guerre comme les Perses de l’Antiquité ?",
-      "url": "https://www.philomag.com/articles/les-iraniens-font-ils-la-guerre-comme-les-perses-de-lantiquite",
+      "title": "“Injustice épistémique”, de Miranda Fricker : pourquoi sommes-nous victimes de nos préjugés ?",
+      "url": "https://www.philomag.com/articles/injustice-epistemique-de-miranda-fricker-pourquoi-sommes-nous-victimes-de-nos-prejuges",
       "description": "",
-      "date": "Tue, 21 Apr 2026",
+      "date": "Thu, 23 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Succès du “tasty crousty” : pourquoi raffole-t-on du croustillant ?",
+      "url": "https://www.philomag.com/articles/succes-du-tasty-crousty-pourquoi-raffole-t-du-croustillant",
+      "description": "",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 15
       }
     },
     {
@@ -33,6 +49,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Voyage au centre de ma chair",
+      "url": "https://www.philomag.com/articles/voyage-au-centre-de-ma-chair",
+      "description": "",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Tchernobyl, 40 ans après : de la demi-vie radioactive à la résilience du vivant",
+      "url": "https://www.philomag.com/articles/tchernobyl-40-ans-apres-de-la-demi-vie-radioactive-la-resilience-du-vivant",
+      "description": "",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -104,54 +152,6 @@
       "url": "https://www.philomag.com/articles/pascal-bruckner-sans-la-diversite-de-ses-auteurs-grasset-ne-survivra-pas",
       "description": "",
       "date": "Tue, 21 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Discorde”, “controverse”, “clash”… Avez-vous les mots pour décrire la dispute ?",
-      "url": "https://www.philomag.com/articles/discorde-controverse-clash-avez-vous-les-mots-pour-decrire-la-dispute",
-      "description": "",
-      "date": "Tue, 21 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Je suis partout” : édition du dimanche",
-      "url": "https://www.philomag.com/articles/je-suis-partout-edition-du-dimanche",
-      "description": "",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Olivier Hamant : \"La crise énergétique actuelle est le signe typique d’un monde qui craque\"",
-      "url": "https://www.philomag.com/articles/olivier-hamant-la-crise-energetique-actuelle-est-le-signe-typique-dun-monde-qui-craque",
-      "description": "",
-      "date": "Mon, 20 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

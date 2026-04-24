@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-04-23T02:03:32.774447+00:00",
+  "fetchedAt": "2026-04-24T02:04:43.087543+00:00",
   "items": [
     {
       "title": "San Francisco Solved Metro Vandalism With One Neat Trick",
@@ -36,19 +36,67 @@
       }
     },
     {
-      "title": "History Is Running Backwards",
-      "url": "https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/?utm_source=feed",
+      "title": "Theft Is Now Progressive Chic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-jia-tolentino-microlooting/686919/?utm_source=feed",
       "description": "",
-      "date": "2026-04-16",
+      "date": "2026-04-23",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Cubans’ Despair",
+      "url": "https://www.theatlantic.com/ideas/2026/04/cuba-crisis-oil-blockade/686865/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump Voters Like Marco Rubio More and More",
+      "url": "https://www.theatlantic.com/ideas/2026/04/maga-heir-rubio-vance-voters/686904/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "If I Tried to Escape, I Would Be Killed",
+      "url": "https://www.theatlantic.com/ideas/2026/04/kidnapped-iraq-shelly-kittleson-iran/686896/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-israel-democrats/686828/?utm_source=feed",
       "description": "",
       "date": "2026-04-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pope James David Vance the First",
-      "url": "https://www.theatlantic.com/ideas/2026/04/pope-jd-vance-iran/686826/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Pillar of the Economics Establishment Admits That It Was Wrong",
-      "url": "https://www.theatlantic.com/ideas/2026/04/world-bank-industrial-policy/686820/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "We Shouldn’t Need Accountants",
-      "url": "https://www.theatlantic.com/ideas/2026/04/tax-day-irs-filing/686805/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-15",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
