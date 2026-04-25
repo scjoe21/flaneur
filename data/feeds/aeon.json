@@ -1,8 +1,24 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-04-24T02:03:53.954875+00:00",
+  "fetchedAt": "2026-04-25T01:53:20.099784+00:00",
   "items": [
+    {
+      "title": "Does reading do us any good?",
+      "url": "https://aeon.co/essays/the-role-of-literature-as-the-key-to-personal-freedom?utm_source=rss-feed",
+      "description": "Stripped of easy moralising, literature makes us relish the search for truth in an age when many believe truth to be dead - by Flora Champy Read on Aeon",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "The engineering method",
       "url": "https://aeon.co/videos/many-complex-structures-predate-the-scientific-method-how?utm_source=rss-feed",
@@ -78,22 +94,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Travelling at the speed of light",
-      "url": "https://aeon.co/videos/take-a-mind-bending-ride-through-the-cosmos-at-light-speed?utm_source=rss-feed",
-      "description": "A mind-bending trip into the cosmos aboard a speculative (yet theoretically possible) spacecraft near the speed of light - by Aeon Video Watch on Aeon",
-      "date": "Thu, 09 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

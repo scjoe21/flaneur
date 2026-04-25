@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-04-24T02:04:43.087543+00:00",
+  "fetchedAt": "2026-04-25T01:53:22.096662+00:00",
   "items": [
+    {
+      "title": "Something Is Happening to America’s Moral Code",
+      "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-stealing-podcast/686917/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "San Francisco Solved Metro Vandalism With One Neat Trick",
       "url": "https://www.theatlantic.com/ideas/2026/04/fare-gate-society-bart/686868/?utm_source=feed",
@@ -33,6 +49,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Texans Will Decide if Jesus Was a Lefty",
+      "url": "https://www.theatlantic.com/ideas/2026/04/progressive-christianity-texas-talarico/686914/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Stanford Freshmen Who Want to Rule the World",
+      "url": "https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/04/sorrow-and-pity-trump/686829/?utm_source=feed",
       "description": "",
       "date": "2026-04-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ukraine Has Finally Given Up on Trump",
-      "url": "https://www.theatlantic.com/ideas/2026/04/ukraine-trump-us-oil-russia/686854/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Scapegoat Scam",
-      "url": "https://www.theatlantic.com/ideas/2026/04/hungary-orban-loss/686832/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Israel Moderates Are Losing the Democratic Party",
-      "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-israel-democrats/686828/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-16",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

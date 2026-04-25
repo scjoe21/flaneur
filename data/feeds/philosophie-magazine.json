@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-24T02:03:49.318401+00:00",
+  "fetchedAt": "2026-04-25T01:53:15.613709+00:00",
   "items": [
+    {
+      "title": "Comment bien et mal coexistent ? Les explications avec un extrait de Leibniz commenté",
+      "url": "https://www.philomag.com/articles/comment-bien-et-mal-coexistent-les-explications-avec-un-extrait-de-leibniz-commente",
+      "description": "",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "“Injustice épistémique”, de Miranda Fricker : pourquoi sommes-nous victimes de nos préjugés ?",
       "url": "https://www.philomag.com/articles/injustice-epistemique-de-miranda-fricker-pourquoi-sommes-nous-victimes-de-nos-prejuges",
@@ -36,19 +52,51 @@
       }
     },
     {
-      "title": "Valère Novarina, révolutionnaire du langage au secours des sciences ? La chronique d’Étienne Klein",
-      "url": "https://www.philomag.com/articles/valere-novarina-revolutionnaire-du-langage-au-secours-des-sciences-la-chronique-detienne",
+      "title": "“Avec le plaider-coupable, la justice se détourne de la recherche de la vérité” : entretien avec le magistrat Denis Salas",
+      "url": "https://www.philomag.com/articles/avec-le-plaider-coupable-la-justice-se-detourne-de-la-recherche-de-la-verite-entretien",
       "description": "",
-      "date": "Wed, 22 Apr 2026",
+      "date": "Fri, 24 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 10
+      }
+    },
+    {
+      "title": "Au musée de l’Orangerie, le jardin merveilleux du douanier Rousseau",
+      "url": "https://www.philomag.com/articles/au-musee-de-lorangerie-le-jardin-merveilleux-du-douanier-rousseau",
+      "description": "",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Vers la guerre entre IA et humains ?",
+      "url": "https://www.philomag.com/articles/vers-la-guerre-entre-ia-et-humains",
+      "description": "",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -104,54 +152,6 @@
       "url": "https://www.philomag.com/articles/christian-jambet-les-philosophes-iraniens-proposent-des-voyages-dans-le-monde",
       "description": "",
       "date": "Wed, 22 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Robot poursuivant des sangliers : une scène post-humaine ?",
-      "url": "https://www.philomag.com/articles/robot-poursuivant-des-sangliers-une-scene-post-humaine",
-      "description": "",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "À Gaza et au Liban, les ravages du nécropouvoir",
-      "url": "https://www.philomag.com/articles/gaza-et-au-liban-les-ravages-du-necropouvoir",
-      "description": "",
-      "date": "Tue, 21 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pascal Bruckner : “Sans la diversité de ses auteurs, Grasset ne survivra pas”",
-      "url": "https://www.philomag.com/articles/pascal-bruckner-sans-la-diversite-de-ses-auteurs-grasset-ne-survivra-pas",
-      "description": "",
-      "date": "Tue, 21 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

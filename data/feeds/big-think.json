@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-24T02:04:42.675176+00:00",
+  "fetchedAt": "2026-04-25T01:53:21.490336+00:00",
   "items": [
+    {
+      "title": "How to recognize when you’re reacting from childhood wounds",
+      "url": "https://bigthink.com/series/full-interview/childhood-wounds/",
+      "description": "Dr. Nicole LePera, the holistic psychologist and NYT bestselling author behind  Reparenting the Inner Child , breaks down the 6 archetypes of childhood trauma. \n LePera explains why insight alone never produces lasting change and walks through the science of reparenting: The practice of stepping in as the adult presence you may never have had. \n This video  How to recognize when you’re reacting from childhood wounds  is featured on  Big Think .",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-10.59.35-AM.png?w=640",
+      "videoId": "",
+      "priority": 43,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 43
+      }
+    },
     {
       "title": "The often-ignored system controlling your mood, memory, and focus",
       "url": "https://bigthink.com/perception-box/your-mind-body-connection-explained/",
@@ -20,35 +36,19 @@
       }
     },
     {
-      "title": "Why rest alone doesn’t restore energy",
-      "url": "https://bigthink.com/mind-behavior/why-rest-alone-doesnt-restore-energy/",
-      "description": "When I signed a book deal in the middle of my PhD, I knew that I’d have to be very disciplined when it came to rest, so I did what most people would consider the “right” thing: I took regular breaks and went to bed early. \n On paper, I was doing everything you’re supposed to do to protect your energy. And yet, I kept feeling tired. It didn’t make sense, so I started looking into it, and what I found is that most of us are working with the wrong model of energy management. \n We tend to think of p",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/rest-doesnt-restore-energy_compressed.png?w=640",
+      "title": "Ask Ethan: What’s the biggest misconception in astronomy?",
+      "url": "https://bigthink.com/starts-with-a-bang/biggest-misconception-astronomy/",
+      "description": "Anytime you try to learn something beyond your current understanding, it isn’t as simple as pouring “new knowledge” into an otherwise empty vessel. We come into any new endeavor with a pre-existing foundation: things we’ve learned, been taught, or have put together for ourselves previously. When that new knowledge arrives, we inevitably attempt to integrate it into our pre-existing framework, and that isn’t always a smooth process. Sometimes, our foundation is riddled with misconceptions, misund",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/01/windout.jpg?w=640",
       "videoId": "",
-      "priority": 30,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
-        "phil": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Why AI data centers might lower electricity prices — not raise them",
-      "url": "https://bigthink.com/science-tech/why-ai-data-centers-might-lower-electricity-prices-not-raise-them/",
-      "description": "Planning commission meetings in Joliet, Illinois, aren’t typically raucous affairs. The one on March 5, however, was buzzing and standing-room-only. \n Hundreds of residents crammed into City Hall, filling multiple overflow rooms. Most were waiting for a chance to voice their opinion on a proposal to site a $20 billion AI data center — the largest in the state — on 795 acres of farmland on Joliet’s east side. \n “These are mega-rich people who are not here to do charitable things,”  said  lifelong",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/AI-data-center.jpeg?w=640",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
+        "total": 20
       }
     },
     {

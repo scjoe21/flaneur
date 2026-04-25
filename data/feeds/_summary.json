@@ -1,7 +1,8 @@
 {
-  "lastRun": "2026-04-24T02:04:43.087996+00:00",
+  "lastRun": "2026-04-25T01:53:22.097097+00:00",
   "ok": [
     "monsieur-phi",
+    "le-precepteur",
     "philosophie-magazine",
     "gert-scobel",
     "hohe-luft",
@@ -11,16 +12,15 @@
     "philosophy-now",
     "overthink",
     "aeon",
+    "daily-stoic",
     "big-think",
     "the-atlantic-ideas"
   ],
   "fail": [
-    "le-precepteur",
     "france-culture-philo",
     "deutschlandfunk-philosophie",
-    "philosophy-bites",
-    "daily-stoic"
+    "philosophy-bites"
   ],
   "total": 17,
-  "fetched": 12
+  "fetched": 14
 }
