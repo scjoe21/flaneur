@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-04-25T10:31:17.680228+00:00",
+  "fetchedAt": "2026-04-25T11:01:17.619609+00:00",
   "items": [
+    {
+      "title": "Why Silicon Valley Is Turning to the Catholic Church",
+      "url": "https://www.theatlantic.com/ideas/2026/04/silicon-valley-catholicism-ai-leo/686948/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-25",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Something Is Happening to America’s Moral Code",
       "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-stealing-podcast/686917/?utm_source=feed",
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/04/doj-weaponization-working-group/686863/?utm_source=feed",
       "description": "",
       "date": "2026-04-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Film That Explains Contemporary America",
-      "url": "https://www.theatlantic.com/ideas/2026/04/sorrow-and-pity-trump/686829/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-18",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
