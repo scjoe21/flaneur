@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-04-21T02:00:59.102757+00:00",
+  "fetchedAt": "2026-04-25T09:37:28.993237+00:00",
   "items": [
+    {
+      "title": "Something Is Happening to America’s Moral Code",
+      "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-stealing-podcast/686917/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "San Francisco Solved Metro Vandalism With One Neat Trick",
       "url": "https://www.theatlantic.com/ideas/2026/04/fare-gate-society-bart/686868/?utm_source=feed",
@@ -36,35 +52,147 @@
       }
     },
     {
-      "title": "History Is Running Backwards",
-      "url": "https://www.theatlantic.com/magazine/2026/05/reactionary-traditionalism-worldview/686597/?utm_source=feed",
+      "title": "Texans Will Decide if Jesus Was a Lefty",
+      "url": "https://www.theatlantic.com/ideas/2026/04/progressive-christianity-texas-talarico/686914/?utm_source=feed",
       "description": "",
-      "date": "2026-04-16",
+      "date": "2026-04-24",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "What Viktor Orbán’s Opponents Sacrificed to Beat Him",
-      "url": "https://www.theatlantic.com/ideas/2026/04/hungary-orban-election-magyar/686810/?utm_source=feed",
+      "title": "The Stanford Freshmen Who Want to Rule the World",
+      "url": "https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/?utm_source=feed",
       "description": "",
-      "date": "2026-04-15",
+      "date": "2026-04-24",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Theft Is Now Progressive Chic",
+      "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-jia-tolentino-microlooting/686919/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Cubans’ Despair",
+      "url": "https://www.theatlantic.com/ideas/2026/04/cuba-crisis-oil-blockade/686865/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump Voters Like Marco Rubio More and More",
+      "url": "https://www.theatlantic.com/ideas/2026/04/maga-heir-rubio-vance-voters/686904/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "If I Tried to Escape, I Would Be Killed",
+      "url": "https://www.theatlantic.com/ideas/2026/04/kidnapped-iraq-shelly-kittleson-iran/686896/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Virginia Gerrymander Disenfranchises Republicans",
+      "url": "https://www.theatlantic.com/ideas/2026/04/virginia-congress-midterms-trump/686895/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Apple Is Boring Now",
+      "url": "https://www.theatlantic.com/ideas/2026/04/tim-cook-ternus-apple/686893/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Define <em>Jewish State</em>",
+      "url": "https://www.theatlantic.com/ideas/2026/04/define-jewish-state-israel/686853/?utm_source=feed",
+      "description": "",
+      "date": "2026-04-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -104,134 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/04/sorrow-and-pity-trump/686829/?utm_source=feed",
       "description": "",
       "date": "2026-04-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ukraine Has Finally Given Up on Trump",
-      "url": "https://www.theatlantic.com/ideas/2026/04/ukraine-trump-us-oil-russia/686854/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Scapegoat Scam",
-      "url": "https://www.theatlantic.com/ideas/2026/04/hungary-orban-loss/686832/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Israel Moderates Are Losing the Democratic Party",
-      "url": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-israel-democrats/686828/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pope James David Vance the First",
-      "url": "https://www.theatlantic.com/ideas/2026/04/pope-jd-vance-iran/686826/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Pillar of the Economics Establishment Admits That It Was Wrong",
-      "url": "https://www.theatlantic.com/ideas/2026/04/world-bank-industrial-policy/686820/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "We Shouldn’t Need Accountants",
-      "url": "https://www.theatlantic.com/ideas/2026/04/tax-day-irs-filing/686805/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-15",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Blasphemous President",
-      "url": "https://www.theatlantic.com/ideas/2026/04/trump-pope-leo-iran-war/686800/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "SpaceX Is Basically a Huge Meme Stock",
-      "url": "https://www.theatlantic.com/ideas/2026/04/spacex-ipo-elon-musk/686793/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-14",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

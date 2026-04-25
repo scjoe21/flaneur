@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-04-20T14:04:08.248218+00:00",
+  "fetchedAt": "2026-04-25T09:37:17.758994+00:00",
   "items": [
     {
       "title": "Female Rage: Warum wir Frauen ihre Wut verbieten | NANO Doku",
@@ -212,22 +212,6 @@
       }
     },
     {
-      "title": "So erreicht unser Gehirn seine Ziele | NANO Doku",
-      "url": "https://www.youtube.com/watch?v=iIaJzx-EaTA",
-      "description": "Was passiert in unserem #Gehirn, wenn wir versuchen, #Gewohnheiten zu ändern, mehr Sport zu treiben oder endlich abzunehmen? Warum schaffen es manche Menschen, ihre Pläne konsequent umzusetzen – während andere nach wenigen Wochen aufgeben? Wer #Erfolg haben möchte, muss sich nachhaltig motivieren können. Doch das gelingt nicht nur über #Selbstdisziplin und #Durchhaltevermögen \nJeder von uns hat seinen eigenen „Motivations-Kompass“, der sich ganz individuell steuern - und auch überlisten lässt. D",
-      "date": "2026-02-26",
-      "thumbnail": "https://i2.ytimg.com/vi/iIaJzx-EaTA/hqdefault.jpg",
-      "videoId": "iIaJzx-EaTA",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Kannst du das Altern aufhalten? | NANO Talk",
       "url": "https://www.youtube.com/watch?v=16LbBe7hYe8",
       "description": "#Longevity verspricht langes Leben bei möglichst guter Gesundheit. Die einen verzichten einfach auf Tabak, Alkohol und Junkfood, die anderen lassen für astronomische Summen ihr Blutplasma austauschen.\n \nDer ehemalige Tech-Unternehmer und Longevity-Guru Bryan Johnson investiert jedes Jahr mehrere Millionen Dollar, um möglichst lange zu leben. Täglich hunderte Pillen, Stammzellen- und #Gentherapie – so will Johnson den Alterungsprozess aufhalten.\n \nManche Menschen scheinen das Geheimnis eines lang",
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Tschernobyl: Die Chronik einer angekündigten Katastrophe | NANO",
+      "url": "https://www.youtube.com/watch?v=Q5_fiUuo_mQ",
+      "description": "26. April 1986, 01:23 Uhr: Ein Sicherheitstest im #Atomkraftwerk #Tschernobyl gerät außer Kontrolle. Die Folge ist der schwerste nukleare Unfall der Geschichte. \n\n40 Jahre nach dem #SuperGAU ist die Sperrzone kein ruhender Ort der Geschichte, sondern aktueller denn je. Wir haben exklusive Einblicke in das Innere des havarierten Kraftwerks erhalten. Begleitet uns in den Kontrollraum von Block 4 – dem Ort, an dem die Katastrophe ihren Lauf nahm.\n\nDas erwartet euch im Video:\n\n• Der Weg in den GAU: ",
+      "date": "2026-04-23",
+      "thumbnail": "https://i2.ytimg.com/vi/Q5_fiUuo_mQ/hqdefault.jpg",
+      "videoId": "Q5_fiUuo_mQ",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     }
   ]

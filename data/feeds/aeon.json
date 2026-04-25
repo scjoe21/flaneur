@@ -1,38 +1,22 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-04-21T02:00:57.116598+00:00",
+  "fetchedAt": "2026-04-25T09:37:25.529617+00:00",
   "items": [
     {
-      "title": "White-collar sweatshops",
-      "url": "https://aeon.co/essays/what-made-law-into-a-white-collar-sweatshop-in-the-1980s?utm_source=rss-feed",
-      "description": "How did law firms and other professional workplaces become places of such crushing and soulless work? - by Dylan Gottlieb Read on Aeon",
-      "date": "Thu, 09 Apr 2026",
+      "title": "Does reading do us any good?",
+      "url": "https://aeon.co/essays/the-role-of-literature-as-the-key-to-personal-freedom?utm_source=rss-feed",
+      "description": "Stripped of easy moralising, literature makes us relish the search for truth in an age when many believe truth to be dead - by Flora Champy Read on Aeon",
+      "date": "Fri, 24 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Is AI already conscious?",
-      "url": "https://aeon.co/videos/we-long-misjudged-animal-consciousness-could-ai-be-next?utm_source=rss-feed",
-      "description": "Why it’s difficult and perhaps even morally perilous to rule out the possibility of AI consciousness - by Aeon Video Watch on Aeon",
-      "date": "Mon, 06 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
+        "total": 15
       }
     },
     {
@@ -68,19 +52,35 @@
       }
     },
     {
-      "title": "Your opinion, please",
-      "url": "https://aeon.co/videos/a-vivid-portrait-of-montana-built-from-call-in-radio-clips?utm_source=rss-feed",
-      "description": "From poetry to politics, this radio show asked listeners to speak their minds. Decades later, their words still resonate - by Aeon Video Watch on Aeon",
-      "date": "Wed, 08 Apr 2026",
+      "title": "Justice is geometric",
+      "url": "https://aeon.co/essays/lessons-from-the-fairness-of-african-fractal-societies?utm_source=rss-feed",
+      "description": "Where centralised societies excel at extraction, African fractal systems allow for circulation, reciprocity and return - by Likam Kyanzaire Read on Aeon",
+      "date": "Tue, 21 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 9,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "No nature without fear",
+      "url": "https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed",
+      "description": "Aldo Leopold saw this in the eyes of a dying wolf: when we no longer fear nature, we are on the road to its destruction - by Shawn Simpson Read on Aeon",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -100,35 +100,35 @@
       }
     },
     {
-      "title": "Travelling at the speed of light",
-      "url": "https://aeon.co/videos/take-a-mind-bending-ride-through-the-cosmos-at-light-speed?utm_source=rss-feed",
-      "description": "A mind-bending trip into the cosmos aboard a speculative (yet theoretically possible) spacecraft near the speed of light - by Aeon Video Watch on Aeon",
-      "date": "Thu, 09 Apr 2026",
+      "title": "Life invisible",
+      "url": "https://aeon.co/videos/searching-for-superbug-cures-in-the-salt-flats-of-the-atacama-desert?utm_source=rss-feed",
+      "description": "In the Atacama Desert, scientists race to find novel cures for antibiotic-resistant infections, as mining interests encroach - by Aeon Video Watch on Aeon",
+      "date": "Thu, 23 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Living without my self",
-      "url": "https://aeon.co/essays/robert-musil-gives-confidence-to-the-no-self-minority-like-me?utm_source=rss-feed",
-      "description": "Our culture valorises the big, coherent self: reading Robert Musil helps me embrace the beauty of my no-self existence - by Mette Leonard Høeg Read on Aeon",
-      "date": "Tue, 07 Apr 2026",
+      "title": "Butterfly (Papillon)",
+      "url": "https://aeon.co/videos/the-swimmer-who-went-from-the-olympics-to-auschwitz-and-back-again?utm_source=rss-feed",
+      "description": "Crafting each frame by hand, an animator paints the story of an Olympic swimmer’s return after surviving the Holocaust - by Aeon Video Watch on Aeon",
+      "date": "Wed, 22 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

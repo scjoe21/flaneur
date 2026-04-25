@@ -1,78 +1,46 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-21T02:00:58.410544+00:00",
+  "fetchedAt": "2026-04-25T09:37:28.016176+00:00",
   "items": [
     {
-      "title": "Your suffering is a compass. Here’s how to read it.",
-      "url": "https://bigthink.com/series/full-interview/true-happiness-maturity/",
-      "description": "Most people are trying to solve the wrong problem, optimizing for happiness when happiness isn’t actually a goal, it’s a byproduct.  Mark Manson, author of  The Subtle Art of Not Giving a F * ck , argues that the entire self-help industry has been selling ephemeral highs: affirmations, visualizations, the relentless pursuit of feeling good. The research doesn’t support it, and more importantly, neither does lived experience. \n \n This video  Your suffering is a compass. Here’s how to read it.  is",
-      "date": "Fri, 17 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-16-at-10.39.53-AM.png?w=640",
+      "title": "How to recognize when you’re reacting from childhood wounds",
+      "url": "https://bigthink.com/series/full-interview/childhood-wounds/",
+      "description": "Dr. Nicole LePera, the holistic psychologist and NYT bestselling author behind  Reparenting the Inner Child , breaks down the 6 archetypes of childhood trauma. \n LePera explains why insight alone never produces lasting change and walks through the science of reparenting: The practice of stepping in as the adult presence you may never have had. \n This video  How to recognize when you’re reacting from childhood wounds  is featured on  Big Think .",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-10.59.35-AM.png?w=640",
       "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 45
-      }
-    },
-    {
-      "title": "How to get employees to actually care about your L&D program",
-      "url": "https://bigthink.com/plus/market-your-learning-and-development-programs/",
-      "description": "Marketers wake up every morning convinced nobody cares about what they’re selling. Most learning and development (L&D) pros assume the opposite, that attention comes with the job title, or at least with the mandatory completion requirement. \n That gap explains a lot. \n Mandatory Doesn’t Mean Engaged \n Think about the last compliance course you clicked through. You showed up. You moved the slider. You passed the quiz. And three days later, you remembered almost nothing. \n The training counted as ",
-      "date": "Wed, 15 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-15-at-16.01.21.png?w=640",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 39
-      }
-    },
-    {
-      "title": "How your brain builds and edits your identity",
-      "url": "https://bigthink.com/perception-box/how-your-brain-builds-and-edits-your-identity/",
-      "description": "Perception feels stable. Your sense of self feels solid. Yet neuroscientist Heather Berlin, psychologist Ethan Kross and neuroscientist Nicole Vignola explain that both are created by the brain. Through prediction, memory and neural pruning, the mind builds a narrative that feels coherent and fixed, even though modern science suggests that it’s continually shaped by pre-existing beliefs and experience. Seeing the construction clearly is the first step toward altering it. \n We created this video ",
-      "date": "Thu, 16 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/UC-BB-Perception-Identity-Web-A.png?w=640",
-      "videoId": "",
-      "priority": 35,
+      "priority": 43,
       "scoreDetail": {
         "daily": 30,
         "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 43
+      }
+    },
+    {
+      "title": "The often-ignored system controlling your mood, memory, and focus",
+      "url": "https://bigthink.com/perception-box/your-mind-body-connection-explained/",
+      "description": "Your brain didn’t evolve in isolation. It evolved to run the economy of your body, and every heartbeat, breath, and moment of thirst or anxiety is evidence of that system at work. \n Neuroscientist and author Aditi Nerurkar, neuroscientist Wendy Suzuki, and neurologist-philosopher Antonio Damasio break down the science of the mind-body connection: why it exists, how it works, and why understanding it can change the way you experience the world. \n We created this video for  Brain Briefs , a Big Th",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/YC-BB-Marquee-7-Brain-Body-Connection-Web-C.png?w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
       }
     },
     {
-      "title": "There is no you in your brain — your identity is a “society of the mind”",
-      "url": "https://bigthink.com/books/our-brains-our-selves/",
-      "description": "What makes us who we are? Most of us might say that it is our background that creates our identities: our families, where we’ve lived, how we were brought up and educated, the people who have influenced us, the jobs we’ve held. But there is something far more fundamental that makes us who we are, and which transcends social and cultural experiences. This is our brain. Our brains create us. No matter where you are from, where you live or have lived, the language you speak, the color of your skin,",
-      "date": "Tue, 14 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/no-you-in-your-mind.jpg?w=640",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Ask Ethan: How long does it take planets to form?",
-      "url": "https://bigthink.com/starts-with-a-bang/how-long-take-planets-form/",
-      "description": "Here in our Universe, there were many profound steps that needed to occur in order for creatures like humans to be able to arise. We needed to forge heavy elements in previous generations of stars: elements that the Universe wasn’t born with, but that are required to enable molecules that can link up to form complex bonds and macroscopic structures. We needed enough of those elements so that when new stars formed, rocky planets could arise around them. And we needed enough time to pass so that l",
-      "date": "Fri, 17 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5f4e9558bdfe347880de396e_An-illustration-of-the-young-solar-system-at-the-end-of-its-protoplanetary-disk_960x0.jpg?w=640",
+      "title": "Ask Ethan: What’s the biggest misconception in astronomy?",
+      "url": "https://bigthink.com/starts-with-a-bang/biggest-misconception-astronomy/",
+      "description": "Anytime you try to learn something beyond your current understanding, it isn’t as simple as pouring “new knowledge” into an otherwise empty vessel. We come into any new endeavor with a pre-existing foundation: things we’ve learned, been taught, or have put together for ourselves previously. When that new knowledge arrives, we inevitably attempt to integrate it into our pre-existing framework, and that isn’t always a smooth process. Sometimes, our foundation is riddled with misconceptions, misund",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/01/windout.jpg?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
@@ -84,11 +52,59 @@
       }
     },
     {
-      "title": "Star birth doesn’t come from ignition, but from equilibrium",
-      "url": "https://bigthink.com/starts-with-a-bang/stars-ignition-equilibrium/",
-      "description": "Wherever star-formation happens, a classic cosmic story unfolds. \n \n \n \n A spiral galaxy typically consists of four main gaseous regions within the disk: diffuse atomic gas, dense molecular gas, stars and star clusters, and ionized regions of matter arising from energy injections from star-forming regions, young stars, and stellar cataclysms. JWST, along with the other PHANGS data sources, helps reveal different aspects of this life cycle, but once a galaxy’s gas is gone and no new gas reservoir",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/coverSH2-284.jpg?w=640",
+      "title": "The idea of “theories of everything” may be fundamentally wrong",
+      "url": "https://bigthink.com/starts-with-a-bang/theories-of-everything/",
+      "description": "Our Universe, to the best of our knowledge, doesn’t make sense in an extremely fundamental way. On the one hand, we have quantum physics, which does an exquisite job of describing the fundamental particles and the electromagnetic and nuclear forces and interactions that take place between them. On the other hand, we have general relativity, which — with equal success — describes the way that matter and energy move through space and time, as well as how space and time themselves evolve in the pre",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/02/Volume_dunivers-e1736197799913.png?w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "The power grid is breaking. Can it fix itself?",
+      "url": "https://bigthink.com/science-tech/the-power-grid-is-breaking-can-it-fix-itself/",
+      "description": "A week before Christmas,  nearly 50,000  people living along Colorado’s Front Range lost power for multiple days. \n The outage was deliberate. Xcel Energy, the region’s utility, had implemented a “public safety power shutoff” out of fear that high winds would down power lines and spark fires. The danger wasn’t hypothetical. Conditions were warm and dry, with wind gusts exceeding 100 miles per hour. In 2021, a similar windstorm had led to the most destructive wildfire in Colorado history: the Mar",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/The-power-grid-optimized.gif?w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Philip Pullman: The thing every writer needs to overcome",
+      "url": "https://bigthink.com/mini-philosophy/philip-pullman-the-thing-every-writer-needs-to-overcome/",
+      "description": "Sometimes, great writing makes me angry. \n It’s nothing to do with the ideas inside, of course. Poets and bestselling authors are good at their game. What bothers me is when those ideas are expressed with such perfect beauty that I cannot hope to match them. \n There might be a degree of professional pride to this. When I gawp at an old poet like T.S. Eliot or a modern writer like Samantha Harvey, I’m just jealous. Yes, they might be better trained than I am. Yes, they likely took more time on th",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/every-writer-needs-2-overcome_compressed.png?w=640",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The Energy Transition",
+      "url": "https://bigthink.com/collections/the-energy-transition/",
+      "description": "In this monthly issue, we examine how our understanding of energy — and how we source and use it — is evolving.",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/042226-BigThink-Energy-Cover_2500X1406-1.png?w=640",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
@@ -100,27 +116,27 @@
       }
     },
     {
-      "title": "Jan Morris, and the struggle between coherence and uncovering another’s inner life",
-      "url": "https://bigthink.com/books/jan-morris/",
-      "description": "“I think it could be claimed,” Morris wrote in a late unpublished fragment, “that during the second half of the twentieth century I wrote about more places than anyone else, and I was in a position to witness, and to reflect in my writing, many of the great historical events of the time. As I experienced all this first as a man, then as a woman, it might also be said (although I wouldn’t want to make much of this) that my viewpoint was unique.” \n The contradictions and anomalies that kept on com",
-      "date": "Fri, 17 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/jan-morris_excerpt.jpg?w=640",
+      "title": "Only antimatter provides the energy we need for interstellar travel",
+      "url": "https://bigthink.com/starts-with-a-bang/antimatter-energy-interstellar-travel/",
+      "description": "As humanity basks in the aftermath of the unprecedented success of Artemis II, which took humans back to the Moon for the first time in 54 years and brought them farther from Earth than ever before, many of us can’t help but think about grander goals. As a species, we don’t just dream of returning to the Moon, but of heading to places we’ve never been: other planets, other star systems, or even other galaxies. However, there are big problems we have to solve if we ever want to send humans outsid",
+      "date": "Wed, 22 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/antimatter-rocket.jpeg?w=640",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     },
     {
-      "title": "Can you explain the strong nuclear force without colors?",
-      "url": "https://bigthink.com/starts-with-a-bang/the-strong-nuclear-force-made-easy-without-colors-or-group-theory/",
-      "description": "If you were asked to think about a physical phenomenon that’s responsible for any sort of force in the Universe, what answer would you give? Most people, when asked, respond with one of two answers. Most people will give gravity as their answer: the attractive force between all objects with mass or energy. Alternatively, they’ll list any other force that occurs between atoms on Earth, all of which are some manifestation of the electromagnetic force. Either: \n \n there’s an attractive force betwee",
-      "date": "Thu, 16 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/12/gluony.jpg?w=640",
+      "title": "Elon Musk, SpaceX, and the rise of “sovereignty as a service”",
+      "url": "https://bigthink.com/books/elon-musk-sovereignty-as-a-service/",
+      "description": "“What can be very frustrating is that regulation is often irrational,” Musk told an audience at Stanford in 2003. “It doesn’t make any sense.” He arrived at the following solution: He would be the one to decide what made sense. And he would not be shy about exercising this authority, even if it meant challenging the law. “If the rules are such that you can’t make progress, then you have to fight the rules,” he said. SpaceX would fight the rules constantly, whether those set by NASA, the Pentagon",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/muskism_excerpt.jpg?w=640",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -132,27 +148,11 @@
       }
     },
     {
-      "title": "The arc of human history is toward cooperation, not division",
-      "url": "https://bigthink.com/history-society/the-great-progression-human-development/",
-      "description": "In the early 1980s, I hitchhiked from London to Cape Town at the tip of South Africa. The overland trip took more than six months, and I traveled about 11,000 miles — almost half the circumference of the Earth. I dropped down through Europe, crossed into Morocco via the Strait of Gibraltar, and then traveled across North Africa. From Egypt, I followed the Nile all the way to its source in East Africa before making my way down to South Africa, which was still under apartheid at the time. \n I was ",
-      "date": "Tue, 14 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/TGP-19_lead-1.png?w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "This viral image of Saturn isn’t real; it’s AI slop",
-      "url": "https://bigthink.com/starts-with-a-bang/viral-saturn-real-ai-slop/",
-      "description": "Back in 1997, a joint venture between NASA, ESA, and the  Italian Space Agency  (ASI) was launched with the explicit purpose of studying the most distant naked eye planet of the Solar System: Saturn. The Cassini-Huygens mission, unlike the predecessor missions that visited Saturn — Pioneer 11, Voyager 1, and Voyager 2 — wasn’t simply a fly-by mission, but rather flew to Saturn with the intention of remaining there. After a seven year journey to get there, Cassini arrived, where it had many close",
-      "date": "Wed, 15 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/coverslop.jpg?w=640",
+      "title": "5 ways ancient Persia shaped our modern world",
+      "url": "https://bigthink.com/mini-philosophy/persian-empire-contributions/",
+      "description": "It’s often said that history is written by the winners. But when you look back on the ancient world, it’s more accurate to say that history is written by historians. Although  China has a strong claim , many tend to cite ancient Greece as the birthplace of history as a discipline. In Herodotus and Thucydides, we see the origins of the historical method — a vaguely reputable attempt to document events, and not a somewhat-historical imaginarium of magical beasts, bored gods, and local heroes. And ",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/03/AdobeStock_162430077.jpg?w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

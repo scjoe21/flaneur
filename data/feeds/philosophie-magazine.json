@@ -1,13 +1,45 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-21T02:00:52.562246+00:00",
+  "fetchedAt": "2026-04-25T09:37:17.240638+00:00",
   "items": [
     {
-      "title": "Pourquoi aime-t-on les premiers rayons de soleil ?",
-      "url": "https://www.philomag.com/articles/pourquoi-aime-t-les-premiers-rayons-de-soleil",
+      "title": "Comment bien et mal coexistent ? Les explications avec un extrait de Leibniz commenté",
+      "url": "https://www.philomag.com/articles/comment-bien-et-mal-coexistent-les-explications-avec-un-extrait-de-leibniz-commente",
       "description": "",
-      "date": "Sat, 18 Apr 2026",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "“Injustice épistémique”, de Miranda Fricker : pourquoi sommes-nous victimes de nos préjugés ?",
+      "url": "https://www.philomag.com/articles/injustice-epistemique-de-miranda-fricker-pourquoi-sommes-nous-victimes-de-nos-prejuges",
+      "description": "",
+      "date": "Thu, 23 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Succès du “tasty crousty” : pourquoi raffole-t-on du croustillant ?",
+      "url": "https://www.philomag.com/articles/succes-du-tasty-crousty-pourquoi-raffole-t-du-croustillant",
+      "description": "",
+      "date": "Thu, 23 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,10 +52,10 @@
       }
     },
     {
-      "title": "Leibniz, la bienveillance de Dieu et l'existence du mal",
-      "url": "https://www.philomag.com/articles/leibniz-la-bienveillance-de-dieu-et-lexistence-du-mal",
+      "title": "“Avec le plaider-coupable, la justice se détourne de la recherche de la vérité” : entretien avec le magistrat Denis Salas",
+      "url": "https://www.philomag.com/articles/avec-le-plaider-coupable-la-justice-se-detourne-de-la-recherche-de-la-verite-entretien",
       "description": "",
-      "date": "Sat, 18 Apr 2026",
+      "date": "Fri, 24 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -36,26 +68,10 @@
       }
     },
     {
-      "title": "La chanteuse Peaches répond à notre “Questionnaire de Socrate”",
-      "url": "https://www.philomag.com/articles/la-chanteuse-peaches-repond-notre-questionnaire-de-socrate",
+      "title": "“Portrait de famille. Une histoire des Atrides” : une dynastie maudite dynamitée sur scène par Jean-François Sivadier",
+      "url": "https://www.philomag.com/articles/portrait-de-famille-une-histoire-des-atrides-une-dynastie-maudite-dynamitee-sur-scene",
       "description": "",
-      "date": "Sun, 19 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Après la mort de Habermas, une longue guerre d’héritage en vue",
-      "url": "https://www.philomag.com/articles/apres-la-mort-de-habermas-une-longue-guerre-dheritage-en-vue",
-      "description": "",
-      "date": "Sun, 19 Apr 2026",
+      "date": "Sat, 25 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,26 +84,42 @@
       }
     },
     {
-      "title": "“Satyagraha” de Philip Glass : un opéra indien en quête de vérité",
-      "url": "https://www.philomag.com/articles/satyagraha-de-philip-glass-un-opera-indien-en-quete-de-verite",
+      "title": "Au musée de l’Orangerie, le jardin merveilleux du douanier Rousseau",
+      "url": "https://www.philomag.com/articles/au-musee-de-lorangerie-le-jardin-merveilleux-du-douanier-rousseau",
       "description": "",
-      "date": "Fri, 17 Apr 2026",
+      "date": "Fri, 24 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
       }
     },
     {
-      "title": "“Je suis partout” : édition du dimanche",
-      "url": "https://www.philomag.com/articles/je-suis-partout-edition-du-dimanche",
+      "title": "Vers la guerre entre IA et humains ?",
+      "url": "https://www.philomag.com/articles/vers-la-guerre-entre-ia-et-humains",
       "description": "",
-      "date": "Mon, 20 Apr 2026",
+      "date": "Fri, 24 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Voyage au centre de ma chair",
+      "url": "https://www.philomag.com/articles/voyage-au-centre-de-ma-chair",
+      "description": "",
+      "date": "Thu, 23 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +132,10 @@
       }
     },
     {
-      "title": "Olivier Hamant : \"La crise énergétique actuelle est le signe typique d’un monde qui craque\"",
-      "url": "https://www.philomag.com/articles/olivier-hamant-la-crise-energetique-actuelle-est-le-signe-typique-dun-monde-qui-craque",
+      "title": "Tchernobyl, 40 ans après : de la demi-vie radioactive à la résilience du vivant",
+      "url": "https://www.philomag.com/articles/tchernobyl-40-ans-apres-de-la-demi-vie-radioactive-la-resilience-du-vivant",
       "description": "",
-      "date": "Mon, 20 Apr 2026",
+      "date": "Thu, 23 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,42 +148,10 @@
       }
     },
     {
-      "title": "Trump contre le pape Léon XIV : les clés d’une controverse",
-      "url": "https://www.philomag.com/articles/trump-contre-le-pape-leon-xiv-les-cles-dune-controverse",
+      "title": "Elon Musk, Sam Altman, Alex Karp… Coups de “tech” sur le contrat social",
+      "url": "https://www.philomag.com/articles/elon-musk-sam-altman-alex-karp-coups-de-tech-sur-le-contrat-social",
       "description": "",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“J’en fais toute une histoire” : le rire stoïcien de l'écrivaine et cinéaste Nora Ephron",
-      "url": "https://www.philomag.com/articles/jen-fais-toute-une-histoire-le-rire-stoicien-de-lecrivaine-et-cineaste-nora-ephron",
-      "description": "",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le fourmillement philosophique des Pokémon",
-      "url": "https://www.philomag.com/articles/le-fourmillement-philosophique-des-pokemon",
-      "description": "",
-      "date": "Sat, 18 Apr 2026",
+      "date": "Wed, 22 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
