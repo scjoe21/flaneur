@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-25T09:37:17.240638+00:00",
+  "fetchedAt": "2026-04-25T10:31:12.045266+00:00",
   "items": [
     {
       "title": "Comment bien et mal coexistent ? Les explications avec un extrait de Leibniz commenté",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "6 raisons philosophiques de (re)regarder la série “Chernobyl”",
+      "url": "https://www.philomag.com/articles/6-raisons-philosophiques-de-reregarder-la-serie-chernobyl",
+      "description": "",
+      "date": "Sat, 25 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
       "title": "Voyage au centre de ma chair",
       "url": "https://www.philomag.com/articles/voyage-au-centre-de-ma-chair",
       "description": "",
@@ -136,22 +152,6 @@
       "url": "https://www.philomag.com/articles/tchernobyl-40-ans-apres-de-la-demi-vie-radioactive-la-resilience-du-vivant",
       "description": "",
       "date": "Thu, 23 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Elon Musk, Sam Altman, Alex Karp… Coups de “tech” sur le contrat social",
-      "url": "https://www.philomag.com/articles/elon-musk-sam-altman-alex-karp-coups-de-tech-sur-le-contrat-social",
-      "description": "",
-      "date": "Wed, 22 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

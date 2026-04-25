@@ -1,7 +1,7 @@
 {
   "sourceId": "rick-dufer",
   "sourceName": "Rick DuFer",
-  "fetchedAt": "2026-04-25T09:37:21.483834+00:00",
+  "fetchedAt": "2026-04-25T10:31:14.935897+00:00",
   "items": [
     {
       "title": "Il Signore degli Anelli come non l'hai mai visto: magia e artigianato - con Pierpaolo Errico",
@@ -65,22 +65,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "Ti hanno RUBATO Curiosità e Ambizione: ecco come riprendertele",
-      "url": "https://www.youtube.com/watch?v=hIJJj6HzrFU",
-      "description": "Scopri AMBROSIA, la trovi in tutti i migliori ortofrutta d'Italia! Seguila su Instagram: https://www.instagram.com/melambrosia/ \nI social hanno hackerato curiosità e ambizione. Sei Cinico, Fuggitivo o Perfezionista? Scopri come sfuggire all'algoritmo e riprendere in mano la tua vita diventando uno Sperimentatore. \n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \n",
-      "date": "2026-04-10",
-      "thumbnail": "https://i1.ytimg.com/vi/hIJJj6HzrFU/hqdefault.jpg",
-      "videoId": "hIJJj6HzrFU",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
       }
     },
     {
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Scegli tua madre, scegli tuo padre",
+      "url": "https://www.youtube.com/shorts/eTGiknLw8zc",
+      "description": "Ciao, da oggi puoi vedere il primo dei tre video introduttivi al nuovo anno accademico della Cogito Academy.\n\nIscriviti su cogitoacademy.it/homo-faber",
+      "date": "2026-04-25",
+      "thumbnail": "https://i2.ytimg.com/vi/eTGiknLw8zc/hqdefault.jpg",
+      "videoId": "eTGiknLw8zc",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]
