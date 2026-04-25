@@ -38,20 +38,38 @@ DAY_PREFIX = {
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 def get_week_info():
-    now    = datetime.now(timezone.utc)
-    year, week, _ = now.isocalendar()
-    monday = now - timedelta(days=now.weekday())
-    friday = monday + timedelta(days=4)
-    label  = f"{year}년 {monday.month}월 {monday.day}일 — {friday.day}일"
+    """토요일 실행 기준: 다음 주 월~금 날짜 반환"""
+    now = datetime.now(timezone.utc)
+    days_to_next_monday = (7 - now.weekday()) % 7
+    if days_to_next_monday == 0:
+        days_to_next_monday = 7
+    next_monday = (now + timedelta(days=days_to_next_monday)).date()
+    next_friday  = next_monday + timedelta(days=4)
+    year, week, _ = next_monday.isocalendar()
+    if next_monday.month != next_friday.month:
+        label = f"{year}년 {next_monday.month}월 {next_monday.day}일 — {next_friday.month}월 {next_friday.day}일"
+    else:
+        label = f"{year}년 {next_monday.month}월 {next_monday.day}일 — {next_friday.day}일"
     return f"{year}-W{week:02d}", label
+
+
+def load_published_urls() -> set:
+    """기존 news.json에서 이미 발행된 URL 목록 반환 (중복 방지)"""
+    if not os.path.exists(NEWS_PATH):
+        return set()
+    with open(NEWS_PATH, encoding="utf-8") as f:
+        data = json.load(f)
+    return {item["sourceUrl"] for item in data.get("items", []) if item.get("sourceUrl")}
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 피드 로딩
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-def load_feeds_for_day(sources: list, day: str) -> list:
-    """해당 요일 소스의 피드 항목 전체를 반환."""
+def load_feeds_for_day(sources: list, day: str, published_urls: set = None) -> list:
+    """해당 요일 소스의 피드 항목 전체를 반환. published_urls에 있는 항목은 제외."""
+    if published_urls is None:
+        published_urls = set()
     items = []
     for src in sources:
         if src["day"] != day:
@@ -63,6 +81,8 @@ def load_feeds_for_day(sources: list, day: str) -> list:
         with open(feed_path, encoding="utf-8") as f:
             data = json.load(f)
         for item in data.get("items", [])[:6]:    # 소스당 최대 6개 (소스 수 증가로 조정)
+            if item.get("url") in published_urls:
+                continue
             items.append({
                 "source":       src["name"],
                 "channelUrl":   src["url"],
@@ -255,11 +275,15 @@ def main():
     week_id, week_label = get_week_info()
     print(f"주차: {week_id} ({week_label})\n")
 
+    published_urls = load_published_urls()
+    if published_urls:
+        print(f"기존 발행 URL {len(published_urls)}개 제외\n")
+
     all_items = []
 
     for day in DAYS:
         print(f"[{DAY_LABELS[day]}] 피드 로딩...", flush=True)
-        day_items = load_feeds_for_day(sources, day)
+        day_items = load_feeds_for_day(sources, day, published_urls)
 
         if not day_items:
             print(f"  → 피드 없음, 건너뜀\n")
