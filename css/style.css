@@ -787,10 +787,10 @@ img { max-width: 100%; }
 .archive-item:hover .archive-item__title { color: var(--essay); }
 .archive-item--latest .archive-item__title { color: var(--essay); }
 .archive-item__date {
-  flex-shrink: 0; width: 80px;
+  flex-shrink: 0; width: auto;
   font-size: 12px; color: var(--text-light);
   padding-top: 2px;
-  word-break: keep-all;
+  white-space: nowrap;
 }
 .archive-item__body { flex: 1; min-width: 0; }
 .archive-item__title {
@@ -945,7 +945,7 @@ img { max-width: 100%; }
   .flaneur-intro { padding: 48px 0 40px; }
   .latest-essay-card { padding: 24px 20px; }
   .archive-item { gap: 12px; }
-  .archive-item__date { width: 60px; }
+  .archive-item__date { width: auto; }
   .pin-modal { padding: 36px 24px 32px; }
   .owner-badge { display: none; }
 }

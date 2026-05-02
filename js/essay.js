@@ -23,7 +23,7 @@ async function loadEssay() {
     document.getElementById('essay-label').textContent    = `✍ ${essay.weekLabel}의 에세이`;
     document.getElementById('essay-title').textContent    = essay.title;
     document.getElementById('essay-subtitle').textContent = essay.subtitle || '';
-    document.getElementById('essay-meta').textContent     = `${essay.date} · 읽는 시간 약 ${essay.readTime || 5}분`;
+    document.getElementById('essay-meta').textContent     = essay.date || '';
     document.getElementById('essay-body').textContent     = essay.body;
 
     const tagsEl = document.getElementById('essay-tags');
