@@ -18,6 +18,7 @@ ROOT         = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SOURCES_PATH = os.path.join(ROOT, "data", "sources.json")
 FEEDS_DIR    = os.path.join(ROOT, "data", "feeds")
 NEWS_PATH    = os.path.join(ROOT, "data", "news.json")
+HISTORY_PATH = os.path.join(ROOT, "data", "published_history.json")
 
 DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday"]
 DAY_LABELS = {
@@ -60,6 +61,43 @@ def load_published_urls() -> set:
     with open(NEWS_PATH, encoding="utf-8") as f:
         data = json.load(f)
     return {item["sourceUrl"] for item in data.get("items", []) if item.get("sourceUrl")}
+
+
+def load_recent_tags(weeks: int = 8) -> list:
+    """최근 N주 발행된 태그 목록 반환 (주제 중복 방지용)"""
+    if not os.path.exists(HISTORY_PATH):
+        return []
+    with open(HISTORY_PATH, encoding="utf-8") as f:
+        history = json.load(f)
+    entries = history.get("weeks", [])
+    recent = entries[-weeks:] if len(entries) > weeks else entries
+    tags = []
+    for entry in recent:
+        tags.extend(entry.get("tags", []))
+    return list(dict.fromkeys(tags))  # 중복 제거, 순서 유지
+
+
+def save_tags_to_history(week_id: str, items: list):
+    """이번 주 발행 태그를 history에 누적 저장 (최대 26주 보관)"""
+    history = {"weeks": []}
+    if os.path.exists(HISTORY_PATH):
+        with open(HISTORY_PATH, encoding="utf-8") as f:
+            history = json.load(f)
+
+    all_tags = [t for item in items for t in item.get("tags", [])]
+    weeks = history.get("weeks", [])
+
+    for i, entry in enumerate(weeks):
+        if entry["week"] == week_id:
+            weeks[i] = {"week": week_id, "tags": all_tags}
+            break
+    else:
+        weeks.append({"week": week_id, "tags": all_tags})
+
+    history["weeks"] = weeks[-26:]
+
+    with open(HISTORY_PATH, "w", encoding="utf-8") as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -123,7 +161,7 @@ SYSTEM_PROMPT = """당신은 철학 큐레이션 사이트 '플라뇌르(Flâneu
 반드시 JSON만 반환. 다른 텍스트 없이."""
 
 
-def build_user_prompt(day: str, items: list) -> str:
+def build_user_prompt(day: str, items: list, recent_tags: list = None) -> str:
     items_block = ""
     for i, item in enumerate(items):
         items_block += (
@@ -134,7 +172,16 @@ def build_user_prompt(day: str, items: list) -> str:
             f"날짜: {item['date']}\n---"
         )
 
+    avoid_section = ""
+    if recent_tags:
+        avoid_section = (
+            f"\n## 최근 8주간 이미 다룬 주제·태그 (이와 동일하거나 유사한 주제 선택 금지)\n"
+            f"{', '.join(recent_tags)}\n"
+            f"→ 위 태그와 겹치는 철학자·개념·사회현상은 선택하지 마세요. 다른 주제를 우선하세요.\n"
+        )
+
     return f"""{DAY_LABELS[day]} 항목 {len(items)}개 중 가장 적합한 3개를 선택하고 한국어 요약을 작성하세요.
+{avoid_section}
 
 각 항목은 다음 구조로 작성합니다:
 - title: 한국어 제목 (원제목을 번역하거나 핵심을 재구성, 30자 이내)
@@ -202,9 +249,9 @@ def extract_json(text: str) -> dict:
         return json.loads(_fix_string_escapes(text))
 
 
-def curate_day(client: anthropic.Anthropic, day: str, items: list) -> list:
+def curate_day(client: anthropic.Anthropic, day: str, items: list, recent_tags: list = None) -> list:
     """Claude API로 해당 요일 상위 3개 선택 + 한국어 요약 반환. JSON 파싱 실패 시 1회 재시도."""
-    messages = [{"role": "user", "content": build_user_prompt(day, items)}]
+    messages = [{"role": "user", "content": build_user_prompt(day, items, recent_tags)}]
 
     for attempt in range(2):
         response = client.messages.create(
@@ -279,6 +326,10 @@ def main():
     if published_urls:
         print(f"기존 발행 URL {len(published_urls)}개 제외\n")
 
+    recent_tags = load_recent_tags(weeks=8)
+    if recent_tags:
+        print(f"최근 8주 발행 태그 {len(recent_tags)}개 로드 (주제 중복 방지)\n")
+
     all_items = []
 
     for day in DAYS:
@@ -291,7 +342,7 @@ def main():
 
         print(f"  → {len(day_items)}개 항목 검토 중...", flush=True)
         try:
-            curated = curate_day(client, day, day_items)
+            curated = curate_day(client, day, day_items, recent_tags)
             prefix  = DAY_PREFIX[day]
             for i, item in enumerate(curated, start=1):
                 item["id"] = f"{prefix}-{i:02d}"
@@ -316,7 +367,8 @@ def main():
     with open(NEWS_PATH, "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=2)
 
-    print(f"완료: {len(all_items)}개 항목 → data/news.json 저장")
+    save_tags_to_history(week_id, all_items)
+    print(f"완료: {len(all_items)}개 항목 → data/news.json 저장 / 태그 히스토리 갱신")
 
 
 if __name__ == "__main__":
