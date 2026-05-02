@@ -238,9 +238,8 @@ function renderNewsGrid(day) {
     return;
   }
 
-  items.forEach((item, idx) => {
+  items.forEach(item => {
     const card = buildCard(item);
-    card.style.animationDelay = `${idx * 40}ms`;
     card.classList.add('animate-in');
     grid.appendChild(card);
   });

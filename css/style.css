@@ -967,4 +967,7 @@ img { max-width: 100%; }
   from { opacity: 0; transform: translateY(8px); }
   to   { opacity: 1; transform: translateY(0); }
 }
-.animate-in { animation: fadeIn 0.3s ease forwards; }
+.animate-in { animation: fadeIn 0.3s ease both; }
+@media (prefers-reduced-motion: reduce) {
+  .animate-in { animation: none; opacity: 1; transform: none; }
+}
