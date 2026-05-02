@@ -1,45 +1,29 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-04-25T11:01:11.754800+00:00",
+  "fetchedAt": "2026-05-02T06:08:58.401581+00:00",
   "items": [
     {
-      "title": "Comment bien et mal coexistent ? Les explications avec un extrait de Leibniz commenté",
-      "url": "https://www.philomag.com/articles/comment-bien-et-mal-coexistent-les-explications-avec-un-extrait-de-leibniz-commente",
+      "title": "“Croire en Dieu, est-ce que c'est un choix ?” Charles Pépin répond à vos petites et grandes questions !",
+      "url": "https://www.philomag.com/articles/croire-en-dieu-est-ce-que-cest-un-choix-charles-pepin-repond-vos-petites-et-grandes",
       "description": "",
-      "date": "Fri, 24 Apr 2026",
+      "date": "Wed, 29 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 24,
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 24
       }
     },
     {
-      "title": "“Injustice épistémique”, de Miranda Fricker : pourquoi sommes-nous victimes de nos préjugés ?",
-      "url": "https://www.philomag.com/articles/injustice-epistemique-de-miranda-fricker-pourquoi-sommes-nous-victimes-de-nos-prejuges",
+      "title": "Pourquoi se dit-on “au revoir”… quand on se quitte ?",
+      "url": "https://www.philomag.com/articles/pourquoi-se-dit-au-revoir-quand-se-quitte",
       "description": "",
-      "date": "Thu, 23 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Succès du “tasty crousty” : pourquoi raffole-t-on du croustillant ?",
-      "url": "https://www.philomag.com/articles/succes-du-tasty-crousty-pourquoi-raffole-t-du-croustillant",
-      "description": "",
-      "date": "Thu, 23 Apr 2026",
+      "date": "Tue, 28 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -52,10 +36,26 @@
       }
     },
     {
-      "title": "“Avec le plaider-coupable, la justice se détourne de la recherche de la vérité” : entretien avec le magistrat Denis Salas",
-      "url": "https://www.philomag.com/articles/avec-le-plaider-coupable-la-justice-se-detourne-de-la-recherche-de-la-verite-entretien",
+      "title": "Le véritable homme de bien est-il la mère de famille nombreuse ?",
+      "url": "https://www.philomag.com/articles/le-veritable-homme-de-bien-est-il-la-mere-de-famille-nombreuse",
       "description": "",
-      "date": "Fri, 24 Apr 2026",
+      "date": "Thu, 30 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "“À qui appartient mon temps ?” Le numéro de “Philosophie magazine” sort ce jeudi !",
+      "url": "https://www.philomag.com/articles/qui-appartient-mon-temps-le-numero-de-philosophie-magazine-sort-ce-jeudi",
+      "description": "",
+      "date": "Thu, 30 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -68,10 +68,10 @@
       }
     },
     {
-      "title": "“Portrait de famille. Une histoire des Atrides” : une dynastie maudite dynamitée sur scène par Jean-François Sivadier",
-      "url": "https://www.philomag.com/articles/portrait-de-famille-une-histoire-des-atrides-une-dynastie-maudite-dynamitee-sur-scene",
+      "title": "Faut-il ouvrir les boulangeries le 1er mai ?",
+      "url": "https://www.philomag.com/articles/faut-il-ouvrir-les-boulangeries-le-1er-mai",
       "description": "",
-      "date": "Sat, 25 Apr 2026",
+      "date": "Fri, 01 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,58 +84,26 @@
       }
     },
     {
-      "title": "Au musée de l’Orangerie, le jardin merveilleux du douanier Rousseau",
-      "url": "https://www.philomag.com/articles/au-musee-de-lorangerie-le-jardin-merveilleux-du-douanier-rousseau",
+      "title": "“C’est vraiment ‘mon’ moment, la plage de la journée qui m’appartient” : l’édito d'Alexandre Lacroix",
+      "url": "https://www.philomag.com/articles/cest-vraiment-mon-moment-la-plage-de-la-journee-qui-mappartient-ledito-dalexandre",
       "description": "",
-      "date": "Fri, 24 Apr 2026",
+      "date": "Fri, 01 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Vers la guerre entre IA et humains ?",
-      "url": "https://www.philomag.com/articles/vers-la-guerre-entre-ia-et-humains",
-      "description": "",
-      "date": "Fri, 24 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "6 raisons philosophiques de (re)regarder la série “Chernobyl”",
-      "url": "https://www.philomag.com/articles/6-raisons-philosophiques-de-reregarder-la-serie-chernobyl",
-      "description": "",
-      "date": "Sat, 25 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
       }
     },
     {
-      "title": "Voyage au centre de ma chair",
-      "url": "https://www.philomag.com/articles/voyage-au-centre-de-ma-chair",
+      "title": "Entretien avec Lea Ypi, la philosophe qui veut réinventer le socialisme",
+      "url": "https://www.philomag.com/articles/entretien-avec-lea-ypi-la-philosophe-qui-veut-reinventer-le-socialisme",
       "description": "",
-      "date": "Thu, 23 Apr 2026",
+      "date": "Sat, 02 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +116,122 @@
       }
     },
     {
-      "title": "Tchernobyl, 40 ans après : de la demi-vie radioactive à la résilience du vivant",
-      "url": "https://www.philomag.com/articles/tchernobyl-40-ans-apres-de-la-demi-vie-radioactive-la-resilience-du-vivant",
+      "title": "Injures contre Bally Bagayoko, le nouveau maire de Saint-Denis : le racisme sans la peau",
+      "url": "https://www.philomag.com/articles/injures-contre-bally-bagayoko-le-nouveau-maire-de-saint-denis-le-racisme-sans-la-peau",
       "description": "",
-      "date": "Thu, 23 Apr 2026",
+      "date": "Sat, 02 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La Bouche Cabaret : et si vous donniez votre langue au chant ?",
+      "url": "https://www.philomag.com/articles/la-bouche-cabaret-et-si-vous-donniez-votre-langue-au-chant",
+      "description": "",
+      "date": "Fri, 01 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Faut-il cesser d’exploiter les roches ?",
+      "url": "https://www.philomag.com/articles/faut-il-cesser-dexploiter-les-roches",
+      "description": "",
+      "date": "Thu, 30 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Le “biopouvoir” chez Foucault, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/le-biopouvoir-chez-foucault-cest-quoi",
+      "description": "",
+      "date": "Thu, 30 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "À la recherche du temps regagné",
+      "url": "https://www.philomag.com/articles/la-recherche-du-temps-regagne",
+      "description": "",
+      "date": "Thu, 30 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Florence : séjour d'enfer dans un paradis perdu",
+      "url": "https://www.philomag.com/articles/florence-sejour-denfer-dans-un-paradis-perdu",
+      "description": "",
+      "date": "Wed, 29 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“La traite transatlantique des esclaves a été l’un des piliers sur lesquels s’est construit notre système économique” : entretien avec le philosophe Olúfẹ́mi O. Táíwò",
+      "url": "https://www.philomag.com/articles/la-traite-transatlantique-des-esclaves-ete-lun-des-piliers-sur-lesquels-sest-construit",
+      "description": "",
+      "date": "Wed, 29 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Juste une illusion” : peut-on échapper à la nostalgie ?",
+      "url": "https://www.philomag.com/articles/juste-une-illusion-peut-echapper-la-nostalgie",
+      "description": "",
+      "date": "Wed, 29 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

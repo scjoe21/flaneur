@@ -1,14 +1,14 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-04-25T11:01:17.044495+00:00",
+  "fetchedAt": "2026-05-02T06:09:05.060867+00:00",
   "items": [
     {
-      "title": "How to recognize when you’re reacting from childhood wounds",
-      "url": "https://bigthink.com/series/full-interview/childhood-wounds/",
-      "description": "Dr. Nicole LePera, the holistic psychologist and NYT bestselling author behind  Reparenting the Inner Child , breaks down the 6 archetypes of childhood trauma. \n LePera explains why insight alone never produces lasting change and walks through the science of reparenting: The practice of stepping in as the adult presence you may never have had. \n This video  How to recognize when you’re reacting from childhood wounds  is featured on  Big Think .",
-      "date": "Fri, 24 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-23-at-10.59.35-AM.png?w=640",
+      "title": "How the hidden language of life’s spaces quietly reveals our values",
+      "url": "https://bigthink.com/books/in-a-good-place/",
+      "description": "Our spaces broadcast who we are and what we care about — whether we realize it or not. A warm kitchen built around a big table signals a family that values shared meals. An elementary school with an elaborate playground tells parents that outdoor exploration matters here. A walkable city suggests residents who care about health and environmental impact. \n We can’t always control what our physical surroundings say about us. We may not be able to force the school board to build a bigger playground",
+      "date": "Fri, 01 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/in-a-good-place_excerpt.jpg?w=640",
       "videoId": "",
       "priority": 43,
       "scoreDetail": {
@@ -20,27 +20,107 @@
       }
     },
     {
-      "title": "The often-ignored system controlling your mood, memory, and focus",
-      "url": "https://bigthink.com/perception-box/your-mind-body-connection-explained/",
-      "description": "Your brain didn’t evolve in isolation. It evolved to run the economy of your body, and every heartbeat, breath, and moment of thirst or anxiety is evidence of that system at work. \n Neuroscientist and author Aditi Nerurkar, neuroscientist Wendy Suzuki, and neurologist-philosopher Antonio Damasio break down the science of the mind-body connection: why it exists, how it works, and why understanding it can change the way you experience the world. \n We created this video for  Brain Briefs , a Big Th",
-      "date": "Thu, 23 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/YC-BB-Marquee-7-Brain-Body-Connection-Web-C.png?w=640",
+      "title": "How to recognize when you’re reacting from childhood wounds",
+      "url": "https://bigthink.com/series/full-interview/childhood-wounds/",
+      "description": "Dr. Nicole LePera, The Holistic Psychologist and NYT bestselling author behind  Reparenting the Inner Child , breaks down the 6 archetypes of childhood trauma. \n LePera explains why insight alone never produces lasting change and walks through the science of reparenting: The practice of stepping in as the adult presence you may never have had. \n \n This video  How to recognize when you’re reacting from childhood wounds  is featured on  Big Think .",
+      "date": "Fri, 01 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/A1-Web-LePera-1.jpg?w=640",
       "videoId": "",
-      "priority": 35,
+      "priority": 43,
       "scoreDetail": {
-        "daily": 35,
-        "phil": 0,
-        "flaneur": 0,
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 8,
         "novelty": 0,
-        "total": 35
+        "total": 43
       }
     },
     {
-      "title": "Ask Ethan: What’s the biggest misconception in astronomy?",
-      "url": "https://bigthink.com/starts-with-a-bang/biggest-misconception-astronomy/",
-      "description": "Anytime you try to learn something beyond your current understanding, it isn’t as simple as pouring “new knowledge” into an otherwise empty vessel. We come into any new endeavor with a pre-existing foundation: things we’ve learned, been taught, or have put together for ourselves previously. When that new knowledge arrives, we inevitably attempt to integrate it into our pre-existing framework, and that isn’t always a smooth process. Sometimes, our foundation is riddled with misconceptions, misund",
-      "date": "Fri, 24 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/01/windout.jpg?w=640",
+      "title": "The most transformative thing you can do for your brain isn’t mental",
+      "url": "https://bigthink.com/perception-box/the-most-transformative-brain-activity/",
+      "description": "Neuroscientists Wendy Suzuki, PhD, Samuel Wang, PhD, and Gary Small, MD explain how movement increases blood flow, boosts growth factors like BDNF, and floods the brain with mood-lifting neurochemicals. The brain and body are in constant conversation, and plasticity means your wiring is never fixed. According to Suzuki, even ten minutes of walking can shift your brain’s chemistry immediately, flooding it in a ‘bubble bath’ of positive neurochemicals. \n We created this video for  Brain Briefs , a",
+      "date": "Thu, 30 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/YC-BB-Marquee-5-Aging-Brain-Web-A.png?w=640",
+      "videoId": "",
+      "priority": 37,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 12,
+        "novelty": 0,
+        "total": 37
+      }
+    },
+    {
+      "title": "The career question that too few people ask",
+      "url": "https://bigthink.com/work-wise/the-career-question-that-too-few-people-ask/",
+      "description": "Three years into a consulting career that looked successful on paper, I was staring out a plane window at nothing in particular, asking,  What is this actually for? \n Alabama on Tuesday. Ohio on Thursday. Good firm with good people to work with, meaningful and intellectually stimulating work, satisfied and not-overly-obnoxious clients. By all measures, things were going well. And yet, I was profoundly unsatisfied. \n It wasn’t the only time I’ve felt that. Whether it was securing a fully funded s",
+      "date": "Wed, 29 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/image.jpg?w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 30
+      }
+    },
+    {
+      "title": "Ask Ethan: How can ultra-distant galaxies move so fast?",
+      "url": "https://bigthink.com/starts-with-a-bang/how-galaxies-move-fast/",
+      "description": "When it comes to the distant galaxies in the Universe, one of the most profound discoveries in all of history is also one of the most puzzling: the fact that they’re almost all mutually receding from one another. It was only in 1923 that we firmly established that extragalactic objects — objects beyond our own Milky Way — even existed, with Hubble’s detailed measurements of Andromeda placing its distance far beyond the Milky Way itself. Just a few years later, from 1927-1929, enough evidence had",
+      "date": "Fri, 01 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/05/squarecover.jpg?w=640",
+      "videoId": "",
+      "priority": 28,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 28
+      }
+    },
+    {
+      "title": "How music rewires the human body, in 59 minutes",
+      "url": "https://bigthink.com/series/full-interview/music-human-body/",
+      "description": "Music is at least a million years older than language, yet we still see it solely through the lens of entertainment. Professor Michael Spitzer argues it’s something closer to a biological system, one that was shaping the human body long before we had words for what we were feeling. \n Why does a chord you’ve never heard before make you want to cry? Why do babies respond to rhythm before they’ve heard a single song? Why does the same part of your brain that processes mortal danger also process mus",
+      "date": "Fri, 01 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/Screenshot-2026-04-30-at-11.55.24-AM.png?w=640",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "The radical act of slowing down",
+      "url": "https://bigthink.com/the-long-game/the-radical-act-of-slowing-down/",
+      "description": "I want to tell you two stories. \n The first began in 1921, when a traveling salesman named William Barnard, nicknamed “Papa,” walked door to door in Ohio selling a 25-cent can opener. He called it the Polly. He believed, earnestly, that a better can opener could improve the health of the American family — that safer access to canned fruits and vegetables, year-round, would help people eat better. \n Sixteen years later, in 1937, he met an engineer named Al Bersted. \n By then, Barnard and his wife",
+      "date": "Fri, 01 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/LEAD-ART_radical-act-slow-down.jpg?w=640",
+      "videoId": "",
+      "priority": 23,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 23
+      }
+    },
+    {
+      "title": "ABRACADABRA, HEART, and FART: Why are scientists so acronym-obsessed?",
+      "url": "https://bigthink.com/science-tech/the-hidden-costs-of-scientists-obsession-with-acronyms/",
+      "description": "Europeans and North Americans are WEIRD. No, I’m not trying to start a culture war. I’m just quoting behavioural scientists. A little over a decade ago, they began to realize that most psychological studies did not paint an accurate picture of the global population. More often than not, participants lived in countries that were Western, Educated, Industrialized, Rich, and Democratic. The acronym WEIRD was born. \n WEIRD is not a one-off. Scientific papers are filled with acronyms — some little mo",
+      "date": "Wed, 29 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/acronym-obsessed_compressed-1.jpg?w=640",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
@@ -52,107 +132,27 @@
       }
     },
     {
-      "title": "The idea of “theories of everything” may be fundamentally wrong",
-      "url": "https://bigthink.com/starts-with-a-bang/theories-of-everything/",
-      "description": "Our Universe, to the best of our knowledge, doesn’t make sense in an extremely fundamental way. On the one hand, we have quantum physics, which does an exquisite job of describing the fundamental particles and the electromagnetic and nuclear forces and interactions that take place between them. On the other hand, we have general relativity, which — with equal success — describes the way that matter and energy move through space and time, as well as how space and time themselves evolve in the pre",
-      "date": "Thu, 23 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/02/Volume_dunivers-e1736197799913.png?w=640",
+      "title": "The science case for why Pluto still isn’t a planet",
+      "url": "https://bigthink.com/starts-with-a-bang/pluto-not-planet/",
+      "description": "From 1929 until 2006, Pluto lived in the imagination of children and adults alike as the ninth and outermost planet in our solar system. Until 1978, with the discovery of its giant moon, Charon, it was the only known large object in our solar system that orbited beyond the reach of Neptune. But the story began to change shortly after that. In the 1990s and 2000s, a tremendous number of new objects were discovered — including planets orbiting stars other than our Sun (exoplanets) and a wide varie",
+      "date": "Thu, 30 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/plucha.jpg?w=640",
       "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The power grid is breaking. Can it fix itself?",
-      "url": "https://bigthink.com/science-tech/the-power-grid-is-breaking-can-it-fix-itself/",
-      "description": "A week before Christmas,  nearly 50,000  people living along Colorado’s Front Range lost power for multiple days. \n The outage was deliberate. Xcel Energy, the region’s utility, had implemented a “public safety power shutoff” out of fear that high winds would down power lines and spark fires. The danger wasn’t hypothetical. Conditions were warm and dry, with wind gusts exceeding 100 miles per hour. In 2021, a similar windstorm had led to the most destructive wildfire in Colorado history: the Mar",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/The-power-grid-optimized.gif?w=640",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Philip Pullman: The thing every writer needs to overcome",
-      "url": "https://bigthink.com/mini-philosophy/philip-pullman-the-thing-every-writer-needs-to-overcome/",
-      "description": "Sometimes, great writing makes me angry. \n It’s nothing to do with the ideas inside, of course. Poets and bestselling authors are good at their game. What bothers me is when those ideas are expressed with such perfect beauty that I cannot hope to match them. \n There might be a degree of professional pride to this. When I gawp at an old poet like T.S. Eliot or a modern writer like Samantha Harvey, I’m just jealous. Yes, they might be better trained than I am. Yes, they likely took more time on th",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/every-writer-needs-2-overcome_compressed.png?w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "The Energy Transition",
-      "url": "https://bigthink.com/collections/the-energy-transition/",
-      "description": "In this monthly issue, we examine how our understanding of energy — and how we source and use it — is evolving.",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/042226-BigThink-Energy-Cover_2500X1406-1.png?w=640",
-      "videoId": "",
-      "priority": 15,
+      "priority": 19,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
+        "total": 19
       }
     },
     {
-      "title": "Only antimatter provides the energy we need for interstellar travel",
-      "url": "https://bigthink.com/starts-with-a-bang/antimatter-energy-interstellar-travel/",
-      "description": "As humanity basks in the aftermath of the unprecedented success of Artemis II, which took humans back to the Moon for the first time in 54 years and brought them farther from Earth than ever before, many of us can’t help but think about grander goals. As a species, we don’t just dream of returning to the Moon, but of heading to places we’ve never been: other planets, other star systems, or even other galaxies. However, there are big problems we have to solve if we ever want to send humans outsid",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/antimatter-rocket.jpeg?w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Elon Musk, SpaceX, and the rise of “sovereignty as a service”",
-      "url": "https://bigthink.com/books/elon-musk-sovereignty-as-a-service/",
-      "description": "“What can be very frustrating is that regulation is often irrational,” Musk told an audience at Stanford in 2003. “It doesn’t make any sense.” He arrived at the following solution: He would be the one to decide what made sense. And he would not be shy about exercising this authority, even if it meant challenging the law. “If the rules are such that you can’t make progress, then you have to fight the rules,” he said. SpaceX would fight the rules constantly, whether those set by NASA, the Pentagon",
-      "date": "Thu, 23 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/muskism_excerpt.jpg?w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "5 ways ancient Persia shaped our modern world",
-      "url": "https://bigthink.com/mini-philosophy/persian-empire-contributions/",
-      "description": "It’s often said that history is written by the winners. But when you look back on the ancient world, it’s more accurate to say that history is written by historians. Although  China has a strong claim , many tend to cite ancient Greece as the birthplace of history as a discipline. In Herodotus and Thucydides, we see the origins of the historical method — a vaguely reputable attempt to document events, and not a somewhat-historical imaginarium of magical beasts, bored gods, and local heroes. And ",
-      "date": "Thu, 23 Apr 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/03/AdobeStock_162430077.jpg?w=640",
+      "title": "4 literary masterpieces that make you despise the protagonist by the end",
+      "url": "https://bigthink.com/books/protagonist-classic-literature/",
+      "description": "Many of world literature’s most unlikable protagonists start unlikeable and end unlikeable. From the very beginning of Oscar Wilde’s  The Picture of Dorian Gray , it is clear that the titular Gray is a narcissist who’ll do anything to inflate his  already monstrous ego . The same goes for Humbert Humbert from Vladimir Nabokov’s controversial novel  Lolita , a pedophile with a silver tongue who conjures up excuses for his inexcusable actions. \n But these characters form only the tip of the iceber",
+      "date": "Wed, 29 Apr 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/07/hero.jpg?w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

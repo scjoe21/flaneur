@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-04-25T11:01:15.660020+00:00",
+  "fetchedAt": "2026-05-02T06:09:03.512974+00:00",
   "items": [
     {
       "title": "Does reading do us any good?",
@@ -36,16 +36,16 @@
       }
     },
     {
-      "title": "Patterns without desires",
-      "url": "https://aeon.co/essays/could-ai-replace-human-art-experts-in-attributing-paintings?utm_source=rss-feed",
-      "description": "The art expert is the fulcrum of all value and significance in the museum and auction world. Does AI threaten them? - by Noah Charney Read on Aeon",
-      "date": "Fri, 10 Apr 2026",
+      "title": "The Black executioner",
+      "url": "https://aeon.co/essays/medieval-art-makes-the-body-a-site-of-theology-and-politics?utm_source=rss-feed",
+      "description": "Medieval artists depicted bodies as vehicles for politics and hierarchy. Repeated enough, these roles began to appear natural - by Denva Gallant Read on Aeon",
+      "date": "Mon, 27 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -68,6 +68,70 @@
       }
     },
     {
+      "title": "To be is to participate",
+      "url": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood?utm_source=rss-feed",
+      "description": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I - by João de Pina-Cabral Read on Aeon",
+      "date": "Fri, 01 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Who invented bad guys?",
+      "url": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed",
+      "description": "The good-vs-evil paradigm of most pop-culture storytelling is a relatively recent effort to promote social cohesion - by Aeon Video Watch on Aeon",
+      "date": "Thu, 30 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "1,000 years of Japanese swords",
+      "url": "https://aeon.co/videos/a-millennium-of-japanese-history-as-told-through-the-samurai-sword?utm_source=rss-feed",
+      "description": "From weapon to icon – a riveting history lesson in the many meanings of the samurai sword that’s also just plain cool to see - by Aeon Video Watch on Aeon",
+      "date": "Wed, 29 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Hunting ‘Man the Hunter’",
+      "url": "https://aeon.co/essays/why-man-the-hunter-continues-to-die-and-return?utm_source=rss-feed",
+      "description": "For a century, this theory of human origins has died and returned. To free it from limbo, we must disentangle its many meanings - by Vivek V Venkataraman Read on Aeon",
+      "date": "Tue, 28 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "No nature without fear",
       "url": "https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed",
       "description": "Aldo Leopold saw this in the eyes of a dying wolf: when we no longer fear nature, we are on the road to its destruction - by Shawn Simpson Read on Aeon",
@@ -84,19 +148,35 @@
       }
     },
     {
-      "title": "The sterilisation-seekers",
-      "url": "https://aeon.co/essays/why-did-disabled-people-support-eugenics-in-the-1930s?utm_source=rss-feed",
-      "description": "In the story of eugenics, disabled people are often depicted as passive victims. But for some it seemed an opportunity - by Coreen McGuire & Alex Aylward Read on Aeon",
-      "date": "Mon, 13 Apr 2026",
+      "title": "The Ethiopian running secret",
+      "url": "https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability?utm_source=rss-feed",
+      "description": "One school of training is highly personalised, technical and data-driven. The other is the one that wins marathons - by Michael Crawley & Geoff Burns Read on Aeon",
+      "date": "Thu, 30 Apr 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Africa’s cultural landmarks: Ọṣun-Òṣogbo Sacred Grove, Nigeria",
+      "url": "https://aeon.co/videos/yoruba-spirituality-inspires-surreal-sculptures-in-this-sacred-grove?utm_source=rss-feed",
+      "description": "Deep inside a luscious grove in Nigeria, a community of artists preserves otherworldly monuments to Yorùbá spirituality - by Aeon Video Watch on Aeon",
+      "date": "Mon, 27 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -152,86 +232,6 @@
       "url": "https://aeon.co/essays/you-know-what-consciousness-is-you-live-in-soul-land?utm_source=rss-feed",
       "description": "Humans weren’t given souls by God or genes. We made them ourselves with language – turning sentience into something sacred - by Nicholas Humphrey Read on Aeon",
       "date": "Fri, 17 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Evolution of Paris",
-      "url": "https://aeon.co/videos/from-celtic-village-to-world-capital-how-paris-became-paris?utm_source=rss-feed",
-      "description": "The evolution of Paris across millennia – from Celtic fishing village to world capital – in three animated minutes - by Aeon Video Watch on Aeon",
-      "date": "Thu, 16 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Join the dots",
-      "url": "https://aeon.co/essays/why-little-red-dots-pose-a-big-mystery-about-the-universe?utm_source=rss-feed",
-      "description": "Peering into the origins of our Universe, astronomers found something that shouldn’t be there: what are those little red dots? - by Jenny Greene Read on Aeon",
-      "date": "Thu, 16 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Impromptu",
-      "url": "https://aeon.co/videos/a-propulsive-ode-to-the-forgotten-parents-of-film?utm_source=rss-feed",
-      "description": "Take a kaleidoscopic journey through the early history of film, inspired by an enduring fascination with motion and form - by Aeon Video Watch on Aeon",
-      "date": "Wed, 15 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "You’ve lived this life before",
-      "url": "https://aeon.co/essays/the-mysticism-of-nietzsches-doctrine-of-the-eternal-return?utm_source=rss-feed",
-      "description": "The mystical insight came to Nietzsche like a lightning flash: time eternally recurs – and life must be lived accordingly - by Mark Higgins Read on Aeon",
-      "date": "Tue, 14 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "I am Sámi",
-      "url": "https://aeon.co/videos/reindeer-politics-why-some-sami-struggle-for-recognition?utm_source=rss-feed",
-      "description": "This short documentary asks what it means to be Sámi today, following decades-long state-mandated assimilation attempts - by Aeon Video Watch on Aeon",
-      "date": "Mon, 13 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
