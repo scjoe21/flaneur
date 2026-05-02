@@ -305,6 +305,42 @@ def curate_day(client: anthropic.Anthropic, day: str, items: list, recent_tags: 
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# JSON 유효성 검사 및 자동 수정
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+def _validate_and_fix_json(path: str):
+    """저장된 JSON 파일을 검증하고, 이스케이프 누락된 따옴표가 있으면 자동 수정한다."""
+    with open(path, encoding="utf-8") as f:
+        content = f.read()
+    try:
+        json.loads(content)
+        return  # 정상
+    except json.JSONDecodeError as first_err:
+        print(f"[경고] JSON 유효성 오류 감지: {first_err}")
+
+    fixed = 0
+    for _ in range(50):
+        try:
+            json.loads(content)
+            break
+        except json.JSONDecodeError as e:
+            bad = e.pos - 1
+            if 0 <= bad < len(content) and content[bad] == '"':
+                content = content[:bad] + '\\"' + content[bad + 1:]
+                fixed += 1
+            else:
+                print(f"[오류] 자동 수정 불가 (pos={e.pos}, char={repr(content[e.pos:e.pos+1])})")
+                sys.exit(1)
+    else:
+        print("[오류] 50회 시도 후에도 JSON 수정 실패")
+        sys.exit(1)
+
+    with open(path, "w", encoding="utf-8") as f:
+        f.write(content)
+    print(f"  → JSON 자동 수정: 따옴표 {fixed}개 이스케이프 처리됨")
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 메인
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
@@ -367,6 +403,7 @@ def main():
     with open(NEWS_PATH, "w", encoding="utf-8") as f:
         json.dump(news, f, ensure_ascii=False, indent=2)
 
+    _validate_and_fix_json(NEWS_PATH)
     save_tags_to_history(week_id, all_items)
     print(f"완료: {len(all_items)}개 항목 → data/news.json 저장 / 태그 히스토리 갱신")
 
