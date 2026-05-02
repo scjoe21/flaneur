@@ -175,7 +175,6 @@ async function initOwnerView() {
   renderHero();
   renderDayTabs();
   renderNewsGrid('all');
-  renderEssayPreview();
   updateClipBadge();
 }
 
