@@ -45,5 +45,5 @@ jobs:
           git add data/feeds/ data/news.json
           git diff --cached --quiet || \
             git commit -m "주간 자동 발행 — $(date -u '+%Y-%m-%d')"
-          git pull --rebase origin master
+          git pull --rebase -X ours origin master
           git push

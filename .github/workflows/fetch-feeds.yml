@@ -1,9 +1,9 @@
 name: 피드 자동 수집
 
 on:
-  # 매주 토요일 오후 1시 KST (오전 4시 UTC) 자동 실행
+  # 매주 금요일 오후 1시 KST (오전 4시 UTC) 사전 수집
   schedule:
-    - cron: '0 4 * * 6'
+    - cron: '0 4 * * 5'
 
   # 관리자 패널에서 수동 실행 버튼
   workflow_dispatch:
