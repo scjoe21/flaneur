@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-04-25T11:01:11.849070+00:00",
+  "fetchedAt": "2026-05-02T07:03:36.781056+00:00",
   "items": [
     {
       "title": "Female Rage: Warum wir Frauen ihre Wut verbieten | NANO Doku",
@@ -33,22 +33,6 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 44
-      }
-    },
-    {
-      "title": "KI im Krieg: Warum Algorithmen bald über Leben und Tod entscheiden | NANO",
-      "url": "https://www.youtube.com/watch?v=eYy2Hqhs_OA",
-      "description": "Vier Jahre nach dem Beginn von Russlands Angriff auf die #Ukraine prägen vor allem KI-gestützte Drohnen den #Krieg – auf eine Weise, die die moderne Kriegsführung für immer verändert. In diesem hochtechnologischen Krieg zwischen der Ukraine und #Russland kommen immer modernere #Waffensysteme zum Einsatz, die auf KI basieren. Die Rolle von #KI im Militär nimmt rasant zu und wirft die entscheidende Frage auf: Wer behält auf dem Schlachtfeld der Zukunft die Kontrolle – der Mensch oder der Algorithm",
-      "date": "2026-03-03",
-      "thumbnail": "https://i2.ytimg.com/vi/eYy2Hqhs_OA/hqdefault.jpg",
-      "videoId": "eYy2Hqhs_OA",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
       }
     },
     {
@@ -148,6 +132,22 @@
       }
     },
     {
+      "title": "40 Jahre nach dem GAU: Warum Tschernobyl wieder zur Gefahr wird | NANO",
+      "url": "https://www.youtube.com/watch?v=Q5_fiUuo_mQ",
+      "description": "26. April 1986, 01:23 Uhr: Ein Sicherheitstest im #Atomkraftwerk #Tschernobyl gerät außer Kontrolle. Die Folge ist der schwerste nukleare Unfall der Geschichte. \n\n40 Jahre nach dem #SuperGAU ist die Sperrzone kein ruhender Ort der Geschichte, sondern aktueller denn je. Wir haben exklusive Einblicke in das Innere des havarierten Kraftwerks erhalten. Begleitet uns in den Kontrollraum von Block 4 – dem Ort, an dem die Katastrophe ihren Lauf nahm.\n\nDas erwartet euch im Video:\n\n• Der Weg in den GAU: ",
+      "date": "2026-04-23",
+      "thumbnail": "https://i2.ytimg.com/vi/Q5_fiUuo_mQ/hqdefault.jpg",
+      "videoId": "Q5_fiUuo_mQ",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
       "title": "Warum Salz eine Gefahr für Generationen ist  | NANO Doku",
       "url": "https://www.youtube.com/watch?v=D4_FeRLKsFY",
       "description": "Über 200 Millionen Tonnen Salz bilden den Monte Kali – entstanden aus Abraum des Kalibergbaus. Ein Berg, der täglich wächst und eine tickende Zeitbombe ist. Denn mit jedem Regen wird Salz ausgespült, gelangt in die Werra und macht sie zum salzigsten Fluss Deutschlands. Die Folgen sind verheerend: der Fischbestand ist stark zurückgegangen, Arten verschwinden.\n\nDie von der Halde gespülten Salze schädigen auch die umliegenden Böden. Nach und nach sickern sie ins Grundwasser und versalzen die Trinkw",
@@ -228,19 +228,19 @@
       }
     },
     {
-      "title": "Tschernobyl: Die Chronik einer angekündigten Katastrophe | NANO",
-      "url": "https://www.youtube.com/watch?v=Q5_fiUuo_mQ",
-      "description": "26. April 1986, 01:23 Uhr: Ein Sicherheitstest im #Atomkraftwerk #Tschernobyl gerät außer Kontrolle. Die Folge ist der schwerste nukleare Unfall der Geschichte. \n\n40 Jahre nach dem #SuperGAU ist die Sperrzone kein ruhender Ort der Geschichte, sondern aktueller denn je. Wir haben exklusive Einblicke in das Innere des havarierten Kraftwerks erhalten. Begleitet uns in den Kontrollraum von Block 4 – dem Ort, an dem die Katastrophe ihren Lauf nahm.\n\nDas erwartet euch im Video:\n\n• Der Weg in den GAU: ",
-      "date": "2026-04-23",
-      "thumbnail": "https://i2.ytimg.com/vi/Q5_fiUuo_mQ/hqdefault.jpg",
-      "videoId": "Q5_fiUuo_mQ",
-      "priority": 9,
+      "title": "Schweiß statt Blut: Die Diagnose-Revolution, die alles verändern könnte | NANO Doku",
+      "url": "https://www.youtube.com/watch?v=poYy-vNYxAc",
+      "description": "Vergiss alles, was du bisher über Schweiß dachtest. Er ist weit mehr als nur ein lästiges Nebenprodukt, das riecht und Flecken macht – er ist einer der wichtigsten Datenträger deines Körpers! In Wahrheit ist Schweiß ein geniales Schutzsystem und eine medizinische Goldgrube. Ohne ihn könnten wir unsere Körpertemperatur nicht regulieren und hätten bei Hitze oder Anstrengung keine Überlebenschance. Doch die neueste Forschung zeigt: Schweiß verrät erstaunlich viel über unsere DNA, unsere Ernährung u",
+      "date": "2026-04-30",
+      "thumbnail": "https://i1.ytimg.com/vi/poYy-vNYxAc/hqdefault.jpg",
+      "videoId": "poYy-vNYxAc",
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     }
   ]

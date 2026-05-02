@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-04-25T11:01:13.851633+00:00",
+  "fetchedAt": "2026-05-02T07:03:39.038729+00:00",
   "items": [
     {
       "title": "Festival del Pensare Contemporaneo 2025 | LA NOSTRA IMPERFEZIONE NEL MONDO",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Francesca Albanese e Andrea Colamedici - Quando il mondo dorme. ROMA",
-      "url": "https://www.youtube.com/watch?v=-w1q1G4228w",
-      "description": "https://www.tlonletter.it/p/la-palestina-come-cartina-tornasole\n\nTlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2025-08-02",
-      "thumbnail": "https://i2.ytimg.com/vi/-w1q1G4228w/hqdefault.jpg",
-      "videoId": "-w1q1G4228w",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -180,19 +164,19 @@
       }
     },
     {
-      "title": "IL POD - ITALIAN PODCAST AWARDS 2025",
-      "url": "https://www.youtube.com/watch?v=mGz2HvMiz60",
-      "description": "Il premio per i migliori podcast italiani - Piacenza, Teatro Municipale  - Domenica 11 maggio 2025",
-      "date": "2025-05-12",
-      "thumbnail": "https://i2.ytimg.com/vi/mGz2HvMiz60/hqdefault.jpg",
-      "videoId": "mGz2HvMiz60",
-      "priority": 10,
+      "title": "UNO MAGGIO TARANTO - MARATONA TLON",
+      "url": "https://www.youtube.com/watch?v=KYYuqojcjL8",
+      "description": "Dialoghi filosofici in diretta al \"UNO MAGGIO TARANTO\"\n\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
+      "date": "2026-05-01",
+      "thumbnail": "https://i4.ytimg.com/vi/KYYuqojcjL8/hqdefault.jpg",
+      "videoId": "KYYuqojcjL8",
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "UNO MAGGIO TARANTO - MARATONA TLON",
+      "url": "https://www.youtube.com/watch?v=Hhey6N_4CAI",
+      "description": "Dialoghi filosofici, in diretta dal \"UNO MAGGIO TARANTO\"",
+      "date": "2026-05-01",
+      "thumbnail": "https://i1.ytimg.com/vi/Hhey6N_4CAI/hqdefault.jpg",
+      "videoId": "Hhey6N_4CAI",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
