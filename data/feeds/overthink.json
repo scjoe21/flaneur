@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-05-02T07:03:40.647475+00:00",
+  "fetchedAt": "2026-05-08T05:52:56.420730+00:00",
   "items": [
     {
       "title": "Discipline",
@@ -48,22 +48,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 15,
-        "total": 40
-      }
-    },
-    {
-      "title": "Manipulation",
-      "url": "",
-      "description": "Should we be sympathetic towards manipulators? In episode 157 of Overthink, Ellie and David talk about manipulation. They discuss what makes up a manipulative personality, why manipulators see social interaction as inherently combative, and what you can do when you find yourself entangled with a manipulator. They also explore what Niccolo Machiavelli tell us about the role of manipulation in politics. Should political leaders always be kind? Or, as Machiavelli says, do they need to learn to “be ",
-      "date": "Tue, 20 Jan 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 40
       }
     },
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Closer Look: Fanon, Wretched of the Earth",
+      "url": "",
+      "description": "Does decolonization require violence? In episode 172 of Overthink, Ellie and David take a closer look at Frantz Fanon’s  The Wretched of the Earth, “ the bible of decolonization.” They discuss Fanon’s bold stance on violence, his condemnation of rituals and dance, and some potential criticisms. They also question what the subjectivity of colonized people looks like given colonialism’s psycho-affective effects. What does violence do for the colonized? Who gets liberation movements off the ground?",
+      "date": "Tue, 05 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     }
   ]

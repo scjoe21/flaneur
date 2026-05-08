@@ -1,29 +1,29 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-02T07:03:36.569543+00:00",
+  "fetchedAt": "2026-05-08T05:52:53.537611+00:00",
   "items": [
     {
-      "title": "“Croire en Dieu, est-ce que c'est un choix ?” Charles Pépin répond à vos petites et grandes questions !",
-      "url": "https://www.philomag.com/articles/croire-en-dieu-est-ce-que-cest-un-choix-charles-pepin-repond-vos-petites-et-grandes",
+      "title": "Réseaux sociaux, smartphones… Pourquoi les seniors sont-ils devenus accro aux écrans ?",
+      "url": "https://www.philomag.com/articles/reseaux-sociaux-smartphones-pourquoi-les-seniors-sont-ils-devenus-accro-aux-ecrans",
       "description": "",
-      "date": "Wed, 29 Apr 2026",
+      "date": "Fri, 08 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 30
       }
     },
     {
-      "title": "Pourquoi se dit-on “au revoir”… quand on se quitte ?",
-      "url": "https://www.philomag.com/articles/pourquoi-se-dit-au-revoir-quand-se-quitte",
+      "title": "Jacques Rancière, prochain invité de notre masterclass : “Pourquoi la démocratie est un scandale”",
+      "url": "https://www.philomag.com/articles/jacques-ranciere-prochain-invite-de-notre-masterclass-pourquoi-la-democratie-est-un",
       "description": "",
-      "date": "Tue, 28 Apr 2026",
+      "date": "Wed, 06 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -36,42 +36,26 @@
       }
     },
     {
-      "title": "Le véritable homme de bien est-il la mère de famille nombreuse ?",
-      "url": "https://www.philomag.com/articles/le-veritable-homme-de-bien-est-il-la-mere-de-famille-nombreuse",
+      "title": "Les jours fériés ont-ils encore un sens ?",
+      "url": "https://www.philomag.com/articles/les-jours-feries-ont-ils-encore-un-sens",
       "description": "",
-      "date": "Thu, 30 Apr 2026",
+      "date": "Thu, 07 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
-      "title": "“À qui appartient mon temps ?” Le numéro de “Philosophie magazine” sort ce jeudi !",
-      "url": "https://www.philomag.com/articles/qui-appartient-mon-temps-le-numero-de-philosophie-magazine-sort-ce-jeudi",
+      "title": "Jean-Claude Monod : “L’émergence de nouveaux profils parmi les représentants politiques renforce la démocratie”",
+      "url": "https://www.philomag.com/articles/jean-claude-monod-lemergence-de-nouveaux-profils-parmi-les-representants-politiques",
       "description": "",
-      "date": "Thu, 30 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Faut-il ouvrir les boulangeries le 1er mai ?",
-      "url": "https://www.philomag.com/articles/faut-il-ouvrir-les-boulangeries-le-1er-mai",
-      "description": "",
-      "date": "Fri, 01 May 2026",
+      "date": "Tue, 05 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,26 +68,26 @@
       }
     },
     {
-      "title": "“C’est vraiment ‘mon’ moment, la plage de la journée qui m’appartient” : l’édito d'Alexandre Lacroix",
-      "url": "https://www.philomag.com/articles/cest-vraiment-mon-moment-la-plage-de-la-journee-qui-mappartient-ledito-dalexandre",
+      "title": "Votre aspirateur vous ment ! La chronique d'Étienne Klein",
+      "url": "https://www.philomag.com/articles/votre-aspirateur-vous-ment-la-chronique-detienne-klein",
       "description": "",
-      "date": "Fri, 01 May 2026",
+      "date": "Tue, 05 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
-      "title": "Entretien avec Lea Ypi, la philosophe qui veut réinventer le socialisme",
-      "url": "https://www.philomag.com/articles/entretien-avec-lea-ypi-la-philosophe-qui-veut-reinventer-le-socialisme",
+      "title": "Le divan du coiffeur",
+      "url": "https://www.philomag.com/articles/le-divan-du-coiffeur",
       "description": "",
-      "date": "Sat, 02 May 2026",
+      "date": "Thu, 07 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +100,10 @@
       }
     },
     {
-      "title": "Injures contre Bally Bagayoko, le nouveau maire de Saint-Denis : le racisme sans la peau",
-      "url": "https://www.philomag.com/articles/injures-contre-bally-bagayoko-le-nouveau-maire-de-saint-denis-le-racisme-sans-la-peau",
+      "title": "Affaire libyenne : entre Sarkozy et Guéant, une relation machiavélienne ?",
+      "url": "https://www.philomag.com/articles/affaire-libyenne-entre-sarkozy-et-gueant-une-relation-machiavelienne",
       "description": "",
-      "date": "Sat, 02 May 2026",
+      "date": "Thu, 07 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +116,10 @@
       }
     },
     {
-      "title": "La Bouche Cabaret : et si vous donniez votre langue au chant ?",
-      "url": "https://www.philomag.com/articles/la-bouche-cabaret-et-si-vous-donniez-votre-langue-au-chant",
+      "title": "“J’ai vécu un moment stationnaire, figé dans la répétition” : Laurence Hansen-Løve et le temps de la maladie",
+      "url": "https://www.philomag.com/articles/jai-vecu-un-moment-stationnaire-fige-dans-la-repetition-laurence-hansen-love-et-le-temps",
       "description": "",
-      "date": "Fri, 01 May 2026",
+      "date": "Thu, 07 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +132,10 @@
       }
     },
     {
-      "title": "Faut-il cesser d’exploiter les roches ?",
-      "url": "https://www.philomag.com/articles/faut-il-cesser-dexploiter-les-roches",
+      "title": "Hantavirus sur le MV “Hondius” : sans filtre ?",
+      "url": "https://www.philomag.com/articles/hantavirus-sur-le-mv-hondius-sans-filtre",
       "description": "",
-      "date": "Thu, 30 Apr 2026",
+      "date": "Wed, 06 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +148,10 @@
       }
     },
     {
-      "title": "Le “biopouvoir” chez Foucault, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/le-biopouvoir-chez-foucault-cest-quoi",
+      "title": "Édition génétique du corps : un pas de plus vers un futur posthumain ?",
+      "url": "https://www.philomag.com/articles/edition-genetique-du-corps-un-pas-de-plus-vers-un-futur-posthumain",
       "description": "",
-      "date": "Thu, 30 Apr 2026",
+      "date": "Wed, 06 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +164,10 @@
       }
     },
     {
-      "title": "À la recherche du temps regagné",
-      "url": "https://www.philomag.com/articles/la-recherche-du-temps-regagne",
+      "title": "Un “luxe démocratique” est-il possible ? Réponse avec le livre “Une autre histoire du luxe”, d’Emma Carenini",
+      "url": "https://www.philomag.com/articles/un-luxe-democratique-est-il-possible-reponse-avec-le-livre-une-autre-histoire-du-luxe",
       "description": "",
-      "date": "Thu, 30 Apr 2026",
+      "date": "Wed, 06 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +180,10 @@
       }
     },
     {
-      "title": "Florence : séjour d'enfer dans un paradis perdu",
-      "url": "https://www.philomag.com/articles/florence-sejour-denfer-dans-un-paradis-perdu",
+      "title": "Dans le répondeur de Nan Goldin",
+      "url": "https://www.philomag.com/articles/dans-le-repondeur-de-nan-goldin",
       "description": "",
-      "date": "Wed, 29 Apr 2026",
+      "date": "Tue, 05 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +196,10 @@
       }
     },
     {
-      "title": "“La traite transatlantique des esclaves a été l’un des piliers sur lesquels s’est construit notre système économique” : entretien avec le philosophe Olúfẹ́mi O. Táíwò",
-      "url": "https://www.philomag.com/articles/la-traite-transatlantique-des-esclaves-ete-lun-des-piliers-sur-lesquels-sest-construit",
+      "title": "Épiceries municipales : une idée ancienne qui a de l’avenir ?",
+      "url": "https://www.philomag.com/articles/epiceries-municipales-une-idee-ancienne-qui-de-lavenir",
       "description": "",
-      "date": "Wed, 29 Apr 2026",
+      "date": "Tue, 05 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +212,26 @@
       }
     },
     {
-      "title": "“Juste une illusion” : peut-on échapper à la nostalgie ?",
-      "url": "https://www.philomag.com/articles/juste-une-illusion-peut-echapper-la-nostalgie",
+      "title": "Victoria Bonya contre Poutine : l’influenceuse, le tsar et le propagandiste",
+      "url": "https://www.philomag.com/articles/victoria-bonya-contre-poutine-linfluenceuse-le-tsar-et-le-propagandiste",
       "description": "",
-      "date": "Wed, 29 Apr 2026",
+      "date": "Mon, 04 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Mais où donc sont passés les intellectuels ?",
+      "url": "https://www.philomag.com/articles/mais-ou-donc-sont-passes-les-intellectuels",
+      "description": "",
+      "date": "Mon, 04 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

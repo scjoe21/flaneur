@@ -1,13 +1,45 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-05-02T07:03:42.540930+00:00",
+  "fetchedAt": "2026-05-08T05:52:59.251257+00:00",
   "items": [
     {
-      "title": "Donald Trump’s Disturbing Welcome for King Charles",
-      "url": "https://www.theatlantic.com/ideas/2026/04/trump-king-charles-speech-white-house/686996/?utm_source=feed",
+      "title": "Why Stocks Keep Going Up",
+      "url": "https://www.theatlantic.com/economy/2026/05/stock-market-iran-war-bullish/687041/?utm_source=feed",
       "description": "",
-      "date": "2026-04-29",
+      "date": "2026-05-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "A Dangerous New Attack on Press Freedom",
+      "url": "https://www.theatlantic.com/ideas/2026/05/kash-patel-fitzpatrick-fbi-investigation/687077/?utm_source=feed",
+      "description": "",
+      "date": "2026-05-06",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Trump Shows He’s Still Got Juice",
+      "url": "https://www.theatlantic.com/ideas/2026/05/indiana-republicans-primary-midterm/687084/?utm_source=feed",
+      "description": "",
+      "date": "2026-05-06",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,10 +52,10 @@
       }
     },
     {
-      "title": "The Mysterious Obsession With Obama’s Fake Son",
-      "url": "https://www.theatlantic.com/ideas/2026/05/obama-son-trayvon-martin/687018/?utm_source=feed",
+      "title": "The Secret to Understanding AI",
+      "url": "https://www.theatlantic.com/ideas/2026/05/ai-for-good-uses/687082/?utm_source=feed",
       "description": "",
-      "date": "2026-05-01",
+      "date": "2026-05-07",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -36,10 +68,10 @@
       }
     },
     {
-      "title": "So, About That AI Bubble",
-      "url": "https://www.theatlantic.com/economy/2026/05/ai-bubble-revenue-anthropic/687022/?utm_source=feed",
+      "title": "The Savannah Bananas Bring Back a Negro Leagues Team",
+      "url": "https://www.theatlantic.com/magazine/2026/06/savannah-bananas-indianapolis-clowns-baseball-history/686942/?utm_source=feed",
       "description": "",
-      "date": "2026-05-01",
+      "date": "2026-05-07",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -52,10 +84,10 @@
       }
     },
     {
-      "title": "The Secret Weapon Against AI Dominance",
-      "url": "https://www.theatlantic.com/ideas/2026/04/creative-labor-ai-copyright/687000/?utm_source=feed",
+      "title": "The Perverse Tyranny of a Perfect Transcript",
+      "url": "https://www.theatlantic.com/ideas/2026/05/harvard-grade-inflation-gpa/687074/?utm_source=feed",
       "description": "",
-      "date": "2026-04-30",
+      "date": "2026-05-06",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -68,10 +100,10 @@
       }
     },
     {
-      "title": "Micah Lasher, Child Magician",
-      "url": "https://www.theatlantic.com/ideas/2026/04/micah-lasher-child-magician/686989/?utm_source=feed",
+      "title": "Progressive Activists Are Sometimes on the Wrong Side of History",
+      "url": "https://www.theatlantic.com/ideas/2026/05/israel-palestine-activists-left/687065/?utm_source=feed",
       "description": "",
-      "date": "2026-04-30",
+      "date": "2026-05-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,10 +116,10 @@
       }
     },
     {
-      "title": "Voters Can Be Disenfranchised Now",
-      "url": "https://www.theatlantic.com/ideas/2026/04/vra-supreme-court-callais-decision/686997/?utm_source=feed",
+      "title": "Judicial Supremacy Has Arrived",
+      "url": "https://www.theatlantic.com/ideas/2026/05/voting-rights-act-callais/687064/?utm_source=feed",
       "description": "",
-      "date": "2026-04-29",
+      "date": "2026-05-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +132,10 @@
       }
     },
     {
-      "title": "Rise of the Blood Populist",
-      "url": "https://www.theatlantic.com/ideas/2026/04/blood-populists-political-violence-ideology/686995/?utm_source=feed",
+      "title": "The End of Cigarettes Is Coming",
+      "url": "https://www.theatlantic.com/ideas/2026/05/smoking-ban-uk-cigarettes/687050/?utm_source=feed",
       "description": "",
-      "date": "2026-04-29",
+      "date": "2026-05-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +148,10 @@
       }
     },
     {
-      "title": "Americans Once Understood Birthright Citizenship",
-      "url": "https://www.theatlantic.com/ideas/2026/04/newspapers-history-birthright-citizenship/686946/?utm_source=feed",
+      "title": "The One Tax the Rich Can’t Escape",
+      "url": "https://www.theatlantic.com/ideas/2026/05/mamdani-property-tax-new-york/687031/?utm_source=feed",
       "description": "",
-      "date": "2026-04-28",
+      "date": "2026-05-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +164,10 @@
       }
     },
     {
-      "title": "So Nobody Is Going to Pay Taxes Now?",
-      "url": "https://www.theatlantic.com/ideas/2026/04/tax-revolt-irs/686926/?utm_source=feed",
+      "title": "The Venture-Capital Populist",
+      "url": "https://www.theatlantic.com/magazine/2026/06/david-sacks-crypto-ai-venture-capital/686941/?utm_source=feed",
       "description": "",
-      "date": "2026-04-28",
+      "date": "2026-05-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +180,10 @@
       }
     },
     {
-      "title": "A Mediocre Public-School Education for Just $40,000 a Pupil",
-      "url": "https://www.theatlantic.com/ideas/2026/04/new-york-city-schools-budget/686971/?utm_source=feed",
+      "title": "DOJ Enters a New, Even More Aggressive Phase",
+      "url": "https://www.theatlantic.com/ideas/2026/05/justice-department-blanche-ballroom-prosecutions/687036/?utm_source=feed",
       "description": "",
-      "date": "2026-04-28",
+      "date": "2026-05-03",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +196,10 @@
       }
     },
     {
-      "title": "What the Correspondents’ Dinner Shooting Means for the World Cup, America’s 250th, and Other Major Events",
-      "url": "https://www.theatlantic.com/ideas/2026/04/safety-security-whcd-prevention/686969/?utm_source=feed",
+      "title": "The Era of Rational Discourse Is Over",
+      "url": "https://www.theatlantic.com/ideas/2026/05/jurgen-habermas-debate-trump/687016/?utm_source=feed",
       "description": "",
-      "date": "2026-04-27",
+      "date": "2026-05-03",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +212,10 @@
       }
     },
     {
-      "title": "The American Pope vs. the American President",
-      "url": "https://www.theatlantic.com/ideas/2026/04/pope-leo-trump-iran/686964/?utm_source=feed",
+      "title": "My AI Matchmaker Let Me Down",
+      "url": "https://www.theatlantic.com/ideas/2026/05/ai-matchmaker-dating-app/687038/?utm_source=feed",
       "description": "",
-      "date": "2026-04-27",
+      "date": "2026-05-02",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "The Age of American Caesarism",
-      "url": "https://www.theatlantic.com/ideas/2026/04/trump-caesar-executive-power/686846/?utm_source=feed",
+      "title": "For a Time, the U.S. Protected Democracy",
+      "url": "https://www.theatlantic.com/ideas/2026/05/requiem-voting-rights-act/687037/?utm_source=feed",
       "description": "",
-      "date": "2026-04-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Most Frightening Shooters Are the Smart Ones",
-      "url": "https://www.theatlantic.com/ideas/2026/04/most-frightening-shooters-are-smart-ones/686963/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-26",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "We Cannot Harden the World Against Every Attacker",
-      "url": "https://www.theatlantic.com/ideas/2026/04/whcd-shooter-harden-trains-hotels-ballroom/686957/?utm_source=feed",
-      "description": "",
-      "date": "2026-04-26",
+      "date": "2026-05-02",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,11 +1,11 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-05-02T07:03:40.752294+00:00",
+  "fetchedAt": "2026-05-08T05:52:56.520113+00:00",
   "items": [
     {
       "title": "Does reading do us any good?",
-      "url": "https://aeon.co/essays/the-role-of-literature-as-the-key-to-personal-freedom?utm_source=rss-feed",
+      "url": "https://aeon.co/essays/the-role-of-literature-as-the-key-to-personal-freedom",
       "description": "Stripped of easy moralising, literature makes us relish the search for truth in an age when many believe truth to be dead - by Flora Champy Read on Aeon",
       "date": "Fri, 24 Apr 2026",
       "thumbnail": "",
@@ -20,24 +20,8 @@
       }
     },
     {
-      "title": "The engineering method",
-      "url": "https://aeon.co/videos/many-complex-structures-predate-the-scientific-method-how?utm_source=rss-feed",
-      "description": "How humans built beautiful, lasting structures without science or mathematics, using only engineering rules of thumb - by Aeon Video Watch on Aeon",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "The Black executioner",
-      "url": "https://aeon.co/essays/medieval-art-makes-the-body-a-site-of-theology-and-politics?utm_source=rss-feed",
+      "url": "https://aeon.co/essays/medieval-art-makes-the-body-a-site-of-theology-and-politics",
       "description": "Medieval artists depicted bodies as vehicles for politics and hierarchy. Repeated enough, these roles began to appear natural - by Denva Gallant Read on Aeon",
       "date": "Mon, 27 Apr 2026",
       "thumbnail": "",
@@ -52,24 +36,40 @@
       }
     },
     {
-      "title": "Justice is geometric",
-      "url": "https://aeon.co/essays/lessons-from-the-fairness-of-african-fractal-societies?utm_source=rss-feed",
-      "description": "Where centralised societies excel at extraction, African fractal systems allow for circulation, reciprocity and return - by Likam Kyanzaire Read on Aeon",
-      "date": "Tue, 21 Apr 2026",
+      "title": "Nature’s hardware store: building the future with biology",
+      "url": "https://aeon.co/videos/fungi-homes-and-more-ways-biology-could-sustain-life-beyond-earth",
+      "description": "What if the tools for sustainable space exploration could be found in cellular life on Earth? A NASA astrobiologist explains - by Aeon Video Watch on Aeon",
+      "date": "Thu, 07 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Democracy by lottery",
+      "url": "https://aeon.co/videos/is-democracy-without-elections-possible-could-a-lottery-be-better",
+      "description": "Ancient Athenians chose leaders by lottery rather than elections. Could this solve the problems facing democracy today? - by Aeon Video Watch on Aeon",
+      "date": "Mon, 04 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
       "title": "To be is to participate",
-      "url": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood?utm_source=rss-feed",
+      "url": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood",
       "description": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I - by João de Pina-Cabral Read on Aeon",
       "date": "Fri, 01 May 2026",
       "thumbnail": "",
@@ -85,7 +85,7 @@
     },
     {
       "title": "Who invented bad guys?",
-      "url": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed",
+      "url": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why",
       "description": "The good-vs-evil paradigm of most pop-culture storytelling is a relatively recent effort to promote social cohesion - by Aeon Video Watch on Aeon",
       "date": "Thu, 30 Apr 2026",
       "thumbnail": "",
@@ -101,7 +101,7 @@
     },
     {
       "title": "1,000 years of Japanese swords",
-      "url": "https://aeon.co/videos/a-millennium-of-japanese-history-as-told-through-the-samurai-sword?utm_source=rss-feed",
+      "url": "https://aeon.co/videos/a-millennium-of-japanese-history-as-told-through-the-samurai-sword",
       "description": "From weapon to icon – a riveting history lesson in the many meanings of the samurai sword that’s also just plain cool to see - by Aeon Video Watch on Aeon",
       "date": "Wed, 29 Apr 2026",
       "thumbnail": "",
@@ -117,7 +117,7 @@
     },
     {
       "title": "Hunting ‘Man the Hunter’",
-      "url": "https://aeon.co/essays/why-man-the-hunter-continues-to-die-and-return?utm_source=rss-feed",
+      "url": "https://aeon.co/essays/why-man-the-hunter-continues-to-die-and-return",
       "description": "For a century, this theory of human origins has died and returned. To free it from limbo, we must disentangle its many meanings - by Vivek V Venkataraman Read on Aeon",
       "date": "Tue, 28 Apr 2026",
       "thumbnail": "",
@@ -132,24 +132,72 @@
       }
     },
     {
-      "title": "No nature without fear",
-      "url": "https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed",
-      "description": "Aldo Leopold saw this in the eyes of a dying wolf: when we no longer fear nature, we are on the road to its destruction - by Shawn Simpson Read on Aeon",
-      "date": "Thu, 23 Apr 2026",
+      "title": "Sarnevesht (Daughter)",
+      "url": "https://aeon.co/videos/a-teen-girl-hits-a-crossroads-in-this-stirring-portrait-of-rural-iran",
+      "description": "In rural Iran, Sahar faces a stark choice: stay at home to look after her father, or go to the city to pursue her education - by Aeon Video Watch on Aeon",
+      "date": "Wed, 06 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Reality emerges",
+      "url": "https://aeon.co/essays/why-reality-is-more-than-the-sum-of-its-particles",
+      "description": "Particles are nature’s smallest constituents, but that doesn’t mean they’re fundamental. So what is the Universe made of? - by Felix Flicker Read on Aeon",
+      "date": "Mon, 04 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "The origins of Indians",
+      "url": "https://aeon.co/essays/ancient-india-was-shaped-by-waves-of-migration-and-mixing",
+      "description": "Genetic studies support what historians have argued for decades: ancient India was a place of migration and mixture - by Kiran Kumbhar Read on Aeon",
+      "date": "Thu, 07 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Embrace the edge!",
+      "url": "https://aeon.co/essays/why-creativity-shines-out-on-the-edge-of-things",
+      "description": "Brilliance and kindness shine brightest when far from the comfortable centre. Even nature is more generative there too - by Charles Foster Read on Aeon",
+      "date": "Tue, 05 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
       "title": "The Ethiopian running secret",
-      "url": "https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability?utm_source=rss-feed",
+      "url": "https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability",
       "description": "One school of training is highly personalised, technical and data-driven. The other is the one that wins marathons - by Michael Crawley & Geoff Burns Read on Aeon",
       "date": "Thu, 30 Apr 2026",
       "thumbnail": "",
@@ -165,7 +213,7 @@
     },
     {
       "title": "Africa’s cultural landmarks: Ọṣun-Òṣogbo Sacred Grove, Nigeria",
-      "url": "https://aeon.co/videos/yoruba-spirituality-inspires-surreal-sculptures-in-this-sacred-grove?utm_source=rss-feed",
+      "url": "https://aeon.co/videos/yoruba-spirituality-inspires-surreal-sculptures-in-this-sacred-grove",
       "description": "Deep inside a luscious grove in Nigeria, a community of artists preserves otherworldly monuments to Yorùbá spirituality - by Aeon Video Watch on Aeon",
       "date": "Mon, 27 Apr 2026",
       "thumbnail": "",
@@ -181,57 +229,9 @@
     },
     {
       "title": "Life invisible",
-      "url": "https://aeon.co/videos/searching-for-superbug-cures-in-the-salt-flats-of-the-atacama-desert?utm_source=rss-feed",
+      "url": "https://aeon.co/videos/searching-for-superbug-cures-in-the-salt-flats-of-the-atacama-desert",
       "description": "In the Atacama Desert, scientists race to find novel cures for antibiotic-resistant infections, as mining interests encroach - by Aeon Video Watch on Aeon",
       "date": "Thu, 23 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Butterfly (Papillon)",
-      "url": "https://aeon.co/videos/the-swimmer-who-went-from-the-olympics-to-auschwitz-and-back-again?utm_source=rss-feed",
-      "description": "Crafting each frame by hand, an animator paints the story of an Olympic swimmer’s return after surviving the Holocaust - by Aeon Video Watch on Aeon",
-      "date": "Wed, 22 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Fuel for thought",
-      "url": "https://aeon.co/essays/how-understanding-bioenergetics-can-help-our-brain-health?utm_source=rss-feed",
-      "description": "A brain fit for the 21st century is one that understands – and respects – its own bioenergetic foundations - by Hannah Critchlow Read on Aeon",
-      "date": "Mon, 20 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The invention of the soul",
-      "url": "https://aeon.co/essays/you-know-what-consciousness-is-you-live-in-soul-land?utm_source=rss-feed",
-      "description": "Humans weren’t given souls by God or genes. We made them ourselves with language – turning sentience into something sacred - by Nicholas Humphrey Read on Aeon",
-      "date": "Fri, 17 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
