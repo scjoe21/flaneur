@@ -358,6 +358,17 @@ def main():
     week_id, week_label = get_week_info()
     print(f"주차: {week_id} ({week_label})\n")
 
+    # 멱등성: 이미 같은 주차가 발행되어 있으면 스킵 (FORCE=1로 우회)
+    if not os.environ.get("FORCE"):
+        try:
+            with open(NEWS_PATH, encoding="utf-8") as f:
+                existing = json.load(f)
+            if existing.get("week") == week_id:
+                print(f"이미 {week_id} 발행됨 — 건너뜁니다. (재생성하려면 FORCE=1)")
+                return
+        except (FileNotFoundError, json.JSONDecodeError):
+            pass
+
     published_urls = load_published_urls()
     if published_urls:
         print(f"기존 발행 URL {len(published_urls)}개 제외\n")
