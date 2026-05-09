@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-05-08T05:52:59.251257+00:00",
+  "fetchedAt": "2026-05-09T05:35:50.022810+00:00",
   "items": [
     {
       "title": "Why Stocks Keep Going Up",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Software Ate My Homework",
+      "url": "https://www.theatlantic.com/ideas/2026/05/canvas-hack-campus-fragility/687115/?utm_source=feed",
+      "description": "",
+      "date": "2026-05-08",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -180,22 +196,6 @@
       }
     },
     {
-      "title": "DOJ Enters a New, Even More Aggressive Phase",
-      "url": "https://www.theatlantic.com/ideas/2026/05/justice-department-blanche-ballroom-prosecutions/687036/?utm_source=feed",
-      "description": "",
-      "date": "2026-05-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
       "title": "The Era of Rational Discourse Is Over",
       "url": "https://www.theatlantic.com/ideas/2026/05/jurgen-habermas-debate-trump/687016/?utm_source=feed",
       "description": "",
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "My AI Matchmaker Let Me Down",
-      "url": "https://www.theatlantic.com/ideas/2026/05/ai-matchmaker-dating-app/687038/?utm_source=feed",
+      "title": "DOJ Enters a New, Even More Aggressive Phase",
+      "url": "https://www.theatlantic.com/ideas/2026/05/justice-department-blanche-ballroom-prosecutions/687036/?utm_source=feed",
       "description": "",
-      "date": "2026-05-02",
+      "date": "2026-05-03",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,8 +228,8 @@
       }
     },
     {
-      "title": "For a Time, the U.S. Protected Democracy",
-      "url": "https://www.theatlantic.com/ideas/2026/05/requiem-voting-rights-act/687037/?utm_source=feed",
+      "title": "My AI Matchmaker Let Me Down",
+      "url": "https://www.theatlantic.com/ideas/2026/05/ai-matchmaker-dating-app/687038/?utm_source=feed",
       "description": "",
       "date": "2026-05-02",
       "thumbnail": "",

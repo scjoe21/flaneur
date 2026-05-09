@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-05-08T05:52:56.520113+00:00",
+  "fetchedAt": "2026-05-09T05:35:47.977848+00:00",
   "items": [
     {
       "title": "Does reading do us any good?",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The eye in your pocket",
+      "url": "https://aeon.co/essays/things-have-jobs-and-digital-devices-are-made-to-track-you",
+      "description": "Things have jobs: pillows are made for comfort, scissors are sharp, and digital devices are made to track your every move - by Carissa Véliz Read on Aeon",
+      "date": "Fri, 08 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/videos/yoruba-spirituality-inspires-surreal-sculptures-in-this-sacred-grove",
       "description": "Deep inside a luscious grove in Nigeria, a community of artists preserves otherworldly monuments to Yorùbá spirituality - by Aeon Video Watch on Aeon",
       "date": "Mon, 27 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Life invisible",
-      "url": "https://aeon.co/videos/searching-for-superbug-cures-in-the-salt-flats-of-the-atacama-desert",
-      "description": "In the Atacama Desert, scientists race to find novel cures for antibiotic-resistant infections, as mining interests encroach - by Aeon Video Watch on Aeon",
-      "date": "Thu, 23 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

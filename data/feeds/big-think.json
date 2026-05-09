@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-05-08T05:52:58.722636+00:00",
+  "fetchedAt": "2026-05-09T05:35:49.482817+00:00",
   "items": [
     {
       "title": "How to set better goals and actually follow-through, in 65 minutes",
@@ -33,22 +33,6 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 53
-      }
-    },
-    {
-      "title": "How ancient DNA proved human origin theory wrong",
-      "url": "https://bigthink.com/the-well/ancient-dna-proved-human-origin-theory-wrong/",
-      "description": "What looked like a simple story of migration turned into a record of repeated mixing, vanished populations, and scientific shocks—including the discovery that many people outside Africa carry Neanderthal DNA, and that a little girl’s pinky bone once exposed an entirely unknown human lineage. Harvard geneticist David Reich argues that every new sample forces scientists to rethink the past, and that the biggest revelations about our ancestry may still be ahead. \n \n This video  How ancient DNA prov",
-      "date": "Tue, 05 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/The-Well-David-Reich-Segment-02-Web.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
       }
     },
     {
@@ -100,34 +84,50 @@
       }
     },
     {
-      "title": "The science case for why Pluto should become a planet (again)",
-      "url": "https://bigthink.com/starts-with-a-bang/science-pluto-become-planet-again/",
-      "description": "In 2006, the  International Astronomical Union  — the global governing body for many official astronomical endeavors, including naming and classification — took a step that had never been taken before: they officially defined the term “planet.” This contentious move, which occurred with only a tiny fraction of the membership present, and notably lacked the contributions of many leading planetary scientists and planetary astronomers, put forth three criteria for defining what gets to be a “planet",
-      "date": "Tue, 05 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/04/hubble-discoveries-highlights-pluto-moons.jpg?quality=85&w=640",
+      "title": "How music rewires the human body, in 59 minutes",
+      "url": "https://bigthink.com/series/full-interview/music-human-body/",
+      "description": "Music is at least a million years older than language, yet we still see it solely through the lens of entertainment. Professor Michael Spitzer argues it’s something closer to a biological system, one that was shaping the human body long before we had words for what we were feeling. \n Why does a chord you’ve never heard before make you want to cry? Why do babies respond to rhythm before they’ve heard a single song? Why does the same part of your brain that processes mortal danger also process mus",
+      "date": "Thu, 07 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-Web-Spitzer-1-1.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 25,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
-      "title": "Are we over-diagnosing ourselves? Rethinking the language of mental illness.",
-      "url": "https://bigthink.com/books/the-unfragile-mind/",
-      "description": "“Life is inherently difficult,” wrote the English psychiatrist and pediatrician Donald Winnicott, and “it follows that in everyone there will be symptoms, any one of which, under certain conditions, could be a symptom of illness. Even the most kindly, understanding background of home life cannot alter the fact that ordinary human development is hard.” \n When the feelings that filter through into our awareness are negative, then clinicians call them “symptoms.” When those feelings are positive, w",
-      "date": "Tue, 05 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/mental-health-language.jpg?quality=85&w=640",
+      "title": "3 small habits that make a big difference",
+      "url": "https://bigthink.com/mind-behavior/3-small-habits-that-make-a-big-difference/",
+      "description": "“We are what we repeatedly do.” \n Aristotle said it first, and a century of scientific research has confirmed it: The patterns of our lives — good and bad — are carved by our habits. \n But there’s something we tend to miss. We instinctively think of habits as tools for individual improvement, as levers to make us more disciplined, more efficient, more in control. But the moments that matter most — the ones that create trust, build relationships, and spark ideas — don’t happen inside us; they hap",
+      "date": "Fri, 08 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/3-small-habits_compressed.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Ask Ethan: How empty are the depths of space?",
+      "url": "https://bigthink.com/starts-with-a-bang/how-empty-depths-space/",
+      "description": "Here on Earth, there are enormous variations in the densities of what we commonly encounter. Solid, dense metals, like gold or tungsten, have very high densities. If you had a cube that was one meter (3 feet and 3.39 inches) on a side — a cubic meter — made of gold, it would weigh approximately 19 metric tonnes: over 42,000 pounds. If that cube were instead made of water, it would weigh only 1 metric tonne, or 2205 pounds. Make that same cube out of air at room temperature and at sea level, and ",
+      "date": "Fri, 08 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/ZS7_environment_NIRcam_image.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
         "total": 15
       }
     },
@@ -148,19 +148,19 @@
       }
     },
     {
-      "title": "A new experiment deepens the physics mystery over “big G”",
-      "url": "https://bigthink.com/starts-with-a-bang/new-experiment-physics-mystery-g/",
-      "description": "There are a few things in this cosmos that are truly universal. The fundamental laws that govern reality apply everywhere and at all times. The fundamental constants that determine the masses, charges, and interaction strengths between particles are universal as well. Today, there are four known fundamental forces: \n \n electromagnetism, \n gravitation, \n the strong nuclear force, \n and the weak nuclear force, \n \n plus whatever “dark energy” ultimately turns out to be. Electromagnetism is, in many",
-      "date": "Wed, 06 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/MeasuringBigG-CompositeEdit-v04.00_02_04_20.Still006.jpg?quality=85&w=640",
+      "title": "The surprising reason female mongooses start wars — and what it reveals about group survival",
+      "url": "https://bigthink.com/books/the-creatures-guide-to-caring/",
+      "description": "One of the world’s most cooperative mammals is also one of its most warlike. I’m not talking about us. \n The banded mongoose lives in sub-Saharan Africa. It has a long, bulky body and a pointed face, kind of like a ferret on steroids. There are many species of mongoose, but this one has dark stripes across its lower back and haunches. \n The other distinctive trait of banded mongooses (not “mon-geese,” sadly) is their groups. In western Uganda, where University of Exeter evolutionary biologist Mi",
+      "date": "Fri, 08 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/creatures-guide_excerpt.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 0,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 0
+        "novelty": 5,
+        "total": 10
       }
     }
   ]
