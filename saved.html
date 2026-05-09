@@ -188,43 +188,78 @@
       cursor: pointer;
     }
 
-    /* ── 전체 탭 — 주제별 아코디언 ── */
-    .theme-group { margin-bottom: 10px; }
-    .theme-group__toggle {
-      display: flex; align-items: center; gap: 10px;
-      width: 100%; padding: 12px 16px;
+    /* ── 전체 탭 — 카테고리 인덱스 ── */
+    .category-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+      gap: 14px;
+    }
+    .category-card {
+      position: relative;
+      display: flex; flex-direction: column;
+      align-items: flex-start; gap: 6px;
+      padding: 22px 24px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      text-align: left; cursor: pointer;
+      transition: var(--transition);
+    }
+    .category-card:hover {
+      background: #f8f4ff;
+      border-color: #c4b8e8;
+      transform: translateY(-2px);
+      box-shadow: var(--shadow);
+    }
+    .category-card__label {
+      font-family: var(--font-serif);
+      font-size: 16px; font-weight: 600;
+      color: var(--text);
+    }
+    .category-card__count {
+      font-size: 12px; color: var(--text-muted);
+    }
+    .category-card__arrow {
+      position: absolute; top: 22px; right: 22px;
+      color: var(--text-light); font-size: 16px;
+      transition: transform 0.2s;
+    }
+    .category-card:hover .category-card__arrow {
+      transform: translateX(3px);
+      color: var(--essay);
+    }
+
+    /* ── 전체 탭 — 카테고리 상세 ── */
+    .category-detail__header {
+      display: flex; align-items: center; gap: 14px;
+      margin-bottom: 24px;
+      padding-bottom: 14px;
+      border-bottom: 1px solid var(--border);
+      flex-wrap: wrap;
+    }
+    .category-back {
+      padding: 6px 14px;
       background: var(--bg-subtle);
       border: 1px solid var(--border);
       border-radius: var(--radius);
-      font-size: 14px; font-weight: 600;
-      color: var(--text);
-      transition: var(--transition);
-      text-align: left;
+      font-size: 13px; color: var(--text-muted);
       cursor: pointer;
+      transition: var(--transition);
     }
-    .theme-group__toggle:hover { background: var(--border-lt); }
-    .theme-group.open .theme-group__toggle { background: #f8f4ff; border-color: #d4c8f0; }
-    .theme-group__label { color: var(--text); }
-    .theme-group__count {
-      font-size: 11px; font-weight: 400;
-      color: var(--text-muted);
-      background: var(--bg-card);
-      border: 1px solid var(--border);
-      padding: 1px 8px; border-radius: 10px;
+    .category-back:hover {
+      background: var(--border-lt);
+      color: var(--text);
     }
-    .theme-group.open .theme-group__count { background: #ede6ff; border-color: #c4b8e8; color: var(--essay); }
-    .theme-group__arrow {
-      margin-left: auto;
-      font-size: 11px;
-      color: var(--text-muted);
-      transition: transform 0.2s;
+    .category-detail__title {
+      font-family: var(--font-serif);
+      font-size: 20px; font-weight: 700;
+      color: var(--text); margin: 0;
     }
-    .theme-group.open .theme-group__arrow { transform: rotate(180deg); }
-    .theme-group__body {
-      display: none;
-      padding: 16px 0 8px;
+    .category-detail__count {
+      font-size: 12px; color: var(--text-light);
+      background: var(--bg-subtle);
+      padding: 2px 10px; border-radius: 10px;
     }
-    .theme-group.open .theme-group__body { display: block; }
 
     /* ── 전체 탭 — 월별 서브그룹 ── */
     .month-sub {
@@ -290,7 +325,7 @@
       </button>
       <button class="shelf-tab" data-shelf="all">
         <span class="shelf-tab__label">전체 <span class="shelf-count" id="count-all">0</span></span>
-        <span class="shelf-tab__sub">주제별 분류</span>
+        <span class="shelf-tab__sub">카테고리별 보관</span>
       </button>
     </div>
 
@@ -318,7 +353,7 @@
     <div id="panel-all" class="shelf-panel">
       <div class="flow-banner">
         <span class="flow-banner__icon">◉</span>
-        모든 구절을 철학 주제별로 분류합니다. 카테고리는 구절 텍스트의 키워드를 기반으로 자동 배정됩니다.
+        1달 이상 지난 구절이 철학 주제별 카테고리에 보관됩니다. 카테고리를 눌러 그 안의 구절을 확인하세요.
       </div>
       <div id="grid-all"></div>
     </div>
@@ -398,8 +433,8 @@ function getWeekClips()  { return clipList.filter(c => c.weekKey === CUR_WEEK); 
 // 이번 달 중 이번 주를 제외한 이전 주차 (다음 주부터 여기로 이동)
 function getMonthClips() { return clipList.filter(c => c.monthKey === CUR_MONTH && c.weekKey !== CUR_WEEK); }
 
-// 전체 — 모든 클립을 주제별로
-function getAllClips()   { return [...clipList]; }
+// 전체 — 1달 이상 지난 클립 (카테고리 아카이브)
+function getAllClips()   { return clipList.filter(c => c.monthKey !== CUR_MONTH); }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 // 철학 주제 분류
@@ -684,7 +719,7 @@ function renderAll() {
   wrap.innerHTML = '';
 
   if (!clips.length) {
-    wrap.innerHTML = emptyHTML('저장한 구절이 없습니다.');
+    wrap.innerHTML = emptyHTML('1달 이상 지난 구절이 아직 없습니다.<br>이번 달이 지나면 카테고리별로 분류되어 이곳에 보관됩니다.');
     return;
   }
 
@@ -697,56 +732,63 @@ function renderAll() {
   });
 
   const themeOrder = THEMES.map(t => t.id).concat(['기타']);
-  let firstOpen = true;
+  const grid = document.createElement('div');
+  grid.className = 'category-grid';
 
   themeOrder.forEach(tid => {
     const themeClips = byTheme[tid];
     if (!themeClips?.length) return;
 
-    const label = themeLabel(tid);
-
-    const group = document.createElement('div');
-    group.className = 'theme-group' + (firstOpen ? ' open' : '');
-    firstOpen = false;
-
-    const toggle = document.createElement('button');
-    toggle.className = 'theme-group__toggle';
-    toggle.innerHTML = `
-      <span class="theme-group__label">${label}</span>
-      <span class="theme-group__count">${themeClips.length}개</span>
-      <span class="theme-group__arrow">▼</span>
+    const card = document.createElement('button');
+    card.className = 'category-card';
+    card.innerHTML = `
+      <div class="category-card__label">${themeLabel(tid)}</div>
+      <div class="category-card__count">${themeClips.length}개 구절</div>
+      <div class="category-card__arrow">→</div>
     `;
-    toggle.addEventListener('click', () => group.classList.toggle('open'));
-
-    const body = document.createElement('div');
-    body.className = 'theme-group__body';
-
-    // 월별 서브그룹
-    const byMonth = {};
-    [...themeClips].reverse().forEach(clip => {
-      const mk = clip.monthKey || 'unknown';
-      if (!byMonth[mk]) byMonth[mk] = [];
-      byMonth[mk].push(clip);
-    });
-
-    Object.entries(byMonth)
-      .sort(([a], [b]) => b.localeCompare(a))
-      .forEach(([mk, monthItems]) => {
-        const sub = document.createElement('div');
-        sub.className = 'month-sub';
-        sub.innerHTML = `<div class="month-sub__label">${monthKeyLabel(mk)}</div>`;
-
-        const grid = document.createElement('div');
-        grid.className = 'clip-grid';
-        monthItems.forEach(clip => grid.appendChild(buildCard(clip, true, false)));
-        sub.appendChild(grid);
-        body.appendChild(sub);
-      });
-
-    group.appendChild(toggle);
-    group.appendChild(body);
-    wrap.appendChild(group);
+    card.addEventListener('click', () => renderCategoryDetail(tid));
+    grid.appendChild(card);
   });
+
+  wrap.appendChild(grid);
+}
+
+function renderCategoryDetail(themeId) {
+  const wrap  = document.getElementById('grid-all');
+  const clips = getAllClips().filter(c => classifyClip(c) === themeId);
+  wrap.innerHTML = '';
+
+  const header = document.createElement('div');
+  header.className = 'category-detail__header';
+  header.innerHTML = `
+    <button class="category-back">← 카테고리</button>
+    <h2 class="category-detail__title">${themeLabel(themeId)}</h2>
+    <span class="category-detail__count">${clips.length}개 구절</span>
+  `;
+  header.querySelector('.category-back').addEventListener('click', () => renderAll());
+  wrap.appendChild(header);
+
+  // 월별 서브그룹
+  const byMonth = {};
+  [...clips].reverse().forEach(clip => {
+    const mk = clip.monthKey || 'unknown';
+    if (!byMonth[mk]) byMonth[mk] = [];
+    byMonth[mk].push(clip);
+  });
+
+  Object.entries(byMonth)
+    .sort(([a], [b]) => b.localeCompare(a))
+    .forEach(([mk, monthItems]) => {
+      const sub = document.createElement('div');
+      sub.className = 'month-sub';
+      sub.innerHTML = `<div class="month-sub__label">${monthKeyLabel(mk)}</div>`;
+
+      const grid = document.createElement('div');
+      grid.className = 'clip-grid';
+      monthItems.forEach(clip => grid.appendChild(buildCard(clip, true, false)));
+      sub.appendChild(grid);
+      wrap.appendChild(sub);
+    });
 }
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -759,6 +801,7 @@ document.querySelectorAll('.shelf-tab').forEach(btn => {
     document.querySelectorAll('.shelf-panel').forEach(p => p.classList.remove('active'));
     btn.classList.add('active');
     document.getElementById('panel-' + btn.dataset.shelf).classList.add('active');
+    if (btn.dataset.shelf === 'all') renderAll();
   });
 });
 
