@@ -1,45 +1,13 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-09T05:35:43.522045+00:00",
+  "fetchedAt": "2026-05-16T11:43:13.433574+00:00",
   "items": [
     {
-      "title": "Réseaux sociaux, smartphones… Pourquoi les seniors sont-ils devenus accro aux écrans ?",
-      "url": "https://www.philomag.com/articles/reseaux-sociaux-smartphones-pourquoi-les-seniors-sont-ils-devenus-accro-aux-ecrans",
+      "title": "À quoi résister aujourd'hui ? Et comment ? Découvrez le dialogue entre Salomé Saqué et Miguel Benasayag",
+      "url": "https://www.philomag.com/articles/quoi-resister-aujourdhui-et-comment-decouvrez-le-dialogue-entre-salome-saque-et-miguel",
       "description": "",
-      "date": "Fri, 08 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Mystique, poétique, profonde et méconnue… Voyage à la découverte de la philosophie iranienne, d'Avicenne à Mullâ Sadrâ",
-      "url": "https://www.philomag.com/articles/mystique-poetique-profonde-et-meconnue-voyage-la-decouverte-de-la-philosophie-iranienne",
-      "description": "",
-      "date": "Sat, 09 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 15
-      }
-    },
-    {
-      "title": "Jacques Rancière, prochain invité de notre masterclass : “Pourquoi la démocratie est un scandale”",
-      "url": "https://www.philomag.com/articles/jacques-ranciere-prochain-invite-de-notre-masterclass-pourquoi-la-democratie-est-un",
-      "description": "",
-      "date": "Wed, 06 May 2026",
+      "date": "Wed, 13 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -52,10 +20,10 @@
       }
     },
     {
-      "title": "“Margo a des problèmes d’argent” : fans d’Elle Fannning",
-      "url": "https://www.philomag.com/articles/margo-des-problemes-dargent-fans-delle-fannning",
+      "title": "“Avicenne a inventé la distinction entre essence et existence” : entretien avec la philosophe Souâd Ayada",
+      "url": "https://www.philomag.com/articles/avicenne-invente-la-distinction-entre-essence-et-existence-entretien-avec-la-philosophe",
       "description": "",
-      "date": "Fri, 08 May 2026",
+      "date": "Thu, 14 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -68,26 +36,26 @@
       }
     },
     {
-      "title": "Les jours fériés ont-ils encore un sens ?",
-      "url": "https://www.philomag.com/articles/les-jours-feries-ont-ils-encore-un-sens",
+      "title": "“Philosophes résistants” : le nouveau hors-série de “Philosophie magazine” sort aujourd'hui !",
+      "url": "https://www.philomag.com/articles/philosophes-resistants-le-nouveau-hors-serie-de-philosophie-magazine-sort-aujourdhui",
       "description": "",
-      "date": "Thu, 07 May 2026",
+      "date": "Wed, 13 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "Jean-Claude Monod : “L’émergence de nouveaux profils parmi les représentants politiques renforce la démocratie”",
-      "url": "https://www.philomag.com/articles/jean-claude-monod-lemergence-de-nouveaux-profils-parmi-les-representants-politiques",
+      "title": "Renoir et l’amour : foules sentimentales",
+      "url": "https://www.philomag.com/articles/renoir-et-lamour-foules-sentimentales",
       "description": "",
-      "date": "Tue, 05 May 2026",
+      "date": "Fri, 15 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +68,74 @@
       }
     },
     {
-      "title": "La “falsifiabilité” chez Karl Popper, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/la-falsifiabilite-chez-karl-popper-cest-quoi",
+      "title": "Marc-André Selosse : “Dès que le hantavirus a trouvé un hôte où il peut survivre, tout peut changer très vite”",
+      "url": "https://www.philomag.com/articles/marc-andre-selosse-des-que-le-hantavirus-trouve-un-hote-ou-il-peut-survivre-tout-peut",
       "description": "",
-      "date": "Fri, 08 May 2026",
+      "date": "Fri, 15 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Le “marxisme culturel” : anatomie d’une peur",
+      "url": "https://www.philomag.com/articles/le-marxisme-culturel-anatomie-dune-peur",
+      "description": "",
+      "date": "Wed, 13 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Hier comme aujourd'hui, le mal a-t-il un sens ? Les réponses de la série “Etty”",
+      "url": "https://www.philomag.com/articles/hier-comme-aujourdhui-le-mal-t-il-un-sens-les-reponses-de-la-serie-etty",
+      "description": "",
+      "date": "Wed, 13 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "“French Boomers” : “Les jeunes et les ‘boomers’ se jugent sans se regarder”",
+      "url": "https://www.philomag.com/articles/french-boomers-les-jeunes-et-les-boomers-se-jugent-sans-se-regarder",
+      "description": "",
+      "date": "Tue, 12 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Jan Patočka, un veilleur anti-totalitaire dans la longue nuit du XXe siècle",
+      "url": "https://www.philomag.com/articles/jan-patocka-un-veilleur-anti-totalitaire-dans-la-longue-nuit-du-xxe-siecle",
+      "description": "",
+      "date": "Sat, 16 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +148,10 @@
       }
     },
     {
-      "title": "Le divan du coiffeur",
-      "url": "https://www.philomag.com/articles/le-divan-du-coiffeur",
+      "title": "“L’enracinement” chez Simone Weil, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/lenracinement-chez-simone-weil-cest-quoi",
       "description": "",
-      "date": "Thu, 07 May 2026",
+      "date": "Fri, 15 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +164,10 @@
       }
     },
     {
-      "title": "Affaire libyenne : entre Sarkozy et Guéant, une relation machiavélienne ?",
-      "url": "https://www.philomag.com/articles/affaire-libyenne-entre-sarkozy-et-gueant-une-relation-machiavelienne",
+      "title": "De Hegel aux zones de combat : rencontre avec Luc, militaire et philosophe",
+      "url": "https://www.philomag.com/articles/de-hegel-aux-zones-de-combat-rencontre-avec-luc-militaire-et-philosophe",
       "description": "",
-      "date": "Thu, 07 May 2026",
+      "date": "Fri, 15 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +180,10 @@
       }
     },
     {
-      "title": "“J’ai vécu un moment stationnaire, figé dans la répétition” : Laurence Hansen-Løve et le temps de la maladie",
-      "url": "https://www.philomag.com/articles/jai-vecu-un-moment-stationnaire-fige-dans-la-repetition-laurence-hansen-love-et-le-temps",
+      "title": "Aurais-je été résistante… ou froussarde ? L’édito du nouveau hors-série “Philosophes résistants” par Anne-Sophie Moreau",
+      "url": "https://www.philomag.com/articles/aurais-je-ete-resistante-ou-froussarde-ledito-du-nouveau-hors-serie-philosophes",
       "description": "",
-      "date": "Thu, 07 May 2026",
+      "date": "Thu, 14 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +196,10 @@
       }
     },
     {
-      "title": "Hantavirus sur le MV “Hondius” : sans filtre ?",
-      "url": "https://www.philomag.com/articles/hantavirus-sur-le-mv-hondius-sans-filtre",
+      "title": "Arachnophobique, moi ?",
+      "url": "https://www.philomag.com/articles/arachnophobique-moi",
       "description": "",
-      "date": "Wed, 06 May 2026",
+      "date": "Wed, 13 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +212,10 @@
       }
     },
     {
-      "title": "Édition génétique du corps : un pas de plus vers un futur posthumain ?",
-      "url": "https://www.philomag.com/articles/edition-genetique-du-corps-un-pas-de-plus-vers-un-futur-posthumain",
+      "title": "Se leurrer, un art de vivre ?",
+      "url": "https://www.philomag.com/articles/se-leurrer-un-art-de-vivre",
       "description": "",
-      "date": "Wed, 06 May 2026",
+      "date": "Tue, 12 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "Un “luxe démocratique” est-il possible ? Réponse avec le livre “Une autre histoire du luxe”, d’Emma Carenini",
-      "url": "https://www.philomag.com/articles/un-luxe-democratique-est-il-possible-reponse-avec-le-livre-une-autre-histoire-du-luxe",
+      "title": "De quoi le hantavirus est-il le nom ?",
+      "url": "https://www.philomag.com/articles/de-quoi-le-hantavirus-est-il-le-nom",
       "description": "",
-      "date": "Wed, 06 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Dans le répondeur de Nan Goldin",
-      "url": "https://www.philomag.com/articles/dans-le-repondeur-de-nan-goldin",
-      "description": "",
-      "date": "Tue, 05 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Épiceries municipales : une idée ancienne qui a de l’avenir ?",
-      "url": "https://www.philomag.com/articles/epiceries-municipales-une-idee-ancienne-qui-de-lavenir",
-      "description": "",
-      "date": "Tue, 05 May 2026",
+      "date": "Tue, 12 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

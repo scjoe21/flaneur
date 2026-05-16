@@ -1,29 +1,45 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-05-09T05:35:47.977848+00:00",
+  "fetchedAt": "2026-05-16T11:43:20.973822+00:00",
   "items": [
     {
-      "title": "Does reading do us any good?",
-      "url": "https://aeon.co/essays/the-role-of-literature-as-the-key-to-personal-freedom",
-      "description": "Stripped of easy moralising, literature makes us relish the search for truth in an age when many believe truth to be dead - by Flora Champy Read on Aeon",
-      "date": "Fri, 24 Apr 2026",
+      "title": "Idle warriors",
+      "url": "https://aeon.co/videos/meet-the-bounty-hunters-who-enforce-new-yorks-idling-vehicle-ban",
+      "description": "How a public health initiative to reduce air pollution has created ‘full-time citizen complainants’ who patrol the city - by Aeon Video Watch on Aeon",
+      "date": "Wed, 13 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "Silvesterchlausen",
+      "url": "https://aeon.co/videos/the-swiss-tradition-thats-a-mystery-even-to-those-who-celebrate-it",
+      "description": "‘We’re not sure what it means or how it started’ – the enigmatic ritual that has existed in Switzerland for centuries - by Aeon Video Watch on Aeon",
+      "date": "Thu, 14 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "The Black executioner",
-      "url": "https://aeon.co/essays/medieval-art-makes-the-body-a-site-of-theology-and-politics",
-      "description": "Medieval artists depicted bodies as vehicles for politics and hierarchy. Repeated enough, these roles began to appear natural - by Denva Gallant Read on Aeon",
-      "date": "Mon, 27 Apr 2026",
+      "title": "Rights require money",
+      "url": "https://aeon.co/essays/to-fund-human-rights-we-need-a-global-fair-tax-convention",
+      "description": "Talk as much as you like about human rights, nothing will change until the architecture of global finance is reformed - by Attiya Waris Read on Aeon",
+      "date": "Thu, 14 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -36,7 +52,55 @@
       }
     },
     {
-      "title": "The eye in your pocket",
+      "title": "Beneath our human shallows",
+      "url": "https://aeon.co/essays/how-does-the-deep-earth-see-humanity",
+      "description": "We need a new imagination for the whole Earth, linking the power of the deep planet with the vitality of the surface - by James Dinneen Read on Aeon",
+      "date": "Tue, 12 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Classroom 4",
+      "url": "https://aeon.co/videos/the-historian-who-brings-lessons-on-us-prisons-inside-their-walls",
+      "description": "In this award-winning short, inmates and college students explore the history of incarceration from inside a US prison - by Aeon Video Watch on Aeon",
+      "date": "Mon, 11 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Children are apprentices",
+      "url": "https://aeon.co/essays/children-need-stress-and-discomfort-in-order-to-grow-up",
+      "description": "The emotional and practical skills of adulthood can only be learned from (appropriate) levels of discomfort and stress - by Niklas Serning & Nina Lyon Read on Aeon",
+      "date": "Mon, 11 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The prophet in your pocket",
       "url": "https://aeon.co/essays/things-have-jobs-and-digital-devices-are-made-to-track-you",
       "description": "Things have jobs: pillows are made for comfort, scissors are sharp, and digital devices are made to track your every move - by Carissa Véliz Read on Aeon",
       "date": "Fri, 08 May 2026",
@@ -100,54 +164,6 @@
       }
     },
     {
-      "title": "Who invented bad guys?",
-      "url": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why",
-      "description": "The good-vs-evil paradigm of most pop-culture storytelling is a relatively recent effort to promote social cohesion - by Aeon Video Watch on Aeon",
-      "date": "Thu, 30 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "1,000 years of Japanese swords",
-      "url": "https://aeon.co/videos/a-millennium-of-japanese-history-as-told-through-the-samurai-sword",
-      "description": "From weapon to icon – a riveting history lesson in the many meanings of the samurai sword that’s also just plain cool to see - by Aeon Video Watch on Aeon",
-      "date": "Wed, 29 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Hunting ‘Man the Hunter’",
-      "url": "https://aeon.co/essays/why-man-the-hunter-continues-to-die-and-return",
-      "description": "For a century, this theory of human origins has died and returned. To free it from limbo, we must disentangle its many meanings - by Vivek V Venkataraman Read on Aeon",
-      "date": "Tue, 28 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Sarnevesht (Daughter)",
       "url": "https://aeon.co/videos/a-teen-girl-hits-a-crossroads-in-this-stirring-portrait-of-rural-iran",
       "description": "In rural Iran, Sahar faces a stark choice: stay at home to look after her father, or go to the city to pursue her education - by Aeon Video Watch on Aeon",
@@ -180,6 +196,22 @@
       }
     },
     {
+      "title": "Gen Z but two centuries ago",
+      "url": "https://aeon.co/essays/young-people-now-and-the-mal-du-siecle-of-19th-century-france",
+      "description": "A generation of young people with ‘full hearts in an empty world’ sought hope in the face of insurmountable malaise - by Emily Herring Read on Aeon",
+      "date": "Fri, 15 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "The origins of Indians",
       "url": "https://aeon.co/essays/ancient-india-was-shaped-by-waves-of-migration-and-mixing",
       "description": "Genetic studies support what historians have argued for decades: ancient India was a place of migration and mixture - by Kiran Kumbhar Read on Aeon",
@@ -200,38 +232,6 @@
       "url": "https://aeon.co/essays/why-creativity-shines-out-on-the-edge-of-things",
       "description": "Brilliance and kindness shine brightest when far from the comfortable centre. Even nature is more generative there too - by Charles Foster Read on Aeon",
       "date": "Tue, 05 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Ethiopian running secret",
-      "url": "https://aeon.co/essays/what-ethiopian-running-says-about-the-limits-of-human-ability",
-      "description": "One school of training is highly personalised, technical and data-driven. The other is the one that wins marathons - by Michael Crawley & Geoff Burns Read on Aeon",
-      "date": "Thu, 30 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Africa’s cultural landmarks: Ọṣun-Òṣogbo Sacred Grove, Nigeria",
-      "url": "https://aeon.co/videos/yoruba-spirituality-inspires-surreal-sculptures-in-this-sacred-grove",
-      "description": "Deep inside a luscious grove in Nigeria, a community of artists preserves otherworldly monuments to Yorùbá spirituality - by Aeon Video Watch on Aeon",
-      "date": "Mon, 27 Apr 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

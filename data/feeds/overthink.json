@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-05-09T05:35:47.850898+00:00",
+  "fetchedAt": "2026-05-16T11:43:20.617267+00:00",
   "items": [
     {
       "title": "Discipline",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 15,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 44
-      }
-    },
-    {
-      "title": "Talking Politics with Sarah Stein Lubrano",
-      "url": "",
-      "description": "Why does talking about politics so often feel useless? In episode 158 of Overthink, Ellie and David speak with Sarah Stein Lubrano, author of  Don’t Talk About Politics: How to Change 21st-Century Minds , about why discourse is not the solution to political polarization. They discuss the problems with thinking about political opinions as a \"marketplace of ideas,\" why public debates don't change our political views as much as personal relationships, and how social atrophy weakens citizenship. Wha",
-      "date": "Tue, 27 Jan 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
         "flaneur": 4,
         "novelty": 0,
         "total": 44
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Theft",
+      "url": "",
+      "description": "Thou shalt not miss this episode! In episode 173 of Overthink, Ellie and David talk about theft. They discuss our moral intuitions around theft, how feudalism and capitalism may be founded upon an original (and large scale) act that of theft, and the gendered association between kleptomania and women. They also critique the lack of legal repercussions for tech companies that steal information to train new AI models. Finally, they look at representations of theft and capital in film and televisio",
+      "date": "Tue, 12 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {

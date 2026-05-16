@@ -1,24 +1,8 @@
 {
   "sourceId": "monsieur-phi",
   "sourceName": "Monsieur Phi",
-  "fetchedAt": "2026-05-02T07:03:35.444887+00:00",
+  "fetchedAt": "2026-05-16T11:43:10.073602+00:00",
   "items": [
-    {
-      "title": "La sagesse selon YouTube : plongée dans un océan de contenu généré par IA",
-      "url": "https://www.youtube.com/watch?v=rJE2qkP0Gk4",
-      "description": "Si vous voulez tester Incogni : https://incogni.com/monsieurphi\n\nSi vous voulez en apprendre davantage sur le broicism, la vidéo d'Aperture \"How Stoicism Became The World's Greatest Scam\" : https://youtu.be/h8REOHfdVZQ\n\nSi vous voulez en apprendre davantage sur le stoïcisme authentique, une interview exclusive de Sénèque, le stoïcien aux 300 millions de sesterces : https://youtu.be/iE08wLRGPcQ\n\nSommaire\n\n0:00 - Préambule\n0:30 - Les tableaux de Jérôme Bosch\n2:54 - Intro + InVideo AI\n6:01 - Sponso",
-      "date": "2024-10-20",
-      "thumbnail": "https://i3.ytimg.com/vi/rJE2qkP0Gk4/hqdefault.jpg",
-      "videoId": "rJE2qkP0Gk4",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "Duel épique de philosophie médiévale",
       "url": "https://www.youtube.com/watch?v=_P7v2OJgYnU",
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Les derniers jours de Giordano Bruno",
+      "url": "https://www.youtube.com/watch?v=7-Fo1OpOljQ",
+      "description": "Pour la première partie sur la vie de Bruno, c'est par là : https://youtu.be/dvcsvd-wNfE\n\nJ-1 pour le LATE SHOW DU SIÈCLE ! Participez à la campagne de financement participatif : https://fr.ulule.com/le-late-show-du-siecle---une-emission-de-monsieur-phi/\n\nSommaire \n0:00 - Intro\n1:30 - Procès à Venise : où Bruno se montre extraordinairement humble\n4:13 - Transfert à Rome\n5:10 - La dénonciation de Celestino de Vérone\n6:45 - Mystère autour du bûcher de Celestino\n8:58 - Enlisement du procès, censure",
+      "date": "2026-05-06",
+      "thumbnail": "https://i4.ytimg.com/vi/7-Fo1OpOljQ/hqdefault.jpg",
+      "videoId": "7-Fo1OpOljQ",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
