@@ -199,7 +199,7 @@ def strip_html(html: str) -> str:
 # HTTP 요청
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-def fetch_url(url: str, timeout: int = 15, retries: int = 3) -> str:
+def fetch_url(url: str, timeout: int = 30, retries: int = 3) -> str:
     headers = {
         "User-Agent": (
             "Mozilla/5.0 (compatible; FlaneurBot/1.0; "

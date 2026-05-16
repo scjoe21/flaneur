@@ -28,15 +28,15 @@
     },
     {
       "id": "france-culture-philo",
-      "name": "France Culture — Philosophie",
+      "name": "Avec philosophie (France Culture)",
       "country": "france",
       "countryLabel": "프랑스",
       "flag": "🇫🇷",
       "day": "monday",
       "type": "rss",
-      "url": "https://www.radiofrance.fr/franceculture/philosophie",
-      "description": "프랑스 공영라디오 철학 프로그램. 매일 방송, 안정적 RSS.",
-      "rssUrl": "https://www.radiofrance.fr/franceculture/podcasts/les-chemins-de-la-philosophie/feed"
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie",
+      "description": "프랑스 공영라디오 일일 철학 프로그램(전 'Les Chemins de la philosophie'). 진행 Géraldine Muhlmann.",
+      "rssUrl": "https://radiofrance-podcast.net/podcast09/rss_10467.xml"
     },
     {
       "id": "philosophie-magazine",
@@ -65,15 +65,15 @@
     },
     {
       "id": "deutschlandfunk-philosophie",
-      "name": "Deutschlandfunk — Philosophie",
+      "name": "Sein und Streit (Deutschlandfunk Kultur)",
       "country": "germany",
       "countryLabel": "독일",
       "flag": "🇩🇪",
       "day": "tuesday",
       "type": "rss",
-      "url": "https://www.deutschlandfunk.de/philosophie",
-      "description": "독일 공영라디오 철학 섹션. 시사·사회 현상 철학적 분석.",
-      "rssUrl": "https://www.deutschlandfunk.de/philosophie.2173.de.rss"
+      "url": "https://www.deutschlandfunkkultur.de/sein-und-streit-100.html",
+      "description": "독일 공영라디오 Dlf Kultur의 주간 철학 매거진. 일상·시사 현상의 철학적 분석.",
+      "rssUrl": "https://www.deutschlandfunkkultur.de/sein-und-streit-das-philosophiemagazin-102.xml"
     },
     {
       "id": "hohe-luft",
@@ -171,7 +171,7 @@
       "type": "rss",
       "url": "https://philosophybites.com",
       "description": "영국 옥스퍼드·워릭 교수 운영 철학 팟캐스트. 철학자 인터뷰 중심.",
-      "rssUrl": "https://philosophybites.com/atom.xml"
+      "rssUrl": "https://philosophybites.libsyn.com/rss"
     },
     {
       "id": "daily-stoic",
