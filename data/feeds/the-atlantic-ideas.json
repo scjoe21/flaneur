@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-05-16T11:53:40.413708+00:00",
+  "fetchedAt": "2026-05-16T12:10:28.699909+00:00",
   "items": [
     {
       "title": "How the Environmental Movement Lost Its Power",
@@ -44,8 +44,8 @@
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

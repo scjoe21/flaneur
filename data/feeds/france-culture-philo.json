@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-05-16T11:53:24.199554+00:00",
+  "fetchedAt": "2026-05-16T12:10:20.368794+00:00",
   "items": [
     {
       "title": "Pourquoi il ne faut pas renoncer à la cosmopolitique",
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Pourquoi la géopolitique est-elle de retour ?",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:03:48  - Avec philosophie - par : Frédéric Worms - Alors que les conflits territoriaux et les rivalités pour les ressources reviennent sur le devant de la scène internationale, la géopolitique supplante-t-elle la cosmopolitique ?  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 04 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Forces et fragilités : Qu'est-ce qu'une voix ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-force-de-la-parole-eloquence-et-politique-6597777",
       "description": "durée : 00:59:25  - Avec philosophie - par : Géraldine Muhlmann - La parole est bien plus qu’un simple outil de communication : elle est un moyen d’influencer, de convaincre, de transmettre des émotions. Une voix ne se limite pas à un son, elle porte une intention, une personnalité, une puissance capable de toucher autrui. Mais, qu'est-ce qu'une voix ?    - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Riyad Cairat, Nassim El Kabli, Luna Hadjla - invités : Denis Podalydè",
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques",
-      "url": "https://www.radiofrance.fr/application-mobile-radio-france",
-      "description": "durée : 00:58:38  - Le Cours de l'histoire - par : Xavier Mauduit - Au 5ᵉ siècle avant notre ère, les tragédies grecques reprennent des thèmes de la mythologie et de l’épopée. Certains dramaturges, comme Sophocle, laissent des incertitudes dans leur intrigue. Du crime d’Œdipe au suicide d’Antigone, sommes-nous vraiment sûrs qu’ils ont eu lieu ?  - réalisation : Maïwenn Guiziou, Thomas Beau, Jeanne Delecroix, Jeanne Coppey, Raphaël Laloum, Chloé Rouillon, Sidonie Lebot - invités : Claire Paulian ",
-      "date": "Sat, 16 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
       }
     }
   ]
