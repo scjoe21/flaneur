@@ -1,8 +1,24 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-05-16T12:10:23.813564+00:00",
+  "fetchedAt": "2026-05-22T07:39:19.451238+00:00",
   "items": [
+    {
+      "title": "How death came to Earth",
+      "url": "https://aeon.co/videos/the-celestial-affair-that-made-us-mortal-an-animated-indian-myth",
+      "description": "Why must humans die? According to an ancient Indian folktale, death first came to Earth through an ill-fated love affair - by Aeon Video Watch on Aeon",
+      "date": "Mon, 18 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "Idle warriors",
       "url": "https://aeon.co/videos/meet-the-bounty-hunters-who-enforce-new-yorks-idling-vehicle-ban",
@@ -20,6 +36,38 @@
       }
     },
     {
+      "title": "Make immigration boring",
+      "url": "https://aeon.co/essays/more-migration-or-less-migration-the-answer-is-boring",
+      "description": "The fiercest political battle of our age needs less moral drama and more hard thinking about numbers and fair tradeoffs - by Alan Manning Read on Aeon",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Looking for a donkey",
+      "url": "https://aeon.co/videos/in-search-of-the-donkey-that-sparked-a-national-incident-in-venezuela",
+      "description": "After two arrests and a national uproar, why is it so tricky to find the donkey once likened to Venezuela’s president? - by Aeon Video Watch on Aeon",
+      "date": "Wed, 20 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Silvesterchlausen",
       "url": "https://aeon.co/videos/the-swiss-tradition-thats-a-mystery-even-to-those-who-celebrate-it",
       "description": "‘We’re not sure what it means or how it started’ – the enigmatic ritual that has existed in Switzerland for centuries - by Aeon Video Watch on Aeon",
@@ -33,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Aloha ʻāina",
+      "url": "https://aeon.co/videos/reclaiming-aloha-the-hawaiian-poet-rewriting-the-story-of-her-home",
+      "description": "It’s marketed as a holiday destination, but the true meaning of Hawai’i lies in the connections between land and people - by Aeon Video Watch on Aeon",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 13,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 13
       }
     },
     {
@@ -132,67 +196,35 @@
       }
     },
     {
-      "title": "Democracy by lottery",
-      "url": "https://aeon.co/videos/is-democracy-without-elections-possible-could-a-lottery-be-better",
-      "description": "Ancient Athenians chose leaders by lottery rather than elections. Could this solve the problems facing democracy today? - by Aeon Video Watch on Aeon",
-      "date": "Mon, 04 May 2026",
+      "title": "Maritime China",
+      "url": "https://aeon.co/essays/china-and-the-sea-a-story-of-power-faith-and-appetite",
+      "description": "Far from turning its back on the sea, the fate of Qing China was tied as much to tides and storms as to cavalry and walls - by Ron Po Read on Aeon",
+      "date": "Tue, 19 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "To be is to participate",
-      "url": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood",
-      "description": "For Lucien Lévy-Bruhl, a person is not self-contained, but the outcome of a lifelong process of living with others: we before I - by João de Pina-Cabral Read on Aeon",
-      "date": "Fri, 01 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Sarnevesht (Daughter)",
-      "url": "https://aeon.co/videos/a-teen-girl-hits-a-crossroads-in-this-stirring-portrait-of-rural-iran",
-      "description": "In rural Iran, Sahar faces a stark choice: stay at home to look after her father, or go to the city to pursue her education - by Aeon Video Watch on Aeon",
-      "date": "Wed, 06 May 2026",
+      "title": "Mathematics is out there",
+      "url": "https://aeon.co/essays/for-sergiu-klainerman-maths-is-a-fact-to-be-divined",
+      "description": "Sergiu Klainerman spent years proving that black holes won’t fly apart; and arguing that maths is not a human invention - by Steve Nadis Read on Aeon",
+      "date": "Mon, 18 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "Reality emerges",
-      "url": "https://aeon.co/essays/why-reality-is-more-than-the-sum-of-its-particles",
-      "description": "Particles are nature’s smallest constituents, but that doesn’t mean they’re fundamental. So what is the Universe made of? - by Felix Flicker Read on Aeon",
-      "date": "Mon, 04 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://aeon.co/essays/young-people-now-and-the-mal-du-siecle-of-19th-century-france",
       "description": "A generation of young people with ‘full hearts in an empty world’ sought hope in the face of insurmountable malaise - by Emily Herring Read on Aeon",
       "date": "Fri, 15 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The origins of Indians",
-      "url": "https://aeon.co/essays/ancient-india-was-shaped-by-waves-of-migration-and-mixing",
-      "description": "Genetic studies support what historians have argued for decades: ancient India was a place of migration and mixture - by Kiran Kumbhar Read on Aeon",
-      "date": "Thu, 07 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Embrace the edge!",
-      "url": "https://aeon.co/essays/why-creativity-shines-out-on-the-edge-of-things",
-      "description": "Brilliance and kindness shine brightest when far from the comfortable centre. Even nature is more generative there too - by Charles Foster Read on Aeon",
-      "date": "Tue, 05 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

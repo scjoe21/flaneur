@@ -1,44 +1,12 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-05-16T12:10:20.368794+00:00",
+  "fetchedAt": "2026-05-22T07:39:15.035940+00:00",
   "items": [
-    {
-      "title": "Pourquoi il ne faut pas renoncer à la cosmopolitique",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-ne-faut-il-pas-renoncer-a-la-cosmopolitique-4047459",
-      "description": "durée : 00:03:45  - Avec philosophie - par : Frédéric Worms - La multiplication des conflits territoriaux remet en question l'idéal cosmopolitique. Entre mondialisation marchande et rivalités entre États, comment penser une politique commune à l'échelle de la planète dans un monde fragmenté ?  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 05 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
-    {
-      "title": "Comment concilier géopolitique et cosmopolitique ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-concilier-geopolitique-et-cosmopolitique-8199970",
-      "description": "durée : 00:03:56  - Avec philosophie - par : Frédéric Worms - Entre réalités géopolitiques et aspirations cosmopolitiques, comment penser  l'avenir de l'humanité ? Une réflexion sur la place de la justice et des institutions globales dans la gestion des conflits mondiaux.   - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 06 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 44
-      }
-    },
     {
       "title": "Comment partager les richesses du monde ?",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:29  - Avec philosophie - par : Frédéric Worms - Dans cette chronique, Frédéric Worms vous embarque dans une réflexion philosophique sur le partage de la richesses du monde. Du jeu de société à la réalité, la richesse, phénomène collectif et transnational, interroge le partage des biens communs : eau, terre, vie.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "description": "durée : 00:03:31  - Avec philosophie - par : Frédéric Worms - Dans cette chronique, Frédéric Worms vous embarque dans une réflexion philosophique sur le partage de la richesses du monde. Du jeu de société à la réalité, la richesse, phénomène collectif et transnational, interroge le partage des biens communs : eau, terre, vie.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Wed, 13 May 2026",
       "thumbnail": "",
       "videoId": "",
@@ -68,51 +36,19 @@
       }
     },
     {
-      "title": "Pourquoi y a-t-il des riches et des pauvres ?",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:49  - Avec philosophie - par : Frédéric Worms - La distinction entre riches et pauvres apparaît comme un fait universel dans toutes les sociétés humaines, fondé sur la capacité à accéder à des biens vitaux ou superflus.  Entre luxe et misère, le philosophe interroge cette différence universelle.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 11 May 2026",
+      "title": "Vivre, mode d'emploi : Le geste le plus simple pour un monde plus juste, selon la philosophe Simone Weil",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/un-geste-simple-pour-un-monde-plus-juste-selon-la-philosophe-simone-weil-6200426",
+      "description": "durée : 00:03:25  - Avec philosophie - Et si lutter contre l’injustice commençait par un acte simple mais exigeant : l’attention aux autres ? Avec Laurence Devillairs, découvrez pourquoi Simone Weil voit dans l’inattention une forme de lâcheté et dans l’attention à autrui un refus de la passivité ordinaire.  - réalisation : Laurence Devillairs, Camille Renard, Virginie Le Duault, Anna Holveck \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 21 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 34,
       "scoreDetail": {
         "daily": 15,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Guillaume Erner : \"J'ai lu Simmel en regardant Le Loft, et les deux disent tout de l'argent\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/guillaume-erner-sociologue-et-producteur-de-radio-sur-philosophie-de-l-argent-de-georg-simmel-2727980",
-      "description": "durée : 00:58:37  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans \"Philosophie de l'argent\" (1900), Georg Simmel analyse l’argent comme une forme sociale qui structure les relations humaines. Il montre comment l’économie monétaire transforme les échanges et la liberté individuelle. Séduit par ce texte, le sociologue, producteur, Guillaume Erner nous en parle.  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Guillaume Erner Docteur en sociologie et producteur ",
-      "date": "Fri, 08 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
         "phil": 15,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Vivre, mode d'emploi : Comment transformer la nostalgie en une ouverture vers l'avenir, grâce à Vladimir Jankélévitch",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/comment-transformer-la-nostalgie-en-une-ouverture-vers-l-avenir-grace-a-vladimir-jankelevitch-6217814",
-      "description": "durée : 00:03:18  - Avec philosophie - par : Laurence Devillairs - Vous êtes d’humeur nostalgique et avez du mal à accepter que le passé ne se revit pas ? Pourquoi ressentons-nous cette mélancolie ? Face à ce sentiment, qui exprime le regret d’un temps à jamais révolu, la philosophe Laurence Devillairs propose une piste pour mieux le comprendre… et s’en libérer.  - réalisation : Camille Renard, Virginie Le Duault, Anna Holveck \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite,",
-      "date": "Thu, 07 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
+        "total": 34
       }
     },
     {
@@ -132,6 +68,70 @@
       }
     },
     {
+      "title": "Du polythéisme au monothéisme : qu'est-ce que cela change pour la philosophie ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/du-polytheisme-au-monotheisme-qu-est-ce-que-cela-change-pour-la-philosophie-8071821",
+      "description": "durée : 00:57:29  - Avec philosophie - par : Géraldine Muhlmann - Depuis Platon, la philosophie grecque laissait déjà entrevoir une tendance vers une forme de monothéisme. Dès lors, comment la philosophie a-t-elle évolué en passant de la Grèce polythéiste à l’Occident chrétien ?  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Carlos Lévy Professeur émérite de littérature et philosophie romaines à l'université de Paris Sorbonne, C",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Pourquoi faut-il faire attention ?",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:03:42  - Avec philosophie - par : Frédéric Worms - À l'ère du numérique, la connaissance est souvent réduite à une accumulation horizontale du savoir mais qu'en est-il de l'attention qu'on lui porte ? Cette capacité, à la fois cognitive et vitale, est le propre d'un sujet conscient de son environnement.\n  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 19 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Philon d'Alexandrie, philosophe grec et juif",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/philon-d-alexandrie-juif-grec-et-philsophe-8248984",
+      "description": "durée : 00:58:21  - Avec philosophie - par : Géraldine Muhlmann - Grec et juif, Philon d'Alexandrie ne ressentait-il aucune tension entre ces deux mondes culturels ? Comment s’accommodait-il de l’exigence monothéiste juive, tandis qu’il était si fidèle à la pensée grecque ? Sa confiance révèle-t-elle certaines simplifications, certains évitements ?\n  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Carlos Lévy Professeur émérite de",
+      "date": "Tue, 19 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Comment l'attention est-elle possible ?",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:03:51  - Avec philosophie - par : Frédéric Worms - Souvent négligée, l'attention constitue pourtant un enjeu majeur. De sa dimension politique dans une économie de la distraction à sa nature philosophique, retour sur cette capacité de l'esprit qui transforme notre perception du monde.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 18 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Kierkegaard, le risque d'être soi : Les œuvres de l'amour",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/les-oeuvres-de-l-amour-1440230",
       "description": "durée : 00:58:01  - Avec philosophie - par : Géraldine Muhlmann - Chez Kierkegaard, l’amour ne se réduit pas à un simple sentiment romantique, il constitue une expérience spirituelle et existentielle essentielle. Une conception originale de l'amour qui permet de penser la dimension sociale et politique à travers des lectures plus contemporaines.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Anne-Christine Habbard Docteure en ph",
@@ -148,48 +148,16 @@
       }
     },
     {
-      "title": "Kierkegaard, le risque d'être soi : \"La subjectivité est la vérité\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-subjectivite-est-la-verite-4013166",
-      "description": "durée : 00:58:30  - Avec philosophie - par : Géraldine Muhlmann - Grande figure de la philosophie du XIXᵉ siècle, le penseur danois Søren Kierkegaard, reprenant l’héritage de Socrate, plaçait la subjectivité au cœur de la vérité. Autrement dit, une vérité n’a de valeur réelle que lorsqu’elle engage personnellement celui qui la pense et transforme son existence.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Hélène Bouchilloux Pr",
-      "date": "Mon, 11 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
-      }
-    },
-    {
-      "title": "Pourquoi la géopolitique est-elle de retour ?",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:48  - Avec philosophie - par : Frédéric Worms - Alors que les conflits territoriaux et les rivalités pour les ressources reviennent sur le devant de la scène internationale, la géopolitique supplante-t-elle la cosmopolitique ?  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 04 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Forces et fragilités : Qu'est-ce qu'une voix ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-force-de-la-parole-eloquence-et-politique-6597777",
-      "description": "durée : 00:59:25  - Avec philosophie - par : Géraldine Muhlmann - La parole est bien plus qu’un simple outil de communication : elle est un moyen d’influencer, de convaincre, de transmettre des émotions. Une voix ne se limite pas à un son, elle porte une intention, une personnalité, une puissance capable de toucher autrui. Mais, qu'est-ce qu'une voix ?    - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Riyad Cairat, Nassim El Kabli, Luna Hadjla - invités : Denis Podalydè",
-      "date": "Tue, 05 May 2026",
+      "title": "Comment préserver nos capacités d’attention",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-preserver-nos-capacites-d-attention-8229160",
+      "description": "durée : 00:03:51  - Avec philosophie - par : Frédéric Worms - Capter l’attention et préserver cette capacité préoccupe le corps enseignant, inquiet de voir des élèves perdre leur concentration, alors même que c'est un effort nécessaire pour exercer l'esprit, approfondir les connaissances, comprendre le monde et contempler sa beauté.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 20 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 15,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -198,7 +166,7 @@
     {
       "title": "Eva Illouz : \"'Belle du Seigneur' n'est pas que le roman de l'amour, il est surtout celui de la sociologie\"",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/eva-illouz-sociologue-a-propos-de-belle-du-seigneur-d-albert-cohen-8819676",
-      "description": "durée : 00:59:26  - Avec philosophie - par : Géraldine Mosna-Savoye - Publié en 1968, \"Belle du seigneur\", chef-d’œuvre d’Albert Cohen - qui se moque aussi bien de l’amour que de la petitesse de la bureaucratie - a ses passionnés comme ses critiques. \nC’est après sa lecture que la sociologue Eva Illouz a fait de l’amour le sujet de ses livres, elle nous en parle. \n  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Eva Illouz Sociologue \n\nVous aimez ce podcast ? Pour éc",
+      "description": "durée : 00:59:26  - Avec philosophie - par : Géraldine Mosna-Savoye - Publié en 1968, \"Belle du seigneur\", chef-d’œuvre d’Albert Cohen – qui se moque aussi bien de l’amour que de la petitesse de la bureaucratie – a ses passionnés comme ses critiques. C’est après sa lecture que la sociologue Eva Illouz a fait de l’amour le sujet de ses livres, elle nous en parle. \n  - réalisation : Nicolas Berger, Sam  Baquiast, Manon de La Selle, Corinne Amar - invités : Eva Illouz Sociologue \n\nVous aimez ce pod",
       "date": "Fri, 15 May 2026",
       "thumbnail": "",
       "videoId": "",
@@ -212,35 +180,67 @@
       }
     },
     {
-      "title": "Forces et fragilités : Fragiles, les femmes ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/fragiles-les-femmes-7837017",
-      "description": "durée : 00:57:48  - Avec philosophie - par : Géraldine Muhlmann - Si des figures incarnent la puissance au féminin, Antigone, Pénélope, Médée, les femmes sont souvent perçues comme fragiles dans l’histoire et la société. Cette prétendue fragilité ne relèverait-elle pas surtout d’une construction culturelle ? Nous questionnons ce stéréotype, ses limites.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Isabelle Mons Enseignante en ",
-      "date": "Thu, 07 May 2026",
+      "title": "Philon d'Alexandrie vu par les chrétiens",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/philon-d-alexandrie-vu-par-les-chretiens-7389015",
+      "description": "durée : 00:58:31  - Avec philosophie - par : Géraldine Muhlmann - Les penseurs chrétiens ont fait grand cas de l’œuvre du philosophe Philon d’Alexandrie, qui reliait textes grecs et textes juifs. Mais quelle trace a laissée, dans le christianisme, cette période d’échanges culturels juifs et grecs déployés dans la ville antique d’Alexandrie ?  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Matthieu Cassin Chargé de recherche au CN",
+      "date": "Wed, 20 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 14,
       "scoreDetail": {
         "daily": 0,
-        "phil": 20,
-        "flaneur": 0,
+        "phil": 10,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 14
       }
     },
     {
-      "title": "Forces et fragilités : Le pouvoir et la peur d'être faible",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/le-pouvoir-et-la-peur-d-etre-faible-9240768",
-      "description": "durée : 00:57:45  - Avec philosophie - par : Géraldine Muhlmann - Le pouvoir fascine autant qu’il inquiète et il semble offrir la maîtrise, tout en révélant une possible fragilité. Et si nous envisagions le pouvoir avec tout ce qu'il implique de doutes, de vulnérabilité, serions-nous dans une représentation plus démocratique de la force politique ?   - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Marc Crépon Directeur de recherch",
-      "date": "Wed, 06 May 2026",
+      "title": "Pensées grecques et pensées juives autour de l'An 1 : Alexandrie au confluent de deux mondes",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/alexandrie-au-confluent-de-deux-mondes-6184145",
+      "description": "durée : 00:58:04  - Avec philosophie - par : Géraldine Muhlmann - Alexandrie s’est imposée comme carrefour intellectuel et culturel de l’Antiquité, devenant un lieu majeur de rencontre entre la culture grecque et les traditions orientales, notamment juives. On y observe un véritable échange d’idées, de langues et de savoirs entre les civilisations.   - réalisation : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Mireille Hadas Lebel Historienn",
+      "date": "Mon, 18 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 14,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Face aux mauvaises nouvelles : cultivez l’espoir avec le philosophe Ernst Bloch",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/face-aux-mauvaises-nouvelles-cultivez-l-espoir-avec-le-philosophe-ernst-bloch-6411672",
+      "description": "durée : 00:03:32  - Avec philosophie - par : Laurence Devillairs - Et si l'espoir était le seul remède à la fatalité ? Vous craignez qu'on vous accuse de vous voiler la face ? Le philosophe Ernst Bloch répond sans détour : l’espoir n’est ni naïveté ni chimère mais un rêve lucide qui s’oppose à la résignation.  - réalisation : Camille Renard, Virginie Le Duault, Anna Holveck \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 10
+      }
+    },
+    {
+      "title": "Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques",
+      "url": "https://www.radiofrance.fr/application-mobile-radio-france",
+      "description": "durée : 00:58:38  - Le Cours de l'histoire - par : Xavier Mauduit - Au 5ᵉ siècle avant notre ère, les tragédies grecques reprennent des thèmes de la mythologie et de l’épopée. Certains dramaturges, comme Sophocle, laissent des incertitudes dans leur intrigue. Du crime d’Œdipe au suicide d’Antigone, sommes-nous vraiment sûrs qu’ils ont eu lieu ?  - réalisation : Maïwenn Guiziou, Thomas Beau, Jeanne Delecroix, Jeanne Coppey, Raphaël Laloum, Chloé Rouillon, Sidonie Lebot - invités : Claire Paulian ",
+      "date": "Sat, 16 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
       }
     }
   ]

@@ -1,8 +1,24 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-05-16T12:10:21.410812+00:00",
+  "fetchedAt": "2026-05-22T07:39:16.369066+00:00",
   "items": [
+    {
+      "title": "Philosophie der Sucht - Vom Umgang mit schlechten Gewohnheiten",
+      "url": "https://www.deutschlandfunkkultur.de/philosophie-der-sucht-vom-umgang-mit-schlechten-gewohnheiten-100.html",
+      "description": "Vom klassischen Alkoholismus bis zur modernen Handysucht: Wann werden Gewohnheiten zum Problem, wann zur Sucht? Und wie viel davon steckt im Menschen, wie viel in den Substanzen? Fragen an den Philosophen und Psychologen Martin Wallroth aus Münster. Newmark, Catherine; Wallroth, Martin www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 17 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
+      }
+    },
     {
       "title": "Philosophie des Friedens - Pazifismus in der Zeitenwende",
       "url": "https://www.deutschlandfunkkultur.de/philosophie-des-friedens-pazifismus-in-der-zeitenwende-100.html",
@@ -136,22 +152,6 @@
       "url": "https://www.deutschlandfunkkultur.de/philosophie-des-opfers-zwischen-anerkennung-und-ueberhoehung-100.html",
       "description": "Ostern ist das Fest des Opfers, genauer: der Aufopferung. Heute dominiere dagegen eine Vorstellung des passiven Opfer-Seins, sagt die Philosophin Maria-Sibylla Lotter: ein Fortschritt für Gewalt-Opfer, aber Gift für die Wahrheitsfindung. Lotter, Maria-Sybilla; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 05 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Mehr Luft! - Philosophie des besonders Leichten",
-      "url": "https://www.deutschlandfunkkultur.de/mehr-luft-philosophie-des-besonders-leichten-100.html",
-      "description": "Von Geburt bis zum Tod atmen wir Luft, ohne sie könnten wir nicht leben – dennoch denken wir selten über sie nach. Abhilfe verschafft Chemiker und Philosoph Jens Soentgen: Er erzählt von der Luftforschung und der ganzheitlichen Erfahrung des Atmens. Newmark, Catherine; Soentgen, Jens www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 29 Mar 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-05-16T12:10:26.972878+00:00",
+  "fetchedAt": "2026-05-22T07:39:22.719368+00:00",
   "items": [
+    {
+      "title": "Monima Chadha on Responsibility Without Selves",
+      "url": "https://philosophybites.libsyn.com/monima-chadha-on-responsibility-without-selves",
+      "description": "Buddhist philosophy rejects the idea of the self. How then can there be any moral responsibility? Monima Chadha, Professor of Indian Philosophy at Oxford University, explains.    This episode was supported by the Ideas Workshop, part of the Open Society Foundations",
+      "date": "Mon, 18 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Carlos Alberto Sánchez on Mexican Philosophy",
       "url": "https://philosophybites.libsyn.com/carlos-alberto-snchez-on-mexican-philosophy",
@@ -64,22 +80,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Robert Talisse on Civic Solitude",
-      "url": "https://philosophybites.libsyn.com/robert-talisse-on-civic-solitude",
-      "description": "Democracy is about acting as a group, but, surprisingly, Robert Talisse argues that what it needs to function well is a degree of solitude for citizens. In-group and out-group dynamics mean that individuals become vulnerable to being pushed towards more extreme views than they would otherwise hold. There is, Talisse, maintains, a need to balance times of thinking together with times of thinking alone, at a distance from the fray.",
-      "date": "Wed, 30 Jul 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 25
       }
     },

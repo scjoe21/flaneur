@@ -1,30 +1,110 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-05-16T12:10:28.303223+00:00",
+  "fetchedAt": "2026-05-22T07:39:24.396325+00:00",
   "items": [
     {
-      "title": "A history of music and human creativity on earth",
-      "url": "https://bigthink.com/series/the-big-think-interview/history-of-music-spitzer/",
-      "description": "Why does a chord you’ve never heard before make you want to cry? Why do babies respond to rhythm before they’ve heard a single song? Why does the same part of your brain that processes mortal danger also process musical beauty?  \n The answers reach back 4 million years. Musicologist Michael Spitzer walks us through the natural origins of human music and creativity.  \n This video  A history of music and human creativity on earth  is featured on  Big Think .",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-Web-Spitzer-3.jpg?quality=85&w=640",
+      "title": "Why the tooth fairy is important for theoretical physics",
+      "url": "https://bigthink.com/starts-with-a-bang/tooth-fairy-important-theoretical-physics/",
+      "description": "In this Universe, our intuition isn’t always a good guide for how reality actually works. The deterministic laws that describe reality so well in our everyday experience no longer apply to a variety of quantum systems: from  radioactively decaying atoms  to determining which of two slits an electron passes through. The simple addition of velocities that works in our conventional experience, like throwing a baseball from a moving train, requires replacement by  a more complex rule  when you appro",
+      "date": "Wed, 20 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/CMBtoothfairy.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 49,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 10,
+        "total": 49
+      }
+    },
+    {
+      "title": "3 experts explain everything you need to know about loneliness",
+      "url": "https://bigthink.com/perception-box/3-experts-explain-loneliness/",
+      "description": "What does it really mean when you feel lonely? The answer depends on your perception.  \n In this video, Robert Waldinger, MD, Kasley Killam, MPH, and Ethan Kross, PhD explore why loneliness has become so common and how it affects both the mind and the body. They explain why friendships are disappearing, how loneliness changes our health, and why being alone doesn’t always have to be a bad thing. Instead of treating loneliness as a personal failure, they suggest seeing it as a signal that helps u",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/01/UC-BB-Loneliness-Web-A.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 40,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 45
+      }
+    },
+    {
+      "title": "The psychological reason complete freedom is a creative dead end",
+      "url": "https://bigthink.com/series/full-interview/creative-freedom-constraints/",
+      "description": "David Epstein, author of  Range  and  Inside the Box , walks through decades of research exploring why constraints, not freedom, are the engine behind creativity, focus, and breakthrough. \n This video  The psychological reason complete freedom is a creative dead end  is featured on  Big Think .",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-10.17.59-AM.png?quality=80&w=640",
       "videoId": "",
       "priority": 39,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
+        "daily": 25,
+        "phil": 10,
         "flaneur": 4,
         "novelty": 0,
         "total": 39
       }
     },
     {
-      "title": "The quantum realm, the cosmological realm, and the multiverse, in 69 minutes",
-      "url": "https://bigthink.com/series/full-interview/multiverse-oluseyi/",
-      "description": "Astrophysicist Hakeem Oluseyi takes us from the quantum realm to the cosmological and out to the multiverse, answering physics’ underexplored questions.  \n He digs through the actual nature of electrons, why your speed through space is always borrowed from your speed through time,and why the Andromeda Galaxy is visible to the naked eye, yet almost no one has looked for it. \n This video  The quantum realm, the cosmological realm, and the multiverse, in 69 minutes  is featured on  Big Think .",
-      "date": "Fri, 15 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/Screenshot-2026-05-14-at-3.43.32-PM.png?quality=80&w=640",
+      "title": "The hidden costs of withholding feedback",
+      "url": "https://bigthink.com/work-wise/the-hidden-costs-of-withholding-feedback/",
+      "description": "Lois knew by March. Her direct report, Derek, was missing deadlines consistently enough that she was quietly routing work around him. She told herself she was being patient, that he was still getting up to speed, and that she’d bring it up after the next project wrapped. That never happened. \n Lois has been a manager for five years, and nobody ever warned her about how hard it can be to tell her people the truth. She wants to be the good boss — the one people say good things about. Which means s",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/work-wise_feedback.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Astrology’s seductive nonsense — and why we still believe it",
+      "url": "https://bigthink.com/books/what-science-says-about-astrology/",
+      "description": "The predictions catalog for 2025, which I obtained from a popular astrology app for $11.25, forecasts that next winter I will lose myself in love and be swept away by the ecstatic feeling of being part of something bigger than myself. Notice that this may refer to a romantic entanglement, a new job, or joining an NGO, a political party, a cult, Christmas carolers, or a barn dance group — among an infinite number of other possibilities. Perhaps the publication of my book will attract an enthusias",
+      "date": "Tue, 19 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/science-astrology_excerpt.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
+      }
+    },
+    {
+      "title": "Ask Ethan: What do surveys of physicists actually reveal?",
+      "url": "https://bigthink.com/starts-with-a-bang/surveys-physicists-reveal/",
+      "description": "Out there in the Universe, there’s so much that we’ve learned and discovered. We know all about the normal matter present in the Universe: the full suite of Standard Model particles and how they interact all throughout cosmic history. We know about the laws that govern reality extremely well, including the fundamental forces and how they behave under a wide variety of cosmic and quantum conditions. We’ve reconstructed most of the history of the Universe in extraordinary detail, and from a variet",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/eso1042a.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 33,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 10,
+        "total": 33
+      }
+    },
+    {
+      "title": "The 6 triggers of aversion and how to defeat each one",
+      "url": "https://bigthink.com/series/the-big-think-interview/chris-bailey-goal-setting/",
+      "description": "Most goals at their core are just predictions, and humans are catastrophically bad at predicting the future. We overestimate our time, our resources, our motivation, and then treat the gap as a personal failure.  \n Chris Bailey argues the problem isn’t discipline; it’s the system itself. \n \n This video  The 6 triggers of aversion and how to defeat each one  is featured on  Big Think .",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-Web-Bailey.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
@@ -36,131 +116,51 @@
       }
     },
     {
-      "title": "Why humans need stories, according to neuroscience",
-      "url": "https://bigthink.com/perception-box/why-humans-need-stories/",
-      "description": "Stories do not just entertain us; they may be one of the main ways our brains rehearse experience, assign meaning, and turn scattered moments into something that feels like a self. We are constantly sorting actions, memories and emotion into a version of events that feels coherent enough to live inside. Neuroscientists Michael Gazzaniga, PhD and Dean Buonomano, PhD  draw on split-brain research to explain the left hemisphere’s “Interpreter”: the brain’s tendency to create explanations for behavi",
-      "date": "Thu, 14 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/UC-Brain-Briefs-Storytelling-Web-B.png?quality=80&w=640",
+      "title": "When “survival of the fittest” justified monopolies and the slow death of democracy",
+      "url": "https://bigthink.com/books/private-power-and-democracys-decline/",
+      "description": "Understanding the first Gilded Age (1870–1914) is essential for assessing the significant political impact of market power. This era featured a blatant anti-democratic worship of business power that contrasts starkly with the more democratic, egalitarian policies of the period from the 1930s to 1980. [It] was a time of extraordinary technological and economic progress when many 20th-century technologies were invented, spurring the creation of many new businesses in all sectors of the economy. Ac",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/private-powers_excerpt.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "American innovators are rewriting cement’s recipe — and its rulebook",
-      "url": "https://bigthink.com/sponsored/american-innovators-are-rewriting-cements-recipe/",
-      "description": "How do you clean up one of the world’s most essential building materials? ClearPath Action, a conservative clean energy nonprofit, is highlighting Brimstone’s effort to make cement with dramatically lower emissions — and the policy framework that could help scale it.  \n Instead of relying on the traditional limestone-based process, Brimstone uses calcium silicate rock found across the United States to produce cement with far less waste and lower emissions. The company’s goal is to make a materia",
-      "date": "Thu, 14 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/ClearPath_Cement_Marquee_Web.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "What physics gets wrong about the idea of “fundamental”",
-      "url": "https://bigthink.com/starts-with-a-bang/physicists-fundamental-wrong/",
-      "description": "If all you start with are the fundamental building blocks of nature — the elementary particles of the Standard Model and the forces exchanged between them — you can assemble everything in all of existence with nothing more than those raw ingredients. That’s the most common approach to physics:  the reductionist approach . Everything is simply the sum of its parts: no more and no less. These simple building blocks, when combined together in the proper fashion, can come to build up absolutely ever",
-      "date": "Thu, 14 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/07/Quantum-e1711492633221.jpeg?quality=85&w=640",
-      "videoId": "",
-      "priority": 20,
+      "priority": 23,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Kairos: The ancient Greek art of knowing when to act",
-      "url": "https://bigthink.com/mini-philosophy/kairos-the-ancient-greek-art-of-knowing-when-to-act/",
-      "description": "I’d be a poor sniper. For one, I’m not great at following orders. I’ve yet to wear a uniform I didn’t find suffocating. But, more importantly, I have the patience of an agitated toddler. I get bored waiting for my shower to get warm in the mornings. \n A sniper, though, is excellent at waiting. They must sit for hours in one spot, waiting for a single moment. Long hours passing in single-sighted fixation for that split second of lethal agency. \n In World War II, Lyudmila Pavlichenko — “Lady Death",
-      "date": "Thu, 14 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/kairos_compressed.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "The career ladder is broken. Here’s what replaces it.",
-      "url": "https://bigthink.com/business/the-career-ladder-is-broken-heres-what-replaces-it/",
-      "description": "For decades, the formula for career success was simple: go to school, get a job, climb the ladder. But the ladder is now collapsing before our eyes. And honestly, good riddance. The career ladder isn’t just an outdated metaphor — it actively blocks people from finding more fulfilling work.  \n Think about it this way: In school, there are clear markers for success. The goal is to get good grades. This continues into entry-level roles, where workers strive for raises and promotions. Tracked career",
-      "date": "Tue, 12 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/career-ladder-broken_compressed.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Pigs could end the transplant waiting list",
-      "url": "https://bigthink.com/science-tech/pigs-could-end-the-transplant-waiting-list/",
-      "description": "My phone rang at 2 a.m. I was mostly awake; I never really sleep on call. As I rubbed my eyes, I tried to focus on the voice coming through the phone. One of our coordinators was telling me about a kidney offer, and she launched right into it: “68-year-old donor, diabetes and high blood pressure, died of a stroke, kidney function normal, biopsy with some scarring and inflammation. Do you want to hear more?” \n We evaluate offers like this all the time. The transplant waiting list is so long, with",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/pigs-end-transplant-wait-list_compressed.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Ask Ethan: Is the Universe the same age everywhere?",
-      "url": "https://bigthink.com/starts-with-a-bang/universe-same-age-everywhere/",
-      "description": "From our perspective in the cosmos, we can look in any direction we like, as far as our instruments can see, and see objects not as they are today, but as they were long ago. All of the light that we collect, from anywhere in the entire Universe, only arrives at our eyes and in our instruments after journeying across the vast expanse of space that separates us, the observer, from the emitting source. For stars within our own galaxy, those distances are measured in light-years, up to tens-of-thou",
-      "date": "Fri, 15 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/dark_energy_expansion_of_universe_concept.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 8,
-      "scoreDetail": {
-        "daily": 0,
         "phil": 0,
         "flaneur": 8,
         "novelty": 0,
-        "total": 8
+        "total": 23
       }
     },
     {
-      "title": "Cosmic beacon unveiled inside nearby active galaxy by JWST",
-      "url": "https://bigthink.com/starts-with-a-bang/cosmic-beacon-active-galaxy-jwst/",
-      "description": "As far as galaxies go, our Milky Way is a relatively quiet place. Sure, there are star-forming regions that are active right now within our galactic plane, giving birth to thousands of new stars at once over timescales of a few million years, including relatively nearby in places like the Orion Nebula. But most of our galaxy isn’t forming stars, just a few select locations along our spiral arms. In terms of the overall star-formation rate, we form less than one solar mass’s worth of new stars wi",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/coverM77.jpg?quality=85&w=640",
+      "title": "The Dalí trick: The strange psychology of becoming who you want to be",
+      "url": "https://bigthink.com/mini-philosophy/the-dali-trick-the-strange-psychology-of-becoming-who-you-want-to-be/",
+      "description": "I met Ben at university. He lived in the corridor just above mine, and we got chatting in those golden days when you could just go up to anyone and start a friendship. \n “Hey mate, what’s your name? What are you here to study? Cool, cool. Fancy a drink?” \n Ben was an archetype. He was an artsy, romantic sort who wore loose knitwear and an Alibaba scarf he’d bought from a souk in Morocco.  Authentically Bedouin, handmad e. \n I’m not exactly unpretentious myself, and so Ben and I became friends fr",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/dali-trick_compressed.png?quality=80&w=640",
       "videoId": "",
-      "priority": 0,
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "Space wasn’t infinitely small when the hot Big Bang began",
+      "url": "https://bigthink.com/starts-with-a-bang/space-infinitely-small-hot-big-bang/",
+      "description": "Today, when we look out in any direction as far as the laws of physics allow us to see, the limits of what’s observable extend to truly astronomical distances. At the farthest reaches of our observable limits, the most ancient light we can see was emitted a whopping 13.8 billion years ago: corresponding to the hot Big Bang itself. Today, after traveling through our expanding Universe, that light finally arrives here on Earth, carrying information about objects that are presently located some 46.",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/09/sbb.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 0
+        "total": 4
       }
     }
   ]

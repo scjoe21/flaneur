@@ -1,13 +1,29 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-16T12:10:20.696976+00:00",
+  "fetchedAt": "2026-05-22T07:39:15.493348+00:00",
   "items": [
     {
-      "title": "À quoi résister aujourd'hui ? Et comment ? Découvrez le dialogue entre Salomé Saqué et Miguel Benasayag",
-      "url": "https://www.philomag.com/articles/quoi-resister-aujourdhui-et-comment-decouvrez-le-dialogue-entre-salome-saque-et-miguel",
+      "title": "Univers “Star Wars” : comment naît, se construit et survit un mouvement de rébellion ? Réponses dans la série “Andor”",
+      "url": "https://www.philomag.com/articles/univers-star-wars-comment-nait-se-construit-et-survit-un-mouvement-de-rebellion-reponses",
       "description": "",
-      "date": "Wed, 13 May 2026",
+      "date": "Wed, 20 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Comment se payer de mots",
+      "url": "https://www.philomag.com/articles/comment-se-payer-de-mots",
+      "description": "",
+      "date": "Wed, 20 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,42 +36,26 @@
       }
     },
     {
-      "title": "“Avicenne a inventé la distinction entre essence et existence” : entretien avec la philosophe Souâd Ayada",
-      "url": "https://www.philomag.com/articles/avicenne-invente-la-distinction-entre-essence-et-existence-entretien-avec-la-philosophe",
+      "title": "“L’enfant s’échine à faire dérailler nos agendas” Comment vivre la paternité ? L'expérience du philosophe Pierre Zaoui",
+      "url": "https://www.philomag.com/articles/lenfant-sechine-faire-derailler-nos-agendas-comment-vivre-la-paternite-lexperience-du",
       "description": "",
-      "date": "Thu, 14 May 2026",
+      "date": "Wed, 20 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     },
     {
-      "title": "“Philosophes résistants” : le nouveau hors-série de “Philosophie magazine” sort aujourd'hui !",
-      "url": "https://www.philomag.com/articles/philosophes-resistants-le-nouveau-hors-serie-de-philosophie-magazine-sort-aujourdhui",
+      "title": "Tribune anti-Bolloré au cinéma : la guerre des toiles",
+      "url": "https://www.philomag.com/articles/tribune-anti-bollore-au-cinema-la-guerre-des-toiles",
       "description": "",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Renoir et l’amour : foules sentimentales",
-      "url": "https://www.philomag.com/articles/renoir-et-lamour-foules-sentimentales",
-      "description": "",
-      "date": "Fri, 15 May 2026",
+      "date": "Mon, 18 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,58 +68,10 @@
       }
     },
     {
-      "title": "Marc-André Selosse : “Dès que le hantavirus a trouvé un hôte où il peut survivre, tout peut changer très vite”",
-      "url": "https://www.philomag.com/articles/marc-andre-selosse-des-que-le-hantavirus-trouve-un-hote-ou-il-peut-survivre-tout-peut",
+      "title": "Affaire Patrick Bruel : casser la voix de la romance",
+      "url": "https://www.philomag.com/articles/affaire-patrick-bruel-casser-la-voix-de-la-romance",
       "description": "",
-      "date": "Fri, 15 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Le “marxisme culturel” : anatomie d’une peur",
-      "url": "https://www.philomag.com/articles/le-marxisme-culturel-anatomie-dune-peur",
-      "description": "",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Hier comme aujourd'hui, le mal a-t-il un sens ? Les réponses de la série “Etty”",
-      "url": "https://www.philomag.com/articles/hier-comme-aujourdhui-le-mal-t-il-un-sens-les-reponses-de-la-serie-etty",
-      "description": "",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "“French Boomers” : “Les jeunes et les ‘boomers’ se jugent sans se regarder”",
-      "url": "https://www.philomag.com/articles/french-boomers-les-jeunes-et-les-boomers-se-jugent-sans-se-regarder",
-      "description": "",
-      "date": "Tue, 12 May 2026",
+      "date": "Tue, 19 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -132,10 +84,10 @@
       }
     },
     {
-      "title": "Jan Patočka, un veilleur anti-totalitaire dans la longue nuit du XXe siècle",
-      "url": "https://www.philomag.com/articles/jan-patocka-un-veilleur-anti-totalitaire-dans-la-longue-nuit-du-xxe-siecle",
+      "title": "“Démographie, et demain ?” : lisez un extrait de notre dernière parution",
+      "url": "https://www.philomag.com/articles/demographie-et-demain-lisez-un-extrait-de-notre-derniere-parution",
       "description": "",
-      "date": "Sat, 16 May 2026",
+      "date": "Fri, 22 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +100,10 @@
       }
     },
     {
-      "title": "“L’enracinement” chez Simone Weil, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/lenracinement-chez-simone-weil-cest-quoi",
+      "title": "Adieu les cons !",
+      "url": "https://www.philomag.com/articles/adieu-les-cons",
       "description": "",
-      "date": "Fri, 15 May 2026",
+      "date": "Thu, 21 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +116,10 @@
       }
     },
     {
-      "title": "De Hegel aux zones de combat : rencontre avec Luc, militaire et philosophe",
-      "url": "https://www.philomag.com/articles/de-hegel-aux-zones-de-combat-rencontre-avec-luc-militaire-et-philosophe",
+      "title": "Audrey Jougla : “La perfection des bébés nous oblige”",
+      "url": "https://www.philomag.com/articles/audrey-jougla-la-perfection-des-bebes-nous-oblige",
       "description": "",
-      "date": "Fri, 15 May 2026",
+      "date": "Thu, 21 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +132,10 @@
       }
     },
     {
-      "title": "Aurais-je été résistante… ou froussarde ? L’édito du nouveau hors-série “Philosophes résistants” par Anne-Sophie Moreau",
-      "url": "https://www.philomag.com/articles/aurais-je-ete-resistante-ou-froussarde-ledito-du-nouveau-hors-serie-philosophes",
+      "title": "Bac philo 2026 : déroulé, dates, sujets et coefficients",
+      "url": "https://www.philomag.com/articles/dates-coefficients-sujets-bac-philo-2026",
       "description": "",
-      "date": "Thu, 14 May 2026",
+      "date": "Tue, 27 May 2025",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +148,10 @@
       }
     },
     {
-      "title": "Arachnophobique, moi ?",
-      "url": "https://www.philomag.com/articles/arachnophobique-moi",
+      "title": "Sartre et Beauvoir, engagés ou “salauds” ?",
+      "url": "https://www.philomag.com/articles/sartre-et-beauvoir-engages-ou-salauds",
       "description": "",
-      "date": "Wed, 13 May 2026",
+      "date": "Thu, 21 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +164,10 @@
       }
     },
     {
-      "title": "Se leurrer, un art de vivre ?",
-      "url": "https://www.philomag.com/articles/se-leurrer-un-art-de-vivre",
+      "title": "Benoît Heilbrunn : “Gouverner ne consiste pas à satisfaire des préférences comme pour vendre un shampoing”",
+      "url": "https://www.philomag.com/articles/benoit-heilbrunn-gouverner-ne-consiste-pas-satisfaire-des-preferences-comme-pour-vendre",
       "description": "",
-      "date": "Tue, 12 May 2026",
+      "date": "Wed, 20 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +180,58 @@
       }
     },
     {
-      "title": "De quoi le hantavirus est-il le nom ?",
-      "url": "https://www.philomag.com/articles/de-quoi-le-hantavirus-est-il-le-nom",
+      "title": "“La Vénus électrique” : Marivaux à Montmartre",
+      "url": "https://www.philomag.com/articles/la-venus-electrique-marivaux-montmartre",
       "description": "",
-      "date": "Tue, 12 May 2026",
+      "date": "Tue, 19 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump et le veau d’or",
+      "url": "https://www.philomag.com/articles/trump-et-le-veau-dor",
+      "description": "",
+      "date": "Tue, 19 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "En quoi la résistance se distingue-t-elle de l’opposition, de la dissidence… ou de la simple désobéissance ?",
+      "url": "https://www.philomag.com/articles/en-quoi-la-resistance-se-distingue-t-elle-de-lopposition-de-la-dissidence-ou-de-la",
+      "description": "",
+      "date": "Tue, 19 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "François Ruffin : peut-on être de gauche et refuser l’immigration ?",
+      "url": "https://www.philomag.com/articles/francois-ruffin-peut-etre-de-gauche-et-refuser-limmigration",
+      "description": "",
+      "date": "Mon, 18 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
