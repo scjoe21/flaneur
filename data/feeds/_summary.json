@@ -1,15 +1,10 @@
 {
-  "lastRun": "2026-05-23T00:53:00.212011+00:00",
+  "lastRun": "2026-05-23T04:06:53.398217+00:00",
   "ok": [
-    "monsieur-phi",
-    "le-precepteur",
     "france-culture-philo",
     "philosophie-magazine",
-    "gert-scobel",
     "deutschlandfunk-philosophie",
     "hohe-luft",
-    "rick-dufer",
-    "tlon",
     "rai-radio3-filosofia",
     "philosophy-now",
     "overthink",
@@ -19,7 +14,13 @@
     "big-think",
     "the-atlantic-ideas"
   ],
-  "fail": [],
+  "fail": [
+    "monsieur-phi",
+    "le-precepteur",
+    "gert-scobel",
+    "rick-dufer",
+    "tlon"
+  ],
   "total": 17,
-  "fetched": 17
+  "fetched": 12
 }

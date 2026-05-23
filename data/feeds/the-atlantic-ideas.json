@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-05-23T00:53:00.211547+00:00",
+  "fetchedAt": "2026-05-23T04:06:53.397778+00:00",
   "items": [
     {
       "title": "Why Does Donald Trump Refuse to Defend America?",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "The New Blood Libel",
-      "url": "https://www.theatlantic.com/ideas/2026/05/synagogue-terrorism-vandalism-antisemitism/687241/?utm_source=feed",
-      "description": "",
-      "date": "2026-05-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
       "title": "What the 18th Century Can Teach the 21st",
       "url": "https://www.theatlantic.com/ideas/2026/05/18th-century-britain-reform/687221/?utm_source=feed",
       "description": "",
@@ -132,10 +116,10 @@
       }
     },
     {
-      "title": "The Challenge for American Jews",
-      "url": "https://www.theatlantic.com/ideas/2026/05/american-jews-political-identity-israel/687220/?utm_source=feed",
+      "title": "The New Blood Libel",
+      "url": "https://www.theatlantic.com/ideas/2026/05/synagogue-terrorism-vandalism-antisemitism/687241/?utm_source=feed",
       "description": "",
-      "date": "2026-05-20",
+      "date": "2026-05-21",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -150,6 +134,22 @@
     {
       "title": "My Son’s Hockey Team and the Crisis of American Resentment",
       "url": "https://www.theatlantic.com/ideas/2026/05/children-private-equity-sports/687222/?utm_source=feed",
+      "description": "",
+      "date": "2026-05-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Challenge for American Jews",
+      "url": "https://www.theatlantic.com/ideas/2026/05/american-jews-political-identity-israel/687220/?utm_source=feed",
       "description": "",
       "date": "2026-05-20",
       "thumbnail": "",

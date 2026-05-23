@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-23T00:52:52.073702+00:00",
+  "fetchedAt": "2026-05-23T04:06:44.531468+00:00",
   "items": [
     {
       "title": "“Le Genre idéal” : comment et pourquoi catégoriser les œuvres d’art ?",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Ni le temps de la nature, ni celui des horloges… Qu’est-ce que “mon” temps ?",
+      "url": "https://www.philomag.com/articles/ni-le-temps-de-la-nature-ni-celui-des-horloges-quest-ce-que-mon-temps",
+      "description": "",
+      "date": "Sat, 23 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Trump et le veau d’or",
       "url": "https://www.philomag.com/articles/trump-et-le-veau-dor",
-      "description": "",
-      "date": "Tue, 19 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "En quoi la résistance se distingue-t-elle de l’opposition, de la dissidence… ou de la simple désobéissance ?",
-      "url": "https://www.philomag.com/articles/en-quoi-la-resistance-se-distingue-t-elle-de-lopposition-de-la-dissidence-ou-de-la",
       "description": "",
       "date": "Tue, 19 May 2026",
       "thumbnail": "",
