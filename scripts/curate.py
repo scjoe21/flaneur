@@ -210,34 +210,59 @@ def build_user_prompt(day: str, items: list, recent_tags: list = None) -> str:
 }}"""
 
 
+_VALID_ESCAPES = set('"\\/bfnrtu')
+
+
 def _fix_string_escapes(text: str) -> str:
-    """JSON 문자열 값 내부의 리터럴 제어문자만 이스케이프. 구조적 줄바꿈은 건드리지 않음."""
+    """JSON 문자열 값 내부의 리터럴 제어문자/잘못된 backslash escape를 정리.
+    - 문자열 내부 리터럴 줄바꿈/탭은 \\n/\\r/\\t로 변환
+    - "\\X" 형태에서 X가 유효한 escape 문자가 아니면 backslash를 \\\\로 이스케이프
+    구조적 줄바꿈은 건드리지 않는다.
+    """
     result = []
     in_string = False
-    skip_next = False
-    for ch in text:
-        if skip_next:
+    i = 0
+    n = len(text)
+    while i < n:
+        ch = text[i]
+        if not in_string:
+            if ch == '"':
+                in_string = True
             result.append(ch)
-            skip_next = False
-        elif ch == '\\' and in_string:
+            i += 1
+            continue
+        # in_string
+        if ch == '"':
+            in_string = False
             result.append(ch)
-            skip_next = True
-        elif ch == '"':
-            in_string = not in_string
-            result.append(ch)
-        elif in_string and ch == '\n':
+            i += 1
+        elif ch == '\\':
+            nxt = text[i + 1] if i + 1 < n else ''
+            if nxt in _VALID_ESCAPES:
+                result.append(ch)
+                result.append(nxt)
+                i += 2
+            else:
+                # 잘못된 escape (\C, \', \k 등): backslash를 두 개로 이스케이프
+                result.append('\\\\')
+                i += 1
+        elif ch == '\n':
             result.append('\\n')
-        elif in_string and ch == '\r':
+            i += 1
+        elif ch == '\r':
             result.append('\\r')
-        elif in_string and ch == '\t':
+            i += 1
+        elif ch == '\t':
             result.append('\\t')
+            i += 1
         else:
             result.append(ch)
+            i += 1
     return ''.join(result)
 
 
 def extract_json(text: str) -> dict:
-    """응답에서 JSON 블록 추출. 파싱 실패 시 문자열 내부 제어문자만 정리 후 재시도."""
+    """응답에서 JSON 블록 추출. 파싱 실패 시 문자열 내부 제어문자/잘못된 escape를 정리 후 재시도."""
     text = text.strip()
     if "```json" in text:
         text = text.split("```json")[1].split("```")[0].strip()
@@ -358,14 +383,24 @@ def main():
     week_id, week_label = get_week_info()
     print(f"주차: {week_id} ({week_label})\n")
 
-    # 멱등성: 이미 같은 주차가 발행되어 있으면 스킵 (FORCE=1로 우회)
-    if not os.environ.get("FORCE"):
+    # 멱등성: 같은 주차가 이미 발행되어 있으면, 빠진 요일만 보충 큐레이션한다.
+    # (FORCE=1이면 전부 재생성. 모든 요일 완비 + FORCE 없음이면 스킵)
+    existing_items = []
+    days_to_run = list(DAYS)
+    force = bool(os.environ.get("FORCE"))
+    if not force:
         try:
             with open(NEWS_PATH, encoding="utf-8") as f:
                 existing = json.load(f)
             if existing.get("week") == week_id:
-                print(f"이미 {week_id} 발행됨 — 건너뜁니다. (재생성하려면 FORCE=1)")
-                return
+                existing_items = existing.get("items", [])
+                existing_days = {it.get("day") for it in existing_items}
+                missing = [d for d in DAYS if d not in existing_days]
+                if not missing:
+                    print(f"이미 {week_id} 모든 요일 발행됨 — 건너뜁니다. (재생성하려면 FORCE=1)")
+                    return
+                days_to_run = missing
+                print(f"이미 {week_id} 일부 발행됨. 빠진 요일 보충: {missing}\n")
         except (FileNotFoundError, json.JSONDecodeError):
             pass
 
@@ -377,9 +412,9 @@ def main():
     if recent_tags:
         print(f"최근 8주 발행 태그 {len(recent_tags)}개 로드 (주제 중복 방지)\n")
 
-    all_items = []
+    new_items = []
 
-    for day in DAYS:
+    for day in days_to_run:
         print(f"[{DAY_LABELS[day]}] 피드 로딩...", flush=True)
         day_items = load_feeds_for_day(sources, day, published_urls)
 
@@ -393,15 +428,24 @@ def main():
             prefix  = DAY_PREFIX[day]
             for i, item in enumerate(curated, start=1):
                 item["id"] = f"{prefix}-{i:02d}"
-            all_items.extend(curated)
+            new_items.extend(curated)
             titles = [c["title"] for c in curated]
             print(f"  → 선택: {titles}\n")
         except Exception as e:
             print(f"  → 큐레이션 실패: {e}\n")
 
-    if not all_items:
+    if not new_items:
         print("큐레이션된 항목이 없습니다. 기존 news.json을 유지합니다.")
         sys.exit(1)
+
+    # 보충 모드면 기존 + 신규 병합 후 요일 순으로 정렬, 전체 모드면 신규만
+    if existing_items and not force:
+        day_order = {d: i for i, d in enumerate(DAYS)}
+        merged = existing_items + new_items
+        merged.sort(key=lambda it: day_order.get(it.get("day"), 99))
+        all_items = merged
+    else:
+        all_items = new_items
 
     news = {
         "week":       week_id,
