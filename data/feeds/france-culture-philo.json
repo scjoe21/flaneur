@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-05-22T07:39:15.035940+00:00",
+  "fetchedAt": "2026-05-23T00:38:55.399915+00:00",
   "items": [
     {
       "title": "Comment partager les richesses du monde ?",
@@ -52,23 +52,7 @@
       }
     },
     {
-      "title": "Kierkegaard, le risque d'être soi : Le quotidien : absurde ou merveilleux ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/le-quotidien-absurde-ou-merveilleux-4906180",
-      "description": "durée : 00:58:07  - Avec philosophie - par : Géraldine Muhlmann - Pour Kierkegaard, le quotidien n’est jamais banal : il peut sembler absurde, s'il est vécu mécaniquement, mais il devient merveilleux, dès lors que l’individu choisit de vivre pleinement la répétition, soucieux de vérité intérieure et de sens authentique à son existence.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Hélène Politis , Jacques Message Professeur de ",
-      "date": "Tue, 12 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 25,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
-      }
-    },
-    {
-      "title": "Du polythéisme au monothéisme : qu'est-ce que cela change pour la philosophie ?",
+      "title": "Pensées grecques et pensées juives autour de l'An 1 3 : Du polythéisme au monothéisme : qu'est-ce que cela change pour la philosophie ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/du-polytheisme-au-monotheisme-qu-est-ce-que-cela-change-pour-la-philosophie-8071821",
       "description": "durée : 00:57:29  - Avec philosophie - par : Géraldine Muhlmann - Depuis Platon, la philosophie grecque laissait déjà entrevoir une tendance vers une forme de monothéisme. Dès lors, comment la philosophie a-t-elle évolué en passant de la Grèce polythéiste à l’Occident chrétien ?  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Carlos Lévy Professeur émérite de littérature et philosophie romaines à l'université de Paris Sorbonne, C",
       "date": "Thu, 21 May 2026",
@@ -100,7 +84,7 @@
       }
     },
     {
-      "title": "Philon d'Alexandrie, philosophe grec et juif",
+      "title": "Pensées grecques et pensées juives autour de l'An 1 1 : Philon d'Alexandrie, philosophe grec et juif",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/philon-d-alexandrie-juif-grec-et-philsophe-8248984",
       "description": "durée : 00:58:21  - Avec philosophie - par : Géraldine Muhlmann - Grec et juif, Philon d'Alexandrie ne ressentait-il aucune tension entre ces deux mondes culturels ? Comment s’accommodait-il de l’exigence monothéiste juive, tandis qu’il était si fidèle à la pensée grecque ? Sa confiance révèle-t-elle certaines simplifications, certains évitements ?\n  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Carlos Lévy Professeur émérite de",
       "date": "Tue, 19 May 2026",
@@ -180,7 +164,23 @@
       }
     },
     {
-      "title": "Philon d'Alexandrie vu par les chrétiens",
+      "title": "Christine Bard, historienne : \"Le féminisme de Madeleine Pelletier : la défense de la virilisation des femmes\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/christine-bard-historienne-a-propos-de-memoires-d-une-feministe-integrale-de-madeleine-pelletier-2879450",
+      "description": "durée : 00:58:45  - Avec philosophie - par : Géraldine Mosna-Savoye - Médecin, psychiatre et militante féministe française du début du XXᵉ siècle, Madeleine Pelletier retrace dans un recueil autobiographique, \"Mémoires d’une féministe intégrale\", son combat pour l’égalité totale entre hommes et femmes. L'historienne Christine Bard lui rend hommage.  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Christine Bard Professeure à l'Université d'Angers, spécialiste de l’his",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Pensées grecques et pensées juives autour de l'An 1 2 : Philon d'Alexandrie vu par les chrétiens",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/philon-d-alexandrie-vu-par-les-chretiens-7389015",
       "description": "durée : 00:58:31  - Avec philosophie - par : Géraldine Muhlmann - Les penseurs chrétiens ont fait grand cas de l’œuvre du philosophe Philon d’Alexandrie, qui reliait textes grecs et textes juifs. Mais quelle trace a laissée, dans le christianisme, cette période d’échanges culturels juifs et grecs déployés dans la ville antique d’Alexandrie ?  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Matthieu Cassin Chargé de recherche au CN",
       "date": "Wed, 20 May 2026",
@@ -212,7 +212,7 @@
       }
     },
     {
-      "title": "Face aux mauvaises nouvelles : cultivez l’espoir avec le philosophe Ernst Bloch",
+      "title": "Marre des mauvaises nouvelles : cultivez l’espoir avec le philosophe Ernst Bloch",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/face-aux-mauvaises-nouvelles-cultivez-l-espoir-avec-le-philosophe-ernst-bloch-6411672",
       "description": "durée : 00:03:32  - Avec philosophie - par : Laurence Devillairs - Et si l'espoir était le seul remède à la fatalité ? Vous craignez qu'on vous accuse de vous voiler la face ? Le philosophe Ernst Bloch répond sans détour : l’espoir n’est ni naïveté ni chimère mais un rêve lucide qui s’oppose à la résignation.  - réalisation : Camille Renard, Virginie Le Duault, Anna Holveck \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Fri, 22 May 2026",

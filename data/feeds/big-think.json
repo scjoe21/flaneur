@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-05-22T07:39:24.396325+00:00",
+  "fetchedAt": "2026-05-23T00:39:06.237822+00:00",
   "items": [
     {
       "title": "Why the tooth fairy is important for theoretical physics",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "Astrology’s seductive nonsense — and why we still believe it",
-      "url": "https://bigthink.com/books/what-science-says-about-astrology/",
-      "description": "The predictions catalog for 2025, which I obtained from a popular astrology app for $11.25, forecasts that next winter I will lose myself in love and be swept away by the ecstatic feeling of being part of something bigger than myself. Notice that this may refer to a romantic entanglement, a new job, or joining an NGO, a political party, a cult, Christmas carolers, or a barn dance group — among an infinite number of other possibilities. Perhaps the publication of my book will attract an enthusias",
-      "date": "Tue, 19 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/science-astrology_excerpt.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
-      }
-    },
-    {
       "title": "Ask Ethan: What do surveys of physicists actually reveal?",
       "url": "https://bigthink.com/starts-with-a-bang/surveys-physicists-reveal/",
       "description": "Out there in the Universe, there’s so much that we’ve learned and discovered. We know all about the normal matter present in the Universe: the full suite of Standard Model particles and how they interact all throughout cosmic history. We know about the laws that govern reality extremely well, including the fundamental forces and how they behave under a wide variety of cosmic and quantum conditions. We’ve reconstructed most of the history of the Universe in extraordinary detail, and from a variet",
@@ -105,6 +89,22 @@
       "description": "Most goals at their core are just predictions, and humans are catastrophically bad at predicting the future. We overestimate our time, our resources, our motivation, and then treat the gap as a personal failure.  \n Chris Bailey argues the problem isn’t discipline; it’s the system itself. \n \n This video  The 6 triggers of aversion and how to defeat each one  is featured on  Big Think .",
       "date": "Thu, 21 May 2026",
       "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-Web-Bailey.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "The quantum realm, the cosmological realm, and the multiverse, in 69 minutes",
+      "url": "https://bigthink.com/series/full-interview/multiverse-oluseyi/",
+      "description": "Astrophysicist Hakeem Oluseyi takes us from the quantum realm to the cosmological and out to the multiverse, answering physics’ underexplored questions.  \n He digs through the actual nature of electrons, why your speed through space is always borrowed from your speed through time,and why the Andromeda Galaxy is visible to the naked eye, yet almost no one has looked for it. \n \n This video  The quantum realm, the cosmological realm, and the multiverse, in 69 minutes  is featured on  Big Think .",
+      "date": "Thu, 21 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-Web-Oluseyi-.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {

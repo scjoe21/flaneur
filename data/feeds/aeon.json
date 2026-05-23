@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-05-22T07:39:19.451238+00:00",
+  "fetchedAt": "2026-05-23T00:39:01.250279+00:00",
   "items": [
     {
       "title": "How death came to Earth",
@@ -180,19 +180,19 @@
       }
     },
     {
-      "title": "Nature’s hardware store: building the future with biology",
-      "url": "https://aeon.co/videos/fungi-homes-and-more-ways-biology-could-sustain-life-beyond-earth",
-      "description": "What if the tools for sustainable space exploration could be found in cellular life on Earth? A NASA astrobiologist explains - by Aeon Video Watch on Aeon",
-      "date": "Thu, 07 May 2026",
+      "title": "Being small",
+      "url": "https://aeon.co/essays/the-power-imbalance-between-parent-and-child-leaves-a-trace",
+      "description": "Nobody quite recovers from being a child: the asymmetry of power between parents and children always leaves a trace - by Tom Wooldridge Read on Aeon",
+      "date": "Fri, 22 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {

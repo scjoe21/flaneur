@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-22T07:39:15.493348+00:00",
+  "fetchedAt": "2026-05-23T00:38:55.997766+00:00",
   "items": [
+    {
+      "title": "“Le Genre idéal” : comment et pourquoi catégoriser les œuvres d’art ?",
+      "url": "https://www.philomag.com/articles/le-genre-ideal-comment-et-pourquoi-categoriser-les-oeuvres-dart",
+      "description": "",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "Univers “Star Wars” : comment naît, se construit et survit un mouvement de rébellion ? Réponses dans la série “Andor”",
       "url": "https://www.philomag.com/articles/univers-star-wars-comment-nait-se-construit-et-survit-un-mouvement-de-rebellion-reponses",
@@ -52,22 +68,6 @@
       }
     },
     {
-      "title": "Tribune anti-Bolloré au cinéma : la guerre des toiles",
-      "url": "https://www.philomag.com/articles/tribune-anti-bollore-au-cinema-la-guerre-des-toiles",
-      "description": "",
-      "date": "Mon, 18 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Affaire Patrick Bruel : casser la voix de la romance",
       "url": "https://www.philomag.com/articles/affaire-patrick-bruel-casser-la-voix-de-la-romance",
       "description": "",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“Anhédonie Ozempic” : l’absence de faim nous prive-t-elle du goût de la vie ?",
+      "url": "https://www.philomag.com/articles/anhedonie-ozempic-labsence-de-faim-nous-prive-t-elle-du-gout-de-la-vie",
+      "description": "",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/en-quoi-la-resistance-se-distingue-t-elle-de-lopposition-de-la-dissidence-ou-de-la",
       "description": "",
       "date": "Tue, 19 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "François Ruffin : peut-on être de gauche et refuser l’immigration ?",
-      "url": "https://www.philomag.com/articles/francois-ruffin-peut-etre-de-gauche-et-refuser-limmigration",
-      "description": "",
-      "date": "Mon, 18 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
