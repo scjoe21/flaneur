@@ -1,166 +1,166 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-05-23T06:21:01.821427+00:00",
+  "fetchedAt": "2026-05-29T07:50:39.690113+00:00",
   "items": [
     {
-      "title": "Why the tooth fairy is important for theoretical physics",
-      "url": "https://bigthink.com/starts-with-a-bang/tooth-fairy-important-theoretical-physics/",
-      "description": "In this Universe, our intuition isn’t always a good guide for how reality actually works. The deterministic laws that describe reality so well in our everyday experience no longer apply to a variety of quantum systems: from  radioactively decaying atoms  to determining which of two slits an electron passes through. The simple addition of velocities that works in our conventional experience, like throwing a baseball from a moving train, requires replacement by  a more complex rule  when you appro",
-      "date": "Wed, 20 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/CMBtoothfairy.jpg?quality=85&w=640",
+      "title": "Why your brain loves games — and how to use that to your advantage",
+      "url": "https://bigthink.com/mind-behavior/why-your-brain-loves-games-and-how-to-use-that-to-your-advantage/",
+      "description": "I remember sitting in class as a kid, struggling to pay attention while my teacher explained fractions. But at home, I could play  Age of Empires  for five hours straight — managing civilizations, balancing economies, and fighting wars on multiple fronts. \n The games I played demanded serious thinking, planning, and problem-solving. And yet they never felt like work. The cognitive effort was real, but the motivation almost seemed to come for free. So what was different? \n Games are remarkably go",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/lovesgames-1.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 49,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 49
-      }
-    },
-    {
-      "title": "3 experts explain everything you need to know about loneliness",
-      "url": "https://bigthink.com/perception-box/3-experts-explain-loneliness/",
-      "description": "What does it really mean when you feel lonely? The answer depends on your perception.  \n In this video, Robert Waldinger, MD, Kasley Killam, MPH, and Ethan Kross, PhD explore why loneliness has become so common and how it affects both the mind and the body. They explain why friendships are disappearing, how loneliness changes our health, and why being alone doesn’t always have to be a bad thing. Instead of treating loneliness as a personal failure, they suggest seeing it as a signal that helps u",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/01/UC-BB-Loneliness-Web-A.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 45,
+      "priority": 50,
       "scoreDetail": {
         "daily": 40,
-        "phil": 0,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 45
+        "novelty": 0,
+        "total": 50
       }
     },
     {
-      "title": "The psychological reason complete freedom is a creative dead end",
-      "url": "https://bigthink.com/series/full-interview/creative-freedom-constraints/",
-      "description": "David Epstein, author of  Range  and  Inside the Box , walks through decades of research exploring why constraints, not freedom, are the engine behind creativity, focus, and breakthrough. \n This video  The psychological reason complete freedom is a creative dead end  is featured on  Big Think .",
-      "date": "Fri, 22 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-10.17.59-AM.png?quality=80&w=640",
+      "title": "The hidden cost of taking yourself too seriously",
+      "url": "https://bigthink.com/mind-behavior/the-hidden-cost-of-taking-yourself-too-seriously/",
+      "description": "I was in St Albans, England, walking through the sunny park leading up to the cathedral, when I saw a small boy rolling down the hill in the grass. I felt something unexpected: jealousy. I wish that were me. Followed immediately by a second thought: Why couldn’t it be? \n I could, in theory, roll down that hill. But at what expense? Dirtying my clothes? Looking like a lunatic? In about three seconds, the case was closed. I kept walking. \n What unsettled me wasn’t that I didn’t do it but rather ho",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/playwoman.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 39,
+      "priority": 32,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 12,
+        "novelty": 0,
+        "total": 32
+      }
+    },
+    {
+      "title": "Ask Ethan: Why does our Universe require CP-violation?",
+      "url": "https://bigthink.com/starts-with-a-bang/universe-require-cp-violation/",
+      "description": "Here in our Universe, one great mystery is how, if matter and antimatter can only be created or destroyed in equal-and-opposite amounts, our Universe came to be dominated by normal (regular) matter, with barely a trace of antimatter present. Sure, dark energy (68%) and dark matter (27%) might make up the majority of the Universe, but the rest of it is made up of particles from the Standard Model: quarks, gluons, leptons, and photons. Of that 5%, nearly all of it (4.9%) is regular matter, made of",
+      "date": "Fri, 29 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/06/k-matter-1000px-e1780010052340.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 25,
       "scoreDetail": {
         "daily": 25,
-        "phil": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "The Power of Play",
+      "url": "https://bigthink.com/collections/the-power-of-play/",
+      "description": "In this monthly issue, we take a closer look at how games, imagination, and creative experimentation shape identity and culture.",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/play-issue-cover-animation-16x9-1.jpeg?quality=85&w=640",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Why play brings us pleasure",
+      "url": "https://bigthink.com/mind-behavior/why-play-brings-us-pleasure/",
+      "description": "Since the days of ancient Greece, thinkers have grappled with the mystery of why humans and other animals play. Survival is hard, so why waste energy? Over the years, theories have ranged from Plato’s simple picture of play as skill rehearsal to ever more  esoteric ideas  about surplus energy, Freudian catharsis, and vestigial “primitive instincts.” \n These days, developmental psychologists mostly see play as a way of gathering information about the world and our place in it. But there’s somethi",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/Play_Pleasure_07-optimized.gif?w=640",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "How playgrounds reinvented childhood",
+      "url": "https://bigthink.com/history-society/how-playgrounds-reinvented-childhood/",
+      "description": "Fictional though they are, Tom Sawyer and Huckleberry Finn exemplify a lost truth about American kids up until the 1880s: Childhood was  wild .  \n Like millions of their real-life contemporaries, the protagonists of Mark Twain’s comic masterpieces roamed unsupervised across town and country, looking for fun and adventure, often finding trouble and danger. Then came the Progressive Era and one of modern America’s defining inventions: the playground.  \n Playgrounds helped transform childhood from ",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/playground.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "To access your creativity, start playing",
+      "url": "https://bigthink.com/books/to-access-your-creativity-start-playing/",
+      "description": "To live a fulfilling life, we need to have a grasp on our personal values, what lights us up as individuals, and how to connect to ourselves and our communities. Exploring my individual creative expression is my personal favorite way to do all of that. But  so  many people have buried their creative expression deep inside of them. Did you cringe when you read the term  creative expression ? Twenty-five-year-old me would’ve rolled her eyes at that woo-woo, arty term. But 35-year-old me holds that",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/prioritize-play-art.gif?w=640",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Animal play may be about more than survival",
+      "url": "https://bigthink.com/science-tech/animal-play-may-be-about-more-than-survival/",
+      "description": "We tend to think of animals as survival machines, their every action designed to help them avoid threats, fulfill needs, and find mates. \n But what are we to make of a crow that repeatedly places a discarded plastic lid at the top of a snowy roof and then  rides it down the pitch  like a snowboard? Or orcas that  drape dead salmon across their foreheads  — a strange behavior that spreads to neighboring pods before disappearing entirely? What evolutionary purpose could these behaviors possibly se",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/animal-play.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
-        "total": 39
+        "total": 19
       }
     },
     {
-      "title": "The hidden costs of withholding feedback",
-      "url": "https://bigthink.com/work-wise/the-hidden-costs-of-withholding-feedback/",
-      "description": "Lois knew by March. Her direct report, Derek, was missing deadlines consistently enough that she was quietly routing work around him. She told herself she was being patient, that he was still getting up to speed, and that she’d bring it up after the next project wrapped. That never happened. \n Lois has been a manager for five years, and nobody ever warned her about how hard it can be to tell her people the truth. She wants to be the good boss — the one people say good things about. Which means s",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/work-wise_feedback.png?quality=80&w=640",
+      "title": "The 250-year-old company that survived by refusing to lay people off",
+      "url": "https://bigthink.com/the-long-game/the-250-year-old-company-that-survived-by-refusing-to-lay-people-off/",
+      "description": "What happens when you lose all of your customers at once? \n In 1978, that’s exactly what happened to Garbellotto S.p.A., one of Italy’s oldest and most celebrated barrel-makers. Founded in 1775 and still run by the same family today, it had once supplied barrels to the House of Habsburg. By the 20th century, the company’s vessels aged wine and spirits for some of Italy’s most storied producers, from Biondi Santi to Vecchia Romagna. Their craftsmanship had earned them a reputation in the industry",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/artisanal-intelligence_compressed.png?quality=80&w=640",
       "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Ask Ethan: What do surveys of physicists actually reveal?",
-      "url": "https://bigthink.com/starts-with-a-bang/surveys-physicists-reveal/",
-      "description": "Out there in the Universe, there’s so much that we’ve learned and discovered. We know all about the normal matter present in the Universe: the full suite of Standard Model particles and how they interact all throughout cosmic history. We know about the laws that govern reality extremely well, including the fundamental forces and how they behave under a wide variety of cosmic and quantum conditions. We’ve reconstructed most of the history of the Universe in extraordinary detail, and from a variet",
-      "date": "Fri, 22 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/eso1042a.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 33,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 10,
-        "total": 33
-      }
-    },
-    {
-      "title": "The 6 triggers of aversion and how to defeat each one",
-      "url": "https://bigthink.com/series/the-big-think-interview/chris-bailey-goal-setting/",
-      "description": "Most goals at their core are just predictions, and humans are catastrophically bad at predicting the future. We overestimate our time, our resources, our motivation, and then treat the gap as a personal failure.  \n Chris Bailey argues the problem isn’t discipline; it’s the system itself. \n \n This video  The 6 triggers of aversion and how to defeat each one  is featured on  Big Think .",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-Web-Bailey.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "The quantum realm, the cosmological realm, and the multiverse, in 69 minutes",
-      "url": "https://bigthink.com/series/full-interview/multiverse-oluseyi/",
-      "description": "Astrophysicist Hakeem Oluseyi takes us from the quantum realm to the cosmological and out to the multiverse, answering physics’ underexplored questions.  \n He digs through the actual nature of electrons, why your speed through space is always borrowed from your speed through time,and why the Andromeda Galaxy is visible to the naked eye, yet almost no one has looked for it. \n \n This video  The quantum realm, the cosmological realm, and the multiverse, in 69 minutes  is featured on  Big Think .",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-Web-Oluseyi-.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "When “survival of the fittest” justified monopolies and the slow death of democracy",
-      "url": "https://bigthink.com/books/private-power-and-democracys-decline/",
-      "description": "Understanding the first Gilded Age (1870–1914) is essential for assessing the significant political impact of market power. This era featured a blatant anti-democratic worship of business power that contrasts starkly with the more democratic, egalitarian policies of the period from the 1930s to 1980. [It] was a time of extraordinary technological and economic progress when many 20th-century technologies were invented, spurring the creation of many new businesses in all sectors of the economy. Ac",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/private-powers_excerpt.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 23,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 23
-      }
-    },
-    {
-      "title": "The Dalí trick: The strange psychology of becoming who you want to be",
-      "url": "https://bigthink.com/mini-philosophy/the-dali-trick-the-strange-psychology-of-becoming-who-you-want-to-be/",
-      "description": "I met Ben at university. He lived in the corridor just above mine, and we got chatting in those golden days when you could just go up to anyone and start a friendship. \n “Hey mate, what’s your name? What are you here to study? Cool, cool. Fancy a drink?” \n Ben was an archetype. He was an artsy, romantic sort who wore loose knitwear and an Alibaba scarf he’d bought from a souk in Morocco.  Authentically Bedouin, handmad e. \n I’m not exactly unpretentious myself, and so Ben and I became friends fr",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/dali-trick_compressed.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
-      "title": "Space wasn’t infinitely small when the hot Big Bang began",
-      "url": "https://bigthink.com/starts-with-a-bang/space-infinitely-small-hot-big-bang/",
-      "description": "Today, when we look out in any direction as far as the laws of physics allow us to see, the limits of what’s observable extend to truly astronomical distances. At the farthest reaches of our observable limits, the most ancient light we can see was emitted a whopping 13.8 billion years ago: corresponding to the hot Big Bang itself. Today, after traveling through our expanding Universe, that light finally arrives here on Earth, carrying information about objects that are presently located some 46.",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/09/sbb.jpg?quality=85&w=640",
+      "title": "What children learn when adults aren’t around",
+      "url": "https://bigthink.com/mind-behavior/what-children-learn-when-adults-arent-around/",
+      "description": "Children, like all mammals, are born completely dependent on adults for survival. The primary task of childhood is to grow increasingly independent of this care, and so they are also born with instinctive drives to practice independence to the degree that they can. The most powerful of these is the drive to play.  \n In play, children learn the most important lessons in life, lessons of personal empowerment, responsibility, and effective social engagement — and when we don’t let kids play on thei",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/climb2.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-05-23T06:20:55.721849+00:00",
+  "fetchedAt": "2026-05-29T07:50:32.727082+00:00",
   "items": [
     {
       "title": "Philosophie der Sucht - Vom Umgang mit schlechten Gewohnheiten",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Beautytrend \"Looksmaxxing\" - Schönheitswahn bei Männern ist keine Gleichberechtigung",
+      "url": "https://www.deutschlandfunkkultur.de/looksmaxxing-schoenheitsideale-manosphere-maennlichkeit-gleichberechtigung-100.html",
+      "description": "Sie heißen „Looksmaxxer“: Männer, die viel Geld und Zeit in ihr Aussehen stecken. Ist es ausgleichende Gerechtigkeit, wenn nicht nur Frauen sondern auch Männer den Druck zum Schönsein spüren? Von Christine Bratu www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 24 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -148,19 +164,19 @@
       }
     },
     {
-      "title": "Philosophie - Der Opferbegriff zwischen Anerkennung und Überhöhung",
-      "url": "https://www.deutschlandfunkkultur.de/philosophie-des-opfers-zwischen-anerkennung-und-ueberhoehung-100.html",
-      "description": "Ostern ist das Fest des Opfers, genauer: der Aufopferung. Heute dominiere dagegen eine Vorstellung des passiven Opfer-Seins, sagt die Philosophin Maria-Sibylla Lotter: ein Fortschritt für Gewalt-Opfer, aber Gift für die Wahrheitsfindung. Lotter, Maria-Sybilla; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 05 Apr 2026",
+      "title": "Martin Heidegger - Der verstrickte Denker",
+      "url": "https://www.deutschlandfunkkultur.de/50-todestag-von-martin-heidegger-der-verstrickte-denker-100.html",
+      "description": "Martin Heidegger war Nationalsozialist, Antisemit – und der einflussreichste Philosoph des 20. Jahrhunderts. Vor 50 Jahren starb er. Sollten wir ihn weiter lesen? Unbedingt, trotz allem, sagt Literaturwissenschaftler Oliver Jahraus. Eilenberger, Wolfram; Jahraus, Oliver www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 24 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -206,22 +222,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Internationaler Tag des Faktenchecks: Experten der Wahrheitssuche?",
-      "url": "https://www.deutschlandfunkkultur.de/internationaler-tag-des-faktenchecks-experten-der-wahrheitssuche-100.html",
-      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 29 Mar 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

@@ -1,40 +1,8 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-05-23T06:20:54.546362+00:00",
+  "fetchedAt": "2026-05-29T07:50:29.991404+00:00",
   "items": [
-    {
-      "title": "Comment partager les richesses du monde ?",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:31  - Avec philosophie - par : Frédéric Worms - Dans cette chronique, Frédéric Worms vous embarque dans une réflexion philosophique sur le partage de la richesses du monde. Du jeu de société à la réalité, la richesse, phénomène collectif et transnational, interroge le partage des biens communs : eau, terre, vie.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 20,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
-      }
-    },
-    {
-      "title": "Comment répondre à la pauvreté ?",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:04:01  - Avec philosophie - par : Frédéric Worms - Naufragé sur une île déserte, Robinson Crusoé est-il pauvre ? La pauvreté est un phénomène social invisible, lié à l’injustice des besoins vitaux dans la société. De Rawls à Camus, Weil et Rancière, une réflexion sur l'expérience de la pauvreté.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 12 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 20,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
-      }
-    },
     {
       "title": "Vivre, mode d'emploi : Le geste le plus simple pour un monde plus juste, selon la philosophe Simone Weil",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/un-geste-simple-pour-un-monde-plus-juste-selon-la-philosophe-simone-weil-6200426",
@@ -49,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "Le \"Discours de la servitude volontaire\" de La Boétie  : La servitude volontaire, une hypothèse hautement transgressive en philosophie politique",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:59:11  - Avec philosophie - par : Géraldine Muhlmann - Le “Discours de la servitude volontaire” a été écrit autour de 1548 par Étienne La Boétie. Pour Miguel Abensour, cette thèse de La Boétie était une “hypothèse scandaleuse”. Pourquoi s’agit-il d’une hypothèse transgressive en philosophie politique ?\n  - réalisation : Frédéric Worms, Anna Pheulpin, Carla Michel, Riyad Cairat, Antoine Ravon, Shaïma Giboire, Marine Boudalier - invités : Anne Kupiec Professeure de sociologie à l’Univer",
+      "date": "Mon, 25 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -116,19 +100,51 @@
       }
     },
     {
-      "title": "Kierkegaard, le risque d'être soi : Les œuvres de l'amour",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/les-oeuvres-de-l-amour-1440230",
-      "description": "durée : 00:58:01  - Avec philosophie - par : Géraldine Muhlmann - Chez Kierkegaard, l’amour ne se réduit pas à un simple sentiment romantique, il constitue une expérience spirituelle et existentielle essentielle. Une conception originale de l'amour qui permet de penser la dimension sociale et politique à travers des lectures plus contemporaines.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Anne-Christine Habbard Docteure en ph",
-      "date": "Wed, 13 May 2026",
+      "title": "Lectures et instrumentalisations du \"Discours\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/lectures-et-instrumentalisations-du-discours-1037819",
+      "description": "durée : 00:57:17  - Avec philosophie - par : Géraldine Muhlmann - Le \"Discours de la servitude volontaire\" de La Boétie a traversé les siècles comme un texte majeur de réflexion sur le pouvoir et l’obéissance. Selon les époques, il a été mobilisé aussi bien pour défendre la liberté politique que pour nourrir des lectures idéologiques diverses.   - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Paul-Alexis Mellet Professeur d'histoi",
+      "date": "Thu, 28 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "Comment le cinéma est-il devenu un art ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-le-cinema-est-il-devenu-un-art-6526740",
+      "description": "durée : 00:03:38  - Avec philosophie - par : Frédéric Worms - Si le cinéma est reconnu comme un art majeur, il naît d'abord d'une technique de reproduction du mouvement. Avec Frédéric Worms, de la pensée d'Henri Bergson aux travaux de Gilles Deleuze, exploration de la magie du cinéma.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 26 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
       "scoreDetail": {
         "daily": 15,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
+      }
+    },
+    {
+      "title": "Pourquoi le cinéma nous importe-il ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-le-cinema-nous-importe-il-8595390",
+      "description": "durée : 00:03:48  - Avec philosophie - par : Frédéric Worms - Art de la subjectivité, le cinéma navigue entre l'œil objectif de la caméra et l'œil subjectif de l'être humain. Immersion dans \"Barberousse\" d'Akira Kurosawa avec le philosophe Frédéric Worms pour interroger la capacité du septième art à percevoir la profondeur du vivant.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -148,19 +164,35 @@
       }
     },
     {
-      "title": "Eva Illouz : \"'Belle du Seigneur' n'est pas que le roman de l'amour, il est surtout celui de la sociologie\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/eva-illouz-sociologue-a-propos-de-belle-du-seigneur-d-albert-cohen-8819676",
-      "description": "durée : 00:59:26  - Avec philosophie - par : Géraldine Mosna-Savoye - Publié en 1968, \"Belle du seigneur\", chef-d’œuvre d’Albert Cohen – qui se moque aussi bien de l’amour que de la petitesse de la bureaucratie – a ses passionnés comme ses critiques. C’est après sa lecture que la sociologue Eva Illouz a fait de l’amour le sujet de ses livres, elle nous en parle. \n  - réalisation : Nicolas Berger, Sam  Baquiast, Manon de La Selle, Corinne Amar - invités : Eva Illouz Sociologue \n\nVous aimez ce pod",
-      "date": "Fri, 15 May 2026",
+      "title": "Le \"Discours de la servitude volontaire\" de La Boétie  : Le \"Discours\" a-t-il fini par gêner Montaigne ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/le-discours-a-t-il-fini-par-gener-montaigne-9320411",
+      "description": "durée : 00:58:09  - Avec philosophie - par : Géraldine Muhlmann - Écrit vers 1548 par le jeune La Boétie, le \"Discours de la servitude volontaire\" dénonce l’obéissance des peuples au pouvoir tyrannique. Ami proche de l’auteur, Montaigne admirait ce texte, mais il en redoutait aussi les conséquences politiques, dans le contexte troublé des guerres de religion.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Philippe Desan Professe",
+      "date": "Wed, 27 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Le \"Discours de la servitude volontaire\" de La Boétie  : Amitié et conflit : les deux antidotes à la servitude volontaire",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/amitie-et-conflit-les-deux-antidotes-a-la-servitude-volontaire-9065541",
+      "description": "durée : 00:58:43  - Avec philosophie - par : Géraldine Muhlmann - Dans son \"Discours de la servitude volontaire\", La Boétie s'interroge sur les raisons qui poussent les peuples à accepter leur propre domination. Il met en avant deux moyens de résistance : l’amitié, qui unit les hommes dans la liberté, et le conflit, qui permet de contester le pouvoir tyrannique.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Gérald Sfez Philosop",
+      "date": "Tue, 26 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
       "scoreDetail": {
         "daily": 5,
         "phil": 15,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 20
       }
     },
     {
@@ -196,22 +228,6 @@
       }
     },
     {
-      "title": "Pensées grecques et pensées juives autour de l'An 1 : Alexandrie au confluent de deux mondes",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/alexandrie-au-confluent-de-deux-mondes-6184145",
-      "description": "durée : 00:58:04  - Avec philosophie - par : Géraldine Muhlmann - Alexandrie s’est imposée comme carrefour intellectuel et culturel de l’Antiquité, devenant un lieu majeur de rencontre entre la culture grecque et les traditions orientales, notamment juives. On y observe un véritable échange d’idées, de langues et de savoirs entre les civilisations.   - réalisation : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Mireille Hadas Lebel Historienn",
-      "date": "Mon, 18 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
       "title": "Marre des mauvaises nouvelles : cultivez l’espoir avec le philosophe Ernst Bloch",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/face-aux-mauvaises-nouvelles-cultivez-l-espoir-avec-le-philosophe-ernst-bloch-6411672",
       "description": "durée : 00:03:32  - Avec philosophie - par : Laurence Devillairs - Et si l'espoir était le seul remède à la fatalité ? Vous craignez qu'on vous accuse de vous voiler la face ? Le philosophe Ernst Bloch répond sans détour : l’espoir n’est ni naïveté ni chimère mais un rêve lucide qui s’oppose à la résignation.  - réalisation : Camille Renard, Virginie Le Duault, Anna Holveck \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Œdipe a-t-il vraiment tué son père ? Contre-enquête sur des tragédies antiques",
-      "url": "https://www.radiofrance.fr/application-mobile-radio-france",
-      "description": "durée : 00:58:38  - Le Cours de l'histoire - par : Xavier Mauduit - Au 5ᵉ siècle avant notre ère, les tragédies grecques reprennent des thèmes de la mythologie et de l’épopée. Certains dramaturges, comme Sophocle, laissent des incertitudes dans leur intrigue. Du crime d’Œdipe au suicide d’Antigone, sommes-nous vraiment sûrs qu’ils ont eu lieu ?  - réalisation : Maïwenn Guiziou, Thomas Beau, Jeanne Delecroix, Jeanne Coppey, Raphaël Laloum, Chloé Rouillon, Sidonie Lebot - invités : Claire Paulian ",
-      "date": "Sat, 16 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
       }
     }
   ]

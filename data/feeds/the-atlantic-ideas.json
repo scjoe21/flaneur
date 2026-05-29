@@ -1,29 +1,45 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-05-23T06:21:02.340753+00:00",
+  "fetchedAt": "2026-05-29T07:50:40.191975+00:00",
   "items": [
     {
-      "title": "Why Does Donald Trump Refuse to Defend America?",
-      "url": "https://www.theatlantic.com/ideas/2026/05/trump-america-dictators-china-xi/687219/?utm_source=feed",
+      "title": "Trump’s War Is Staggering to an Incoherent Defeat",
+      "url": "https://www.theatlantic.com/ideas/2026/05/trump-iran-war/687292/?utm_source=feed",
       "description": "",
-      "date": "2026-05-19",
+      "date": "2026-05-24",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "A Department of Justice for an Age of Conspiracy Theories",
-      "url": "https://www.theatlantic.com/ideas/2026/05/doj-conspiracy-theorists-trump/687246/?utm_source=feed",
+      "title": "Words of War",
+      "url": "https://www.theatlantic.com/ideas/2026/05/words-war/687343/?utm_source=feed",
       "description": "",
-      "date": "2026-05-21",
+      "date": "2026-05-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Trump’s Missing Ambassadors Are a Sign of a Deeper Problem",
+      "url": "https://www.theatlantic.com/ideas/2026/05/american-ambassadors-trump-vacancies/687286/?utm_source=feed",
+      "description": "",
+      "date": "2026-05-26",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +52,26 @@
       }
     },
     {
-      "title": "Israel’s Human Wrecking Ball",
-      "url": "https://www.theatlantic.com/ideas/2026/05/flotilla-ben-gvir-israel-video/687263/?utm_source=feed",
+      "title": "The Great Depopulation",
+      "url": "https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed",
       "description": "",
-      "date": "2026-05-22",
+      "date": "2026-05-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Blue-State Delusion Over Unions",
+      "url": "https://www.theatlantic.com/ideas/2026/05/public-sector-unions-lirr-strike/687337/?utm_source=feed",
+      "description": "",
+      "date": "2026-05-28",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -52,10 +84,10 @@
       }
     },
     {
-      "title": "The Economic Experiment That Upended Reality",
-      "url": "https://www.theatlantic.com/ideas/2026/05/minimum-wage-experiment-worked/687255/?utm_source=feed",
+      "title": "John Cornyn Lost With His Boots Off",
+      "url": "https://www.theatlantic.com/ideas/2026/05/texas-senate-trump-paxton-cornyn/687327/?utm_source=feed",
       "description": "",
-      "date": "2026-05-22",
+      "date": "2026-05-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -68,10 +100,10 @@
       }
     },
     {
-      "title": "What the Trump Administration Needs to Do to Contain the Ebola Outbreak",
-      "url": "https://www.theatlantic.com/ideas/2026/05/ebola-hantavirus-trump-cdc-who/687259/?utm_source=feed",
+      "title": "The Pope Grasps the Limits of AI",
+      "url": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-catholic-church/687298/?utm_source=feed",
       "description": "",
-      "date": "2026-05-22",
+      "date": "2026-05-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,10 +116,10 @@
       }
     },
     {
-      "title": "A Close Reading of Trump’s Statement on Attending His Son’s Wedding",
-      "url": "https://www.theatlantic.com/ideas/2026/05/donald-trump-jr-wedding-trump-speech/687260/?utm_source=feed",
+      "title": "The Gas-Tax Reckoning",
+      "url": "https://www.theatlantic.com/ideas/2026/05/gas-tax-reckoning/687299/?utm_source=feed",
       "description": "",
-      "date": "2026-05-21",
+      "date": "2026-05-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +132,10 @@
       }
     },
     {
-      "title": "The New Blood Libel",
-      "url": "https://www.theatlantic.com/ideas/2026/05/synagogue-terrorism-vandalism-antisemitism/687241/?utm_source=feed",
+      "title": "The Advice I Hope You’ll Never Need",
+      "url": "https://www.theatlantic.com/ideas/2026/05/i-survived-two-school-shootings/687295/?utm_source=feed",
       "description": "",
-      "date": "2026-05-21",
+      "date": "2026-05-26",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +148,10 @@
       }
     },
     {
-      "title": "What the 18th Century Can Teach the 21st",
-      "url": "https://www.theatlantic.com/ideas/2026/05/18th-century-britain-reform/687221/?utm_source=feed",
+      "title": "A Sweeping Theory of Everything Is Revolutionizing the Democratic Party",
+      "url": "https://www.theatlantic.com/ideas/2026/05/antitrust-theory-barry-lynn/687287/?utm_source=feed",
       "description": "",
-      "date": "2026-05-21",
+      "date": "2026-05-26",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +164,10 @@
       }
     },
     {
-      "title": "My Son’s Hockey Team and the Crisis of American Resentment",
-      "url": "https://www.theatlantic.com/ideas/2026/05/children-private-equity-sports/687222/?utm_source=feed",
+      "title": "Pope Leo’s Unsettling Vision of the AI Future",
+      "url": "https://www.theatlantic.com/ideas/2026/05/pope-leo-ai-encyclical-magnifica-humanitas/687294/?utm_source=feed",
       "description": "",
-      "date": "2026-05-20",
+      "date": "2026-05-25",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +180,10 @@
       }
     },
     {
-      "title": "The Challenge for American Jews",
-      "url": "https://www.theatlantic.com/ideas/2026/05/american-jews-political-identity-israel/687220/?utm_source=feed",
+      "title": "The National Debt’s Unforgiving Math",
+      "url": "https://www.theatlantic.com/ideas/2026/05/national-debt-problem/687257/?utm_source=feed",
       "description": "",
-      "date": "2026-05-20",
+      "date": "2026-05-25",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +196,10 @@
       }
     },
     {
-      "title": "San Diego’s Tragic Lesson About Terrorism",
-      "url": "https://www.theatlantic.com/ideas/2026/05/san-diego-islamic-center-mosque/687217/?utm_source=feed",
+      "title": "The ‘Vibecession’ Is Over. The ‘Permacession’ Is Here.",
+      "url": "https://www.theatlantic.com/ideas/2026/05/americans-depressed-economy/687278/?utm_source=feed",
       "description": "",
-      "date": "2026-05-19",
+      "date": "2026-05-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +212,10 @@
       }
     },
     {
-      "title": "Trump’s $1.8 Billion Slush Fund Is Worse Than Stealing",
-      "url": "https://www.theatlantic.com/ideas/2026/05/trump-anti-weaponization-fund-january-6/687215/?utm_source=feed",
+      "title": "I Am Begging You to Read Terry Pratchett",
+      "url": "https://www.theatlantic.com/ideas/2026/05/author-terry-pratchett-film/687253/?utm_source=feed",
       "description": "",
-      "date": "2026-05-19",
+      "date": "2026-05-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "A Cheap Fix for Urban Crime",
-      "url": "https://www.theatlantic.com/ideas/2026/05/fix-urban-disorder-crime/687205/?utm_source=feed",
+      "title": "Putin Can No Longer Hide His Catastrophe",
+      "url": "https://www.theatlantic.com/ideas/2026/05/putin-lost-control-russia/687269/?utm_source=feed",
       "description": "",
-      "date": "2026-05-19",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Democracy Is a Racial Entitlement Now",
-      "url": "https://www.theatlantic.com/ideas/2026/05/callais-louisiana-voting-rights-act/687208/?utm_source=feed",
-      "description": "",
-      "date": "2026-05-19",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Most Interesting Part of Trump’s Prayer Rally",
-      "url": "https://www.theatlantic.com/politics/2026/05/trump-prayer-rally-charismatic/687207/?utm_source=feed",
-      "description": "",
-      "date": "2026-05-18",
+      "date": "2026-05-23",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

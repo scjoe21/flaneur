@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-05-23T06:20:58.661310+00:00",
+  "fetchedAt": "2026-05-29T07:50:35.672524+00:00",
   "items": [
     {
       "title": "How death came to Earth",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "Idle warriors",
-      "url": "https://aeon.co/videos/meet-the-bounty-hunters-who-enforce-new-yorks-idling-vehicle-ban",
-      "description": "How a public health initiative to reduce air pollution has created ‘full-time citizen complainants’ who patrol the city - by Aeon Video Watch on Aeon",
-      "date": "Wed, 13 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -100,42 +84,26 @@
       }
     },
     {
-      "title": "Rights require money",
-      "url": "https://aeon.co/essays/to-fund-human-rights-we-need-a-global-fair-tax-convention",
-      "description": "Talk as much as you like about human rights, nothing will change until the architecture of global finance is reformed - by Attiya Waris Read on Aeon",
-      "date": "Thu, 14 May 2026",
+      "title": "This is my island",
+      "url": "https://aeon.co/videos/tour-an-island-community-built-from-scratch-in-this-film-from-1972",
+      "description": "Life on this small, off-the-grid island offers closeness to land and community for those willing, and able, to work for it - by Aeon Video Watch on Aeon",
+      "date": "Mon, 25 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Beneath our human shallows",
-      "url": "https://aeon.co/essays/how-does-the-deep-earth-see-humanity",
-      "description": "We need a new imagination for the whole Earth, linking the power of the deep planet with the vitality of the surface - by James Dinneen Read on Aeon",
-      "date": "Tue, 12 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
+      "priority": 9,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 9
       }
     },
     {
-      "title": "Classroom 4",
-      "url": "https://aeon.co/videos/the-historian-who-brings-lessons-on-us-prisons-inside-their-walls",
-      "description": "In this award-winning short, inmates and college students explore the history of incarceration from inside a US prison - by Aeon Video Watch on Aeon",
-      "date": "Mon, 11 May 2026",
+      "title": "Flickering Enlightenment",
+      "url": "https://aeon.co/essays/lets-save-the-enlightenment-baby-from-its-muddied-bathwater",
+      "description": "Attacked by the Left and Right, the Enlightenment can only be saved through use of its greatest legacy: permanent critique - by Eliane Glaser Read on Aeon",
+      "date": "Thu, 28 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -148,10 +116,10 @@
       }
     },
     {
-      "title": "Children are apprentices",
-      "url": "https://aeon.co/essays/children-need-stress-and-discomfort-in-order-to-grow-up",
-      "description": "The emotional and practical skills of adulthood can only be learned from (appropriate) levels of discomfort and stress - by Niklas Serning & Nina Lyon Read on Aeon",
-      "date": "Mon, 11 May 2026",
+      "title": "The meatseller",
+      "url": "https://aeon.co/videos/brutal-beautiful-animation-traces-an-african-teens-journey-to-italy",
+      "description": "Selinna is 15 when she leaves her home in Nigeria, bound for Italy, a journey as perilous as it is transformative - by Aeon Video Watch on Aeon",
+      "date": "Wed, 27 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -164,10 +132,10 @@
       }
     },
     {
-      "title": "The prophet in your pocket",
-      "url": "https://aeon.co/essays/things-have-jobs-and-digital-devices-are-made-to-track-you",
-      "description": "Things have jobs: pillows are made for comfort, scissors are sharp, and digital devices are made to track your every move - by Carissa Véliz Read on Aeon",
-      "date": "Fri, 08 May 2026",
+      "title": "Can ecosystems malfunction?",
+      "url": "https://aeon.co/essays/why-we-need-to-think-again-about-ecosystem-failure",
+      "description": "We are told the natural world is ‘breaking down’. But forests don’t work like airplanes or human hearts - by John Drake Read on Aeon",
+      "date": "Mon, 25 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -193,6 +161,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Life recombined",
+      "url": "https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we",
+      "description": "In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb - by Aeon Video Watch on Aeon",
+      "date": "Thu, 28 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The embattled witnesses",
+      "url": "https://aeon.co/essays/a-fragile-crown-jewel-the-uns-human-rights-experts",
+      "description": "The UN’s special rapporteurs are experts charged with a singular mandate: to monitor the world’s worst human rights abuses - by Alvina Hoffmann Read on Aeon",
+      "date": "Tue, 26 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

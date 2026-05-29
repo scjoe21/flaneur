@@ -1,45 +1,13 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-23T06:20:54.933890+00:00",
+  "fetchedAt": "2026-05-29T07:50:31.395714+00:00",
   "items": [
     {
-      "title": "“Le Genre idéal” : comment et pourquoi catégoriser les œuvres d’art ?",
-      "url": "https://www.philomag.com/articles/le-genre-ideal-comment-et-pourquoi-categoriser-les-oeuvres-dart",
+      "title": "Symbole de la traite des esclaves, pourquoi l’abolition du Code noir marque la fin d’une anomalie",
+      "url": "https://www.philomag.com/articles/symbole-de-la-traite-des-esclaves-pourquoi-labolition-du-code-noir-marque-la-fin-dune",
       "description": "",
-      "date": "Fri, 22 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Univers “Star Wars” : comment naît, se construit et survit un mouvement de rébellion ? Réponses dans la série “Andor”",
-      "url": "https://www.philomag.com/articles/univers-star-wars-comment-nait-se-construit-et-survit-un-mouvement-de-rebellion-reponses",
-      "description": "",
-      "date": "Wed, 20 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Ni le temps de la nature, ni celui des horloges… Qu’est-ce que “mon” temps ?",
-      "url": "https://www.philomag.com/articles/ni-le-temps-de-la-nature-ni-celui-des-horloges-quest-ce-que-mon-temps",
-      "description": "",
-      "date": "Sat, 23 May 2026",
+      "date": "Wed, 27 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -52,10 +20,10 @@
       }
     },
     {
-      "title": "Comment se payer de mots",
-      "url": "https://www.philomag.com/articles/comment-se-payer-de-mots",
+      "title": "Périscolaire : pourquoi avons-nous renoncé à veiller sur nos enfants ?",
+      "url": "https://www.philomag.com/articles/periscolaire-pourquoi-avons-nous-renonce-veiller-sur-nos-enfants",
       "description": "",
-      "date": "Wed, 20 May 2026",
+      "date": "Tue, 26 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -68,42 +36,26 @@
       }
     },
     {
-      "title": "“L’enfant s’échine à faire dérailler nos agendas” Comment vivre la paternité ? L'expérience du philosophe Pierre Zaoui",
-      "url": "https://www.philomag.com/articles/lenfant-sechine-faire-derailler-nos-agendas-comment-vivre-la-paternite-lexperience-du",
+      "title": "“J’ai retrouvé ma liberté temporelle quand mon épouse a connu la temporalité réglée de l’institution” : Michel Malherbe face au temps de la dépendance",
+      "url": "https://www.philomag.com/articles/jai-retrouve-ma-liberte-temporelle-quand-mon-epouse-connu-la-temporalite-reglee-de",
       "description": "",
-      "date": "Wed, 20 May 2026",
+      "date": "Fri, 29 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "Affaire Patrick Bruel : casser la voix de la romance",
-      "url": "https://www.philomag.com/articles/affaire-patrick-bruel-casser-la-voix-de-la-romance",
+      "title": "Accueillir un SDF : quand la chaleur fait suffoquer l’hospitalité",
+      "url": "https://www.philomag.com/articles/accueillir-un-sdf-quand-la-chaleur-fait-suffoquer-lhospitalite",
       "description": "",
-      "date": "Tue, 19 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "“Anhédonie Ozempic” : l’absence de faim nous prive-t-elle du goût de la vie ?",
-      "url": "https://www.philomag.com/articles/anhedonie-ozempic-labsence-de-faim-nous-prive-t-elle-du-gout-de-la-vie",
-      "description": "",
-      "date": "Fri, 22 May 2026",
+      "date": "Thu, 28 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +68,10 @@
       }
     },
     {
-      "title": "“Démographie, et demain ?” : lisez un extrait de notre dernière parution",
-      "url": "https://www.philomag.com/articles/demographie-et-demain-lisez-un-extrait-de-notre-derniere-parution",
+      "title": "Cyberdeck : une résistance bricolée et féministe face aux géants de la “tech” ?",
+      "url": "https://www.philomag.com/articles/cyberdeck-une-resistance-bricolee-et-feministe-face-aux-geants-de-la-tech",
       "description": "",
-      "date": "Fri, 22 May 2026",
+      "date": "Thu, 28 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +84,10 @@
       }
     },
     {
-      "title": "Adieu les cons !",
-      "url": "https://www.philomag.com/articles/adieu-les-cons",
+      "title": "Les conseils de huit philosophes pour survivre à la canicule",
+      "url": "https://www.philomag.com/articles/les-conseils-de-huit-philosophes-pour-survivre-la-canicule",
       "description": "",
-      "date": "Thu, 21 May 2026",
+      "date": "Wed, 02 Jul 2025",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +100,10 @@
       }
     },
     {
-      "title": "Audrey Jougla : “La perfection des bébés nous oblige”",
-      "url": "https://www.philomag.com/articles/audrey-jougla-la-perfection-des-bebes-nous-oblige",
+      "title": "Bac philo 2026 : les sujets et corrigés pour vous entraîner",
+      "url": "https://www.philomag.com/articles/bac-philo-2026-les-sujets-et-corriges-pour-vous-entrainer",
       "description": "",
-      "date": "Thu, 21 May 2026",
+      "date": "Thu, 28 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +116,10 @@
       }
     },
     {
-      "title": "Bac philo 2026 : déroulé, dates, sujets et coefficients",
-      "url": "https://www.philomag.com/articles/dates-coefficients-sujets-bac-philo-2026",
+      "title": "“La résistance consent à la violence, le terrorisme l'héroïse”. Entretien avec Gérard Rabinovitch",
+      "url": "https://www.philomag.com/articles/la-resistance-consent-la-violence-le-terrorisme-lheroise-entretien-avec-gerard",
       "description": "",
-      "date": "Tue, 27 May 2025",
+      "date": "Thu, 28 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +132,10 @@
       }
     },
     {
-      "title": "Sartre et Beauvoir, engagés ou “salauds” ?",
-      "url": "https://www.philomag.com/articles/sartre-et-beauvoir-engages-ou-salauds",
+      "title": "Âge de l’accès : l’intelligence va-t-elle devenir un service à louer ?",
+      "url": "https://www.philomag.com/articles/age-de-lacces-lintelligence-va-t-elle-devenir-un-service-louer",
       "description": "",
-      "date": "Thu, 21 May 2026",
+      "date": "Wed, 27 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +148,10 @@
       }
     },
     {
-      "title": "Benoît Heilbrunn : “Gouverner ne consiste pas à satisfaire des préférences comme pour vendre un shampoing”",
-      "url": "https://www.philomag.com/articles/benoit-heilbrunn-gouverner-ne-consiste-pas-satisfaire-des-preferences-comme-pour-vendre",
+      "title": "Bac philo 2026 : oubliez ChatGPT et suivez notre planning de révision… jour par jour !",
+      "url": "https://www.philomag.com/articles/bac-philo-2026-oubliez-chatgpt-et-suivez-notre-planning-de-revision-jour-par-jour",
       "description": "",
-      "date": "Wed, 20 May 2026",
+      "date": "Wed, 27 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +164,10 @@
       }
     },
     {
-      "title": "“La Vénus électrique” : Marivaux à Montmartre",
-      "url": "https://www.philomag.com/articles/la-venus-electrique-marivaux-montmartre",
+      "title": "“La résistance peut-elle avoir recours à la violence ?” La réponse de Norman Ajari",
+      "url": "https://www.philomag.com/articles/la-resistance-peut-elle-avoir-recours-la-violence-la-reponse-de-norman-ajari",
       "description": "",
-      "date": "Tue, 19 May 2026",
+      "date": "Wed, 27 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +180,58 @@
       }
     },
     {
-      "title": "Trump et le veau d’or",
-      "url": "https://www.philomag.com/articles/trump-et-le-veau-dor",
+      "title": "Catalogue La Redoute : première fabrique du désir ou ancêtre du scroll ?",
+      "url": "https://www.philomag.com/articles/catalogue-la-redoute-premiere-fabrique-du-desir-ou-ancetre-du-scroll",
       "description": "",
-      "date": "Tue, 19 May 2026",
+      "date": "Tue, 26 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Être et Temps”… pour les nuls ! Le chef-d’œuvre de Martin Heidegger expliqué",
+      "url": "https://www.philomag.com/articles/etre-et-temps-pour-les-nuls-le-chef-doeuvre-de-martin-heidegger-explique",
+      "description": "",
+      "date": "Tue, 26 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Superficialité ou profondeur… Qu’allons-nous puiser dans les groupes WhatsApp ? La chronique d’Anne-Sophie Moreau",
+      "url": "https://www.philomag.com/articles/superficialite-ou-profondeur-quallons-nous-puiser-dans-les-groupes-whatsapp-la-chronique",
+      "description": "",
+      "date": "Tue, 26 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Peut-on résister sans violence ? Portrait du penseur et psychiatre anticolonial Frantz Fanon",
+      "url": "https://www.philomag.com/articles/peut-resister-sans-violence-portrait-du-penseur-et-psychiatre-anticolonial-frantz-fanon",
+      "description": "",
+      "date": "Mon, 25 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
