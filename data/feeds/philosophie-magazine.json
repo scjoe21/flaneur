@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-30T00:40:55.810477+00:00",
+  "fetchedAt": "2026-05-30T04:16:15.188774+00:00",
   "items": [
     {
       "title": "Symbole de la traite des esclaves, pourquoi l’abolition du Code noir marque la fin d’une anomalie",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "La vie comme résistance : Frédéric Worms raconte le philosophe Georges Canguilhem",
+      "url": "https://www.philomag.com/articles/la-vie-comme-resistance-frederic-worms-raconte-le-philosophe-georges-canguilhem",
+      "description": "",
+      "date": "Sat, 30 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Catalogue La Redoute : première fabrique du désir ou ancêtre du scroll ?",
       "url": "https://www.philomag.com/articles/catalogue-la-redoute-premiere-fabrique-du-desir-ou-ancetre-du-scroll",
-      "description": "",
-      "date": "Tue, 26 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Être et Temps”… pour les nuls ! Le chef-d’œuvre de Martin Heidegger expliqué",
-      "url": "https://www.philomag.com/articles/etre-et-temps-pour-les-nuls-le-chef-doeuvre-de-martin-heidegger-explique",
       "description": "",
       "date": "Tue, 26 May 2026",
       "thumbnail": "",
