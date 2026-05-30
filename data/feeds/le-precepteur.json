@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-05-29T07:50:29.143139+00:00",
+  "fetchedAt": "2026-05-30T00:40:54.712310+00:00",
   "items": [
     {
       "title": "Agissez-vous moralement ?",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Nietzsche et le ressentiment",
+      "url": "https://www.youtube.com/shorts/FiUM_f1_iMY",
+      "description": "Le ressentiment nous pousse à dénoncer moralement ce que nous jalousons. On se réfugie derrière des valeurs pour justifier notre médisance, masquant ainsi notre faiblesse sous une image de vertu. C'est une inversion : je ne le fais pas, donc je dis que c'est mal.\n \n#philosophie #ressentiment #Nietzsche #psychologie #vérités #mindset #authenticité #motivation",
+      "date": "2026-05-29",
+      "thumbnail": "https://i3.ytimg.com/vi/FiUM_f1_iMY/hqdefault.jpg",
+      "videoId": "FiUM_f1_iMY",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 25,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Machiavel dans L'Impasse",
       "url": "https://www.youtube.com/shorts/x4v25kQGKEo",
       "description": "Pour Machiavel, être honnête n’est pas toujours le bon choix. Dans un monde où les autres trichent, mentent ou trahissent, celui qui reste intègre s’expose au danger. Cette idée est illustrée dans le film L’Impasse, avec Carlito Brigante, qui cherche à devenir quelqu’un de juste, mais finit par en payer le prix.\n \nÉpisode intégral : https://youtu.be/h-c0z0ArPN8\n \n#Machiavel #Morale #Réalisme #Philosophie #Cinéma",
@@ -46,38 +62,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "L’inconscient",
-      "url": "https://www.youtube.com/shorts/cnU6qYaOFN8",
-      "description": "Au tournant du XXe siècle, le psychanalyste autrichien Sigmund Freud bouleverse notre vision de l’esprit en affirmant que nous ne sommes pas maîtres de nous-mêmes. Dans cette vidéo, je vous explique pourquoi selon lui, la majorité de notre vie psychique nous échappe, et comment nos désirs refoulés influencent nos pensées et nos actes.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #freud #inconscient #psychologie #esprit #blackswan",
-      "date": "2026-04-22",
-      "thumbnail": "https://i4.ytimg.com/vi/cnU6qYaOFN8/hqdefault.jpg",
-      "videoId": "cnU6qYaOFN8",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Le pouvoir corrompt",
-      "url": "https://www.youtube.com/shorts/GFSRv2gqfYY",
-      "description": "Au XIXe siècle, l’historien britannique Lord Acton formule une idée devenue célèbre : « le pouvoir tend à corrompre, et le pouvoir absolu corrompt absolument ». Dans cette vidéo, je vous explique pourquoi, selon lui, le pouvoir transforme la psychologie de ceux qui le détiennent, en leur donnant un sentiment de supériorité et d’impunité.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #acton #pouvoir #corruption #politique",
-      "date": "2026-04-19",
-      "thumbnail": "https://i4.ytimg.com/vi/GFSRv2gqfYY/hqdefault.jpg",
-      "videoId": "GFSRv2gqfYY",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "HUME - L'appel à la nature",
+      "url": "https://www.youtube.com/watch?v=sAmpsfWIt4s",
+      "description": "POUR COMMANDER MON LIVRE :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\nPOURQUOI ME REJOINDRE SUR PATREON :\n\n▶️ https://www.le-precepteur.fr/pourquoi-me-rejoindre-sur-patreon\n\nPOUR ME SOUTENIR :\n\n▶️ SUR TIPEEE : https://www.tipeee.com/le-precepteur\n▶️ SUR PAYPAL : https://www.paypal.me/leprecepteur\n\nPOUR SUIVRE MES ACTUALITÉS :\n\n▶️ INSTAGRA",
+      "date": "2026-05-29",
+      "thumbnail": "https://i4.ytimg.com/vi/sAmpsfWIt4s/hqdefault.jpg",
+      "videoId": "sAmpsfWIt4s",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

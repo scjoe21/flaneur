@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-05-29T07:50:29.991404+00:00",
+  "fetchedAt": "2026-05-30T00:40:55.420701+00:00",
   "items": [
     {
       "title": "Vivre, mode d'emploi : Le geste le plus simple pour un monde plus juste, selon la philosophe Simone Weil",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "Lolita Pille, écrivaine : \"Platon m'a sauvée : j'ai cessé d'aimer X ou Y pour aimer le Beau\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/lolita-pille-ecrivaine-essayiste-sur-quatre-dialogues-de-platon-4101456",
+      "description": "durée : 00:58:29  - Avec philosophie - par : Géraldine Mosna-Savoye - Les dialogues de Platon mettent en scène des échanges philosophiques, souvent conduits par Socrate, autour des grandes questions humaines : la vérité, la justice, l’amour. La romancière et essayiste Lolita Pille choisit d'aborder deux de ses dialogues lumineux.   - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Lolita Pille Romancière \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limi",
+      "date": "Fri, 29 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 25,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -84,23 +100,7 @@
       }
     },
     {
-      "title": "Comment l'attention est-elle possible ?",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:51  - Avec philosophie - par : Frédéric Worms - Souvent négligée, l'attention constitue pourtant un enjeu majeur. De sa dimension politique dans une économie de la distraction à sa nature philosophique, retour sur cette capacité de l'esprit qui transforme notre perception du monde.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 18 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Lectures et instrumentalisations du \"Discours\"",
+      "title": "Le \"Discours de la servitude volontaire\" de La Boétie  : Lectures et instrumentalisations du \"Discours\"",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/lectures-et-instrumentalisations-du-discours-1037819",
       "description": "durée : 00:57:17  - Avec philosophie - par : Géraldine Muhlmann - Le \"Discours de la servitude volontaire\" de La Boétie a traversé les siècles comme un texte majeur de réflexion sur le pouvoir et l’obéissance. Selon les époques, il a été mobilisé aussi bien pour défendre la liberté politique que pour nourrir des lectures idéologiques diverses.   - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Paul-Alexis Mellet Professeur d'histoi",
       "date": "Thu, 28 May 2026",

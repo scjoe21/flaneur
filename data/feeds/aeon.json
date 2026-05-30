@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-05-29T07:50:35.672524+00:00",
+  "fetchedAt": "2026-05-30T00:41:00.034347+00:00",
   "items": [
     {
       "title": "How death came to Earth",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "Silvesterchlausen",
-      "url": "https://aeon.co/videos/the-swiss-tradition-thats-a-mystery-even-to-those-who-celebrate-it",
-      "description": "‘We’re not sure what it means or how it started’ – the enigmatic ritual that has existed in Switzerland for centuries - by Aeon Video Watch on Aeon",
-      "date": "Thu, 14 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Aloha ʻāina",
       "url": "https://aeon.co/videos/reclaiming-aloha-the-hawaiian-poet-rewriting-the-story-of-her-home",
       "description": "It’s marketed as a holiday destination, but the true meaning of Hawai’i lies in the connections between land and people - by Aeon Video Watch on Aeon",
@@ -81,6 +65,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 13
+      }
+    },
+    {
+      "title": "Artist of sympathy and cruelty",
+      "url": "https://aeon.co/essays/why-mozarts-operas-are-tests-of-moral-character",
+      "description": "Mozart’s genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments - by Dorian Bandy Read on Aeon",
+      "date": "Fri, 29 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
