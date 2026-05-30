@@ -299,7 +299,6 @@
     <nav class="site-nav">
       <a href="index.html" class="nav-link">이번 주</a>
       <a href="essay.html" class="nav-link nav-link--essay">에세이</a>
-      <a href="write.html" class="nav-link">✍ 쓰기</a>
       <a href="saved.html" class="nav-link active">저장함</a>
     </nav>
   </div>
@@ -324,8 +323,8 @@
         <span class="shelf-tab__sub">주차별 보기</span>
       </button>
       <button class="shelf-tab" data-shelf="all">
-        <span class="shelf-tab__label">전체 <span class="shelf-count" id="count-all">0</span></span>
-        <span class="shelf-tab__sub">카테고리별 보관</span>
+        <span class="shelf-tab__label">보관함 <span class="shelf-count" id="count-all">0</span></span>
+        <span class="shelf-tab__sub">주제 폴더별</span>
       </button>
     </div>
 
@@ -344,7 +343,7 @@
       <div class="flow-banner">
         <span class="flow-banner__icon">📅</span>
         이번 달 이전 주차에 저장한 구절입니다. 카드를 클릭해 편집할 수 있습니다.
-        다음 달이 되면 <strong style="color:var(--text)">전체</strong> 탭의 철학 주제별로 자동 분류됩니다.
+        다음 달이 되면 <strong style="color:var(--text)">보관함</strong> 탭의 주제 폴더로 자동 분류됩니다.
       </div>
       <div id="grid-month"></div>
     </div>
@@ -352,8 +351,8 @@
     <!-- ── 전체 패널 ── -->
     <div id="panel-all" class="shelf-panel">
       <div class="flow-banner">
-        <span class="flow-banner__icon">◉</span>
-        1달 이상 지난 구절이 철학 주제별 카테고리에 보관됩니다. 카테고리를 눌러 그 안의 구절을 확인하세요.
+        <span class="flow-banner__icon">📁</span>
+        1달 이상 지난 구절은 14개 철학 주제 폴더에 자동 보관됩니다. 길게 나열하지 않고, 폴더를 눌러 들어가 그 안의 구절만 모아 볼 수 있습니다.
       </div>
       <div id="grid-all"></div>
     </div>
@@ -440,47 +439,64 @@ function getAllClips()   { return clipList.filter(c => c.monthKey !== CUR_MONTH)
 // 철학 주제 분류
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
+// 일상·사회 중심 14개 주제. classifyClip은 첫 매칭 주제를 반환하므로,
+// 구체적·일상적 주제를 앞에, 추상적 주제를 뒤에 둔다.
 const THEMES = [
-  { id: '존재',  label: '존재와 진리',
-    keywords: ['존재', '실존', '진리', '인식', '허무', '자아', '정체성', '현실', '의식', '이성',
-               'existence', 'truth', 'being', 'self', 'identity', 'consciousness', 'reason',
-               'Sein', 'être', 'essere'] },
-  { id: '자유',  label: '자유와 의지',
-    keywords: ['자유', '의지', '선택', '자율', '자유의지', '결정', '해방', '책임',
-               'freedom', 'liberty', 'autonomy', 'will', 'choice', 'responsibility',
-               'liberté', 'Freiheit', 'libertà'] },
-  { id: '행복',  label: '행복과 의미',
-    keywords: ['행복', '만족', '평온', '기쁨', '의미', '목적', '번영', '안녕', '고통', '불안',
-               'happiness', 'joy', 'meaning', 'purpose', 'flourishing', 'wellbeing', 'suffering',
-               'bonheur', 'Glück', 'felicità', 'eudaimonia'] },
-  { id: '욕망',  label: '욕망과 쾌락',
-    keywords: ['욕망', '욕구', '갈망', '충동', '쾌락', '탐욕', '유혹', '절제', '금욕', '중독',
-               'desire', 'pleasure', 'craving', 'appetite', 'lust', 'temperance',
-               'désir', 'plaisir', 'Begierde', 'desiderio'] },
-  { id: '정의',  label: '정의와 윤리',
-    keywords: ['정의', '공정', '평등', '도덕', '윤리', '불평등', '권리', '의무', '법', '규범',
-               'justice', 'ethics', 'moral', 'equality', 'rights', 'fairness',
-               'Gerechtigkeit', 'giustizia', 'morale'] },
-  { id: '관계',  label: '관계와 타인',
-    keywords: ['관계', '사랑', '우정', '타인', '공동체', '연대', '가족', '고독', '외로움', '소통',
-               'love', 'friendship', 'community', 'solidarity', 'loneliness', 'connection',
+  { id: '자아',  label: '자아와 정체성',
+    keywords: ['자아', '정체성', '자기', '자존', '개성', '진정성', '나다움', '자기다움',
+               'self', 'identity', 'ego', 'authenticity', 'self-esteem'] },
+  { id: '관계',  label: '관계와 사랑',
+    keywords: ['관계', '사랑', '우정', '연인', '가족', '타인', '친밀', '이별', '외로움', '고독', '소통', '공동체', '연대',
+               'love', 'friendship', 'relationship', 'intimacy', 'loneliness', 'community', 'solidarity', 'connection',
                'amour', 'Liebe', 'amore'] },
-  { id: '시간',  label: '시간과 죽음',
-    keywords: ['시간', '기억', '죽음', '과거', '미래', '현재', '순간', '영원', '노화', '유한', '망각',
-               'time', 'death', 'memory', 'past', 'future', 'eternity', 'mortality', 'forgetting',
-               'temps', 'Zeit', 'tempo', 'mort'] },
-  { id: '노동',  label: '노동과 경제',
-    keywords: ['노동', '일', '직업', '경제', '자본', '소비', '생산', '빈곤', '부', '불평등', '계급',
-               'work', 'labor', 'economy', 'capital', 'capitalism', 'production', 'poverty',
+  { id: '노동',  label: '일과 노동',
+    keywords: ['노동', '일터', '직업', '직장', '번아웃', '성과', '생산성', '출근', '퇴사', '워라밸', '경력',
+               'work', 'labor', 'job', 'career', 'burnout', 'productivity', 'workplace',
                'travail', 'Arbeit', 'lavoro'] },
-  { id: '기술',  label: '과학과 기술',
-    keywords: ['기술', 'ai', '인공지능', '디지털', '알고리즘', '과학', '기계', '자동화', '데이터',
-               'technology', 'artificial', 'digital', 'science', 'algorithm', 'automation',
+  { id: '소비',  label: '소비와 물질',
+    keywords: ['소비', '소유', '돈', '물질', '쇼핑', '명품', '광고', '자본', '부유', '가난', '빈곤', '계급', '경제',
+               'consumption', 'consumer', 'money', 'material', 'shopping', 'wealth', 'capital', 'capitalism', 'poverty',
+               'consommation', 'Konsum', 'consumo'] },
+  { id: '문화',  label: '문화와 예술',
+    keywords: ['문화', '예술', '음악', '영화', '미술', '문학', '미학', '취향', '창작', '대중문화', '아름다움',
+               'culture', 'art', 'music', 'film', 'movie', 'aesthetic', 'literature', 'beauty',
+               'Kultur', 'cultura'] },
+  { id: '기술',  label: '기술과 디지털',
+    keywords: ['기술', 'ai', '인공지능', '디지털', '스마트폰', 'sns', '알고리즘', '온라인', '데이터', '가상', '기계', '자동화', '과학',
+               'technology', 'digital', 'smartphone', 'social media', 'algorithm', 'internet', 'science', 'automation',
                'technologie', 'Technologie', 'tecnologia'] },
+  { id: '시간',  label: '시간과 기억',
+    keywords: ['시간', '기억', '과거', '추억', '순간', '일상', '속도', '기다림', '망각', '현재', '미래', '권태', '반복',
+               'time', 'memory', 'moment', 'past', 'present', 'future', 'waiting', 'boredom', 'routine',
+               'temps', 'Zeit', 'tempo'] },
+  { id: '욕망',  label: '욕망과 쾌락',
+    keywords: ['욕망', '쾌락', '갈망', '충동', '중독', '절제', '금욕', '탐닉', '유혹', '탐욕',
+               'desire', 'pleasure', 'craving', 'addiction', 'lust', 'temperance',
+               'désir', 'plaisir', 'Begierde', 'desiderio'] },
+  { id: '행복',  label: '행복과 불안',
+    keywords: ['행복', '불안', '우울', '스트레스', '평온', '위로', '만족', '기쁨', '두려움', '감정', '마음', '고통', '안녕',
+               'happiness', 'joy', 'anxiety', 'depression', 'stress', 'calm', 'fear', 'emotion', 'wellbeing', 'suffering',
+               'bonheur', 'Glück', 'felicità'] },
+  { id: '자유',  label: '자유와 선택',
+    keywords: ['자유', '선택', '의지', '결정', '자율', '해방', '책임', '운명', '자유의지',
+               'freedom', 'liberty', 'choice', 'will', 'autonomy', 'responsibility',
+               'liberté', 'Freiheit', 'libertà'] },
+  { id: '정의',  label: '정의와 윤리',
+    keywords: ['정의', '공정', '평등', '도덕', '윤리', '권리', '차별', '불평등', '옳음', '선악', '의무', '규범', '정당',
+               'justice', 'ethics', 'moral', 'equality', 'rights', 'fairness', 'discrimination',
+               'Gerechtigkeit', 'giustizia', 'morale'] },
   { id: '환경',  label: '자연과 환경',
-    keywords: ['환경', '자연', '생태', '기후', '지구', '생명', '지속가능', '동물', '오염', '녹색',
-               'nature', 'environment', 'climate', 'ecology', 'earth', 'green',
+    keywords: ['환경', '자연', '생태', '기후', '지구', '동물', '생명', '지속가능', '오염', '녹색',
+               'nature', 'environment', 'climate', 'ecology', 'earth', 'animal', 'green',
                'Umwelt', 'environnement', 'natura'] },
+  { id: '죽음',  label: '죽음과 유한성',
+    keywords: ['죽음', '유한', '노화', '늙음', '질병', '상실', '영원', '소멸', '애도', '필멸',
+               'death', 'mortality', 'aging', 'loss', 'finitude', 'grief', 'eternity',
+               'mort', 'Tod', 'morte'] },
+  { id: '존재',  label: '존재와 의미',
+    keywords: ['존재', '실존', '의미', '무의미', '허무', '진리', '본질', '우주', '종교', '믿음', '인식', '이성', '형이상학',
+               'existence', 'meaning', 'nihilism', 'truth', 'being', 'god', 'religion', 'consciousness', 'reason',
+               'Sein', 'être', 'essere'] },
 ];
 
 function classifyClip(clip) {
@@ -742,7 +758,7 @@ function renderAll() {
     const card = document.createElement('button');
     card.className = 'category-card';
     card.innerHTML = `
-      <div class="category-card__label">${themeLabel(tid)}</div>
+      <div class="category-card__label">📁 ${themeLabel(tid)}</div>
       <div class="category-card__count">${themeClips.length}개 구절</div>
       <div class="category-card__arrow">→</div>
     `;
