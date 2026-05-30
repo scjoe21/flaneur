@@ -1,6 +1,6 @@
 /* =========================================
    플라뇌르 — 메인 스크립트
-   공개 화면(에세이) / 운영자 화면(뉴스피드) 분리
+   초기 화면 = 주간 뉴스 피드
    ========================================= */
 
 const DAY_CONFIG = {
@@ -19,158 +19,10 @@ let activeDay = 'all';
 let openItem  = null;
 
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 운영자 모드 관리
+// 주간 뉴스 피드
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-const OWNER_SESSION_KEY = 'flaneur_owner';
-const DEFAULT_PIN       = '1215';
-
-function isOwner() {
-  return sessionStorage.getItem(OWNER_SESSION_KEY) === 'true';
-}
-
-function enterOwnerMode() {
-  sessionStorage.setItem(OWNER_SESSION_KEY, 'true');
-  applyView();
-}
-
-function exitOwnerMode() {
-  sessionStorage.removeItem(OWNER_SESSION_KEY);
-  applyView();
-}
-
-// 화면 전환
-function applyView() {
-  const owner = isOwner();
-
-  document.getElementById('public-view').style.display  = owner ? 'none' : '';
-  document.getElementById('owner-view').style.display   = owner ? ''     : 'none';
-  document.getElementById('nav-public').style.display   = owner ? 'none' : '';
-  document.getElementById('nav-owner').style.display    = owner ? ''     : 'none';
-
-  if (owner) {
-    initOwnerView();
-  } else {
-    initPublicView();
-  }
-}
-
-// ── PIN 관련 ──
-let logoClickCount = 0;
-let logoClickTimer = null;
-
-function handleLogoClick() {
-  logoClickCount++;
-  clearTimeout(logoClickTimer);
-  logoClickTimer = setTimeout(() => { logoClickCount = 0; }, 900);
-
-  if (logoClickCount >= 3) {
-    logoClickCount = 0;
-    if (isOwner()) {
-      if (confirm('운영자 모드를 종료하시겠습니까?')) exitOwnerMode();
-    } else {
-      openPinModal();
-    }
-  }
-}
-
-function openPinModal() {
-  document.getElementById('pin-overlay').classList.add('open');
-  document.getElementById('pin-input').value = '';
-  document.getElementById('pin-error').textContent = '';
-  setTimeout(() => document.getElementById('pin-input').focus(), 150);
-}
-
-function closePinModal() {
-  document.getElementById('pin-overlay').classList.remove('open');
-}
-
-function submitPin() {
-  const input      = document.getElementById('pin-input').value.trim();
-  const storedPin  = DEFAULT_PIN;
-  const errorEl    = document.getElementById('pin-error');
-
-  if (!input) { errorEl.textContent = 'PIN을 입력해 주세요.'; return; }
-
-  if (input === storedPin) {
-    closePinModal();
-    enterOwnerMode();
-  } else {
-    errorEl.textContent = '틀렸습니다. 다시 입력해 주세요.';
-    document.getElementById('pin-input').value = '';
-    document.getElementById('pin-input').focus();
-  }
-}
-
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 공개 화면 — 에세이
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-async function initPublicView() {
-  try {
-    const res  = await fetch('data/essays.json?v=' + Date.now());
-    const data = await res.json();
-    const essays = data.essays || [];
-
-    renderLatestEssay(essays);
-    renderEssayArchive(essays);
-  } catch (e) {
-    console.warn('에세이 로드 실패:', e);
-  }
-}
-
-function renderLatestEssay(essays) {
-  const card = document.getElementById('latest-essay-card');
-  if (!card) return;
-
-  const latest = essays[essays.length - 1];
-  if (!latest) {
-    card.innerHTML = '<p style="color:var(--text-muted);font-size:14px">아직 에세이가 없습니다.</p>';
-    return;
-  }
-
-  const firstPara = (latest.body || '').split('\n').find(l => l.trim()) || '';
-
-  card.innerHTML = `
-    <div class="latest-essay__label">${latest.weekLabel || ''}</div>
-    <h2 class="latest-essay__title">${latest.title}</h2>
-    ${latest.subtitle ? `<p class="latest-essay__subtitle">${latest.subtitle}</p>` : ''}
-    <p class="latest-essay__excerpt">${firstPara}</p>
-    <div class="latest-essay__footer">
-      <span class="latest-essay__meta">${latest.date || ''}</span>
-      <a href="essay.html?id=${latest.id}" class="btn btn--primary latest-essay__btn">읽기 →</a>
-    </div>
-  `;
-}
-
-function renderEssayArchive(essays) {
-  const container = document.getElementById('essay-archive-list');
-  if (!container) return;
-
-  const sorted = [...essays].reverse();
-
-  if (!sorted.length) {
-    container.innerHTML = '<p style="color:var(--text-muted);font-size:14px">아직 에세이가 없습니다.</p>';
-    return;
-  }
-
-  container.innerHTML = sorted.map((e, i) => `
-    <a href="essay.html?id=${e.id}" class="archive-item ${i === 0 ? 'archive-item--latest' : ''}">
-      <div class="archive-item__date">${e.date || ''}</div>
-      <div class="archive-item__body">
-        <div class="archive-item__title">${e.title}</div>
-        ${e.subtitle ? `<div class="archive-item__subtitle">${e.subtitle}</div>` : ''}
-      </div>
-      <span class="archive-item__arrow">→</span>
-    </a>
-  `).join('');
-}
-
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-// 운영자 화면 — 뉴스 피드
-// ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-async function initOwnerView() {
+async function initFeed() {
   if (!newsData) await loadNews();
   renderHero();
   renderDayTabs();
@@ -489,26 +341,6 @@ function exitSavedItemEdit(clip, el) {
   actionsEl?.remove();
 }
 
-// ── 에세이 미리보기 ──
-async function renderEssayPreview() {
-  try {
-    const res  = await fetch('data/essays.json?v=' + Date.now());
-    const data = await res.json();
-    const latest = data.essays?.[data.essays.length - 1];
-    if (!latest) return;
-
-    const card = document.getElementById('essay-card');
-    if (!card) return;
-
-    card.querySelector('.essay-card__label').textContent    = `✍ ${latest.weekLabel}의 에세이`;
-    card.querySelector('.essay-card__title').textContent    = latest.title;
-    card.querySelector('.essay-card__subtitle').textContent = latest.subtitle || '';
-    card.querySelector('.essay-card__excerpt').textContent  = latest.body?.split('\n')[0] || '';
-    card.querySelector('.essay-card__meta').textContent     = `읽는 시간 약 ${latest.readTime || 5}분`;
-    card.addEventListener('click', () => window.location.href = `essay.html?id=${latest.id}`);
-  } catch {}
-}
-
 // ── 토스트 ──
 function showToast(msg) {
   const t = document.getElementById('toast');
@@ -521,25 +353,6 @@ function showToast(msg) {
 // ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 document.addEventListener('DOMContentLoaded', () => {
-
-  // 로고 3번 클릭
-  document.getElementById('logo-btn')?.addEventListener('click', handleLogoClick);
-
-  // PIN 모달
-  document.getElementById('pin-submit')?.addEventListener('click', submitPin);
-  document.getElementById('pin-close')?.addEventListener('click', closePinModal);
-  document.getElementById('pin-input')?.addEventListener('keydown', e => {
-    if (e.key === 'Enter') submitPin();
-    if (e.key === 'Escape') closePinModal();
-  });
-  document.getElementById('pin-overlay')?.addEventListener('click', e => {
-    if (e.target.id === 'pin-overlay') closePinModal();
-  });
-
-  // 운영자 모드 나가기
-  document.getElementById('exit-owner-btn')?.addEventListener('click', () => {
-    if (confirm('운영자 모드를 종료하시겠습니까?')) exitOwnerMode();
-  });
 
   // 모달
   document.getElementById('modal-overlay')?.addEventListener('click', e => {
@@ -560,6 +373,6 @@ document.addEventListener('DOMContentLoaded', () => {
   bindSavedPanel();
   updateClipBadge();
 
-  // 초기 화면 결정
-  applyView();
+  // 주간 피드 렌더
+  initFeed();
 });
