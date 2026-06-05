@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-05-30T06:31:44.250732+00:00",
+  "fetchedAt": "2026-06-05T08:01:56.279568+00:00",
   "items": [
     {
       "title": "Philosophie der Sucht - Vom Umgang mit schlechten Gewohnheiten",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Wirtschaft im Wandel - Warum wächst hier nichts mehr?",
+      "url": "https://www.deutschlandfunkkultur.de/wachstum-wirtschaft-104.html",
+      "description": "Wachstum ist ein allgegenwärtiges Schlagwort. In ihm schwingt zugleich Heilsversprechen und ökologische Bedrohung mit. Der Historiker Andreas Lingg zeichnet die Entstehung moderner Wachstumsdiskurse nach und kritisiert deren heutige Unschärfe. Lingg, Andreas; Eilenberger, Wolfram www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 31 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -148,22 +164,6 @@
       }
     },
     {
-      "title": "Psychologie - Leben wir im Zeitalter des Narzissmus?",
-      "url": "https://www.deutschlandfunkkultur.de/psychologie-leben-wir-im-zeitalter-des-narzissmus-100.html",
-      "description": "Persönlichkeiten wie der US-Präsident Donald Trump oder der Milliardär Elon Musk scheinen den Zeitgeist zu verkörpern. Denn Narzissten wirken von Erfolgen gekrönt. Eine philosophische Erkundung mit dem Phänomenologen Thomas Arnold. Arnold, Thomas; Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 12 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Martin Heidegger - Der verstrickte Denker",
       "url": "https://www.deutschlandfunkkultur.de/50-todestag-von-martin-heidegger-der-verstrickte-denker-100.html",
       "description": "Martin Heidegger war Nationalsozialist, Antisemit – und der einflussreichste Philosoph des 20. Jahrhunderts. Vor 50 Jahren starb er. Sollten wir ihn weiter lesen? Unbedingt, trotz allem, sagt Literaturwissenschaftler Oliver Jahraus. Eilenberger, Wolfram; Jahraus, Oliver www.deutschlandfunkkultur.de, Sein und Streit",
@@ -196,26 +196,26 @@
       }
     },
     {
-      "title": "Kommentar zum Muttertag - Mutterschaft ist eine radikale Entscheidung",
-      "url": "https://www.deutschlandfunkkultur.de/muttertag-mutterschaft-kommentar-100.html",
-      "description": "Am Muttertag werden Mütter gefeiert, an anderen Tagen kritisch beobachtet. Trotzdem entscheiden sich die meisten Frauen für ein Kind, obwohl sie nicht ahnen können, was sie erwartet. Damit zeigen sie eine radikale Offenheit gegenüber der Zukunft. Ein Kommentar von Catherine Newmark www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 10 May 2026",
+      "title": "KI in der Wissenschaft: Das Ende der Bildung?",
+      "url": "https://www.deutschlandfunkkultur.de/ki-in-der-wissenschaft-das-ende-der-bildung-100.html",
+      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 31 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
       }
     },
     {
-      "title": "Kulturgeschichte - Die Sehnsucht nach dem ewigen Leben",
-      "url": "https://www.deutschlandfunkkultur.de/kulturgeschichte-der-auferstehung-die-sehnsucht-nach-dem-ewigen-leben-100.html",
-      "description": "Von Jon Snow bis KI-Avatar: Der Wunsch, dem Tod zu entkommen, scheint heute allgegenwärtig. Ist das die Fortführung des christlichen Auferstehungsglaubens mit weltlichen Mitteln? Die Kulturgeschichte zeigt ein komplizierteres Bild. Berndt, Christian www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 05 Apr 2026",
+      "title": "Kommentar zum Muttertag - Mutterschaft ist eine radikale Entscheidung",
+      "url": "https://www.deutschlandfunkkultur.de/muttertag-mutterschaft-kommentar-100.html",
+      "description": "Am Muttertag werden Mütter gefeiert, an anderen Tagen kritisch beobachtet. Trotzdem entscheiden sich die meisten Frauen für ein Kind, obwohl sie nicht ahnen können, was sie erwartet. Damit zeigen sie eine radikale Offenheit gegenüber der Zukunft. Ein Kommentar von Catherine Newmark www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 10 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

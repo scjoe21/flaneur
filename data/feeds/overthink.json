@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-05-30T06:31:47.248645+00:00",
+  "fetchedAt": "2026-06-05T08:01:59.272940+00:00",
   "items": [
     {
       "title": "Climate Action with Kyle Whyte",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Spontaneity",
-      "url": "",
-      "description": "What does it mean to be spontaneous? In episode 161 of Overthink, Ellie and David get spontaneous. They look at Aristotle’s theory of spontaneous generation, at spontaneity’s role in politics, and at the dark side of spontaneity. How do different cultures and physical spaces enable or inhibit spontaneity? What is the relationship between spontaneity and human freedom? And is Lenin correct in arguing that leftists need to resist spontaneity in political organizing? In the Substack bonus segment, ",
-      "date": "Tue, 17 Feb 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
@@ -129,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Attention",
+      "url": "",
+      "description": "Are you paying attention when you scroll online? In episode 176 of Overthink, Ellie and David draw your attention to attention. They explain why attention is so hard to define and debate the extent to which it should be equated with consciousness. Is attention the same thing as consciousness? Or are there important differences between these concepts? They consider different ways that attention has been classified, from “overt vs. covert” to “effortful vs. effortless” to “voluntary vs. involuntar",
+      "date": "Tue, 02 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {

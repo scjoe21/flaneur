@@ -1,19 +1,51 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-05-30T06:31:42.923392+00:00",
+  "fetchedAt": "2026-06-05T08:01:53.630756+00:00",
   "items": [
     {
-      "title": "Vivre, mode d'emploi : Le geste le plus simple pour un monde plus juste, selon la philosophe Simone Weil",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/un-geste-simple-pour-un-monde-plus-juste-selon-la-philosophe-simone-weil-6200426",
-      "description": "durée : 00:03:25  - Avec philosophie - Et si lutter contre l’injustice commençait par un acte simple mais exigeant : l’attention aux autres ? Avec Laurence Devillairs, découvrez pourquoi Simone Weil voit dans l’inattention une forme de lâcheté et dans l’attention à autrui un refus de la passivité ordinaire.  - réalisation : Laurence Devillairs, Camille Renard, Virginie Le Duault, Anna Holveck \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 21 May 2026",
+      "title": "Comment parlons-nous des étrangers ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-parlons-nous-des-etrangers-4662741",
+      "description": "durée : 00:03:46  - Avec philosophie - par : Frédéric Worms - Réfugiés, touristes, visiteurs : parler des \"étrangers\" comme d’un bloc homogène masque des singularités et les transforme en menace. Contre la société close dénoncée par Henri Bergson, Frédéric Worms invite à prendre notre part d’étrangeté dans le familier et à l’ouvrir au monde.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "Pourquoi oppose-t-on l’étrange et le familier ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-oppose-t-on-l-etrange-et-le-familier-8604623",
+      "description": "durée : 00:03:40  - Avec philosophie - par : Frédéric Worms - L'étrange et le familier construisent notre rapport au monde. Entre habitudes rassurantes et surgissement de l'inconnu, cette chronique de Frédéric Worms interroge la frontière invisible qui sépare le chez-soi de l'altérité et notre manière d’accueillir l’étranger.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 22 May 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
+    {
+      "title": "Comment peut-on être étranger ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-peut-on-etre-etranger-1937255",
+      "description": "durée : 00:03:47  - Avec philosophie - par : Frédéric Worms - Quand l’étrangeté devient un mur derrière lequel on place tous les étrangers, elle se transforme en une barrière infranchissable. Parce que nous avons tous déjà été étrangers pour quelqu’un, Frédéric Worms interroge ici la réciprocité de l’étrangeté.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 22 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 34,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
+        "daily": 20,
+        "phil": 10,
         "flaneur": 4,
         "novelty": 0,
         "total": 34
@@ -40,54 +72,6 @@
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:59:11  - Avec philosophie - par : Géraldine Muhlmann - Le “Discours de la servitude volontaire” a été écrit autour de 1548 par Étienne La Boétie. Pour Miguel Abensour, cette thèse de La Boétie était une “hypothèse scandaleuse”. Pourquoi s’agit-il d’une hypothèse transgressive en philosophie politique ?\n  - réalisation : Frédéric Worms, Anna Pheulpin, Carla Michel, Riyad Cairat, Antoine Ravon, Shaïma Giboire, Marine Boudalier - invités : Anne Kupiec Professeure de sociologie à l’Univer",
       "date": "Mon, 25 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Pensées grecques et pensées juives autour de l'An 1 3 : Du polythéisme au monothéisme : qu'est-ce que cela change pour la philosophie ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/du-polytheisme-au-monotheisme-qu-est-ce-que-cela-change-pour-la-philosophie-8071821",
-      "description": "durée : 00:57:29  - Avec philosophie - par : Géraldine Muhlmann - Depuis Platon, la philosophie grecque laissait déjà entrevoir une tendance vers une forme de monothéisme. Dès lors, comment la philosophie a-t-elle évolué en passant de la Grèce polythéiste à l’Occident chrétien ?  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Carlos Lévy Professeur émérite de littérature et philosophie romaines à l'université de Paris Sorbonne, C",
-      "date": "Thu, 21 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Pourquoi faut-il faire attention ?",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:42  - Avec philosophie - par : Frédéric Worms - À l'ère du numérique, la connaissance est souvent réduite à une accumulation horizontale du savoir mais qu'en est-il de l'attention qu'on lui porte ? Cette capacité, à la fois cognitive et vitale, est le propre d'un sujet conscient de son environnement.\n  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 19 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Pensées grecques et pensées juives autour de l'An 1 1 : Philon d'Alexandrie, philosophe grec et juif",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/philon-d-alexandrie-juif-grec-et-philsophe-8248984",
-      "description": "durée : 00:58:21  - Avec philosophie - par : Géraldine Muhlmann - Grec et juif, Philon d'Alexandrie ne ressentait-il aucune tension entre ces deux mondes culturels ? Comment s’accommodait-il de l’exigence monothéiste juive, tandis qu’il était si fidèle à la pensée grecque ? Sa confiance révèle-t-elle certaines simplifications, certains évitements ?\n  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Carlos Lévy Professeur émérite de",
-      "date": "Tue, 19 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -148,19 +132,19 @@
       }
     },
     {
-      "title": "Comment préserver nos capacités d’attention",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-preserver-nos-capacites-d-attention-8229160",
-      "description": "durée : 00:03:51  - Avec philosophie - par : Frédéric Worms - Capter l’attention et préserver cette capacité préoccupe le corps enseignant, inquiet de voir des élèves perdre leur concentration, alors même que c'est un effort nécessaire pour exercer l'esprit, approfondir les connaissances, comprendre le monde et contempler sa beauté.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 20 May 2026",
+      "title": "Le Siècle d'or néerlandais et la philosophie : Une guerre peut-elle être juste ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/une-guerre-peut-elle-etre-juste-7908528",
+      "description": "durée : 00:58:06  - Avec philosophie - par : Géraldine Muhlmann - Le Siècle d’or néerlandais est une période de richesse et d’expansion, mais aussi de guerres. La lutte des Provinces-Unies pour leur indépendance invite à s’interroger sur la légitimité des conflits armés. Dès lors, peut-on considérer qu'une guerre peut être juste ?  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Julie Saada Professeure de philosophie à Sciences Po",
+      "date": "Wed, 03 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -196,51 +180,67 @@
       }
     },
     {
-      "title": "Christine Bard, historienne : \"Le féminisme de Madeleine Pelletier : la défense de la virilisation des femmes\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/christine-bard-historienne-a-propos-de-memoires-d-une-feministe-integrale-de-madeleine-pelletier-2879450",
-      "description": "durée : 00:58:45  - Avec philosophie - par : Géraldine Mosna-Savoye - Médecin, psychiatre et militante féministe française du début du XXᵉ siècle, Madeleine Pelletier retrace dans un recueil autobiographique, \"Mémoires d’une féministe intégrale\", son combat pour l’égalité totale entre hommes et femmes. L'historienne Christine Bard lui rend hommage.  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Christine Bard Professeure à l'Université d'Angers, spécialiste de l’his",
-      "date": "Fri, 22 May 2026",
+      "title": "Le Siècle d'or néerlandais et la philosophie : Hegel et l'esthétique hollandaise",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/hegel-et-l-esthetique-hollandaise-9536494",
+      "description": "durée : 00:58:03  - Avec philosophie - par : Géraldine Muhlmann - L'esthétique hollandaise révèle l'avènement d'une subjectivité moderne qui trouve sa vérité dans le monde ordinaire plutôt que dans la transcendance religieuse ou l'idéal héroïque. L'esthétique hollandaise illustre ainsi, selon Hegel, une nouvelle manière pour l'esprit de se manifester dans l'art.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Maxime Webanck Docto",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Le Siècle d'or néerlandais et la philosophie : Grotius : la liberté de naviguer, une liberté contestée ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/grotius-la-liberte-de-naviguer-une-liberte-contestee-8803347",
+      "description": "durée : 00:58:36  - Avec philosophie - par : Géraldine Muhlmann - Au début du XVIIᵉ siècle, le penseur néerlandais Hugo Grotius défend l’idée que les mers doivent être libres et accessibles à tous les peuples, que la navigation et le commerce ne peuvent être monopolisés par un État. Cette conception de la liberté des mers suscite de nombreuses contestations.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Niki Aloupi Professeur d",
+      "date": "Tue, 02 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "Pensées grecques et pensées juives autour de l'An 1 2 : Philon d'Alexandrie vu par les chrétiens",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/philon-d-alexandrie-vu-par-les-chretiens-7389015",
-      "description": "durée : 00:58:31  - Avec philosophie - par : Géraldine Muhlmann - Les penseurs chrétiens ont fait grand cas de l’œuvre du philosophe Philon d’Alexandrie, qui reliait textes grecs et textes juifs. Mais quelle trace a laissée, dans le christianisme, cette période d’échanges culturels juifs et grecs déployés dans la ville antique d’Alexandrie ?  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Matthieu Cassin Chargé de recherche au CN",
-      "date": "Wed, 20 May 2026",
+      "title": "Le Siècle d'or néerlandais et la philosophie : La tolérance hollandaise : refuge des philosophes ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-tolerance-hollandaise-refuge-des-philosophes-8327270",
+      "description": "durée : 00:57:56  - Avec philosophie - par : Géraldine Muhlmann - Il existait une assez grande liberté religieuse et intellectuelle aux Provinces-Unies, au 17ᵉ siècle. Cette ouverture a attiré de nombreux penseurs, savants, persécutés ailleurs en Europe.\nLes Pays-Bas sont ainsi devenus un refuge pour les philosophes et un centre majeur de diffusion des idées.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Julie Saada Professeure",
+      "date": "Mon, 01 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 14,
+      "priority": 15,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
-        "flaneur": 4,
+        "phil": 15,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 14
+        "total": 15
       }
     },
     {
-      "title": "Marre des mauvaises nouvelles : cultivez l’espoir avec le philosophe Ernst Bloch",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/face-aux-mauvaises-nouvelles-cultivez-l-espoir-avec-le-philosophe-ernst-bloch-6411672",
-      "description": "durée : 00:03:32  - Avec philosophie - par : Laurence Devillairs - Et si l'espoir était le seul remède à la fatalité ? Vous craignez qu'on vous accuse de vous voiler la face ? Le philosophe Ernst Bloch répond sans détour : l’espoir n’est ni naïveté ni chimère mais un rêve lucide qui s’oppose à la résignation.  - réalisation : Camille Renard, Virginie Le Duault, Anna Holveck \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "title": "Pour surmonter une épreuve quand tout s'effondre : la leçon du philosophe Henri Maldiney",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/le-fil-philo-du-jeudi-04-juin-2026-5019715",
+      "description": "durée : 00:03:03  - Avec philosophie - par : Laurence Devillairs - Rupture, deuil, licenciement : face aux crises de l’existence, le philosophe Henri Maldiney soutient qu'exister, ce n’est pas suivre un destin écrit d’avance. Vivre, c’est apprendre à accueillir l’imprévu et à se transformer à travers l’épreuve. Eclairage avec Laurence Devillairs  - réalisation : Camille Renard, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Fri, 22 May 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     }
   ]

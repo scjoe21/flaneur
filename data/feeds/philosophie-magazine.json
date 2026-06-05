@@ -1,61 +1,141 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-05-30T06:31:43.379121+00:00",
+  "fetchedAt": "2026-06-05T08:01:54.646300+00:00",
   "items": [
     {
-      "title": "Symbole de la traite des esclaves, pourquoi l’abolition du Code noir marque la fin d’une anomalie",
-      "url": "https://www.philomag.com/articles/symbole-de-la-traite-des-esclaves-pourquoi-labolition-du-code-noir-marque-la-fin-dune",
+      "title": "20 ans à éclairer l'actualité par la philosophie : comment penser la catastrophe nucléaire de Fukushima ?",
+      "url": "https://www.philomag.com/articles/20-ans-eclairer-lactualite-par-la-philosophie-comment-penser-la-catastrophe-nucleaire-de",
       "description": "",
-      "date": "Wed, 27 May 2026",
+      "date": "Thu, 04 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 30,
       "scoreDetail": {
         "daily": 15,
-        "phil": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 30
       }
     },
     {
-      "title": "Périscolaire : pourquoi avons-nous renoncé à veiller sur nos enfants ?",
-      "url": "https://www.philomag.com/articles/periscolaire-pourquoi-avons-nous-renonce-veiller-sur-nos-enfants",
+      "title": "“Migrations de retour” : comment les “repats” rejouent l’exil en sens inverse",
+      "url": "https://www.philomag.com/articles/migrations-de-retour-comment-les-repats-rejouent-lexil-en-sens-inverse",
       "description": "",
-      "date": "Tue, 26 May 2026",
+      "date": "Tue, 02 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
-      "title": "“J’ai retrouvé ma liberté temporelle quand mon épouse a connu la temporalité réglée de l’institution” : Michel Malherbe face au temps de la dépendance",
-      "url": "https://www.philomag.com/articles/jai-retrouve-ma-liberte-temporelle-quand-mon-epouse-connu-la-temporalite-reglee-de",
+      "title": "20 ans et 200 numéros : vivre avec “Philosophie magazine”",
+      "url": "https://www.philomag.com/articles/20-ans-et-200-numeros-vivre-avec-philosophie-magazine",
       "description": "",
-      "date": "Fri, 29 May 2026",
+      "date": "Thu, 04 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "La vie comme résistance : Frédéric Worms raconte le philosophe Georges Canguilhem",
-      "url": "https://www.philomag.com/articles/la-vie-comme-resistance-frederic-worms-raconte-le-philosophe-georges-canguilhem",
+      "title": "“C'était il y a vingt ans…” L'édito d’Alexandre Lacroix à l'occasion de la sortie du n°200 de “Philosophie magazine”",
+      "url": "https://www.philomag.com/articles/cetait-il-y-vingt-ans-ledito-dalexandre-lacroix-loccasion-de-la-sortie-du-ndeg200-de",
       "description": "",
-      "date": "Sat, 30 May 2026",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "“On change d'ère ?” 20 ans et numéro 200… Découvrez le nouveau “Philosophie magazine”, qui sort ce jeudi !",
+      "url": "https://www.philomag.com/articles/change-dere-20-ans-et-numero-200-decouvrez-le-nouveau-philosophie-magazine-qui-sort-ce",
+      "description": "",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "“Circulez, y a rien à voir” : faut-il s’en vouloir d’observer une scène d’accident ?",
+      "url": "https://www.philomag.com/articles/circulez-y-rien-voir-faut-il-sen-vouloir-dobserver-une-scene-daccident",
+      "description": "",
+      "date": "Wed, 03 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 8,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 8
+      }
+    },
+    {
+      "title": "Les grandes questions de la rédaction : “L’IA, notre futur animal de compagnie ?”",
+      "url": "https://www.philomag.com/articles/les-grandes-questions-de-la-redaction-lia-notre-futur-animal-de-compagnie",
+      "description": "",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Travail, loisirs, ennui… L'agenda contradictoire des philosophes pour savoir quoi faire de son temps",
+      "url": "https://www.philomag.com/articles/travail-loisirs-ennui-lagenda-contradictoire-des-philosophes-pour-savoir-quoi-faire-de",
+      "description": "",
+      "date": "Tue, 02 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Découvrez les 20 livres de nos 20 ans !",
+      "url": "https://www.philomag.com/articles/decouvrez-les-20-livres-de-nos-20-ans",
+      "description": "",
+      "date": "Fri, 05 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -68,10 +148,10 @@
       }
     },
     {
-      "title": "Mettez-vous au vert (et au frais), pendant le Festival international des jardins au Domaine de Chaumont-sur-Loire",
-      "url": "https://www.philomag.com/articles/mettez-vous-au-vert-et-au-frais-pendant-le-festival-international-des-jardins-au-domaine",
+      "title": "La souveraineté numérique est-elle l’enjeu du siècle ?",
+      "url": "https://www.philomag.com/articles/la-souverainete-numerique-est-elle-lenjeu-du-siecle",
       "description": "",
-      "date": "Fri, 29 May 2026",
+      "date": "Wed, 03 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,10 +164,10 @@
       }
     },
     {
-      "title": "Encyclique “Magnifica humanitas” : Arendt et Heidegger inspirent le pape Léon XIV pour “désarmer” l’IA",
-      "url": "https://www.philomag.com/articles/encyclique-magnifica-humanitas-arendt-et-heidegger-inspirent-le-pape-leon-xiv-pour",
+      "title": "Bac philo 2026 : notre kit de survie pour affronter l’explication de texte",
+      "url": "https://www.philomag.com/articles/bac-philo-2026-notre-kit-de-survie-pour-affronter-lexplication",
       "description": "",
-      "date": "Fri, 29 May 2026",
+      "date": "Wed, 03 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +180,10 @@
       }
     },
     {
-      "title": "Accueillir un SDF : quand la chaleur fait suffoquer l’hospitalité",
-      "url": "https://www.philomag.com/articles/accueillir-un-sdf-quand-la-chaleur-fait-suffoquer-lhospitalite",
+      "title": "9 conseils de philosophes pour entrer en résistance !",
+      "url": "https://www.philomag.com/articles/9-conseils-de-philosophes-pour-entrer-en-resistance",
       "description": "",
-      "date": "Thu, 28 May 2026",
+      "date": "Wed, 03 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +196,10 @@
       }
     },
     {
-      "title": "Cyberdeck : une résistance bricolée et féministe face aux géants de la “tech” ?",
-      "url": "https://www.philomag.com/articles/cyberdeck-une-resistance-bricolee-et-feministe-face-aux-geants-de-la-tech",
+      "title": "Campagne présidentielle : besoin de tout, envie de rien",
+      "url": "https://www.philomag.com/articles/campagne-presidentielle-besoin-de-tout-envie-de-rien",
       "description": "",
-      "date": "Thu, 28 May 2026",
+      "date": "Tue, 02 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +212,10 @@
       }
     },
     {
-      "title": "Les conseils de huit philosophes pour survivre à la canicule",
-      "url": "https://www.philomag.com/articles/les-conseils-de-huit-philosophes-pour-survivre-la-canicule",
+      "title": "Ninon de Lenclos ? Courtisane, certes, mais surtout philosophe",
+      "url": "https://www.philomag.com/articles/ninon-de-lenclos-courtisane-certes-mais-surtout-philosophe",
       "description": "",
-      "date": "Wed, 02 Jul 2025",
+      "date": "Tue, 02 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,90 +228,10 @@
       }
     },
     {
-      "title": "Bac philo 2026 : les sujets et corrigés pour vous entraîner",
-      "url": "https://www.philomag.com/articles/bac-philo-2026-les-sujets-et-corriges-pour-vous-entrainer",
+      "title": "Bac philo 2026 : apprendre à construire une problématique",
+      "url": "https://www.philomag.com/bac-philo/construire-problematique-bac-philo",
       "description": "",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“La résistance consent à la violence, le terrorisme l'héroïse”. Entretien avec Gérard Rabinovitch",
-      "url": "https://www.philomag.com/articles/la-resistance-consent-la-violence-le-terrorisme-lheroise-entretien-avec-gerard",
-      "description": "",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Âge de l’accès : l’intelligence va-t-elle devenir un service à louer ?",
-      "url": "https://www.philomag.com/articles/age-de-lacces-lintelligence-va-t-elle-devenir-un-service-louer",
-      "description": "",
-      "date": "Wed, 27 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bac philo 2026 : oubliez ChatGPT et suivez notre planning de révision… jour par jour !",
-      "url": "https://www.philomag.com/articles/bac-philo-2026-oubliez-chatgpt-et-suivez-notre-planning-de-revision-jour-par-jour",
-      "description": "",
-      "date": "Wed, 27 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“La résistance peut-elle avoir recours à la violence ?” La réponse de Norman Ajari",
-      "url": "https://www.philomag.com/articles/la-resistance-peut-elle-avoir-recours-la-violence-la-reponse-de-norman-ajari",
-      "description": "",
-      "date": "Wed, 27 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Catalogue La Redoute : première fabrique du désir ou ancêtre du scroll ?",
-      "url": "https://www.philomag.com/articles/catalogue-la-redoute-premiere-fabrique-du-desir-ou-ancetre-du-scroll",
-      "description": "",
-      "date": "Tue, 26 May 2026",
+      "date": "Tue, 02 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

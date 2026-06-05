@@ -1,78 +1,94 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-05-30T06:31:49.834826+00:00",
+  "fetchedAt": "2026-06-05T08:02:03.847783+00:00",
   "items": [
     {
-      "title": "Why your brain loves games — and how to use that to your advantage",
-      "url": "https://bigthink.com/mind-behavior/why-your-brain-loves-games-and-how-to-use-that-to-your-advantage/",
-      "description": "I remember sitting in class as a kid, struggling to pay attention while my teacher explained fractions. But at home, I could play  Age of Empires  for five hours straight — managing civilizations, balancing economies, and fighting wars on multiple fronts. \n The games I played demanded serious thinking, planning, and problem-solving. And yet they never felt like work. The cognitive effort was real, but the motivation almost seemed to come for free. So what was different? \n Games are remarkably go",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/lovesgames-1.jpg?quality=85&w=640",
+      "title": "The chemical reason love makes you irrational",
+      "url": "https://bigthink.com/perception-box/the-chemical-reason-love-makes-you-irrational/",
+      "description": "Why does love make rational people obsessive? Meghan Sullivan, PhD, Helen Fisher, PhD, Gail Saltz, PhD, and Ted Fischer, PhD, trace love through the brain systems that shape reward, stress, attachment, and desire. But chemistry is only the beginning. Love may also be a moral practice: a way to pay attention, challenge bias, and ask what it really means to care. \n We created this video for  Brain Briefs , a Big Think interview series created in partnership with  Unlikely Collaborators . As a crea",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/UC-BB-Love-Web-B.png?quality=80&w=640",
       "videoId": "",
       "priority": 50,
       "scoreDetail": {
-        "daily": 40,
+        "daily": 35,
         "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 50
       }
     },
     {
-      "title": "The hidden cost of taking yourself too seriously",
-      "url": "https://bigthink.com/mind-behavior/the-hidden-cost-of-taking-yourself-too-seriously/",
-      "description": "I was in St Albans, England, walking through the sunny park leading up to the cathedral, when I saw a small boy rolling down the hill in the grass. I felt something unexpected: jealousy. I wish that were me. Followed immediately by a second thought: Why couldn’t it be? \n I could, in theory, roll down that hill. But at what expense? Dirtying my clothes? Looking like a lunatic? In about three seconds, the case was closed. I kept walking. \n What unsettled me wasn’t that I didn’t do it but rather ho",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/playwoman.jpg?quality=85&w=640",
+      "title": "The trick that offloads intrusive thoughts so your brain can actually work",
+      "url": "https://bigthink.com/series/the-big-think-interview/focus-attention-economy/",
+      "description": "We treat focus as something you’re either engaging in, or opting out of, but what if the truth points to focus as being something you’ve been trained out of by our attention economy? \n David Epstein, author of Range and Inside the Box, breaks down what’s actually happening inside the brain when we multitask, and why “just focusing” is a solution that doesn’t hold up to reality. \n This video  The trick that offloads intrusive thoughts so your brain can actually work  is featured on  Big Think .",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/B1-Web-Epstein-3.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 32,
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 45
+      }
+    },
+    {
+      "title": "5 literary classics that grapple with the void of nihilism",
+      "url": "https://bigthink.com/books/literary-classics-that-grappled-with-nihilism/",
+      "description": "Have you ever wondered how life could possibly be meaningful in this absurd and seemingly arbitrary world? If so, you’re not alone. The question of whether life has purpose has been debated since at least Ancient Greece, and some of the greatest minds in philosophy and literature have grappled with it and its implications. \n On one side of that debate is nihilism, a group of philosophies that center on rejecting the foundational ideas of other philosophies. Its most famous manifestation is exist",
+      "date": "Wed, 03 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/nihilism.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 45,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
-        "flaneur": 12,
+        "phil": 25,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 32
+        "total": 45
       }
     },
     {
-      "title": "Ask Ethan: Why does our Universe require CP-violation?",
-      "url": "https://bigthink.com/starts-with-a-bang/universe-require-cp-violation/",
-      "description": "Here in our Universe, one great mystery is how, if matter and antimatter can only be created or destroyed in equal-and-opposite amounts, our Universe came to be dominated by normal (regular) matter, with barely a trace of antimatter present. Sure, dark energy (68%) and dark matter (27%) might make up the majority of the Universe, but the rest of it is made up of particles from the Standard Model: quarks, gluons, leptons, and photons. Of that 5%, nearly all of it (4.9%) is regular matter, made of",
-      "date": "Fri, 29 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/06/k-matter-1000px-e1780010052340.jpg?quality=85&w=640",
+      "title": "How to stop trying to convince a room you belong in it",
+      "url": "https://bigthink.com/work-wise/how-to-stop-trying-to-convince-a-room-you-belong-in-it/",
+      "description": "I have what is affectionately known as a “baby face,” which is another way of saying I get asked about student discounts more often than seems statistically likely. It’s an inconvenient feature to have as a facilitator of leadership development, where much of my job involves walking into a conference room with a long table, too many chairs, and silence from a group of people who haven’t yet decided whether this will be worth it.  \n I was, for example, recently presenting to a group of senior adm",
+      "date": "Wed, 03 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/work-wise_executive-presence_compressed.png?quality=80&w=640",
       "videoId": "",
-      "priority": 25,
+      "priority": 33,
       "scoreDetail": {
         "daily": 25,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 8,
         "novelty": 0,
-        "total": 25
+        "total": 33
       }
     },
     {
-      "title": "The Power of Play",
-      "url": "https://bigthink.com/collections/the-power-of-play/",
-      "description": "In this monthly issue, we take a closer look at how games, imagination, and creative experimentation shape identity and culture.",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/play-issue-cover-animation-16x9-1.jpeg?quality=85&w=640",
+      "title": "3 reasons why holidays aren’t making you more relaxed",
+      "url": "https://bigthink.com/mini-philosophy/3-reasons-why-holidays-arent-making-you-more-relaxed/",
+      "description": "It doesn’t take Jack Nicholson tap, tap, tapping away in an empty hotel to tell you that rest is important to our well-being. Physiologically, humans need to rest and sleep. When we don’t, we lose some of our ability to concentrate, calculate, remember, and even perceive the world accurately. Our muscles cannot repair, our energy stores deplete, and our hearts beat faster. \n On a psychological level, things aren’t much better. When we feel we’re always on — working too long and working too hard ",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/holidays-arent-relaxing_compressed.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 25,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 30,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 30
       }
     },
     {
-      "title": "Why play brings us pleasure",
-      "url": "https://bigthink.com/mind-behavior/why-play-brings-us-pleasure/",
-      "description": "Since the days of ancient Greece, thinkers have grappled with the mystery of why humans and other animals play. Survival is hard, so why waste energy? Over the years, theories have ranged from Plato’s simple picture of play as skill rehearsal to ever more  esoteric ideas  about surplus energy, Freudian catharsis, and vestigial “primitive instincts.” \n These days, developmental psychologists mostly see play as a way of gathering information about the world and our place in it. But there’s somethi",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/Play_Pleasure_07-optimized.gif?w=640",
+      "title": "The 3-part habit loop your brain is running 40 percent of the time",
+      "url": "https://bigthink.com/series/full-interview/the-habit-loop-duhigg/",
+      "description": "About 40% of everything you do today is a habit your brain automated, and the neural loop driving it doesn’t distinguish between good and bad habits. \n Charles Duhigg, author of  The Power of Habit  and  Supercommunicators , explains why trying to eliminate a bad habit is neurologically futile and why the habit that scares you most irrationally is probably the one change that rewires everything else. \n \n This video  The 3-part habit loop your brain is running 40 percent of the time  is featured ",
+      "date": "Fri, 05 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/Screenshot-2026-06-04-at-12.13.23-PM.png?quality=80&w=640",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
@@ -84,27 +100,43 @@
       }
     },
     {
-      "title": "How playgrounds reinvented childhood",
-      "url": "https://bigthink.com/history-society/how-playgrounds-reinvented-childhood/",
-      "description": "Fictional though they are, Tom Sawyer and Huckleberry Finn exemplify a lost truth about American kids up until the 1880s: Childhood was  wild .  \n Like millions of their real-life contemporaries, the protagonists of Mark Twain’s comic masterpieces roamed unsupervised across town and country, looking for fun and adventure, often finding trouble and danger. Then came the Progressive Era and one of modern America’s defining inventions: the playground.  \n Playgrounds helped transform childhood from ",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/playground.jpg?quality=85&w=640",
+      "title": "Ask Ethan: How did we discover substructure inside the proton?",
+      "url": "https://bigthink.com/starts-with-a-bang/discover-substructure-inside-proton/",
+      "description": "It might seem hard to believe, but the picture that most of us were initially taught — that protons and neutrons represented everything that made up the atomic nucleus — was one of the shortest-lived ideas in all of physics history. The proton was only discovered in 1917, by Ernest Rutherford: the same scientist who discovered the existence of the atomic nucleus itself. The neutron, meanwhile, was discovered in 1932 by James Chadwick, providing a massive, neutral counterpart to the proton. As mo",
+      "date": "Fri, 05 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/12/protonboy-1.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 25,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 25
+        "total": 24
       }
     },
     {
-      "title": "Body language expert: 7 cues that make you instantly more likable",
-      "url": "https://bigthink.com/series/full-interview/body-language-first-impression/",
-      "description": "You only have a few seconds to make a first impression, and the non-verbal cues you’re sending may be silently working against any kindness your words communicate. Charisma is learned, not innate, and even if you consider yourself an “awkward” person, you can still hack positive reception.  \n Body language expert Vanessa Van Edwards shares a genius formula to create a lasting first impression while debunking body-language myths and the mistakes you’re probably making in social situations. \n \n Th",
-      "date": "Fri, 29 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/A1-YT-VanEdwards.jpg?quality=85&w=640",
+      "title": "Singularities inside black holes are truly unavoidable",
+      "url": "https://bigthink.com/starts-with-a-bang/singularity-inside-black-hole/",
+      "description": "It’s easy to think about the idea of a singularity — where a large amount of matter and energy gets compressed into a single spacetime point or event — and dismiss it as a pathology. After all, everything that we know of in physics, at a fundamental level, comes in quantized little bits: particles and antiparticles with a fixed, finite amount of energy inherent to each of them. No matter what tricks you use, there are certain quantum properties that are always conserved and can never be created ",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/07/134390-134391.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The WWII engineer who invented Silicon Valley’s startup playbook",
+      "url": "https://bigthink.com/business/kelly-johnson/",
+      "description": "In October 1982, millions of Americans learned about Kelly Johnson for the first time. On  CBS’s  60 Minutes , the grizzled 72-year-old recounted his involvement in numerous secret military projects over his impressive career in aviation. He also predicted the future: unmanned, autonomous aircraft and satellites that enable video conferences via data streaming at the speed of light. Yes, Johnson forecasted drones and FaceTime decades ahead of their arrival.  \n How could he be so prophetic? Becau",
+      "date": "Wed, 03 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/military-aircraft-silicon-valley_compressed.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
@@ -116,51 +148,19 @@
       }
     },
     {
-      "title": "Follow the money: Mapping millionaire migration across America",
-      "url": "https://bigthink.com/strange-maps/millionaire-migration/",
-      "description": "Since 2018, around 102,600 millionaires have left California. In the same period, 61,400 Americans with at least seven figures to their name have packed up and left New York state. Where have they gone? According to the  Wealth Exodus dashboard , Florida has added 133,000 millionaires over those years, and Texas has added 61,400. \n Using data compiled from the IRS, the Federal Reserve, and state tax records, this dashboard visualizes the migration of American millionaires between states. \n Polit",
-      "date": "Fri, 29 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/Cropped-USA.png?quality=80&w=640",
+      "title": "The overlooked brain system shaping our motivations",
+      "url": "https://bigthink.com/books/the-overlooked-brain-system-shaping-our-motivations/",
+      "description": "I first met Eduardo during my last year of neurology residency, in our aging and memory clinic. He was 56 years old and in robust physical health, having been an avid cyclist for much of his life. But he had a bookish side, too: He was an enthusiastic reader of history and led an informal book club that met monthly at his apartment. As a Dominican American, he was particularly interested in Latin American history and the New York City diaspora, and he often enlivened club meetings with his other",
+      "date": "Thu, 04 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/socially-wired_excerpt.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The 250-year-old company that survived by refusing to lay people off",
-      "url": "https://bigthink.com/the-long-game/the-250-year-old-company-that-survived-by-refusing-to-lay-people-off/",
-      "description": "What happens when you lose all of your customers at once? \n In 1978, that’s exactly what happened to Garbellotto S.p.A., one of Italy’s oldest and most celebrated barrel-makers. Founded in 1775 and still run by the same family today, it had once supplied barrels to the House of Habsburg. By the 20th century, the company’s vessels aged wine and spirits for some of Italy’s most storied producers, from Biondi Santi to Vecchia Romagna. Their craftsmanship had earned them a reputation in the industry",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/artisanal-intelligence_compressed.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "What children learn when adults aren’t around",
-      "url": "https://bigthink.com/mind-behavior/what-children-learn-when-adults-arent-around/",
-      "description": "Children, like all mammals, are born completely dependent on adults for survival. The primary task of childhood is to grow increasingly independent of this care, and so they are also born with instinctive drives to practice independence to the degree that they can. The most powerful of these is the drive to play.  \n In play, children learn the most important lessons in life, lessons of personal empowerment, responsibility, and effective social engagement — and when we don’t let kids play on thei",
-      "date": "Thu, 28 May 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/climb2.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 0,
+      "priority": 9,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 9
       }
     }
   ]
