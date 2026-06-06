@@ -1,24 +1,8 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-05T08:02:04.398093+00:00",
+  "fetchedAt": "2026-06-06T04:18:56.780943+00:00",
   "items": [
-    {
-      "title": "How to Silence the Federal Workforce",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trumps-intimidation-whistleblowers-nda/687377/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
     {
       "title": "Why Reading Is Now Restless",
       "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/?utm_source=feed",
@@ -38,22 +22,6 @@
     {
       "title": "All These Defeats Are Ruining Trump’s Birthday",
       "url": "https://www.theatlantic.com/ideas/2026/06/defeats-trumps-birthday/687393/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "D.C. Progressives’ Great Socialist Hope",
-      "url": "https://www.theatlantic.com/ideas/2026/06/dc-mayor-socialist-election/687348/?utm_source=feed",
       "description": "",
       "date": "2026-06-01",
       "thumbnail": "",
@@ -113,6 +81,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "The Supreme Court Has Invented a Right to Discriminate",
+      "url": "https://www.theatlantic.com/ideas/2026/06/alabama-racial-discrimination-voting/687448/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Republicans Who Impugn Talarico’s Manhood",
+      "url": "https://www.theatlantic.com/ideas/2026/06/james-talarico-senate-paxton/687436/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -212,8 +212,8 @@
       }
     },
     {
-      "title": "The Spanish Exception",
-      "url": "https://www.theatlantic.com/ideas/2026/06/spain-economy-immigration-backlash/687371/?utm_source=feed",
+      "title": "Use It or Lose It",
+      "url": "https://www.theatlantic.com/magazine/2026/07/free-press-first-amendment-rights/687317/?utm_source=feed",
       "description": "",
       "date": "2026-06-01",
       "thumbnail": "",
@@ -228,8 +228,8 @@
       }
     },
     {
-      "title": "Use It or Lose It",
-      "url": "https://www.theatlantic.com/magazine/2026/07/free-press-first-amendment-rights/687317/?utm_source=feed",
+      "title": "The Spanish Exception",
+      "url": "https://www.theatlantic.com/ideas/2026/06/spain-economy-immigration-backlash/687371/?utm_source=feed",
       "description": "",
       "date": "2026-06-01",
       "thumbnail": "",

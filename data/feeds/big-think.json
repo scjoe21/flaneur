@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-06-05T08:02:03.847783+00:00",
+  "fetchedAt": "2026-06-06T04:18:56.288554+00:00",
   "items": [
     {
       "title": "The chemical reason love makes you irrational",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "5 literary classics that grapple with the void of nihilism",
-      "url": "https://bigthink.com/books/literary-classics-that-grappled-with-nihilism/",
-      "description": "Have you ever wondered how life could possibly be meaningful in this absurd and seemingly arbitrary world? If so, you’re not alone. The question of whether life has purpose has been debated since at least Ancient Greece, and some of the greatest minds in philosophy and literature have grappled with it and its implications. \n On one side of that debate is nihilism, a group of philosophies that center on rejecting the foundational ideas of other philosophies. Its most famous manifestation is exist",
-      "date": "Wed, 03 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/03/nihilism.jpg?quality=85&w=640",
+      "title": "How AI is quietly changing what we think the human mind is",
+      "url": "https://bigthink.com/philosophy/how-ai-is-quietly-changing-what-we-think-the-human-mind-is/",
+      "description": "In the summer of 2009, Anil Seth spent an unforgettable week with about a dozen  Octopus vulgaris , the common octopus. At biologist Graziano Fiorito’s lab, set in a dank basement beneath a public aquarium in the heart of Naples, he watched these astonishing creatures change shape, color, and texture almost like living weather. He watched what they were paying attention to — the way they gathered to stare intently at his colleague’s work, apparently trying to understand what was happening “for n",
+      "date": "Fri, 05 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/ai-consciousness-illusion-1.webp?quality=85&w=640",
       "videoId": "",
-      "priority": 45,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 25,
+        "daily": 25,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 45
+        "total": 35
       }
     },
     {
@@ -56,7 +56,7 @@
       "url": "https://bigthink.com/work-wise/how-to-stop-trying-to-convince-a-room-you-belong-in-it/",
       "description": "I have what is affectionately known as a “baby face,” which is another way of saying I get asked about student discounts more often than seems statistically likely. It’s an inconvenient feature to have as a facilitator of leadership development, where much of my job involves walking into a conference room with a long table, too many chairs, and silence from a group of people who haven’t yet decided whether this will be worth it.  \n I was, for example, recently presenting to a group of senior adm",
       "date": "Wed, 03 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/work-wise_executive-presence_compressed.png?quality=80&w=640",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/work-wise_executive-presence_compressed_0f7a25.png?quality=80&w=640",
       "videoId": "",
       "priority": 33,
       "scoreDetail": {
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Body language expert: 7 cues that make you instantly more likable",
+      "url": "https://bigthink.com/series/full-interview/body-language-first-impression/",
+      "description": "You only have a few seconds to make a first impression, and the non-verbal cues you’re sending may be silently working against any kindness your words communicate. Charisma is learned, not innate, and even if you consider yourself an “awkward” person, you can still hack positive reception.  \n Body language expert Vanessa Van Edwards shares a genius formula to create a lasting first impression while debunking body-language myths and the mistakes you’re probably making in social situations. \n \n Th",
+      "date": "Fri, 05 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/B1-Web-VanEdwards.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Singularities inside black holes are truly unavoidable",
       "url": "https://bigthink.com/starts-with-a-bang/singularity-inside-black-hole/",
       "description": "It’s easy to think about the idea of a singularity — where a large amount of matter and energy gets compressed into a single spacetime point or event — and dismiss it as a pathology. After all, everything that we know of in physics, at a fundamental level, comes in quantized little bits: particles and antiparticles with a fixed, finite amount of energy inherent to each of them. No matter what tricks you use, there are certain quantum properties that are always conserved and can never be created ",
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "The WWII engineer who invented Silicon Valley’s startup playbook",
-      "url": "https://bigthink.com/business/kelly-johnson/",
-      "description": "In October 1982, millions of Americans learned about Kelly Johnson for the first time. On  CBS’s  60 Minutes , the grizzled 72-year-old recounted his involvement in numerous secret military projects over his impressive career in aviation. He also predicted the future: unmanned, autonomous aircraft and satellites that enable video conferences via data streaming at the speed of light. Yes, Johnson forecasted drones and FaceTime decades ahead of their arrival.  \n How could he be so prophetic? Becau",
-      "date": "Wed, 03 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/military-aircraft-silicon-valley_compressed.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-06-05T08:01:53.630756+00:00",
+  "fetchedAt": "2026-06-06T04:18:45.962846+00:00",
   "items": [
     {
       "title": "Comment parlons-nous des étrangers ?",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
+      }
+    },
+    {
+      "title": "\"Le Normal et le Pathologique\" de Georges Canguilhem par le philosophe Thierry Hoquet",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:59:16  - Avec philosophie - par : Géraldine Mosna-Savoye - Comment la lecture de Canguilhem a-t-elle permis au philosophe Thierry Hoquet de penser la vie, non pas sous sa forme politique ou vécue, mais sous sa forme biologique ? On plonge avec lui dans \"Le Normal et le Pathologique\", un classique qui s'intéresse à la maladie, à la santé et aux normes.  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, ",
+      "date": "Wed, 03 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-tolerance-hollandaise-refuge-des-philosophes-8327270",
       "description": "durée : 00:57:56  - Avec philosophie - par : Géraldine Muhlmann - Il existait une assez grande liberté religieuse et intellectuelle aux Provinces-Unies, au 17ᵉ siècle. Cette ouverture a attiré de nombreux penseurs, savants, persécutés ailleurs en Europe.\nLes Pays-Bas sont ainsi devenus un refuge pour les philosophes et un centre majeur de diffusion des idées.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Julie Saada Professeure",
       "date": "Mon, 01 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Pour surmonter une épreuve quand tout s'effondre : la leçon du philosophe Henri Maldiney",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/le-fil-philo-du-jeudi-04-juin-2026-5019715",
-      "description": "durée : 00:03:03  - Avec philosophie - par : Laurence Devillairs - Rupture, deuil, licenciement : face aux crises de l’existence, le philosophe Henri Maldiney soutient qu'exister, ce n’est pas suivre un destin écrit d’avance. Vivre, c’est apprendre à accueillir l’imprévu et à se transformer à travers l’épreuve. Eclairage avec Laurence Devillairs  - réalisation : Camille Renard, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Fri, 22 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

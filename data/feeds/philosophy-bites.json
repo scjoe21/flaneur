@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-06-05T08:02:02.959717+00:00",
+  "fetchedAt": "2026-06-06T04:18:55.198021+00:00",
   "items": [
     {
       "title": "Monima Chadha on Responsibility Without Selves",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "Sari Nusseibeh on Philosophy and Conflict",
-      "url": "https://philosophybites.libsyn.com/sari-nusseibeh-on-philosophy-and-conflict",
-      "description": "Many people think philosophical discucssion is a luxury in times of conflict, but the Palestinian philosopher Sari Nusseibeh is more optimistic. In this episode of Philosophy Bites, recorded in early 2025, he explains why.",
-      "date": "Sun, 17 Aug 2025",
+      "title": "Rebecca Newberger Goldstein on Mattering",
+      "url": "https://philosophybites.libsyn.com/rebecca-newberger-goldstein-on-mattering",
+      "description": "We are the kind of creature that cares whether or not we matter and how. What follows from this? Rebecca Newberger Goldstein, author of  Mattering , discuses this with David Edmonds.",
+      "date": "Fri, 05 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
