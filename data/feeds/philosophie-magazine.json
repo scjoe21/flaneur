@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-06T04:18:46.291260+00:00",
+  "fetchedAt": "2026-06-06T05:40:22.169319+00:00",
   "items": [
     {
       "title": "20 ans à éclairer l'actualité par la philosophie : comment penser la catastrophe nucléaire de Fukushima ?",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Rétrospective 2006-2026 : un guide d’autodéfense contre le fanatisme après l’attentat terroriste contre “Charlie Hebdo”",
+      "url": "https://www.philomag.com/articles/retrospective-2006-2026-un-guide-dautodefense-contre-le-fanatisme-apres-lattentat",
+      "description": "",
+      "date": "Sat, 06 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "“Ercole amante”, à l'Opéra de Paris : l’éclat du consentement",
       "url": "https://www.philomag.com/articles/ercole-amante-lopera-de-paris-leclat-du-consentement",
       "description": "",
@@ -214,22 +230,6 @@
     {
       "title": "La souveraineté numérique est-elle l’enjeu du siècle ?",
       "url": "https://www.philomag.com/articles/la-souverainete-numerique-est-elle-lenjeu-du-siecle",
-      "description": "",
-      "date": "Wed, 03 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bac philo 2026 : notre kit de survie pour affronter l’explication de texte",
-      "url": "https://www.philomag.com/articles/bac-philo-2026-notre-kit-de-survie-pour-affronter-lexplication",
       "description": "",
       "date": "Wed, 03 Jun 2026",
       "thumbnail": "",

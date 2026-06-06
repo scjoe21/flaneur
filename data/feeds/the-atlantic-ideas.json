@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-06T04:18:56.780943+00:00",
+  "fetchedAt": "2026-06-06T05:40:33.873978+00:00",
   "items": [
+    {
+      "title": "How to Silence the Federal Workforce",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trumps-intimidation-whistleblowers-nda/687377/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
     {
       "title": "Why Reading Is Now Restless",
       "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/?utm_source=feed",
@@ -214,22 +230,6 @@
     {
       "title": "Use It or Lose It",
       "url": "https://www.theatlantic.com/magazine/2026/07/free-press-first-amendment-rights/687317/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Spanish Exception",
-      "url": "https://www.theatlantic.com/ideas/2026/06/spain-economy-immigration-backlash/687371/?utm_source=feed",
       "description": "",
       "date": "2026-06-01",
       "thumbnail": "",
