@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-06T06:40:24.855466+00:00",
+  "lastRun": "2026-06-12T08:19:20.328933+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -10,6 +10,7 @@
     "hohe-luft",
     "rick-dufer",
     "tlon",
+    "rai-radio3-filosofia",
     "philosophy-now",
     "overthink",
     "aeon",
@@ -18,9 +19,7 @@
     "big-think",
     "the-atlantic-ideas"
   ],
-  "fail": [
-    "rai-radio3-filosofia"
-  ],
+  "fail": [],
   "total": 17,
-  "fetched": 16
+  "fetched": 17
 }

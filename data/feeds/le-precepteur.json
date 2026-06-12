@@ -1,24 +1,8 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-06-06T06:40:12.666869+00:00",
+  "fetchedAt": "2026-06-12T08:19:11.021635+00:00",
   "items": [
-    {
-      "title": "Agissez-vous moralement ?",
-      "url": "https://www.youtube.com/shorts/Ly4OEFM8ppw",
-      "description": "Au XVIIIe siècle, le philosophe britannique Jeremy Bentham propose une idée radicale : une action est morale si elle augmente le bonheur du plus grand nombre. Dans cette vidéo, je vous explique pourquoi, selon lui, la morale ne dépend ni des intentions, ni des principes abstraits, mais uniquement des conséquences de nos actes.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #bentham #utilitarisme #morale #bonheur",
-      "date": "2026-05-10",
-      "thumbnail": "https://i1.ytimg.com/vi/Ly4OEFM8ppw/hqdefault.jpg",
-      "videoId": "Ly4OEFM8ppw",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
     {
       "title": "La servitude volontaire",
       "url": "https://www.youtube.com/shorts/1PfdIZnvFlM",
@@ -49,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
+      }
+    },
+    {
+      "title": "L'amour est un piège",
+      "url": "https://www.youtube.com/shorts/aoBwHuLbPiY",
+      "description": "Au XIXe siècle, le philosophe allemand Arthur Schopenhauer développe une théorie aussi provocatrice que dérangeante : l'amour ne serait pas un sentiment sacré, mais un simple mécanisme de la nature destiné à assurer la reproduction de l'espèce. Dans cette vidéo, je vous explique pourquoi, selon lui, lorsque nous tombons amoureux, ce n'est pas notre âme qui parle… mais notre biologie.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #schopenhauer #amour #psychologie #",
+      "date": "2026-06-07",
+      "thumbnail": "https://i2.ytimg.com/vi/aoBwHuLbPiY/hqdefault.jpg",
+      "videoId": "aoBwHuLbPiY",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -100,35 +100,19 @@
       }
     },
     {
-      "title": "Machiavel dans Le Parrain 2",
-      "url": "https://www.youtube.com/shorts/qbha9W0X5pA",
-      "description": "Faut-il être aimé ou être craint pour exercer le pouvoir ? Machiavel tranche : l’idéal est d’être les deux, mais s’il faut choisir, mieux vaut être craint. Pourquoi ? Parce que la peur est un sentiment plus stable que l’amour. Cette idée prend une dimension concrète à travers le personnage de Michael Corleone dans Le Parrain 2, qui incarne un pouvoir fondé sur le respect et la crainte.\n \nÉpisode intégral : https://youtu.be/h-c0z0ArPN8\n \n#Machiavel #Cinéma #Pouvoir #Parrain #Psychologie",
-      "date": "2026-05-06",
-      "thumbnail": "https://i2.ytimg.com/vi/qbha9W0X5pA/hqdefault.jpg",
-      "videoId": "qbha9W0X5pA",
-      "priority": 25,
+      "title": "CETTE APPLICATION RESSUSCITE LES PHILOSOPHES",
+      "url": "https://www.youtube.com/watch?v=21d5VCWEAUM",
+      "description": "-20% sur votre abonnement avec le code promo PRECEPTEUR\n\n▶️ https://learningfrontier.ai/fr\n\nPOUR COMMANDER MON LIVRE :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\nPOURQUOI ME REJOINDRE SUR PATREON :\n\n▶️ https://www.le-precepteur.fr/pourquoi-me-rejoindre-sur-patreon\n\nPOUR ME SOUTENIR :\n\n▶️ SUR TIPEEE : https://www.tipeee.com/le-precepteur\n▶",
+      "date": "2026-06-07",
+      "thumbnail": "https://i3.ytimg.com/vi/21d5VCWEAUM/hqdefault.jpg",
+      "videoId": "21d5VCWEAUM",
+      "priority": 15,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Machiavel dans Les Marches du pouvoir",
-      "url": "https://www.youtube.com/shorts/eb9eMPHoU68",
-      "description": "Dans Les Marches du pouvoir, le personnage de Mike Morris incarne une idée profondément machiavélienne : en politique, ce n’est pas la vérité qui compte, mais les apparences. Pour Machiavel, gouverner, c’est savoir maîtriser son image, inspirer confiance et contrôler ce que les autres perçoivent.\n \nÉpisode intégral : https://youtu.be/h-c0z0ArPN8\n \n#Politique #Machiavel #Philosophie #Pouvoir #Manipulation",
-      "date": "2026-05-13",
-      "thumbnail": "https://i2.ytimg.com/vi/eb9eMPHoU68/hqdefault.jpg",
-      "videoId": "eb9eMPHoU68",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Sommes-nous tous capables de tuer ?",
+      "url": "https://www.youtube.com/shorts/aYslJA8q880",
+      "description": "Peut-on être un tueur qui s'ignore ? Selon le médecin légiste Philippe Boxho, il existe un point de rupture à partir duquel la majorité d'entre nous sommes capables de basculer. Le mauvais endroit, le mauvais moment, les mauvaises conditions... et le drame peut survenir, même chez ceux qu'on ne soupçonne pas.\n \nEntretien intégral : https://youtu.be/GlTtAeyvE3Y\n \n#Société #Mort #Psychologie #Criminologie #Boxho",
+      "date": "2026-06-10",
+      "thumbnail": "https://i2.ytimg.com/vi/aYslJA8q880/hqdefault.jpg",
+      "videoId": "aYslJA8q880",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

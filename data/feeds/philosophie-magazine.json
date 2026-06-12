@@ -1,109 +1,61 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-06T06:40:14.998464+00:00",
+  "fetchedAt": "2026-06-12T08:19:11.695863+00:00",
   "items": [
     {
-      "title": "20 ans à éclairer l'actualité par la philosophie : comment penser la catastrophe nucléaire de Fukushima ?",
-      "url": "https://www.philomag.com/articles/20-ans-eclairer-lactualite-par-la-philosophie-comment-penser-la-catastrophe-nucleaire-de",
+      "title": "Bac philo 2026, l’ultime conseil : comment surmonter sa peur de l’épreuve ?",
+      "url": "https://www.philomag.com/articles/bac-philo-2026-lultime-conseil-comment-surmonter-sa-peur-de-lepreuve",
       "description": "",
-      "date": "Thu, 04 Jun 2026",
+      "date": "Thu, 11 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Pourquoi jouons-nous (et de plus en plus) ?",
+      "url": "https://www.philomag.com/articles/pourquoi-jouons-nous-et-de-plus-en-plus",
+      "description": "",
+      "date": "Tue, 09 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Où se procurer le n° 200 des 20 ans de “Philosophie magazine” ? Notre outil pour le trouver près de chez vous !",
-      "url": "https://www.philomag.com/articles/ou-se-procurer-le-ndeg-200-des-20-ans-de-philosophie-magazine-notre-outil-pour-le",
-      "description": "",
-      "date": "Mon, 29 Sep 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "20 ans et 200 numéros : vivre avec “Philosophie magazine”",
-      "url": "https://www.philomag.com/articles/20-ans-et-200-numeros-vivre-avec-philosophie-magazine",
-      "description": "",
-      "date": "Thu, 04 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "“C'était il y a vingt ans…” L'édito d’Alexandre Lacroix à l'occasion de la sortie du n°200 de “Philosophie magazine”",
-      "url": "https://www.philomag.com/articles/cetait-il-y-vingt-ans-ledito-dalexandre-lacroix-loccasion-de-la-sortie-du-ndeg200-de",
-      "description": "",
-      "date": "Thu, 04 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "“On change d'ère ?” 20 ans et numéro 200… Découvrez le nouveau “Philosophie magazine”, qui sort ce jeudi !",
-      "url": "https://www.philomag.com/articles/change-dere-20-ans-et-numero-200-decouvrez-le-nouveau-philosophie-magazine-qui-sort-ce",
-      "description": "",
-      "date": "Thu, 04 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "“Circulez, y a rien à voir” : faut-il s’en vouloir d’observer une scène d’accident ?",
-      "url": "https://www.philomag.com/articles/circulez-y-rien-voir-faut-il-sen-vouloir-dobserver-une-scene-daccident",
-      "description": "",
-      "date": "Wed, 03 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 8,
-      "scoreDetail": {
-        "daily": 0,
         "phil": 0,
-        "flaneur": 8,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 8
+        "total": 15
       }
     },
     {
-      "title": "Les grandes questions de la rédaction : “L’IA, notre futur animal de compagnie ?”",
-      "url": "https://www.philomag.com/articles/les-grandes-questions-de-la-redaction-lia-notre-futur-animal-de-compagnie",
+      "title": "Simone Weil, l'engagement et la solitude",
+      "url": "https://www.philomag.com/articles/simone-weil-lengagement-et-la-solitude",
       "description": "",
-      "date": "Thu, 04 Jun 2026",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Tristan Garcia : “Le football reste un moyen populaire de se poser de grandes questions”",
+      "url": "https://www.philomag.com/articles/tristan-garcia-le-football-reste-un-moyen-populaire-de-se-poser-de-grandes-questions",
+      "description": "",
+      "date": "Thu, 11 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -116,10 +68,58 @@
       }
     },
     {
-      "title": "Rétrospective 2006-2026 : un guide d’autodéfense contre le fanatisme après l’attentat terroriste contre “Charlie Hebdo”",
-      "url": "https://www.philomag.com/articles/retrospective-2006-2026-un-guide-dautodefense-contre-le-fanatisme-apres-lattentat",
+      "title": "Rétrospective 2006-2026 : ChatGPT, il ne lui manque plus que la conscience, mais jusqu'à quand ?",
+      "url": "https://www.philomag.com/articles/retrospective-2006-2026-chatgpt-il-ne-lui-manque-plus-que-la-conscience-mais-jusqua",
       "description": "",
-      "date": "Sat, 06 Jun 2026",
+      "date": "Thu, 11 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "François Gemenne : “Nous devons libérer l’écologie des idéologies politiques”",
+      "url": "https://www.philomag.com/articles/francois-gemenne-nous-devons-liberer-lecologie-des-ideologies-politiques",
+      "description": "",
+      "date": "Tue, 09 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Nos grandes questions : “Y a-t-il encore une place pour le plaisir dans nos vies ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-y-t-il-encore-une-place-pour-le-plaisir-dans-nos-vies",
+      "description": "",
+      "date": "Tue, 09 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Terraformer Mars ?",
+      "url": "https://www.philomag.com/articles/terraformer-mars",
+      "description": "",
+      "date": "Wed, 10 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +132,10 @@
       }
     },
     {
-      "title": "“Ercole amante”, à l'Opéra de Paris : l’éclat du consentement",
-      "url": "https://www.philomag.com/articles/ercole-amante-lopera-de-paris-leclat-du-consentement",
+      "title": "Bac philo 2026 : l’explication de texte de rêve dont s’inspirer",
+      "url": "https://www.philomag.com/articles/bac-philo-2026-modele-explication-texte-reve",
       "description": "",
-      "date": "Fri, 05 Jun 2026",
+      "date": "Wed, 10 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +148,10 @@
       }
     },
     {
-      "title": "“La Bataille de Gaulle” : une conviction peut-elle être plus forte que les faits ?",
-      "url": "https://www.philomag.com/articles/la-bataille-de-gaulle-une-conviction-peut-elle-etre-plus-forte-que-les-faits",
+      "title": "Rétrospective 2006-2026 : entrer dans la tête de Vladimir Poutine pour savoir jusqu'où il peut aller",
+      "url": "https://www.philomag.com/articles/retrospective-2006-2026-entrer-dans-la-tete-de-vladimir-poutine-pour-savoir-jusquou-il",
       "description": "",
-      "date": "Fri, 05 Jun 2026",
+      "date": "Wed, 10 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +164,10 @@
       }
     },
     {
-      "title": "Violences sexuelles dans le périscolaire : “La représentation de l’école est dissonante avec l’idée d’une figure du mal en son sein”",
-      "url": "https://www.philomag.com/articles/violences-sexuelles-dans-le-periscolaire-la-representation-de-lecole-est-dissonante-avec",
+      "title": "“Colis suspect” : la terreur des encombrants",
+      "url": "https://www.philomag.com/articles/colis-suspect-la-terreur-des-encombrants",
       "description": "",
-      "date": "Fri, 05 Jun 2026",
+      "date": "Tue, 09 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +180,10 @@
       }
     },
     {
-      "title": "Bac philo 2026 : les conseils des correcteurs",
-      "url": "https://www.philomag.com/articles/bac-philo-2026-le-conseil-des-correcteurs",
+      "title": "Natalité en baisse en France : la natalité est-elle une affaire d’État ?",
+      "url": "https://www.philomag.com/articles/natalite-en-baisse-en-france-la-natalite-est-elle-une-affaire-detat",
       "description": "",
-      "date": "Fri, 05 Jun 2026",
+      "date": "Tue, 09 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +196,10 @@
       }
     },
     {
-      "title": "Marjane Satrapi, le style et la dignité",
-      "url": "https://www.philomag.com/articles/marjane-satrapi-le-style-et-la-dignite",
+      "title": "Décès de Marjane Satrapi : peut-on mourir de tristesse ?",
+      "url": "https://www.philomag.com/articles/deces-de-marjane-satrapi-peut-mourir-de-tristesse",
       "description": "",
-      "date": "Fri, 05 Jun 2026",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "Découvrez les 20 livres de nos 20 ans !",
-      "url": "https://www.philomag.com/articles/decouvrez-les-20-livres-de-nos-20-ans",
+      "title": "Pour une assemblée des enfants ?",
+      "url": "https://www.philomag.com/articles/pour-une-assemblee-des-enfants",
       "description": "",
-      "date": "Fri, 05 Jun 2026",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "La souveraineté numérique est-elle l’enjeu du siècle ?",
-      "url": "https://www.philomag.com/articles/la-souverainete-numerique-est-elle-lenjeu-du-siecle",
+      "title": "“Il faut admettre que l’IA est souvent plus compétente que nous” : entretien avec Olivier Sibony et Éric Hazan",
+      "url": "https://www.philomag.com/articles/il-faut-admettre-que-lia-est-souvent-plus-competente-que-nous-entretien-avec-olivier",
       "description": "",
-      "date": "Wed, 03 Jun 2026",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

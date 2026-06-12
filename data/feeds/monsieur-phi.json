@@ -1,8 +1,24 @@
 {
   "sourceId": "monsieur-phi",
   "sourceName": "Monsieur Phi",
-  "fetchedAt": "2026-06-06T06:40:12.424429+00:00",
+  "fetchedAt": "2026-06-12T08:19:10.914483+00:00",
   "items": [
+    {
+      "title": "Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline",
+      "url": "https://www.youtube.com/watch?v=AYPQIntoJeE",
+      "description": "Merci à NordVPN pour le partenariat sur cette vidéo. Retrouvez l'offre sponsorisée ici :  https://nordvpn.com/monsieurphi\n\n\nSommaire\n\n0:00 - Intro\n1:44 - Sponso NordVPN\n3:42 - Les problèmes d'Erdős\n4:30 - Octobre-novembre 2025 : des débuts modestes (this is embarassing)\n7:15 - Janvier 2026 : premières preuves originales\n10:57 - Avril 2026 : des preuves par dizaines\n13:40 - 16 avril 2026 : le top 10 des problèmes d'Erdős par Thomas Bloom\n14:58 - 20 mai 2026 : un de ces problèmes a été résolu par ",
+      "date": "2026-06-07",
+      "thumbnail": "https://i2.ytimg.com/vi/AYPQIntoJeE/hqdefault.jpg",
+      "videoId": "AYPQIntoJeE",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "Duel épique de philosophie médiévale",
       "url": "https://www.youtube.com/watch?v=_P7v2OJgYnU",
@@ -96,22 +112,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Manipulation et falsification d'alignement dans les LLM",
-      "url": "https://www.youtube.com/watch?v=cw9wcNKDOtQ",
-      "description": "L'article d'Apollo Research \"Scheming reasoning evaluations\" : https://www.apolloresearch.ai/research/scheming-reasoning-evaluations\n\nL'article d'Anthropic \"Alignment faking in large language models\" : https://www.anthropic.com/research/alignment-faking\n\nJ'ai ajouté le passage sur ce 2e article vraiment à chaud et rapidement, donc prenez tout ce que je dis avec la prudence nécessaire et j'apporterai des corrections dans un commentaire épinglé si nécessaire.\n\nLe lien vers le questionnaire pour un",
-      "date": "2024-12-21",
-      "thumbnail": "https://i4.ytimg.com/vi/cw9wcNKDOtQ/hqdefault.jpg",
-      "videoId": "cw9wcNKDOtQ",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 15
       }
     },

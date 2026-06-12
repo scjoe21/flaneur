@@ -1,13 +1,45 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-06T06:40:24.855040+00:00",
+  "fetchedAt": "2026-06-12T08:19:20.328456+00:00",
   "items": [
     {
-      "title": "Why Reading Is Now Restless",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-reading-nazir/687419/?utm_source=feed",
+      "title": "Why Republicans Aren’t Condemning Trump’s <em>Meet the Press</em> Walkout",
+      "url": "https://www.theatlantic.com/ideas/2026/06/los-angeles-election-lies/687473/?utm_source=feed",
       "description": "",
-      "date": "2026-06-04",
+      "date": "2026-06-08",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "Why <em>60 Minutes </em>Should Take Critiques of Its Work Seriously",
+      "url": "https://www.theatlantic.com/ideas/2026/06/60-minutes-scott-pelley-bias-accusations/687520/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "How Britain Became as Poor as Mississippi",
+      "url": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-10",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,10 +52,42 @@
       }
     },
     {
-      "title": "All These Defeats Are Ruining Trump’s Birthday",
-      "url": "https://www.theatlantic.com/ideas/2026/06/defeats-trumps-birthday/687393/?utm_source=feed",
+      "title": "Why This Summer’s Airfares Are Unaffordable—And Unpredictable",
+      "url": "https://www.theatlantic.com/ideas/2026/06/flight-price-prediction-oil-prices/687479/?utm_source=feed",
       "description": "",
-      "date": "2026-06-01",
+      "date": "2026-06-09",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Actually, the SAT Was Necessary After All",
+      "url": "https://www.theatlantic.com/ideas/2026/06/standardized-testing-math-gaps/687481/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-09",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 10
+      }
+    },
+    {
+      "title": "As American as the Forward Pass",
+      "url": "https://www.theatlantic.com/magazine/2026/07/american-sports-culture-origins/687302/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-11",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,58 +100,10 @@
       }
     },
     {
-      "title": "The Left Needs to Rediscover Its Patriotism",
-      "url": "https://www.theatlantic.com/ideas/2026/06/left-patriotism-liberals-socialism/687398/?utm_source=feed",
+      "title": "Pete Hegseth, Cornball in Chief",
+      "url": "https://www.theatlantic.com/ideas/2026/06/pete-hegseth-corny/687515/?utm_source=feed",
       "description": "",
-      "date": "2026-06-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "AI Has Ruined the Job Market",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-job-market-hiring/687403/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-02",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "Trump’s Strange Choice for Director of National Intelligence",
-      "url": "https://www.theatlantic.com/ideas/2026/06/bill-pulte-hayek/687399/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-02",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "The Supreme Court Has Invented a Right to Discriminate",
-      "url": "https://www.theatlantic.com/ideas/2026/06/alabama-racial-discrimination-voting/687448/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-05",
+      "date": "2026-06-11",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +116,10 @@
       }
     },
     {
-      "title": "The Republicans Who Impugn Talarico’s Manhood",
-      "url": "https://www.theatlantic.com/ideas/2026/06/james-talarico-senate-paxton/687436/?utm_source=feed",
+      "title": "The ‘Presumption of Regularity’ Is Evaporating",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-doj-judges-lawfare/687501/?utm_source=feed",
       "description": "",
-      "date": "2026-06-05",
+      "date": "2026-06-11",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +132,10 @@
       }
     },
     {
-      "title": "Yet More Damning Revelations About Graham Platner",
-      "url": "https://www.theatlantic.com/ideas/2026/06/graham-platner-maine-populism-elections/687429/?utm_source=feed",
+      "title": "Hunter Biden’s Life After Shame",
+      "url": "https://www.theatlantic.com/ideas/2026/06/hunter-biden-shameless-media/687502/?utm_source=feed",
       "description": "",
-      "date": "2026-06-04",
+      "date": "2026-06-11",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +148,10 @@
       }
     },
     {
-      "title": "The Alligator Alcatraz Boondoggle",
-      "url": "https://www.theatlantic.com/ideas/2026/06/alligator-alcatraz-desantis-florida-immigration/687415/?utm_source=feed",
+      "title": "The One Area Where a 14-Year-Old Is an Adult",
+      "url": "https://www.theatlantic.com/ideas/2026/06/kids-adult-time-counterproductive/687449/?utm_source=feed",
       "description": "",
-      "date": "2026-06-04",
+      "date": "2026-06-10",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "A Gift From the Basketball Gods",
-      "url": "https://www.theatlantic.com/ideas/2026/06/knicks-spurs-nba-finals-brunson/687421/?utm_source=feed",
+      "title": "American Christians Face a Choice",
+      "url": "https://www.theatlantic.com/ideas/2026/06/christian-humanism-trump-choice/687475/?utm_source=feed",
       "description": "",
-      "date": "2026-06-03",
+      "date": "2026-06-10",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +180,10 @@
       }
     },
     {
-      "title": "Donald Trump’s Superficiality Is Bone-Deep",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-superficiality/687413/?utm_source=feed",
+      "title": "The Revolutionary Gordon Wood",
+      "url": "https://www.theatlantic.com/ideas/2026/06/revolutionary-gordon-wood-historian/687487/?utm_source=feed",
       "description": "",
-      "date": "2026-06-03",
+      "date": "2026-06-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "Another Chance for Trump to Cash Out",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-presidential-library-presidential-records/687390/?utm_source=feed",
+      "title": "What Donald Trump Will Never Understand About Fighting",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-ufc-martial-arts/687471/?utm_source=feed",
       "description": "",
-      "date": "2026-06-03",
+      "date": "2026-06-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +212,10 @@
       }
     },
     {
-      "title": "Democrats Must Learn to Talk Sports",
-      "url": "https://www.theatlantic.com/ideas/2026/06/democrats-sports-hot-takes/687397/?utm_source=feed",
+      "title": "Being Black in Pete Hegseth’s Military",
+      "url": "https://www.theatlantic.com/magazine/2026/07/black-military-patriots-hegseth/687306/?utm_source=feed",
       "description": "",
-      "date": "2026-06-02",
+      "date": "2026-06-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "The Spanish Exception",
-      "url": "https://www.theatlantic.com/ideas/2026/06/spain-economy-immigration-backlash/687371/?utm_source=feed",
+      "title": "The Americans Shelling Out Five Figures for a Coat of Arms",
+      "url": "https://www.theatlantic.com/magazine/2026/07/americans-english-aristocratic-traditions/687305/?utm_source=feed",
       "description": "",
-      "date": "2026-06-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Use It or Lose It",
-      "url": "https://www.theatlantic.com/magazine/2026/07/free-press-first-amendment-rights/687317/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-01",
+      "date": "2026-06-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,77 +1,45 @@
 {
   "sourceId": "philosophy-now",
   "sourceName": "Philosophy Now",
-  "fetchedAt": "2026-06-06T06:40:18.480727+00:00",
+  "fetchedAt": "2026-06-12T08:19:14.645490+00:00",
   "items": [
     {
-      "title": "Why Do People Hate Hypocrisy?",
-      "url": "https://philosophynow.org/issues/173/Why_Do_People_Hate_Hypocrisy",
-      "description": "Emrys Westacott argues that it’s not usually the hypocrisy itself that we hate.",
-      "date": "Wed, 01 Apr 2026",
+      "title": "Great Minds, Flawed Lives",
+      "url": "https://philosophynow.org/issues/174/Great_Minds_Flawed_Lives",
+      "description": "Tony Shenton asks, should we cancel the compromised intellectual, or read them?",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
-      "title": "A Memetic Analysis of Narratives & Conspiracies",
-      "url": "https://philosophynow.org/issues/173/A_Memetic_Analysis_of_Narratives_and_Conspiracies",
-      "description": "Ignacio Gonzalez considers how memes replicate into conspiracy theories.",
-      "date": "Wed, 01 Apr 2026",
+      "title": "What’s the Value of Mountaineering?",
+      "url": "https://philosophynow.org/issues/174/Whats_the_Value_of_Mountaineering",
+      "description": "Suleyman Moollan wonders why people climb mountains.",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
-      "title": "News: April/May 2025",
-      "url": "https://philosophynow.org/issues/173/News_April_May_2025",
-      "description": "Jürgen Habermas, a crucial critical theorist • Susan Haack, a sage of philosophy and law • On Liberty was co-authored by HTM & JSM — News reports by Anja Steinbauer",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Islamic Law, Reform & Philosophy",
-      "url": "https://philosophynow.org/issues/173/Islamic_Law_Reform_and_Philosophy",
-      "description": "Oliver Leaman looks at philosophical problems related to basing law on religion.",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Is Comedy Good for Us?",
-      "url": "https://philosophynow.org/issues/173/Is_Comedy_Good_for_Us",
-      "description": "Damaris Stock has a laugh with Plato and friends.",
-      "date": "Wed, 01 Apr 2026",
+      "title": "News: June/July 2026",
+      "url": "https://philosophynow.org/issues/174/News_June_July_2026",
+      "description": "Hertfordshire scraps philosophy • Nancy Cartwright honoured for phil sci work • Cops raid Moscow philosophy institute — News reports by Anja Steinbauer",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -84,74 +52,90 @@
       }
     },
     {
-      "title": "Love & Emptiness in the Sufi Tradition",
-      "url": "https://philosophynow.org/issues/173/Love_and_Emptiness_in_the_Sufi_Tradition",
-      "description": "Medha Ninad Tambe meditates on Rumi, love and self-negation.",
-      "date": "Wed, 01 Apr 2026",
+      "title": "A Critique of Antinatalism",
+      "url": "https://philosophynow.org/issues/174/A_Critique_of_Antinatalism",
+      "description": "Deniz Kose thinks there’s good reasons to want human life to continue.",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "What do I have to fear, have I ever diminished by dying?",
-      "url": "https://philosophynow.org/issues/173/What_do_I_have_to_fear_have_I_ever_diminished_by_dying",
-      "description": "by Zahra Rashid",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Mirror & the Flame",
-      "url": "https://philosophynow.org/issues/173/The_Mirror_and_the_Flame",
-      "description": "Rebwar Fatah imagines Attar’s & Hegel’s shared path.",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Collective City",
-      "url": "https://philosophynow.org/issues/173/The_Collective_City",
-      "description": "by AmirAli Maleki",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 10
       }
     },
     {
-      "title": "Philosophers on Skiing",
-      "url": "https://philosophynow.org/issues/173/Philosophers_on_Skiing",
+      "title": "Margalit & Limits to Political Compromise",
+      "url": "https://philosophynow.org/issues/174/Margalit_and_Limits_to_Political_Compromise",
+      "description": "Laure Gillot-Assayag reflects on the political philosophy of Avishai Margalit.",
+      "date": "Mon, 08 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Life and Death",
+      "url": "https://philosophynow.org/issues/174/Life_and_Death",
+      "description": "by Rick Lewis",
+      "date": "Mon, 08 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Death as Life’s Picture Frame",
+      "url": "https://philosophynow.org/issues/174/Death_as_Lifes_Picture_Frame",
+      "description": "Joshua Clements puts us in the picture.",
+      "date": "Mon, 08 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Immortality & A Galactic Future",
+      "url": "https://philosophynow.org/issues/174/Immortality_and_A_Galactic_Future",
+      "description": "Andy Yee looks forward to humanity’s technological ascension.",
+      "date": "Mon, 08 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Philosophers on Butterflies",
+      "url": "https://philosophynow.org/issues/174/Philosophers_on_Butterflies",
       "description": "by Matt Qvortrup",
-      "date": "Wed, 01 Apr 2026",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,42 +148,10 @@
       }
     },
     {
-      "title": "The Prayer the Machine Cannot Pray",
-      "url": "https://philosophynow.org/issues/173/The_Prayer_the_Machine_Cannot_Pray",
-      "description": "Adnan Abbasi uses medieval metaphysics to understand modern AI.",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Life Sacrifice",
-      "url": "https://philosophynow.org/issues/173/Life_Sacrifice",
-      "description": "Yossra Hamouda on the murder of compassion & the act of mass murder.",
-      "date": "Wed, 01 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "William Paley (1743-1805)",
-      "url": "https://philosophynow.org/issues/173/William_Paley_1743-1805",
+      "title": "Socrates (c.470-399 BCE)",
+      "url": "https://philosophynow.org/issues/174/Socrates_c470-399_BCE",
       "description": "by Terence Green",
-      "date": "Wed, 01 Apr 2026",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +164,10 @@
       }
     },
     {
-      "title": "In Defense of Idleness",
-      "url": "https://philosophynow.org/issues/173/In_Defense_of_Idleness",
-      "description": "Wendell O’Brien says, ‘Just Don’t Do It’.",
-      "date": "Wed, 01 Apr 2026",
+      "title": "Making Omelettes & A Future Like Ours",
+      "url": "https://philosophynow.org/issues/174/Making_Omelettes_and_A_Future_Like_Ours",
+      "description": "Jimmy Alfonso Licon wonders what’s wrong with killing – first chickens, then humans.",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +180,58 @@
       }
     },
     {
-      "title": "The Hedgehog’s Dilemma: A Metaphor About the Challenges of Human Intimacy",
-      "url": "https://philosophynow.org/issues/173/The_Hedgehogs_Dilemma_A_Metaphor_About_the_Challenges_of_Human_Intimacy",
-      "description": "Krishna Chaubey explains Arthur Schopenhauer’s poignant thought experiment.",
-      "date": "Wed, 01 Apr 2026",
+      "title": "Who Wants to Live Forever?",
+      "url": "https://philosophynow.org/issues/174/Who_Wants_to_Live_Forever",
+      "description": "Dan Pollen weighs up the pros and cons of indefinitely extended life.",
+      "date": "Mon, 08 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Being",
+      "url": "https://philosophynow.org/issues/174/Being",
+      "description": "by Lisa Roberts",
+      "date": "Mon, 08 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Jürgen Habermas: Defender of the Enlightenment",
+      "url": "https://philosophynow.org/issues/174/Jurgen_Habermas_Defender_of_the_Enlightenment",
+      "description": "Patrick West on postmodernism and communicative reason.",
+      "date": "Mon, 08 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Breakfast with Habermas",
+      "url": "https://philosophynow.org/issues/174/Breakfast_with_Habermas",
+      "description": "Matt Qvortrup recalls chat over coffee and scrambled eggs with a champion of reasoned debate.",
+      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
