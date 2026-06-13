@@ -2,11 +2,13 @@ name: 주간 자동 발행
 
 on:
   schedule:
-    # GitHub schedule cron은 부하 시 자주 스킵됨. 토요일 오전 3회 분산 트리거
-    # + curate.py 멱등성으로 이미 발행된 주차는 자동 건너뜀
-    - cron: '13 0 * * 6'   # 09:13 KST (00:13 UTC) — 1차
-    - cron: '47 1 * * 6'   # 10:47 KST (01:47 UTC) — 백업
-    - cron: '23 3 * * 6'   # 12:23 KST (03:23 UTC) — 백업
+    # GitHub schedule cron은 부하 시 자주 스킵됨(특히 UTC 자정 직후 혼잡 구간).
+    # 토요일 0시 KST 시작 = 금요일 15시 UTC — UTC 자정 피크를 피해 신뢰도 향상.
+    # 3회 분산 트리거 + curate.py 멱등성으로 이미 발행된 주차는 자동 건너뜀.
+    # cron의 요일은 UTC 기준이므로 금요일(=5). 정시(:00) 혼잡을 피해 오프셋 분 사용.
+    - cron: '9 15 * * 5'   # 00:09 KST 토 (15:09 UTC 금) — 1차
+    - cron: '37 16 * * 5'  # 01:37 KST 토 (16:37 UTC 금) — 백업
+    - cron: '19 18 * * 5'  # 03:19 KST 토 (18:19 UTC 금) — 백업
   workflow_dispatch:
     inputs:
       reason:
