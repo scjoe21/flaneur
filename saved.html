@@ -67,19 +67,6 @@
     .shelf-panel { display: none; }
     .shelf-panel.active { display: block; }
 
-    /* ── 안내 배너 ── */
-    .flow-banner {
-      display: flex; align-items: center; gap: 8px;
-      background: var(--bg-subtle);
-      border: 1px solid var(--border);
-      border-radius: var(--radius);
-      padding: 10px 16px;
-      font-size: 12px; color: var(--text-muted);
-      margin-bottom: 24px;
-      line-height: 1.6;
-    }
-    .flow-banner__icon { font-size: 14px; flex-shrink: 0; }
-
     /* ── 섹션 구분 (주차/월별) ── */
     .clip-section { margin-bottom: 36px; }
     .clip-section__header {
@@ -120,6 +107,7 @@
       font-size: 11px; color: var(--text-light);
       margin-bottom: 10px; letter-spacing: 0.02em;
       display: flex; align-items: center; gap: 6px; flex-wrap: wrap;
+      padding-right: 34px;   /* 우상단 ✕ 버튼과 카테고리 배지가 겹치지 않도록 공간 확보 */
     }
     .clip-card__category {
       display: inline-flex; align-items: center;
@@ -330,30 +318,16 @@
 
     <!-- ── 이번 주 패널 ── -->
     <div id="panel-week" class="shelf-panel active">
-      <div class="flow-banner">
-        <span class="flow-banner__icon">✎</span>
-        이번 주 저장한 구절입니다. 카드를 클릭해 내용을 수정하거나 편집하세요.
-        다음 주가 되면 <strong style="color:var(--text)">이번 달</strong> 탭으로 자동 이동합니다.
-      </div>
       <div id="grid-week"></div>
     </div>
 
     <!-- ── 이번 달 패널 ── -->
     <div id="panel-month" class="shelf-panel">
-      <div class="flow-banner">
-        <span class="flow-banner__icon">📅</span>
-        이번 달 이전 주차에 저장한 구절입니다. 카드를 클릭해 편집할 수 있습니다.
-        다음 달이 되면 <strong style="color:var(--text)">보관함</strong> 탭의 주제 폴더로 자동 분류됩니다.
-      </div>
       <div id="grid-month"></div>
     </div>
 
     <!-- ── 전체 패널 ── -->
     <div id="panel-all" class="shelf-panel">
-      <div class="flow-banner">
-        <span class="flow-banner__icon">📁</span>
-        1달 이상 지난 구절은 14개 철학 주제 폴더에 자동 보관됩니다. 길게 나열하지 않고, 폴더를 눌러 들어가 그 안의 구절만 모아 볼 수 있습니다.
-      </div>
       <div id="grid-all"></div>
     </div>
 
