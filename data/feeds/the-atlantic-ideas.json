@@ -1,24 +1,8 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-12T08:19:20.328456+00:00",
+  "fetchedAt": "2026-06-13T00:28:47.307365+00:00",
   "items": [
-    {
-      "title": "Why Republicans Aren’t Condemning Trump’s <em>Meet the Press</em> Walkout",
-      "url": "https://www.theatlantic.com/ideas/2026/06/los-angeles-election-lies/687473/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
     {
       "title": "Why <em>60 Minutes </em>Should Take Critiques of Its Work Seriously",
       "url": "https://www.theatlantic.com/ideas/2026/06/60-minutes-scott-pelley-bias-accusations/687520/?utm_source=feed",
@@ -97,6 +81,70 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Women Who Don’t Own Clothes",
+      "url": "https://www.theatlantic.com/ideas/2026/06/clothing-rental-sustainability-nuuly-shopping/687526/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Americans Are Already Paying Dearly for the National Debt",
+      "url": "https://www.theatlantic.com/ideas/2026/06/national-debt-affordability-legislation/687517/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Data-Center Panic Is Overblown",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Boeing 747 Begins Its Final Descent",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -182,54 +230,6 @@
     {
       "title": "The Revolutionary Gordon Wood",
       "url": "https://www.theatlantic.com/ideas/2026/06/revolutionary-gordon-wood-historian/687487/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What Donald Trump Will Never Understand About Fighting",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-ufc-martial-arts/687471/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Being Black in Pete Hegseth’s Military",
-      "url": "https://www.theatlantic.com/magazine/2026/07/black-military-patriots-hegseth/687306/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Americans Shelling Out Five Figures for a Coat of Arms",
-      "url": "https://www.theatlantic.com/magazine/2026/07/americans-english-aristocratic-traditions/687305/?utm_source=feed",
       "description": "",
       "date": "2026-06-09",
       "thumbnail": "",

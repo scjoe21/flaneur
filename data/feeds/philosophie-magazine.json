@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-12T08:19:11.695863+00:00",
+  "fetchedAt": "2026-06-13T00:28:36.988515+00:00",
   "items": [
     {
       "title": "Bac philo 2026, l’ultime conseil : comment surmonter sa peur de l’épreuve ?",
@@ -116,6 +116,38 @@
       }
     },
     {
+      "title": "Ouverture du Fonds Enki-Bilal : l’art de l'hybridation",
+      "url": "https://www.philomag.com/articles/ouverture-du-fonds-enki-bilal-lart-de-lhybridation",
+      "description": "",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Nous vivions, jusqu’à présent, dans une culture du viol des enfants”, entretien avec le magistrat Jérôme Pauzat",
+      "url": "https://www.philomag.com/articles/nous-vivions-jusqua-present-dans-une-culture-du-viol-des-enfants-entretien-avec-le",
+      "description": "",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Terraformer Mars ?",
       "url": "https://www.philomag.com/articles/terraformer-mars",
       "description": "",
@@ -198,38 +230,6 @@
     {
       "title": "Décès de Marjane Satrapi : peut-on mourir de tristesse ?",
       "url": "https://www.philomag.com/articles/deces-de-marjane-satrapi-peut-mourir-de-tristesse",
-      "description": "",
-      "date": "Mon, 08 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pour une assemblée des enfants ?",
-      "url": "https://www.philomag.com/articles/pour-une-assemblee-des-enfants",
-      "description": "",
-      "date": "Mon, 08 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Il faut admettre que l’IA est souvent plus compétente que nous” : entretien avec Olivier Sibony et Éric Hazan",
-      "url": "https://www.philomag.com/articles/il-faut-admettre-que-lia-est-souvent-plus-competente-que-nous-entretien-avec-olivier",
       "description": "",
       "date": "Mon, 08 Jun 2026",
       "thumbnail": "",

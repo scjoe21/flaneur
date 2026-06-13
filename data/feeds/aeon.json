@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-06-12T08:19:15.583536+00:00",
+  "fetchedAt": "2026-06-13T00:28:40.891787+00:00",
   "items": [
     {
       "title": "Don’t touch the art",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Aloha ʻāina",
-      "url": "https://aeon.co/videos/reclaiming-aloha-the-hawaiian-poet-rewriting-the-story-of-her-home",
-      "description": "It’s marketed as a holiday destination, but the true meaning of Hawai’i lies in the connections between land and people - by Aeon Video Watch on Aeon",
-      "date": "Thu, 21 May 2026",
+      "title": "A philosophy of home",
+      "url": "https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life",
+      "description": "The household is a community, as much as the state, and ancient philosophy had much more to say about it than we think - by Sandrine Bergès Read on Aeon",
+      "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 13,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 8,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 13
+        "total": 10
       }
     },
     {
