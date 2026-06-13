@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-06-13T00:28:37.715994+00:00",
+  "fetchedAt": "2026-06-13T17:48:36.024515+00:00",
   "items": [
     {
       "title": "Philosophie der Sucht - Vom Umgang mit schlechten Gewohnheiten",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 45
+      }
+    },
+    {
+      "title": "Intersektionalität - Wie Rassismus und Sexismus zusammenspielen",
+      "url": "https://www.deutschlandfunkkultur.de/kimberle-crenshaw-vordenkerin-der-intersektionalitaet-100.html",
+      "description": "Schwarze Frauen erleben Sexismus anders als weiße Frauen. Sie erleben aber auch Rassismus anders als schwarze Männer. Kimberlé Crenshaw erzählt, was sie mit ihrem Konzept bezweckt hat. Und sie berichtet, wie sie mit dem politischen Backlash umgeht. Crenshaw, Kimberlé; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sat, 13 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 25
       }
     },
     {
@@ -110,22 +126,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Meinungsfreiheit - Gefordert, gefördert, bedroht?",
-      "url": "https://www.deutschlandfunkkultur.de/recht-auf-meinungsfreiheit-gefordert-gefoerdert-bedroht-100.html",
-      "description": "Was darf man heute überhaupt noch sagen? Viele sehen die Meinungsfreiheit in Gefahr. Der Publizist Michael Andrick kritisiert eine \"moralische Verzerrung\" von politischen Debatten. Sein Kollege Holger Marcks findet Widerspruch zum Mainstream wichtig. Newmark, Catherine; Marcks, Holger; Andrick, Michael www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 26 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

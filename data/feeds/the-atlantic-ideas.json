@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-13T00:28:47.307365+00:00",
+  "fetchedAt": "2026-06-13T17:48:42.546757+00:00",
   "items": [
     {
       "title": "Why <em>60 Minutes </em>Should Take Critiques of Its Work Seriously",
@@ -36,35 +36,19 @@
       }
     },
     {
-      "title": "Why This Summer’s Airfares Are Unaffordable—And Unpredictable",
-      "url": "https://www.theatlantic.com/ideas/2026/06/flight-price-prediction-oil-prices/687479/?utm_source=feed",
+      "title": "The Voters Who Believe That Trump Defends Their Values",
+      "url": "https://www.theatlantic.com/ideas/2026/06/democracy-government-trump-maga/687535/?utm_source=feed",
       "description": "",
-      "date": "2026-06-09",
+      "date": "2026-06-13",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Actually, the SAT Was Necessary After All",
-      "url": "https://www.theatlantic.com/ideas/2026/06/standardized-testing-math-gaps/687481/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 10,
-        "total": 10
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Trump’s Gladiator Delusion",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-gladiator-fight-ufc/687531/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

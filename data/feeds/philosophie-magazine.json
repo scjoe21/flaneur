@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-13T00:28:36.988515+00:00",
+  "fetchedAt": "2026-06-13T17:48:35.210997+00:00",
   "items": [
     {
       "title": "Bac philo 2026, l’ultime conseil : comment surmonter sa peur de l’épreuve ?",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Nos grandes questions pour changer d'ère : “Est-il possible de vivre sans croire ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-est-il-possible-de-vivre-sans-croire",
+      "description": "",
+      "date": "Sat, 13 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -100,19 +116,19 @@
       }
     },
     {
-      "title": "Nos grandes questions : “Y a-t-il encore une place pour le plaisir dans nos vies ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-y-t-il-encore-une-place-pour-le-plaisir-dans-nos-vies",
+      "title": "Lyhanna, périscolaire… 6 leçons philosophiques sur le “MeToo des enfants”",
+      "url": "https://www.philomag.com/articles/lyhanna-periscolaire-6-lecons-philosophiques-sur-le-metoo-des-enfants",
       "description": "",
-      "date": "Tue, 09 Jun 2026",
+      "date": "Sat, 13 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/natalite-en-baisse-en-france-la-natalite-est-elle-une-affaire-detat",
       "description": "",
       "date": "Tue, 09 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Décès de Marjane Satrapi : peut-on mourir de tristesse ?",
-      "url": "https://www.philomag.com/articles/deces-de-marjane-satrapi-peut-mourir-de-tristesse",
-      "description": "",
-      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
