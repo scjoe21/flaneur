@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-13T17:48:35.210997+00:00",
+  "fetchedAt": "2026-06-14T09:22:14.303097+00:00",
   "items": [
+    {
+      "title": "“L’Armée des ombres” : le comment plutôt que le pourquoi de la Résistance",
+      "url": "https://www.philomag.com/articles/larmee-des-ombres-le-comment-plutot-que-le-pourquoi-de-la-resistance",
+      "description": "",
+      "date": "Sun, 14 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "Bac philo 2026, l’ultime conseil : comment surmonter sa peur de l’épreuve ?",
       "url": "https://www.philomag.com/articles/bac-philo-2026-lultime-conseil-comment-surmonter-sa-peur-de-lepreuve",
@@ -214,22 +230,6 @@
     {
       "title": "“Colis suspect” : la terreur des encombrants",
       "url": "https://www.philomag.com/articles/colis-suspect-la-terreur-des-encombrants",
-      "description": "",
-      "date": "Tue, 09 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Natalité en baisse en France : la natalité est-elle une affaire d’État ?",
-      "url": "https://www.philomag.com/articles/natalite-en-baisse-en-france-la-natalite-est-elle-une-affaire-detat",
       "description": "",
       "date": "Tue, 09 Jun 2026",
       "thumbnail": "",
