@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-06-14T09:22:16.314410+00:00",
+  "fetchedAt": "2026-06-14T18:22:55.057360+00:00",
   "items": [
     {
       "title": "Philosophie der Sucht - Vom Umgang mit schlechten Gewohnheiten",
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "Macht und Demokratie - Die Ordnung hinter den Gesetzen",
-      "url": "https://www.deutschlandfunkkultur.de/das-recht-des-staerkeren-wie-demokratisch-ist-unser-gesetz-100.html",
-      "description": "Mit dem „Recht des Stärkeren” ist meist ein Rechtsbruch und außerrechtliches Chaos gemeint. Demokratisches Recht erscheint dagegen als Ordnung der Gleichheit und Gerechtigkeit. Doch wie viel Machtverhältnisse stecken im bürgerlichen Recht? Mangold, Anna Katharina; Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 03 May 2026",
+      "title": "Ingeborg Bachmann und die Philosophie: Die Wahrheit ist zumutbar",
+      "url": "https://www.deutschlandfunkkultur.de/ingeborg-bachmann-und-die-philosophie-die-wahrheit-ist-zumutbar-100.html",
+      "description": "de la Riva, Miguel; Volfing, Barbara www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 14 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Friedrich Merz und die gesetzliche Rente: Rette sich wer kann",
-      "url": "https://www.deutschlandfunkkultur.de/friedrich-merz-und-die-gesetzliche-rente-rette-sich-wer-kann-100.html",
-      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 26 Apr 2026",
+      "title": "Kimberlé Crenshaw: Pioneering theorist of intersectionality (english)",
+      "url": "https://www.deutschlandfunkkultur.de/kimberle-crenshaw-pioneering-theorist-of-intersectionality-english-100.html",
+      "description": "Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 14 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

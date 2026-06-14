@@ -1,8 +1,24 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-06-14T09:22:11.587852+00:00",
+  "fetchedAt": "2026-06-14T18:22:53.008374+00:00",
   "items": [
+    {
+      "title": "L'homme est un loup pour l'homme",
+      "url": "https://www.youtube.com/shorts/yqeG0KQ8U9g",
+      "description": "Au XVIIe siècle, le philosophe anglais Thomas Hobbes imagine un monde sans État, sans police et sans justice. Sa conclusion est radicale : sans autorité, les êtres humains sombreraient dans une guerre permanente de tous contre tous. Dans cette vidéo, je vous explique pourquoi, selon Hobbes, nous avons accepté de sacrifier une partie de notre liberté en échange de notre sécurité.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #hobbes #etat #liberté #sécurité",
+      "date": "2026-06-14",
+      "thumbnail": "https://i2.ytimg.com/vi/yqeG0KQ8U9g/hqdefault.jpg",
+      "videoId": "yqeG0KQ8U9g",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "La servitude volontaire",
       "url": "https://www.youtube.com/shorts/1PfdIZnvFlM",
@@ -190,22 +206,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "KARL POPPER - La réfutabilité",
-      "url": "https://www.youtube.com/watch?v=ac4lzvWFLNU",
-      "description": "POUR COMMANDER MON LIVRE :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\nPOURQUOI ME REJOINDRE SUR PATREON :\n\n▶️ https://www.le-precepteur.fr/pourquoi-me-rejoindre-sur-patreon\n\nPOUR ME SOUTENIR :\n\n▶️ SUR TIPEEE : https://www.tipeee.com/le-precepteur\n▶️ SUR PAYPAL : https://www.paypal.me/leprecepteur\n\nPOUR SUIVRE MES ACTUALITÉS :\n\n▶️ INSTAGRA",
-      "date": "2026-05-15",
-      "thumbnail": "https://i2.ytimg.com/vi/ac4lzvWFLNU/hqdefault.jpg",
-      "videoId": "ac4lzvWFLNU",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

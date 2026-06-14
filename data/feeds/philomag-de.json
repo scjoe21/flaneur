@@ -1,22 +1,38 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-06-14T09:22:19.791857+00:00",
+  "fetchedAt": "2026-06-14T18:22:57.258733+00:00",
   "items": [
     {
-      "title": "Seyla Benhabib: „Habermas verteidigt das Erbe der Aufklärung“",
-      "url": "https://www.philomag.de/artikel/seyla-benhabib-habermas-verteidigt-das-erbe-der-aufklaerung",
-      "description": "Mit der  Theorie des kommunikativen Handelns  legt Habermas eine umfassende Gesellschaftstheorie vor. Im Gespräch erläutert Seyla Benhabib, warum Habermas die Sprache ins Zentrum stellt und damit die Kritische Theorie erweitert – und wo sein Ansatz ergänzt werden müsste.",
+      "title": "Jan-Philipp Kruse: „Demokratien sind angewiesen auf eine deliberative Qualität“",
+      "url": "https://www.philomag.de/artikel/jan-philipp-kruse-demokratien-sind-angewiesen-auf-eine-deliberative-qualitaet",
+      "description": "Angesichts der Digitalisierung diagnostiziert Habermas einen erneuten Strukturwandel der Öffentlichkeit. Der Philosoph Jan-Philipp Kruse erklärt, wie Plattformen die Öffentlichkeit verändern und welche Gefahren für die Demokratie mit KI und sozialen Medien einhergehen.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 30,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 30
+      }
+    },
+    {
+      "title": "Die neue Sonderausgabe: Habermas",
+      "url": "https://www.philomag.de/artikel/die-neue-sonderausgabe-habermas",
+      "description": "Kein Philosoph hat die Bundesrepublik so sehr geprägt wie Jürgen Habermas. Er war der Denker des „Nie wieder“. Er warb für ein geeintes Europa, eine Welt mit geteilten Werten und Normen – und vor allem für die Kraft der Vernunft. Gerade angesichts der Verdüsterungen der Gegenwart erhält sein Denken neue Relevanz. Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -36,51 +52,83 @@
       }
     },
     {
-      "title": "Kommunikation und ihre Kritiker",
-      "url": "https://www.philomag.de/artikel/kommunikation-und-ihre-kritiker",
-      "description": "Im Diskurs können Menschen vernünftige, konsensfähige Prinzipien des Miteinanders herausarbeiten, meint Habermas und erklärt damit die Kommunikation zur Grundlage einer besseren Gesellschaft. Doch seine Theorie von Verständigung und Einverständnis erntet auch Kritik.",
+      "title": "Rainer Forst: „Demokratie lebt vom Anspruch auf öffentliche Rechtfertigung“",
+      "url": "https://www.philomag.de/artikel/rainer-forst-demokratie-lebt-vom-anspruch-auf-oeffentliche-rechtfertigung",
+      "description": "Dass Habermas als demokratischer Ideengeber gilt, hat besonders mit Überlegungen zu tun, die er ab den späten 1980er-Jahren anstellte. Im Gespräch erläutert der Philosoph Rainer Forst, damals Doktorand von Habermas, dessen Rechts- und Demokratietheorie – und wie Recht darin zum Mittel der Freiheit wird.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Europa als Chance",
+      "url": "https://www.philomag.de/artikel/europa-als-chance",
+      "description": "Mehr noch als der Philosoph der Bundesrepublik war Habermas Denker einer kosmopolitischen Ordnung. Eine nationalistische, von Volksgefühlen genährte Politik hielt er für ebenso gefährlich wie unzureichend.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Befreiung der Vernunft",
+      "url": "https://www.philomag.de/artikel/befreiung-der-vernunft",
+      "description": "Das Konzept der kommunikativen Rationalität bildet ein Herzstück von Habermas’ Theorie. Anders als frühere Kritiker der Moderne meint er: Problematisch ist nicht ein Denken in Zweck und Mitteln, sondern wenn darüber andere Seiten der Vernunft verdrängt werden.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 5,
         "total": 20
       }
     },
     {
-      "title": "Ein Verfechter Europas",
-      "url": "https://www.philomag.de/artikel/ein-verfechter-europas",
-      "description": "Jürgen Habermas hat sich immer wieder zur Europäischen Union geäußert – sowohl als überzeugter Europäer und Fürsprecher des Bündnisses wie auch als Kritiker.",
+      "title": "Dialektik der Verschlechterung",
+      "url": "https://www.philomag.de/artikel/dialektik-der-verschlechterung",
+      "description": "Habermas’ Geschichtsphilosophie begreift gesellschaftliche Rückschritte als historische Gelegenheiten, etwas zu lernen. Bereitet das Chaos unserer Gegenwart also schon den nächsten Fortschritt vor?",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
-      "title": "Klaus Viertbauer: „Glauben und Wissen befruchten sich gegenseitig“",
-      "url": "https://www.philomag.de/artikel/klaus-viertbauer-glauben-und-wissen-befruchten-sich-gegenseitig",
-      "description": "Obwohl er sich selbst als „religiös unmusikalisch“ beschrieb, dachte Habermas intensiv über die Rolle des Glaubens nach. Der Religionsphilosoph Klaus Viertbauer erläutert, wie sich Habermas’ Einschätzung dazu veränderte und wie sich religiöse in säkulare Sprache übersetzen lässt.",
+      "title": "Hauke Brunkhorst: „Sein Ziel war eine nicht vermachtete Meinungsbildung“",
+      "url": "https://www.philomag.de/artikel/hauke-brunkhorst-sein-ziel-war-eine-nicht-vermachtete-meinungsbildung",
+      "description": "Der  Strukturwandel der Öffentlichkeit  ist Habermas’ meistverkauftes Buch. Warum schlug es derart ein? Ein Gespräch mit dem Soziologen Hauke Brunkhorst über blockierte Vernunft, versteckten Marxismus und revoltierende Studenten.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
@@ -100,54 +148,6 @@
       }
     },
     {
-      "title": "Klang der Öffentlichkeit",
-      "url": "https://www.philomag.de/artikel/klang-der-oeffentlichkeit",
-      "description": "Seine wissenschaftlichen Schriften gelten als soziologisch-spröde und unmusikalisch – und dennoch könnte Habermas als geheimer Philosoph des Pop verstanden werden. Denn beide, die Musik der 68er und seine Theorie, feiern die Verständigung und Verbindung im öffentlichen Raum.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "Habermas in Kairo lesen",
-      "url": "https://www.philomag.de/artikel/habermas-kairo-lesen",
-      "description": "Trotz ihres universalistischen Anspruchs blieben viele von Habermas’ Überlegungen eurozentristisch. Welche Inspirationen ziehen Leser im Nahen Osten aus seinem Werk? Und welche Leerstellen sehen sie?",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Ein Streit um das bundesdeutsche Selbstverständnis",
-      "url": "https://www.philomag.de/artikel/ein-streit-um-das-bundesdeutsche-selbstverstaendnis",
-      "description": "Der Historikerstreit veränderte das erinnerungskulturelle Klima der Bundesrepublik nachhaltig. Zwischen 1986 und 1987 mischten sich zahllose Intellektuelle in die Debatte ein. Die Hauptkontrahenten aber waren Ernst Nolte und Jürgen Habermas. Ein Überblick über die zentralen Positionen.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "„Habermas war immer zur richtigen Zeit am richtigen Ort“",
       "url": "https://www.philomag.de/artikel/habermas-war-immer-zur-richtigen-zeit-am-richtigen-ort",
       "description": "Am 14. März 2026 ist Jürgen Habermas gestorben. Was bleibt von ihm als Mensch besonders in Erinnerung? Was von seiner Theorie? Und an welche seiner Überlegungen wäre heute, angesichts der politischen Verdunkelungen, anzuschließen? Ein Gespräch mit Axel Honneth, Eva Gilmer, Philipp Felsch und Rahel Jaeggi.",
@@ -164,9 +164,9 @@
       }
     },
     {
-      "title": "Maas und Moderne",
-      "url": "https://www.philomag.de/artikel/maas-und-moderne",
-      "description": "Habermas glaubte an die Moderne. Das bezeugen nicht nur seine Schriften, sondern auch seine Begeisterung für Rotterdam und die Architektur, die dort nach dem Zweiten Weltkrieg entstand.",
+      "title": "Pariser Begegnungen",
+      "url": "https://www.philomag.de/artikel/pariser-begegnungen",
+      "description": "Während Habermas am Versprechen der Moderne festhält, misstrauen die führenden französischen Philosophen der Nachkriegszeit den Ansprüchen auf Vernunft und Verständigung. Eine unüberbrückbare Differenz? Über Habermas’ Rezeption in Frankreich.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -177,22 +177,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Habermas in China",
-      "url": "https://www.philomag.de/artikel/habermas-china",
-      "description": "Im Land der Mitte liest man seit Jahrzehnten Habermas – auf marxistische, liberale oder neukonfuzianische Weise. Zu den interessantesten Erweiterungen, die hierbei entstanden sind, gehört eine neue Auffassung von Diskurs und Kommunikation.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     },
     {
@@ -231,6 +215,22 @@
       "title": "Habermas weltweit",
       "url": "https://www.philomag.de/artikel/habermas-weltweit",
       "description": "Habermas lebte und lehrte vor allem in Deutschland, aber sein Werk wurde weltweit gelesen, diskutiert – und teils neu gedeutet. Über einen Denker mit globaler Wirkkraft.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ein Reformer in Frankfurt",
+      "url": "https://www.philomag.de/artikel/ein-reformer-frankfurt",
+      "description": "Als wichtigster Vertreter der Frankfurter Schule wurde Habermas oft bezeichnet. Blickt man zurück auf seine Anfänge in Frankfurt, die Studentenproteste und das Verhältnis zu Horkheimer und Adorno, zeigt sich eine komplexere Geschichte. Über Auftakt, Abkühlung und Erneuerung einer intellektuellen Beziehung.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",

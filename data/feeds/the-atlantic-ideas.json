@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-14T09:22:40.850698+00:00",
+  "fetchedAt": "2026-06-14T18:23:06.344116+00:00",
   "items": [
     {
       "title": "Why <em>60 Minutes </em>Should Take Critiques of Its Work Seriously",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "How Britain Became as Poor as Mississippi",
-      "url": "https://www.theatlantic.com/magazine/2026/07/uk-productivity-economy-reform-party/687303/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -65,6 +49,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The ‘Broken Veteran’ Excuse",
+      "url": "https://www.theatlantic.com/ideas/2026/06/graham-platner-veteran-defense/687542/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "So Much for Leaving Abortion Up to the States",
+      "url": "https://www.theatlantic.com/ideas/2026/06/mifepristone-abortion-pill-access-impossible/687519/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -116,8 +132,8 @@
       }
     },
     {
-      "title": "The Data-Center Panic Is Overblown",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/?utm_source=feed",
+      "title": "The Boeing 747 Begins Its Final Descent",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/?utm_source=feed",
       "description": "",
       "date": "2026-06-12",
       "thumbnail": "",
@@ -132,8 +148,8 @@
       }
     },
     {
-      "title": "The Boeing 747 Begins Its Final Descent",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/?utm_source=feed",
+      "title": "The Data-Center Panic Is Overblown",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/?utm_source=feed",
       "description": "",
       "date": "2026-06-12",
       "thumbnail": "",
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/06/christian-humanism-trump-choice/687475/?utm_source=feed",
       "description": "",
       "date": "2026-06-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Revolutionary Gordon Wood",
-      "url": "https://www.theatlantic.com/ideas/2026/06/revolutionary-gordon-wood-historian/687487/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

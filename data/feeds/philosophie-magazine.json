@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-14T09:22:14.303097+00:00",
+  "fetchedAt": "2026-06-14T18:22:54.226525+00:00",
   "items": [
     {
       "title": "“L’Armée des ombres” : le comment plutôt que le pourquoi de la Résistance",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "La “société du spectacle” chez Guy Debord, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/la-societe-du-spectacle-chez-guy-debord-cest-quoi",
+      "description": "",
+      "date": "Sun, 14 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Simone Weil, l'engagement et la solitude",
       "url": "https://www.philomag.com/articles/simone-weil-lengagement-et-la-solitude",
       "description": "",
@@ -110,22 +126,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "François Gemenne : “Nous devons libérer l’écologie des idéologies politiques”",
-      "url": "https://www.philomag.com/articles/francois-gemenne-nous-devons-liberer-lecologie-des-ideologies-politiques",
-      "description": "",
-      "date": "Tue, 09 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
