@@ -42,6 +42,11 @@ CONTEXT_LANG = {
     "friday":    "영어(English)",
 }
 
+# 중복 필터가 과거 글과 대조할 때 거슬러 보는 주차 수.
+# (불완전함·신체·침묵 등 반복 테마가 8주 이상 간격으로 재등장하므로 넉넉히 본다)
+HISTORY_LOOKBACK = 12
+PER_DAY = 3  # 요일당 발행 편수
+
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 # 주차 정보
@@ -72,36 +77,63 @@ def load_published_urls() -> set:
     return {item["sourceUrl"] for item in data.get("items", []) if item.get("sourceUrl")}
 
 
-def load_recent_tags(weeks: int = 8) -> list:
-    """최근 N주 발행된 태그 목록 반환 (주제 중복 방지용)"""
+def load_recent_articles(weeks: int = HISTORY_LOOKBACK) -> list:
+    """최근 N주 발행된 글 목록 반환 (중복 필터·프롬프트용).
+
+    반환: [{"week", "title", "summary", "tags"}] (과거→최신 순).
+    구버전(tags만 있는) 항목도 안전하게 읽는다.
+    """
     if not os.path.exists(HISTORY_PATH):
         return []
     with open(HISTORY_PATH, encoding="utf-8") as f:
         history = json.load(f)
     entries = history.get("weeks", [])
     recent = entries[-weeks:] if len(entries) > weeks else entries
-    tags = []
+    articles = []
     for entry in recent:
-        tags.extend(entry.get("tags", []))
-    return list(dict.fromkeys(tags))  # 중복 제거, 순서 유지
+        wk = entry.get("week", "")
+        for art in entry.get("articles", []):
+            title = (art.get("title") or "").strip()
+            if not title:
+                continue
+            articles.append({
+                "week":    wk,
+                "title":   title,
+                "summary": (art.get("summary") or "").strip(),
+                "tags":    art.get("tags", []),
+            })
+    return articles
 
 
-def save_tags_to_history(week_id: str, items: list):
-    """이번 주 발행 태그를 history에 누적 저장 (최대 26주 보관)"""
+def save_history(week_id: str, items: list):
+    """이번 주 발행 글(제목·요약·태그)을 history에 누적 저장 (최대 26주 보관).
+
+    중복 필터가 다음 주 큐레이션 때 대조할 수 있도록 글 단위 정보를 남긴다.
+    """
     history = {"weeks": []}
     if os.path.exists(HISTORY_PATH):
         with open(HISTORY_PATH, encoding="utf-8") as f:
             history = json.load(f)
 
-    all_tags = [t for item in items for t in item.get("tags", [])]
-    weeks = history.get("weeks", [])
+    articles = [
+        {
+            "title":   (item.get("title") or "").strip(),
+            "summary": (item.get("summary") or "").strip(),
+            "tags":    item.get("tags", []),
+        }
+        for item in items
+        if (item.get("title") or "").strip()
+    ]
+    all_tags = list(dict.fromkeys(t for a in articles for t in a["tags"]))
+    entry = {"week": week_id, "tags": all_tags, "articles": articles}
 
-    for i, entry in enumerate(weeks):
-        if entry["week"] == week_id:
-            weeks[i] = {"week": week_id, "tags": all_tags}
+    weeks = history.get("weeks", [])
+    for i, e in enumerate(weeks):
+        if e.get("week") == week_id:
+            weeks[i] = entry
             break
     else:
-        weeks.append({"week": week_id, "tags": all_tags})
+        weeks.append(entry)
 
     history["weeks"] = weeks[-26:]
 
@@ -170,7 +202,7 @@ SYSTEM_PROMPT = """당신은 철학 큐레이션 사이트 '플라뇌르(Flâneu
 반드시 JSON만 반환. 다른 텍스트 없이."""
 
 
-def build_user_prompt(day: str, items: list, recent_tags: list = None) -> str:
+def build_user_prompt(day: str, items: list, recent_articles: list = None, need: int = PER_DAY) -> str:
     items_block = ""
     for i, item in enumerate(items):
         items_block += (
@@ -182,11 +214,18 @@ def build_user_prompt(day: str, items: list, recent_tags: list = None) -> str:
         )
 
     avoid_section = ""
-    if recent_tags:
+    if recent_articles:
+        past_block = "\n".join(
+            f"- {a['title']}" + (f" — {a['summary']}" if a['summary'] else "")
+            for a in recent_articles
+        )
         avoid_section = (
-            f"\n## 최근 8주간 이미 다룬 주제·태그 (이와 동일하거나 유사한 주제 선택 금지)\n"
-            f"{', '.join(recent_tags)}\n"
-            f"→ 위 태그와 겹치는 철학자·개념·사회현상은 선택하지 마세요. 다른 주제를 우선하세요.\n"
+            f"\n## 이미 발행한 과거 글 (절대 같은 내용을 반복하지 마세요)\n"
+            f"{past_block}\n"
+            f"→ 위 글들과 **같은 사회현상·질문·철학자·핵심개념**을 다루는 항목은 선택하지 마세요.\n"
+            f"   제목·표현이 달라도 본질이 겹치면 중복입니다. (예: '불완전함/완벽주의', "
+            f"'몸과 스크린/디지털 신체', '조직의 침묵/실수 은폐', '남성 외모 압박' 등은 이미 여러 번 다뤘습니다.)\n"
+            f"   과거에 다루지 않은 새로운 현상·관점을 우선하세요.\n"
         )
 
     lang = CONTEXT_LANG.get(day)
@@ -208,7 +247,7 @@ def build_user_prompt(day: str, items: list, recent_tags: list = None) -> str:
             "한국과 다른 결을 보여주는 구체적 사례나 문화적 태도를 담는다."
         )
 
-    return f"""{DAY_LABELS[day]} 항목 {len(items)}개 중 가장 적합한 3개를 선택하고 한국어 요약을 작성하세요.
+    return f"""{DAY_LABELS[day]} 항목 {len(items)}개 중 가장 적합한 {need}개를 선택하고 한국어 요약을 작성하세요.
 {avoid_section}
 
 각 항목은 다음 구조로 작성합니다:
@@ -302,9 +341,10 @@ def extract_json(text: str) -> dict:
         return json.loads(_fix_string_escapes(text))
 
 
-def curate_day(client: anthropic.Anthropic, day: str, items: list, recent_tags: list = None) -> list:
-    """Claude API로 해당 요일 상위 3개 선택 + 한국어 요약 반환. JSON 파싱 실패 시 1회 재시도."""
-    messages = [{"role": "user", "content": build_user_prompt(day, items, recent_tags)}]
+def curate_day(client: anthropic.Anthropic, day: str, items: list,
+               recent_articles: list = None, need: int = PER_DAY) -> list:
+    """Claude API로 해당 요일 상위 need개 선택 + 한국어 요약 반환. JSON 파싱 실패 시 1회 재시도."""
+    messages = [{"role": "user", "content": build_user_prompt(day, items, recent_articles, need)}]
 
     for attempt in range(2):
         response = client.messages.create(
@@ -355,6 +395,135 @@ def curate_day(client: anthropic.Anthropic, day: str, items: list, recent_tags: 
         })
 
     return curated
+
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 중복 필터 (발행 직전 게이트)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+DEDUP_SYSTEM = """당신은 철학 큐레이션 사이트 '플라뇌르'의 중복 검수자입니다.
+새로 큐레이션한 글이 과거에 발행한 글과 본질적으로 같은 내용인지 판정합니다.
+
+## 중복 판정 기준
+다음 중 하나라도 과거 글과 겹치면 중복입니다 (제목·표현이 달라도):
+- 같은 사회현상·일상 장면을 다룬다 (예: 남성의 외모 관리, 디지털 환경 속 신체)
+- 같은 핵심 질문을 던진다 (예: 완벽주의/불완전함, 조직의 실수 은폐와 침묵)
+- 같은 철학자·핵심개념이 글의 중심이다 (예: 클레르 마랭의 불완전함, 드 케르코브의 디지털 신체)
+
+단, 주제 영역이 넓게 겹치는 정도(둘 다 '몸'을 언급)는 중복이 아닙니다.
+글의 **핵심 소재·질문·관점**이 실질적으로 같을 때만 중복으로 판정하세요.
+
+## 응답
+반드시 JSON만 반환. 다른 텍스트 없이."""
+
+
+def filter_duplicates(client: anthropic.Anthropic, candidates: list, past: list) -> list:
+    """candidates 각각이 past(과거 발행 글 + 같은 주 이미 채택된 글)와 중복인지 판정.
+
+    반환: candidates와 같은 길이의 verdict 리스트.
+          [{"is_duplicate": bool, "matched": "과거 제목 또는 ''", "reason": "..."}]
+    API 실패 시 모두 비중복으로 간주(게이트가 발행을 막지 않도록 — fail-open).
+    """
+    if not candidates:
+        return []
+    if not past:
+        return [{"is_duplicate": False, "matched": "", "reason": ""} for _ in candidates]
+
+    past_block = "\n".join(
+        f"- {a['title']}" + (f" — {a['summary']}" if a.get('summary') else "")
+        for a in past
+    )
+    cand_block = ""
+    for i, c in enumerate(candidates):
+        cand_block += (
+            f"\n[{i+1}] 제목: {c['title']}\n"
+            f"요약: {c.get('summary','')}\n"
+            f"태그: {', '.join(c.get('tags', []))}\n---"
+        )
+
+    prompt = f"""## 과거에 이미 발행한 글
+{past_block}
+
+## 이번에 새로 큐레이션한 글 ({len(candidates)}개) — 각각 위 과거 글과 중복인지 판정
+{cand_block}
+
+## 응답 형식 (JSON만, verdicts 길이는 새 글 개수와 동일)
+{{
+  "verdicts": [
+    {{"index": 1, "is_duplicate": true, "matched": "겹치는 과거 글 제목", "reason": "왜 같은지 한 줄"}},
+    {{"index": 2, "is_duplicate": false, "matched": "", "reason": ""}}
+  ]
+}}"""
+
+    try:
+        response = client.messages.create(
+            model="claude-sonnet-4-6",
+            max_tokens=2048,
+            system=DEDUP_SYSTEM,
+            messages=[{"role": "user", "content": prompt}],
+        )
+        result = extract_json(response.content[0].text)
+    except Exception as e:
+        print(f"    [중복필터 오류] {e} — 이번 판정은 건너뜀(비중복 처리)")
+        return [{"is_duplicate": False, "matched": "", "reason": ""} for _ in candidates]
+
+    verdicts = [{"is_duplicate": False, "matched": "", "reason": ""} for _ in candidates]
+    for v in result.get("verdicts", []):
+        try:
+            i = int(v["index"]) - 1
+        except (KeyError, ValueError, TypeError):
+            continue
+        if 0 <= i < len(candidates):
+            verdicts[i] = {
+                "is_duplicate": bool(v.get("is_duplicate")),
+                "matched":      (v.get("matched") or "").strip(),
+                "reason":       (v.get("reason") or "").strip(),
+            }
+    return verdicts
+
+
+def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
+                        recent_articles: list) -> list:
+    """해당 요일에서 과거 글과 중복되지 않는 글 PER_DAY개를 확보해 반환.
+
+    1차 큐레이션 → 중복 필터 게이트 → 중복은 버리고, 부족분은 1회 보충 큐레이션.
+    같은 주 안의 중복도 막기 위해, 이미 채택한 글을 비교 대상(past)에 누적한다.
+    """
+    chosen = []
+    used_urls = set()
+    candidates = list(day_items)
+
+    for round_no in range(2):  # 최초 + 보충 1회
+        need = PER_DAY - len(chosen)
+        if need <= 0:
+            break
+        pool = [c for c in candidates if c["url"] not in used_urls]
+        if not pool:
+            break
+
+        picked = curate_day(client, day, pool, recent_articles, need=need)
+        if not picked:
+            break
+        for p in picked:
+            used_urls.add(p["sourceUrl"])
+
+        # 과거 글 + 이번 주 이미 채택한 글과 대조
+        compare_against = recent_articles + [
+            {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", [])}
+            for c in chosen
+        ]
+        verdicts = filter_duplicates(client, picked, compare_against)
+
+        for p, v in zip(picked, verdicts):
+            if v["is_duplicate"]:
+                print(f"    [중복 제외] '{p['title']}' ↔ '{v['matched']}' ({v['reason']})")
+            else:
+                chosen.append(p)
+
+    if len(chosen) < PER_DAY:
+        print(f"    [알림] {DAY_LABELS[day]}: 중복 제외 후 {len(chosen)}개만 확보 "
+              f"(목표 {PER_DAY}개) — 비중복 후보 부족")
+    return chosen[:PER_DAY]
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -436,9 +605,15 @@ def main():
     if published_urls:
         print(f"기존 발행 URL {len(published_urls)}개 제외\n")
 
-    recent_tags = load_recent_tags(weeks=8)
-    if recent_tags:
-        print(f"최근 8주 발행 태그 {len(recent_tags)}개 로드 (주제 중복 방지)\n")
+    recent_articles = load_recent_articles(weeks=HISTORY_LOOKBACK)
+    if recent_articles:
+        print(f"최근 {HISTORY_LOOKBACK}주 발행 글 {len(recent_articles)}개 로드 (중복 필터용)\n")
+    # 보충 모드: 이번 주 이미 발행된 다른 요일 글과도 겹치지 않도록 비교 대상에 포함
+    if existing_items:
+        recent_articles = recent_articles + [
+            {"title": it.get("title", ""), "summary": it.get("summary", ""), "tags": it.get("tags", [])}
+            for it in existing_items
+        ]
 
     new_items = []
 
@@ -452,11 +627,19 @@ def main():
 
         print(f"  → {len(day_items)}개 항목 검토 중...", flush=True)
         try:
-            curated = curate_day(client, day, day_items, recent_tags)
+            curated = curate_day_filtered(client, day, day_items, recent_articles)
+            if not curated:
+                print(f"  → 비중복 항목 없음, 건너뜀\n")
+                continue
             prefix  = DAY_PREFIX[day]
             for i, item in enumerate(curated, start=1):
                 item["id"] = f"{prefix}-{i:02d}"
             new_items.extend(curated)
+            # 다음 요일이 같은 주 안에서 중복되지 않도록 채택분을 비교 대상에 누적
+            recent_articles = recent_articles + [
+                {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", [])}
+                for c in curated
+            ]
             titles = [c["title"] for c in curated]
             print(f"  → 선택: {titles}\n")
         except Exception as e:
@@ -487,8 +670,8 @@ def main():
         json.dump(news, f, ensure_ascii=False, indent=2)
 
     _validate_and_fix_json(NEWS_PATH)
-    save_tags_to_history(week_id, all_items)
-    print(f"완료: {len(all_items)}개 항목 → data/news.json 저장 / 태그 히스토리 갱신")
+    save_history(week_id, all_items)
+    print(f"완료: {len(all_items)}개 항목 → data/news.json 저장 / 발행 이력 갱신")
 
 
 if __name__ == "__main__":
