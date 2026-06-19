@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-19T17:24:35.378213+00:00",
+  "fetchedAt": "2026-06-19T20:18:34.253384+00:00",
   "items": [
     {
       "title": "Qu’est-ce que le “colonialisme vert” ?",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Nos grandes questions pour changer d'ère : “Vivons-nous en avant-guerre ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-vivons-nous-en-avant-guerre",
-      "description": "",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Hilma af Klint au Grand Palais : du spirituel dans l’art",
+      "url": "https://www.philomag.com/articles/hilma-af-klint-au-grand-palais-du-spirituel-dans-lart",
+      "description": "",
+      "date": "Fri, 19 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
