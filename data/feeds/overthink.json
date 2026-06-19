@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-06-14T18:23:03.078963+00:00",
+  "fetchedAt": "2026-06-19T09:02:21.064906+00:00",
   "items": [
     {
       "title": "Climate Action with Kyle Whyte",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "Addiction with Hanna Pickard",
-      "url": "",
-      "description": "To what extent is drug addiction voluntary? In episode 162 of Overthink, Ellie and David chat with philosopher Hanna Pickard about her book,  What Would You Do Alone in a Cage with Nothing but Cocaine? A Philosophy of Addiction . They discuss how the “broken brain model” of addiction emerged to combat the moral model of addiction and explore the consequences of both of these models. What drives some people into addiction? What does it mean to say that addiction is a brain disease? How should res",
-      "date": "Tue, 24 Feb 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
       "title": "Closer Look: Haraway, Cyborg Manifesto",
       "url": "",
       "description": "Is the way we interact with technology moving us towards a cyborg future? In episode 164 of Overthink, Ellie and David take a closer look at Donna Haraway’s seminal essay, “A Cyborg Manifesto,” in which Haraway critiques the increasing technologization of everyday life and questions what it means to be a feminist and a socialist in the age of informatics and cybernetics. They discuss her critique of identity politics, her notion of the “homework economy,” the increase of miniaturization in techn",
@@ -65,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "Cheating",
+      "url": "",
+      "description": "Is it easier to cheat now than ever? In episode 177 of Overthink, Ellie and David talk about cheating. From micro-cheating on your girlfriend to doping in sports, cheating appears to have escalated in various domains. Your hosts explain the relationship between cheating and rule-breaking, then question norms surrounding cheating in romantic relationships. Why is cheating considered the ultimate dealbreaker? Is it always dishonest? Finally, they address the rise of generative AI cheating in schoo",
+      "date": "Tue, 16 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {

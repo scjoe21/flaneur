@@ -1,61 +1,29 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-14T18:22:54.226525+00:00",
+  "fetchedAt": "2026-06-19T09:02:03.001075+00:00",
   "items": [
     {
-      "title": "“L’Armée des ombres” : le comment plutôt que le pourquoi de la Résistance",
-      "url": "https://www.philomag.com/articles/larmee-des-ombres-le-comment-plutot-que-le-pourquoi-de-la-resistance",
+      "title": "Nos grandes questions pour changer d'ère : “Vivons-nous en avant-guerre ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-vivons-nous-en-avant-guerre",
       "description": "",
-      "date": "Sun, 14 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Bac philo 2026, l’ultime conseil : comment surmonter sa peur de l’épreuve ?",
-      "url": "https://www.philomag.com/articles/bac-philo-2026-lultime-conseil-comment-surmonter-sa-peur-de-lepreuve",
-      "description": "",
-      "date": "Thu, 11 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Pourquoi jouons-nous (et de plus en plus) ?",
-      "url": "https://www.philomag.com/articles/pourquoi-jouons-nous-et-de-plus-en-plus",
-      "description": "",
-      "date": "Tue, 09 Jun 2026",
+      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "Nos grandes questions pour changer d'ère : “Est-il possible de vivre sans croire ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-est-il-possible-de-vivre-sans-croire",
+      "title": "Nos grandes questions pour changer d'ère : “Les machines font-elles l’histoire ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-les-machines-font-elles-lhistoire",
       "description": "",
-      "date": "Sat, 13 Jun 2026",
+      "date": "Fri, 19 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -68,26 +36,42 @@
       }
     },
     {
-      "title": "La “société du spectacle” chez Guy Debord, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/la-societe-du-spectacle-chez-guy-debord-cest-quoi",
+      "title": "Florent Guénard : “Vouloir l’égalité est une affaire de rationalité, pas de morale”",
+      "url": "https://www.philomag.com/articles/florent-guenard-vouloir-legalite-est-une-affaire-de-rationalite-pas-de-morale",
       "description": "",
-      "date": "Sun, 14 Jun 2026",
+      "date": "Thu, 18 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "Simone Weil, l'engagement et la solitude",
-      "url": "https://www.philomag.com/articles/simone-weil-lengagement-et-la-solitude",
+      "title": "Rétrospective 2006-2026 : Les conséquences sociales du changement climatique, par Bruno Latour",
+      "url": "https://www.philomag.com/articles/retrospective-2006-2026-les-consequences-sociales-du-changement-climatique-par-bruno",
       "description": "",
-      "date": "Fri, 12 Jun 2026",
+      "date": "Thu, 18 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "“En cas de besoin”. La dépression, la bipolarité et la nature (fictive ?) du Moi",
+      "url": "https://www.philomag.com/articles/en-cas-de-besoin-la-depression-la-bipolarite-et-la-nature-fictive-du-moi",
+      "description": "",
+      "date": "Wed, 17 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +84,10 @@
       }
     },
     {
-      "title": "Tristan Garcia : “Le football reste un moyen populaire de se poser de grandes questions”",
-      "url": "https://www.philomag.com/articles/tristan-garcia-le-football-reste-un-moyen-populaire-de-se-poser-de-grandes-questions",
+      "title": "Anna C. Zielinska : “Certains complotistes expriment une crainte lucide sur le devenir de nos sociétés”",
+      "url": "https://www.philomag.com/articles/anna-c-zielinska-certains-complotistes-expriment-une-crainte-lucide-sur-le-devenir-de",
       "description": "",
-      "date": "Thu, 11 Jun 2026",
+      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -116,26 +100,10 @@
       }
     },
     {
-      "title": "Rétrospective 2006-2026 : ChatGPT, il ne lui manque plus que la conscience, mais jusqu'à quand ?",
-      "url": "https://www.philomag.com/articles/retrospective-2006-2026-chatgpt-il-ne-lui-manque-plus-que-la-conscience-mais-jusqua",
+      "title": "Yves Michaud dans la caverne du Pont-Neuf : \"Ni immersif, ni esthétique\"",
+      "url": "https://www.philomag.com/articles/yves-michaud-dans-la-caverne-du-pont-neuf-ni-immersif-ni-esthetique",
       "description": "",
-      "date": "Thu, 11 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Lyhanna, périscolaire… 6 leçons philosophiques sur le “MeToo des enfants”",
-      "url": "https://www.philomag.com/articles/lyhanna-periscolaire-6-lecons-philosophiques-sur-le-metoo-des-enfants",
-      "description": "",
-      "date": "Sat, 13 Jun 2026",
+      "date": "Thu, 18 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +116,10 @@
       }
     },
     {
-      "title": "Ouverture du Fonds Enki-Bilal : l’art de l'hybridation",
-      "url": "https://www.philomag.com/articles/ouverture-du-fonds-enki-bilal-lart-de-lhybridation",
+      "title": "Les grandes idées de Carlo Ginzburg",
+      "url": "https://www.philomag.com/articles/les-grandes-idees-de-carlo-ginzburg",
       "description": "",
-      "date": "Fri, 12 Jun 2026",
+      "date": "Wed, 17 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +132,10 @@
       }
     },
     {
-      "title": "“Nous vivions, jusqu’à présent, dans une culture du viol des enfants”, entretien avec le magistrat Jérôme Pauzat",
-      "url": "https://www.philomag.com/articles/nous-vivions-jusqua-present-dans-une-culture-du-viol-des-enfants-entretien-avec-le",
+      "title": "Myriam Bahaffou : “Il faut faire advenir un monde plus jouissif”",
+      "url": "https://www.philomag.com/articles/myriam-bahaffou-il-faut-faire-advenir-un-monde-plus-jouissif",
       "description": "",
-      "date": "Fri, 12 Jun 2026",
+      "date": "Wed, 17 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +148,10 @@
       }
     },
     {
-      "title": "Terraformer Mars ?",
-      "url": "https://www.philomag.com/articles/terraformer-mars",
+      "title": "Disparition de Carlo Ginzburg : une vie d’historien",
+      "url": "https://www.philomag.com/articles/disparition-de-carlo-ginzburg-une-vie-dhistorien",
       "description": "",
-      "date": "Wed, 10 Jun 2026",
+      "date": "Wed, 17 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +164,10 @@
       }
     },
     {
-      "title": "Bac philo 2026 : l’explication de texte de rêve dont s’inspirer",
-      "url": "https://www.philomag.com/articles/bac-philo-2026-modele-explication-texte-reve",
+      "title": "“Agir pour empêcher une catastrophe malgré tout inévitable” : un texte inédit de Slavoj Žižek pour notre n°200",
+      "url": "https://www.philomag.com/articles/agir-pour-empecher-une-catastrophe-malgre-tout-inevitable-un-texte-inedit-de-slavoj",
       "description": "",
-      "date": "Wed, 10 Jun 2026",
+      "date": "Wed, 17 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +180,10 @@
       }
     },
     {
-      "title": "Rétrospective 2006-2026 : entrer dans la tête de Vladimir Poutine pour savoir jusqu'où il peut aller",
-      "url": "https://www.philomag.com/articles/retrospective-2006-2026-entrer-dans-la-tete-de-vladimir-poutine-pour-savoir-jusquou-il",
+      "title": "Affaire Lyhanna : aux (l)armes, les enfants",
+      "url": "https://www.philomag.com/articles/affaire-lyhanna-aux-larmes-les-enfants",
       "description": "",
-      "date": "Wed, 10 Jun 2026",
+      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +196,42 @@
       }
     },
     {
-      "title": "“Colis suspect” : la terreur des encombrants",
-      "url": "https://www.philomag.com/articles/colis-suspect-la-terreur-des-encombrants",
+      "title": "David Hockney : un philosophe de la vision",
+      "url": "https://www.philomag.com/articles/david-hockney-un-philosophe-de-la-vision",
       "description": "",
-      "date": "Tue, 09 Jun 2026",
+      "date": "Tue, 16 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Corrigés du bac philo – filière générale : “Peut-on être heureux quand les autres ne le sont pas ?”",
+      "url": "https://www.philomag.com/articles/corriges-du-bac-philo-filiere-generale-peut-etre-heureux-quand-les-autres-ne-le-sont-pas",
+      "description": "",
+      "date": "Mon, 15 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Corrigés du bac philo – filière générale : “Avons-nous la maîtrise de nos paroles ?”",
+      "url": "https://www.philomag.com/articles/corriges-du-bac-philo-filiere-generale-avons-nous-la-maitrise-de-nos-paroles",
+      "description": "",
+      "date": "Mon, 15 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

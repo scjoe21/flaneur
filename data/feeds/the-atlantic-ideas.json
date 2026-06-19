@@ -1,45 +1,61 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-14T18:23:06.344116+00:00",
+  "fetchedAt": "2026-06-19T09:02:34.666256+00:00",
   "items": [
     {
-      "title": "Why <em>60 Minutes </em>Should Take Critiques of Its Work Seriously",
-      "url": "https://www.theatlantic.com/ideas/2026/06/60-minutes-scott-pelley-bias-accusations/687520/?utm_source=feed",
+      "title": "Why July 4 Turned Into a Trump Rally",
+      "url": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/?utm_source=feed",
       "description": "",
-      "date": "2026-06-11",
+      "date": "2026-06-16",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "The Voters Who Believe That Trump Defends Their Values",
-      "url": "https://www.theatlantic.com/ideas/2026/06/democracy-government-trump-maga/687535/?utm_source=feed",
+      "title": "Why AI Is Incorrigibly Didactic",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-writing-style-literature/687536/?utm_source=feed",
       "description": "",
-      "date": "2026-06-13",
+      "date": "2026-06-15",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The Unpopular Truth About World Cup Ticket Prices",
+      "url": "https://www.theatlantic.com/ideas/2026/06/world-cup-ticket-prices-fair/687540/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "As American as the Forward Pass",
-      "url": "https://www.theatlantic.com/magazine/2026/07/american-sports-culture-origins/687302/?utm_source=feed",
+      "title": "An Ascendant Constitutional Theory Is a Threat to American Science",
+      "url": "https://www.theatlantic.com/ideas/2026/06/unitary-executive-scientific-research/687565/?utm_source=feed",
       "description": "",
-      "date": "2026-06-11",
+      "date": "2026-06-17",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -49,6 +65,150 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Left-Wing Case Against Anti-Zionism",
+      "url": "https://www.theatlantic.com/ideas/2026/06/left-against-antizionism-israel/687616/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "If Only Trump Knew What Vance Is Doing",
+      "url": "https://www.theatlantic.com/ideas/2026/06/vance-surrender-iran-trump/687597/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Iran Has Humiliated Trump",
+      "url": "https://www.theatlantic.com/ideas/2026/06/iran-trump-war-defeat-deal/687595/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What Did You Expect?",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-war-reversals/687590/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "All the Sad Hawks",
+      "url": "https://www.theatlantic.com/ideas/2026/06/iran-war-hawks-grief/687583/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Apotheosis of Donald Trump",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-decline-ufc-fight/687582/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Cult of Delayed Gratification Is a Lie",
+      "url": "https://www.theatlantic.com/ideas/2026/06/instant-gratification-psychology-economy/687550/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "My Descent Into Mah-Jongg",
+      "url": "https://www.theatlantic.com/politics/2026/06/mahjong-set-tiles-popularity/687482/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump Celebrates While America Capitulates",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-deal/687547/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -72,166 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/06/mifepristone-abortion-pill-access-impossible/687519/?utm_source=feed",
       "description": "",
       "date": "2026-06-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump’s Gladiator Delusion",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-gladiator-fight-ufc/687531/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Women Who Don’t Own Clothes",
-      "url": "https://www.theatlantic.com/ideas/2026/06/clothing-rental-sustainability-nuuly-shopping/687526/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Americans Are Already Paying Dearly for the National Debt",
-      "url": "https://www.theatlantic.com/ideas/2026/06/national-debt-affordability-legislation/687517/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Boeing 747 Begins Its Final Descent",
-      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Data-Center Panic Is Overblown",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-data-center-electricity-water/687521/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pete Hegseth, Cornball in Chief",
-      "url": "https://www.theatlantic.com/ideas/2026/06/pete-hegseth-corny/687515/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The ‘Presumption of Regularity’ Is Evaporating",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-doj-judges-lawfare/687501/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Hunter Biden’s Life After Shame",
-      "url": "https://www.theatlantic.com/ideas/2026/06/hunter-biden-shameless-media/687502/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The One Area Where a 14-Year-Old Is an Adult",
-      "url": "https://www.theatlantic.com/ideas/2026/06/kids-adult-time-counterproductive/687449/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "American Christians Face a Choice",
-      "url": "https://www.theatlantic.com/ideas/2026/06/christian-humanism-trump-choice/687475/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-10",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

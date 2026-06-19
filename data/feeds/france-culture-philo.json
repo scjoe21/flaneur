@@ -1,10 +1,10 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-06-14T18:22:53.881471+00:00",
+  "fetchedAt": "2026-06-19T09:02:02.005375+00:00",
   "items": [
     {
-      "title": "On est tous des surtouristes : voyager autrement grâce à Sartre",
+      "title": "Vivre, mode d'emploi : On est tous des surtouristes : voyager autrement grâce à Sartre",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/on-est-tous-des-surtouristes-voyager-autrement-grace-a-sartre-9602729",
       "description": "durée : 00:03:09  - Avec philosophie - par : Laurence Devillairs - Face au phénomène du surtourisme, Laurence Devillairs explore une réflexion philosophie de Jean-Paul Sartre sur les paradoxes du voyage. Comment transformer notre regard sur le monde pour passer du statut de touriste prédateur à celui de voyageur attentif.  - réalisation : Camille Renard, Virginie Le Duault, Noé Mignard \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Fri, 12 Jun 2026",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Les philosophies moyen-orientales : Qu'est-ce que la \"philosophie arabe classique\" ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-que-la-philosophie-arabe-classique-1976710",
+      "description": "durée : 00:58:28  - Avec philosophie - par : Géraldine Muhlmann - La philosophie arabe classique s’est développée autour de grandes questions métaphysiques, logiques et théologiques, en articulant raison et révélation. Parmi ses figures majeures, Avicenne et Averroès ont profondément marqué les débats sur la connaissance, l’être et l’interprétation des textes.  - réalisation : Carla Michel, Axel Dubois, Shaïma Giboire, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Meryem",
+      "date": "Mon, 15 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Roland Barthes : les mystères de l'écriture : Qu'est-ce que \"la mort de l'auteur\" ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-que-la-mort-de-l-auteur-9208518",
       "description": "durée : 00:57:46  - Avec philosophie - par : Géraldine Muhlmann - Dans  \"La Mort de l’auteur\" (1967), Roland Barthes critique l’idée d’un auteur maître du sens de son œuvre. Il affirme que l’interprétation d’un texte ne dépend pas des intentions de l’écrivain, mais du fonctionnement du langage et de l’activité du lecteur.  - réalisation : Carla Michel, Axel Dubois, Shaïma Giboire, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Eric Marty Écrivain et universitaire, Vincent Kaufmann Prof",
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "Lolita Pille, écrivaine : \"Platon m'a sauvée : j'ai cessé d'aimer X ou Y pour aimer le Beau\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/lolita-pille-ecrivaine-essayiste-sur-quatre-dialogues-de-platon-4101456",
-      "description": "durée : 00:58:29  - Avec philosophie - par : Géraldine Mosna-Savoye - Les dialogues de Platon mettent en scène des échanges philosophiques, souvent conduits par Socrate, autour des grandes questions humaines : la vérité, la justice, l’amour. La romancière et essayiste Lolita Pille choisit d'aborder deux de ses dialogues lumineux.   - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Lolita Pille Romancière \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limi",
-      "date": "Fri, 29 May 2026",
+      "title": "Vivre, mode d'emploi : Le Fil philo du jeudi 16 avril 2026",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/apprendre-a-ne-rien-faire-le-secret-du-bonheur-selon-jean-jacques-rousseau-7404284",
+      "description": "durée : 00:03:32  - Avec philosophie - par : Laurence Devillairs - Et si le bonheur consistait simplement à ne rien faire ? Le concept de \"ne rien faire\" inspiré par Jean-Jacques Rousseau dans \"Les Rêveries du promeneur solitaire\" dépasse la simple paresse pour devenir une  véritable quête métaphysique. Une réflexion sur l'art de l'existence.  - réalisation : Camille Renard, Virginie Le Duault, Emily Vallat \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Ra",
+      "date": "Wed, 17 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 29,
       "scoreDetail": {
         "daily": 5,
-        "phil": 25,
-        "flaneur": 0,
+        "phil": 20,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
+        "total": 29
       }
     },
     {
@@ -100,19 +116,19 @@
       }
     },
     {
-      "title": "Le \"Discours de la servitude volontaire\" de La Boétie  : Lectures et instrumentalisations du \"Discours\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/lectures-et-instrumentalisations-du-discours-1037819",
-      "description": "durée : 00:57:17  - Avec philosophie - par : Géraldine Muhlmann - Le \"Discours de la servitude volontaire\" de La Boétie a traversé les siècles comme un texte majeur de réflexion sur le pouvoir et l’obéissance. Selon les époques, il a été mobilisé aussi bien pour défendre la liberté politique que pour nourrir des lectures idéologiques diverses.   - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Paul-Alexis Mellet Professeur d'histoi",
-      "date": "Thu, 28 May 2026",
+      "title": "Les philosophies moyen-orientales : Qu'est-ce que la pensée ésotérique en islam ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-que-la-pensee-esoterique-en-islam-3446229",
+      "description": "durée : 00:58:31  - Avec philosophie - par : Géraldine Muhlmann - La pensée ésotérique en islam regroupe des courants pluriels qui mettent l’accent sur une dimension spirituelle et intérieure de la religion. Le soufisme en est l’une des expressions majeures, où la quête de Dieu passe avant tout par la pratique mystique et l’expérience personnelle.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Pierre Lory Directeur d'études émér",
+      "date": "Wed, 17 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 20,
-        "flaneur": 4,
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 29
+        "total": 25
       }
     },
     {
@@ -148,23 +164,7 @@
       }
     },
     {
-      "title": "Le \"Discours de la servitude volontaire\" de La Boétie  : Le \"Discours\" a-t-il fini par gêner Montaigne ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/le-discours-a-t-il-fini-par-gener-montaigne-9320411",
-      "description": "durée : 00:58:09  - Avec philosophie - par : Géraldine Muhlmann - Écrit vers 1548 par le jeune La Boétie, le \"Discours de la servitude volontaire\" dénonce l’obéissance des peuples au pouvoir tyrannique. Ami proche de l’auteur, Montaigne admirait ce texte, mais il en redoutait aussi les conséquences politiques, dans le contexte troublé des guerres de religion.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Philippe Desan Professe",
-      "date": "Wed, 27 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Droits des animaux : la pensée radicale du philosophe Tom Regan",
+      "title": "Vivre, mode d'emploi : Droits des animaux : la pensée radicale du philosophe Tom Regan",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/droits-des-animaux-la-pensee-radicale-du-philosophe-tom-regan-4808254",
       "description": "durée : 00:03:08  - Avec philosophie - par : Laurence Devillairs - Votre chien, votre chat, est pour vous un membre de la famille à part entière. Mais certains mettent en garde : à trop défendre la cause animale, risque-t-on d’en oublier les humains ? Avec Tom Regan, la réflexion s’élargit : les animaux ont-ils des droits au même titre que les êtres humains ?  - réalisation : Camille Renard, Virginie Le Duault, Noé Mignard \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, ren",
       "date": "Thu, 11 Jun 2026",
@@ -228,19 +228,19 @@
       }
     },
     {
-      "title": "Le Siècle d'or néerlandais et la philosophie : La tolérance hollandaise : refuge des philosophes ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-tolerance-hollandaise-refuge-des-philosophes-8327270",
-      "description": "durée : 00:57:56  - Avec philosophie - par : Géraldine Muhlmann - Il existait une assez grande liberté religieuse et intellectuelle aux Provinces-Unies, au 17ᵉ siècle. Cette ouverture a attiré de nombreux penseurs, savants, persécutés ailleurs en Europe.\nLes Pays-Bas sont ainsi devenus un refuge pour les philosophes et un centre majeur de diffusion des idées.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Julie Saada Professeure",
-      "date": "Mon, 01 Jun 2026",
+      "title": "Les philosophies moyen-orientales : Mondes sunnite et chiite : des \"philosophies\" différentes ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/mondes-sunnite-et-chiite-des-philosophies-differentes-7338923",
+      "description": "durée : 00:57:56  - Avec philosophie - par : Géraldine Muhlmann - Le chiisme et le sunnisme constituent les deux principales traditions de l’islam, nées de désaccords historiques autour de la succession du Prophète. Au fil du temps, elles ont développé des interprétations distinctes du pouvoir religieux, de la jurisprudence et de la transmission du savoir…  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Ziad Bou Akl Directeur d’é",
+      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-06-14T18:23:03.158671+00:00",
+  "fetchedAt": "2026-06-19T09:02:21.182611+00:00",
   "items": [
     {
       "title": "Don’t touch the art",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Female philosophers: Héloïse",
+      "url": "https://aeon.co/videos/there-can-be-no-sin-committed-from-love-the-radical-ethics-of-heloise",
+      "description": "Morality is rooted in love, not institutions: the enduring impact of Héloïse’s 12th-century romance with Abelard - by Aeon Video Watch on Aeon",
+      "date": "Wed, 17 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -84,26 +100,10 @@
       }
     },
     {
-      "title": "This is my island",
-      "url": "https://aeon.co/videos/tour-an-island-community-built-from-scratch-in-this-film-from-1972",
-      "description": "Life on this small, off-the-grid island offers closeness to land and community for those willing, and able, to work for it - by Aeon Video Watch on Aeon",
-      "date": "Mon, 25 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Flickering Enlightenment",
-      "url": "https://aeon.co/essays/lets-save-the-enlightenment-baby-from-its-muddied-bathwater",
-      "description": "Attacked by the Left and Right, the Enlightenment can only be saved through use of its greatest legacy: permanent critique - by Eliane Glaser Read on Aeon",
-      "date": "Thu, 28 May 2026",
+      "title": "Therapy for billionaires",
+      "url": "https://aeon.co/essays/what-would-a-therapy-camp-for-billionaires-look-like",
+      "description": "As my grandfather’s money taught, wealth can be a poison. The rich must reckon with its costs to recover their humanity - by Alexa Clay Read on Aeon",
+      "date": "Mon, 15 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -116,42 +116,10 @@
       }
     },
     {
-      "title": "The meatseller",
-      "url": "https://aeon.co/videos/brutal-beautiful-animation-traces-an-african-teens-journey-to-italy",
-      "description": "Selinna is 15 when she leaves her home in Nigeria, bound for Italy, a journey as perilous as it is transformative - by Aeon Video Watch on Aeon",
-      "date": "Wed, 27 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Can ecosystems malfunction?",
-      "url": "https://aeon.co/essays/why-we-need-to-think-again-about-ecosystem-failure",
-      "description": "We are told the natural world is ‘breaking down’. But forests don’t work like airplanes or human hearts - by John Drake Read on Aeon",
-      "date": "Mon, 25 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Being small",
-      "url": "https://aeon.co/essays/the-power-imbalance-between-parent-and-child-leaves-a-trace",
-      "description": "Nobody quite recovers from being a child: the asymmetry of power between parents and children always leaves a trace - by Tom Wooldridge Read on Aeon",
-      "date": "Fri, 22 May 2026",
+      "title": "What is this rock?",
+      "url": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
+      "description": "Not natural, not quite unnatural, the strange new rocks of the Anthropocene stretch the boundaries of geology - by John MacDonald Read on Aeon",
+      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -161,6 +129,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Neanderthal 1",
+      "url": "https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species",
+      "description": "The 16 bones that would rewrite history – on the site in Germany where we began to understand Neanderthals, and ourselves - by Aeon Video Watch on Aeon",
+      "date": "Thu, 18 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Words, words, words",
+      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
+      "description": "Strong resistance to AI among writers is understandable. But it obscures what we share with the machines: language itself - by Martin Puchner Read on Aeon",
+      "date": "Thu, 18 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Our neighbors, the peacocks",
+      "url": "https://aeon.co/videos/in-suburban-california-a-wild-peafowl-population-splits-the-community",
+      "description": "A portrait of the pristine suburb of Arcadia, where hundreds of feral peacocks are embraced by some, despised by others - by Aeon Video Watch on Aeon",
+      "date": "Mon, 15 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we",
       "description": "In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb - by Aeon Video Watch on Aeon",
       "date": "Thu, 28 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The embattled witnesses",
-      "url": "https://aeon.co/essays/a-fragile-crown-jewel-the-uns-human-rights-experts",
-      "description": "The UN’s special rapporteurs are experts charged with a singular mandate: to monitor the world’s worst human rights abuses - by Alvina Hoffmann Read on Aeon",
-      "date": "Tue, 26 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

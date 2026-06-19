@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-06-14T18:22:53.008374+00:00",
+  "fetchedAt": "2026-06-19T09:02:01.235113+00:00",
   "items": [
     {
       "title": "L'homme est un loup pour l'homme",
@@ -10,22 +10,6 @@
       "date": "2026-06-14",
       "thumbnail": "https://i2.ytimg.com/vi/yqeG0KQ8U9g/hqdefault.jpg",
       "videoId": "yqeG0KQ8U9g",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "La servitude volontaire",
-      "url": "https://www.youtube.com/shorts/1PfdIZnvFlM",
-      "description": "Au XVIe siècle, le philosophe français Étienne de La Boétie s’interroge sur cette question : pourquoi des peuples entiers acceptent-ils d’obéir à un seul homme ? Dans cette vidéo, je vous explique pourquoi, selon lui, le pouvoir des tyrans ne repose pas seulement sur la force, mais sur notre consentement, et en quoi l’habitude de l’obéissance transforme les hommes en esclaves volontaires.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #laboetie #politique #liberté ",
-      "date": "2026-05-17",
-      "thumbnail": "https://i2.ytimg.com/vi/1PfdIZnvFlM/hqdefault.jpg",
-      "videoId": "1PfdIZnvFlM",
       "priority": 40,
       "scoreDetail": {
         "daily": 20,
@@ -113,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "Le livre qu'il vous faut pour cet été",
+      "url": "https://www.youtube.com/shorts/O0WIeZ_W1J8",
+      "description": "Mon nouveau livre vient de sortir !\n \nNous passons notre vie à nous inquiéter, à nous mettre en colère, à vouloir contrôler ce qui ne dépend pas de nous. Les stoïciens avaient compris depuis plus de deux mille ans que c'était souvent là que commençait notre souffrance. Dans Les dix principes du stoïcisme, j'ai rassemblé les enseignements les plus puissants de cette philosophie pour vous aider à retrouver davantage de calme, de lucidité et de sérénité au quotidien.\n \nPour commander le livre, c'es",
+      "date": "2026-06-15",
+      "thumbnail": "https://i4.ytimg.com/vi/O0WIeZ_W1J8/hqdefault.jpg",
+      "videoId": "O0WIeZ_W1J8",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
       }
     },
     {
