@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-06-19T09:02:03.135470+00:00",
+  "fetchedAt": "2026-06-19T17:24:35.544965+00:00",
   "items": [
     {
       "title": "Warum wir immer wütender werden I NANO",
@@ -26,22 +26,6 @@
       "date": "2026-06-16",
       "thumbnail": "https://i4.ytimg.com/vi/cwou2Gd4VIM/hqdefault.jpg",
       "videoId": "cwou2Gd4VIM",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
-      }
-    },
-    {
-      "title": "Behandlungsfehler: 17.000 Opfer durch Pfusch im Krankenhaus? | NANO Doku",
-      "url": "https://www.youtube.com/watch?v=3VAVrPH0A2w",
-      "description": "„Wir sind Menschen, wir machen Fehler.“ In der Medizin kann dieser Satz jedoch fatale Folgen haben. Jährlich sterben in Deutschland schätzungsweise 17.000 Menschen durch vermeidbare Fehler im Gesundheitssystem – das sind mehr Todesfälle als im Straßenverkehr. Doch warum ist die Fehlerkultur in deutschen Kliniken oft noch von Angst und Schweigen geprägt? Und wie ließen sich diese Tragödien verhindern?\n \nHostin Jasmina Neudecker trifft Heinke Castagne, die seit fünf Jahren gegen Darmkrebs kämpft. ",
-      "date": "2026-05-07",
-      "thumbnail": "https://i4.ytimg.com/vi/3VAVrPH0A2w/hqdefault.jpg",
-      "videoId": "3VAVrPH0A2w",
       "priority": 39,
       "scoreDetail": {
         "daily": 35,
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Habt ihr Angst vor einer Superintelligenz?",
+      "url": "https://www.youtube.com/shorts/_R7jzm18QrY",
+      "description": "Kann dem Schweizer Start-up @FinalSpark wirklich die Erschaffung einer biologischen Superintelligenz gelingen?  🤯 Die Antwort gibt’s in unserem neuen Beitrag! 👉 https://youtu.be/xFxxVLKq-uA #biocomputer #neurologie #superintelligenz",
+      "date": "2026-06-19",
+      "thumbnail": "https://i4.ytimg.com/vi/_R7jzm18QrY/hqdefault.jpg",
+      "videoId": "_R7jzm18QrY",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
       }
     },
     {

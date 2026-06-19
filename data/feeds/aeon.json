@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-06-19T09:02:21.182611+00:00",
+  "fetchedAt": "2026-06-19T17:24:44.928209+00:00",
   "items": [
     {
       "title": "Don’t touch the art",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Trauma creep",
+      "url": "https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something",
+      "description": "From a broken life to a broken nail, ‘trauma’ has been bleached by overuse. But it names something real – and must be reclaimed - by Lily Dunn Read on Aeon",
+      "date": "Fri, 19 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
       "title": "What is this rock?",
       "url": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
       "description": "Not natural, not quite unnatural, the strange new rocks of the Anthropocene stretch the boundaries of geology - by John MacDonald Read on Aeon",
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/videos/how-an-ancient-curiosity-evolved-to-power-the-modern-world",
       "description": "The science behind the revolutionary engine that became the bedrock of global energy – born of a curiosity from 130 BCE - by Aeon Video Watch on Aeon",
       "date": "Mon, 08 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Life recombined",
-      "url": "https://aeon.co/videos/the-first-scientists-to-splice-dna-faced-a-daunting-question-should-we",
-      "description": "In the early 1970s, genetic engineers launched the most controversial revolution in science since the atomic bomb - by Aeon Video Watch on Aeon",
-      "date": "Thu, 28 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

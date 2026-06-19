@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-06-19T09:02:02.005375+00:00",
+  "fetchedAt": "2026-06-19T17:24:34.711564+00:00",
   "items": [
     {
       "title": "Vivre, mode d'emploi : On est tous des surtouristes : voyager autrement grâce à Sartre",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Emanuele Coccia, philosophe : \"Au 18e, Vico a écrit comme sous LSD : il a eu la vision d'une culture commune\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/emanuele-coccia-philosophe-a-propos-de-la-science-nouvelle-de-giambattista-vico-3352367",
+      "description": "durée : 00:58:36  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans \"La Science nouvelle\",  essai publié en 1725, le penseur Giambattista Vico soutient que les sociétés humaines suivent des cycles de développement que l’on peut comprendre à travers leurs institutions, leurs mythes et leur langage. Le philosophe Emanuele Coccia, séduit,  nous explique pourquoi.  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Emanuele Coccia Philosophe, maître de conférences à l",
+      "date": "Fri, 19 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -206,22 +222,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Le Siècle d'or néerlandais et la philosophie : Grotius : la liberté de naviguer, une liberté contestée ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/grotius-la-liberte-de-naviguer-une-liberte-contestee-8803347",
-      "description": "durée : 00:58:36  - Avec philosophie - par : Géraldine Muhlmann - Au début du XVIIᵉ siècle, le penseur néerlandais Hugo Grotius défend l’idée que les mers doivent être libres et accessibles à tous les peuples, que la navigation et le commerce ne peuvent être monopolisés par un État. Cette conception de la liberté des mers suscite de nombreuses contestations.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Niki Aloupi Professeur d",
-      "date": "Tue, 02 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

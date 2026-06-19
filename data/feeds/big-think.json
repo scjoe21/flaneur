@@ -1,24 +1,8 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-06-19T09:02:34.247330+00:00",
+  "fetchedAt": "2026-06-19T17:24:49.019446+00:00",
   "items": [
-    {
-      "title": "Why personal and collective risk-taking need completely different rules",
-      "url": "https://bigthink.com/the-well/why-personal-and-collective-risk-taking-need-completely-different-rules/",
-      "description": "Human beings are transformed by parenthood, grief, war, love, technology, and new ways of thinking. But the experiences that reshape us most are also the hardest to measure, predict, or govern. Yale professor of philosophy L.A. Paul argues that the future demands curiosity, humility, and a better understanding of how change remakes the people living through it. \n This video  Why personal and collective risk-taking need completely different rules  is featured on  Big Think .",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/The-Well-LA-Paul-Segment-02-Web.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
     {
       "title": "A philosopher’s 5 tips on how to become the most likeable person in the room",
       "url": "https://bigthink.com/mini-philosophy/a-philosophers-5-tips-on-how-to-become-the-most-likeable-person-in-the-room/",
@@ -46,6 +30,22 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "The hidden link: Depression, processed food, and your gut microbiome",
+      "url": "https://bigthink.com/series/full-interview/tim-spector-gut-microbiome/",
+      "description": "Could depression, dementia, and poor oral health all have one uniting link? The gut microbiome contains 200 more genes than human cells, and research shows its strong impact on mental illness, brain health, and chronic inflammation. \n Professor of epidemiology at King’s College London Tim Spector breaks down the science of how gut microbes produce the chemicals that shape your mood, your immune system, and your cognitive health, and why the standard Western diet has been systematically destroyin",
+      "date": "Wed, 17 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/B1-Web-Spector.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -86,7 +86,7 @@
     {
       "title": "Ask Ethan: How do space telescopes stay focused?",
       "url": "https://bigthink.com/starts-with-a-bang/how-space-telescopes-focus/",
-      "description": "In the era of space telescopes, we’re now used to clear, sharp images where everything is focused pristinely: reaching the theoretical maximum that’s possible based on the wavelength of light that’s begin observed and the diameter of the telescope’s primary mirror. First with Hubble (once the flaw in its primary mirror was corrected) and later with space telescopes such as Spitzer, GALEX, Herschel, and now JWST, the lack of an atmosphere to contend with means that all we need to do is make our o",
+      "description": "In the era of space telescopes, we’re now used to clear, sharp images where everything is focused pristinely: reaching the theoretical maximum that’s possible based on the wavelength of light that’s being observed and the diameter of the telescope’s primary mirror. First with Hubble (once the flaw in its primary mirror was corrected) and later with space telescopes such as Spitzer, GALEX, Herschel, and now JWST, the lack of an atmosphere to contend with means that all we need to do is make our o",
       "date": "Fri, 19 Jun 2026",
       "thumbnail": "https://bigthink.com/wp-content/uploads/2023/04/big4.gif?w=640",
       "videoId": "",
@@ -132,22 +132,6 @@
       }
     },
     {
-      "title": "The 1835 “moon hoax” that turned fake news into big business",
-      "url": "https://bigthink.com/books/the-1835-moon-hoax/",
-      "description": "[In the early 1830s], a brash young printer named Benjamin Day launched a bold economic experiment: the one-cent  Sun . A veteran of New York’s printer’s row, Day had spent several years working as a compositor at the  New-York Evening Post , where he met fellow compositor Dave Ramsey, who dreamed of starting an affordable daily newspaper. At the time, the standard price for a newspaper was six cents — roughly the cost of a pint of whiskey or a quarter-pound of bacon — and the most successful we",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/empire-of-ink_excerpt.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Rarest elements reveal planets eaten by white dwarfs",
       "url": "https://bigthink.com/starts-with-a-bang/elements-planets-white-dwarfs/",
       "description": "All across the Universe, we can learn what stars are made of simply by taking a spectrum of the light coming from them. While some stars are low in what astronomers call metallicity — the fraction of elements that are heavier than hydrogen and helium — and others have high metallicities, the ratios of the heavy elements inside of them are normally fairly consistent. Oxygen is the third most abundant element in the Universe; carbon is fourth, followed by neon, nitrogen, magnesium, silicon, iron, ",
@@ -161,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "The strange, and occasionally violent, origins of American news",
+      "url": "https://bigthink.com/books/the-origins-of-american-news/",
+      "description": "Early in my career, I landed a job at a local newspaper. It was a small-town daily with one editor and three reporters, and I only took the position because I was fresh out of college, and it paid 25 cents more an hour than my gig at the take-and-bake pizzeria. Looking back, I’m not nostalgic for the crushing grind or the strangely personalized abuse the paper’s readers could hurl over a simple spelling error. But if you caught me in a sentimental mood, I would admit that the experience ingraine",
+      "date": "Fri, 19 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/origins-of-news.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 13,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 13
       }
     }
   ]

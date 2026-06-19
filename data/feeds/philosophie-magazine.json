@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-19T09:02:03.001075+00:00",
+  "fetchedAt": "2026-06-19T17:24:35.378213+00:00",
   "items": [
+    {
+      "title": "Qu’est-ce que le “colonialisme vert” ?",
+      "url": "https://www.philomag.com/articles/quest-ce-que-le-colonialisme-vert",
+      "description": "",
+      "date": "Fri, 19 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Nos grandes questions pour changer d'ère : “Vivons-nous en avant-guerre ?”",
       "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-vivons-nous-en-avant-guerre",
@@ -97,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "La “prohibition de l’inceste” chez Lévi-Strauss, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/la-prohibition-de-linceste-chez-levi-strauss-cest-quoi",
+      "description": "",
+      "date": "Fri, 19 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/david-hockney-un-philosophe-de-la-vision",
       "description": "",
       "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Corrigés du bac philo – filière générale : “Peut-on être heureux quand les autres ne le sont pas ?”",
-      "url": "https://www.philomag.com/articles/corriges-du-bac-philo-filiere-generale-peut-etre-heureux-quand-les-autres-ne-le-sont-pas",
-      "description": "",
-      "date": "Mon, 15 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Corrigés du bac philo – filière générale : “Avons-nous la maîtrise de nos paroles ?”",
-      "url": "https://www.philomag.com/articles/corriges-du-bac-philo-filiere-generale-avons-nous-la-maitrise-de-nos-paroles",
-      "description": "",
-      "date": "Mon, 15 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

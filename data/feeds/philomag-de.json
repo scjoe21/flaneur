@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-06-19T09:02:06.267913+00:00",
+  "fetchedAt": "2026-06-19T17:24:37.996071+00:00",
   "items": [
     {
       "title": "Nils Weinberg: „Es gibt keine neutrale staatliche Förderpolitik“",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Die neue Sonderausgabe: Habermas",
+      "url": "https://www.philomag.de/artikel/die-neue-sonderausgabe-habermas",
+      "description": "Kein Philosoph hat die Bundesrepublik so sehr geprägt wie Jürgen Habermas. Er war der Denker des „Nie wieder“. Er warb für ein geeintes Europa, eine Welt mit geteilten Werten und Normen – und vor allem für die Kraft der Vernunft. Gerade angesichts der Verdüsterungen der Gegenwart erhält sein Denken neue Relevanz. Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Fernab der Kränkung",
       "url": "https://www.philomag.de/artikel/fernab-der-kraenkung",
       "description": "Mit der Replik, die Julian Nida-Rümelin auf unser Interview mit David Chalmers verfasste, entspann sich eine Debatte: Während Nida-Rümelin vor einer Beseelung der KI warnt, laufe er Daniel Bracker zufolge Gefahr, auch dem Menschen ein Inneres abzusprechen – und das, wie Bracker meint, aus einer Kränkung heraus. Nun argumentiert Nida-Rümelin, warum Daniel Brackers Kritik an seiner eigenen Replik nicht trägt. Ein Debattenbeitrag.",
@@ -52,9 +68,9 @@
       }
     },
     {
-      "title": "Rainer Forst: „Demokratie lebt vom Anspruch auf öffentliche Rechtfertigung“",
-      "url": "https://www.philomag.de/artikel/rainer-forst-demokratie-lebt-vom-anspruch-auf-oeffentliche-rechtfertigung",
-      "description": "Dass Habermas als demokratischer Ideengeber gilt, hat besonders mit Überlegungen zu tun, die er ab den späten 1980er-Jahren anstellte. Im Gespräch erläutert der Philosoph Rainer Forst, damals Doktorand von Habermas, dessen Rechts- und Demokratietheorie – und wie Recht darin zum Mittel der Freiheit wird.",
+      "title": "Die erschöpfte Demokratie",
+      "url": "https://www.philomag.de/artikel/die-erschoepfte-demokratie",
+      "description": "In seinem Werk  Faktizität und Geltung  legt Habermas dar, wie unsere Demokratie operieren muss, um auf festem Grund zu stehen. Hat er dabei entscheidende Kräfte unterschätzt, die früher in seinem Denken noch eine zentrale Rolle spielten?",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -100,22 +116,6 @@
       }
     },
     {
-      "title": "Befreiung der Vernunft",
-      "url": "https://www.philomag.de/artikel/befreiung-der-vernunft",
-      "description": "Das Konzept der kommunikativen Rationalität bildet ein Herzstück von Habermas’ Theorie. Anders als frühere Kritiker der Moderne meint er: Problematisch ist nicht ein Denken in Zweck und Mitteln, sondern wenn darüber andere Seiten der Vernunft verdrängt werden.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
       "title": "Ein Denker am Puls der Zeit",
       "url": "https://www.philomag.de/artikel/ein-denker-am-puls-der-zeit",
       "description": "Jürgen Habermas galt als  der  Philosoph der Bundesrepublik. Sein Biograf Stefan Müller-Doohm blickt zurück auf die wichtigsten Schriften, Stationen und Interventionen. Er zeichnet das Bild eines Mannes, dessen Werk eng mit den Abgründen und Hoffnungen der Nachkriegsgesellschaft verbunden ist.",
@@ -129,6 +129,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Ein Verfechter Europas",
+      "url": "https://www.philomag.de/artikel/ein-verfechter-europas",
+      "description": "Jürgen Habermas hat sich immer wieder zur Europäischen Union geäußert – sowohl als überzeugter Europäer und Fürsprecher des Bündnisses wie auch als Kritiker.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Der Positivismusstreit",
+      "url": "https://www.philomag.de/artikel/der-positivismusstreit",
+      "description": "In den 1960er-Jahren entzündet sich im deutschsprachigen Raum eine Grundsatzdebatte über Methodologie, Werturteile und das Selbstverständnis der Sozialwissenschaften. Zwei der prägendsten Denkschulen ihrer Zeit treffen aufeinander: der Kritische Rationalismus und die Kritische Theorie der Frankfurter Schule.",
+      "date": "Fri, 19 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
       }
     },
     {
@@ -164,9 +196,25 @@
       }
     },
     {
-      "title": "Pariser Begegnungen",
-      "url": "https://www.philomag.de/artikel/pariser-begegnungen",
-      "description": "Während Habermas am Versprechen der Moderne festhält, misstrauen die führenden französischen Philosophen der Nachkriegszeit den Ansprüchen auf Vernunft und Verständigung. Eine unüberbrückbare Differenz? Über Habermas’ Rezeption in Frankreich.",
+      "title": "Habermas – ein Schmittianer?",
+      "url": "https://www.philomag.de/artikel/habermas-ein-schmittianer",
+      "description": "Für Habermas hatte der Diskurs klare Grenzen. Entgegen seiner Theorie der Herrschaftsfreiheit dürfen nicht alle Ansichten am runden Tisch Platz finden – eine Sollbruchstelle, die eine Nähe zum Freund-Feind-Denker Carl Schmitt offenbart.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Dan Diner: „Habermas winkte wütend und zeigte an, dass es einen Skandal gebe“",
+      "url": "https://www.philomag.de/artikel/dan-diner-habermas-winkte-wuetend-und-zeigte-dass-es-einen-skandal-gebe",
+      "description": "Mit Ernst Noltes Deutung, der Holocaust sei primär eine Reaktion auf sowjetische Verbrechen, begann der Historikerstreit. Für Habermas war diese Sicht revisionistisch. Im Gespräch erläutert der Historiker Dan Diner die Frontlinien des Streits und die Präzedenzlosigkeit der Schoah.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -184,54 +232,6 @@
       "url": "https://www.philomag.de/artikel/linksautoritaere-irrungen",
       "description": "Was sind die Gründe für den erstarkenden Autoritarismus in Teilen der Linken? Woher kommt der zunehmende Judenhass in einem politischen Milieu, das sich selbst als reflektiert und als progressiv vermeint? Und ist die aktuelle Radikalisierung mit dem Linksterrorismus von früher vergleichbar? Nicholas Potter im Gespräch mit Christoph David Piorkowski über den Abweg weiter Teile der zeitgenössischen Linken.",
       "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Laut, körperlich, emotional",
-      "url": "https://www.philomag.de/artikel/laut-koerperlich-emotional",
-      "description": "In seinem Klassiker „Strukturwandel der Öffentlichkeit“ beschreibt Habermas, Salons und Kaffeehäuser als Prototype einer kritischen, öffentlichen Verständigung. Doch es existieren auch andere Formen der Öffentlichkeit – sich diesen und der Rolle von Affekten zuzuwenden könnte unser Verständnis gegenwärtiger Diskussionsdynamiken verbessern.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Habermas weltweit",
-      "url": "https://www.philomag.de/artikel/habermas-weltweit",
-      "description": "Habermas lebte und lehrte vor allem in Deutschland, aber sein Werk wurde weltweit gelesen, diskutiert – und teils neu gedeutet. Über einen Denker mit globaler Wirkkraft.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ein Reformer in Frankfurt",
-      "url": "https://www.philomag.de/artikel/ein-reformer-frankfurt",
-      "description": "Als wichtigster Vertreter der Frankfurter Schule wurde Habermas oft bezeichnet. Blickt man zurück auf seine Anfänge in Frankfurt, die Studentenproteste und das Verhältnis zu Horkheimer und Adorno, zeigt sich eine komplexere Geschichte. Über Auftakt, Abkühlung und Erneuerung einer intellektuellen Beziehung.",
-      "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
