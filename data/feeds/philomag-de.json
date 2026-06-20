@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-06-20T00:05:39.227902+00:00",
+  "fetchedAt": "2026-06-20T17:50:26.293276+00:00",
   "items": [
     {
       "title": "Nils Weinberg: „Es gibt keine neutrale staatliche Förderpolitik“",
@@ -36,38 +36,6 @@
       }
     },
     {
-      "title": "Jan-Philipp Kruse: „Demokratien sind angewiesen auf eine deliberative Qualität“",
-      "url": "https://www.philomag.de/artikel/jan-philipp-kruse-demokratien-sind-angewiesen-auf-eine-deliberative-qualitaet",
-      "description": "Angesichts der Digitalisierung diagnostiziert Habermas einen erneuten Strukturwandel der Öffentlichkeit. Der Philosoph Jan-Philipp Kruse erklärt, wie Plattformen die Öffentlichkeit verändern und welche Gefahren für die Demokratie mit KI und sozialen Medien einhergehen.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Die neue Sonderausgabe: Habermas",
-      "url": "https://www.philomag.de/artikel/die-neue-sonderausgabe-habermas",
-      "description": "Kein Philosoph hat die Bundesrepublik so sehr geprägt wie Jürgen Habermas. Er war der Denker des „Nie wieder“. Er warb für ein geeintes Europa, eine Welt mit geteilten Werten und Normen – und vor allem für die Kraft der Vernunft. Gerade angesichts der Verdüsterungen der Gegenwart erhält sein Denken neue Relevanz. Hier geht's zur  umfangreichen Heftvorschau !",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "Fernab der Kränkung",
       "url": "https://www.philomag.de/artikel/fernab-der-kraenkung",
       "description": "Mit der Replik, die Julian Nida-Rümelin auf unser Interview mit David Chalmers verfasste, entspann sich eine Debatte: Während Nida-Rümelin vor einer Beseelung der KI warnt, laufe er Daniel Bracker zufolge Gefahr, auch dem Menschen ein Inneres abzusprechen – und das, wie Bracker meint, aus einer Kränkung heraus. Nun argumentiert Nida-Rümelin, warum Daniel Brackers Kritik an seiner eigenen Replik nicht trägt. Ein Debattenbeitrag.",
@@ -78,6 +46,22 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Seyla Benhabib: „Habermas verteidigt das Erbe der Aufklärung“",
+      "url": "https://www.philomag.de/artikel/seyla-benhabib-habermas-verteidigt-das-erbe-der-aufklaerung",
+      "description": "Mit der  Theorie des kommunikativen Handelns  legt Habermas eine umfassende Gesellschaftstheorie vor. Im Gespräch erläutert Seyla Benhabib, warum Habermas die Sprache ins Zentrum stellt und damit die Kritische Theorie erweitert – und wo sein Ansatz ergänzt werden müsste.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -116,18 +100,18 @@
       }
     },
     {
-      "title": "Dialektik der Verschlechterung",
-      "url": "https://www.philomag.de/artikel/dialektik-der-verschlechterung",
-      "description": "Habermas’ Geschichtsphilosophie begreift gesellschaftliche Rückschritte als historische Gelegenheiten, etwas zu lernen. Bereitet das Chaos unserer Gegenwart also schon den nächsten Fortschritt vor?",
+      "title": "Kommunikation und ihre Kritiker",
+      "url": "https://www.philomag.de/artikel/kommunikation-und-ihre-kritiker",
+      "description": "Im Diskurs können Menschen vernünftige, konsensfähige Prinzipien des Miteinanders herausarbeiten, meint Habermas und erklärt damit die Kommunikation zur Grundlage einer besseren Gesellschaft. Doch seine Theorie von Verständigung und Einverständnis erntet auch Kritik.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
         "daily": 5,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 20
       }
     },
@@ -142,6 +126,22 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Ein Verfechter Europas",
+      "url": "https://www.philomag.de/artikel/ein-verfechter-europas",
+      "description": "Jürgen Habermas hat sich immer wieder zur Europäischen Union geäußert – sowohl als überzeugter Europäer und Fürsprecher des Bündnisses wie auch als Kritiker.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -180,41 +180,25 @@
       }
     },
     {
-      "title": "„Habermas war immer zur richtigen Zeit am richtigen Ort“",
-      "url": "https://www.philomag.de/artikel/habermas-war-immer-zur-richtigen-zeit-am-richtigen-ort",
-      "description": "Am 14. März 2026 ist Jürgen Habermas gestorben. Was bleibt von ihm als Mensch besonders in Erinnerung? Was von seiner Theorie? Und an welche seiner Überlegungen wäre heute, angesichts der politischen Verdunkelungen, anzuschließen? Ein Gespräch mit Axel Honneth, Eva Gilmer, Philipp Felsch und Rahel Jaeggi.",
+      "title": "Habermas in Kairo lesen",
+      "url": "https://www.philomag.de/artikel/habermas-kairo-lesen",
+      "description": "Trotz ihres universalistischen Anspruchs blieben viele von Habermas’ Überlegungen eurozentristisch. Welche Inspirationen ziehen Leser im Nahen Osten aus seinem Werk? Und welche Leerstellen sehen sie?",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "Habermas – ein Schmittianer?",
-      "url": "https://www.philomag.de/artikel/habermas-ein-schmittianer",
-      "description": "Für Habermas hatte der Diskurs klare Grenzen. Entgegen seiner Theorie der Herrschaftsfreiheit dürfen nicht alle Ansichten am runden Tisch Platz finden – eine Sollbruchstelle, die eine Nähe zum Freund-Feind-Denker Carl Schmitt offenbart.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Dan Diner: „Habermas winkte wütend und zeigte an, dass es einen Skandal gebe“",
-      "url": "https://www.philomag.de/artikel/dan-diner-habermas-winkte-wuetend-und-zeigte-dass-es-einen-skandal-gebe",
-      "description": "Mit Ernst Noltes Deutung, der Holocaust sei primär eine Reaktion auf sowjetische Verbrechen, begann der Historikerstreit. Für Habermas war diese Sicht revisionistisch. Im Gespräch erläutert der Historiker Dan Diner die Frontlinien des Streits und die Präzedenzlosigkeit der Schoah.",
+      "title": "„Habermas war immer zur richtigen Zeit am richtigen Ort“",
+      "url": "https://www.philomag.de/artikel/habermas-war-immer-zur-richtigen-zeit-am-richtigen-ort",
+      "description": "Am 14. März 2026 ist Jürgen Habermas gestorben. Was bleibt von ihm als Mensch besonders in Erinnerung? Was von seiner Theorie? Und an welche seiner Überlegungen wäre heute, angesichts der politischen Verdunkelungen, anzuschließen? Ein Gespräch mit Axel Honneth, Eva Gilmer, Philipp Felsch und Rahel Jaeggi.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -232,6 +216,22 @@
       "url": "https://www.philomag.de/artikel/linksautoritaere-irrungen",
       "description": "Was sind die Gründe für den erstarkenden Autoritarismus in Teilen der Linken? Woher kommt der zunehmende Judenhass in einem politischen Milieu, das sich selbst als reflektiert und als progressiv vermeint? Und ist die aktuelle Radikalisierung mit dem Linksterrorismus von früher vergleichbar? Nicholas Potter im Gespräch mit Christoph David Piorkowski über den Abweg weiter Teile der zeitgenössischen Linken.",
       "date": "Thu, 18 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Habermas in China",
+      "url": "https://www.philomag.de/artikel/habermas-china",
+      "description": "Im Land der Mitte liest man seit Jahrzehnten Habermas – auf marxistische, liberale oder neukonfuzianische Weise. Zu den interessantesten Erweiterungen, die hierbei entstanden sind, gehört eine neue Auffassung von Diskurs und Kommunikation.",
+      "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-20T00:05:35.254663+00:00",
+  "fetchedAt": "2026-06-20T17:50:22.678692+00:00",
   "items": [
+    {
+      "title": "“Test Cédric” : comment transformer une gaffe en succès ?",
+      "url": "https://www.philomag.com/articles/test-cedric-comment-transformer-une-gaffe-en-succes",
+      "description": "",
+      "date": "Sat, 20 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Qu’est-ce que le “colonialisme vert” ?",
       "url": "https://www.philomag.com/articles/quest-ce-que-le-colonialisme-vert",
@@ -84,19 +100,19 @@
       }
     },
     {
-      "title": "Anna C. Zielinska : “Certains complotistes expriment une crainte lucide sur le devenir de nos sociétés”",
-      "url": "https://www.philomag.com/articles/anna-c-zielinska-certains-complotistes-expriment-une-crainte-lucide-sur-le-devenir-de",
+      "title": "Les machines, l'histoire et le progrès… Entretien avec l’historien François Jarrige",
+      "url": "https://www.philomag.com/articles/les-machines-lhistoire-et-le-progres-entretien-avec-lhistorien-francois-jarrige",
       "description": "",
-      "date": "Tue, 16 Jun 2026",
+      "date": "Sat, 20 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Affaire Lyhanna : aux (l)armes, les enfants",
       "url": "https://www.philomag.com/articles/affaire-lyhanna-aux-larmes-les-enfants",
-      "description": "",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "David Hockney : un philosophe de la vision",
-      "url": "https://www.philomag.com/articles/david-hockney-un-philosophe-de-la-vision",
       "description": "",
       "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
