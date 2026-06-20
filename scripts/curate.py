@@ -10,6 +10,7 @@ data/feeds/*.json 을 읽어 Claude API로 요일별 상위 3개를 선택하고
 import json
 import os
 import sys
+from collections import Counter
 from datetime import datetime, timezone, timedelta
 
 import anthropic
@@ -241,10 +242,15 @@ def build_user_prompt(day: str, items: list, recent_articles: list = None, need:
             f"JSON 이스케이프 오류를 피하기 위해 큰따옴표(\") 대신 작은따옴표나 기예메(« »)를 사용한다."
         )
     else:
+        # 독일(화)은 외국어 표기 대상에서 제외 → 반드시 한국어로.
+        # (출처·주제가 독일어권이면 모델이 독일어로 쓰려는 경향이 있어 명시적으로 금지한다.)
         context_instruction = (
-            "[그 나라 맥락] 해당 철학이 나온 나라에서 이 현상이 어떻게 나타나는지, "
-            "그 나라 문화·사회가 이 질문을 어떻게 다루는지 4~5문장으로 한국어로 서술. "
-            "한국과 다른 결을 보여주는 구체적 사례나 문화적 태도를 담는다."
+            "[그 나라 맥락] **이 단락은 반드시 한국어로만 작성합니다.** "
+            "독일어를 비롯한 어떤 외국어도 한 문장·한 단어도 섞지 마세요. "
+            "해당 철학이 나온 나라에서 이 현상이 어떻게 나타나는지, "
+            "그 나라 문화·사회가 이 질문을 어떻게 다루는지 4~5문장으로 한국어로 서술한다. "
+            "한국과 다른 결을 보여주는 구체적 사례나 문화적 태도를 담는다. "
+            "(고유명사·개념어는 필요하면 괄호 안에 원어를 병기할 수 있으나, 문장 자체는 한국어로 쓴다.)"
         )
 
     return f"""{DAY_LABELS[day]} 항목 {len(items)}개 중 가장 적합한 {need}개를 선택하고 한국어 요약을 작성하세요.
@@ -253,11 +259,13 @@ def build_user_prompt(day: str, items: list, recent_articles: list = None, need:
 각 항목은 다음 구조로 작성합니다:
 - title: 한국어 제목 (원제목을 번역하거나 핵심을 재구성, 30자 이내)
 - summary: 한 줄 요약 (독자의 호기심을 자극, 40~60자)
-- detail: 본문. 아래 순서로 작성:
+- detail: 본문. 아래 순서로 세 단락을 작성:
     [현상/질문] "왜 우리는 ~하는가?" 형식으로 구체적 일상 장면·사회현상을 독자가 생생하게 떠올릴 수 있도록 5~7문장으로 묘사. 장면의 디테일, 감각, 감정까지 담아 독자를 그 상황 안으로 끌어들인다.
     [철학적 해석] 현상과 자연스럽게 연결되는 철학자·개념을 소개하고, 그 철학이 이 현상을 어떻게 다르게 보게 해주는지 5~7문장으로 서술. 개념 설명에 그치지 않고 독자가 "아, 그래서 이런 거였구나"라고 느낄 수 있도록 현상과의 연결을 충분히 풀어낸다.
     {context_instruction}
     총 1,500~2,000자 (단, '그 나라 맥락' 단락이 외국어인 경우 그 단락은 분량 제한 없이 A2 수준으로 짧게)
+
+  ※ detail 형식 규칙(모든 요일 동일): 세 단락은 반드시 대괄호 라벨 `[현상/질문]`, `[철학적 해석]`, `[그 나라 맥락]` 로 시작한다. 라벨은 본문과 한 칸 띄어 같은 줄에 붙여 쓰고(예: "[현상/질문] 왜 우리는…"), 단락과 단락 사이는 빈 줄 하나(\\n\\n)로 구분한다. 별표(`**`)·전각 괄호(`【 】`)·머리글 줄바꿈 등 다른 표기는 절대 쓰지 않는다.
 - tags: 핵심 키워드 3개 (한국어)
 
 ## 항목 목록
@@ -483,9 +491,10 @@ def filter_duplicates(client: anthropic.Anthropic, candidates: list, past: list)
 
 
 def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
-                        recent_articles: list) -> list:
-    """해당 요일에서 과거 글과 중복되지 않는 글 PER_DAY개를 확보해 반환.
+                        recent_articles: list, target: int = PER_DAY) -> list:
+    """해당 요일에서 과거 글과 중복되지 않는 글 target개를 확보해 반환.
 
+    target은 '이번에 새로 더 채워야 할 편수'다(부분 보충 시 PER_DAY보다 작을 수 있다).
     1차 큐레이션 → 중복 필터 게이트 → 중복은 버리고, 부족분은 1회 보충 큐레이션.
     같은 주 안의 중복도 막기 위해, 이미 채택한 글을 비교 대상(past)에 누적한다.
     """
@@ -494,7 +503,7 @@ def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
     candidates = list(day_items)
 
     for round_no in range(2):  # 최초 + 보충 1회
-        need = PER_DAY - len(chosen)
+        need = target - len(chosen)
         if need <= 0:
             break
         pool = [c for c in candidates if c["url"] not in used_urls]
@@ -520,10 +529,10 @@ def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
             else:
                 chosen.append(p)
 
-    if len(chosen) < PER_DAY:
+    if len(chosen) < target:
         print(f"    [알림] {DAY_LABELS[day]}: 중복 제외 후 {len(chosen)}개만 확보 "
-              f"(목표 {PER_DAY}개) — 비중복 후보 부족")
-    return chosen[:PER_DAY]
+              f"(이번 목표 {target}개) — 비중복 후보 부족")
+    return chosen[:target]
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -591,13 +600,16 @@ def main():
                 existing = json.load(f)
             if existing.get("week") == week_id:
                 existing_items = existing.get("items", [])
-                existing_days = {it.get("day") for it in existing_items}
-                missing = [d for d in DAYS if d not in existing_days]
-                if not missing:
-                    print(f"이미 {week_id} 모든 요일 발행됨 — 건너뜁니다. (재생성하려면 FORCE=1)")
+                # 요일이 '존재'하는지가 아니라 '편수가 PER_DAY를 채웠는지'로 보충 대상을 판단한다.
+                # (2개만 발행된 요일도 보충 대상에 포함 → cron 재시도가 3개까지 자가 복구)
+                day_counts = Counter(it.get("day") for it in existing_items)
+                incomplete = [d for d in DAYS if day_counts.get(d, 0) < PER_DAY]
+                if not incomplete:
+                    print(f"이미 {week_id} 모든 요일 {PER_DAY}개 발행됨 — 건너뜁니다. (재생성하려면 FORCE=1)")
                     return
-                days_to_run = missing
-                print(f"이미 {week_id} 일부 발행됨. 빠진 요일 보충: {missing}\n")
+                days_to_run = incomplete
+                shortfall = {DAY_LABELS[d]: day_counts.get(d, 0) for d in incomplete}
+                print(f"이미 {week_id} 일부 발행됨. 보충 대상(현재 편수): {shortfall} → 각 {PER_DAY}개로 채움\n")
         except (FileNotFoundError, json.JSONDecodeError):
             pass
 
@@ -618,7 +630,11 @@ def main():
     new_items = []
 
     for day in days_to_run:
-        print(f"[{DAY_LABELS[day]}] 피드 로딩...", flush=True)
+        already = sum(1 for it in existing_items if it.get("day") == day)
+        target  = PER_DAY - already
+        if target <= 0:
+            continue
+        print(f"[{DAY_LABELS[day]}] 피드 로딩... (현재 {already}개, {target}개 추가 목표)", flush=True)
         day_items = load_feeds_for_day(sources, day, published_urls)
 
         if not day_items:
@@ -627,12 +643,13 @@ def main():
 
         print(f"  → {len(day_items)}개 항목 검토 중...", flush=True)
         try:
-            curated = curate_day_filtered(client, day, day_items, recent_articles)
+            curated = curate_day_filtered(client, day, day_items, recent_articles, target=target)
             if not curated:
                 print(f"  → 비중복 항목 없음, 건너뜀\n")
                 continue
             prefix  = DAY_PREFIX[day]
-            for i, item in enumerate(curated, start=1):
+            # 기존 편수 다음 번호부터 id 부여 (예: tue-01,02 존재 → 신규는 tue-03)
+            for i, item in enumerate(curated, start=already + 1):
                 item["id"] = f"{prefix}-{i:02d}"
             new_items.extend(curated)
             # 다음 요일이 같은 주 안에서 중복되지 않도록 채택분을 비교 대상에 누적
