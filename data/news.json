@@ -2,7 +2,7 @@
   "week": "2026-W26",
   "weekLabel": "2026년 6월 22일 — 26일",
   "theme": "",
-  "curatedAt": "2026-06-19T17:35:17.803036+00:00",
+  "curatedAt": "2026-06-20T00:07:38.815177+00:00",
   "items": [
     {
       "day": "monday",
@@ -45,6 +45,26 @@
       "id": "mon-02"
     },
     {
+      "day": "monday",
+      "dayLabel": "월요일",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "source": "Avec philosophie (France Culture)",
+      "sourceUrl": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-que-la-mort-de-l-auteur-9208518",
+      "channelUrl": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie",
+      "thumbnail": "",
+      "title": "저자가 죽으면 텍스트는 누구의 것인가",
+      "summary": "작가의 의도가 정답이라는 믿음, 그것이 우리의 독서를 가로막고 있다",
+      "detail": "[현상/질문] 영화가 끝나고 불이 켜지면 사람들은 으레 묻는다. \"감독이 뭘 말하려고 한 걸까?\" 소설을 읽고 나서도 마찬가지다. 독자들은 작가 인터뷰를 찾고, 창작 노트를 뒤지고, 작가의 삶을 추적한다. 마치 그 어딘가에 '진짜 의미'가 숨겨져 있기라도 한 것처럼. 수업 시간에도 이 습관은 반복된다. 선생님은 \"작가의 의도\"를 정답으로 제시하고, 학생들은 자신의 해석을 조심스레 접는다. 책을 읽고 깊이 흔들렸던 경험이 있는 사람이라면 한번쯤 의아하게 느꼈을 것이다. 나는 분명 무언가를 느꼈는데, 그것이 작가가 의도한 것과 다르다면 내 독서는 틀린 것인가? 우리는 왜 텍스트를 읽으면서도 끊임없이 저자의 얼굴을 찾는가?\n\n[철학적 해석] 1967년, 롤랑 바르트는 「저자의 죽음」이라는 짧은 에세이에서 이 습관 전체를 뒤집는다. 바르트에게 저자는 텍스트가 완성되는 순간 사라진다. 작가가 펜을 내려놓는 순간, 그 텍스트는 더 이상 작가의 것이 아니다. 언어는 어떤 개인이 완전히 통제할 수 있는 도구가 아니다. 단어 하나하나에는 수천 년의 역사, 문화적 맥락, 독자 각자의 기억이 쌓여 있다. 작가가 \"고독\"이라는 단어를 쓸 때, 그 단어는 작가의 뜻대로만 작동하지 않는다. 그것을 읽는 사람의 밤, 그 사람이 혼자 보낸 방, 그 사람이 잃어버린 관계가 함께 의미를 만들어낸다. 바르트는 여기서 한 걸음 더 나아간다. 저자의 권위를 보존하는 것은 의미를 한 곳에 고정시키고, 독자를 단순한 소비자로 격하시키는 일이라고 그는 주장한다. \"저자의 탄생은 독자의 죽음으로 치러야 한다.\" 반대로 저자가 죽으면 독자가 비로소 태어난다. 텍스트의 의미는 전달되는 것이 아니라 읽힐 때마다 새로 생성된다. 이 관점은 독서를 수동적 수신이 아닌 능동적 창조 행위로 바꾼다. 우리가 텍스트 앞에서 느끼는 것, 연상하는 것, 불편해하는 것 — 그 모든 반응이 이미 해석의 일부다.\n\n[그 나라 맥락] En France, l'idée de Barthes a changé la façon d'enseigner la littérature. Pendant longtemps, les élèves devaient expliquer «l'intention de l'auteur». Aujourd'hui, dans les lycées français, on demande aussi ce que le lecteur ressent. Des philosophes comme Derrida ont continué cette idée: un texte n'a pas un seul sens fixe. En librairie, les Français aiment lire des entretiens avec les écrivains, mais beaucoup savent que l'auteur ne contrôle pas tout le sens de son livre.",
+      "tags": [
+        "저자의 죽음",
+        "독서",
+        "롤랑 바르트"
+      ],
+      "originalTitle": "Roland Barthes : les mystères de l'écriture : Qu'est-ce que \"la mort de l'auteur\" ?",
+      "id": "mon-03"
+    },
+    {
       "day": "tuesday",
       "dayLabel": "화요일",
       "country": "germany",
@@ -83,6 +103,26 @@
       ],
       "originalTitle": "Intersektionalität - Wie Rassismus und Sexismus zusammenspielen",
       "id": "tue-02"
+    },
+    {
+      "day": "tuesday",
+      "dayLabel": "화요일",
+      "country": "germany",
+      "countryLabel": "독일",
+      "source": "Sein und Streit (Deutschlandfunk Kultur)",
+      "sourceUrl": "https://www.deutschlandfunkkultur.de/ingeborg-bachmann-und-die-philosophie-die-wahrheit-ist-zumutbar-100.html",
+      "channelUrl": "https://www.deutschlandfunkkultur.de/sein-und-streit-100.html",
+      "thumbnail": "",
+      "title": "진실은 감당할 수 있는 것이다",
+      "summary": "우리가 외면하는 것들—그것은 진실이 아프기 때문인가, 우리가 약하기 때문인가?",
+      "detail": "[현상/질문] 누군가와 대화를 나누다 불편한 진실이 수면 위로 올라오는 순간을 생각해보자. 의사가 환자에게 예후를 말해야 할 때, 친구가 친구에게 관계의 문제를 직시하게 할 때, 기자가 권력자의 거짓말을 공개적으로 지목할 때—우리는 자주 주저한다. '지금은 때가 아니야.' '굳이 말해야 할까.' '알면 더 힘들 텐데.' 진실을 말하는 것이 선의에서 비롯될 때조차, 그것은 종종 잔인하게 느껴진다. 그래서 우리는 완곡하게 포장하거나, 침묵으로 대신하거나, 때로는 아예 모른 척한다. 진실을 말하지 않는 것이 상대를 배려하는 일이라는 믿음—그것은 언제부터 우리 안에 자리 잡았을까. 그리고 그 믿음은 정말 옳은 것일까.\n\n[철학적 해석] 오스트리아 작가이자 철학자 잉게보르크 바흐만(Ingeborg Bachmann)은 이렇게 말했다. \"진실은 감당할 수 있는 것이다(Die Wahrheit ist zumutbar).\" 이 짧은 문장은 단순한 격언이 아니다. 그것은 인간에 대한 근본적인 신뢰의 표명이다. 바흐만은 문학과 철학의 경계에서 활동하며, 언어가 진실을 감추는 방식, 그리고 그 감춤이 어떻게 인간을 서서히 소외시키는지를 탐구했다. 그에게 진실을 말하지 않는 것은 단순한 친절이 아니라, 상대를 온전한 인격으로 대하지 않는 행위에 가깝다. 상대방이 진실을 감당할 수 없다고 미리 판단하는 것—그것은 돌봄인가, 아니면 일종의 통제인가. 바흐만의 시선으로 보면, 진실을 감추는 언어는 표면적으로 부드럽지만 그 안에 폭력을 품고 있다. 우리가 진실 앞에서 물러서는 것은 상대를 위해서가 아니라, 불편함을 피하려는 우리 자신을 위해서일 때가 더 많다. 그리고 그렇게 보류된 진실들이 쌓일 때, 관계는 투명성을 잃고 언어는 공동의 현실을 구성하는 힘을 잃는다.\n\n[그 나라 맥락] 독일어권에서 바흐만은 전후 문학의 핵심 인물로, 단순히 '아름다운 글을 쓴 작가'가 아니라 언어와 권력, 침묵과 폭력의 관계를 파고든 사상가로 읽힌다. 오스트리아와 독일 모두에서 그의 문장 \"진실은 감당할 수 있는 것이다\"는 문학 교육과 공론장에서 자주 인용된다. 독일 사회는 역사적으로 '말하지 않음'이 얼마나 큰 죄가 될 수 있는지를 체감한 나라다. 나치 시대의 침묵, 동독의 언어 통제—이 경험들은 진실을 말하는 행위를 단순한 미덕이 아니라 시민적 의무에 가깝게 만든다. 독일의 공적 토론 문화에서는 불편하더라도 직접적으로 말하는 것이 존중의 표시로 여겨지는 경향이 있으며, 지나친 완곡어법은 오히려 진정성이 없다는 인상을 준다. 바흐만이 살았던 빈(Wien)은 그 문화적 배경이 조금 다른데, 오스트리아 특유의 '우아한 회피' 문화와 그에 대한 바흐만의 비판적 긴장이 그의 작품 전반에 깔려 있다.",
+      "tags": [
+        "진실",
+        "언어와 침묵",
+        "잉게보르크 바흐만"
+      ],
+      "originalTitle": "Ingeborg Bachmann und die Philosophie: Die Wahrheit ist zumutbar",
+      "id": "tue-03"
     },
     {
       "day": "wednesday",
@@ -243,6 +283,26 @@
       ],
       "originalTitle": "A philosopher’s 5 tips on how to become the most likeable person in the room",
       "id": "fri-02"
+    },
+    {
+      "day": "friday",
+      "dayLabel": "금요일",
+      "country": "usa",
+      "countryLabel": "미국",
+      "source": "The Atlantic — Ideas",
+      "sourceUrl": "https://www.theatlantic.com/ideas/2026/06/office-dress-code-shorts-fashion-rules/687584/?utm_source=feed",
+      "channelUrl": "https://www.theatlantic.com/ideas/",
+      "thumbnail": "",
+      "title": "반바지는 왜 사무실에서 금지되는가",
+      "summary": "패션 규칙 하나가 드러내는 권력과 몸의 오래된 정치학",
+      "detail": "[현상/질문] 여름이 오면 매년 반복되는 풍경이 있다. 땀을 흘리며 출근하는 사람들, 그러나 사무실 안에서는 긴 바지를 고집해야 하는 암묵적 규칙. 반바지는 해변에서는 완벽하고, 슈퍼마켓에서는 아무도 신경 쓰지 않으며, 주말 카페에서는 오히려 자연스럽다. 그런데 유독 사무실 문 앞에서만 그것은 '부적절함'의 기호가 된다. 논리를 물어보면 아무도 명확히 답하지 못한다. '그냥 그런 거야', '프로답지 않아 보여', '클라이언트가 어떻게 볼지 몰라'라는 말들이 돌아온다. 반바지를 입은 몸이 갑자기 덜 유능해 보이거나, 덜 진지해 보이거나, 심지어 덜 도덕적으로 보인다는 이 감각은 도대체 어디서 오는 것일까. 우리는 천 조각 하나가 사람의 신뢰성을 결정한다는 믿음을 언제부터, 왜 받아들인 것일까.\n\n[철학적 해석] 피에르 부르디외는 몸 자체가 사회적 권력 관계를 새기는 장소라고 보았다. 그가 말한 '아비투스(habitus)'는 계급과 문화가 우리의 몸짓, 자세, 복장 선택 안에 무의식적으로 축적된 방식을 가리킨다. 우리는 '적절한 옷차림'을 이성적으로 추론하는 것이 아니라, 오랜 사회화 과정을 통해 몸으로 느끼는 것이다. 반바지를 입고 회의실에 들어설 때의 그 미묘한 불편함은 개인의 심리적 약점이 아니라, 몸에 새겨진 계급적 코드가 발동하는 순간이다. 흥미롭게도 이 규칙은 합리적 근거가 아니라 '그것이 언제나 그래왔기 때문에' 유지된다. 부르디외는 이것을 '상징 폭력'이라 불렀다. 강제가 아니라 동의의 형태로 작동하는 지배, 즉 피지배자 스스로가 지배의 논리를 내면화하여 재생산하는 구조다. 반바지 금지는 사소해 보이지만, 그 안에는 '어떤 몸이 진지한 몸인가'를 둘러싼 오래된 권력의 문법이 숨어 있다. 그리고 그 문법은 젠더, 계급, 인종의 층위에서 결코 중립적이지 않다.\n\n[그 나라 맥락] In Britain, office dress codes have a long history. For many decades, suits and formal clothes were the norm in most workplaces. But things are slowly changing. After the pandemic, many British workers started wearing more casual clothes. Some offices now allow smart casual styles. But shorts are still rare in many British offices, especially in finance or law. British culture often values tradition and formality. People worry about looking unprofessional. This shows how dress rules are not just about clothes. They are about class and belonging. Who gets to feel comfortable at work, and who must change their body to fit in?",
+      "tags": [
+        "복장 규범",
+        "상징 권력",
+        "아비투스"
+      ],
+      "originalTitle": "The Least Logical Fashion Rule",
+      "id": "fri-03"
     }
   ]
 }
