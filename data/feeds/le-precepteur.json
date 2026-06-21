@@ -1,8 +1,24 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-06-20T17:50:21.214410+00:00",
+  "fetchedAt": "2026-06-21T18:47:33.475091+00:00",
   "items": [
+    {
+      "title": "L'entraide, facteur de l'évolution",
+      "url": "https://www.youtube.com/shorts/1vEKhOqEUAo",
+      "description": "Au XIXe siècle, le penseur anarchiste russe Pierre Kropotkine remet en question une idée profondément ancrée dans nos sociétés, celle selon laquelle seuls les plus forts survivent. Dans cette vidéo, je vous explique pourquoi, selon lui, les espèces les plus évoluées ne sont pas celles qui se font la guerre, mais celles qui coopèrent et s'entraident.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #kropotkine #coopération #évolution #anarchisme #solidarité",
+      "date": "2026-06-21",
+      "thumbnail": "https://i2.ytimg.com/vi/1vEKhOqEUAo/hqdefault.jpg",
+      "videoId": "1vEKhOqEUAo",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "L'homme est un loup pour l'homme",
       "url": "https://www.youtube.com/shorts/yqeG0KQ8U9g",
@@ -190,22 +206,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Machiavel dans Seul au monde",
-      "url": "https://www.youtube.com/shorts/sdW1pLen07U",
-      "description": "Chez Machiavel, l’existence humaine se divise entre deux types d’événements : la virtù, c’est-à-dire notre capacité à agir, décider et nous adapter, et la fortuna, qui désigne tout ce qui échappe à notre contrôle. Cette idée prend une forme concrète dans le film Seul au monde, à travers le personnage de Chuck Noland, qui ne maîtrise pas le crash de son avion, mais mobilise toutes ses ressources pour s’adapter et survivre.\n \nÉpisode intégral : https://youtu.be/h-c0z0ArPN8\n \n#Philosophie #Machiave",
-      "date": "2026-05-20",
-      "thumbnail": "https://i4.ytimg.com/vi/sdW1pLen07U/hqdefault.jpg",
-      "videoId": "sdW1pLen07U",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

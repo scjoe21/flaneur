@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-06-20T17:50:26.293276+00:00",
+  "fetchedAt": "2026-06-21T18:47:36.969527+00:00",
   "items": [
     {
       "title": "Nils Weinberg: „Es gibt keine neutrale staatliche Förderpolitik“",
@@ -52,16 +52,16 @@
       }
     },
     {
-      "title": "Seyla Benhabib: „Habermas verteidigt das Erbe der Aufklärung“",
-      "url": "https://www.philomag.de/artikel/seyla-benhabib-habermas-verteidigt-das-erbe-der-aufklaerung",
-      "description": "Mit der  Theorie des kommunikativen Handelns  legt Habermas eine umfassende Gesellschaftstheorie vor. Im Gespräch erläutert Seyla Benhabib, warum Habermas die Sprache ins Zentrum stellt und damit die Kritische Theorie erweitert – und wo sein Ansatz ergänzt werden müsste.",
+      "title": "Habermas und der Feminismus",
+      "url": "https://www.philomag.de/artikel/habermas-und-der-feminismus",
+      "description": "Habermas erkannte erst durch Kritikerinnen wie Nancy Fraser oder Joan B. Landes, dass er Fragen des Geschlechts nicht hinreichend beachtet hatte. Doch gerade in dieser Weiterentwicklung und Korrektur von Habermas' Theorien zeigt sich deren fundamentaler wert.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -132,9 +132,9 @@
       }
     },
     {
-      "title": "Ein Verfechter Europas",
-      "url": "https://www.philomag.de/artikel/ein-verfechter-europas",
-      "description": "Jürgen Habermas hat sich immer wieder zur Europäischen Union geäußert – sowohl als überzeugter Europäer und Fürsprecher des Bündnisses wie auch als Kritiker.",
+      "title": "Klaus Viertbauer: „Glauben und Wissen befruchten sich gegenseitig“",
+      "url": "https://www.philomag.de/artikel/klaus-viertbauer-glauben-und-wissen-befruchten-sich-gegenseitig",
+      "description": "Obwohl er sich selbst als „religiös unmusikalisch“ beschrieb, dachte Habermas intensiv über die Rolle des Glaubens nach. Der Religionsphilosoph Klaus Viertbauer erläutert, wie sich Habermas’ Einschätzung dazu veränderte und wie sich religiöse in säkulare Sprache übersetzen lässt.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -180,9 +180,9 @@
       }
     },
     {
-      "title": "Habermas in Kairo lesen",
-      "url": "https://www.philomag.de/artikel/habermas-kairo-lesen",
-      "description": "Trotz ihres universalistischen Anspruchs blieben viele von Habermas’ Überlegungen eurozentristisch. Welche Inspirationen ziehen Leser im Nahen Osten aus seinem Werk? Und welche Leerstellen sehen sie?",
+      "title": "Ein Streit um das bundesdeutsche Selbstverständnis",
+      "url": "https://www.philomag.de/artikel/ein-streit-um-das-bundesdeutsche-selbstverstaendnis",
+      "description": "Der Historikerstreit veränderte das erinnerungskulturelle Klima der Bundesrepublik nachhaltig. Zwischen 1986 und 1987 mischten sich zahllose Intellektuelle in die Debatte ein. Die Hauptkontrahenten aber waren Ernst Nolte und Jürgen Habermas. Ein Überblick über die zentralen Positionen.",
       "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -212,26 +212,26 @@
       }
     },
     {
+      "title": "Maas und Moderne",
+      "url": "https://www.philomag.de/artikel/maas-und-moderne",
+      "description": "Habermas glaubte an die Moderne. Das bezeugen nicht nur seine Schriften, sondern auch seine Begeisterung für Rotterdam und die Architektur, die dort nach dem Zweiten Weltkrieg entstand.",
+      "date": "Fri, 12 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Linksautoritäre Irrungen",
       "url": "https://www.philomag.de/artikel/linksautoritaere-irrungen",
       "description": "Was sind die Gründe für den erstarkenden Autoritarismus in Teilen der Linken? Woher kommt der zunehmende Judenhass in einem politischen Milieu, das sich selbst als reflektiert und als progressiv vermeint? Und ist die aktuelle Radikalisierung mit dem Linksterrorismus von früher vergleichbar? Nicholas Potter im Gespräch mit Christoph David Piorkowski über den Abweg weiter Teile der zeitgenössischen Linken.",
       "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Habermas in China",
-      "url": "https://www.philomag.de/artikel/habermas-china",
-      "description": "Im Land der Mitte liest man seit Jahrzehnten Habermas – auf marxistische, liberale oder neukonfuzianische Weise. Zu den interessantesten Erweiterungen, die hierbei entstanden sind, gehört eine neue Auffassung von Diskurs und Kommunikation.",
-      "date": "Fri, 12 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

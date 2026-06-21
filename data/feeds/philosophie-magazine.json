@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-20T17:50:22.678692+00:00",
+  "fetchedAt": "2026-06-21T18:47:34.442479+00:00",
   "items": [
     {
       "title": "“Test Cédric” : comment transformer une gaffe en succès ?",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "Florent Guénard : “Vouloir l’égalité est une affaire de rationalité, pas de morale”",
-      "url": "https://www.philomag.com/articles/florent-guenard-vouloir-legalite-est-une-affaire-de-rationalite-pas-de-morale",
-      "description": "",
-      "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Rétrospective 2006-2026 : Les conséquences sociales du changement climatique, par Bruno Latour",
       "url": "https://www.philomag.com/articles/retrospective-2006-2026-les-consequences-sociales-du-changement-climatique-par-bruno",
       "description": "",
@@ -97,6 +81,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "“L’effet Mozart” : ce que la musique fait à l’esprit",
+      "url": "https://www.philomag.com/articles/leffet-mozart-ce-que-la-musique-fait-lesprit",
+      "description": "",
+      "date": "Sun, 21 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Marc Bloch au Panthéon : un historien qui a fait l’histoire",
+      "url": "https://www.philomag.com/articles/marc-bloch-au-pantheon-un-historien-qui-fait-lhistoire",
+      "description": "",
+      "date": "Sun, 21 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,6 +152,22 @@
       "url": "https://www.philomag.com/articles/la-prohibition-de-linceste-chez-levi-strauss-cest-quoi",
       "description": "",
       "date": "Fri, 19 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Rapport du laboratoire codirigé par Thomas Piketty : “Une utopie égalitaire, réaliste et rationnelle”",
+      "url": "https://www.philomag.com/articles/rapport-du-laboratoire-codirige-par-thomas-piketty-une-utopie-egalitaire-realiste-et",
+      "description": "",
+      "date": "Thu, 18 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/disparition-de-carlo-ginzburg-une-vie-dhistorien",
       "description": "",
       "date": "Wed, 17 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Agir pour empêcher une catastrophe malgré tout inévitable” : un texte inédit de Slavoj Žižek pour notre n°200",
-      "url": "https://www.philomag.com/articles/agir-pour-empecher-une-catastrophe-malgre-tout-inevitable-un-texte-inedit-de-slavoj",
-      "description": "",
-      "date": "Wed, 17 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Affaire Lyhanna : aux (l)armes, les enfants",
-      "url": "https://www.philomag.com/articles/affaire-lyhanna-aux-larmes-les-enfants",
-      "description": "",
-      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

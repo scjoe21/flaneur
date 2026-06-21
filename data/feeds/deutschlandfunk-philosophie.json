@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-06-20T17:50:23.874729+00:00",
+  "fetchedAt": "2026-06-21T18:47:35.268854+00:00",
   "items": [
     {
       "title": "Philosophie der Sucht - Vom Umgang mit schlechten Gewohnheiten",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "Konservatives Denken - Bollwerk oder Steigbügelhalter?",
-      "url": "https://www.deutschlandfunkkultur.de/konservatives-denken-heute-bollwerk-oder-steigbuegelhalter-100.html",
-      "description": "Von Hegel bis zur \"Konservativen Revolution\": Philosoph Michael Kühnlein und Politikwissenschaftler Thomas Biebricher zeichnen die Ideengeschichte des Konservatismus nach – und fragen, ob er gegen Rechtsextremismus schützt. Rohde, Stephanie; Biebricher, Thomas; Kühnlein, Michael www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 10 May 2026",
+      "title": "Dipesh Chakrabarty - Vom Globus zum Planeten",
+      "url": "https://www.deutschlandfunkkultur.de/historiker-dipesh-chakrabarty-vom-globus-zum-planeten-100.html",
+      "description": "In seinem Buch „Europa als Provinz\" beschrieb der indische Historiker Dipesh Chakrabarty schon im Jahr 2000, wie europäische Konzepte in anderen Ländern postkolonial angeeignet wurden. Er beobachtet heute einen zweiten Niedergang des Westens. Chakrabarty, Dipesh; Aguigah, René www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 21 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -110,22 +110,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "ARD-Umfrage \"Deine Meinung zählt\" - Der halbierte Sinn für Gerechtigkeit",
-      "url": "https://www.deutschlandfunkkultur.de/ard-umfrage-deine-meinung-zaehlt-der-halbierte-sinn-fuer-gerechtigkeit-100.html",
-      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 03 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -212,19 +196,35 @@
       }
     },
     {
-      "title": "Kommentar zum Muttertag - Mutterschaft ist eine radikale Entscheidung",
-      "url": "https://www.deutschlandfunkkultur.de/muttertag-mutterschaft-kommentar-100.html",
-      "description": "Am Muttertag werden Mütter gefeiert, an anderen Tagen kritisch beobachtet. Trotzdem entscheiden sich die meisten Frauen für ein Kind, obwohl sie nicht ahnen können, was sie erwartet. Damit zeigen sie eine radikale Offenheit gegenüber der Zukunft. Ein Kommentar von Catherine Newmark www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 10 May 2026",
+      "title": "Weltyogatag: Philosophische Einheit von Körper und Geist",
+      "url": "https://www.deutschlandfunkkultur.de/weltyogatag-philosophische-einheit-von-koerper-und-geist-100.html",
+      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 21 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Dipesh Chakrabarty: From the globe to the planet (english)",
+      "url": "https://www.deutschlandfunkkultur.de/dipesh-chakrabarty-from-the-globe-to-the-planet-english-100.html",
+      "description": "Chakrabarty, Dipesh; Aguigah, René www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 21 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

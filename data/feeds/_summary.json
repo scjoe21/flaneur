@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-06-20T17:50:36.653256+00:00",
+  "lastRun": "2026-06-21T18:47:46.758934+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -9,7 +9,6 @@
     "deutschlandfunk-philosophie",
     "hohe-luft",
     "philomag-de",
-    "merkur",
     "rick-dufer",
     "tlon",
     "rai-radio3-filosofia",
@@ -19,11 +18,13 @@
     "overthink",
     "aeon",
     "philosophy-bites",
-    "daily-stoic",
     "big-think",
     "the-atlantic-ideas"
   ],
-  "fail": [],
+  "fail": [
+    "merkur",
+    "daily-stoic"
+  ],
   "total": 21,
-  "fetched": 21
+  "fetched": 19
 }
