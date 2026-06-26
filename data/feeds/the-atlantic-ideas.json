@@ -1,38 +1,54 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-21T18:47:46.758442+00:00",
+  "fetchedAt": "2026-06-26T07:44:32.028778+00:00",
   "items": [
     {
-      "title": "Why July 4 Turned Into a Trump Rally",
-      "url": "https://www.theatlantic.com/ideas/2026/06/july-4-trump-rally-250/687560/?utm_source=feed",
+      "title": "AI Can’t Fix the Student-Motivation Problem",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-tutor-education-human-investment/687678/?utm_source=feed",
       "description": "",
-      "date": "2026-06-16",
+      "date": "2026-06-25",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "The Unpopular Truth About World Cup Ticket Prices",
-      "url": "https://www.theatlantic.com/ideas/2026/06/world-cup-ticket-prices-fair/687540/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-15",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
+      }
+    },
+    {
+      "title": "War and Consequences",
+      "url": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "SpaceX Just Needs the Money",
+      "url": "https://www.theatlantic.com/ideas/2026/06/spacex-ipo-tech-companies/687659/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -52,19 +68,147 @@
       }
     },
     {
-      "title": "An Ascendant Constitutional Theory Is a Threat to American Science",
-      "url": "https://www.theatlantic.com/ideas/2026/06/unitary-executive-scientific-research/687565/?utm_source=feed",
+      "title": "Trump Is Making the 250th Small",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/?utm_source=feed",
       "description": "",
-      "date": "2026-06-17",
+      "date": "2026-06-24",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Alan Greenspan Was ‘Not Quite God’",
+      "url": "https://www.theatlantic.com/ideas/2026/06/alan-greenspan-fed-independence/687687/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-25",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "The 10,000-Year Flood",
+      "url": "https://www.theatlantic.com/ideas/2026/06/texas-guadalupe-floods-rv-park-deaths/687617/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-25",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Whiplash of Trump’s Iran Capitulation",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-foreign-policy/687683/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Don’t Overestimate the Pink Tide",
+      "url": "https://www.theatlantic.com/ideas/2026/06/leftist-socialist-new-york-democratic-primary-results/687681/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Reflecting Pool Water’s Fine",
+      "url": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Burnham Is Britain’s Last Chance Before Farage",
+      "url": "https://www.theatlantic.com/ideas/2026/06/burnham-uk-reform-manchesterism/687674/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Man Who Couldn’t Do It",
+      "url": "https://www.theatlantic.com/ideas/2026/06/keir-starmer-british-prime-minister-turnover/687658/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What Happened to Tony Carruthers Is Horrifying",
+      "url": "https://www.theatlantic.com/ideas/2026/06/lethal-injection-execution-tennessee-tony-carruthers/687639/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -88,150 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/06/trumps-second-gamble-on-iran/687650/?utm_source=feed",
       "description": "",
       "date": "2026-06-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Britain’s Next Leader Has Emerged",
-      "url": "https://www.theatlantic.com/ideas/2026/06/andy-burnham-britain-prime-minister/687645/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-19",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Least Logical Fashion Rule",
-      "url": "https://www.theatlantic.com/ideas/2026/06/office-dress-code-shorts-fashion-rules/687584/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-19",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Left-Wing Case Against Anti-Zionism",
-      "url": "https://www.theatlantic.com/ideas/2026/06/left-against-antizionism-israel/687616/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "If Only Trump Knew What Vance Is Doing",
-      "url": "https://www.theatlantic.com/ideas/2026/06/vance-surrender-iran-trump/687597/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Iran Has Humiliated Trump",
-      "url": "https://www.theatlantic.com/ideas/2026/06/iran-trump-war-defeat-deal/687595/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What Did You Expect?",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-war-reversals/687590/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "All the Sad Hawks",
-      "url": "https://www.theatlantic.com/ideas/2026/06/iran-war-hawks-grief/687583/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Apotheosis of Donald Trump",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-decline-ufc-fight/687582/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Cult of Delayed Gratification Is a Lie",
-      "url": "https://www.theatlantic.com/ideas/2026/06/instant-gratification-psychology-economy/687550/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-16",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

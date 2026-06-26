@@ -1,13 +1,13 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-21T18:47:34.442479+00:00",
+  "fetchedAt": "2026-06-26T07:44:16.606667+00:00",
   "items": [
     {
-      "title": "“Test Cédric” : comment transformer une gaffe en succès ?",
-      "url": "https://www.philomag.com/articles/test-cedric-comment-transformer-une-gaffe-en-succes",
+      "title": "Vers un nouveau climat “intensif” de la politique : entretien avec Eva Illouz",
+      "url": "https://www.philomag.com/articles/vers-un-nouveau-climat-intensif-de-la-politique-entretien-avec-eva-illouz",
       "description": "",
-      "date": "Sat, 20 Jun 2026",
+      "date": "Wed, 24 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,58 +20,26 @@
       }
     },
     {
-      "title": "Qu’est-ce que le “colonialisme vert” ?",
-      "url": "https://www.philomag.com/articles/quest-ce-que-le-colonialisme-vert",
+      "title": "Nos grandes questions pour changer d'ère : “La politique est-elle devenue un enjeu existentiel ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-la-politique-est-elle-devenue-un-enjeu",
       "description": "",
-      "date": "Fri, 19 Jun 2026",
+      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Nos grandes questions pour changer d'ère : “Les machines font-elles l’histoire ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-les-machines-font-elles-lhistoire",
-      "description": "",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
+        "daily": 10,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     },
     {
-      "title": "Rétrospective 2006-2026 : Les conséquences sociales du changement climatique, par Bruno Latour",
-      "url": "https://www.philomag.com/articles/retrospective-2006-2026-les-consequences-sociales-du-changement-climatique-par-bruno",
+      "title": "“Nous vivons une époque de retour au sérieux de la politique sous l’horizon de la mort” : entretien avec Michaël Fœssel",
+      "url": "https://www.philomag.com/articles/nous-vivons-une-epoque-de-retour-au-serieux-de-la-politique-sous-lhorizon-de-la-mort",
       "description": "",
-      "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "“En cas de besoin”. La dépression, la bipolarité et la nature (fictive ?) du Moi",
-      "url": "https://www.philomag.com/articles/en-cas-de-besoin-la-depression-la-bipolarite-et-la-nature-fictive-du-moi",
-      "description": "",
-      "date": "Wed, 17 Jun 2026",
+      "date": "Thu, 25 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,10 +52,58 @@
       }
     },
     {
-      "title": "“L’effet Mozart” : ce que la musique fait à l’esprit",
-      "url": "https://www.philomag.com/articles/leffet-mozart-ce-que-la-musique-fait-lesprit",
+      "title": "La clim’ est-elle en train de devenir éthique ?",
+      "url": "https://www.philomag.com/articles/la-clim-est-elle-en-train-de-devenir-ethique",
       "description": "",
-      "date": "Sun, 21 Jun 2026",
+      "date": "Wed, 24 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Les canicules catastrophiques, révélatrices des inégalités sociales et spatiales",
+      "url": "https://www.philomag.com/articles/les-canicules-catastrophiques-revelatrices-des-inegalites-sociales-et-spatiales",
+      "description": "",
+      "date": "Tue, 23 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Étienne Klein : “J’ai manqué d’intégrité”",
+      "url": "https://www.philomag.com/articles/etienne-klein-jai-manque-dintegrite",
+      "description": "",
+      "date": "Fri, 26 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Les “Pères fondateurs” étaient aussi des philosophes",
+      "url": "https://www.philomag.com/articles/les-peres-fondateurs-etaient-aussi-des-philosophes",
+      "description": "",
+      "date": "Thu, 25 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +116,10 @@
       }
     },
     {
-      "title": "Marc Bloch au Panthéon : un historien qui a fait l’histoire",
-      "url": "https://www.philomag.com/articles/marc-bloch-au-pantheon-un-historien-qui-fait-lhistoire",
+      "title": "Le “divertissement” chez Pascal, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/le-divertissement-chez-pascal-cest-quoi",
       "description": "",
-      "date": "Sun, 21 Jun 2026",
+      "date": "Thu, 25 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +132,10 @@
       }
     },
     {
-      "title": "Les machines, l'histoire et le progrès… Entretien avec l’historien François Jarrige",
-      "url": "https://www.philomag.com/articles/les-machines-lhistoire-et-le-progres-entretien-avec-lhistorien-francois-jarrige",
+      "title": "Beautés carnivores",
+      "url": "https://www.philomag.com/articles/beautes-carnivores",
       "description": "",
-      "date": "Sat, 20 Jun 2026",
+      "date": "Wed, 24 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +148,10 @@
       }
     },
     {
-      "title": "Hilma af Klint au Grand Palais : du spirituel dans l’art",
-      "url": "https://www.philomag.com/articles/hilma-af-klint-au-grand-palais-du-spirituel-dans-lart",
+      "title": "Sauver le “jardin Terre” en envoyant nos déchets sur la Lune, la vision qui inspire Jeff Bezos",
+      "url": "https://www.philomag.com/articles/sauver-le-jardin-terre-en-envoyant-nos-dechets-sur-la-lune-la-vision-qui-inspire-jeff",
       "description": "",
-      "date": "Fri, 19 Jun 2026",
+      "date": "Wed, 24 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "La “prohibition de l’inceste” chez Lévi-Strauss, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/la-prohibition-de-linceste-chez-levi-strauss-cest-quoi",
+      "title": "Le ventilo portable, tout un symbole",
+      "url": "https://www.philomag.com/articles/le-ventilo-portable-tout-un-symbole",
       "description": "",
-      "date": "Fri, 19 Jun 2026",
+      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +180,10 @@
       }
     },
     {
-      "title": "Rapport du laboratoire codirigé par Thomas Piketty : “Une utopie égalitaire, réaliste et rationnelle”",
-      "url": "https://www.philomag.com/articles/rapport-du-laboratoire-codirige-par-thomas-piketty-une-utopie-egalitaire-realiste-et",
+      "title": "La droite radicale a-t-elle le monopole du patriotisme ?",
+      "url": "https://www.philomag.com/articles/la-droite-radicale-t-elle-le-monopole-du-patriotisme",
       "description": "",
-      "date": "Thu, 18 Jun 2026",
+      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "Yves Michaud dans la caverne du Pont-Neuf : \"Ni immersif, ni esthétique\"",
-      "url": "https://www.philomag.com/articles/yves-michaud-dans-la-caverne-du-pont-neuf-ni-immersif-ni-esthetique",
+      "title": "Présence des pères à l’accouchement : quand Jérémy Doku relaie Hannah Arendt",
+      "url": "https://www.philomag.com/articles/presence-des-peres-laccouchement-quand-jeremy-doku-relaie-hannah-arendt",
       "description": "",
-      "date": "Thu, 18 Jun 2026",
+      "date": "Mon, 22 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +212,10 @@
       }
     },
     {
-      "title": "Les grandes idées de Carlo Ginzburg",
-      "url": "https://www.philomag.com/articles/les-grandes-idees-de-carlo-ginzburg",
+      "title": "“L’Amor fati” chez Nietzsche, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/lamor-fati-chez-nietzsche-cest-quoi",
       "description": "",
-      "date": "Wed, 17 Jun 2026",
+      "date": "Mon, 22 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "Myriam Bahaffou : “Il faut faire advenir un monde plus jouissif”",
-      "url": "https://www.philomag.com/articles/myriam-bahaffou-il-faut-faire-advenir-un-monde-plus-jouissif",
+      "title": "“For sure”, le tube de la Fête de la musique ?",
+      "url": "https://www.philomag.com/articles/sure-le-tube-de-la-fete-de-la-musique",
       "description": "",
-      "date": "Wed, 17 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Disparition de Carlo Ginzburg : une vie d’historien",
-      "url": "https://www.philomag.com/articles/disparition-de-carlo-ginzburg-une-vie-dhistorien",
-      "description": "",
-      "date": "Wed, 17 Jun 2026",
+      "date": "Mon, 22 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

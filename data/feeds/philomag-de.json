@@ -1,8 +1,24 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-06-21T18:47:36.969527+00:00",
+  "fetchedAt": "2026-06-26T07:44:19.292665+00:00",
   "items": [
+    {
+      "title": "Schulstreik gegen Wehrpflicht: Warum die Jugend das liberale Staatsverständnis nicht teilt",
+      "url": "https://www.philomag.de/artikel/schulstreik-gegen-wehrpflicht-warum-die-jugend-das-liberale-staatsverstaendnis-nicht",
+      "description": "Die Regierung sucht einen Ausweg aus der Wirtschaftskrise, der primär der Jugend und der Arbeiterschaft schadet. Gleichzeitig wird in Erwägung gezogen, eine allgemeine Wehrpflicht wieder einzuführen, worauf die Jugend streikend reagiert. Das ist kein Ausdruck ihres Egoismus, sondern eines Bewusstseins für soziale Ungerechtigkeit.",
+      "date": "Wed, 24 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
+      }
+    },
     {
       "title": "Nils Weinberg: „Es gibt keine neutrale staatliche Förderpolitik“",
       "url": "https://www.philomag.de/artikel/nils-weinberg-es-gibt-keine-neutrale-staatliche-foerderpolitik",
@@ -20,19 +36,19 @@
       }
     },
     {
-      "title": "Dipesh Chakrabarty: „Wir zerstören unsere eigene Zukunft“",
-      "url": "https://www.philomag.de/artikel/dipesh-chakrabarty-wir-zerstoeren-unsere-eigene-zukunft",
-      "description": "Um den multiplen Krisen der Gegenwart zu begegnen, bedarf es eines fundamentalen Umdenkens. Wir brauchen einen neuen Blick auf die Zukunft, das Menschsein, die politische Ordnung und das kapitalistische System. Wie ein solcher aussehen könnte, erläutert der Historiker und diesjährige Inhaber des Benjamin Chair Dipesh Chakrabarty.",
-      "date": "Mon, 15 Jun 2026",
+      "title": "Von nun an und für immer",
+      "url": "https://www.philomag.de/artikel/von-nun-und-fuer-immer",
+      "description": "Aufbruch und Scheitern. Hoffnung und Angst. Die Freiheit, sich zu entwerfen – und das Bedürfnis nach Kontinuität. Ingeborg Bachmann thematisiert in ihrem Schreiben Grundfragen unserer Existenz. Über die Philosophin und Schriftstellerin, die vor hundert Jahren geboren wurde.",
+      "date": "Thu, 25 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
+        "daily": 10,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -52,19 +68,19 @@
       }
     },
     {
-      "title": "Habermas und der Feminismus",
-      "url": "https://www.philomag.de/artikel/habermas-und-der-feminismus",
-      "description": "Habermas erkannte erst durch Kritikerinnen wie Nancy Fraser oder Joan B. Landes, dass er Fragen des Geschlechts nicht hinreichend beachtet hatte. Doch gerade in dieser Weiterentwicklung und Korrektur von Habermas' Theorien zeigt sich deren fundamentaler wert.",
-      "date": "Fri, 12 Jun 2026",
+      "title": "Befreiung der Vernunft",
+      "url": "https://www.philomag.de/artikel/befreiung-der-vernunft",
+      "description": "Das Konzept der kommunikativen Rationalität bildet ein Herzstück von Habermas’ Theorie. Anders als frühere Kritiker der Moderne meint er: Problematisch ist nicht ein Denken in Zweck und Mitteln, sondern wenn darüber andere Seiten der Vernunft verdrängt werden.",
+      "date": "Fri, 26 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 25
+        "novelty": 5,
+        "total": 20
       }
     },
     {
@@ -100,22 +116,6 @@
       }
     },
     {
-      "title": "Kommunikation und ihre Kritiker",
-      "url": "https://www.philomag.de/artikel/kommunikation-und-ihre-kritiker",
-      "description": "Im Diskurs können Menschen vernünftige, konsensfähige Prinzipien des Miteinanders herausarbeiten, meint Habermas und erklärt damit die Kommunikation zur Grundlage einer besseren Gesellschaft. Doch seine Theorie von Verständigung und Einverständnis erntet auch Kritik.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
       "title": "Ein Denker am Puls der Zeit",
       "url": "https://www.philomag.de/artikel/ein-denker-am-puls-der-zeit",
       "description": "Jürgen Habermas galt als  der  Philosoph der Bundesrepublik. Sein Biograf Stefan Müller-Doohm blickt zurück auf die wichtigsten Schriften, Stationen und Interventionen. Er zeichnet das Bild eines Mannes, dessen Werk eng mit den Abgründen und Hoffnungen der Nachkriegsgesellschaft verbunden ist.",
@@ -126,22 +126,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Klaus Viertbauer: „Glauben und Wissen befruchten sich gegenseitig“",
-      "url": "https://www.philomag.de/artikel/klaus-viertbauer-glauben-und-wissen-befruchten-sich-gegenseitig",
-      "description": "Obwohl er sich selbst als „religiös unmusikalisch“ beschrieb, dachte Habermas intensiv über die Rolle des Glaubens nach. Der Religionsphilosoph Klaus Viertbauer erläutert, wie sich Habermas’ Einschätzung dazu veränderte und wie sich religiöse in säkulare Sprache übersetzen lässt.",
-      "date": "Fri, 12 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -164,26 +148,10 @@
       }
     },
     {
-      "title": "Klang der Öffentlichkeit",
-      "url": "https://www.philomag.de/artikel/klang-der-oeffentlichkeit",
-      "description": "Seine wissenschaftlichen Schriften gelten als soziologisch-spröde und unmusikalisch – und dennoch könnte Habermas als geheimer Philosoph des Pop verstanden werden. Denn beide, die Musik der 68er und seine Theorie, feiern die Verständigung und Verbindung im öffentlichen Raum.",
-      "date": "Mon, 15 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "Ein Streit um das bundesdeutsche Selbstverständnis",
-      "url": "https://www.philomag.de/artikel/ein-streit-um-das-bundesdeutsche-selbstverstaendnis",
-      "description": "Der Historikerstreit veränderte das erinnerungskulturelle Klima der Bundesrepublik nachhaltig. Zwischen 1986 und 1987 mischten sich zahllose Intellektuelle in die Debatte ein. Die Hauptkontrahenten aber waren Ernst Nolte und Jürgen Habermas. Ein Überblick über die zentralen Positionen.",
-      "date": "Fri, 12 Jun 2026",
+      "title": "Ausnahmezustand? Ja, bitte!",
+      "url": "https://www.philomag.de/artikel/ausnahmezustand-ja-bitte",
+      "description": "In Zeiten der Polykrise sollten wir aufhören, an einer Pseudo-Normalität festzuhalten, und vor allem die Gefahren durch Klimawandel und Rechtsruck anerkennen. Nur so lässt sich dem totalitären Ausnahmezustand entgegenwirken, vor dem Giorgio Agamben warnte.",
+      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -196,10 +164,26 @@
       }
     },
     {
-      "title": "„Habermas war immer zur richtigen Zeit am richtigen Ort“",
-      "url": "https://www.philomag.de/artikel/habermas-war-immer-zur-richtigen-zeit-am-richtigen-ort",
-      "description": "Am 14. März 2026 ist Jürgen Habermas gestorben. Was bleibt von ihm als Mensch besonders in Erinnerung? Was von seiner Theorie? Und an welche seiner Überlegungen wäre heute, angesichts der politischen Verdunkelungen, anzuschließen? Ein Gespräch mit Axel Honneth, Eva Gilmer, Philipp Felsch und Rahel Jaeggi.",
-      "date": "Fri, 12 Jun 2026",
+      "title": "Habermas – ein Schmittianer?",
+      "url": "https://www.philomag.de/artikel/habermas-ein-schmittianer",
+      "description": "Für Habermas hatte der Diskurs klare Grenzen. Entgegen seiner Theorie der Herrschaftsfreiheit dürfen nicht alle Ansichten am runden Tisch Platz finden – eine Sollbruchstelle, die eine Nähe zum Freund-Feind-Denker Carl Schmitt offenbart.",
+      "date": "Thu, 25 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Maas und Moderne",
+      "url": "https://www.philomag.de/artikel/maas-und-moderne",
+      "description": "Habermas glaubte an die Moderne. Das bezeugen nicht nur seine Schriften, sondern auch seine Begeisterung für Rotterdam und die Architektur, die dort nach dem Zweiten Weltkrieg entstand.",
+      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -212,19 +196,35 @@
       }
     },
     {
-      "title": "Maas und Moderne",
-      "url": "https://www.philomag.de/artikel/maas-und-moderne",
-      "description": "Habermas glaubte an die Moderne. Das bezeugen nicht nur seine Schriften, sondern auch seine Begeisterung für Rotterdam und die Architektur, die dort nach dem Zweiten Weltkrieg entstand.",
-      "date": "Fri, 12 Jun 2026",
+      "title": "Mit leeren Händen",
+      "url": "https://www.philomag.de/artikel/mit-leeren-haenden",
+      "description": "Ratlosigkeit gilt als Makel. Dabei wäre sie, richtig verstanden, die klügste Haltung, die wir einnehmen können.",
+      "date": "Mon, 22 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Ein Reformer in Frankfurt",
+      "url": "https://www.philomag.de/artikel/ein-reformer-frankfurt",
+      "description": "Als wichtigster Vertreter der Frankfurter Schule wurde Habermas oft bezeichnet. Blickt man zurück auf seine Anfänge in Frankfurt, die Studentenproteste und das Verhältnis zu Horkheimer und Adorno, zeigt sich eine komplexere Geschichte. Über Auftakt, Abkühlung und Erneuerung einer intellektuellen Beziehung.",
+      "date": "Mon, 22 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,8 +1,24 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-06-21T18:47:40.072722+00:00",
+  "fetchedAt": "2026-06-26T07:44:21.947320+00:00",
   "items": [
+    {
+      "title": "Il riarmo delle coscienze",
+      "url": "https://www.iltascabile.com/societa/riarmo-coscienze/",
+      "description": "Reclutamento culturale, scuola e spazio pubblico: come si costruisce la militarizzazione della società. \n L'articolo  Il riarmo delle coscienze  proviene da  Il Tascabile .",
+      "date": "Tue, 23 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
     {
       "title": "L’illusione di essere svegli",
       "url": "https://www.iltascabile.com/linguaggi/lillusione-essere-svegli/",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Il sogno scaduto della Stazione spaziale internazionale",
+      "url": "https://www.iltascabile.com/scienze/sogno-scaduto-stazione-spaziale-internazionale/",
+      "description": "Il rientro in atmosfera della ISS, previsto per il 2031, rappresenta la rinuncia a un modello di ricerca scientifica e collaborazione internazionale. Con grande felicità degli operatori privati. \n L'articolo  Il sogno scaduto della Stazione spaziale internazionale  proviene da  Il Tascabile .",
+      "date": "Mon, 22 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -36,35 +68,19 @@
       }
     },
     {
-      "title": "La promessa tradita della chimica",
-      "url": "https://www.iltascabile.com/scienze/promessa-tradita-chimica/",
-      "description": "Primo Levi vedeva nella chimica uno strumento di conoscenza e libertà. L'industria italiana ne ha tratto uno strumento di profitto e contaminazione. Milioni di italiani ne pagano ancora oggi il prezzo. \n L'articolo  La promessa tradita della chimica  proviene da  Il Tascabile .",
-      "date": "Mon, 08 Jun 2026",
+      "title": "Il fuoco brucia tutto ciò che ha di fronte",
+      "url": "https://www.iltascabile.com/linguaggi/fuoco-brucia-tutto-fronte/",
+      "description": "L’amore di Cy Twombly per Roma. \n L'articolo  Il fuoco brucia tutto ciò che ha di fronte  proviene da  Il Tascabile .",
+      "date": "Wed, 24 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Presente assente",
-      "url": "https://www.iltascabile.com/societa/presente-assente/",
-      "description": "La permanenza del trauma nella narrativa palestinese, infestata dai fantasmi di una lunga storia di violenza e ingiustizia subite. \n L'articolo  Presente assente  proviene da  Il Tascabile .",
-      "date": "Tue, 09 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -84,35 +100,35 @@
       }
     },
     {
-      "title": "A cena con il dinosauro di Edward Dolnick",
-      "url": "https://www.iltascabile.com/recensioni/cena-dinosauro-edward-dolnick/",
-      "description": "L'articolo  A cena con il dinosauro di Edward Dolnick  proviene da  Il Tascabile .",
-      "date": "Fri, 12 Jun 2026",
+      "title": "Ejzen. Opera buffa di Guzel´ Jachina",
+      "url": "https://www.iltascabile.com/recensioni/ejzen-opera-buffa-guzel-jachina/",
+      "description": "L'articolo  Ejzen. Opera buffa di Guzel´ Jachina  proviene da  Il Tascabile .",
+      "date": "Fri, 26 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Nello specchio rosso",
-      "url": "https://www.iltascabile.com/linguaggi/specchio-rosso/",
-      "description": "Una conversazione con Simone Pieranni su quanto è vicina la Cina e quanto l’Europa, per la Cina, è solo un mercato. \n L'articolo  Nello specchio rosso  proviene da  Il Tascabile .",
-      "date": "Thu, 11 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "Inventario dell’infanzia",
+      "url": "https://www.iltascabile.com/letterature/inventario-infanzia/",
+      "description": "Su  Compiti a casa  di Geoff Dyer. \n L'articolo  Inventario dell’infanzia  proviene da  Il Tascabile .",
+      "date": "Thu, 25 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.iltascabile.com/scienze/nomi-diamo-virus/",
       "description": "Il nuovo focolaio di ebola mostra cosa succede quando si preferisce contenere un virus in un luogo remoto invece che debellarlo. La colpa è anche della nomenclatura, e del retaggio coloniale che porta con sé. \n L'articolo  I nomi che diamo ai virus  proviene da  Il Tascabile .",
       "date": "Mon, 15 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Da Platone al Vangelo",
-      "url": "https://www.iltascabile.com/letterature/platone-vangelo-3/",
-      "description": "Appunti sull’opera di Walter Siti – Terza parte. \n L'articolo  Da Platone al Vangelo  proviene da  Il Tascabile .",
-      "date": "Wed, 10 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

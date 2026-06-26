@@ -1,8 +1,40 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-06-21T18:47:43.429709+00:00",
+  "fetchedAt": "2026-06-26T07:44:25.237880+00:00",
   "items": [
+    {
+      "title": "Reset: Hat",
+      "url": "https://aeon.co/videos/in-the-american-west-a-man-named-hat-sets-out-to-leave-no-trace",
+      "description": "This portrait of a life reimagined is a meditation on identity, happiness and the balance between freedom and conformity - by Aeon Video Watch on Aeon",
+      "date": "Thu, 25 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "The memories of others",
+      "url": "https://aeon.co/videos/a-japanese-photographers-striking-perceptive-images-of-the-troubles",
+      "description": "How a Japanese war photographer became one of the most insightful chroniclers of the Troubles in Northern Ireland - by Aeon Video Watch on Aeon",
+      "date": "Wed, 24 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "Don’t touch the art",
       "url": "https://aeon.co/videos/when-artworks-dare-audiences-to-break-a-cardinal-museum-rule",
@@ -17,6 +49,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Who are the fire-tamers?",
+      "url": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
+      "description": "From remote farmhouses to oncology clinics, a secret world of French healers works in parallel with conventional medicine - by Susanna Crossman Read on Aeon",
+      "date": "Thu, 25 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "And Granny would dance",
+      "url": "https://aeon.co/videos/memories-of-a-childhood-in-tehran-form-a-celebration-of-iranian-women",
+      "description": "Woven from memories of her childhood in Iran, an animator recalls her Granny’s story of loss, love and friendship - by Aeon Video Watch on Aeon",
+      "date": "Mon, 22 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -52,51 +116,19 @@
       }
     },
     {
-      "title": "The joy of autism",
-      "url": "https://aeon.co/essays/why-being-autistic-can-be-a-lot-of-fun",
-      "description": "Yes, we’re in a world of our own: for the autistic mind, it’s a place of intense curiosity, deep focus and sensory delight - by Sarah Hendrickx Read on Aeon",
-      "date": "Tue, 09 Jun 2026",
+      "title": "No one is self-made",
+      "url": "https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy",
+      "description": "The idea that success is deserved has great traction in the world. But Zhuangzi argues that it is a deeply flawed notion - by Christine Abigail L Tan Read on Aeon",
+      "date": "Mon, 22 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "What shape is the Earth?",
-      "url": "https://aeon.co/essays/why-did-measuring-earths-true-shape-matter-for-science",
-      "description": "The extraordinary challenge of determining the true shape of Earth reveals the deep value of measurement to scientific progress - by Miguel Ohnesorge Read on Aeon",
-      "date": "Mon, 08 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Artist of sympathy and cruelty",
-      "url": "https://aeon.co/essays/why-mozarts-operas-are-tests-of-moral-character",
-      "description": "Mozart’s genius lay in writing music of such power that he could draw his audience into morally wrenching predicaments - by Dorian Bandy Read on Aeon",
-      "date": "Fri, 29 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really",
       "description": "Terrorists and tech bros alike view accelerationism as a revolutionary weapon. Nick Land glimpsed something much darker - by Vincent Lê Read on Aeon",
       "date": "Thu, 11 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bay of smokes",
-      "url": "https://aeon.co/videos/one-day-in-1943-smog-descended-on-los-angeles-it-never-really-left",
-      "description": "When smog descended upon Los Angeles in 1943, it was mistaken for a Japanese attack. The real culprit was closer to home - by Aeon Video Watch on Aeon",
-      "date": "Wed, 10 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The steam engine",
-      "url": "https://aeon.co/videos/how-an-ancient-curiosity-evolved-to-power-the-modern-world",
-      "description": "The science behind the revolutionary engine that became the bedrock of global energy – born of a curiosity from 130 BCE - by Aeon Video Watch on Aeon",
-      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

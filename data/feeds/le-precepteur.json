@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-06-21T18:47:33.475091+00:00",
+  "fetchedAt": "2026-06-26T07:44:16.223850+00:00",
   "items": [
     {
       "title": "L'entraide, facteur de l'évolution",
@@ -100,19 +100,51 @@
       }
     },
     {
-      "title": "Le divertissement",
-      "url": "https://www.youtube.com/shorts/TQmoMOLtfDY",
-      "description": "Pourquoi avons-nous tant de mal à rester seuls, dans le silence, face à nous-mêmes ? Au XVIIe siècle, le philosophe français Blaise Pascal apporte une réponse aussi simple qu’inquiétante : si nous fuyons autant la solitude, c’est parce qu’elle nous confronte à notre propre mortalité. Dans cette vidéo, je vous explique pourquoi, selon Pascal, les êtres humains passent leur vie à se divertir, à s’agiter et à remplir leur existence de distractions, et en quoi cette fuite permanente nous permet avan",
-      "date": "2026-05-24",
-      "thumbnail": "https://i1.ytimg.com/vi/TQmoMOLtfDY/hqdefault.jpg",
-      "videoId": "TQmoMOLtfDY",
-      "priority": 29,
+      "title": "SUIS-JE UNE IA ? (Je vous explique...)",
+      "url": "https://www.youtube.com/watch?v=5zBpeiFX_jA",
+      "description": "POUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOURQUOI ME REJOINDRE",
+      "date": "2026-06-23",
+      "thumbnail": "https://i2.ytimg.com/vi/5zBpeiFX_jA/hqdefault.jpg",
+      "videoId": "5zBpeiFX_jA",
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 29
+        "total": 25
+      }
+    },
+    {
+      "title": "SAINT AUGUSTIN - Les trois libidos",
+      "url": "https://www.youtube.com/watch?v=vCxyLq1-hy0",
+      "description": "POUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOURQUOI ME REJOINDRE",
+      "date": "2026-06-12",
+      "thumbnail": "https://i3.ytimg.com/vi/vCxyLq1-hy0/hqdefault.jpg",
+      "videoId": "vCxyLq1-hy0",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "HUME - L'appel à la nature",
+      "url": "https://www.youtube.com/watch?v=sAmpsfWIt4s",
+      "description": "POUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOURQUOI ME REJOINDRE",
+      "date": "2026-05-29",
+      "thumbnail": "https://i4.ytimg.com/vi/sAmpsfWIt4s/hqdefault.jpg",
+      "videoId": "sAmpsfWIt4s",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -132,25 +164,9 @@
       }
     },
     {
-      "title": "SAINT AUGUSTIN - Les trois libidos",
-      "url": "https://www.youtube.com/watch?v=vCxyLq1-hy0",
-      "description": "POUR COMMANDER MON LIVRE :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\nPOURQUOI ME REJOINDRE SUR PATREON :\n\n▶️ https://www.le-precepteur.fr/pourquoi-me-rejoindre-sur-patreon\n\nPOUR ME SOUTENIR :\n\n▶️ SUR TIPEEE : https://www.tipeee.com/le-precepteur\n▶️ SUR PAYPAL : https://www.paypal.me/leprecepteur\n\nPOUR SUIVRE MES ACTUALITÉS :\n\n▶️ INSTAGRA",
-      "date": "2026-06-12",
-      "thumbnail": "https://i3.ytimg.com/vi/vCxyLq1-hy0/hqdefault.jpg",
-      "videoId": "vCxyLq1-hy0",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "CETTE APPLICATION RESSUSCITE LES PHILOSOPHES",
       "url": "https://www.youtube.com/watch?v=21d5VCWEAUM",
-      "description": "-20% sur votre abonnement avec le code promo PRECEPTEUR\n\n▶️ https://learningfrontier.ai/fr\n\nPOUR COMMANDER MON LIVRE :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\nPOURQUOI ME REJOINDRE SUR PATREON :\n\n▶️ https://www.le-precepteur.fr/pourquoi-me-rejoindre-sur-patreon\n\nPOUR ME SOUTENIR :\n\n▶️ SUR TIPEEE : https://www.tipeee.com/le-precepteur\n▶",
+      "description": "-20% sur votre abonnement avec le code promo PRECEPTEUR\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\nPOURQUOI ME REJOINDRE SUR PATREON :\n\n▶️ https://www.le-precepteur.fr/pourquoi-me-rejoindre-sur-patreon\n\nPOUR ME SOUTENIR :\n\n▶️ SUR TIPEEE : https://www.tipeee.com/le-p",
       "date": "2026-06-07",
       "thumbnail": "https://i3.ytimg.com/vi/21d5VCWEAUM/hqdefault.jpg",
       "videoId": "21d5VCWEAUM",
@@ -196,19 +212,19 @@
       }
     },
     {
-      "title": "HUME - L'appel à la nature",
-      "url": "https://www.youtube.com/watch?v=sAmpsfWIt4s",
-      "description": "POUR COMMANDER MON LIVRE :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\nPOURQUOI ME REJOINDRE SUR PATREON :\n\n▶️ https://www.le-precepteur.fr/pourquoi-me-rejoindre-sur-patreon\n\nPOUR ME SOUTENIR :\n\n▶️ SUR TIPEEE : https://www.tipeee.com/le-precepteur\n▶️ SUR PAYPAL : https://www.paypal.me/leprecepteur\n\nPOUR SUIVRE MES ACTUALITÉS :\n\n▶️ INSTAGRA",
-      "date": "2026-05-29",
-      "thumbnail": "https://i4.ytimg.com/vi/sAmpsfWIt4s/hqdefault.jpg",
-      "videoId": "sAmpsfWIt4s",
-      "priority": 15,
+      "title": "L'IA vous est montée au cerveau !!!",
+      "url": "https://www.youtube.com/shorts/DUNQL8Gokp8",
+      "description": "Depuis quelques mois, on lit partout ce commentaire sous des vidéos anodines : \"IA\". C'est le signe que s'est installée une hystérie et une paranoïa collective autour de l'intelligence artificielle. Moi-même, pensez-vous que je sois un avatar IA ?\n \n#IA #IntelligenceArtificielle #Fake #Paranoïa #Technologie",
+      "date": "2026-06-24",
+      "thumbnail": "https://i1.ytimg.com/vi/DUNQL8Gokp8/hqdefault.jpg",
+      "videoId": "DUNQL8Gokp8",
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Le pessimisme rend malheureux",
-      "url": "https://www.youtube.com/shorts/B_Type478ag",
-      "description": "Le pessimisme n'est pas qu'une vision négative, c'est un moteur qui attire le négatif. Envisager le pire, c'est souvent le provoquer.\n \n#Psychologie #Mindset #Pessimisme #Optimisme #ProphétieAutoRéalisatrice #DéveloppementPersonnel #Motivation",
-      "date": "2026-05-23",
-      "thumbnail": "https://i3.ytimg.com/vi/B_Type478ag/hqdefault.jpg",
-      "videoId": "B_Type478ag",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]
