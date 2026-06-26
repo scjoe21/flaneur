@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-26T17:05:40.397166+00:00",
+  "fetchedAt": "2026-06-26T20:21:47.879928+00:00",
   "items": [
+    {
+      "title": "The Supreme Court’s Era of Meaningless Rights",
+      "url": "https://www.theatlantic.com/ideas/2026/06/supreme-court-decisions-unenforceable-rights/687713/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "AI Can’t Fix the Student-Motivation Problem",
       "url": "https://www.theatlantic.com/ideas/2026/06/ai-tutor-education-human-investment/687678/?utm_source=feed",
@@ -214,22 +230,6 @@
     {
       "title": "The Wall the Tohono O’odham Don’t Want",
       "url": "https://www.theatlantic.com/ideas/2026/06/trump-mexico-border-wall-construction-native/687635/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump’s Second Gamble on Iran",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trumps-second-gamble-on-iran/687650/?utm_source=feed",
       "description": "",
       "date": "2026-06-20",
       "thumbnail": "",

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-26T17:05:24.805916+00:00",
+  "fetchedAt": "2026-06-26T20:21:28.979776+00:00",
   "items": [
     {
       "title": "Vers un nouveau climat “intensif” de la politique : entretien avec Eva Illouz",
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Giulia Andreani : une “peinture froide” haute en couleur",
+      "url": "https://www.philomag.com/articles/giulia-andreani-une-peinture-froide-haute-en-couleur",
+      "description": "",
+      "date": "Fri, 26 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/la-droite-radicale-t-elle-le-monopole-du-patriotisme",
       "description": "",
       "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Présence des pères à l’accouchement : quand Jérémy Doku relaie Hannah Arendt",
-      "url": "https://www.philomag.com/articles/presence-des-peres-laccouchement-quand-jeremy-doku-relaie-hannah-arendt",
-      "description": "",
-      "date": "Mon, 22 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
