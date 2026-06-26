@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-06-26T07:44:16.285746+00:00",
+  "fetchedAt": "2026-06-26T17:05:24.009196+00:00",
   "items": [
     {
       "title": "Vivre, mode d'emploi : On est tous des surtouristes : voyager autrement grâce à Sartre",
@@ -100,7 +100,7 @@
       }
     },
     {
-      "title": "Philosopher en s'écrivant des lettres 1 : John Stuart Mill et Harriet Taylor",
+      "title": "Philosophies épistolaires : John Stuart Mill et Harriet Taylor",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/john-stuart-mill-et-harriet-taylor-8291240",
       "description": "durée : 00:57:45  - Avec philosophie - par : Géraldine Muhlmann - La correspondance entre John Stuart Mill et Harriet Taylor constitue un témoignage exceptionnel de leur relation intellectuelle et affective. À travers leurs lettres, ils échangent leurs réflexions sur la philosophie, la politique, la morale et la condition des femmes, s'influençant réciproquement.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Françoise Orazi Pro",
       "date": "Thu, 25 Jun 2026",
@@ -148,7 +148,7 @@
       }
     },
     {
-      "title": "Philosopher en s'écrivant des lettres : Voltaire et Frédéric II",
+      "title": "Philosophies épistolaires : Voltaire et Frédéric II",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/voltaire-et-frederic-ii-5212046",
       "description": "durée : 00:58:31  - Avec philosophie - par : Géraldine Muhlmann - Qu’est-ce qu’un despote éclairé ? La correspondance entre Voltaire et Frédéric II nous le montre et illustre cette relation entre philosophie et pouvoir. Frédéric II cherche les conseils du penseur éclairé, tandis que Voltaire espère influencer le gouvernement par la raison et le progrès.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Linda Gil Maître de conférenc",
       "date": "Wed, 24 Jun 2026",
@@ -158,22 +158,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Roland Barthes : les mystères de l'écriture : La question du roman",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-question-du-roman-5687680",
-      "description": "durée : 00:57:30  - Avec philosophie - par : Géraldine Muhlmann - En grand analyste du roman, Roland Barthes, dans ses essais, étudie les mécanismes du récit, la construction des personnages et les effets de sens produits par l'écriture romanesque. Son approche renouvelle la lecture du roman, en s'intéressant au texte plus qu'aux intentions de l'auteur.  - réalisation : Carla Michel, Axel Dubois, Shaïma Giboire, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Philippe Forest Romancier e",
-      "date": "Thu, 11 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 20,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -196,7 +180,7 @@
       }
     },
     {
-      "title": "Philosopher en s'écrivant des lettres : Freud et Einstein",
+      "title": "Philosophies épistolaires : Freud et Einstein",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/freud-et-einstein-5642301",
       "description": "durée : 00:57:49  - Avec philosophie - par : Géraldine Muhlmann - Au cours de l'été 1932, Albert Einstein et Sigmund Freud échangeaient une brève correspondance sur les causes de la guerre et les moyens de l’éviter : Einstein interrogeait les racines de la violence humaine, tandis que Freud y répondait à partir de sa théorie des pulsions.\n  - réalisation : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Isabelle Alfandary Professeure de littéra",
       "date": "Tue, 23 Jun 2026",
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Christophe Boltanski : \"Il faut rééditer 'Austerlitz' de Sebald, une enquête des origines qui n'atteint jamais son but\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/christophe-boltanski-ecrivain-et-essayiste-sur-austerlitz-de-w-g-sebald-7235698",
+      "description": "durée : 00:58:17  - Avec philosophie - par : Géraldine Mosna-Savoye - Publié en 2001, par W.G Sebald, \"Austerlitz\" est un roman où enquête, mémoire et errance se mêlent. À travers la quête du héros, Jacques Austerlitz, le récit explore les traces laissées par l'exil, l'effacement et la Shoah, dans l'histoire européenne. L'écrivain Christophe Boltanski nous en parle.  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Christophe Boltanski Journaliste et écrivain français ",
+      "date": "Fri, 26 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

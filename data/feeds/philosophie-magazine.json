@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-26T07:44:16.606667+00:00",
+  "fetchedAt": "2026-06-26T17:05:24.805916+00:00",
   "items": [
     {
       "title": "Vers un nouveau climat “intensif” de la politique : entretien avec Eva Illouz",
@@ -97,6 +97,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Estelle Ferrarese : “Il y a dans le sanglot un refus de toute consolation”",
+      "url": "https://www.philomag.com/articles/estelle-ferrarese-il-y-dans-le-sanglot-un-refus-de-toute-consolation",
+      "description": "",
+      "date": "Fri, 26 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Le désir d’enfant : table ronde avec Isabelle Alfandary, Nicolas Moysan et Clélia Gasquet-Blanchard",
+      "url": "https://www.philomag.com/articles/le-desir-denfant-table-ronde-avec-isabelle-alfandary-nicolas-moysan-et-clelia-gasquet",
+      "description": "",
+      "date": "Fri, 26 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -198,38 +230,6 @@
     {
       "title": "Présence des pères à l’accouchement : quand Jérémy Doku relaie Hannah Arendt",
       "url": "https://www.philomag.com/articles/presence-des-peres-laccouchement-quand-jeremy-doku-relaie-hannah-arendt",
-      "description": "",
-      "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“L’Amor fati” chez Nietzsche, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/lamor-fati-chez-nietzsche-cest-quoi",
-      "description": "",
-      "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“For sure”, le tube de la Fête de la musique ?",
-      "url": "https://www.philomag.com/articles/sure-le-tube-de-la-fete-de-la-musique",
       "description": "",
       "date": "Mon, 22 Jun 2026",
       "thumbnail": "",

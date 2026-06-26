@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-06-26T07:44:31.548770+00:00",
+  "fetchedAt": "2026-06-26T17:05:39.923451+00:00",
   "items": [
     {
       "title": "The full story of the dinosaurs, from extinction to extinction",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Laozi’s 4 types of leaders, and why the best one is barely noticed",
+      "url": "https://bigthink.com/business/laozis-leadership/",
+      "description": "Most workplaces have a strange relationship with leadership. We say we want leaders who can cultivate trust, autonomy, and initiative, but often reward those who do the opposite, pursuing visibility, control, and constant intervention while ensuring everyone knows any win happened because of them. \n That can feel like true leadership. It may even work for a while. The team moves, the metrics improve, and the leader gets praised, but then something goes wrong. Team members begin working for the l",
+      "date": "Fri, 26 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/laozi-4-tleaders_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 33,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 33
+      }
+    },
+    {
       "title": "You give great advice to everyone except yourself. Here’s how to change that.",
       "url": "https://bigthink.com/work-wise/you-give-great-advice-to-everyone-except-yourself-heres-how-to-change-that/",
       "description": "My phone buzzes late on a Tuesday. It’s a former colleague (let’s call him Steve) who’s been offered a role at a startup that feels like a better fit than his current job, but it’s a smaller paycheck, and there’s a risk the company won’t survive the next funding round. Steve’s been turning for weeks, driving himself, his wife, and his friends insane. Now, it’s my turn. \n I talk through the spiral with him: Is his current steady paycheck worth the poor fit, and is that steady income the same as a",
@@ -52,23 +68,7 @@
       }
     },
     {
-      "title": "Ask Ethan: How do space telescopes stay focused?",
-      "url": "https://bigthink.com/starts-with-a-bang/how-space-telescopes-focus/",
-      "description": "In the era of space telescopes, we’re now used to clear, sharp images where everything is focused pristinely: reaching the theoretical maximum that’s possible based on the wavelength of light that’s being observed and the diameter of the telescope’s primary mirror. First with Hubble (once the flaw in its primary mirror was corrected) and later with space telescopes such as Spitzer, GALEX, Herschel, and now JWST, the lack of an atmosphere to contend with means that all we need to do is make our o",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/04/big4.gif?w=640",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
-      "title": "The doomed quest for a perfect map of political ideology",
+      "title": "Why do we divide politics into left vs. right? Blame France.",
       "url": "https://bigthink.com/strange-maps/origins-of-left-versus-right/",
       "description": "Why do we grade politicians on a spectrum from left to right? Blame the French. \n On September 11th, 1789, France’s newly formed National Assembly voted on whether to grant the king a veto over its laws. This was no arcane point of procedure. As a direct challenge to Louis XVI’s absolute power, it was a hinge moment in the French Revolution. \n Defenders of the monarchy, pro veto, gathered to the chairman’s right. Radicals in favor of clipping the king’s powers drifted to his left. From that fate",
       "date": "Thu, 25 Jun 2026",
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "The strange, and occasionally violent, origins of American news",
-      "url": "https://bigthink.com/books/the-origins-of-american-news/",
-      "description": "Early in my career, I landed a job at a local newspaper. It was a small-town daily with one editor and three reporters, and I only took the position because I was fresh out of college, and it paid 25 cents more an hour than my gig at the take-and-bake pizzeria. Looking back, I’m not nostalgic for the crushing grind or the strangely personalized abuse the paper’s readers could hurl over a simple spelling error. But if you caught me in a sentimental mood, I would admit that the experience ingraine",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/origins-of-news.jpg?quality=85&w=640",
+      "title": "A neuroscientist’s guide to protecting your brain, in 58 minutes",
+      "url": "https://bigthink.com/series/full-interview/science-of-memory/",
+      "description": "A retired Japanese engineer once memorized pi to over 111,000 digits using nothing but storytelling and visualization. He also forgot his wife’s birthday that same year.  \n Neuroscientist Lisa Genova uses this contradiction to dispel a persistent collective fear: that ordinary forgetting is an early warning sign of Alzheimer’s. \n \n This video  A neuroscientist’s guide to protecting your brain, in 58 minutes  is featured on  Big Think .",
+      "date": "Thu, 25 Jun 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/A1-Web-Genova.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 13,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 8,
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 13
+        "total": 20
       }
     },
     {

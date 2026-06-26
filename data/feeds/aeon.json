@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-06-26T07:44:25.237880+00:00",
+  "fetchedAt": "2026-06-26T17:05:35.703343+00:00",
   "items": [
     {
       "title": "Reset: Hat",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "The violence specialists",
+      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
+      "description": "Every society depends on violence workers, but what makes young men take a job that risks their lives and harms others? - by Raúl Zepeda Gil Read on Aeon",
+      "date": "Fri, 26 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/videos/in-suburban-california-a-wild-peafowl-population-splits-the-community",
       "description": "A portrait of the pristine suburb of Arcadia, where hundreds of feral peacocks are embraced by some, despised by others - by Aeon Video Watch on Aeon",
       "date": "Mon, 15 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The no-human future",
-      "url": "https://aeon.co/essays/what-is-nick-lands-philosophy-of-accelerationism-really",
-      "description": "Terrorists and tech bros alike view accelerationism as a revolutionary weapon. Nick Land glimpsed something much darker - by Vincent Lê Read on Aeon",
-      "date": "Thu, 11 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

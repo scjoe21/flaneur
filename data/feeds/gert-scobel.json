@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-06-26T07:44:16.789079+00:00",
+  "fetchedAt": "2026-06-26T17:05:25.002785+00:00",
   "items": [
     {
       "title": "Warum wir immer wütender werden I NANO",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
+      }
+    },
+    {
+      "title": "Ist Sonnencreme krebserregend?",
+      "url": "https://www.youtube.com/shorts/Uxhs6nwaj0k",
+      "description": "Auf Social Media kursieren immer wieder Gerüchte, dass Sonnencreme ungesund ist. Warum das Quatsch ist und wie wichtig der Schutz vor UV-Strahlung ist, erfahrt ihr in unserem neuen Video 🧴 👉 https://youtu.be/-4_1GdXnuXQ\n#shorts #krebsvorsorge #hautkrebs",
+      "date": "2026-06-26",
+      "thumbnail": "https://i2.ytimg.com/vi/Uxhs6nwaj0k/hqdefault.jpg",
+      "videoId": "Uxhs6nwaj0k",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -192,22 +208,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "30 Kilo weniger durch die Abnehmspritze? #shorts #ozempic #abnehmen #nano",
-      "url": "https://www.youtube.com/shorts/ivo_XSHBgzM",
-      "description": "Kennt ihr jemanden, der eine Abnehmspritze verwendet? 💉Mehr Infos zu Ozempic und Co. sowie möglichen gesundheitlichen Risiken findet ihr in der ganzen Folge auf unserem NANO-Kanal: https://youtu.be/WLxr7wUv1vQ",
-      "date": "2026-06-03",
-      "thumbnail": "https://i2.ytimg.com/vi/ivo_XSHBgzM/hqdefault.jpg",
-      "videoId": "ivo_XSHBgzM",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 5
       }
     },
