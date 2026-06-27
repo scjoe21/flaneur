@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-27T11:43:55.485618+00:00",
+  "fetchedAt": "2026-06-27T17:33:38.659709+00:00",
   "items": [
     {
       "title": "Vers un nouveau climat “intensif” de la politique : entretien avec Eva Illouz",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "“Disclosure Day” : les citoyens ont-ils un droit à la vérité ?",
+      "url": "https://www.philomag.com/articles/disclosure-day-les-citoyens-ont-ils-un-droit-la-verite",
+      "description": "",
+      "date": "Sat, 27 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -52,22 +68,6 @@
       }
     },
     {
-      "title": "Les canicules catastrophiques, révélatrices des inégalités sociales et spatiales",
-      "url": "https://www.philomag.com/articles/les-canicules-catastrophiques-revelatrices-des-inegalites-sociales-et-spatiales",
-      "description": "",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Étienne Klein : “J’ai manqué d’intégrité”",
       "url": "https://www.philomag.com/articles/etienne-klein-jai-manque-dintegrite",
       "description": "",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Ben Tarnoff : “Le muskisme est un anti-humanisme”",
+      "url": "https://www.philomag.com/articles/ben-tarnoff-le-muskisme-est-un-anti-humanisme",
+      "description": "",
+      "date": "Sat, 27 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Le ventilo portable, tout un symbole",
       "url": "https://www.philomag.com/articles/le-ventilo-portable-tout-un-symbole",
-      "description": "",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La droite radicale a-t-elle le monopole du patriotisme ?",
-      "url": "https://www.philomag.com/articles/la-droite-radicale-t-elle-le-monopole-du-patriotisme",
       "description": "",
       "date": "Tue, 23 Jun 2026",
       "thumbnail": "",

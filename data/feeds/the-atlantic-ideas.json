@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-27T11:45:17.007152+00:00",
+  "fetchedAt": "2026-06-27T17:33:57.983195+00:00",
   "items": [
     {
       "title": "William Barr’s Dangerous Endorsement of Todd Blanche",
@@ -97,6 +97,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "France Is Too Hot for Shutters and Ceiling Fans",
+      "url": "https://www.theatlantic.com/ideas/2026/06/france-air-conditioning-failure/687723/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Court That Will Believe Absolutely Anything Is ‘Race-Neutral’",
+      "url": "https://www.theatlantic.com/ideas/2026/06/scotus-asylum-racial-discrimination/687710/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/06/burnham-uk-reform-manchesterism/687674/?utm_source=feed",
       "description": "",
       "date": "2026-06-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Man Who Couldn’t Do It",
-      "url": "https://www.theatlantic.com/ideas/2026/06/keir-starmer-british-prime-minister-turnover/687658/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What Happened to Tony Carruthers Is Horrifying",
-      "url": "https://www.theatlantic.com/ideas/2026/06/lethal-injection-execution-tennessee-tony-carruthers/687639/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-22",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
