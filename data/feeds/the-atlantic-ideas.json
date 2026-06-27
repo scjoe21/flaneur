@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-26T20:21:47.879928+00:00",
+  "fetchedAt": "2026-06-27T11:45:17.007152+00:00",
   "items": [
+    {
+      "title": "William Barr’s Dangerous Endorsement of Todd Blanche",
+      "url": "https://www.theatlantic.com/ideas/2026/06/trump-justice-department-barr-blanche-endorsement/687722/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "The Supreme Court’s Era of Meaningless Rights",
       "url": "https://www.theatlantic.com/ideas/2026/06/supreme-court-decisions-unenforceable-rights/687713/?utm_source=feed",
@@ -68,22 +84,6 @@
       }
     },
     {
-      "title": "This Founding Father Died in Disgrace. But He Can’t Be Forgotten.",
-      "url": "https://www.theatlantic.com/ideas/2026/06/james-wilson-founding-father-democracy/687594/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
       "title": "Trump Is Making the 250th Small",
       "url": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/?utm_source=feed",
       "description": "",
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Higher Ed Is Very Sorry",
+      "url": "https://www.theatlantic.com/ideas/2026/06/higher-education-universities-public-trust/687714/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/06/lethal-injection-execution-tennessee-tony-carruthers/687639/?utm_source=feed",
       "description": "",
       "date": "2026-06-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Wall the Tohono O’odham Don’t Want",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-mexico-border-wall-construction-native/687635/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-20",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

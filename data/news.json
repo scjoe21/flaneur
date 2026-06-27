@@ -2,7 +2,7 @@
   "week": "2026-W27",
   "weekLabel": "2026년 6월 29일 — 7월 3일",
   "theme": "",
-  "curatedAt": "2026-06-26T20:24:53.520990+00:00",
+  "curatedAt": "2026-06-27T11:46:58.980754+00:00",
   "items": [
     {
       "day": "monday",
@@ -45,6 +45,26 @@
       "id": "mon-02"
     },
     {
+      "day": "monday",
+      "dayLabel": "월요일",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "source": "Usbek & Rica",
+      "sourceUrl": "https://usbeketrica.com/fr/article/technoference-comment-decrocher-de-son-telephone-face-a-son-enfant",
+      "channelUrl": "https://usbeketrica.com",
+      "thumbnail": "",
+      "title": "부모의 스마트폰이 아이를 지운다",
+      "summary": "아이와 함께 있으면서도 함께 없는 부모—화면이 만드는 보이지 않는 단절",
+      "detail": "[현상/질문] 공원 벤치에 나란히 앉은 부모와 아이를 상상해보자. 아이는 미끄럼틀에서 내려오며 '엄마, 봤어?'라고 외친다. 하지만 엄마의 눈은 스마트폰 화면에 고정돼 있다. 아이는 잠시 멈추다가 다시 혼자 오른다. 식탁에서도 비슷한 장면이 반복된다. 아버지는 저녁 내내 알림을 확인하고, 아이가 건네는 말은 '응, 응'이라는 단음절로 흘러간다. 몸은 같은 공간에 있지만, 존재는 다른 곳에 있다. 심리학자들은 이 현상을 '테크노퍼런스(technoférence)'라고 부른다. 기술과 간섭의 합성어다. 부모가 화면을 보는 매 순간, 아이는 자신이 그 화면보다 덜 중요하다는 신호를 조용히 받아들인다. 이것은 악의 없는 방치다. 아무도 의도하지 않았지만, 매일 조금씩 쌓인다.\n\n[철학적 해석] 철학자 시몬 베유는 '주의(attention)'를 단순한 집중력이 아니라 윤리적 행위로 보았다. 누군가에게 진정으로 주의를 기울인다는 것은 그를 하나의 온전한 존재로 인정하는 행위라고 그녀는 말했다. 주의를 거두는 것은 단순히 딴짓이 아니라, 상대의 존재를 잠시 지우는 일이다. 아이는 언어 이전에 이 부재를 감지한다. 눈 맞춤이 사라지고, 반응이 늦어지고, 자신의 감정이 메아리 없이 돌아올 때, 아이는 세상과 연결되는 방식을 학습한다—혹은 학습하지 못한다. 발달심리학자 에드워드 트로닉의 '무표정 실험'은 이를 극단적으로 보여준다. 엄마가 단 몇 분간 아이의 신호에 반응하지 않자, 아이는 당혹감에서 불안으로, 불안에서 울음으로 무너졌다. 스마트폰이 만드는 무표정은 더 교묘하다. 완전한 부재가 아니라 반쪽짜리 현존이기 때문이다. 베유의 언어로 말하자면, 우리는 아이 곁에 있으면서 아이를 향한 주의를 다른 곳에 팔고 있다. 그리고 그 거래는 너무 조용히 이루어져서, 우리는 무엇을 잃고 있는지조차 모른다.\n\n[그 나라 맥락] En France, la « technoférence » devient un sujet de débat public. Des psychologues français alertent sur ses effets. Une étude de l'INSERM montre que les enfants de parents très connectés ont plus de difficultés émotionnelles. Des crèches à Paris proposent des ateliers sans téléphone pour les parents. En France, on parle souvent de « présence attentive » comme d'une valeur éducative centrale. Mais même là, le téléphone reste difficile à poser.",
+      "tags": [
+        "테크노퍼런스",
+        "주의의 윤리",
+        "디지털 부재"
+      ],
+      "originalTitle": "« Technoférence » : comment décrocher de son téléphone face à son enfant ?",
+      "id": "mon-03"
+    },
+    {
       "day": "tuesday",
       "dayLabel": "화요일",
       "country": "germany",
@@ -83,6 +103,26 @@
       ],
       "originalTitle": "Wann ist ein Mann ein Mann? Über Rollenbilder und Leistungsdruck | NANO",
       "id": "tue-02"
+    },
+    {
+      "day": "tuesday",
+      "dayLabel": "화요일",
+      "country": "germany",
+      "countryLabel": "독일",
+      "source": "Sternstunde Philosophie (SRF)",
+      "sourceUrl": "https://www.youtube.com/watch?v=tHLhqbmfGkg",
+      "channelUrl": "https://www.youtube.com/channel/UCh_GQqobenO55IJ9sYZWndA",
+      "thumbnail": "https://i1.ytimg.com/vi/tHLhqbmfGkg/hqdefault.jpg",
+      "title": "지금 이 순간은 누구의 것인가",
+      "summary": "시간에 쫓기는 현대인이 정작 '지금'을 살지 못하는 역설",
+      "detail": "[현상/질문] 왜 우리는 항상 시간이 없다고 느끼면서도, 막상 빈 시간이 생기면 그것을 채우려 서두르는가? 점심시간에 밥을 먹으면서 동시에 다음 일정을 확인하고, 저녁에 소파에 앉아서도 '이렇게 쉬어도 되나'라는 불안이 스멀스멀 올라온다. 주말 아침, 아무것도 계획하지 않았는데 어느새 유튜브를 켜거나 할 일 목록을 만들고 있다. 휴가를 손꼽아 기다렸지만 막상 그 시간이 오면 그것마저 최대한 '알차게' 써야 한다는 압박에 시달린다. 시간은 분명 흐르고 있는데, 우리는 지금 이 순간을 경험하고 있는 건지, 아니면 그저 다음 순간을 위한 대기실에 앉아 있는 건지 알 수 없다. '현재'는 언제나 미래를 위한 수단으로만 존재하는 것처럼 느껴진다. 우리는 언제부터 지금을 사는 법을 잊어버린 것일까.\n\n[철학적 해석] 철학자 우도 마르크바르트(Udo Marquardt)는 현대인이 시간을 '소유'하려 하기 때문에 오히려 시간을 잃는다고 말한다. 우리는 시간을 관리하고, 절약하고, 투자해야 할 자원으로 본다. 그러나 시간은 저축할 수 없다. '지금(Jetzt)'은 붙잡는 순간 이미 과거가 된다. 아우구스티누스는 일찍이 과거는 기억 속에, 미래는 기대 속에, 현재는 주의(attention) 속에만 존재한다고 했다. 현재란 외부 세계에 객관적으로 놓여 있는 것이 아니라, 오직 우리의 의식이 향하는 곳에 열리는 것이다. 그런데 현대의 가속화된 삶은 우리의 주의를 끊임없이 분산시킨다. 알림, 일정, 미래에 대한 불안이 의식을 현재로부터 빼앗아간다. 하이데거의 언어를 빌리면, 우리는 '지금 여기에 존재함(Dasein)'보다 '무언가를 하고 있음'으로 자신을 정의하도록 훈련받았다. 결국 삶의 충만함은 더 많은 시간에서 오는 게 아니라, 지금 이 순간으로 의식이 돌아올 때 비로소 가능해진다는 역설에 우리는 직면한다.\n\n[그 나라 맥락] 스위스에서 이 질문은 특히 날카롭게 울린다. 스위스는 세계에서 가장 효율적으로 시간을 관리하는 나라 중 하나로 꼽히지만, 동시에 번아웃 비율도 유럽 최상위권이다. 스위스 연방통계청 자료에 따르면 직장인 세 명 중 한 명 이상이 만성적인 시간 압박을 호소한다. 시간 엄수를 국민적 덕목으로 여기는 문화 속에서, '아무것도 하지 않는 시간'은 미덕이 아니라 낭비로 읽힌다. 그러나 최근 스위스 알프스 지역의 일부 공동체에서는 의도적으로 속도를 늦추는 '느린 여행(Slow Travel)' 문화와 디지털 없는 주말이 조용히 퍼지고 있다. 이는 효율의 나라가 역설적으로 '지금'을 되찾으려는 움직임이기도 하다. 시간을 아낄수록 삶이 더 풍요로워진다는 오래된 믿음이, 정작 삶의 질 연구에서는 반박되고 있는 것이다.",
+      "tags": [
+        "현재",
+        "시간의 철학",
+        "가속사회"
+      ],
+      "originalTitle": "Jetzt! – Die Zeit als Schlüssel zum guten Leben | Sternstunde Philosophie | SRF Kultur",
+      "id": "tue-03"
     },
     {
       "day": "wednesday",

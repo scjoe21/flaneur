@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-26T20:21:28.979776+00:00",
+  "fetchedAt": "2026-06-27T11:43:55.485618+00:00",
   "items": [
     {
       "title": "Vers un nouveau climat “intensif” de la politique : entretien avec Eva Illouz",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Nos grandes questions pour changer d'ère : “La politique est-elle devenue un enjeu existentiel ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-la-politique-est-elle-devenue-un-enjeu",
-      "description": "",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -97,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Frantz Fanon, une résistance philosophique à la colonisation",
+      "url": "https://www.philomag.com/articles/frantz-fanon-une-resistance-philosophique-la-colonisation",
+      "description": "",
+      "date": "Sat, 27 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
