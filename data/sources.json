@@ -51,6 +51,43 @@
       "rssUrl": "https://www.philomag.com/feed"
     },
     {
+      "id": "philoxime",
+      "name": "Philoxime",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "youtube",
+      "channelId": "UCdKTlsmvczkdvGjiLinQwmw",
+      "url": "https://www.youtube.com/@Philoxime",
+      "description": "프랑스 도덕철학 유튜버. 이타심·윤리 등 일상의 도덕 문제를 분석.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCdKTlsmvczkdvGjiLinQwmw"
+    },
+    {
+      "id": "usbek-rica",
+      "name": "Usbek & Rica",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "rss",
+      "url": "https://usbeketrica.com",
+      "description": "프랑스 사회·미래 전망 매거진. 기술·사회현상을 비판적으로 관찰.",
+      "rssUrl": "https://usbeketrica.com/fr/rss"
+    },
+    {
+      "id": "implications-philosophiques",
+      "name": "Implications Philosophiques",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "rss",
+      "url": "https://www.implications-philosophiques.org",
+      "description": "프랑스 응용철학 웹저널. 윤리·정치·일상 주제의 철학 에세이.",
+      "rssUrl": "https://www.implications-philosophiques.org/feed/"
+    },
+    {
       "id": "gert-scobel",
       "name": "Gert Scobel",
       "country": "germany",
@@ -110,6 +147,31 @@
       "url": "https://www.merkur-zeitschrift.de",
       "description": "독일의 대표적 사상·문화 저널. 철학·사회·예술을 아우르는 비평 에세이.",
       "rssUrl": "https://www.merkur-zeitschrift.de/feed/"
+    },
+    {
+      "id": "agora42",
+      "name": "agora42",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "rss",
+      "url": "https://agora42.de",
+      "description": "독일 철학·경제 교차 매거진. 사회·경제 현상을 철학적으로 비평.",
+      "rssUrl": "https://agora42.de/feed/"
+    },
+    {
+      "id": "sternstunde-philosophie",
+      "name": "Sternstunde Philosophie (SRF)",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "youtube",
+      "channelId": "UCh_GQqobenO55IJ9sYZWndA",
+      "url": "https://www.youtube.com/channel/UCh_GQqobenO55IJ9sYZWndA",
+      "description": "스위스 공영방송 SRF의 독일어 철학 대담 프로그램. 나이듦·시간 등 삶의 질문을 인터뷰로 다룸.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCh_GQqobenO55IJ9sYZWndA"
     },
     {
       "id": "rick-dufer",
@@ -174,6 +236,30 @@
       "rssUrl": "https://www.doppiozero.com/rss.xml"
     },
     {
+      "id": "leparoleelecose",
+      "name": "Le parole e le cose",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "flag": "🇮🇹",
+      "day": "wednesday",
+      "type": "rss",
+      "url": "https://www.leparoleelecose.it",
+      "description": "이탈리아 문학·사상 비평 블로그. 문화·사회 현상의 깊이 있는 에세이.",
+      "rssUrl": "https://www.leparoleelecose.it/?feed=rss2"
+    },
+    {
+      "id": "not-neroeditions",
+      "name": "Not (Nero Editions)",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "flag": "🇮🇹",
+      "day": "wednesday",
+      "type": "rss",
+      "url": "https://not.neroeditions.com",
+      "description": "이탈리아 Nero 출판사의 동시대 문화 매거진. 인터넷·일상문화 현상 분석.",
+      "rssUrl": "https://not.neroeditions.com/feed/"
+    },
+    {
       "id": "philosophy-now",
       "name": "Philosophy Now",
       "country": "uk",
@@ -222,6 +308,31 @@
       "rssUrl": "https://philosophybites.libsyn.com/rss"
     },
     {
+      "id": "psyche",
+      "name": "Psyche",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "rss",
+      "url": "https://psyche.co",
+      "description": "Aeon 자매지. 심리·철학으로 일상의 의미와 삶의 태도를 다룸.",
+      "rssUrl": "https://psyche.co/feed.rss"
+    },
+    {
+      "id": "then-and-now",
+      "name": "Then & Now",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "youtube",
+      "channelId": "UCqi11vupUgKjMRKfQdUw4yA",
+      "url": "https://www.youtube.com/@ThenNow",
+      "description": "영국 정치철학 유튜버(Lewis Waller). 현대 정치·사회현상을 사상사로 해설.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCqi11vupUgKjMRKfQdUw4yA"
+    },
+    {
       "id": "daily-stoic",
       "name": "Daily Stoic",
       "country": "usa",
@@ -256,6 +367,55 @@
       "url": "https://www.theatlantic.com/ideas/",
       "description": "미국 대표 시사·사상 잡지. 사회현상과 철학·윤리를 깊이 있게 연결.",
       "rssUrl": "https://www.theatlantic.com/feed/channel/ideas/"
+    },
+    {
+      "id": "noema",
+      "name": "Noema Magazine",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://www.noemamag.com",
+      "description": "Berggruen 연구소 발행 사상지. 기술·정치·철학의 교차 에세이.",
+      "rssUrl": "https://www.noemamag.com/feed/"
+    },
+    {
+      "id": "the-marginalian",
+      "name": "The Marginalian",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://www.themarginalian.org",
+      "description": "마리아 포포바의 사상·문학 에세이. 삶의 의미·예술·철학을 성찰.",
+      "rssUrl": "https://www.themarginalian.org/feed/"
+    },
+    {
+      "id": "new-atlantis",
+      "name": "The New Atlantis",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://www.thenewatlantis.com",
+      "description": "미국 기술·사회 비평지. 기술이 인간 삶에 던지는 윤리적 질문을 다룸.",
+      "rssUrl": "https://www.thenewatlantis.com/feed"
+    },
+    {
+      "id": "pursuit-of-wonder",
+      "name": "Pursuit of Wonder",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "youtube",
+      "channelId": "UC-tLyAaPbRZiYrOJxAGB7dQ",
+      "url": "https://www.youtube.com/@PursuitofWonder",
+      "description": "미국 실존·일상 철학 유튜버. 현대인의 불안·선택·의미를 서사적으로 탐구.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ"
     }
   ]
 }
