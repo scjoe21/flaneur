@@ -1,24 +1,8 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-06-27T17:33:41.195316+00:00",
+  "fetchedAt": "2026-06-28T18:16:54.194268+00:00",
   "items": [
-    {
-      "title": "Philosophie der Sucht - Vom Umgang mit schlechten Gewohnheiten",
-      "url": "https://www.deutschlandfunkkultur.de/philosophie-der-sucht-vom-umgang-mit-schlechten-gewohnheiten-100.html",
-      "description": "Vom klassischen Alkoholismus bis zur modernen Handysucht: Wann werden Gewohnheiten zum Problem, wann zur Sucht? Und wie viel davon steckt im Menschen, wie viel in den Substanzen? Fragen an den Philosophen und Psychologen Martin Wallroth aus Münster. Newmark, Catherine; Wallroth, Martin www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 17 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
     {
       "title": "Intersektionalität - Wie Rassismus und Sexismus zusammenspielen",
       "url": "https://www.deutschlandfunkkultur.de/kimberle-crenshaw-vordenkerin-der-intersektionalitaet-100.html",
@@ -148,19 +132,35 @@
       }
     },
     {
-      "title": "Kommentar - Christi Himmelfahrt: Kurze Pause von der ständigen Betriebsamkeit",
-      "url": "https://www.deutschlandfunkkultur.de/philosophischer-wochenkommentar-entschleuningung-innehalten-100.html",
-      "description": "Höher, schneller, weiter – nur die Feiertage unterbrechen unseren Dauerlauf im Hamsterrad. An Himmelfahrt den Kopf in den Wolken zu haben lohnt sich. In der Selbst- und Zeitvergessenheit eröffnet sich eine neue Gangart des Lebens. Von Simone Miller www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Wed, 13 May 2026",
+      "title": "50 Jahre gleichberechtigtes Namensrecht: Im Namen des Ehemanns?",
+      "url": "https://www.deutschlandfunkkultur.de/50-jahre-gleichberechtigtes-namensrecht-im-namen-des-ehemanns-100.html",
+      "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 28 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
+      }
+    },
+    {
+      "title": "250 Jahre USA - Ideale und Realitäten der amerikanischen Staatsgründung",
+      "url": "https://www.deutschlandfunkkultur.de/250-jahre-usa-ideale-und-realitaeten-der-amerikanischen-staatsgruendung-100.html",
+      "description": "Am 4. Juli feiern die USA ihren 250. Geburtstag. Die Historikerin Britta Waldschmidt-Nelson und der Politologe Philipp Lepenies diskutieren über die philosophischen Ideale der US-Gründerväter und beleuchten, was für ein Experiment die Revolution war. Lepenies, Philipp; Waldschmidt-Nelson, Britta; Newmark, Catherine www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 28 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

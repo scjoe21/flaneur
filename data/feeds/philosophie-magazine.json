@@ -1,24 +1,8 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-27T17:33:38.659709+00:00",
+  "fetchedAt": "2026-06-28T18:16:51.579117+00:00",
   "items": [
-    {
-      "title": "Vers un nouveau climat “intensif” de la politique : entretien avec Eva Illouz",
-      "url": "https://www.philomag.com/articles/vers-un-nouveau-climat-intensif-de-la-politique-entretien-avec-eva-illouz",
-      "description": "",
-      "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
     {
       "title": "“Disclosure Day” : les citoyens ont-ils un droit à la vérité ?",
       "url": "https://www.philomag.com/articles/disclosure-day-les-citoyens-ont-ils-un-droit-la-verite",
@@ -81,6 +65,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Apprendre à voir le monde avec David Hockney",
+      "url": "https://www.philomag.com/articles/apprendre-voir-le-monde-avec-david-hockney",
+      "description": "",
+      "date": "Sun, 28 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Rétrospective 2006-2026 : quand le sulfureux entrepreneur Peter Thiel rencontrait le philosophe Pierre Manent",
+      "url": "https://www.philomag.com/articles/retrospective-2006-2026-quand-le-sulfureux-entrepreneur-peter-thiel-rencontrait-le",
+      "description": "",
+      "date": "Sun, 28 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/sauver-le-jardin-terre-en-envoyant-nos-dechets-sur-la-lune-la-vision-qui-inspire-jeff",
       "description": "",
       "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le ventilo portable, tout un symbole",
-      "url": "https://www.philomag.com/articles/le-ventilo-portable-tout-un-symbole",
-      "description": "",
-      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

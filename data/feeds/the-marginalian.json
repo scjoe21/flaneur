@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-06-27T17:33:58.598631+00:00",
+  "fetchedAt": "2026-06-28T18:18:24.578620+00:00",
   "items": [
     {
       "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
@@ -36,10 +36,10 @@
       }
     },
     {
-      "title": "Oliver Sacks on Despair and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/06/19/oliver-sacks-letters-meaning-of-life/",
-      "description": "\"The meaning of life... clearly has to do with love — what and whom and how one can love.\"",
-      "date": "Fri, 19 Jun 2026",
+      "title": "Why You",
+      "url": "https://www.themarginalian.org/2026/06/28/why-you/",
+      "description": "A self is a story of why you are you — a selective retelling of the myriad chance events between the birth of the universe and this moment: atoms bonding one way and not another, parents bonding with one partner and not another, values binding you to one culture and not another. Against this utter choicelessness in the variables we each drew from the cosmic lottery — our pigments, our neurotransmitters, our outpost in space and in time — it becomes downright absurd to grow attached to the story ",
+      "date": "Sun, 28 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany",
+      "url": "https://www.themarginalian.org/2026/06/28/thich-nhat-hanh-fragrant-palm-leaves/",
+      "description": "\"To live, we must die every instant. We must perish again and again in the storms that make life possible.\"",
+      "date": "Sun, 28 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "Kafka’s Approach to Creative Block and the Four Psychological Hindrances That Keep the Gifted from Living Up to Their Gifts",
       "url": "https://www.themarginalian.org/2026/06/26/kafka-diaries-self-doubt/",
       "description": "The most paradoxical thing about creative work is that it is both a way in and a way out, that it plunges you into the depths of your being and at the same time takes you out of yourself. Writing is the best instrument I have for metabolizing my experience and clarifying my own mind in such a way that I am no longer captive to it. All creative work is at bottom a means of self-liberation and a coping mechanism — for the loneliness, the despair, the chaos and contradiction within. It is the best ",
@@ -80,22 +96,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "What Happens When We Die",
-      "url": "https://www.themarginalian.org/2026/06/20/alan-lightman-death/",
-      "description": "\"How can a creature who will certainly die have an understanding of things that will exist forever?\"",
-      "date": "Sat, 20 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Legendary Artist Sheila Hicks, at 92, on the Secret to Creative Vitality",
+      "url": "https://www.themarginalian.org/2026/06/27/sheila-hicks/",
+      "description": "Art, Georgia O’Keeffe believed, springs from “the desire to make the unknown known… and keeping the unknown always beyond you.” We seem to have drifted lightyears away from that motive force, the majority of our epoch’s cultural production aiming to render the market maximally known — its profitably proven preferences, its self-interests, its moral fashions — in order to cater the creation to it, to virtue-signal enough to go viral. In every era, there are those who do what they do from a place ",
+      "date": "Sat, 27 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
       "title": "Diatoms and the Meaning of Life",
       "url": "https://www.themarginalian.org/2026/06/24/diatom-atlas-adolf-schmidt/",
       "description": "In 1703, the world’s most esteemed scientific journal published a surprising letter from an anonymous correspondent. (At the time, until well into the twentieth century, anonymity often meant the scientist writing was a woman, though the word “scientist” itself was more than a century away, to be coined for a woman.) The letter reported an astonishing discovery in the roots of pond plants placed under a microscope, still a relative novelty: Adhering to the delicate aquatic stalks were “many pret",
@@ -128,22 +144,6 @@
         "phil": 5,
         "flaneur": 4,
         "novelty": 5,
-        "total": 14
-      }
-    },
-    {
-      "title": "The Man Who Thought with His Heart: George Forster and the Birth of Sensitive Science",
-      "url": "https://www.themarginalian.org/2026/06/20/george-forster-andrea-wulf/",
-      "description": "Every mind, even the greatest, is a product of its time and place. The true visionaries are those unwilling to mistake the figments of their culture for facts; those daring enough to look at the world not through the microscope that magnifies the concerns of the present, not through the telescope that squints at the distant reaches of the future, but through a periscope that rises above the surface of the mainstream to see past the horizon of the era’s givens, into the possibilities of times to ",
-      "date": "Sat, 20 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
         "total": 14
       }
     },

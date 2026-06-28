@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-06-27T17:33:36.978749+00:00",
+  "fetchedAt": "2026-06-28T18:16:49.832840+00:00",
   "items": [
     {
       "title": "L'entraide, facteur de l'évolution",
@@ -49,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
+      }
+    },
+    {
+      "title": "Le sens de l’histoire",
+      "url": "https://www.youtube.com/shorts/aAor3IhMua4",
+      "description": "Au XIXe siècle, le philosophe allemand Hegel développe une idée aussi ambitieuse que troublante : l’histoire humaine ne serait pas une simple suite d’événements hasardeux, mais le long chemin du progrès de la liberté. Dans cette vidéo, je vous explique pourquoi, selon lui, les crises, les reculs et le chaos apparent de l’histoire peuvent parfois être compris comme les détours nécessaires par lesquels la liberté finit par avancer.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie ",
+      "date": "2026-06-28",
+      "thumbnail": "https://i2.ytimg.com/vi/aAor3IhMua4/hqdefault.jpg",
+      "videoId": "aAor3IhMua4",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -122,22 +138,6 @@
       "date": "2026-06-12",
       "thumbnail": "https://i3.ytimg.com/vi/vCxyLq1-hy0/hqdefault.jpg",
       "videoId": "vCxyLq1-hy0",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "HUME - L'appel à la nature",
-      "url": "https://www.youtube.com/watch?v=sAmpsfWIt4s",
-      "description": "POUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOURQUOI ME REJOINDRE",
-      "date": "2026-05-29",
-      "thumbnail": "https://i4.ytimg.com/vi/sAmpsfWIt4s/hqdefault.jpg",
-      "videoId": "sAmpsfWIt4s",
       "priority": 25,
       "scoreDetail": {
         "daily": 15,

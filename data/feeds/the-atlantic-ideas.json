@@ -1,8 +1,40 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-27T17:33:57.983195+00:00",
+  "fetchedAt": "2026-06-28T18:18:23.906436+00:00",
   "items": [
+    {
+      "title": "The Overlooked Reason Europe Doesn’t Have AC",
+      "url": "https://www.theatlantic.com/ideas/2026/06/europe-heat-wave-air-conditioning/687729/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "Instagram Plus Is a New Low",
+      "url": "https://www.theatlantic.com/ideas/2026/06/instagram-story-meta-dating-social-media/687721/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "William Barr’s Dangerous Endorsement of Todd Blanche",
       "url": "https://www.theatlantic.com/ideas/2026/06/trump-justice-department-barr-blanche-endorsement/687722/?utm_source=feed",
@@ -52,38 +84,6 @@
       }
     },
     {
-      "title": "War and Consequences",
-      "url": "https://www.theatlantic.com/ideas/2026/06/iran-war-consequences/687669/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "SpaceX Just Needs the Money",
-      "url": "https://www.theatlantic.com/ideas/2026/06/spacex-ipo-tech-companies/687659/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-23",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Trump Is Making the 250th Small",
       "url": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/?utm_source=feed",
       "description": "",
@@ -97,6 +97,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "The Democracies Can Still Triumph",
+      "url": "https://www.theatlantic.com/ideas/2026/06/democracy-history-autocracies-dictatorships/687720/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The People Who Will Thrive in the AI Age",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -198,38 +230,6 @@
     {
       "title": "Don’t Overestimate the Pink Tide",
       "url": "https://www.theatlantic.com/ideas/2026/06/leftist-socialist-new-york-democratic-primary-results/687681/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Reflecting Pool Water’s Fine",
-      "url": "https://www.theatlantic.com/ideas/2026/06/reflecting-pool-green-algae-trump/687672/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Burnham Is Britain’s Last Chance Before Farage",
-      "url": "https://www.theatlantic.com/ideas/2026/06/burnham-uk-reform-manchesterism/687674/?utm_source=feed",
       "description": "",
       "date": "2026-06-24",
       "thumbnail": "",

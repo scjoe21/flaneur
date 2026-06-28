@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-06-27T17:33:40.301355+00:00",
+  "fetchedAt": "2026-06-28T18:16:53.230870+00:00",
   "items": [
     {
       "title": "Warum wir immer wütender werden I NANO",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 30
+      }
+    },
+    {
+      "title": "Warum Übergewicht Krebs begünstigt",
+      "url": "https://www.youtube.com/shorts/v1C4zZZdlp8",
+      "description": "Wie zentral vor allem Sport ist, um sich vor Krebs zu schützen, erfahrt ihr in unserer neuen Doku 👉 https://youtu.be/-4_1GdXnuXQ\n#shorts #krebsprävention #sport",
+      "date": "2026-06-28",
+      "thumbnail": "https://i3.ytimg.com/vi/v1C4zZZdlp8/hqdefault.jpg",
+      "videoId": "v1C4zZZdlp8",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -192,22 +208,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Durchbruch von EU-App zur Altersprüfung? #shorts #eu #altersprüfung #nano",
-      "url": "https://www.youtube.com/shorts/pG2qMqdAIT8",
-      "description": "Die neue EU-App zur Altersprüfung soll kommen. Ob die wirklich was taugt? Das haben wir von Experten einschätzen lassen. Der ganze Film hier 👉 https://youtu.be/ZP-H83BuI7g",
-      "date": "2026-06-05",
-      "thumbnail": "https://i1.ytimg.com/vi/pG2qMqdAIT8/hqdefault.jpg",
-      "videoId": "pG2qMqdAIT8",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 5
       }
     },
