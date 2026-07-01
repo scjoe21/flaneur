@@ -1,8 +1,140 @@
 {
-  "generatedAt": null,
-  "season": null,
-  "hint": null,
-  "themes": [],
-  "note": "매년 1월 1일과 7월 1일에 GitHub Actions가 자동으로 갱신합니다.",
-  "sources": []
+  "generatedAt": "2026-07-01T03:29:54.166773+00:00",
+  "season": "여름·휴가",
+  "hint": "7월은 속도·노동·휴식에 관한 에세이가 시의성을 갖습니다.",
+  "themes": [
+    "느림과 여유",
+    "여행과 낯섦",
+    "일상 탈출의 의미",
+    "자연과 몸",
+    "피로사회",
+    "축제와 공동체",
+    "무위(無爲)의 철학"
+  ],
+  "note": "이 목록은 에세이 작성의 참고용 소스 제안입니다. 에세이는 운영자가 직접 작성합니다. 다음 갱신은 내년 1월입니다.",
+  "sources": [
+    {
+      "source": {
+        "id": "aeon",
+        "name": "Aeon Essays",
+        "url": "https://aeon.co",
+        "lang": "en",
+        "note": "일상·과학·철학 교차 장편 에세이. 플라뇌르 정체성과 가장 잘 맞는 소스."
+      },
+      "items": [
+        {
+          "title": "Reset: Hat",
+          "url": "https://aeon.co/videos/in-the-american-west-a-man-named-hat-sets-out-to-leave-no-trace",
+          "description": "This portrait of a life reimagined is a meditation on identity, happiness and the balance between freedom and conformity - by Aeon Video Watch on Aeon",
+          "date": "Thu, 25 Jun 2026"
+        },
+        {
+          "title": "Timelapse of the Universe",
+          "url": "https://aeon.co/videos/the-13-billion-years-that-led-to-us-a-cosmological-timelapse",
+          "description": "When 13 billion years of the cosmos get condensed into 10 epic minutes, when in the timelapse do you think humans appear? - by Aeon Video Watch on Aeon",
+          "date": "Mon, 29 Jun 2026"
+        },
+        {
+          "title": "The measure of flourishing",
+          "url": "https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature",
+          "description": "Human prosperity depends on nature, but no global metric has captured this with precision. Enter the Nature Relationship Index - by Yadvinder Malhi Read on Aeon",
+          "date": "Mon, 29 Jun 2026"
+        },
+        {
+          "title": "The violence specialists",
+          "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
+          "description": "Every society depends on violence workers, but what makes young men take a job that risks their lives and harms others? - by Raúl Zepeda Gil Read on Aeon",
+          "date": "Fri, 26 Jun 2026"
+        },
+        {
+          "title": "Neanderthal 1",
+          "url": "https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species",
+          "description": "The 16 bones that would rewrite history – on the site in Germany where we began to understand Neanderthals, and ourselves - by Aeon Video Watch on Aeon",
+          "date": "Thu, 18 Jun 2026"
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "psyche",
+        "name": "Psyche (Aeon 자매지)",
+        "url": "https://psyche.co",
+        "lang": "en",
+        "note": "심리·철학·삶의 방식. '어떻게 살 것인가' 질문에 집중."
+      },
+      "items": [
+        {
+          "title": "Pierre Bourdieu: habitus",
+          "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
+          "description": "How free are we really, if human behaviour embodies the complex, intertwined webs of society and history? - Video by Then & Now Watch on Psyche",
+          "date": "Fri, 26 Jun 2026"
+        },
+        {
+          "title": "How to deal with relationship OCD",
+          "url": "https://psyche.co/guides/how-to-deal-with-relationship-ocd",
+          "description": "Repetitive thought spirals about a partner could be a sign of ROCD. But there are ways to reclaim your peace and intimacy - by Marisa T Mazza Read on Psyche",
+          "date": "Wed, 24 Jun 2026"
+        },
+        {
+          "title": "Why you should talk to your dead ancestors",
+          "url": "https://psyche.co/ideas/why-you-should-talk-to-your-dead-ancestors",
+          "description": "The simple act of communicating without expecting anything in return can bring you closer to your family – and to yourself - by Mariam Vahradyan Read on Psyche",
+          "date": "Tue, 30 Jun 2026"
+        },
+        {
+          "title": "What moments of insight have in common",
+          "url": "https://psyche.co/notes-to-self/what-does-it-really-mean-to-have-a-moment-of-insight",
+          "description": "From art to science to love, the moment of insight happens when we see a likeness between different things - by Sam Dresser Read on Psyche",
+          "date": "Thu, 25 Jun 2026"
+        },
+        {
+          "title": "The city that rewired my brain",
+          "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
+          "description": "I arrived in New Orleans feeling fractured and dislocated. Then I started haunting the jazz clubs - by Henrick Karoliszyn Read on Psyche",
+          "date": "Fri, 19 Jun 2026"
+        }
+      ]
+    },
+    {
+      "source": {
+        "id": "philosophy-bites",
+        "name": "Philosophy Bites",
+        "url": "https://philosophybites.com",
+        "lang": "en",
+        "note": "철학자 인터뷰 팟캐스트. 짧고 밀도 있는 개념 해설."
+      },
+      "items": [
+        {
+          "title": "Monima Chadha on Responsibility Without Selves",
+          "url": "https://philosophybites.libsyn.com/monima-chadha-on-responsibility-without-selves",
+          "description": "Buddhist philosophy rejects the idea of the self. How then can there be any moral responsibility? Monima Chadha, Professor of Indian Philosophy at Oxford University, explains.    This episode was supported by the Ideas Workshop, part of the Open Society Foundations",
+          "date": "Mon, 18 May 2026"
+        },
+        {
+          "title": "Janet Radcliffe Richards on What is Philosophy?",
+          "url": "https://philosophybites.libsyn.com/janet-radcliffe-richards-on-what-is-philosophy",
+          "description": "Philosophers argue endlessly about what philosophy is. Janet Radcliffe Richards suggests that a simple way to approach this question is to examine what we think about inconsistencies.  She uses an example from medical ethics, the question of whether selling of organs should be permitted, to make her point.",
+          "date": "Sat, 24 Jan 2026"
+        },
+        {
+          "title": "Carissa Veliz on Prophecy",
+          "url": "https://philosophybites.libsyn.com/carissa-veliz-on-prophecy",
+          "description": "Predictions aren't quite what they seem to be, according to Carissa Véliz, author of the book Prophecy. They often are intended to persuade you of the inevitability of a certain outcome, and may be self-fulfilling to some degree. Yet they look like simple factual claims about what is likely to happen. We need to be far more aware of the role of prediction in our everyday lives, according to Véliz.",
+          "date": "Mon, 11 May 2026"
+        },
+        {
+          "title": "Alexander Guerrero on Lottocracy",
+          "url": "https://philosophybites.libsyn.com/alexander-guerrero-on-lottocracy",
+          "description": "Democracy isn't working so well, so why not use a lottery system to choose representatives instead? Alexander Guerrero discusses his version of this old idea in this episode of the Philosophy Bites podcast.",
+          "date": "Tue, 24 Mar 2026"
+        },
+        {
+          "title": "Tarun Khaitan on Decolonising Institutions",
+          "url": "https://philosophybites.libsyn.com/tarun-khaitan-on-decolonising-institutions",
+          "description": "Narendra Modi has spoken of \"decolonising\" India including its post-colonial constitution Are philosophical criticisms of this constitution well-founded? Tarun Khaitan of the London School of Economics discusses.   This episode of the Philosophy Bites podcast was supported by the Ideas Workshop, part of the Open Society Foundations.",
+          "date": "Thu, 26 Feb 2026"
+        }
+      ]
+    }
+  ]
 }
