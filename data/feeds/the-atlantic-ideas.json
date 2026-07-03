@@ -1,8 +1,40 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-06-28T18:18:23.906436+00:00",
+  "fetchedAt": "2026-07-03T06:58:55.412814+00:00",
   "items": [
+    {
+      "title": "Pete Buttigieg’s Ordeal Is a Frightening New Form of Political Harassment",
+      "url": "https://www.theatlantic.com/ideas/2026/07/buttigieg-cps-michigan-harassment/687776/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-02",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "What Would Mark Twain Think of America at 250?",
+      "url": "https://www.theatlantic.com/ideas/2026/07/mark-twain-america-anniversary-critique/687718/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-02",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "The Overlooked Reason Europe Doesn’t Have AC",
       "url": "https://www.theatlantic.com/ideas/2026/06/europe-heat-wave-air-conditioning/687729/?utm_source=feed",
@@ -36,67 +68,163 @@
       }
     },
     {
-      "title": "William Barr’s Dangerous Endorsement of Todd Blanche",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-justice-department-barr-blanche-endorsement/687722/?utm_source=feed",
+      "title": "The <em>Other</em> Case for Birthright Citizenship",
+      "url": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-policy-defense/687791/?utm_source=feed",
       "description": "",
-      "date": "2026-06-26",
+      "date": "2026-07-02",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Supreme Court’s Era of Meaningless Rights",
-      "url": "https://www.theatlantic.com/ideas/2026/06/supreme-court-decisions-unenforceable-rights/687713/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-26",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "AI Can’t Fix the Student-Motivation Problem",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-tutor-education-human-investment/687678/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Trump Is Making the 250th Small",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-250-usa-speech/687682/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "The Supreme Court’s Utterly Mainstream Ruling on Women’s Sports",
+      "url": "https://www.theatlantic.com/ideas/2026/07/supreme-court-trans-student-athletes-womens-sports/687767/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "There’s Nothing Democratic About These Socialists",
+      "url": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Young Republican Activists Are Turning Against Trump",
+      "url": "https://www.theatlantic.com/ideas/2026/07/young-republicans-trump-iran/687746/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump’s Anti-Patriotic Trap",
+      "url": "https://www.theatlantic.com/ideas/2026/07/america-250-july-4-idea/687749/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "An ‘Originalist’ Court Overturns an Originalist Decision",
+      "url": "https://www.theatlantic.com/ideas/2026/06/scotus-humphreys-originalism/687744/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ukraine’s Plan to Unnerve Putin",
+      "url": "https://www.theatlantic.com/ideas/2026/06/moscow-ukraine-drone-attacks/687745/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Ultimate Triumph of the Unitary Executive",
+      "url": "https://www.theatlantic.com/ideas/2026/06/ultimate-triumph-unitary-executive/687741/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "A False Pretense of Judicial Modesty",
+      "url": "https://www.theatlantic.com/ideas/2026/06/supreme-court-precedent/687739/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Man Who Saw AI Coming",
+      "url": "https://www.theatlantic.com/ideas/2026/06/erik-brynjolfsson-the-man-who-saw-ai-coming/687561/?utm_source=feed",
+      "description": "",
+      "date": "2026-06-29",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -104,134 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/06/democracy-history-autocracies-dictatorships/687720/?utm_source=feed",
       "description": "",
       "date": "2026-06-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The People Who Will Thrive in the AI Age",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ai-open-ai-anthropic/687689/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "France Is Too Hot for Shutters and Ceiling Fans",
-      "url": "https://www.theatlantic.com/ideas/2026/06/france-air-conditioning-failure/687723/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Court That Will Believe Absolutely Anything Is ‘Race-Neutral’",
-      "url": "https://www.theatlantic.com/ideas/2026/06/scotus-asylum-racial-discrimination/687710/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Higher Ed Is Very Sorry",
-      "url": "https://www.theatlantic.com/ideas/2026/06/higher-education-universities-public-trust/687714/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Alan Greenspan Was ‘Not Quite God’",
-      "url": "https://www.theatlantic.com/ideas/2026/06/alan-greenspan-fed-independence/687687/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The 10,000-Year Flood",
-      "url": "https://www.theatlantic.com/ideas/2026/06/texas-guadalupe-floods-rv-park-deaths/687617/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Whiplash of Trump’s Iran Capitulation",
-      "url": "https://www.theatlantic.com/ideas/2026/06/trump-iran-foreign-policy/687683/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Don’t Overestimate the Pink Tide",
-      "url": "https://www.theatlantic.com/ideas/2026/06/leftist-socialist-new-york-democratic-primary-results/687681/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

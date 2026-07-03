@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-06-28T18:16:56.049288+00:00",
+  "fetchedAt": "2026-07-03T06:57:07.037974+00:00",
   "items": [
     {
       "title": "Schulstreik gegen Wehrpflicht: Warum die Jugend das liberale Staatsverständnis nicht teilt",
@@ -20,19 +20,51 @@
       }
     },
     {
-      "title": "Nils Weinberg: „Es gibt keine neutrale staatliche Förderpolitik“",
-      "url": "https://www.philomag.de/artikel/nils-weinberg-es-gibt-keine-neutrale-staatliche-foerderpolitik",
-      "description": "Kunst in Deutschland darf juristisch gesehen viel – sogar rassistisch oder antisemitisch sein. Doch wie ist damit umzugehen und welche Fallstricke bringt selektive staatliche Förderung mit sich? Ein Gespräch mit Christoph Möllers und Nils Weinberg über das Recht auf Kunstfreiheit, dessen Ursprünge, Grenzen und Bedeutsamkeit.",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Befeuert der Klimawandel den Autoritarismus?",
+      "url": "https://www.philomag.de/artikel/befeuert-der-klimawandel-den-autoritarismus",
+      "description": "Der Journalist Turi Munthe stellt in seinem neuen Buch  Why We Think What We Think  die These auf, dass es eine Verbindung zwischen Umwelteinflüssen und politischen Überzeugungen gibt. Bloßer Geodeterminismus? Oder erhellende Theorie?",
+      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 35,
+        "daily": 25,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
+        "total": 30
+      }
+    },
+    {
+      "title": "Wie viel Ungleichheit verträgt die Demokratie?",
+      "url": "https://www.philomag.de/artikel/wie-viel-ungleichheit-vertraegt-die-demokratie",
+      "description": "Liberale Demokratie und marktorientierte kapitalistische Wirtschaftsweise gehören für viele zweifelsfrei zusammen. Ebenso unbestritten ist jedoch das hohe Niveau an Ungleichheit in kapitalistischen Gesellschaften und die damit verbundenen Gefahren für die Demokratie. Schafft diese sich selbst ab? Von Saade Ajami",
+      "date": "Wed, 01 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "Seyla Benhabib: „Habermas verteidigt das Erbe der Aufklärung“",
+      "url": "https://www.philomag.de/artikel/seyla-benhabib-habermas-verteidigt-das-erbe-der-aufklaerung",
+      "description": "Mit der  Theorie des kommunikativen Handelns  legt Habermas eine umfassende Gesellschaftstheorie vor. Im Gespräch erläutert Seyla Benhabib, warum Habermas die Sprache ins Zentrum stellt und damit die Kritische Theorie erweitert – und wo sein Ansatz ergänzt werden müsste.",
+      "date": "Mon, 29 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -68,67 +100,19 @@
       }
     },
     {
-      "title": "Korrekt widersprüchlich denken",
-      "url": "https://www.philomag.de/artikel/korrekt-widerspruechlich-denken",
-      "description": "In der klassischen Logik werden Widersprüche nicht zugelassen. Aber wir leben immerhin in einer Welt, in der uns Widersprüchliches immer wieder begegnet. Lohnt es da nicht, das logisch abbilden zu können? Wie sähe das aus? Ein Einblick in die Parakonsistenz von Nico Graack.",
-      "date": "Fri, 19 Jun 2026",
+      "title": "Brick",
+      "url": "https://www.philomag.de/artikel/brick",
+      "description": "Mit einem neuen Tool soll man bestimmte Apps auf seinem Handy sperren können, um dessen exzessiver Nutzung Einhalt zu gebieten. Was sagt das über uns aus?",
+      "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Hauke Brunkhorst: „Sein Ziel war eine nicht vermachtete Meinungsbildung“",
-      "url": "https://www.philomag.de/artikel/hauke-brunkhorst-sein-ziel-war-eine-nicht-vermachtete-meinungsbildung",
-      "description": "Der  Strukturwandel der Öffentlichkeit  ist Habermas’ meistverkauftes Buch. Warum schlug es derart ein? Ein Gespräch mit dem Soziologen Hauke Brunkhorst über blockierte Vernunft, versteckten Marxismus und revoltierende Studenten.",
-      "date": "Wed, 17 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Ein Denker am Puls der Zeit",
-      "url": "https://www.philomag.de/artikel/ein-denker-am-puls-der-zeit",
-      "description": "Jürgen Habermas galt als  der  Philosoph der Bundesrepublik. Sein Biograf Stefan Müller-Doohm blickt zurück auf die wichtigsten Schriften, Stationen und Interventionen. Er zeichnet das Bild eines Mannes, dessen Werk eng mit den Abgründen und Hoffnungen der Nachkriegsgesellschaft verbunden ist.",
-      "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Der Positivismusstreit",
-      "url": "https://www.philomag.de/artikel/der-positivismusstreit",
-      "description": "In den 1960er-Jahren entzündet sich im deutschsprachigen Raum eine Grundsatzdebatte über Methodologie, Werturteile und das Selbstverständnis der Sozialwissenschaften. Zwei der prägendsten Denkschulen ihrer Zeit treffen aufeinander: der Kritische Rationalismus und die Kritische Theorie der Frankfurter Schule. Ein Überblick von Jannis Puhlmann",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
+        "total": 10
       }
     },
     {
@@ -145,6 +129,54 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Dan Diner: „Habermas winkte wütend und zeigte an, dass es einen Skandal gebe“",
+      "url": "https://www.philomag.de/artikel/dan-diner-habermas-winkte-wuetend-und-zeigte-dass-es-einen-skandal-gebe",
+      "description": "Mit Ernst Noltes Deutung, der Holocaust sei primär eine Reaktion auf sowjetische Verbrechen, begann der Historikerstreit. Für Habermas war diese Sicht revisionistisch. Im Gespräch erläutert der Historiker Dan Diner die Frontlinien des Streits und die Präzedenzlosigkeit der Schoah.",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Pariser Begegnungen",
+      "url": "https://www.philomag.de/artikel/pariser-begegnungen",
+      "description": "Während Habermas am Versprechen der Moderne festhält, misstrauen die führenden französischen Philosophen der Nachkriegszeit den Ansprüchen auf Vernunft und Verständigung. Eine unüberbrückbare Differenz? Über Habermas’ Rezeption in Frankreich.",
+      "date": "Wed, 01 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Hitzekatastrophe: Der Wahn der Life Hacks",
+      "url": "https://www.philomag.de/artikel/hitzekatastrophe-der-wahn-der-life-hacks",
+      "description": "Auf die jüngste Hitzewelle wurde von politischer Seite statt mit Schutzmaßnahmen und deren Ausbau vor allem mit Tipps und Tricks reagiert. Das ist nicht nur zynisch, sondern zeugt davon, dass der Umgang mit der Klimakatastrophe in den letzten Jahren von der Verdrängung in die Verwerfung gekippt ist, meint Nico Graack.",
+      "date": "Tue, 30 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.de/artikel/mit-leeren-haenden",
       "description": "Ratlosigkeit gilt als Makel. Dabei wäre sie, richtig verstanden, die klügste Haltung, die wir einnehmen können.",
       "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ein Reformer in Frankfurt",
-      "url": "https://www.philomag.de/artikel/ein-reformer-frankfurt",
-      "description": "Als wichtigster Vertreter der Frankfurter Schule wurde Habermas oft bezeichnet. Blickt man zurück auf seine Anfänge in Frankfurt, die Studentenproteste und das Verhältnis zu Horkheimer und Adorno, zeigt sich eine komplexere Geschichte. Über Auftakt, Abkühlung und Erneuerung einer intellektuellen Beziehung.",
-      "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Linksautoritäre Irrungen",
-      "url": "https://www.philomag.de/artikel/linksautoritaere-irrungen",
-      "description": "Was sind die Gründe für den erstarkenden Autoritarismus in Teilen der Linken? Woher kommt der zunehmende Judenhass in einem politischen Milieu, das sich selbst als reflektiert und als progressiv vermeint? Und ist die aktuelle Radikalisierung mit dem Linksterrorismus von früher vergleichbar? Nicholas Potter im Gespräch mit Christoph David Piorkowski über den Abweg weiter Teile der zeitgenössischen Linken.",
-      "date": "Thu, 18 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

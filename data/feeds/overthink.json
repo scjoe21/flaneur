@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-06-28T18:18:20.202700+00:00",
+  "fetchedAt": "2026-07-03T06:58:49.867754+00:00",
   "items": [
     {
       "title": "Climate Action with Kyle Whyte",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 44
+      }
+    },
+    {
+      "title": "Beauty with Heather Widdows",
+      "url": "",
+      "description": "Beauty is big business, and the rise of looksmaxxing and increasingly invasive treatments is raising the alarm on the ways that our looks matter in our personal and social lives. Ellie and David speak with philosopher Heather Widdows about how the emphasis on beauty in the present day constitutes a real shift from previous eras. Beauty is no longer taken as a sign   of moral goodness, but itself has become a moral ideal. This applies worldwide. The “beauty ideal” is seeping into practically ever",
+      "date": "Tue, 30 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -200,22 +216,6 @@
       "url": "",
       "description": "Mansplainers, know-it-alls, and Grammar Nazis. In episode 166 of Overthink, Ellie and David think about the figure of the pedant with philosopher Arnoud S. Q. Visser about his book,  On Pedantry: A Cultural History of the Know-it-All . They discuss the history of the pedant, how the charge of pedantry can promote anti-intellectualism, and the inherently gendered nature of the pedant. Why are pedants usually men? Who were considered pedants in antiquity, and how does pedantry show up nowadays? Wh",
       "date": "Tue, 24 Mar 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Personality",
-      "url": "",
-      "description": "Can Buzzfeed quizzes, Myers-Briggs Types, and Enneagrams tell us anything valid about who we are? In episode 163 of Overthink, Ellie and David discuss personality. They talk through the Big Five personality test and its legitimacy, the history of the Myers-Briggs Type Indicator test (MBTI), and how the concept of personality emerged out of abnormal psychology. Why did the concept of personality replace using literature to understand the self? How does the concept of personality presuppose a fixe",
-      "date": "Tue, 03 Mar 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,

@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-06-28T18:16:51.874827+00:00",
+  "fetchedAt": "2026-07-03T06:57:02.281054+00:00",
   "items": [
     {
       "title": "Comment faire classe quand le thermomètre s’affole ?",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Et si les lieux étaient les meilleurs témoins des transformations de notre époque ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-les-lieux-etaient-les-meilleurs-temoins-des-transformations-de-notre-epoque",
+      "description": "TRIBUNE // À l’heure où les images générées brouillent la frontière entre réel et fiction, une évidence résiste : celle des lieux. Et si, plutôt que les écrans, c’étaient eux qui racontaient le plus justement les mutations de notre époque ? C'est la question autour de laquelle ont échangé Lucile Soussan, artiste plasticienne de la galerie Dilecta, Ivan Descamps alias Diskay, compositeur et producteur de musique électronique, et Bernard Werber, écrivain de science-fiction et romancier, lors d'une",
+      "date": "Mon, 29 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "5 croyances qui freinent l’innovation au service du handicap en entreprise",
       "url": "https://usbeketrica.com/fr/article/5-croyances-qui-freinent-l-innovation-au-service-du-handicap-en-entreprise",
       "description": "Longtemps, le handicap au travail a été pensé comme une obligation légale, voire… un centre de coût. Et si la différence – et l’innovation déployée pour intégrer au mieux toutes et tous en entreprise, permettait de transformer pour le mieux les modes d’organisation ? Avec le sociologue Norbert Alter, auteur de L’innovation ordinaire (Puf, 2013) et de La Force de la différence (Puf, 2018), nous revenons sur cinq préjugés tenaces à propos d’innovation et de handicap en entreprise.",
@@ -68,7 +84,7 @@
       }
     },
     {
-      "title": "Parier sur nos likes et nos opinions : la nouvelle lubie des plateformes prédictives",
+      "title": "Parier sur nos likes et nos opinions : la nouvelle lubie de Polymarket",
       "url": "https://usbeketrica.com/fr/article/polymarket-parier-sur-nos-likes-et-nos-opinions-futurs-la-nouvelle-lubie-des-plateformes-predictives",
       "description": "On connaissait jusqu’ici la plateforme Polymarket pour ses offres de paris tous azimuts, des compétitions sportives aux élections en passant par les conflits géopolitiques. Voilà désormais qu’elle projette d’offrir à ses utilisateurs la possibilité de parier sur l’« attention » numérique que ces événements suscitent : volume de tweets, nombres de vues et fluctuations de l’opinion. Au risque de la manipulation ? Enquête.",
       "date": "Tue, 23 Jun 2026",
@@ -84,7 +100,7 @@
       }
     },
     {
-      "title": "L’IA va-t-elle tuer Spotify ?",
+      "title": "Prophétie - L’IA va-t-elle tuer Spotify ?",
       "url": "https://usbeketrica.com/fr/article/l-ia-va-t-elle-tuer-spotify",
       "description": "Saturé de titres et fragilisé par l’IA, le streaming est à bout de souffle. Au point que certains pontes de l’industrie musicale pensent que nos modes de consommation du son pourraient basculer dans les prochaines années. Petit tour d’horizon du futur de l’écoute musicale, à l'occasion de la fête de la musique, qui se tient ce dimanche 21 juin.",
       "date": "Sun, 21 Jun 2026",
@@ -100,19 +116,35 @@
       }
     },
     {
-      "title": "IA : oui on peut réguler, oui on peut interdire",
-      "url": "https://usbeketrica.com/fr/article/ce-que-l-affaire-anthropic-revele-du-desordre-reglementaire-de-l-ia",
-      "description": "TRIBUNE // L’affaire Anthropic, à la suite de l’intervention brutale de l’administration Trump, révèle un angle mort majeur : les modèles d’IA sont mis sur le marché sans cadre de validation sérieux, alors qu’ils devraient relever d’une régulation comparable à celle des produits à risque. Pour Dominique Boullier, sociologue spécialiste du numérique et grand témoin du dossier de notre dernier numéro sur Internet, elle révèle surtout qu'il est temps d’imposer des contrôles indépendants, des audits",
-      "date": "Tue, 16 Jun 2026",
+      "title": "« Solopreneurs » : en Chine, l'IA fait exploser le micro-entrepreneuriat",
+      "url": "https://usbeketrica.com/fr/article/solopreneurs-en-chine-l-ia-fait-exploser-le-micro-entrepreneuriat",
+      "description": "L'auto-entrepreneuriat a la côte en Chine. Secondés par moultes outils d'intelligence artificielle, des « solopreneurs » lancent leur propre entreprise à moindre frais et sans aucun employé. Une tendance qui cache une crainte, désormais massive, de devenir osbolète face à l'automatisation du travail.",
+      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
+      }
+    },
+    {
+      "title": "Le bruit rose, bénéfique ou nocif pour le sommeil des bébés ?",
+      "url": "https://usbeketrica.com/fr/article/le-bruit-rose-benefique-ou-nocif-pour-le-sommeil-des-bebes",
+      "description": "Le « bruit rose », ce son doux utilisé notamment pour tester le matériel audio, aiderait les enfants à mieux dormir, d’après un laboratoire japonais spécialisé. De quoi soulager les parents épuisés. Mais des chercheurs de l’université de Pennsylvanie mettent en garde contre les effets indésirables de ce « bruit rose » sur la qualité du sommeil.",
+      "date": "Mon, 29 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -180,25 +212,9 @@
       }
     },
     {
-      "title": "On a vu « Jim Queen », la comédie gay la plus délirante de l’année",
-      "url": "https://usbeketrica.com/fr/article/on-a-vu-jim-queen-la-comedie-gay-la-plus-delirante-de-l-annee",
-      "description": "Jim, icône sexy de la scène gay parisienne, voit sa vie basculer lorsqu’il contracte l’Hétérose, un étrange virus qui transforme les hommes gays… en hétérosexuels. Pour empêcher l’extinction de l’homosexualité, il s’allie alors avec Lucien, un jeune homme qui peine à s’assumer. Hilarant et explosif.",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
       "title": "Les drogues ont-elles toujours été consommées pour le plaisir ?",
       "url": "https://usbeketrica.com/fr/article/les-drogues-ont-elles-toujours-ete-consommees-pour-le-plaisir",
-      "description": "Alors que l'ONU célèbre ce vendredi 26 juin la « Journée mondiale contre la drogue », les psychotropes restent, dans nos imaginaires comme dans nos pratiques, largement associés à un usage récréatif. D'où notre incapacité à nous en passer ? Retour sur l’histoire longue de ce phénomène, qui rend l’hypothèse d’une éradication totale peu vraisemblable.",
+      "description": "Si les drogues les plus populaires du XXIème siècle doivent une partie de leur succès à la fête, d’autres usages, spirituels notamment, coexistent depuis longtemps avec elle. Dans le cadre de la sortie du nouveau numéro de notre magazine FUTUR, consacré au fun et à l'amusement, retour sur l’histoire longue de ce phénomène.",
       "date": "Fri, 26 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/le-recyclage-n-est-pas-une-solution-miracle-il-faut-organiser-la-decroissance-materielle",
       "description": "TRIBUNE // Présenté comme une solution clé à la crise écologique, le recyclage - y compris celui des métaux - ne peut suivre l’explosion de la demande. En amont du Tribunal pour les Générations Futures qui se tiendra le 18 juin 2026 au théâtre de la Commune à Aubervilliers et au long duquel étudiants de l’IUT de Saint Denis feront le procès du recyclage, Lola Lilensten, chercheuse CNRS à l'Institut de recherche de chimie Paris, assure que pour réduire réellement notre impact, il nous fait repens",
       "date": "Wed, 17 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le secteur associatif, un modèle menacé par une méfiance grandissante",
-      "url": "https://usbeketrica.com/fr/article/le-secteur-associatif-un-modele-menace-par-une-mefiance-grandissante",
-      "description": "Les associations sont de plus en plus nombreuses à alerter sur leurs manques de moyens. L’une des causes : la méfiance croissante des Français à leur égard. Décryptage du phénomène pour Microdon, l'entreprise qui facilite l'engagement solidaire.",
-      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

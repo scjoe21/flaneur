@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-06-28T18:18:24.578620+00:00",
+  "fetchedAt": "2026-07-03T06:58:56.085005+00:00",
   "items": [
     {
       "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
@@ -20,19 +20,67 @@
       }
     },
     {
-      "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
-      "url": "https://www.themarginalian.org/2026/06/23/yes-to-life-in-spite-of-everything-viktor-frankl/",
-      "description": "\"Everything depends on the individual human being, regardless of how small a number of like-minded people there is... on each person... creatively making the meaning of life a reality in his or her own being.\"",
-      "date": "Tue, 23 Jun 2026",
+      "title": "How Do You Know That You Love Somebody? Philosopher Martha Nussbaum’s Incompleteness Theorem of the Heart’s Truth, from Plato to Proust",
+      "url": "https://www.themarginalian.org/2026/06/30/martha-nussbaum-loves-knowledge/",
+      "description": "\"The alternations between love and its denial, suffering and denial of suffering … constitute the most essential and ubiquitous structural feature of the human heart.\"",
+      "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 30,
         "phil": 5,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 29
+        "total": 35
+      }
+    },
+    {
+      "title": "Hermann Hesse on Solitude, the Value of Hardship, the Courage to Be Yourself, and How to Find Your Destiny",
+      "url": "https://www.themarginalian.org/2026/07/02/hermann-hesse-solitude-suffering-destiny/",
+      "description": "\"Solitude is not chosen, any more than destiny is chosen. Solitude comes to us if we have within us the magic stone that attracts destiny.\"",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Now Yourself: The Elusive Science of What the Present Moment Is Made of and How It Makes You Who You Are",
+      "url": "https://www.themarginalian.org/2026/06/30/jo-marchant-now/",
+      "description": "“Whatever has happened, whatever is going to happen in the world, it is the living moment that contains the sum of the excitement, this moment in which we touch life and all the energy of the past and future,” Muriel Rukeyser wrote in one of the greatest books of all time. “Fearlessness is what love seeks [which] exists only in the complete calm that can no longer be shaken by events expected of the future,” Hannah Arendt wrote in another of them, “hence the only valid tense is the present, the ",
+      "date": "Wed, 01 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Legendary Cellist Pablo Casals, at Age 93, on Creative Vitality and How Working with Love Prolongs Your Life",
+      "url": "https://www.themarginalian.org/2026/06/29/pablo-casals-work-age/",
+      "description": "\"The man who works and is never bored is never old. Work and interest in worthwhile things are the best remedy for age.\"",
+      "date": "Mon, 29 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -68,6 +116,22 @@
       }
     },
     {
+      "title": "How to Be Un-Dead: Anaïs Nin and D.H. Lawrence on the Key to Living Fully",
+      "url": "https://www.themarginalian.org/2026/07/01/anais-nin-d-h-lawrence/",
+      "description": "\"Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death.\"",
+      "date": "Wed, 01 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "How the Great Zen Master and Peace Activist Thich Nhat Hanh Found Himself and Lost His Self in a Library Epiphany",
       "url": "https://www.themarginalian.org/2026/06/28/thich-nhat-hanh-fragrant-palm-leaves/",
       "description": "\"To live, we must die every instant. We must perish again and again in the storms that make life possible.\"",
@@ -100,19 +164,19 @@
       }
     },
     {
-      "title": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
-      "url": "https://www.themarginalian.org/2026/06/21/rockwell-kent-wilderness/",
-      "description": "\"These are the times in life — when nothing happens — but in quietness the soul expands.\"",
-      "date": "Sun, 21 Jun 2026",
+      "title": "The Violinist Who Solved the Ancient Riddle of How the World Holds Together",
+      "url": "https://www.themarginalian.org/2026/07/01/marie-tharp-traversal/",
+      "description": "This essay is adapted from Traversal. She is looking at the staff lines of a strange symphony in blue, her cautious disbelief punctured by a burst of delirious wonderment. Brushes and tubes of paint are scattered about her — paint she has spent years mixing into the perfect shades of blue to color a world’s worth of oceanic depths inside the contours of her enormous maps in the making. But now she is not looking at the blues. She is not looking at the maps. She is looking at the staff lines. Exc",
+      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 18,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 15,
         "phil": 0,
-        "flaneur": 8,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 18
+        "total": 19
       }
     },
     {
@@ -128,22 +192,6 @@
         "phil": 5,
         "flaneur": 4,
         "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "Diatoms and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/06/24/diatom-atlas-adolf-schmidt/",
-      "description": "In 1703, the world’s most esteemed scientific journal published a surprising letter from an anonymous correspondent. (At the time, until well into the twentieth century, anonymity often meant the scientist writing was a woman, though the word “scientist” itself was more than a century away, to be coined for a woman.) The letter reported an astonishing discovery in the roots of pond plants placed under a microscope, still a relative novelty: Adhering to the delicate aquatic stalks were “many pret",
-      "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
         "total": 14
       }
     },
@@ -164,67 +212,19 @@
       }
     },
     {
-      "title": "Epictetus on Love and Loss: The Stoic Strategy for Surviving Heartbreak",
-      "url": "https://www.themarginalian.org/2026/06/24/epictetus-love-loss/",
-      "description": "\"Who is good if he knows not who he is? and who knows what he is, if he forgets that things which have been made are perishable, and that it is not possible for one human being to be with another always?\"",
-      "date": "Wed, 24 Jun 2026",
+      "title": "Tolkien Reads from “The Hobbit” in Rare Archival Audio from His First Encounter with a Tape Recorder",
+      "url": "https://www.themarginalian.org/2026/07/01/tolkien-reads-from-the-hobbit/",
+      "description": "“He was Gollum — as dark as darkness, except for two big round pale eyes.”",
+      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "The Most Important Thing to Remember About Your Mother",
-      "url": "https://www.themarginalian.org/2026/06/23/florida-scott-maxwell-mother/",
-      "description": "\"It is not easy to give closeness and freedom, safety plus danger.\"",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Life Is a Story That Begins in the Middle: Bayo Akomolafe on the Rewilding Power of Obstacles",
-      "url": "https://www.themarginalian.org/2026/06/21/bayo-akomolafe-wilds-obstacles/",
-      "description": "Whenever there is a will, there are two things: a way and an obstacle in the way — that place midway between desire and destination where one’s will collides with the will of the world, with the parameters of permission for imagination we call reality. The triumph of life is turning that collision into a particle collider for possibility, turning the limitation into a creative constraint that challenges more imaginative forms of being into existence, right there in the interruptive middle. Becau",
-      "date": "Sun, 21 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Polyvagal Theory and the Neurobiology of Connection: The Science of Rupture, Repair, and Reciprocity",
-      "url": "https://www.themarginalian.org/2026/06/22/polyvagal-theory/",
-      "description": "\"The mind narrates what the nervous system knows. Story follows state.\"",
-      "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {

@@ -1,8 +1,24 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-06-28T18:16:59.835075+00:00",
+  "fetchedAt": "2026-07-03T06:57:10.759840+00:00",
   "items": [
+    {
+      "title": "Niente è davvero finito (anche se Netflix dice il contrario)",
+      "url": "https://www.iltascabile.com/linguaggi/niente-e-davvero-finito-anche-se-netflix-dice-il-contrario/",
+      "description": "Il caso dell'inesistente “episodio 9” di  Stranger Things  svela il nostro rifiuto contemporaneo per la fine: come il  Conformity gate  e il neoliberismo dello  streaming  hanno trasformato gli spettatori in eretici docetisti. \n L'articolo  Niente è davvero finito (anche se Netflix dice il contrario)  proviene da  Il Tascabile .",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 29
+      }
+    },
     {
       "title": "Il riarmo delle coscienze",
       "url": "https://www.iltascabile.com/societa/riarmo-coscienze/",
@@ -20,19 +36,35 @@
       }
     },
     {
-      "title": "L’illusione di essere svegli",
-      "url": "https://www.iltascabile.com/linguaggi/lillusione-essere-svegli/",
-      "description": "Da Philip K. Dick al libro di Carlo Mazza Galanti, le alterazioni della coscienza come atti di resistenza al realismo capitalista. \n L'articolo  L’illusione di essere svegli  proviene da  Il Tascabile .",
-      "date": "Thu, 18 Jun 2026",
+      "title": "La ricerca della felicità animale",
+      "url": "https://www.iltascabile.com/scienze/ricerca-felicita-animale/",
+      "description": "Il benessere animale non dipende solo dalla salute e dall’assenza di sofferenze, ma anche dalla capacità di offrire agli animali ciò che vogliono. Una riflessione sul concetto di Positive animal welfare. \n L'articolo  La ricerca della felicità animale  proviene da  Il Tascabile .",
+      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "La radicalizzazione dell’Occidente",
+      "url": "https://www.iltascabile.com/societa/radicalizzazione-delloccidente/",
+      "description": "L'informazione al servizio della guerra, tra postverità, propaganda, censura, bias tecnologici e sorveglianza. \n L'articolo  La radicalizzazione dell’Occidente  proviene da  Il Tascabile .",
+      "date": "Tue, 30 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 10
       }
     },
     {
@@ -52,19 +84,19 @@
       }
     },
     {
-      "title": "Nel panopticon digitale lo sguardo ci addestra",
-      "url": "https://www.iltascabile.com/societa/panopticon-digitale-sguardo-addestra/",
-      "description": "Psicologia del controllo sociale nella società della sorveglianza. \n L'articolo  Nel panopticon digitale lo sguardo ci addestra  proviene da  Il Tascabile .",
-      "date": "Tue, 16 Jun 2026",
+      "title": "Il pescaggio abissale della poesia",
+      "url": "https://www.iltascabile.com/letterature/pescaggio-abissale-poesia/",
+      "description": "Dietro le quinte di  Poeta a vent’anni  con Simone Lucciola e Andromalis. Un viaggio a fumetti nella vita di Corazzini tra l’ossessione per la morte, la psichedelia e l’estetica DIY. \n L'articolo  Il pescaggio abissale della poesia  proviene da  Il Tascabile .",
+      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -84,19 +116,19 @@
       }
     },
     {
-      "title": "Il fu doomer boy",
-      "url": "https://www.iltascabile.com/letterature/doomer-boy/",
-      "description": "Inaugura stanotte il secolo del bene  di Vincenzo Montisano è il funerale del maschio bianco etero cis. \n L'articolo  Il fu doomer boy  proviene da  Il Tascabile .",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Curare stanca di Francesco Diodati",
+      "url": "https://www.iltascabile.com/recensioni/curare-stanca-francesco-diodati/",
+      "description": "L'articolo  Curare stanca di Francesco Diodati  proviene da  Il Tascabile .",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/letterature/inventario-infanzia/",
       "description": "Su  Compiti a casa  di Geoff Dyer. \n L'articolo  Inventario dell’infanzia  proviene da  Il Tascabile .",
       "date": "Thu, 25 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "I Novanta di Chuck Klosterman",
-      "url": "https://www.iltascabile.com/recensioni/i-novanta-di-chuck-klosterman/",
-      "description": "L'articolo  I Novanta di Chuck Klosterman  proviene da  Il Tascabile .",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "I nomi che diamo ai virus",
-      "url": "https://www.iltascabile.com/scienze/nomi-diamo-virus/",
-      "description": "Il nuovo focolaio di ebola mostra cosa succede quando si preferisce contenere un virus in un luogo remoto invece che debellarlo. La colpa è anche della nomenclatura, e del retaggio coloniale che porta con sé. \n L'articolo  I nomi che diamo ai virus  proviene da  Il Tascabile .",
-      "date": "Mon, 15 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

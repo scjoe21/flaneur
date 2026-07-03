@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-06-28T18:16:54.194268+00:00",
+  "fetchedAt": "2026-07-03T06:57:05.190844+00:00",
   "items": [
     {
       "title": "Intersektionalität - Wie Rassismus und Sexismus zusammenspielen",
@@ -132,19 +132,19 @@
       }
     },
     {
-      "title": "50 Jahre gleichberechtigtes Namensrecht: Im Namen des Ehemanns?",
-      "url": "https://www.deutschlandfunkkultur.de/50-jahre-gleichberechtigtes-namensrecht-im-namen-des-ehemanns-100.html",
-      "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
+      "title": "Kommentar zur Namensrechtsreform - Patriarchaler Zwang zum Namen des Ehemannes fällt weg",
+      "url": "https://www.deutschlandfunkkultur.de/namensrecht-reform-ehefrau-gleichberechtigt-identitaet-kommentar-100.html",
+      "description": "Am 1. Juli 1976 trat in Westdeutschland ein neues Namensrecht in Kraft: Seither müssen Ehefrauen nicht mehr automatisch den Namen ihres Mannes annehmen. Eine kleine bürokratische Anpassung - aber mit sehr hohem Symbolgehalt. Von David Lauer www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 28 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 9,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 9
       }
     },
     {

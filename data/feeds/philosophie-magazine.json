@@ -1,13 +1,61 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-06-28T18:16:51.579117+00:00",
+  "fetchedAt": "2026-07-03T06:57:02.185602+00:00",
   "items": [
     {
-      "title": "“Disclosure Day” : les citoyens ont-ils un droit à la vérité ?",
-      "url": "https://www.philomag.com/articles/disclosure-day-les-citoyens-ont-ils-un-droit-la-verite",
+      "title": "Pourquoi n’avons-nous aucun souvenir de notre vie avant l'âge de 2 ou 3 ans ?",
+      "url": "https://www.philomag.com/articles/pourquoi-navons-nous-aucun-souvenir-de-notre-vie-avant-lage-de-2-ou-3-ans",
       "description": "",
-      "date": "Sat, 27 Jun 2026",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Nos grandes questions pour changer d'ère : “Un autre monde est-il encore possible ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-un-autre-monde-est-il-encore-possible",
+      "description": "",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Nos grandes questions pour changer d'ère : “Sommes-nous définis par nos origines ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-sommes-nous-definis-par-nos-origines",
+      "description": "",
+      "date": "Mon, 29 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Les enquêtes internes en entreprise, fragile instrument de justice",
+      "url": "https://www.philomag.com/articles/les-enquetes-internes-en-entreprise-fragile-instrument-de-justice",
+      "description": "",
+      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,10 +68,10 @@
       }
     },
     {
-      "title": "“Nous vivons une époque de retour au sérieux de la politique sous l’horizon de la mort” : entretien avec Michaël Fœssel",
-      "url": "https://www.philomag.com/articles/nous-vivons-une-epoque-de-retour-au-serieux-de-la-politique-sous-lhorizon-de-la-mort",
+      "title": "Peut-on passer pour quelqu'un d'autre ? 3 textes sur la force des origines commentés par Norman Ajari",
+      "url": "https://www.philomag.com/articles/peut-passer-pour-quelquun-dautre-3-textes-sur-la-force-des-origines-commentes-par-norman",
       "description": "",
-      "date": "Thu, 25 Jun 2026",
+      "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,26 +84,10 @@
       }
     },
     {
-      "title": "La clim’ est-elle en train de devenir éthique ?",
-      "url": "https://www.philomag.com/articles/la-clim-est-elle-en-train-de-devenir-ethique",
+      "title": "Face à la canicule, notre “étrange défaite”",
+      "url": "https://www.philomag.com/articles/face-la-canicule-notre-etrange-defaite",
       "description": "",
-      "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Étienne Klein : “J’ai manqué d’intégrité”",
-      "url": "https://www.philomag.com/articles/etienne-klein-jai-manque-dintegrite",
-      "description": "",
-      "date": "Fri, 26 Jun 2026",
+      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -68,170 +100,138 @@
       }
     },
     {
-      "title": "Apprendre à voir le monde avec David Hockney",
-      "url": "https://www.philomag.com/articles/apprendre-voir-le-monde-avec-david-hockney",
+      "title": "Quels espoirs pour ceux qui ont 20 ans en 2026 ? Les réponses des jeunes",
+      "url": "https://www.philomag.com/articles/quels-espoirs-pour-ceux-qui-ont-20-ans-en-2026-les-reponses-des-jeunes",
+      "description": "",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Entre admiration, respect et rejet… De Gaulle vu par Sartre, Camus, Aron",
+      "url": "https://www.philomag.com/articles/entre-admiration-respect-et-rejet-de-gaulle-vu-par-sartre-camus-aron",
+      "description": "",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Coupe du monde de football : le chauvinisme “degré zéro du nationalisme” ?",
+      "url": "https://www.philomag.com/articles/coupe-du-monde-de-football-le-chauvinisme-degre-zero-du-nationalisme",
+      "description": "",
+      "date": "Wed, 01 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "2006-2026 : le grand retour du religieux ?",
+      "url": "https://www.philomag.com/articles/2006-2026-le-grand-retour-du-religieux",
+      "description": "",
+      "date": "Wed, 01 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Découvrez les 20 livres de nos 20 ans !",
+      "url": "https://www.philomag.com/articles/decouvrez-les-20-livres-de-nos-20-ans",
+      "description": "",
+      "date": "Wed, 01 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Pendant la canicule, le corps devient une prison”",
+      "url": "https://www.philomag.com/articles/pendant-la-canicule-le-corps-devient-une-prison",
+      "description": "",
+      "date": "Tue, 30 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Édition génétique des embryons : le risque d’un nouvel eugénisme ?",
+      "url": "https://www.philomag.com/articles/edition-genetique-des-embryons-le-risque-dun-nouvel-eugenisme",
+      "description": "",
+      "date": "Tue, 30 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La Sagrada Familia (presque) achevée : une visite de la cathédrale avec les philosophes",
+      "url": "https://www.philomag.com/articles/la-sagrada-familia-presque-achevee-une-visite-de-la-cathedrale-avec-les-philosophes",
+      "description": "",
+      "date": "Mon, 29 Jun 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "\"Il peint un monde que nous avons de plus en plus de mal à voir\" : David Hockney vu par Yves Michaud",
+      "url": "https://www.philomag.com/articles/il-peint-un-monde-que-nous-avons-de-plus-en-plus-de-mal-voir-david-hockney-vu-par-yves",
       "description": "",
       "date": "Sun, 28 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Rétrospective 2006-2026 : quand le sulfureux entrepreneur Peter Thiel rencontrait le philosophe Pierre Manent",
-      "url": "https://www.philomag.com/articles/retrospective-2006-2026-quand-le-sulfureux-entrepreneur-peter-thiel-rencontrait-le",
-      "description": "",
-      "date": "Sun, 28 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ben Tarnoff : “Le muskisme est un anti-humanisme”",
-      "url": "https://www.philomag.com/articles/ben-tarnoff-le-muskisme-est-un-anti-humanisme",
-      "description": "",
-      "date": "Sat, 27 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Frantz Fanon, une résistance philosophique à la colonisation",
-      "url": "https://www.philomag.com/articles/frantz-fanon-une-resistance-philosophique-la-colonisation",
-      "description": "",
-      "date": "Sat, 27 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Giulia Andreani : une “peinture froide” haute en couleur",
-      "url": "https://www.philomag.com/articles/giulia-andreani-une-peinture-froide-haute-en-couleur",
-      "description": "",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Estelle Ferrarese : “Il y a dans le sanglot un refus de toute consolation”",
-      "url": "https://www.philomag.com/articles/estelle-ferrarese-il-y-dans-le-sanglot-un-refus-de-toute-consolation",
-      "description": "",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le désir d’enfant : table ronde avec Isabelle Alfandary, Nicolas Moysan et Clélia Gasquet-Blanchard",
-      "url": "https://www.philomag.com/articles/le-desir-denfant-table-ronde-avec-isabelle-alfandary-nicolas-moysan-et-clelia-gasquet",
-      "description": "",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les “Pères fondateurs” étaient aussi des philosophes",
-      "url": "https://www.philomag.com/articles/les-peres-fondateurs-etaient-aussi-des-philosophes",
-      "description": "",
-      "date": "Thu, 25 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le “divertissement” chez Pascal, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/le-divertissement-chez-pascal-cest-quoi",
-      "description": "",
-      "date": "Thu, 25 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Beautés carnivores",
-      "url": "https://www.philomag.com/articles/beautes-carnivores",
-      "description": "",
-      "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sauver le “jardin Terre” en envoyant nos déchets sur la Lune, la vision qui inspire Jeff Bezos",
-      "url": "https://www.philomag.com/articles/sauver-le-jardin-terre-en-envoyant-nos-dechets-sur-la-lune-la-vision-qui-inspire-jeff",
-      "description": "",
-      "date": "Wed, 24 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

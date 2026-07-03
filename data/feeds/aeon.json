@@ -1,8 +1,24 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-06-28T18:18:20.344407+00:00",
+  "fetchedAt": "2026-07-03T06:58:49.991054+00:00",
   "items": [
+    {
+      "title": "Karl Hess: toward liberty",
+      "url": "https://aeon.co/videos/a-republican-speechwriter-turned-welders-radical-gospel-of-localism",
+      "description": "‘Society, in fact, is neighbourhoods’ – how Karl Hess transformed from a Republican speechwriter into a radical welder - by Aeon Video Watch on Aeon",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "Reset: Hat",
       "url": "https://aeon.co/videos/in-the-american-west-a-man-named-hat-sets-out-to-leave-no-trace",
@@ -36,16 +52,16 @@
       }
     },
     {
-      "title": "Don’t touch the art",
-      "url": "https://aeon.co/videos/when-artworks-dare-audiences-to-break-a-cardinal-museum-rule",
-      "description": "Yoko Ono’s painting invites us to step on it, challenging both galleries and audiences. Why is touch transgressive? - by Aeon Video Watch on Aeon",
-      "date": "Thu, 11 Jun 2026",
+      "title": "The anguish of choice",
+      "url": "https://aeon.co/essays/re-reading-sartres-lecture-existentialism-is-a-humanism",
+      "description": "In the shattered aftermath of war, Sartre delivered a formidable lecture on freedom and meaning. Its urgency remains - by Skye C Cleary Read on Aeon",
+      "date": "Thu, 02 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -100,35 +116,35 @@
       }
     },
     {
-      "title": "Female philosophers: Héloïse",
-      "url": "https://aeon.co/videos/there-can-be-no-sin-committed-from-love-the-radical-ethics-of-heloise",
-      "description": "Morality is rooted in love, not institutions: the enduring impact of Héloïse’s 12th-century romance with Abelard - by Aeon Video Watch on Aeon",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Illegible benefits",
+      "url": "https://aeon.co/essays/what-we-cant-measure-about-ai-yet",
+      "description": "The costs of transformative innovations are immediately clear: it’s the longterm gains that are hardest to understand - by Carlo Cordasco Read on Aeon",
+      "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
-      "title": "A philosophy of home",
-      "url": "https://aeon.co/essays/what-ancient-philosophy-really-thought-about-domestic-life",
-      "description": "The household is a community, as much as the state, and ancient philosophy had much more to say about it than we think - by Sandrine Bergès Read on Aeon",
-      "date": "Fri, 12 Jun 2026",
+      "title": "Timelapse of the Universe",
+      "url": "https://aeon.co/videos/the-13-billion-years-that-led-to-us-a-cosmological-timelapse",
+      "description": "When 13 billion years of the cosmos get condensed into 10 epic minutes, when in the timelapse do you think humans appear? - by Aeon Video Watch on Aeon",
+      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -148,19 +164,19 @@
       }
     },
     {
-      "title": "Therapy for billionaires",
-      "url": "https://aeon.co/essays/what-would-a-therapy-camp-for-billionaires-look-like",
-      "description": "As my grandfather’s money taught, wealth can be a poison. The rich must reckon with its costs to recover their humanity - by Alexa Clay Read on Aeon",
-      "date": "Mon, 15 Jun 2026",
+      "title": "Noguchi’s New York animations",
+      "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
+      "description": "Hand-painted animations bring to life Isamu Noguchi’s ideas for playgrounds that could integrate art with everyday life - by Aeon Video Watch on Aeon",
+      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
@@ -180,19 +196,19 @@
       }
     },
     {
-      "title": "What is this rock?",
-      "url": "https://aeon.co/essays/the-strange-rocks-that-wouldnt-exist-without-us",
-      "description": "Not natural, not quite unnatural, the strange new rocks of the Anthropocene stretch the boundaries of geology - by John MacDonald Read on Aeon",
-      "date": "Tue, 16 Jun 2026",
+      "title": "The measure of flourishing",
+      "url": "https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature",
+      "description": "Human prosperity depends on nature, but no global metric has captured this with precision. Enter the Nature Relationship Index - by Yadvinder Malhi Read on Aeon",
+      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
       "description": "Strong resistance to AI among writers is understandable. But it obscures what we share with the machines: language itself - by Martin Puchner Read on Aeon",
       "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Our neighbors, the peacocks",
-      "url": "https://aeon.co/videos/in-suburban-california-a-wild-peafowl-population-splits-the-community",
-      "description": "A portrait of the pristine suburb of Arcadia, where hundreds of feral peacocks are embraced by some, despised by others - by Aeon Video Watch on Aeon",
-      "date": "Mon, 15 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
