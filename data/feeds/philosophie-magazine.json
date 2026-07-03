@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-03T16:42:19.911716+00:00",
+  "fetchedAt": "2026-07-03T20:01:08.969367+00:00",
   "items": [
     {
       "title": "\"Amnésie infantile\" : pourquoi n’avons-nous aucun souvenir avant l'âge de 2-3 ans ?",
@@ -24,22 +24,6 @@
       "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-un-autre-monde-est-il-encore-possible",
       "description": "",
       "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Nos grandes questions pour changer d'ère : “Sommes-nous définis par nos origines ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-sommes-nous-definis-par-nos-origines",
-      "description": "",
-      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -97,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "\"Dry Leaf” : le road trip onirique du cinéaste géorgien Aleksandre Koberidze",
+      "url": "https://www.philomag.com/articles/dry-leaf-le-road-trip-onirique-du-cineaste-georgien-aleksandre-koberidze",
+      "description": "",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
