@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-03T06:58:52.427987+00:00",
+  "fetchedAt": "2026-07-03T16:43:48.800028+00:00",
   "items": [
     {
       "title": "Pierre Bourdieu: habitus",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 25
+      }
+    },
+    {
+      "title": "How to fix your attention span",
+      "url": "https://psyche.co/videos/how-to-reclaim-your-attention-from-the-distraction-economy",
+      "description": "Could you watch this video on full screen, 1x speed, with no distractions? Here are five steps to rebuild your attention span - Video by Daniel Pink Watch on Psyche",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -65,22 +81,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
-      }
-    },
-    {
-      "title": "Bob’s funeral",
-      "url": "https://psyche.co/videos/jack-records-a-family-funeral-to-make-sense-of-the-strained-relations",
-      "description": "When his estranged grandfather dies, Jack films the funeral, hoping to make sense of his family’s generational trauma - Directed by Jack Dunphy Watch on Psyche",
-      "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 18,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 18
       }
     },
     {

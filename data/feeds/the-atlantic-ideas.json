@@ -1,8 +1,72 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-03T06:58:55.412814+00:00",
+  "fetchedAt": "2026-07-03T16:43:50.693683+00:00",
   "items": [
+    {
+      "title": "All Men Are Created Equal, but What Does <em>Equal </em>Mean?",
+      "url": "https://www.theatlantic.com/ideas/2026/07/history-word-equal-rights-declaration/687777/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "American Brands Seem Lukewarm on America’s Birthday",
+      "url": "https://www.theatlantic.com/ideas/2026/07/america-250-brands/687805/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "These Justices Are Not Impartial",
+      "url": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-dissents/687799/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Fourth of July That Saved My Family",
+      "url": "https://www.theatlantic.com/ideas/2026/07/independence-day-hostage-crisis-1976/687755/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "Pete Buttigieg’s Ordeal Is a Frightening New Form of Political Harassment",
       "url": "https://www.theatlantic.com/ideas/2026/07/buttigieg-cps-michigan-harassment/687776/?utm_source=feed",
@@ -36,35 +100,51 @@
       }
     },
     {
-      "title": "The Overlooked Reason Europe Doesn’t Have AC",
-      "url": "https://www.theatlantic.com/ideas/2026/06/europe-heat-wave-air-conditioning/687729/?utm_source=feed",
+      "title": "It Wasn’t Just the Founders",
+      "url": "https://www.theatlantic.com/ideas/2026/07/american-revolution-history-founders/687800/?utm_source=feed",
       "description": "",
-      "date": "2026-06-28",
+      "date": "2026-07-03",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "novelty": 0,
+        "total": 0
       }
     },
     {
-      "title": "Instagram Plus Is a New Low",
-      "url": "https://www.theatlantic.com/ideas/2026/06/instagram-story-meta-dating-social-media/687721/?utm_source=feed",
+      "title": "The Hispanic Founder",
+      "url": "https://www.theatlantic.com/ideas/2026/07/hispanic-founder-galvez-spain/687787/?utm_source=feed",
       "description": "",
-      "date": "2026-06-28",
+      "date": "2026-07-03",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "What I Learned From ROTC",
+      "url": "https://www.theatlantic.com/ideas/2026/07/army-military-service-training-lessons/687589/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -152,86 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/06/scotus-humphreys-originalism/687744/?utm_source=feed",
       "description": "",
       "date": "2026-06-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ukraine’s Plan to Unnerve Putin",
-      "url": "https://www.theatlantic.com/ideas/2026/06/moscow-ukraine-drone-attacks/687745/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Ultimate Triumph of the Unitary Executive",
-      "url": "https://www.theatlantic.com/ideas/2026/06/ultimate-triumph-unitary-executive/687741/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A False Pretense of Judicial Modesty",
-      "url": "https://www.theatlantic.com/ideas/2026/06/supreme-court-precedent/687739/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Man Who Saw AI Coming",
-      "url": "https://www.theatlantic.com/ideas/2026/06/erik-brynjolfsson-the-man-who-saw-ai-coming/687561/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-29",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Democracies Can Still Triumph",
-      "url": "https://www.theatlantic.com/ideas/2026/06/democracy-history-autocracies-dictatorships/687720/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-28",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

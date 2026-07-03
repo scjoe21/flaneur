@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-03T06:57:01.800901+00:00",
+  "fetchedAt": "2026-07-03T16:42:19.503492+00:00",
   "items": [
     {
       "title": "Pourquoi le point d'exclamation précède-t-il le point d'interrogation",
@@ -16,22 +16,6 @@
         "phil": 15,
         "flaneur": 0,
         "novelty": 5,
-        "total": 40
-      }
-    },
-    {
-      "title": "Comment transmet-on quelque chose à quelqu'un ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-transmet-on-quelque-chose-a-quelqu-un-6398468",
-      "description": "durée : 00:03:26  - Avec philosophie - par : Frédéric Worms - La transmission nous concerne tous. Mais que signifie transmettre ? Que transmettons-nous à ceux qui nous succèdent : des biens, des savoirs, des valeurs ? Et surtout, comment faire passer ce qui nous paraît précieux ? Car transmettre, c'est aussi faire durer un sens dans le temps.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 40
       }
     },
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Clémentine Beauvais, enseignante en sciences de l'éducation : \"Fifi Brindacier, c'est l'enfance qui n'a peur de rien\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/clementine-beauvais-enseignante-chercheuse-en-sociologie-de-l-enfance-sur-fifi-brindacier-d-astrid-lindgren-4819655",
+      "description": "durée : 00:58:09  - Avec philosophie - par : Géraldine Mosna-Savoye - \"Fifi Brindacier\", roman jeunesse d'Astrid Lindgren, paru en 1945, nous raconte les aventures de Fifi, une fillette drôle, dotée d'une force extraordinaire, qui vit toute seule, avec son cheval et son singe. Clémentine Beauvais, écrivaine et chercheuse en sociologie de l’enfance nous en parle. \n\n  - réalisation : Nicolas Berger, Doria Zénine, Manon de La Selle, Corinne Amar - invités : Clémentine Beauvais Autrice, traductrice,",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
       }
     },
     {

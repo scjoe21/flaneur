@@ -1,11 +1,11 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-03T06:57:02.185602+00:00",
+  "fetchedAt": "2026-07-03T16:42:19.911716+00:00",
   "items": [
     {
-      "title": "Pourquoi n’avons-nous aucun souvenir de notre vie avant l'âge de 2 ou 3 ans ?",
-      "url": "https://www.philomag.com/articles/pourquoi-navons-nous-aucun-souvenir-de-notre-vie-avant-lage-de-2-ou-3-ans",
+      "title": "\"Amnésie infantile\" : pourquoi n’avons-nous aucun souvenir avant l'âge de 2-3 ans ?",
+      "url": "https://www.philomag.com/articles/amnesie-infantile-pourquoi-navons-nous-aucun-souvenir-avant-lage-de-2-3-ans",
       "description": "",
       "date": "Thu, 02 Jul 2026",
       "thumbnail": "",
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Masculinismes : de l’idéologie sexiste à la menace terroriste",
+      "url": "https://www.philomag.com/articles/masculinismes-de-lideologie-sexiste-la-menace-terroriste",
+      "description": "",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/la-sagrada-familia-presque-achevee-une-visite-de-la-cathedrale-avec-les-philosophes",
       "description": "",
       "date": "Mon, 29 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "\"Il peint un monde que nous avons de plus en plus de mal à voir\" : David Hockney vu par Yves Michaud",
-      "url": "https://www.philomag.com/articles/il-peint-un-monde-que-nous-avons-de-plus-en-plus-de-mal-voir-david-hockney-vu-par-yves",
-      "description": "",
-      "date": "Sun, 28 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

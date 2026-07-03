@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-03T06:58:49.991054+00:00",
+  "fetchedAt": "2026-07-03T16:43:44.154985+00:00",
   "items": [
     {
       "title": "Karl Hess: toward liberty",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Abyss",
+      "url": "https://aeon.co/essays/what-ukrainian-war-widows-know-about-love-and-loss",
+      "description": "The testimonies of Ukraine’s war widows reveal the mortal risk of love and the possibility of dying while alive: a black pain - by Julie Reshe Read on Aeon",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -215,22 +231,6 @@
       "title": "Neanderthal 1",
       "url": "https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species",
       "description": "The 16 bones that would rewrite history – on the site in Germany where we began to understand Neanderthals, and ourselves - by Aeon Video Watch on Aeon",
-      "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Words, words, words",
-      "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith",
-      "description": "Strong resistance to AI among writers is understandable. But it obscures what we share with the machines: language itself - by Martin Puchner Read on Aeon",
       "date": "Thu, 18 Jun 2026",
       "thumbnail": "",
       "videoId": "",

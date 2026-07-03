@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-06-28T18:16:58.390056+00:00",
+  "fetchedAt": "2026-07-03T16:42:26.006205+00:00",
   "items": [
     {
       "title": "Ivan Krastev, how sustainable is Europe? | Sternstunde Philosophie | SRF Kultur",
@@ -68,35 +68,19 @@
       }
     },
     {
-      "title": "Jetzt! – Die Zeit als Schlüssel zum guten Leben | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=tHLhqbmfGkg",
-      "description": "Beschleunigung, Zeitdruck, Stress. Der moderne Mensch rennt gegen die Zeit und verpasst dabei allzu oft den Moment, das Jetzt. Doch was ist dieses Jetzt? Wem gehört meine Zeit? Und wie wollen wir am Ende des Lebens gelebt haben? Darüber spricht Yves Bossart mit dem Philosophen Udo Marquardt.\n\nThemen in dieser Folge:\n00:00 Intro\n07:07 Kritik an Teilzeit-Arbeit gerechtfertigt?\n18:57 Was hat unsere Zeit mit dem Sinn des Lebens zu tun?\n20:10 Rätsel «Zeit» und wann und wie lange ist eigentlich das «J",
-      "date": "2026-05-18",
-      "thumbnail": "https://i1.ytimg.com/vi/tHLhqbmfGkg/hqdefault.jpg",
-      "videoId": "tHLhqbmfGkg",
-      "priority": 50,
+      "title": "Wie sieht die Zukunft des Sterbens aus? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=l0eNcB3ELSA",
+      "description": "Die Arbeit von Sterbeforscherin Elisabeth Kübler-Ross veränderte den Umgang mit dem Tod grundlegend. Diese Tage hätte sie ihren 100. Geburtstag gefeiert. Und heute, in einer zunehmend alternden Gesellschaft, stellt sich dringlicher denn je die Frage: Wie werden wir in Zukunft sterben? \n\nThemen in dieser Folge:\n00:00 Was bedeutet es, sich rechtzeitig auf den Tod vorzubereiten? \n06:58 Stirbt es sich als gläubiger Mensch einfacher, wenn man an ein Leben nach dem Tod glaubt? \n15:02 Was meint G.D. Bo",
+      "date": "2026-06-29",
+      "thumbnail": "https://i1.ytimg.com/vi/l0eNcB3ELSA/hqdefault.jpg",
+      "videoId": "l0eNcB3ELSA",
+      "priority": 40,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 20,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 50
-      }
-    },
-    {
-      "title": "Ivan Krastev, wie zukunftsfähig ist Europa? | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=xHf0YIVfhKQ",
-      "description": "Der Angriffskrieg Russlands auf die Ukraine, die Abwahl von Viktor Orbán in Ungarn, Donald Trumps mangelndes Geschichtsverständnis und die Angst vor der Zukunft. Der bulgarische Politologe Ivan Krastev zeigt auf, wie Europa den Disruptionen die Stirn bieten und sich neu erfinden kann. \n\nThemen in dieser Folge:\n00:00 Warum dreht sich die Welt gefühlt immer schneller?   \n18:20 Welche Träume, Visionen und Vorstellungen haben Sie für die Zukunft?  \n28:05 Was bedeutet Viktor Orbáns Niederlage für Eur",
-      "date": "2026-05-15",
-      "thumbnail": "https://i1.ytimg.com/vi/xHf0YIVfhKQ/hqdefault.jpg",
-      "videoId": "xHf0YIVfhKQ",
-      "priority": 50,
-      "scoreDetail": {
-        "daily": 40,
-        "phil": 10,
-        "flaneur": 0,
         "novelty": 0,
-        "total": 50
+        "total": 40
       }
     },
     {
@@ -241,6 +225,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Achtsamkeit – Wird uns hier was vorgegaukelt, Kathrin Fischer?",
+      "url": "https://www.youtube.com/watch?v=GhnYbEMYXRA",
+      "description": "Kathrin Fischer hinterfragt in ihrem Buch „Achtsam geht die Welt zugrunde“ den Boom der Achtsamkeit und bezeichnet ihn sogar als Ideologie. Statt Gelassenheit fordert sie Wut – als Antwort auf eine Welt, die Überforderung individualisiert. Ist Achtsamkeit wirklich eine Mogelpackung?\n\nWas, wenn Achtsamkeit nicht befreit, sondern befriedet? Die Podcasterin und Buchautorin Kathrin Fischer argumentiert gegen den Trend, individuelles Verhalten zu optimieren, statt gesellschaftliche Verhältnisse zu ve",
+      "date": "2026-06-30",
+      "thumbnail": "https://i4.ytimg.com/vi/GhnYbEMYXRA/hqdefault.jpg",
+      "videoId": "GhnYbEMYXRA",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
       }
     }
   ]

@@ -1,141 +1,157 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-03T06:57:07.037974+00:00",
+  "fetchedAt": "2026-07-03T16:42:23.673649+00:00",
   "items": [
     {
-      "title": "Schulstreik gegen Wehrpflicht: Warum die Jugend das liberale Staatsverständnis nicht teilt",
-      "url": "https://www.philomag.de/artikel/schulstreik-gegen-wehrpflicht-warum-die-jugend-das-liberale-staatsverstaendnis-nicht",
-      "description": "Die Regierung sucht einen Ausweg aus der Wirtschaftskrise, der primär der Jugend und der Arbeiterschaft schadet. Gleichzeitig wird in Erwägung gezogen, eine allgemeine Wehrpflicht wieder einzuführen, worauf die Jugend streikend reagiert. Das ist kein Ausdruck ihres Egoismus, sondern eines Bewusstseins für soziale Ungerechtigkeit.",
-      "date": "Wed, 24 Jun 2026",
+      "title": "Von der Kunst, Ochsen zu zerteilen",
+      "url": "https://www.philomag.de/artikel/von-der-kunst-ochsen-zu-zerteilen",
+      "description": "Wie übe ich mich in Aufmerksamkeit? Für die chinesische Philosophie ist diese Frage seit jeher zentral. Über die Kunst höchster Sammlung und die Lehren des Daoismus für eine geglückte Existenz.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
-    {
-      "title": "Befeuert der Klimawandel den Autoritarismus?",
-      "url": "https://www.philomag.de/artikel/befeuert-der-klimawandel-den-autoritarismus",
-      "description": "Der Journalist Turi Munthe stellt in seinem neuen Buch  Why We Think What We Think  die These auf, dass es eine Verbindung zwischen Umwelteinflüssen und politischen Überzeugungen gibt. Bloßer Geodeterminismus? Oder erhellende Theorie?",
-      "date": "Mon, 29 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
+      "priority": 50,
       "scoreDetail": {
         "daily": 25,
-        "phil": 5,
+        "phil": 25,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 50
       }
     },
     {
-      "title": "Wie viel Ungleichheit verträgt die Demokratie?",
-      "url": "https://www.philomag.de/artikel/wie-viel-ungleichheit-vertraegt-die-demokratie",
-      "description": "Liberale Demokratie und marktorientierte kapitalistische Wirtschaftsweise gehören für viele zweifelsfrei zusammen. Ebenso unbestritten ist jedoch das hohe Niveau an Ungleichheit in kapitalistischen Gesellschaften und die damit verbundenen Gefahren für die Demokratie. Schafft diese sich selbst ab? Von Saade Ajami",
-      "date": "Wed, 01 Jul 2026",
+      "title": "Sebastian Watzl: „Die heutige Umgebung bereitet Menschen mit ADHS-Profil starke Probleme“",
+      "url": "https://www.philomag.de/artikel/sebastian-watzl-die-heutige-umgebung-bereitet-menschen-mit-adhs-profil-starke-probleme",
+      "description": "Welchen Einfluss hat die Aufmerksamkeit auf unser Bewusstsein? Und wie sollten wir individuell und gesellschaftlich mit ihr umgehen? Ein Gespräch über unsichtbare Gorillas, „Aufmerksamkeitslandschaften“ und die Bedeutung von ADHS.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 40,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
-      "title": "Seyla Benhabib: „Habermas verteidigt das Erbe der Aufklärung“",
-      "url": "https://www.philomag.de/artikel/seyla-benhabib-habermas-verteidigt-das-erbe-der-aufklaerung",
-      "description": "Mit der  Theorie des kommunikativen Handelns  legt Habermas eine umfassende Gesellschaftstheorie vor. Im Gespräch erläutert Seyla Benhabib, warum Habermas die Sprache ins Zentrum stellt und damit die Kritische Theorie erweitert – und wo sein Ansatz ergänzt werden müsste.",
-      "date": "Mon, 29 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Von nun an und für immer",
-      "url": "https://www.philomag.de/artikel/von-nun-und-fuer-immer",
-      "description": "Aufbruch und Scheitern. Hoffnung und Angst. Die Freiheit, sich zu entwerfen – und das Bedürfnis nach Kontinuität. Ingeborg Bachmann thematisiert in ihrem Schreiben Grundfragen unserer Existenz. Über die Philosophin und Schriftstellerin, die vor hundert Jahren geboren wurde.",
-      "date": "Thu, 25 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 10,
+        "daily": 25,
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "Die Macht der Nähe",
+      "url": "https://www.philomag.de/artikel/die-macht-der-naehe",
+      "description": "Wer Unterstützern der extremen Rechten nahekommt, macht sich schnell verdächtig, deren Positionen zu akzeptieren. Doch Nähe ist nicht nur ein Nährboden für Normalisierung. Sie kann auch eine Ressource sein, um besser miteinander zu diskutieren. Und: Für viele Menschen ist sie im Alltag unvermeidlich. Wie also klug mit ihr umgehen? Jana Glaese ist dieser Frage in ihrem neuen Buch nachgegangen. Ein Auszug.",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
+    {
+      "title": "Die neue Ausgabe: Aufmerksam sein",
+      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-aufmerksam-sein",
+      "description": "Viele Menschen fühlen sich getrieben und ständig abgelenkt. Kein Wunder in Zeiten von TikTok und Co.: Die Aufmerksamkeit ist zu einem hart umkämpften Gut  geworden. Welche Arten der Aufmerksamkeit lassen unser Weltverhältnis verarmen, welche bereichern es? Wie lässt sich wieder lernen, das Hier und Jetzt zu spüren? Hier geht's zur  umfangreichen Heftvorschau!",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Befreiung der Vernunft",
-      "url": "https://www.philomag.de/artikel/befreiung-der-vernunft",
-      "description": "Das Konzept der kommunikativen Rationalität bildet ein Herzstück von Habermas’ Theorie. Anders als frühere Kritiker der Moderne meint er: Problematisch ist nicht ein Denken in Zweck und Mitteln, sondern wenn darüber andere Seiten der Vernunft verdrängt werden.",
-      "date": "Fri, 26 Jun 2026",
+      "title": "Bernhard Schlink: „Gerechtigkeit ist ein Sehnsuchtsbegriff“",
+      "url": "https://www.philomag.de/artikel/bernhard-schlink-gerechtigkeit-ist-ein-sehnsuchtsbegriff",
+      "description": "Partizipation, gleiche Rechte und Chancen: Die Gerechtigkeitserwartungen in Demokratien sind hoch. Bernhard Schlink argumentiert in seinem neuen Buch für einen realistischeren Blick. Ein Gespräch über die Macht des Unverfügbaren und die Mühen der Gerechtigkeitsarbeit.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
+        "daily": 15,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
         "total": 20
       }
     },
     {
-      "title": "Brick",
-      "url": "https://www.philomag.de/artikel/brick",
-      "description": "Mit einem neuen Tool soll man bestimmte Apps auf seinem Handy sperren können, um dessen exzessiver Nutzung Einhalt zu gebieten. Was sagt das über uns aus?",
-      "date": "Tue, 30 Jun 2026",
+      "title": "Meine Aufmerksamkeit",
+      "url": "https://www.philomag.de/artikel/meine-aufmerksamkeit",
+      "description": "Auf mich selbst oder den anderen gerichtet, etwas erwartend oder offen für das Erscheinende, konzentriert oder zerstreut: Die Aufmerksamkeit nimmt verschiedene Gestalten an. Fünf Menschen erzählen, wie sie diese erleben.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Hildegard von Bingen und die Grünkraft",
+      "url": "https://www.philomag.de/artikel/hildegard-von-bingen-und-die-gruenkraft",
+      "description": "Dieselbe Kraft, die Bäume wachsen und Blumen erblühen lässt, zeigt sich auch in unseren moralischen Handlungen. Davon war die Philosophin Hildegard von Bingen überzeugt. Ihr Denken verbindet ökologisches Bewusstsein mit feministischen Impulsen – und erkennt, was es heißt, über die Natur zu herrschen und zugleich ein Teil von ihr zu sein.",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Eine Nation am Scheideweg",
+      "url": "https://www.philomag.de/artikel/eine-nation-am-scheideweg",
+      "description": "Die USA feiern am 4. Juli ihr 250-jähriges Bestehen. Doch von dem freiheitlich-revolutionären Wind der amerikanischen Demokratie ist angesichts der Präsidentschaft Trumps kaum noch etwas zu spüren. Dabei ist die aktuelle Krise nur die Eskalationsstufe einer demokratieerodierenden Entwicklung, vor der Hannah Arendt schon vor 50 Jahren warnte.",
+      "date": "Sat, 04 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Alpine Divorce",
+      "url": "https://www.philomag.de/artikel/alpine-divorce",
+      "description": "Nach dem Tod am Großglockner häuften sich im digitalen Raum Erfahrungsberichte über das Verlassenwerden am Berg. Drückt sich in diesem Phänomen eine Schrumpfform antiquierter Männlichkeitsideale aus?",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 14
       }
     },
     {
-      "title": "Ausnahmezustand? Ja, bitte!",
-      "url": "https://www.philomag.de/artikel/ausnahmezustand-ja-bitte",
-      "description": "In Zeiten der Polykrise sollten wir aufhören, an einer Pseudo-Normalität festzuhalten, und vor allem die Gefahren durch Klimawandel und Rechtsruck anerkennen. Nur so lässt sich dem totalitären Ausnahmezustand entgegenwirken, vor dem Giorgio Agamben warnte.",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Dan Diner: „Habermas winkte wütend und zeigte an, dass es einen Skandal gebe“",
-      "url": "https://www.philomag.de/artikel/dan-diner-habermas-winkte-wuetend-und-zeigte-dass-es-einen-skandal-gebe",
-      "description": "Mit Ernst Noltes Deutung, der Holocaust sei primär eine Reaktion auf sowjetische Verbrechen, begann der Historikerstreit. Für Habermas war diese Sicht revisionistisch. Im Gespräch erläutert der Historiker Dan Diner die Frontlinien des Streits und die Präzedenzlosigkeit der Schoah.",
-      "date": "Thu, 02 Jul 2026",
+      "title": "Befreiung der Aufmerksamkeit",
+      "url": "https://www.philomag.de/artikel/befreiung-der-aufmerksamkeit",
+      "description": "Die Aufmerksamkeitsspannen werden kürzer, die Bildschirmzeiten länger — so lautet eine häufig vorgebrachte Kulturkritik. Doch die Krise der Aufmerksamkeit, in der wir uns befinden, reicht noch weiter.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "Pariser Begegnungen",
-      "url": "https://www.philomag.de/artikel/pariser-begegnungen",
-      "description": "Während Habermas am Versprechen der Moderne festhält, misstrauen die führenden französischen Philosophen der Nachkriegszeit den Ansprüchen auf Vernunft und Verständigung. Eine unüberbrückbare Differenz? Über Habermas’ Rezeption in Frankreich.",
-      "date": "Wed, 01 Jul 2026",
+      "title": "Die Zeit ist ein Korkenzieher",
+      "url": "https://www.philomag.de/artikel/die-zeit-ist-ein-korkenzieher",
+      "description": "Robyn Hitchcock denkt auf seinem neuen Album mit psychedelischem Sound über die Einschließung und Auflösung des Ichs nach.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -164,42 +180,10 @@
       }
     },
     {
-      "title": "Hitzekatastrophe: Der Wahn der Life Hacks",
-      "url": "https://www.philomag.de/artikel/hitzekatastrophe-der-wahn-der-life-hacks",
-      "description": "Auf die jüngste Hitzewelle wurde von politischer Seite statt mit Schutzmaßnahmen und deren Ausbau vor allem mit Tipps und Tricks reagiert. Das ist nicht nur zynisch, sondern zeugt davon, dass der Umgang mit der Klimakatastrophe in den letzten Jahren von der Verdrängung in die Verwerfung gekippt ist, meint Nico Graack.",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Kalifornische Theorie",
-      "url": "https://www.philomag.de/artikel/kalifornische-theorie",
-      "description": "Francis Fukuyama hält die Geschichte noch immer für beendet, räumt in seinen Memoiren aber ein, dass es Schwierigkeiten gibt. Außerdem lernen wir ihn als Tischler, Programmierer und überzeugten Kalifornier kennen. Ist seine Theorie gar ein Produkt der kalifornischen Landschaft?",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Habermas – ein Schmittianer?",
-      "url": "https://www.philomag.de/artikel/habermas-ein-schmittianer",
-      "description": "Für Habermas hatte der Diskurs klare Grenzen. Entgegen seiner Theorie der Herrschaftsfreiheit dürfen nicht alle Ansichten am runden Tisch Platz finden – eine Sollbruchstelle, die eine Nähe zum Freund-Feind-Denker Carl Schmitt offenbart.",
-      "date": "Thu, 25 Jun 2026",
+      "title": "Sinnieren in der Sonne",
+      "url": "https://www.philomag.de/artikel/sinnieren-der-sonne",
+      "description": "Acht Buchtipps aus der Redaktion für einen garantiert philosophischen Sommer!",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -212,10 +196,10 @@
       }
     },
     {
-      "title": "Maas und Moderne",
-      "url": "https://www.philomag.de/artikel/maas-und-moderne",
-      "description": "Habermas glaubte an die Moderne. Das bezeugen nicht nur seine Schriften, sondern auch seine Begeisterung für Rotterdam und die Architektur, die dort nach dem Zweiten Weltkrieg entstand.",
-      "date": "Tue, 23 Jun 2026",
+      "title": "Die neue Leichtigkeit der Mutter",
+      "url": "https://www.philomag.de/artikel/die-neue-leichtigkeit-der-mutter",
+      "description": "Ein Vater, der gleichberechtigt Sorgearbeit leistet, wirkt mütterlichen Schuldgefühlen entgegen und eröffnet Frauen ein freieres Verhältnis zum Kind, argumentiert Millay Hyatt.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -228,10 +212,26 @@
       }
     },
     {
-      "title": "Mit leeren Händen",
-      "url": "https://www.philomag.de/artikel/mit-leeren-haenden",
-      "description": "Ratlosigkeit gilt als Makel. Dabei wäre sie, richtig verstanden, die klügste Haltung, die wir einnehmen können.",
-      "date": "Mon, 22 Jun 2026",
+      "title": "Die Macht der Gesetze",
+      "url": "https://www.philomag.de/artikel/die-macht-der-gesetze",
+      "description": "Der Podcast  Justitias Töchter  beleuchtet feministische Themen im Recht.",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Verlorene Zukunft",
+      "url": "https://www.philomag.de/artikel/verlorene-zukunft",
+      "description": "Junge Menschen, die versuchen das Leben von Senioren zu führen: Der Grannycore-Trend ist ein Symptom unserer zukunftsarmen Zeit.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

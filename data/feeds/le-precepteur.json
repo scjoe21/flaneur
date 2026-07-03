@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-06-28T18:16:49.832840+00:00",
+  "fetchedAt": "2026-07-03T16:42:19.219923+00:00",
   "items": [
     {
       "title": "L'entraide, facteur de l'évolution",
@@ -84,22 +84,6 @@
       }
     },
     {
-      "title": "Nietzsche et le ressentiment",
-      "url": "https://www.youtube.com/shorts/FiUM_f1_iMY",
-      "description": "Le ressentiment nous pousse à dénoncer moralement ce que nous jalousons. On se réfugie derrière des valeurs pour justifier notre médisance, masquant ainsi notre faiblesse sous une image de vertu. C'est une inversion : je ne le fais pas, donc je dis que c'est mal.\n \n#philosophie #ressentiment #Nietzsche #psychologie #vérités #mindset #authenticité #motivation",
-      "date": "2026-05-29",
-      "thumbnail": "https://i3.ytimg.com/vi/FiUM_f1_iMY/hqdefault.jpg",
-      "videoId": "FiUM_f1_iMY",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "LES LOIS DE LA STUPIDITÉ",
       "url": "https://www.youtube.com/watch?v=g7LyRp_KJ8c",
       "description": "POUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOURQUOI ME REJOINDRE",
@@ -161,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
+      }
+    },
+    {
+      "title": "SPINOZA NIE-T-IL LA RESPONSABILITÉ ? (avec @NoeJacomet)",
+      "url": "https://www.youtube.com/watch?v=TSLwTnehXGU",
+      "description": "VOIR L'ENTRETIEN EN INTÉGRALITÉ :\n\n▶️ https://www.patreon.com/posts/161851509\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRE",
+      "date": "2026-07-03",
+      "thumbnail": "https://i1.ytimg.com/vi/TSLwTnehXGU/hqdefault.jpg",
+      "videoId": "TSLwTnehXGU",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

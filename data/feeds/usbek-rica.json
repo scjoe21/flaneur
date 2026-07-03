@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-03T06:57:02.281054+00:00",
+  "fetchedAt": "2026-07-03T16:42:19.993505+00:00",
   "items": [
     {
       "title": "Comment faire classe quand le thermomètre s’affole ?",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "« Arco », « Patéma »… 5 films d'animation pour rêver d'un monde meilleur",
+      "url": "https://usbeketrica.com/fr/article/arco-patema-robot-sauvage-5-films-d-animation-pour-rever-d-un-monde-meilleur",
+      "description": "Alors que les vacances scolaires démarrent ce samedi 4 juillet, la rédaction d’Usbek & Rica a sélectionné 5 films d’animation inspirants, à voir en famille ou entre amis pour continuer de croire en un monde meilleur. À (re)découvrir sans modération durant tout l’été.",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -180,22 +196,6 @@
       }
     },
     {
-      "title": "Nuancé, drôle, mais déjà périmé ? Notre avis sur « Toy Story 5 », le premier consacré aux écrans",
-      "url": "https://usbeketrica.com/fr/article/nuance-drole-mais-deja-perime-notre-avis-sur-toy-story-5-le-premier-de-la-saga-consacre-aux-ecrans",
-      "description": "La joyeuse bande de jouets, qui fait le succès des studios Pixar depuis 1995, débarque dans les salles obscures le 17 juin pour un cinquième volet, consacré à un \"nouvel ennemi\" qui menace les jouets traditionnels d'extinction : les écrans.",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "VivaTech 2026 : l’Europe peut-elle rattraper son retard face aux robots chinois ?",
       "url": "https://usbeketrica.com/fr/article/vivatech-2026-l-europe-peut-elle-rattraper-son-retard-face-aux-robots-chinois",
       "description": "Du 17 au 20 juin, 15 000 start-up du monde entier se réunissent dans les grands hangars moquettés de la Porte de Versailles, à Paris, pour « célébrer » et « stimuler l’innovation ». Reportage au cœur du grand raout de la tech qui, malgré ses ambitions en matière de souveraineté numérique, révèle l'ampleur du fossé qui sépare encore l'Europe de la Chine sur le marché de la robotique.",
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "Les drogues ont-elles toujours été consommées pour le plaisir ?",
-      "url": "https://usbeketrica.com/fr/article/les-drogues-ont-elles-toujours-ete-consommees-pour-le-plaisir",
-      "description": "Si les drogues les plus populaires du XXIème siècle doivent une partie de leur succès à la fête, d’autres usages, spirituels notamment, coexistent depuis longtemps avec elle. Dans le cadre de la sortie du nouveau numéro de notre magazine FUTUR, consacré au fun et à l'amusement, retour sur l’histoire longue de ce phénomène.",
-      "date": "Fri, 26 Jun 2026",
+      "title": "S. S. Rajamouli, maître du cinéma d'action indien : « Il faut que l’expérience de la salle redevienne spéciale »",
+      "url": "https://usbeketrica.com/fr/article/s-s-rajamouli-maitre-du-cinema-d-action-indien-il-faut-que-l-experience-de-la-salle-redevienne-speciale",
+      "description": "Rencontre avec le réalisateur star S. S. Rajamouli, maître du cinéma d’action indien (Magadheera, La Légende de Baahubali, RRR…), de passage à Paris à l’occasion d’une tournée organisée par son distributeur français Carlotta Films.",
+      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Le recyclage n'est pas une solution miracle, il faut organiser la décroissance matérielle",
-      "url": "https://usbeketrica.com/fr/article/le-recyclage-n-est-pas-une-solution-miracle-il-faut-organiser-la-decroissance-materielle",
-      "description": "TRIBUNE // Présenté comme une solution clé à la crise écologique, le recyclage - y compris celui des métaux - ne peut suivre l’explosion de la demande. En amont du Tribunal pour les Générations Futures qui se tiendra le 18 juin 2026 au théâtre de la Commune à Aubervilliers et au long duquel étudiants de l’IUT de Saint Denis feront le procès du recyclage, Lola Lilensten, chercheuse CNRS à l'Institut de recherche de chimie Paris, assure que pour réduire réellement notre impact, il nous fait repens",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Les drogues ont-elles toujours été consommées pour le plaisir ?",
+      "url": "https://usbeketrica.com/fr/article/les-drogues-ont-elles-toujours-ete-consommees-pour-le-plaisir",
+      "description": "Si les drogues les plus populaires du XXIème siècle doivent une partie de leur succès à la fête, d’autres usages, spirituels notamment, coexistent depuis longtemps avec elle. Dans le cadre de la sortie du nouveau numéro de notre magazine FUTUR, consacré au fun et à l'amusement, retour sur l’histoire longue de ce phénomène.",
+      "date": "Fri, 26 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
