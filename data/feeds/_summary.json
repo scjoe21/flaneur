@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-03T20:01:29.039465+00:00",
+  "lastRun": "2026-07-04T17:33:05.593556+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -20,7 +20,6 @@
     "rai-radio3-filosofia",
     "il-tascabile",
     "doppiozero",
-    "leparoleelecose",
     "not-neroeditions",
     "philosophy-now",
     "overthink",
@@ -36,7 +35,9 @@
     "new-atlantis",
     "pursuit-of-wonder"
   ],
-  "fail": [],
+  "fail": [
+    "leparoleelecose"
+  ],
   "total": 34,
-  "fetched": 34
+  "fetched": 33
 }

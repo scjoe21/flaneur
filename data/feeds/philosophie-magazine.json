@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-03T20:01:08.969367+00:00",
+  "fetchedAt": "2026-07-04T17:31:12.850511+00:00",
   "items": [
     {
       "title": "\"Amnésie infantile\" : pourquoi n’avons-nous aucun souvenir avant l'âge de 2-3 ans ?",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "250 ans de l’indépendance américaine : “Les États-Unis sont en train de devenir une ploutocratie sans limites”",
+      "url": "https://www.philomag.com/articles/250-ans-de-lindependance-americaine-les-etats-unis-sont-en-train-de-devenir-une",
+      "description": "",
+      "date": "Sat, 04 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "Face à la canicule, notre “étrange défaite”",
-      "url": "https://www.philomag.com/articles/face-la-canicule-notre-etrange-defaite",
+      "title": "Le génie comique intact du match de foot philosophique des Monty Python",
+      "url": "https://www.philomag.com/articles/le-genie-comique-intact-du-match-de-foot-philosophique-des-monty-python",
       "description": "",
-      "date": "Mon, 29 Jun 2026",
+      "date": "Sat, 04 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/edition-genetique-des-embryons-le-risque-dun-nouvel-eugenisme",
       "description": "",
       "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La Sagrada Familia (presque) achevée : une visite de la cathédrale avec les philosophes",
-      "url": "https://www.philomag.com/articles/la-sagrada-familia-presque-achevee-une-visite-de-la-cathedrale-avec-les-philosophes",
-      "description": "",
-      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

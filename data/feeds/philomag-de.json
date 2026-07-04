@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-03T20:01:12.567286+00:00",
+  "fetchedAt": "2026-07-04T17:31:16.964207+00:00",
   "items": [
     {
       "title": "Von der Kunst, Ochsen zu zerteilen",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "Bernhard Schlink: „Gerechtigkeit ist ein Sehnsuchtsbegriff“",
-      "url": "https://www.philomag.de/artikel/bernhard-schlink-gerechtigkeit-ist-ein-sehnsuchtsbegriff",
-      "description": "Partizipation, gleiche Rechte und Chancen: Die Gerechtigkeitserwartungen in Demokratien sind hoch. Bernhard Schlink argumentiert in seinem neuen Buch für einen realistischeren Blick. Ein Gespräch über die Macht des Unverfügbaren und die Mühen der Gerechtigkeitsarbeit.",
+      "title": "Wie heilt man Narzissten?",
+      "url": "https://www.philomag.de/artikel/wie-heilt-man-narzissten",
+      "description": "Corine Pelluchon fragt, wie kollektiver Narzissmus und die Zerstörung von Demokratien zusammenhängen – und schlägt mit der  Macht des Weiblichen  ein Gegenmittel vor: eine Politik der Wertschätzung, die um die eigene Verwundbarkeit weiß.",
       "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
@@ -129,22 +129,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "Alpine Divorce",
-      "url": "https://www.philomag.de/artikel/alpine-divorce",
-      "description": "Nach dem Tod am Großglockner häuften sich im digitalen Raum Erfahrungsberichte über das Verlassenwerden am Berg. Drückt sich in diesem Phänomen eine Schrumpfform antiquierter Männlichkeitsideale aus?",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
       }
     },
     {
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Traumhaftes Kino",
+      "url": "https://www.philomag.de/artikel/traumhaftes-kino",
+      "description": "Mit  Resurrection  entwirft Bi Gan ein triumphales Kaleidoskop aus Träumen, Bildern und Illusionen.",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {

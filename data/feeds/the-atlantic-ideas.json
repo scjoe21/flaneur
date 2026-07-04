@@ -1,8 +1,40 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-03T20:01:27.805549+00:00",
+  "fetchedAt": "2026-07-04T17:33:04.297171+00:00",
   "items": [
+    {
+      "title": "How to Define America in 30 Objects",
+      "url": "https://www.theatlantic.com/ideas/2026/07/define-america-30-objects/687778/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "America’s Most Enduring Belief Is Also One of Its Most Dangerous",
+      "url": "https://www.theatlantic.com/ideas/2026/07/america-jefferson-adams-providence/687790/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "All Men Are Created Equal, but What Does <em>Equal </em>Mean?",
       "url": "https://www.theatlantic.com/ideas/2026/07/history-word-equal-rights-declaration/687777/?utm_source=feed",
@@ -100,6 +132,22 @@
       }
     },
     {
+      "title": "What J. D. Vance Once Knew",
+      "url": "https://www.theatlantic.com/ideas/2026/07/jd-vance-trump-independence-day/687779/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "It Wasn’t Just the Founders",
       "url": "https://www.theatlantic.com/ideas/2026/07/american-revolution-history-founders/687800/?utm_source=feed",
       "description": "",
@@ -184,54 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/?utm_source=feed",
       "description": "",
       "date": "2026-07-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Young Republican Activists Are Turning Against Trump",
-      "url": "https://www.theatlantic.com/ideas/2026/07/young-republicans-trump-iran/687746/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump’s Anti-Patriotic Trap",
-      "url": "https://www.theatlantic.com/ideas/2026/07/america-250-july-4-idea/687749/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "An ‘Originalist’ Court Overturns an Originalist Decision",
-      "url": "https://www.theatlantic.com/ideas/2026/06/scotus-humphreys-originalism/687744/?utm_source=feed",
-      "description": "",
-      "date": "2026-06-30",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-03T20:01:28.438255+00:00",
+  "fetchedAt": "2026-07-04T17:33:04.930779+00:00",
   "items": [
     {
       "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
@@ -148,22 +148,6 @@
       }
     },
     {
-      "title": "Kafka’s Approach to Creative Block and the Four Psychological Hindrances That Keep the Gifted from Living Up to Their Gifts",
-      "url": "https://www.themarginalian.org/2026/06/26/kafka-diaries-self-doubt/",
-      "description": "The most paradoxical thing about creative work is that it is both a way in and a way out, that it plunges you into the depths of your being and at the same time takes you out of yourself. Writing is the best instrument I have for metabolizing my experience and clarifying my own mind in such a way that I am no longer captive to it. All creative work is at bottom a means of self-liberation and a coping mechanism — for the loneliness, the despair, the chaos and contradiction within. It is the best ",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
       "title": "The Violinist Who Solved the Ancient Riddle of How the World Holds Together",
       "url": "https://www.themarginalian.org/2026/07/01/marie-tharp-traversal/",
       "description": "This essay is adapted from Traversal. She is looking at the staff lines of a strange symphony in blue, her cautious disbelief punctured by a burst of delirious wonderment. Brushes and tubes of paint are scattered about her — paint she has spent years mixing into the perfect shades of blue to color a world’s worth of oceanic depths inside the contours of her enormous maps in the making. But now she is not looking at the blues. She is not looking at the maps. She is looking at the staff lines. Exc",
@@ -193,6 +177,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "No One You Love Is Ever Dead: Hemingway on the Most Devastating of Losses and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/07/03/hemingway-loss-letter/",
+      "description": "\"We must live it, now, a day at a time and be very careful not to hurt each other.\"",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

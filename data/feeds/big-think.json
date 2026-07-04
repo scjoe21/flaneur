@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-03T20:01:27.469439+00:00",
+  "fetchedAt": "2026-07-04T17:33:03.648275+00:00",
   "items": [
     {
       "title": "5 dangerous lies we tell ourselves, according to philosophy",
@@ -17,22 +17,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
-      }
-    },
-    {
-      "title": "Mary Beard: Why no film has ever cracked The Odyssey",
-      "url": "https://bigthink.com/series/the-big-think-interview/mary-beard-the-odyssey/",
-      "description": "Mary Beard has spent 50 years with the ancient Greeks and Romans, but can’t say with certainty who wrote the Odyssey, or what its most famous adjective for Odysseus actually means. \n Beard also makes the case for why the Odyssey deserves a serious readership right now, ahead of Christopher Nolan’s upcoming film. She argues no translation should be treated as definitive: every version is an interpretation, shaped by the era that produced it, and the smartest way to read the Odyssey is to read sev",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/A1-Web-Beard.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 30
       }
     },
     {
@@ -129,6 +113,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 8
+      }
+    },
+    {
+      "title": "He won a major short story prize. Then he was accused of using AI.",
+      "url": "https://bigthink.com/history-society/he-won-a-major-short-story-prize-then-he-was-accused-of-using-ai/",
+      "description": "Earlier this year, Jamir Nazir, a retired Trinidadian civil servant with no public writing career to speak of,  won both the regional and overall Commonwealth Short Story Prize  for “ The Serpent in the Grove .” The story follows Vishnu, a Trinidadian man and alcoholic, who tries to kill his wife, Sita, in an attempt to escape his life. \n Within days, the win sparked controversy, as readers, writers, and critics accused Nazir of using AI to write the story, citing evidence like its “heavily poli",
+      "date": "Sat, 04 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/accused-of-ai.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
