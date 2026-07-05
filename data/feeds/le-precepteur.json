@@ -1,8 +1,24 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-07-04T17:31:12.006261+00:00",
+  "fetchedAt": "2026-07-05T18:14:24.700338+00:00",
   "items": [
+    {
+      "title": "La mort n’est rien",
+      "url": "https://www.youtube.com/shorts/esnekOciGAs",
+      "description": "Au IIIe siècle avant notre ère, le philosophe grec Épicure développe une idée aussi radicale que rassurante : la mort n’est rien pour nous. Dans cette vidéo, je vous explique pourquoi, selon lui, nous ne rencontrons jamais réellement la mort… et comment la peur de mourir peut nous empêcher d’être heureux tant que nous sommes encore vivants.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #épicure #mort #peur #bonheur #existence",
+      "date": "2026-07-05",
+      "thumbnail": "https://i2.ytimg.com/vi/esnekOciGAs/hqdefault.jpg",
+      "videoId": "esnekOciGAs",
+      "priority": 50,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 50
+      }
+    },
     {
       "title": "L'entraide, facteur de l'évolution",
       "url": "https://www.youtube.com/shorts/1vEKhOqEUAo",
@@ -33,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "La barbarie",
-      "url": "https://www.youtube.com/shorts/cntxpe5nScI",
-      "description": "Au XVIe siècle, le philosophe français Michel de Montaigne remet en question la manière dont les Européens jugent les peuples qu’ils découvrent à travers le monde. Dans cette vidéo, je vous explique pourquoi, selon lui, nous appelons “barbare” tout ce qui nous est étranger, et en quoi le sentiment de supériorité culturelle conduit lui-même à la barbarie.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #montaigne #barbarie #culture #tolérance",
-      "date": "2026-05-31",
-      "thumbnail": "https://i4.ytimg.com/vi/cntxpe5nScI/hqdefault.jpg",
-      "videoId": "cntxpe5nScI",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
       }
     },
     {

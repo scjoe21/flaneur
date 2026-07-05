@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-04T17:33:04.297171+00:00",
+  "fetchedAt": "2026-07-05T18:16:26.879652+00:00",
   "items": [
     {
       "title": "How to Define America in 30 Objects",
@@ -116,19 +116,51 @@
       }
     },
     {
-      "title": "What Would Mark Twain Think of America at 250?",
-      "url": "https://www.theatlantic.com/ideas/2026/07/mark-twain-america-anniversary-critique/687718/?utm_source=feed",
+      "title": "What Trump’s July 4 Speech Revealed",
+      "url": "https://www.theatlantic.com/ideas/2026/07/trump-july-4/687811/?utm_source=feed",
       "description": "",
-      "date": "2026-07-02",
+      "date": "2026-07-05",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "A President With More Control but Less Power",
+      "url": "https://www.theatlantic.com/ideas/2026/07/slaughter-executive-power-administration/687796/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Pope Leo’s July 4 Message to America Was Unmistakable",
+      "url": "https://www.theatlantic.com/ideas/2026/07/pope-leo-lampedusa-july-4/687810/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-policy-defense/687791/?utm_source=feed",
       "description": "",
       "date": "2026-07-02",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Supreme Court’s Utterly Mainstream Ruling on Women’s Sports",
-      "url": "https://www.theatlantic.com/ideas/2026/07/supreme-court-trans-student-athletes-womens-sports/687767/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "There’s Nothing Democratic About These Socialists",
-      "url": "https://www.theatlantic.com/ideas/2026/07/dsa-communist-socialist-democrats/687756/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-01",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

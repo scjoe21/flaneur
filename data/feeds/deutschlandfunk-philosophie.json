@@ -1,8 +1,24 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-07-04T17:31:15.172245+00:00",
+  "fetchedAt": "2026-07-05T18:14:28.944580+00:00",
   "items": [
+    {
+      "title": "Geschlechterrollen - Was tun gegen toxische Männlichkeit?",
+      "url": "https://www.deutschlandfunkkultur.de/das-comeback-der-starken-maenner-was-tun-gegen-toxische-maennlichlichkeit-100.html",
+      "description": "Die starken Männer sind zurück. Ob als lästige Start-Up-Gründer auf YouTube oder als dringend gesuchte Soldaten. Sie geben sich hart, dominant und überlegen. Wie kann dieses Revival erklärt werden? Und wo bleibt die Gegenoffensive der „neuen“ Männer? Miller, Simone; Villa, Paula; Theunert, Markus www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 05 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Intersektionalität - Wie Rassismus und Sexismus zusammenspielen",
       "url": "https://www.deutschlandfunkkultur.de/kimberle-crenshaw-vordenkerin-der-intersektionalitaet-100.html",
@@ -30,22 +46,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Beautytrend \"Looksmaxxing\" - Schönheitswahn bei Männern ist keine Gleichberechtigung",
-      "url": "https://www.deutschlandfunkkultur.de/looksmaxxing-schoenheitsideale-manosphere-maennlichkeit-gleichberechtigung-100.html",
-      "description": "Sie heißen „Looksmaxxer“: Männer, die viel Geld und Zeit in ihr Aussehen stecken. Ist es ausgleichende Gerechtigkeit, wenn nicht nur Frauen sondern auch Männer den Druck zum Schönsein spüren? Von Christine Bratu www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 24 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -116,22 +116,6 @@
       }
     },
     {
-      "title": "Martin Heidegger - Der verstrickte Denker",
-      "url": "https://www.deutschlandfunkkultur.de/50-todestag-von-martin-heidegger-der-verstrickte-denker-100.html",
-      "description": "Martin Heidegger war Nationalsozialist, Antisemit – und der einflussreichste Philosoph des 20. Jahrhunderts. Vor 50 Jahren starb er. Sollten wir ihn weiter lesen? Unbedingt, trotz allem, sagt Literaturwissenschaftler Oliver Jahraus. Eilenberger, Wolfram; Jahraus, Oliver www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 24 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Kommentar zur Namensrechtsreform - Patriarchaler Zwang zum Namen des Ehemannes fällt weg",
       "url": "https://www.deutschlandfunkkultur.de/namensrecht-reform-ehefrau-gleichberechtigt-identitaet-kommentar-100.html",
       "description": "Am 1. Juli 1976 trat in Westdeutschland ein neues Namensrecht in Kraft: Seither müssen Ehefrauen nicht mehr automatisch den Namen ihres Mannes annehmen. Eine kleine bürokratische Anpassung - aber mit sehr hohem Symbolgehalt. Von David Lauer www.deutschlandfunkkultur.de, Sein und Streit",
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Internationaler Tag des Kusses: Bedrohte Intimität",
+      "url": "https://www.deutschlandfunkkultur.de/internationaler-tag-des-kusses-bedrohte-intimitaet-100.html",
+      "description": "Schniederjann, Nils www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 05 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

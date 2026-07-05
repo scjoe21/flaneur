@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-04T17:33:04.930779+00:00",
+  "fetchedAt": "2026-07-05T18:16:27.428899+00:00",
   "items": [
     {
       "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "The Art of Losing and the Art of Beckoning Love Back: The Story Behind One of the Greatest Poems Ever Written",
+      "url": "https://www.themarginalian.org/2026/07/03/one-art/",
+      "description": "You wouldn’t have bet on it, the frail famous poet teaching at Harvard as a visiting professor and the athletic secretary of the campus residence half her age. But every great love exists against probability, belongs to that region of the universe where the wildest bet may be the winning bet. When she met Alice Methfessel, Elizabeth Bishop had served as Poet Laureate of the United States, had won the National Book Award and the Pulitzer Prize, had spent the better part of her youth in solitude a",
+      "date": "Sat, 04 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "How to Be Un-Dead: Anaïs Nin and D.H. Lawrence on the Key to Living Fully",
       "url": "https://www.themarginalian.org/2026/07/01/anais-nin-d-h-lawrence/",
       "description": "\"Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death.\"",
@@ -180,6 +196,22 @@
       }
     },
     {
+      "title": "The Pain in You and the God in You: Carl Jung on the Relationship Between Psychological Suffering and Creativity",
+      "url": "https://www.themarginalian.org/2026/07/04/carl-jung-neurosis-creativity/",
+      "description": "When AI first began colonizing language — which is still our best instrument for bridging the abyss between us, a container for thought and feeling that shapes the contents — I asked chatGPT to compose a poem about a solar eclipse in the style of Walt Whitman. It returned a ledger of cliches in rhymed couplets. Getting the form wrong — Whitman did not rhyme — seemed like an easy correction by a line of code. Getting poetry itself wrong was the interesting question, the question that gets at the ",
+      "date": "Sat, 04 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "No One You Love Is Ever Dead: Hemingway on the Most Devastating of Losses and the Meaning of Life",
       "url": "https://www.themarginalian.org/2026/07/03/hemingway-loss-letter/",
       "description": "\"We must live it, now, a day at a time and be very careful not to hurt each other.\"",
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "Mushrooms and Our Search for Meaning",
-      "url": "https://www.themarginalian.org/2026/06/26/fungi-orion/",
-      "description": "This essay was originally published as the cover story in the Summer 2025 issue of Orion Magazine. “Who are you?” the caterpillar barks at Alice from atop the giant mushroom, and Alice, never quite having considered the question, mutters a child’s version of Emily Dickinson’s “I’m nobody! Who are you?” Before he was Lewis Carroll, author of the Alice’s Adventures in Wonderland books, Charles Dodgson was a logician. His Wonderland is a series of nested thought experiments about change and the lim",
-      "date": "Sat, 27 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Tolkien Reads from “The Hobbit” in Rare Archival Audio from His First Encounter with a Tape Recorder",
       "url": "https://www.themarginalian.org/2026/07/01/tolkien-reads-from-the-hobbit/",
       "description": "“He was Gollum — as dark as darkness, except for two big round pale eyes.”",
       "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Georgia O’Keeffe on What It Means to Be an Artist",
-      "url": "https://www.themarginalian.org/2026/06/26/georgia-okeeffe-sherwood-anderson-letters/",
-      "description": "“Whether you succeed or not is irrelevant—there is no such thing. Making your unknown known is the important thing—and keeping the unknown always beyond you…”",
-      "date": "Fri, 26 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

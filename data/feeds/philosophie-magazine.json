@@ -1,8 +1,40 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-04T17:31:12.850511+00:00",
+  "fetchedAt": "2026-07-05T18:14:26.105700+00:00",
   "items": [
+    {
+      "title": "Nos grandes questions : “Pourquoi portons-nous un autre regard sur le monde ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-pourquoi-portons-nous-un-autre-regard-sur-le-monde",
+      "description": "",
+      "date": "Sun, 05 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Mort de Louis à Narbonne : pourquoi l’Aide sociale à l’enfance est-elle si défaillante ?",
+      "url": "https://www.philomag.com/articles/mort-de-louis-narbonne-pourquoi-laide-sociale-lenfance-est-elle-si-defaillante",
+      "description": "",
+      "date": "Sun, 05 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "\"Amnésie infantile\" : pourquoi n’avons-nous aucun souvenir avant l'âge de 2-3 ans ?",
       "url": "https://www.philomag.com/articles/amnesie-infantile-pourquoi-navons-nous-aucun-souvenir-avant-lage-de-2-3-ans",
@@ -68,19 +100,19 @@
       }
     },
     {
-      "title": "Peut-on passer pour quelqu'un d'autre ? 3 textes sur la force des origines commentés par Norman Ajari",
-      "url": "https://www.philomag.com/articles/peut-passer-pour-quelquun-dautre-3-textes-sur-la-force-des-origines-commentes-par-norman",
+      "title": "La “maïeutique” chez Socrate, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/la-maieutique-chez-socrate-cest-quoi",
       "description": "",
-      "date": "Tue, 30 Jun 2026",
+      "date": "Sun, 05 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/decouvrez-les-20-livres-de-nos-20-ans",
       "description": "",
       "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Pendant la canicule, le corps devient une prison”",
-      "url": "https://www.philomag.com/articles/pendant-la-canicule-le-corps-devient-une-prison",
-      "description": "",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Édition génétique des embryons : le risque d’un nouvel eugénisme ?",
-      "url": "https://www.philomag.com/articles/edition-genetique-des-embryons-le-risque-dun-nouvel-eugenisme",
-      "description": "",
-      "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
