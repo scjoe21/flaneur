@@ -1,8 +1,24 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-10T07:30:11.344436+00:00",
+  "fetchedAt": "2026-07-10T17:04:05.109400+00:00",
   "items": [
+    {
+      "title": "Sebastian Watzl: „Die heutige Umgebung bereitet Menschen mit ADHS-Profil starke Probleme“",
+      "url": "https://www.philomag.de/artikel/sebastian-watzl-die-heutige-umgebung-bereitet-menschen-mit-adhs-profil-starke-probleme",
+      "description": "Welchen Einfluss hat die Aufmerksamkeit auf unser Bewusstsein? Und wie sollten wir individuell und gesellschaftlich mit ihr umgehen? Ein Gespräch mit Sebastian Watzl über unsichtbare Gorillas, „Aufmerksamkeitslandschaften“ und die Bedeutung von ADHS.",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "Eine Frage des Fokus",
       "url": "https://www.philomag.de/artikel/eine-frage-des-fokus",
@@ -84,26 +100,26 @@
       }
     },
     {
-      "title": "Meine Aufmerksamkeit",
-      "url": "https://www.philomag.de/artikel/meine-aufmerksamkeit",
-      "description": "Auf mich selbst oder den anderen gerichtet, etwas erwartend oder offen für das Erscheinende, konzentriert oder zerstreut: Die Aufmerksamkeit nimmt verschiedene Gestalten an. Fünf Menschen erzählen, wie sie diese erleben.",
-      "date": "Tue, 07 Jul 2026",
+      "title": "Kommunikation und ihre Kritiker",
+      "url": "https://www.philomag.de/artikel/kommunikation-und-ihre-kritiker",
+      "description": "Im Diskurs können Menschen vernünftige, konsensfähige Prinzipien des Miteinanders herausarbeiten, meint Habermas und erklärt damit die Kommunikation zur Grundlage einer besseren Gesellschaft. Doch seine Theorie von Verständigung und Einverständnis erntet auch Kritik.",
+      "date": "Mon, 13 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 20
       }
     },
     {
-      "title": "Lukrez",
-      "url": "https://www.philomag.de/artikel/lukrez",
-      "description": "Was die Menschen nicht „erkennen können“, führen sie auf „göttliches Walten“ zurück, erklärt Lukrez. Warum geht das mit Gefahren einher?",
-      "date": "Fri, 03 Jul 2026",
+      "title": "Meine Aufmerksamkeit",
+      "url": "https://www.philomag.de/artikel/meine-aufmerksamkeit",
+      "description": "Auf mich selbst oder den anderen gerichtet, etwas erwartend oder offen für das Erscheinende, konzentriert oder zerstreut: Die Aufmerksamkeit nimmt verschiedene Gestalten an. Fünf Menschen erzählen, wie sie diese erleben.",
+      "date": "Tue, 07 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -148,6 +164,22 @@
       }
     },
     {
+      "title": "Apokalypse? Nein!",
+      "url": "https://www.philomag.de/artikel/apokalypse-nein",
+      "description": "Der einzige Weg, die Katastrophe zu vermeiden, bestehe darin zuzugeben, dass sie unvermeidlich ist, meint Slavoj Žižek. Und gibt eine Antwort auf die Frage, ob wir uns in einer Vorkriegsphase befinden.",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Politik der Angst",
       "url": "https://www.philomag.de/artikel/politik-der-angst",
       "description": "Wird Menschen konstant die eigene Gefährdung vor Augen geführt, sind Ohnmacht und Schutzbedürftigkeit die Folge. Auf der Strecke bleibt die Eigenmächtigkeit. Die Psychoanalytikerin Jeannette Fischer über eine besorgniserregende Tendenz.",
@@ -182,7 +214,7 @@
     {
       "title": "Propaganda im Feed",
       "url": "https://www.philomag.de/artikel/propaganda-im-feed",
-      "description": "Soziale Medien versprachen einst Demokratisierung und emanzipatorisches Potential, verleiten jedoch immer mehr zu bloß passivem Konsum und dem gezieltem Einsatz von Propaganda. Sind Soziale Medien also mithin nur die nächste Stufe der Kulturindustrie oder verbleiben noch Möglichkeiten eines mündigen Umgangs im digitalen Zeitalter?",
+      "description": "Soziale Medien versprachen einst Demokratisierung und emanzipatorisches Potenzial, verleiten jedoch immer mehr zu bloß passivem Konsum und dem gezieltem Einsatz von Propaganda. Sind Soziale Medien also mithin nur die nächste Stufe der Kulturindustrie oder verbleiben noch Möglichkeiten eines mündigen Umgangs im digitalen Zeitalter?",
       "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -209,38 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Die unmögliche Akteurin",
-      "url": "https://www.philomag.de/artikel/die-unmoegliche-akteurin",
-      "description": "Der Feminismus der Gegenwart feiert die Frau nicht mehr als handelndes Subjekt, sondern als Erzählerin erfahrenen Leids. Mit gravierenden Folgen. Eine kritische Analyse von Mirna Funk.",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Der Köttbullar-Lolli",
-      "url": "https://www.philomag.de/artikel/der-koettbullar-lolli",
-      "description": "Ein Lolli, der nach Fleisch schmecken soll?",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

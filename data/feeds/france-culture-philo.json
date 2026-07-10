@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-10T07:30:04.532298+00:00",
+  "fetchedAt": "2026-07-10T17:03:58.557329+00:00",
   "items": [
     {
       "title": "Qu'est-ce que les Lumières ?  : Les Lumières écossaises",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "(Re)lire les classiques féministes 2/4 :  \"Le Deuxième Sexe\" de Simone de Beauvoir par la philosophe Manon Garcia",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:59:23  - Avec philosophie - par : Géraldine Mosna-Savoye - Manon Garcia évoque la première philosophe à avoir fait des femmes un sujet philosophique : Simone de Beauvoir. Dans \"Le Deuxième sexe\", elle pose cette question d'une grande actualité : comment conjurer les mythes du féminin pour permettre une véritable rencontre entre les hommes et les femmes ?  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, re",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:58:06  - Avec philosophie - par : Géraldine Muhlmann - Que sont les \"autres\" pour Spinoza ? Que veut dire cette phrase qui lui appartient : \"À l’homme rien de plus utile que l’homme\" ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Doris Lessing, romancière philosophe ? : L'effondrement",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-effondrement-3663764",
-      "description": "durée : 00:58:12  - Avec philosophie - par : Géraldine Muhlmann - L'effondrement et la destruction sont des thèmes récurrents de l'œuvre de l'écrivaine britannique, Doris Lessing, depuis son grand roman de 1962, \"Le Carnet d'or\". En mettant ainsi en scène des mondes en crise, elle interroge les points de rupture des individus, des civilisations et des certitudes.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Nicolas Poirier Docte",
-      "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

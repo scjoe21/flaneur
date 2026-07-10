@@ -1,8 +1,24 @@
 {
   "sourceId": "not-neroeditions",
   "sourceName": "Not (Nero Editions)",
-  "fetchedAt": "2026-07-10T07:30:24.110438+00:00",
+  "fetchedAt": "2026-07-10T17:05:24.610928+00:00",
   "items": [
+    {
+      "title": "Bestiario artificiale",
+      "url": "https://not.neroeditions.com/bestiario-artificiale/",
+      "description": "Le questioni e gli allarmi che oggi gravitano attorno “all’iperoggetto” IA sono davvero così nuovi? Oppure le intelligenze artificiali continuano a sollecitare interrogazioni più antiche? Abitare questa domanda sarebbe come chiedersi: l’eternità invecchia? Niente di nuovo sotto il sole? A leggere Auguste Blanqui, il rivoluzionario francese che, dal buio del suo internamento nel Castello di […] \n The post  Bestiario artificiale  appeared first on  Not .",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
     {
       "title": "Disfare la macchina",
       "url": "https://not.neroeditions.com/disfare-la-macchina/",
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Giocare con il fallimento",
-      "url": "https://not.neroeditions.com/giocare-con-il-fallimento/",
-      "description": "“Il sole di mezzogiorno picchia forte. All’ombra di un fico cresciuto spontaneamentenell’anfiteatro incompiuto di Giarre, il giornalista dell’Independent si asciuga la fronte e chiede: ‘E adesso? Cosa ne farete di queste opere?’ Rispondiamo: ‘La verità è che non vogliamo fare nulla.’” Così si conclude Per Troppo Amore, il testo con cui il collettivo Alterazioni Video […] \n The post  Giocare con il fallimento  appeared first on  Not .",
-      "date": "Mon, 19 Jan 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

@@ -1,7 +1,7 @@
 {
   "sourceId": "rick-dufer",
   "sourceName": "Rick DuFer",
-  "fetchedAt": "2026-07-10T07:30:14.542891+00:00",
+  "fetchedAt": "2026-07-10T17:04:08.093135+00:00",
   "items": [
     {
       "title": "DISSENTIRE per poter PENSARE: tra Guerra, Matrix e Linguaggio | con Bruno Mastroianni",
@@ -20,7 +20,23 @@
       }
     },
     {
-      "title": "Dimmi come GIOCHI e ti dirò CHI SEI | Con Renato Minutolo",
+      "title": "Dall'URSS a Instagram: la cecità strategica che distrugge gli imperi (e le persone)",
+      "url": "https://www.youtube.com/watch?v=JxUf0fpU7dU",
+      "description": "Se vuoi seguire la prima lezione della Cogito Academy ➤➤➤ https://mailchi.mp/cogitostudios/prima-lezione-gratis \nDall’URSS ai generali di Putin, fino all'algoritmo dei social: perché punire il dissenso ci condanna al crollo. Spinoza e la filosofia pratica per accettare la realtà. \n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \nI prossimi eventi dal vivo ➤➤➤ htt",
+      "date": "2026-07-10",
+      "thumbnail": "https://i3.ytimg.com/vi/JxUf0fpU7dU/hqdefault.jpg",
+      "videoId": "JxUf0fpU7dU",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "Il Gioco è una cosa MALEDETTAMENTE SERIA (e stiamo dimenticando come si fa) | con Renato Minutolo",
       "url": "https://www.youtube.com/watch?v=Ue14jN4R5qY",
       "description": "Il futuro non è un'attesa, è un atto di volontà. 🏛 Prendi il comando dei tuoi risparmi con Scalable Capital e ottieni il 2,5% di interessi* sulla tua liquidità 👉 https://partner.scalable-capital.de/go.cgi?pid=966&wmid=1073&cpid=4&prid=13&subid=&target=Tagesgeld_AFF_2026\n \nUna chiacchierata tra scacchi, Risico e Warhammer. Con Renato Minutolo esploriamo perché il gioco è una cosa seria, come rivela chi siamo e perché la società si sta infantilizzando.\n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbb",
       "date": "2026-07-09",
@@ -64,22 +80,6 @@
         "phil": 15,
         "flaneur": 0,
         "novelty": 5,
-        "total": 30
-      }
-    },
-    {
-      "title": "Perché ti senti sempre SVUOTATO e DISTRATTO? La risposta sta nel Comportamento",
-      "url": "https://www.youtube.com/watch?v=Shs0pg-QFOw",
-      "description": "ULTIMO giorno di iscrizioni ➤➤➤ https://www.cogitoacademy.it/ \nPassiamo le giornate a reagire agli stimoli, ma la filosofia ci insegna a tornare Artigiani della nostra esistenza. Scopri come passare dal comportamento passivo all'azione reale.\n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \nI prossimi eventi dal vivo ➤➤➤ https://www.dailycogito.com/eventi \nScopri",
-      "date": "2026-06-30",
-      "thumbnail": "https://i4.ytimg.com/vi/Shs0pg-QFOw/hqdefault.jpg",
-      "videoId": "Shs0pg-QFOw",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 30
       }
     },
@@ -196,16 +196,16 @@
       }
     },
     {
-      "title": "ATOMOS vale da solo il prezzo del biglietto! #cogitoacademy #rickdufer",
-      "url": "https://www.youtube.com/shorts/VlxehzOxEvQ",
-      "description": "ATOMOS da solo vale MOLTO PIÙ del prezzo del biglietto! La prima video-enciclopedia di filosofia in italiano, con docenti universitari, esperti del settore e divulgatori eccezionali che ti accompagneranno attraverso la storia del pensiero occidentale: da Platone a Nietzsche, da Aristotele ad Heidegger, in un'incredibile avventura fatta di video accessibili a tutti, spiegati con chiarezza e competenza. \n\nATOMOS è un'esclusiva della Cogito Academy e le lezioni saranno rese disponibili a partire da",
-      "date": "2026-06-30",
-      "thumbnail": "https://i3.ytimg.com/vi/VlxehzOxEvQ/hqdefault.jpg",
-      "videoId": "VlxehzOxEvQ",
+      "title": "IA: La Rivoluzione Creativa per il Pensiero Umano #shorts",
+      "url": "https://www.youtube.com/shorts/6EMx4sU2FGc",
+      "description": "L'intelligenza artificiale può superare le nostre capacità di calcolo, liberando il pensiero umano dall'essenziale. Un parallelo con la fotografia che ha rivoluzionato l'arte pittorica, spingendola verso nuove forme espressive. #IntelligenzaArtificiale #PensieroUmano #Innovazione #Futuro",
+      "date": "2026-07-10",
+      "thumbnail": "https://i3.ytimg.com/vi/6EMx4sU2FGc/hqdefault.jpg",
+      "videoId": "6EMx4sU2FGc",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

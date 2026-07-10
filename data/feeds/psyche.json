@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-10T07:30:28.569007+00:00",
+  "fetchedAt": "2026-07-10T17:05:28.803693+00:00",
   "items": [
     {
       "title": "Pierre Bourdieu: habitus",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Being lonely taught me how to be me",
+      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone",
+      "description": "When I moved to a new city where I had no friends, Olivia Laing’s book helped me find my own rhythm and enjoy time alone - by Anandi Mishra Read on Psyche",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
       "title": "Same art, different name: would you see or hear it the same way?",
       "url": "https://psyche.co/ideas/same-art-different-name-would-you-see-or-hear-it-the-same-way",
       "description": "A mislabelled concerto and other errors and tricks show that reputation affects how art is perceived, sometimes radically - by Rikki A Wolpowitz Read on Psyche",
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "The thinking style that makes people vulnerable to extremism",
-      "url": "https://psyche.co/ideas/the-thinking-style-that-makes-people-vulnerable-to-extremism",
-      "description": "The people most drawn to ideological thinking and authoritarianism aren’t aware of what makes them so susceptible - by Leor Zmigrod Read on Psyche",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

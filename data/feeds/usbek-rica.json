@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-10T07:30:05.903673+00:00",
+  "fetchedAt": "2026-07-10T17:04:00.315988+00:00",
   "items": [
     {
       "title": "« Technoférence » : comment décrocher de son téléphone face à son enfant ?",
@@ -86,7 +86,7 @@
     {
       "title": "J’ai joué au « test des trois Chinois », et voilà le résultat",
       "url": "https://usbeketrica.com/fr/article/j-ai-joue-au-test-des-trois-chinois-et-voila-le-resultat",
-      "description": "ÉDITO // Qui est capable de citer le nom de trois Chinois vivants ? Derrière cette question provocatrice, posée par le rédacteur en chef du site Le Grand Continent, il y a le constat d’une urgence : le travail de veille sur l’état du monde et les émergences de notre époque ne doit pas être réservée à une poignée d’experts. C’est l’angle creusé dans l’édito de son nouveau numéro, disponible en librairie depuis le 9 juillet.",
+      "description": "ÉDITO // Qui est capable de citer le nom de trois Chinois vivants ? Derrière cette question provocatrice, posée par le rédacteur en chef du site Le Grand Continent, il y a le constat d’une urgence : le travail de veille sur l’état du monde et les émergences de notre époque ne doit pas être réservé à une poignée d’experts. C’est l’angle creusé dans l’édito du nouveau numéro de FUTUR, le magazine d'Usbek & Rica, disponible en librairie depuis le 9 juillet.",
       "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -148,22 +148,6 @@
       }
     },
     {
-      "title": "Parier sur nos likes et nos opinions : la nouvelle lubie de Polymarket",
-      "url": "https://usbeketrica.com/fr/article/polymarket-parier-sur-nos-likes-et-nos-opinions-futurs-la-nouvelle-lubie-des-plateformes-predictives",
-      "description": "On connaissait jusqu’ici la plateforme Polymarket pour ses offres de paris tous azimuts, des compétitions sportives aux élections en passant par les conflits géopolitiques. Voilà désormais qu’elle projette d’offrir à ses utilisateurs la possibilité de parier sur l’« attention » numérique que ces événements suscitent : volume de tweets, nombres de vues et fluctuations de l’opinion. Au risque de la manipulation ? Enquête.",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "« Solopreneurs » : en Chine, l'IA fait exploser le micro-entrepreneuriat",
       "url": "https://usbeketrica.com/fr/article/solopreneurs-en-chine-l-ia-fait-exploser-le-micro-entrepreneuriat",
       "description": "L'auto-entrepreneuriat a la côte en Chine. Secondés par moultes outils d'intelligence artificielle, des « solopreneurs » lancent leur propre entreprise à moindre frais et sans aucun employé. Une tendance qui cache une crainte, désormais massive, de devenir osbolète face à l'automatisation du travail.",
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "5 romans pour plonger dans le futur cet été",
+      "url": "https://usbeketrica.com/fr/article/5-romans-pour-plonger-dans-le-futur-cet-ete",
+      "description": "Vous ne savez pas encore quels romans embarquer dans vos valises cet été ? On vous en conseille cinq dévorés récemment - et qui parlent du futur, évidemment.",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

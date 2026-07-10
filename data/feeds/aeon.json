@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-10T07:30:24.956288+00:00",
+  "fetchedAt": "2026-07-10T17:05:25.409497+00:00",
   "items": [
     {
       "title": "Karl Hess: toward liberty",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "Reset: Hat",
-      "url": "https://aeon.co/videos/in-the-american-west-a-man-named-hat-sets-out-to-leave-no-trace",
-      "description": "This portrait of a life reimagined is a meditation on identity, happiness and the balance between freedom and conformity - by Aeon Video Watch on Aeon",
-      "date": "Thu, 25 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
       }
     },
     {
@@ -177,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Lore of the rings",
+      "url": "https://aeon.co/essays/how-to-decode-the-archive-inside-ancient-tree-rings",
+      "description": "Trees contain an archive – tales of planetary shifts, cosmic events, historical pivots – that we’re only just unlocking - by Valerie Trouet Read on Aeon",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

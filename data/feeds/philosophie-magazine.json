@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-10T07:30:05.527361+00:00",
+  "fetchedAt": "2026-07-10T17:03:59.974746+00:00",
   "items": [
     {
       "title": "Nos grandes questions : “Pourquoi portons-nous un autre regard sur le monde ?”",
@@ -52,23 +52,7 @@
       }
     },
     {
-      "title": "Mort de Louis à Narbonne : pourquoi l’Aide sociale à l’enfance est-elle si défaillante ?",
-      "url": "https://www.philomag.com/articles/mort-de-louis-narbonne-pourquoi-laide-sociale-lenfance-est-elle-si-defaillante",
-      "description": "",
-      "date": "Sun, 05 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "“Le sentiment océanique et l'expérience de l’infini” : le nouveau “Philosophie magazine” sort ce jeudi !",
+      "title": "“Le sentiment océanique et l'expérience de l’infini” : le nouveau “Philosophie magazine” sort ce vendredi !",
       "url": "https://www.philomag.com/articles/le-sentiment-oceanique-et-lexperience-de-linfini-le-nouveau-philosophie-magazine-sort-ce",
       "description": "",
       "date": "Fri, 10 Jul 2026",
@@ -129,6 +113,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Hilary Putnam, le philosophe qui a fait sortir l’esprit de sa cuve",
+      "url": "https://www.philomag.com/articles/hilary-putnam-le-philosophe-qui-fait-sortir-lesprit-de-sa-cuve",
+      "description": "",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Le “sentiment océanique” : concept philosophique ou brèche dans la rationalité ?",
+      "url": "https://www.philomag.com/articles/le-sentiment-oceanique-concept-philosophique-ou-breche-dans-la-rationalite",
+      "description": "",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/sauver-le-vivant-avec-le-droit-entretien-avec-le-philosophe-baptiste-morizot-et-le",
       "description": "",
       "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Kwame Anthony Appiah : “Les Américains n’ont pas de vision historique commune”",
-      "url": "https://www.philomag.com/articles/kwame-anthony-appiah-les-americains-nont-pas-de-vision-historique-commune",
-      "description": "",
-      "date": "Sat, 04 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
