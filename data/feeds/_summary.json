@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-10T17:05:32.412802+00:00",
+  "lastRun": "2026-07-10T20:04:14.759478+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -12,7 +12,6 @@
     "deutschlandfunk-philosophie",
     "hohe-luft",
     "philomag-de",
-    "merkur",
     "agora42",
     "sternstunde-philosophie",
     "rick-dufer",
@@ -27,7 +26,6 @@
     "philosophy-bites",
     "psyche",
     "then-and-now",
-    "daily-stoic",
     "big-think",
     "the-atlantic-ideas",
     "noema",
@@ -36,8 +34,10 @@
     "pursuit-of-wonder"
   ],
   "fail": [
-    "leparoleelecose"
+    "merkur",
+    "leparoleelecose",
+    "daily-stoic"
   ],
   "total": 34,
-  "fetched": 33
+  "fetched": 31
 }

@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-10T17:05:28.803693+00:00",
+  "fetchedAt": "2026-07-10T20:04:11.645460+00:00",
   "items": [
     {
       "title": "Pierre Bourdieu: habitus",
@@ -132,22 +132,6 @@
       }
     },
     {
-      "title": "We should study the history of emotions",
-      "url": "https://psyche.co/notes-to-self/critics-of-the-history-of-emotions-are-missing-the-point",
-      "description": "A profile of a scholar of the history of emotions provoked a remarkable backlash. But critics of the field misunderstand it - by Sam Haselby Read on Psyche",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Gadu Doushin",
       "url": "https://psyche.co/videos/the-japanese-dance-tradition-that-finds-beauty-in-weakness",
       "description": "Butoh – the Japanese dance form cherishing imperfection that emerged as the country recovered from the Second World War - Video by MN Original Watch on Psyche",
@@ -176,6 +160,22 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Emotions were felt differently in the past",
+      "url": "https://psyche.co/notes-to-self/critics-of-the-history-of-emotions-are-missing-the-point",
+      "description": "A profile of a scholar of the history of emotions provoked a remarkable backlash. But critics of the field misunderstand it - by Sam Haselby Read on Psyche",
+      "date": "Thu, 02 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
         "total": 5
       }
     },

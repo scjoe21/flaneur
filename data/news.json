@@ -2,7 +2,7 @@
   "week": "2026-W29",
   "weekLabel": "2026년 7월 13일 — 17일",
   "theme": "",
-  "curatedAt": "2026-07-10T17:17:45.205265+00:00",
+  "curatedAt": "2026-07-10T20:09:52.469840+00:00",
   "items": [
     {
       "day": "monday",
@@ -223,6 +223,26 @@
       ],
       "originalTitle": "Nature and Creativity: The Science of “Soft Fascination” and How the Natural World Resets the Brain",
       "id": "fri-02"
+    },
+    {
+      "day": "friday",
+      "dayLabel": "금요일",
+      "country": "usa",
+      "countryLabel": "미국",
+      "source": "Big Think",
+      "sourceUrl": "https://bigthink.com/series/full-interview/the-psychology-of-revenge/",
+      "channelUrl": "https://bigthink.com",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-11.42.20-AM.png?quality=80&w=640",
+      "title": "복수는 왜 달콤하고 왜 파괴적인가",
+      "summary": "복수를 상상할 때 느끼는 쾌감, 그것은 정의인가 독인가?",
+      "detail": "[현상/질문] 누군가에게 깊이 배신당한 날 밤, 우리는 복수 시나리오를 머릿속에서 반복 재생한다. 그가 잘못을 인정하는 장면, 내가 의연하게 돌아서는 장면, 그의 경력이 무너지는 장면. 그 상상은 기묘하게 달콤하다. 하지만 이상하게도 실제로 복수에 성공한 사람들은 종종 이렇게 말한다. '아무것도 느껴지지 않았다.' 직장에서 자신을 무너뜨린 상사를 결국 고소한 사람, 자신을 버린 파트너의 새 연애가 파국을 맞는 걸 목격한 사람, 오랜 법정 싸움 끝에 승소한 사람—많은 이들이 그 승리의 순간에 허무를 느꼈다고 고백한다. 기대했던 해방감은 없었고, 오히려 자신이 그 관계에 여전히 묶여 있었다는 것을 깨달았다. 복수를 계획하는 동안 우리는 상대방을 생각에서 지운다고 믿지만, 실제로는 매 순간 그를 머릿속 중심에 두고 살아간다. 복수의 욕망은 우리를 앞으로 나아가게 하는 에너지처럼 느껴지지만, 그것이 끝난 자리에서 우리는 무엇이 남는지 묻게 된다.\n\n[철학적 해석] 심리학자 폴 블룸은 복수가 '정의감'처럼 느껴지지만 사실은 등가 교환에 대한 원시적 욕구에 가깝다고 본다. 그는 인간이 손실을 경험할 때 뇌가 균형 회복을 강렬하게 요구한다고 설명한다. 그 균형을 상상으로 달성하는 것이 바로 복수 시나리오의 반복 재생이다. 그러나 블룸이 더 날카롭게 지적하는 것은 현대의 고독 위기와 복수 욕망의 연결이다. 그에 따르면 진짜 문제는 외로움이 아니라 고독을 감당하는 능력의 부재다. 우리는 혼자 있는 상태를 견디지 못할 때, 분노와 원한이라는 강렬한 감정을 통해 타인과의 연결을 유지하려 한다. 복수를 꿈꾸는 순간 우리는 상대방과 연결된 채로 있다. 그것은 역설적이게도 고독에 대한 방어막이다. 니체도 이와 비슷한 맥락에서 르상티망(ressentiment), 즉 원한의 감정을 분석했다. 그것은 자신의 상처를 직접 소화하지 못한 채 외부 대상에 대한 적대감으로 전환하는 심리다. 복수심이 강한 사람일수록 자기 자신과 마주하는 것을 피하고 있을 가능성이 크다. 철학은 우리에게 묻는다. 당신이 복수하고 싶은 상대는 정말 그 사람인가, 아니면 당신 안에 있는 무언가인가?\n\n[그 나라 맥락] In America, revenge is a complicated cultural theme. On one hand, American films and TV shows celebrate revenge stories. Movies like Kill Bill or John Wick show revenge as heroic and satisfying. On the other hand, American psychology research often warns against it. Studies from universities like Harvard show that revenge makes people feel worse, not better. Paul Bloom, a Yale psychologist, says Americans confuse loneliness with a need for justice. He argues that the U.S. does not have a loneliness epidemic. It has a solitude epidemic. People cannot sit alone with their thoughts. So they stay angry. They stay connected to the person who hurt them. This keeps the wound open. Many therapists in the U.S. now focus on teaching people to tolerate solitude, not just to forgive others.",
+      "tags": [
+        "복수",
+        "고독",
+        "르상티망"
+      ],
+      "originalTitle": "The psychology of perversion, revenge, and AI companionship",
+      "id": "fri-03"
     }
   ]
 }

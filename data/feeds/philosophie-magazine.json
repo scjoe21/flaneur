@@ -1,24 +1,8 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-10T17:03:59.974746+00:00",
+  "fetchedAt": "2026-07-10T20:02:46.921977+00:00",
   "items": [
-    {
-      "title": "Nos grandes questions : “Pourquoi portons-nous un autre regard sur le monde ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-pourquoi-portons-nous-un-autre-regard-sur-le-monde",
-      "description": "",
-      "date": "Sun, 05 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
     {
       "title": "Comment pense Jordan Bardella ?",
       "url": "https://www.philomag.com/articles/comment-pense-jordan-bardella",
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Lee Ufan au palais des Papes : pierres de touche",
+      "url": "https://www.philomag.com/articles/lee-ufan-au-palais-des-papes-pierres-de-touche",
+      "description": "",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
