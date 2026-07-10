@@ -1,7 +1,7 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-07-05T18:14:36.054729+00:00",
+  "fetchedAt": "2026-07-10T07:30:16.983760+00:00",
   "items": [
     {
       "title": "Niente è davvero finito (anche se Netflix dice il contrario)",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Il riarmo delle coscienze",
-      "url": "https://www.iltascabile.com/societa/riarmo-coscienze/",
-      "description": "Reclutamento culturale, scuola e spazio pubblico: come si costruisce la militarizzazione della società. \n L'articolo  Il riarmo delle coscienze  proviene da  Il Tascabile .",
-      "date": "Tue, 23 Jun 2026",
+      "title": "Un po’ d’amicizia, altrimenti soffoco",
+      "url": "https://www.iltascabile.com/societa/amicizia-soffoco/",
+      "description": "Tra esperienza generazionale e genealogie queer, l’amicizia come fondamento di comunità, cura reciproca e alternativa alla famiglia normativa. \n L'articolo  Un po’ d’amicizia, altrimenti soffoco  proviene da  Il Tascabile .",
+      "date": "Tue, 07 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 25
       }
     },
     {
@@ -52,26 +52,26 @@
       }
     },
     {
+      "title": "Una nuova primavera",
+      "url": "https://www.iltascabile.com/linguaggi/nuova-primavera/",
+      "description": "Mentre i Mondiali 2026 sanciscono la fine delle lusinghe inclusive del capitalismo, Gabriel Kuhn ci mostra come il calcio underground possa ancora inventare nuove primavere. \n L'articolo  Una nuova primavera  proviene da  Il Tascabile .",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "La radicalizzazione dell’Occidente",
       "url": "https://www.iltascabile.com/societa/radicalizzazione-delloccidente/",
       "description": "L'informazione al servizio della guerra, tra postverità, propaganda, censura, bias tecnologici e sorveglianza. \n L'articolo  La radicalizzazione dell’Occidente  proviene da  Il Tascabile .",
       "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Il sogno scaduto della Stazione spaziale internazionale",
-      "url": "https://www.iltascabile.com/scienze/sogno-scaduto-stazione-spaziale-internazionale/",
-      "description": "Il rientro in atmosfera della ISS, previsto per il 2031, rappresenta la rinuncia a un modello di ricerca scientifica e collaborazione internazionale. Con grande felicità degli operatori privati. \n L'articolo  Il sogno scaduto della Stazione spaziale internazionale  proviene da  Il Tascabile .",
-      "date": "Mon, 22 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -100,19 +100,51 @@
       }
     },
     {
-      "title": "Il fuoco brucia tutto ciò che ha di fronte",
-      "url": "https://www.iltascabile.com/linguaggi/fuoco-brucia-tutto-fronte/",
-      "description": "L’amore di Cy Twombly per Roma. \n L'articolo  Il fuoco brucia tutto ciò che ha di fronte  proviene da  Il Tascabile .",
-      "date": "Wed, 24 Jun 2026",
+      "title": "Città morte di Mike Davis",
+      "url": "https://www.iltascabile.com/recensioni/citta-morte-mike-davis/",
+      "description": "L'articolo  Città morte di Mike Davis  proviene da  Il Tascabile .",
+      "date": "Fri, 10 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Tutto testa e niente mani",
+      "url": "https://www.iltascabile.com/letterature/tutto-testa-niente-mani/",
+      "description": "Lingua materiale e diserzione ideologica nella  Strana categoria  bordiniana. \n L'articolo  Tutto testa e niente mani  proviene da  Il Tascabile .",
+      "date": "Wed, 08 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Seveso, l’apocalisse in due tempi",
+      "url": "https://www.iltascabile.com/scienze/seveso-apocalisse-due-tempi/",
+      "description": "Sono passati 50 anni dal peggior disastro ecologico italiano. La storia del monitoraggio decennale che ha dato al mondo i primi dati mai raccolti sulla tossicità umana della diossina, e del medico che lo rese possibile. \n L'articolo  Seveso, l’apocalisse in due tempi  proviene da  Il Tascabile .",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/recensioni/curare-stanca-francesco-diodati/",
       "description": "L'articolo  Curare stanca di Francesco Diodati  proviene da  Il Tascabile .",
       "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ejzen. Opera buffa di Guzel´ Jachina",
-      "url": "https://www.iltascabile.com/recensioni/ejzen-opera-buffa-guzel-jachina/",
-      "description": "L'articolo  Ejzen. Opera buffa di Guzel´ Jachina  proviene da  Il Tascabile .",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Inventario dell’infanzia",
-      "url": "https://www.iltascabile.com/letterature/inventario-infanzia/",
-      "description": "Su  Compiti a casa  di Geoff Dyer. \n L'articolo  Inventario dell’infanzia  proviene da  Il Tascabile .",
-      "date": "Thu, 25 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,24 +1,8 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-05T18:14:26.607074+00:00",
+  "fetchedAt": "2026-07-10T07:30:05.903673+00:00",
   "items": [
-    {
-      "title": "Comment faire classe quand le thermomètre s’affole ?",
-      "url": "https://usbeketrica.com/fr/article/faire-classe-quand-le-thermometre-s-affole",
-      "description": "Des classes surchauffées en été, glaciales en hiver, des bâtiments pas toujours adaptés aux chocs climatiques à venir… Pour faire face, l’école doit revoir sa copie climatique. Voici trois pistes pensées par ACTEE, le programme de rénovation des bâtiments publics.",
-      "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "« Technoférence » : comment décrocher de son téléphone face à son enfant ?",
       "url": "https://usbeketrica.com/fr/article/technoference-comment-decrocher-de-son-telephone-face-a-son-enfant",
@@ -33,6 +17,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
+      }
+    },
+    {
+      "title": "Les agriculteurs doivent-ils payer l’eau plus cher ?",
+      "url": "https://usbeketrica.com/fr/article/les-agriculteurs-doivent-ils-payer-l-eau-plus-cher",
+      "description": "Alors que les sécheresses se multiplient, les champs sont de plus en plus irrigués. Une absurdité environnementale qui pousse certains experts à s’interroger : et si, pour endiguer la surconsommation d’eau, il fallait augmenter la taxe sur l’eau payée par les agriculteurs ? Loin de faire l’unanimité, la question suscite la colère d’une partie du monde agricole. On tentait d'y répondre dans le numéro d'automne 2025 de FUTUR, notre magazine, toujours disponible en librairie.",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Samantha Shannon, autrice de fantasy : « Il faut questionner les idées que les mythes et légendes transmettent d'une génération à l'autre »",
+      "url": "https://usbeketrica.com/fr/article/samantha-shannon-autrice-de-fantasy-il-faut-questionner-les-idees-que-transmettent-les-mythes-et-legendes",
+      "description": "À l’occasion du Festival international du film fantastique de Neuchâtel (NIFFF), qui lui décerne cette année un « prix spécial », la romancière de fantasy Samantha Shannon (The Bone Season, Le Prieuré de l’Oranger…) nous plonge dans les coulisses de son œuvre.",
+      "date": "Tue, 07 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -65,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "J’ai joué au « test des trois Chinois », et voilà le résultat",
+      "url": "https://usbeketrica.com/fr/article/j-ai-joue-au-test-des-trois-chinois-et-voila-le-resultat",
+      "description": "ÉDITO // Qui est capable de citer le nom de trois Chinois vivants ? Derrière cette question provocatrice, posée par le rédacteur en chef du site Le Grand Continent, il y a le constat d’une urgence : le travail de veille sur l’état du monde et les émergences de notre époque ne doit pas être réservée à une poignée d’experts. C’est l’angle creusé dans l’édito de son nouveau numéro, disponible en librairie depuis le 9 juillet.",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -132,22 +164,6 @@
       }
     },
     {
-      "title": "Prophétie - L’IA va-t-elle tuer Spotify ?",
-      "url": "https://usbeketrica.com/fr/article/l-ia-va-t-elle-tuer-spotify",
-      "description": "Saturé de titres et fragilisé par l’IA, le streaming est à bout de souffle. Au point que certains pontes de l’industrie musicale pensent que nos modes de consommation du son pourraient basculer dans les prochaines années. Petit tour d’horizon du futur de l’écoute musicale, à l'occasion de la fête de la musique, qui se tient ce dimanche 21 juin.",
-      "date": "Sun, 21 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "« Solopreneurs » : en Chine, l'IA fait exploser le micro-entrepreneuriat",
       "url": "https://usbeketrica.com/fr/article/solopreneurs-en-chine-l-ia-fait-exploser-le-micro-entrepreneuriat",
       "description": "L'auto-entrepreneuriat a la côte en Chine. Secondés par moultes outils d'intelligence artificielle, des « solopreneurs » lancent leur propre entreprise à moindre frais et sans aucun employé. Une tendance qui cache une crainte, désormais massive, de devenir osbolète face à l'automatisation du travail.",
@@ -166,7 +182,7 @@
     {
       "title": "Le bruit rose, bénéfique ou nocif pour le sommeil des bébés ?",
       "url": "https://usbeketrica.com/fr/article/le-bruit-rose-benefique-ou-nocif-pour-le-sommeil-des-bebes",
-      "description": "Le « bruit rose », ce son doux utilisé notamment pour tester le matériel audio, aiderait les enfants à mieux dormir, d’après un laboratoire japonais spécialisé. De quoi soulager les parents épuisés. Mais des chercheurs de l’université de Pennsylvanie mettent en garde contre les effets indésirables de ce « bruit rose » sur la qualité du sommeil.",
+      "description": "Le « bruit rose », ce son doux utilisé notamment pour tester le matériel audio, aiderait les enfants à mieux dormir, d’après un laboratoire japonais spécialisé. De quoi soulager les parents épuisés. Mais des chercheurs de l’université de Pennsylvanie mettent en garde contre les effets indésirables de ce bruit magique sur la qualité du sommeil.",
       "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -193,22 +209,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "VivaTech 2026 : l’Europe peut-elle rattraper son retard face aux robots chinois ?",
-      "url": "https://usbeketrica.com/fr/article/vivatech-2026-l-europe-peut-elle-rattraper-son-retard-face-aux-robots-chinois",
-      "description": "Du 17 au 20 juin, 15 000 start-up du monde entier se réunissent dans les grands hangars moquettés de la Porte de Versailles, à Paris, pour « célébrer » et « stimuler l’innovation ». Reportage au cœur du grand raout de la tech qui, malgré ses ambitions en matière de souveraineté numérique, révèle l'ampleur du fossé qui sépare encore l'Europe de la Chine sur le marché de la robotique.",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {

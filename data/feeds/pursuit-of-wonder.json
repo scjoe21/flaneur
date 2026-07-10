@@ -1,7 +1,7 @@
 {
   "sourceId": "pursuit-of-wonder",
   "sourceName": "Pursuit of Wonder",
-  "fetchedAt": "2026-07-05T18:16:28.244525+00:00",
+  "fetchedAt": "2026-07-10T07:30:32.800568+00:00",
   "items": [
     {
       "title": "Creativity in the Age of Al Slop - Why I'm No Longer Working Anonymously",
@@ -180,22 +180,6 @@
       }
     },
     {
-      "title": "You're Too Self-Aware to Be Happy | The Psychology of Deep Thinkers",
-      "url": "https://www.youtube.com/watch?v=Tmeg_yelhh4",
-      "description": "Get my new book, \"The Terrible Paradox of Self-Awareness\":\nAmazon: https://www.amazon.com/gp/product/B0FCDCCNJR?&_encoding=UTF8&tag=andrewsmcmeelpublishing-20\nOther retailers (listed under Paperback and eBook): https://publishing.andrewsmcmeel.com/book/the-terrible-paradox-of-self-awareness/\n\nIn this video, we explore the uncanny—often exhausting—nature of having a body and being perceived. What does it mean to know we are in some physical casing, always an object in the world being perceived an",
-      "date": "2025-12-16",
-      "thumbnail": "https://i1.ytimg.com/vi/Tmeg_yelhh4/hqdefault.jpg",
-      "videoId": "Tmeg_yelhh4",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 15
-      }
-    },
-    {
       "title": "Everyone Is Quietly Giving Up (And It Makes Sense)",
       "url": "https://www.youtube.com/watch?v=t0FttQ4mhyI",
       "description": "Become knowledgeable on the future of technology through BlueDot Impact's free courses here: https://bluedot.org/pursuitofwonder. Thank you to BlueDot for sponsoring this video.\n\nIn this video, we explore the decline of cursive writing, the rise of AI-generative technologies, and the earliest examples of human expression and communication in history. In a world of rapid change and decreasing need for direct human involvement, what do we teach new humans? What do we preserve for future humans?\n\nG",
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The Quantum Theory of Consciousness That’s Terrifying Scientists",
+      "url": "https://www.youtube.com/watch?v=gm8Bj2kCkfs",
+      "description": "Go to this link https://boot.dev/?promo=WONDER and use my code WONDER to get 25% off your first payment for boot.dev. Thank you to boot.dev for sponsoring this video.\n\nIn this video, we explore one of the most unsettling ideas in science: quantum immortality. Building off the many-worlds interpretation of quantum mechanics, this idea suggests that there's a probabilistic continuance of each of our consciousnesses that will survive everything. It will continue to feel like us, and it will be eter",
+      "date": "2026-07-08",
+      "thumbnail": "https://i4.ytimg.com/vi/gm8Bj2kCkfs/hqdefault.jpg",
+      "videoId": "gm8Bj2kCkfs",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     }
   ]

@@ -1,28 +1,60 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-05T18:14:25.133544+00:00",
+  "fetchedAt": "2026-07-10T07:30:04.532298+00:00",
   "items": [
     {
-      "title": "Pourquoi le point d'exclamation précède-t-il le point d'interrogation",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-le-point-d-exclamation-precede-t-il-le-point-d-interrogation-2484010",
-      "description": "durée : 00:03:16  - Avec philosophie - par : Frédéric Worms - Cette exploration philosophique s'intéresse à la raison pour laquelle l'être humain a le besoin d'intégrer des faits isolés et surprenants dans sa vision du monde, transformant l'étonnement en une quête de compréhension. Qu'est-ce que c'est qu'une question ?  - réalisation : Virginie Le Duault, Luc-Jean Reynaud - invités : Frédéric Worms Philosophe, directeur de l'École Normale Supérieure (Ulm) \n\nVous aimez ce podcast ? Pour écouter t",
-      "date": "Mon, 29 Jun 2026",
+      "title": "Qu'est-ce que les Lumières ?  : Les Lumières écossaises",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Muhlmann - Au XVIIIe siècle, les \"Lumières écossaises\" apparaissent dans un pays en pleine transformation sur le plan économique et social. Qu'est-ce qui fait leur spécificité, qu'est-ce qui fait leur manière de réfléchir aux émotions individuelles et à ce qui peut créer un \"sens commun\" ?   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épiso",
+      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Qu'est-ce que les Lumières ?  : Que dit Kant dans son texte \"Qu'est-ce que les Lumières\" ?",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:30  - Avec philosophie - par : Géraldine Muhlmann - \"Ose penser par toi-même !\", nous dit Kant. Telle est la devise des Lumières. Mais, s'adressant à Frédéric II de Prusse, il affirme que seule la liberté d'expression favorisera la pensée libre.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Qu'est-ce que les Lumières ?  : Les Lumières et l'idée coloniale",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:02  - Avec philosophie - par : Géraldine Muhlmann - Si les Lumières opèrent une critique de l’ethnocentrisme européen et dénoncent par exemple l’esclavage, elles acceptent pour autant de façon partielle ou implicite l’ordre colonial. Comment alors, ont-elles pensé et critiqué la question coloniale ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
       "scoreDetail": {
         "daily": 20,
         "phil": 15,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 40
+        "novelty": 0,
+        "total": 35
       }
     },
     {
       "title": "Comment répond-on au pourquoi ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-repond-on-au-pourquoi-1132740",
-      "description": "durée : 00:03:36  - Avec philosophie - par : Frédéric Worms - Selon le poète Angelus Silesius, cité par Heidegger, \"la rose est sans pourquoi\". Pour le philosophe Spinoza, le pourquoi relève d'une illusion finaliste. Certaines questions ne trouveront jamais de réponse. Devons-nous renoncer au pourquoi pour nous en tenir au comment ?  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "description": "durée : 00:03:36  - Avec philosophie - par : Frédéric Worms - Selon le poète Angelus Silesius, cité par Heidegger, \"la rose est sans pourquoi\". Pour le philosophe Spinoza, le pourquoi relève d'une illusion finaliste. Certaines questions ne trouveront jamais de réponse. Devons-nous renoncer au pourquoi pour nous en tenir au comment ?  - équipe : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -38,7 +70,7 @@
     {
       "title": "Pourquoi le \"comment\" ne nous suffit-il pas ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-le-comment-ne-nous-suffit-il-pas-2740905",
-      "description": "durée : 00:03:58  - Avec philosophie - par : Frédéric Worms - Quelle est la différence fondamentale entre le comment et le pourquoi ? Selon le fondateur du positivisme, Auguste Comte, la question du \"pourquoi\" est un piège métaphysique auquel la science ne doit pas répondre. Le pourquoi est une question abusive mais a toujours besoin d'un comment.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio Fra",
+      "description": "durée : 00:03:58  - Avec philosophie - par : Frédéric Worms - Quelle est la différence fondamentale entre le comment et le pourquoi ? Selon le fondateur du positivisme, Auguste Comte, la question du \"pourquoi\" est un piège métaphysique auquel la science ne doit pas répondre. Le pourquoi est une question abusive mais a toujours besoin d'un comment.  - équipe : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
@@ -52,26 +84,10 @@
       }
     },
     {
-      "title": "Pourquoi tenons-nous tant à la transmission ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-tenons-nous-tant-a-la-transmission-9157284",
-      "description": "durée : 00:03:28  - Avec philosophie - par : Frédéric Worms - Nous tenons à la transmission parce qu’elle préserve de l'oubli ce qui nous paraît précieux. Mais, souvent sans le vouloir ni même en avoir conscience, nous transmettons aussi une part de nous-mêmes, tels nos peurs et nos désirs. Nous dépendons de ce que nous recevons et de ce que nous transmettons.  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous s",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Pourquoi tout n'est-il pas transmissible",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-tout-n-est-il-pas-transmissible-7349334",
-      "description": "durée : 00:03:48  - Avec philosophie - par : Frédéric Worms - La transmission est un défi permanent. Si le langage est un outil, il bute parfois sur une part d'intransmissible, qu'il s'agisse de mémoires individuelles ou de crimes collectifs. Comment donner forme à ce qui échappe aux mots ?  - réalisation : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 24 Jun 2026",
+      "title": "Qu'est-ce que les Lumières ?  : L'esprit des Lumières et les deux Révolutions, américaine et française",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:14  - Avec philosophie - par : Géraldine Muhlmann - Des préoccupations communes, des références et des lectures relient la Révolution française de 1789 et la Révolution américaine de 1776. De Montesquieu à Thomas Jefferson, de Rousseau à Benjamin Franklin, retour sur les figures essentielles de deux révolutions démocratiques de la fin du 18ᵉ siècle.\n  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour éc",
+      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -84,41 +100,57 @@
       }
     },
     {
-      "title": "Philosopher en s’écrivant des lettres : John Stuart Mill et Harriet Taylor",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/john-stuart-mill-et-harriet-taylor-8291240",
-      "description": "durée : 00:57:45  - Avec philosophie - par : Géraldine Muhlmann - La correspondance entre John Stuart Mill et Harriet Taylor constitue un témoignage exceptionnel de leur relation intellectuelle et affective. À travers leurs lettres, ils échangent leurs réflexions sur la philosophie, la politique, la morale et la condition des femmes, s'influençant réciproquement.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Françoise Orazi Pro",
-      "date": "Thu, 25 Jun 2026",
+      "title": "Spinoza à la loupe : L’erreur et ce qu’elle nous dit de la connaissance",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Muhlmann - D'où viennent nos erreurs ? Et comment s'en libérer ? Spinoza nous propose une théorie de la connaissance très singulière pour nous affranchir de nos fausses idées et pour conduire la raison vers la vérité.  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 05 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 20,
-        "flaneur": 4,
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 29
+        "total": 30
       }
     },
     {
-      "title": "Philosopher en s’écrivant des lettres : Érasme",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/erasme-7778134",
-      "description": "durée : 00:58:15  - Avec philosophie - par : Géraldine Muhlmann - Érasme fit de la correspondance plus qu'un simple échange de lettres. Un lieu de réflexion, de dialogue et de formation de l'esprit... ou l'idéal humaniste d'une raison éclairée par le savoir et la discussion. Sa correspondance nous montre combien penser est aussi entrer en conversation avec autrui.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Christine Bénévent",
-      "date": "Mon, 29 Jun 2026",
+      "title": "Spinoza à la loupe : La critique de la religion",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Muhlmann - En plein XVIIème, Spinoza (1632-1677) entreprend une lutte risquée contre toutes les formes d’aliénations, tant religieuses que politiques,  pour promouvoir la liberté de penser des individus. En quoi consiste donc la critique de la religion dans son \"Traité théologico-politique\" ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épi",
+      "date": "Wed, 08 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Spinoza à la loupe :  Le bien et le mal",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:17  - Avec philosophie - par : Géraldine Muhlmann - Pour Spinoza, le bien et le mal ne sont pas des réalités objectives, mais des interprétations liées à notre nature et à nos affects. Dès lors, ces valeurs ont-elles une existence réelle ou ne sont-elles que des fictions humaines ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
       "scoreDetail": {
         "daily": 0,
-        "phil": 20,
-        "flaneur": 4,
+        "phil": 25,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 25
       }
     },
     {
       "title": "Penser nos vies connectées  : Débusquer les arnaques à la romance avec Platon",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:54  - Avec philosophie - Qu'il s'agisse d'un faux profil se faisant passer pour Brad Pitt sur Internet ou d'un beau parleur dans la vraie vie, Platon, l'un des plus grands philosophes de la Grèce antique, nous apprend à nous méfier de la parole séductrice.  - réalisation : Camille Renard, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "description": "durée : 00:03:54  - Avec philosophie - Qu'il s'agisse d'un faux profil se faisant passer pour Brad Pitt sur Internet ou d'un beau parleur dans la vraie vie, Platon, l'un des plus grands philosophes de la Grèce antique, nous apprend à nous méfier de la parole séductrice.  - équipe : Camille Renard, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Thu, 02 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -134,7 +166,7 @@
     {
       "title": "Doris Lessing, romancière philosophe ? : La question politique",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-question-politique-4983408",
-      "description": "durée : 00:57:48  - Avec philosophie - par : Géraldine Muhlmann - Nourrie par son expérience du colonialisme en Afrique australe et par son engagement, par sa désillusion ensuite, vis-à-vis du communisme, l'œuvre de Doris Lessing interroge les mécanismes de domination et les contradictions des systèmes politiques.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Doria Zénine, Nassim El Kabli, Luna Hadjla - invités : Nicolas Poirier Docteur en science politique de l’unive",
+      "description": "durée : 00:57:48  - Avec philosophie - par : Géraldine Muhlmann - Nourrie par son expérience du colonialisme en Afrique australe et par son engagement, par sa désillusion ensuite, vis-à-vis du communisme, l'œuvre de Doris Lessing interroge les mécanismes de domination et les contradictions des systèmes politiques.  - équipe : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Doria Zénine, Nassim El Kabli, Luna Hadjla - invités : Nicolas Poirier Docteur en science politique de l’université",
       "date": "Thu, 02 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -148,25 +180,9 @@
       }
     },
     {
-      "title": "Philosopher en s’écrivant des lettres : Voltaire et Frédéric II",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/voltaire-et-frederic-ii-5212046",
-      "description": "durée : 00:58:31  - Avec philosophie - par : Géraldine Muhlmann - Qu’est-ce qu’un despote éclairé ? La correspondance entre Voltaire et Frédéric II nous le montre et illustre cette relation entre philosophie et pouvoir. Frédéric II cherche les conseils du penseur éclairé, tandis que Voltaire espère influencer le gouvernement par la raison et le progrès.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Linda Gil Maître de conférenc",
-      "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Clémentine Beauvais, enseignante en sciences de l'éducation : \"Fifi Brindacier, c'est l'enfance qui n'a peur de rien\"",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/clementine-beauvais-enseignante-chercheuse-en-sociologie-de-l-enfance-sur-fifi-brindacier-d-astrid-lindgren-4819655",
-      "description": "durée : 00:58:09  - Avec philosophie - par : Géraldine Mosna-Savoye - \"Fifi Brindacier\", roman jeunesse d'Astrid Lindgren, paru en 1945, nous raconte les aventures de Fifi, une fillette drôle, dotée d'une force extraordinaire, qui vit toute seule, avec son cheval et son singe. Clémentine Beauvais, écrivaine et chercheuse en sociologie de l’enfance nous en parle. \n\n  - réalisation : Nicolas Berger, Doria Zénine, Manon de La Selle, Corinne Amar - invités : Clémentine Beauvais Autrice, traductrice,",
+      "description": "durée : 00:58:09  - Avec philosophie - par : Géraldine Mosna-Savoye - \"Fifi Brindacier\", roman jeunesse d'Astrid Lindgren, paru en 1945, nous raconte les aventures de Fifi, une fillette drôle, dotée d'une force extraordinaire, qui vit toute seule, avec son cheval et son singe. Clémentine Beauvais, écrivaine et chercheuse en sociologie de l’enfance nous en parle. \n\n  - équipe : Nicolas Berger, Doria Zénine, Manon de La Selle, Corinne Amar - invités : Clémentine Beauvais Autrice, traductrice, ense",
       "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -182,7 +198,7 @@
     {
       "title": "Doris Lessing, romancière philosophe ? : Quel féminisme ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/les-femmes-7455300",
-      "description": "durée : 00:58:40  - Avec philosophie - par : Géraldine Muhlmann - L'œuvre de Doris Lessing ne se contente pas de donner une voix aux femmes : elle interroge ce que signifie devenir un sujet libre dans un monde de rapports de pouvoir. La condition féminine y apparaît comme le lieu d'une réflexion large sur l'identité, l'aliénation et la quête de soi.  - réalisation : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Françoise Le Floch, Nassim El Kabli, Luna Hadjla - invités : François de S",
+      "description": "durée : 00:58:40  - Avec philosophie - par : Géraldine Muhlmann - L'œuvre de Doris Lessing ne se contente pas de donner une voix aux femmes : elle interroge ce que signifie devenir un sujet libre dans un monde de rapports de pouvoir. La condition féminine y apparaît comme le lieu d'une réflexion large sur l'identité, l'aliénation et la quête de soi.  - équipe : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Françoise Le Floch, Nassim El Kabli, Luna Hadjla - invités : François de Singly",
       "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -196,26 +212,10 @@
       }
     },
     {
-      "title": "Philosopher en s’écrivant des lettres : Freud et Einstein",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/freud-et-einstein-5642301",
-      "description": "durée : 00:57:49  - Avec philosophie - par : Géraldine Muhlmann - Au cours de l'été 1932, Albert Einstein et Sigmund Freud échangeaient une brève correspondance sur les causes de la guerre et les moyens de l’éviter : Einstein interrogeait les racines de la violence humaine, tandis que Freud y répondait à partir de sa théorie des pulsions.\n  - réalisation : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Isabelle Alfandary Professeure de littéra",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Doris Lessing, romancière philosophe ? : L'effondrement",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-effondrement-3663764",
-      "description": "durée : 00:58:12  - Avec philosophie - par : Géraldine Muhlmann - L'effondrement et la destruction sont des thèmes récurrents de l'œuvre de l'écrivaine britannique, Doris Lessing, depuis son grand roman de 1962, \"Le Carnet d'or\". En mettant ainsi en scène des mondes en crise, elle interroge les points de rupture des individus, des civilisations et des certitudes.   - réalisation : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Nicolas Poirier ",
-      "date": "Tue, 30 Jun 2026",
+      "title": "Spinoza à la loupe : \"À l'homme, rien de plus utile que l'homme\" !",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:06  - Avec philosophie - par : Géraldine Muhlmann - Que sont les \"autres\" pour Spinoza ? Que veut dire cette phrase qui lui appartient : \"À l’homme rien de plus utile que l’homme\" ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Christophe Boltanski : \"Il faut rééditer 'Austerlitz' de Sebald, une enquête des origines qui n'atteint jamais son but\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/christophe-boltanski-ecrivain-et-essayiste-sur-austerlitz-de-w-g-sebald-7235698",
-      "description": "durée : 00:58:17  - Avec philosophie - par : Géraldine Mosna-Savoye - Publié en 2001, par W.G Sebald, \"Austerlitz\" est un roman où enquête, mémoire et errance se mêlent. À travers la quête du héros, Jacques Austerlitz, le récit explore les traces laissées par l'exil, l'effacement et la Shoah, dans l'histoire européenne. L'écrivain Christophe Boltanski nous en parle.  - réalisation : Nicolas Berger, Manon de La Selle, Corinne Amar - invités : Christophe Boltanski Journaliste et écrivain français ",
-      "date": "Fri, 26 Jun 2026",
+      "title": "Doris Lessing, romancière philosophe ? : L'effondrement",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-effondrement-3663764",
+      "description": "durée : 00:58:12  - Avec philosophie - par : Géraldine Muhlmann - L'effondrement et la destruction sont des thèmes récurrents de l'œuvre de l'écrivaine britannique, Doris Lessing, depuis son grand roman de 1962, \"Le Carnet d'or\". En mettant ainsi en scène des mondes en crise, elle interroge les points de rupture des individus, des civilisations et des certitudes.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla - invités : Nicolas Poirier Docte",
+      "date": "Tue, 30 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

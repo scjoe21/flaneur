@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-05T18:16:25.053876+00:00",
+  "fetchedAt": "2026-07-10T07:30:28.569007+00:00",
   "items": [
     {
       "title": "Pierre Bourdieu: habitus",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 25
+      }
+    },
+    {
+      "title": "How to imagine a better future for yourself",
+      "url": "https://psyche.co/guides/how-to-imagine-a-better-future-for-yourself",
+      "description": "Feeling unclear or pessimistic about what’s ahead? Your ‘best possible self’ is a tool for seeing things differently - by Dan Tomasulo Read on Psyche",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
       }
     },
     {
@@ -68,19 +84,35 @@
       }
     },
     {
-      "title": "How to deal with relationship OCD",
-      "url": "https://psyche.co/guides/how-to-deal-with-relationship-ocd",
-      "description": "Repetitive thought spirals about a partner could be a sign of ROCD. But there are ways to reclaim your peace and intimacy - by Marisa T Mazza Read on Psyche",
-      "date": "Wed, 24 Jun 2026",
+      "title": "Same art, different name: would you see or hear it the same way?",
+      "url": "https://psyche.co/ideas/same-art-different-name-would-you-see-or-hear-it-the-same-way",
+      "description": "A mislabelled concerto and other errors and tricks show that reputation affects how art is perceived, sometimes radically - by Rikki A Wolpowitz Read on Psyche",
+      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
+      }
+    },
+    {
+      "title": "The ghost behind",
+      "url": "https://psyche.co/videos/tracing-the-making-and-unmaking-of-four-friends-rockstar-dreams",
+      "description": "Reminiscing with her brother’s bandmates, a filmmaker pieces together a life of music, friendship, dreams and addiction - Directed by Caroline Rumley Watch on Psyche",
+      "date": "Tue, 07 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -113,6 +145,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Gadu Doushin",
+      "url": "https://psyche.co/videos/the-japanese-dance-tradition-that-finds-beauty-in-weakness",
+      "description": "Butoh – the Japanese dance form cherishing imperfection that emerged as the country recovered from the Second World War - Video by MN Original Watch on Psyche",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Does modernisation erase cultural difference – or amplify it?",
+      "url": "https://psyche.co/ideas/does-modernisation-erase-cultural-difference-or-amplify-it",
+      "description": "We understandably fear the flattening effect of modernity. But global data from China to Peru tells a hopeful story - by Thomas Talhelm Read on Psyche",
+      "date": "Wed, 08 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -164,74 +228,10 @@
       }
     },
     {
-      "title": "What moments of insight have in common",
-      "url": "https://psyche.co/notes-to-self/what-does-it-really-mean-to-have-a-moment-of-insight",
-      "description": "From art to science to love, the moment of insight happens when we see a likeness between different things - by Sam Dresser Read on Psyche",
-      "date": "Thu, 25 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Ghosts of summers past",
-      "url": "https://psyche.co/turning-points/my-teens-in-foster-care-were-a-puzzle-with-missing-pieces",
-      "description": "The trauma of foster care left gaps in my memory. Could I piece together a past I couldn’t recall? - by Lisa Marie Basile Read on Psyche",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "The city that rewired my brain",
-      "url": "https://psyche.co/turning-points/new-orleans-rewired-my-brain-to-improvise",
-      "description": "I arrived in New Orleans feeling fractured and dislocated. Then I started haunting the jazz clubs - by Henrick Karoliszyn Read on Psyche",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "The game",
-      "url": "https://psyche.co/videos/track-a-referees-tireless-work-from-kickoff-to-final-whistle",
-      "description": "Split-second decisions under the scrutiny thousands of fans – a rare insight into a FIFA football referee’s experience - Directed by Roman Hodel Watch on Psyche",
-      "date": "Tue, 23 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Mary McLeod Bethune reminds us: education must be fought for",
-      "url": "https://psyche.co/ideas/mary-mcleod-bethune-reminds-us-education-must-be-fought-for",
-      "description": "When they snatched a book from her hands, she pushed back, passing the gift of literacy to generations of Black children - by Salwa Mbarouk Read on Psyche",
-      "date": "Mon, 22 Jun 2026",
+      "title": "A college fling",
+      "url": "https://psyche.co/turning-points/my-college-fling-was-brief-hollow-yet-deeply-meaningful",
+      "description": "It was a three-week stint of make-outs, music, and not much else. But it meant more than he knew - by Jessica Gentile Read on Psyche",
+      "date": "Tue, 07 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

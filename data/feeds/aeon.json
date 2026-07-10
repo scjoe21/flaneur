@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-05T18:16:21.469858+00:00",
+  "fetchedAt": "2026-07-10T07:30:24.956288+00:00",
   "items": [
     {
       "title": "Karl Hess: toward liberty",
@@ -36,19 +36,35 @@
       }
     },
     {
-      "title": "The memories of others",
-      "url": "https://aeon.co/videos/a-japanese-photographers-striking-perceptive-images-of-the-troubles",
-      "description": "How a Japanese war photographer became one of the most insightful chroniclers of the Troubles in Northern Ireland - by Aeon Video Watch on Aeon",
-      "date": "Wed, 24 Jun 2026",
+      "title": "How to offset your brain",
+      "url": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
+      "description": "From confirmation bias to loss aversion, everyone suffers from cognitive biases. Skilfully targeted mindfulness can help - by Stephanie Dorais Read on Aeon",
+      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
+      }
+    },
+    {
+      "title": "Skill nostalgia",
+      "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
+      "description": "Is all the beekeeping, baking and leatherwork just escapist fantasy or the start of a radically human approach to work? - by Joshua Habgood-Coote Read on Aeon",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -100,35 +116,19 @@
       }
     },
     {
-      "title": "Who are the fire-tamers?",
-      "url": "https://aeon.co/essays/who-are-the-fire-taming-healers-of-modern-france",
-      "description": "From remote farmhouses to oncology clinics, a secret world of French healers works in parallel with conventional medicine - by Susanna Crossman Read on Aeon",
-      "date": "Thu, 25 Jun 2026",
+      "title": "Begone dull care",
+      "url": "https://aeon.co/videos/jazz-and-innovative-animation-form-a-sensory-swirl-in-this-1949-short",
+      "description": "Let this exuberant melding of jazz and animation from 1949 blur your senses as abstract visuals interpret the music - by Aeon Video Watch on Aeon",
+      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "And Granny would dance",
-      "url": "https://aeon.co/videos/memories-of-a-childhood-in-tehran-form-a-celebration-of-iranian-women",
-      "description": "Woven from memories of her childhood in Iran, an animator recalls her Granny’s story of loss, love and friendship - by Aeon Video Watch on Aeon",
-      "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -164,22 +164,6 @@
       }
     },
     {
-      "title": "No one is self-made",
-      "url": "https://aeon.co/essays/zhuangzi-and-the-case-against-meritocracy",
-      "description": "The idea that success is deserved has great traction in the world. But Zhuangzi argues that it is a deeply flawed notion - by Christine Abigail L Tan Read on Aeon",
-      "date": "Mon, 22 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Noguchi’s New York animations",
       "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
       "description": "Hand-painted animations bring to life Isamu Noguchi’s ideas for playgrounds that could integrate art with everyday life - by Aeon Video Watch on Aeon",
@@ -196,26 +180,10 @@
       }
     },
     {
-      "title": "Trauma creep",
-      "url": "https://aeon.co/essays/not-everything-is-trauma-language-needs-to-mean-something",
-      "description": "From a broken life to a broken nail, ‘trauma’ has been bleached by overuse. But it names something real – and must be reclaimed - by Lily Dunn Read on Aeon",
-      "date": "Fri, 19 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "The measure of flourishing",
-      "url": "https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature",
-      "description": "Human prosperity depends on nature, but no global metric has captured this with precision. Enter the Nature Relationship Index - by Yadvinder Malhi Read on Aeon",
-      "date": "Mon, 29 Jun 2026",
+      "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
+      "url": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
+      "description": "Most buildings rise from the bottom up, stone by stone. Not so these churches: carved from a single rock, top-to-bottom - by Aeon Video Watch on Aeon",
+      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +196,42 @@
       }
     },
     {
-      "title": "Neanderthal 1",
-      "url": "https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species",
-      "description": "The 16 bones that would rewrite history – on the site in Germany where we began to understand Neanderthals, and ourselves - by Aeon Video Watch on Aeon",
-      "date": "Thu, 18 Jun 2026",
+      "title": "Sangre violenta / sangre violeta",
+      "url": "https://aeon.co/videos/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
+      "description": "Confronted with the horrifying reality of gendered violence, radically different people unite in resistance and protest - by Aeon Video Watch on Aeon",
+      "date": "Wed, 08 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "‘The emperor is far away’",
+      "url": "https://aeon.co/essays/how-little-we-really-know-of-the-mighty-ming-dynasty",
+      "description": "Ming Dynasty China left us copious texts, but these veil the lives of the vast majority of its people from our view - by Craig Clunas Read on Aeon",
+      "date": "Tue, 07 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The measure of flourishing",
+      "url": "https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature",
+      "description": "Human prosperity depends on nature, but no global metric has captured this with precision. Enter the Nature Relationship Index - by Yadvinder Malhi Read on Aeon",
+      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

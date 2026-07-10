@@ -1,78 +1,94 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-05T18:16:26.442338+00:00",
+  "fetchedAt": "2026-07-10T07:30:31.078077+00:00",
   "items": [
     {
-      "title": "5 dangerous lies we tell ourselves, according to philosophy",
-      "url": "https://bigthink.com/mini-philosophy/5-dangerous-lies-we-tell-ourselves-according-to-philosophy/",
-      "description": "We live according to our beliefs. Some beliefs we know well. A Christian knows they believe in God. An ethical vegetarian knows they believe eating animals is wrong. But other beliefs swish around in the rock pools of our unconscious. They are tacit assumptions that motivate our actions but never appear on an employment contract or in a legal document. And even though we rarely pause to examine them, these beliefs or narratives will steer our lives. They are why we get out of bed, think the way ",
-      "date": "Wed, 01 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/5-lies-we-tell-ourselves_compressed_789aea.jpg?quality=85&w=640",
+      "title": "The psychology of perversion, revenge, and AI companionship",
+      "url": "https://bigthink.com/series/full-interview/the-psychology-of-revenge/",
+      "description": "Psychologist Paul Bloom has spent his career studying the parts of human nature we often feel uncomfortable examining: why loneliness feels like starvation, why people are drawn to behaving poorly, why revenge feels righteous until it destroys everything. \n Bloom argues that the US doesn’t actually have a loneliness epidemic, it has a solitude epidemic, one being accelerated by AI companionship. \n \n This video  The psychology of perversion, revenge, and AI companionship  is featured on  Big Thin",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-11.42.20-AM.png?quality=80&w=640",
       "videoId": "",
-      "priority": 39,
+      "priority": 40,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 40
+      }
+    },
+    {
+      "title": "The 221-year-old company that reinvented itself — 4 times",
+      "url": "https://bigthink.com/the-long-game/the-221-year-old-company-that-reinvented-itself-4-times/",
+      "description": "We love telling the story of how horse-and-buggy makers were wiped out by the automobile. It’s a clean, dramatic tale that confirms everything we already believe about disruption, hubris, and the inevitability of change. Clayton Christensen turned this phenomenon — disruptive innovation — into one of the most influential business theories of the past century: the innovator’s dilemma. \n There’s just one problem: The story is not entirely true. \n Meet Jean-Joseph D’Ieteren. \n In 1805, the 14-year-",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/reinvent-wheel_compressed.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
-        "total": 39
+        "total": 29
       }
     },
     {
-      "title": "The myth of a shared reality",
-      "url": "https://bigthink.com/series/full-interview/dan-carlin-myth-of-shared-reality/",
-      "description": "Dan Carlin has spent decades explaining history’s collapses. Now he’s watching one happen in real time. In conversation with Kmele Foster, Carlin unpacks the state of societal collapse, the erosion of our nation’s shared truth, and the sharp comparison between the 80’s’ Xeroxed flyers on windshields and the present day flooding of information.  \n He explains why the Constitution was designed to prevent tyranny, not efficiency, how that tradeoff is finally being tested, and why Congress’s refusal",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Carlin-2A.png?quality=80&w=640",
+      "title": "The pressures pushing America toward short-term thinking",
+      "url": "https://bigthink.com/history-society/the-pressures-pushing-america-toward-short-term-thinking/",
+      "description": "In the wake of World War II, the United States helped establish a world order designed to ensure long-term global stability. \n Today, that order, and the long-view posture that built it, appear to be eroding. Not only are American-led global institutions withering, U.S. policy — both domestic and foreign — seems increasingly oriented toward achieving short-term goals affected by near-term demands: election cycles, market pressures, and geopolitical crises. \n Are U.S. leaders “opting out” of long",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/america-perspective-shift_compressed.png?quality=80&w=640",
       "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "How to not overestimate the number of stars in the Universe",
-      "url": "https://bigthink.com/starts-with-a-bang/overestimated-stars-in-universe/",
-      "description": "Here in our cosmic backyard, the Sun is the ultimate source of light, heat, and energy that powers life on our planet. It therefore only makes sense that we’d want to know, if the Sun is just an ordinary star like so many others in the Universe, how many of them there are within our cosmic horizon. Calculating the number of stars within the presently observable Universe is a daunting task to take on, but one that astronomers and cosmologists have risen to, and now have determined with only very ",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/08/384604main_ero_omega_centauri_4x3_1600-1200-e1693767551811.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "The myth of genius, and who it intentionally leaves out",
-      "url": "https://bigthink.com/series/full-interview/myth-of-genius/",
-      "description": "A philosopher who walked away from an elite academic career to spend 3 years washing dishes in a monastery says that intellectual life has nothing to do with degrees.  \n Zena Hitz argues that the real philosophers are taxi drivers, office clerks, and prisoners: Everyday people who exist outside the cult of academia. \n This video  The myth of genius, and who it intentionally leaves out  is featured on  Big Think .",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-02-at-10.52.56-AM.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 23,
+      "priority": 19,
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 8,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 23
+        "total": 19
       }
     },
     {
-      "title": "The “women are better multitaskers” stereotype is messier than you think",
-      "url": "https://bigthink.com/mind-behavior/the-women-are-better-multitaskers-stereotype-is-messier-than-you-think/",
-      "description": "In a  TikTok video that has racked up 1.4 million likes , men are handed scissors and a sheet of paper and asked to cut out a Christmas tree while describing their favorite memory with their partner. The men start telling a story, but most trail off as they concentrate on the cutting. In another clip, a woman calmly juggles four different chores while her husband struggles to put on socks and hold a conversation simultaneously.  \n These videos are designed to make you laugh. But they also reflec",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/multitasking-stereotype_compressed.png?quality=80&w=640",
+      "title": "“Live deliberately”: The origin of America’s first philosophy",
+      "url": "https://bigthink.com/mini-philosophy/live-deliberately-the-origin-of-americas-first-philosophy/",
+      "description": "My dad called it a “Spanish omelette.” In reality, it was an excuse to clean out the fridge. Anything not-quite-rotting was his to use. Throw it in. To be fair, they were mostly delicious, but a generous flood of ketchup can hide a lot of things. \n Every Saturday morning, as he whisked up our eggs, my dad would listen to  Any Questions? , a weekly BBC Radio 4 panel show where host Jonathan Dimbleby asked politicians, business leaders, and the occasional celebrity questions from the audience: “In",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/america-thinks-4-self_compressed.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Mapped: America’s 10 most creative acts of noncompliance",
+      "url": "https://bigthink.com/strange-maps/mapped-americas-10-most-creative-acts-of-noncompliance/",
+      "description": "Before the United States was a country, it was a rebellion: against kings, taxes, and the general idea that someone far away has the right to tell you what to do. In that very foundational sense, there’s nothing more American than opting out, and this map is your field guide to the U.S.’s most creative acts of noncompliance. From California’s Slab City to Amish Country in the Midwest, this is the other America. Not the majority version, but an equally American one. It exists not despite its resi",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/opt-out-around-US_compressed.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Van life looks like freedom. It can feel like exile.",
+      "url": "https://bigthink.com/history-society/van-life-looks-like-freedom-it-can-feel-like-exile/",
+      "description": "I woke up at 7 a.m. to a swift, hard knock on my door.  Whap .  Whap .  Whap . I’d been living in my converted Sprinter van for nearly six years, and I knew that a knock usually meant someone — a cop, a ranger, a homeowner — wanted me gone. \n I lay still for a moment, coming down from the immediate jolt of adrenaline. Where was I? Right: outside of St. George, Utah, on public land, surrounded by other vans, RVs, and trailers. I had played by the rules and bought an annual permit. I was allowed t",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/toll-of-road_compressed.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
@@ -84,11 +100,11 @@
       }
     },
     {
-      "title": "Is it finally time to take dark matter-free galaxies seriously?",
-      "url": "https://bigthink.com/starts-with-a-bang/dark-matter-free-galaxies/",
-      "description": "Out there beyond the Milky Way, there’s much more than a typical telescopic view reveals. While our eyes might be drawn to the enormous, massive, bright spirals and ellipticals that can be found all across the Universe, the reality is that for every Milky Way-like galaxy out there, there are dozens or even hundreds of small, low-mass, very faint galaxies: the dwarf galaxies of the Universe. Even though large, bright, massive galaxies contain the majority of our Universe’s stars, the majority of ",
-      "date": "Wed, 01 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/DF9.png?quality=80&w=640",
+      "title": "The $325 permit reshaping homeownership in Arizona",
+      "url": "https://bigthink.com/history-society/the-325-permit-reshaping-homeownership-in-arizona/",
+      "description": "“I just always thought there was something not quite right about this world,” Clay Greathouse said, as his truck climbed out of an arroyo and onto a creosote-studded lot near the town of Tombstone.  \n It was a Saturday morning in March, an ideal time to be ambling in Arizona’s high desert, though if the truck broke down here I would certainly not want to be without my water bottle. The last street sign I’d seen was for Last Chance Road. Outside our window, a landscape by turns breathtaking and g",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/new-homesteaders_compressed_f52532.png?quality=80&w=640",
       "videoId": "",
       "priority": 9,
       "scoreDetail": {
@@ -100,59 +116,43 @@
       }
     },
     {
-      "title": "What a psychologist taught me about the cruelest voice in my head",
-      "url": "https://bigthink.com/work-wise/what-a-psychologist-taught-me-about-the-cruelest-voice-in-my-head/",
-      "description": "It’s dusk in the backyard, and I’m juggling a soccer ball, counting: 40, 41, 42. Then the ball clips the outside of my boot and skitters into the bushes. Time to start over. I could go inside and call this practice done. But I don’t. Because a voice in my head has decided that 42 is not a number a serious person stops at, and that stopping at all, ever, is the first soft symptom of becoming someone who loses. \n I was maybe 14.  \n For most of high school and college, this inner monologue ran on a",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/work-wise_cruel-inner-voice.png?quality=80&w=640",
+      "title": "“I would prefer not to”: The mystery behind literature’s most famous act of refusal",
+      "url": "https://bigthink.com/books/i-would-prefer-not-to-the-mystery-behind-literatures-most-famous-act-of-refusal/",
+      "description": "“I would prefer not to.” \n Those words, printed in white capital letters on a black T-shirt, are worn by a man surrounded by crates full of books in Zuccotti Park, downtown Manhattan. It is late October 2011, and the man doesn’t know it yet, but in three weeks’ time, the books in his crates will be seized by the NYPD and destroyed. \n The slogan on the man’s T-shirt comes from Herman Melville’s 1853 short story “Bartleby, the Scrivener.” The words are spoken by Bartleby, a lawyer’s copyist, who h",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/prefer-not-2_compressed.png?quality=80&w=640",
       "videoId": "",
-      "priority": 8,
+      "priority": 9,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 8,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 8
+        "total": 9
       }
     },
     {
-      "title": "He won a major short story prize. Then he was accused of using AI.",
-      "url": "https://bigthink.com/history-society/he-won-a-major-short-story-prize-then-he-was-accused-of-using-ai/",
-      "description": "Earlier this year, Jamir Nazir, a retired Trinidadian civil servant with no public writing career to speak of,  won both the regional and overall Commonwealth Short Story Prize  for “ The Serpent in the Grove .” The story follows Vishnu, a Trinidadian man and alcoholic, who tries to kill his wife, Sita, in an attempt to escape his life. \n Within days, the win sparked controversy, as readers, writers, and critics accused Nazir of using AI to write the story, citing evidence like its “heavily poli",
-      "date": "Sat, 04 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/accused-of-ai.png?quality=80&w=640",
+      "title": "The Opt-Out Nation",
+      "url": "https://bigthink.com/collections/the-opt-out-nation/",
+      "description": "This Big Think issue is a collection of stories about the American instinct to opt out, to pack up and go, to tell the boss, “I’d prefer not to.”",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Opt-Out-091-1-copy.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 0,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 0
+        "total": 5
       }
     },
     {
-      "title": "Ask Ethan: Could we spot an extinction-level asteroid?",
-      "url": "https://bigthink.com/starts-with-a-bang/could-spot-extinction-level-asteroid/",
-      "description": "65 million years ago, the trajectory of life on Earth was changed in an instant: when a massive asteroid, speeding through the inner Solar System, crashed into our planet. In the blink of a cosmic eye, thousands upon thousands of species that had previously dominated the world for millions of years went extinct, including 100% of the flying reptiles, non-avian dinosaurs, ammonites, and the giant marine reptiles, as well as massive populations of mammals, insects, clams, and land-based plants. Du",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/06/134536-134537-e1752018852821.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The terrifying reality of being enslaved by the Roman army",
-      "url": "https://bigthink.com/books/slavery-in-the-roman-empire/",
-      "description": "One of the many millions of people captured by the Romans and sold into slavery was a man who died in Ravenna in the 1st century BC. He wrote his own story, on his own tombstone, so that everyone who saw it would know what he endured and what he survived.  \n Gaius Julius Mygdonius, Parthian in origin. Born a free man and captured as a boy, given away to Roman territory. When helpful fate made me a Roman citizen, I began to save for when I became 50 years old. Ever since my youth I have wanted to",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/not-built-in-a-day_excerpt.jpg?quality=85&w=640",
+      "title": "Ask Ethan: What sets the size of the observable Universe?",
+      "url": "https://bigthink.com/starts-with-a-bang/size-observable-universe/",
+      "description": "When we look out across the Universe, we see objects at all different distances. The planets we see all exist only within our own Solar System: right in our cosmic backyard. The stars that we see exist primarily within our home galaxy, the Milky Way, and can be up to tens of thousands of light-years distant. Our nearest galaxies are under a million light-years away, but  the farthest ones that have been identified  are over 33 billion light-years away. And when we look at the oldest, most distan",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/10/0_STfMzDr64h2YHfJg-e1783630180572.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

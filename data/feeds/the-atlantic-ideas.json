@@ -1,29 +1,45 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-05T18:16:26.879652+00:00",
+  "fetchedAt": "2026-07-10T07:30:31.588724+00:00",
   "items": [
     {
-      "title": "How to Define America in 30 Objects",
-      "url": "https://www.theatlantic.com/ideas/2026/07/define-america-30-objects/687778/?utm_source=feed",
+      "title": "The Death of Renee Good Has Yet to Be Properly Investigated",
+      "url": "https://www.theatlantic.com/ideas/2026/07/alex-pretti-renee-good-accountability/687792/?utm_source=feed",
       "description": "",
-      "date": "2026-07-04",
+      "date": "2026-07-06",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "America’s Most Enduring Belief Is Also One of Its Most Dangerous",
-      "url": "https://www.theatlantic.com/ideas/2026/07/america-jefferson-adams-providence/687790/?utm_source=feed",
+      "title": "Small-Dollar Campaign Donors Are Hurting the Political System",
+      "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/?utm_source=feed",
       "description": "",
-      "date": "2026-07-04",
+      "date": "2026-07-06",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "Trump’s War-Not-War Is Doing Something Odd to the Economy",
+      "url": "https://www.theatlantic.com/ideas/2026/07/imf-report-consumers-iran-war/687858/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +52,10 @@
       }
     },
     {
-      "title": "All Men Are Created Equal, but What Does <em>Equal </em>Mean?",
-      "url": "https://www.theatlantic.com/ideas/2026/07/history-word-equal-rights-declaration/687777/?utm_source=feed",
+      "title": "Iran, Not Trump, Is in Control of This War",
+      "url": "https://www.theatlantic.com/ideas/2026/07/iran-controls-war-trump/687848/?utm_source=feed",
       "description": "",
-      "date": "2026-07-03",
+      "date": "2026-07-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,10 +68,10 @@
       }
     },
     {
-      "title": "American Brands Seem Lukewarm on America’s Birthday",
-      "url": "https://www.theatlantic.com/ideas/2026/07/america-250-brands/687805/?utm_source=feed",
+      "title": "Democrats Became Great by Fighting the Left",
+      "url": "https://www.theatlantic.com/ideas/2026/07/democrats-fight-left-dsa/687839/?utm_source=feed",
       "description": "",
-      "date": "2026-07-03",
+      "date": "2026-07-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,10 +84,26 @@
       }
     },
     {
-      "title": "These Justices Are Not Impartial",
-      "url": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-dissents/687799/?utm_source=feed",
+      "title": "Perhaps the Nazi Tattoo Was a Clue",
+      "url": "https://www.theatlantic.com/ideas/2026/07/graham-platner-campaign-scandals/687835/?utm_source=feed",
       "description": "",
-      "date": "2026-07-03",
+      "date": "2026-07-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Problem America Refuses to Address",
+      "url": "https://www.theatlantic.com/ideas/2026/07/age-trillionaire/687795/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-06",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,35 +116,115 @@
       }
     },
     {
-      "title": "The Fourth of July That Saved My Family",
-      "url": "https://www.theatlantic.com/ideas/2026/07/independence-day-hostage-crisis-1976/687755/?utm_source=feed",
+      "title": "Our Oldest Ally",
+      "url": "https://www.theatlantic.com/ideas/2026/07/america-france-enduring-relationship/687844/?utm_source=feed",
       "description": "",
-      "date": "2026-07-03",
+      "date": "2026-07-09",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Pete Buttigieg’s Ordeal Is a Frightening New Form of Political Harassment",
-      "url": "https://www.theatlantic.com/ideas/2026/07/buttigieg-cps-michigan-harassment/687776/?utm_source=feed",
+      "title": "What Trump Has in Common With the Far Left",
+      "url": "https://www.theatlantic.com/ideas/2026/07/trump-communism-socialism-central-control/687843/?utm_source=feed",
       "description": "",
-      "date": "2026-07-02",
+      "date": "2026-07-08",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "The End of Reading Is Here",
+      "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-08",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Nigel Farage’s ‘I Have a Crooked Dream’ Speech",
+      "url": "https://www.theatlantic.com/ideas/2026/07/reform-uk-farage-resigns-special-election/687831/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Demon Next Door",
+      "url": "https://www.theatlantic.com/magazine/2026/08/charismatic-christian-church-tennessee/687624/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Elixir of the Payroll-Tax Cap and Other Social Security Myths",
+      "url": "https://www.theatlantic.com/ideas/2026/07/social-security-insolvency-solution/687766/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-06",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The ‘Consumer Socialism’ Trap",
+      "url": "https://www.theatlantic.com/magazine/2026/08/mamdani-affordability-crisis-consumer-socialism/687603/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-06",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,118 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/trump-july-4/687811/?utm_source=feed",
       "description": "",
       "date": "2026-07-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A President With More Control but Less Power",
-      "url": "https://www.theatlantic.com/ideas/2026/07/slaughter-executive-power-administration/687796/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pope Leo’s July 4 Message to America Was Unmistakable",
-      "url": "https://www.theatlantic.com/ideas/2026/07/pope-leo-lampedusa-july-4/687810/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What J. D. Vance Once Knew",
-      "url": "https://www.theatlantic.com/ideas/2026/07/jd-vance-trump-independence-day/687779/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "It Wasn’t Just the Founders",
-      "url": "https://www.theatlantic.com/ideas/2026/07/american-revolution-history-founders/687800/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Hispanic Founder",
-      "url": "https://www.theatlantic.com/ideas/2026/07/hispanic-founder-galvez-spain/687787/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What I Learned From ROTC",
-      "url": "https://www.theatlantic.com/ideas/2026/07/army-military-service-training-lessons/687589/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The <em>Other</em> Case for Birthright Citizenship",
-      "url": "https://www.theatlantic.com/ideas/2026/07/birthright-citizenship-policy-defense/687791/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-02",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

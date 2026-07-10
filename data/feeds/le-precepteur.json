@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-07-05T18:14:24.700338+00:00",
+  "fetchedAt": "2026-07-10T07:30:03.942823+00:00",
   "items": [
     {
       "title": "La mort n’est rien",
@@ -196,19 +196,19 @@
       }
     },
     {
-      "title": "Les raisons de notre malheur",
-      "url": "https://www.youtube.com/shorts/6kCPcBC1BGU",
-      "description": "Notre malheur vient de notre inacceptation que les choses ne se déroulent pas comme on voudrait qu'elles se déroulent. En réalité, les événements sont neutres ; c'est la signification que nous leur donnons qui crée notre malheur.\n   \nVoir l'entretien en intégralité : https://youtu.be/kzCuw-qEvg4\n   \n#Malheur #Stoïcisme #Acceptation #Émotions #Philosophie",
-      "date": "2026-06-02",
-      "thumbnail": "https://i3.ytimg.com/vi/6kCPcBC1BGU/hqdefault.jpg",
-      "videoId": "6kCPcBC1BGU",
-      "priority": 15,
+      "title": "LE JOUR OÙ NOUS SOMMES DEVENUS HUMAINS",
+      "url": "https://www.youtube.com/watch?v=2bf_mGahbV4",
+      "description": "VOIR L'ENTRETIEN EN INTÉGRALITÉ :\n\n▶️ https://youtu.be/icuqEvjfHFc\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx\n▶️ Sur Fnac.com : https://tidd.ly/3NSSUyV\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n",
+      "date": "2026-07-08",
+      "thumbnail": "https://i3.ytimg.com/vi/2bf_mGahbV4/hqdefault.jpg",
+      "videoId": "2bf_mGahbV4",
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
         "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 15
+        "novelty": 0,
+        "total": 10
       }
     },
     {

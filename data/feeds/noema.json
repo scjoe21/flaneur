@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-07-05T18:16:27.199743+00:00",
+  "fetchedAt": "2026-07-10T07:30:32.039490+00:00",
   "items": [
     {
       "title": "How AI Will Change Us",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "AI’s Greatest Gift To Humanity",
+      "url": "https://www.noemamag.com/ais-greatest-gift-to-humanity",
+      "description": "The post  AI’s Greatest Gift To Humanity  appeared first on  NOEMA .",
+      "date": "Thu, 09 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare",
-      "url": "https://www.noemamag.com/ai-drones-eric-schmidt-on-the-biggest-revolution-in-the-history-of-warfare",
-      "description": "The post  AI & Drones: Eric Schmidt On The Biggest Revolution In The History Of Warfare  appeared first on  NOEMA .",
-      "date": "Tue, 16 Jun 2026",
+      "title": "Pakistan’s Rise To A Middle Power",
+      "url": "https://www.noemamag.com/pakistans-rise-to-a-middle-power",
+      "description": "The post  Pakistan’s Rise To A Middle Power  appeared first on  NOEMA .",
+      "date": "Tue, 07 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/the-mars-delusion",
       "description": "The post  The Mars Delusion  appeared first on  NOEMA .",
       "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Animals Have Culture, Too",
-      "url": "https://www.noemamag.com/heritage-exists-beyond-humankind",
-      "description": "The post  Animals Have Culture, Too  appeared first on  NOEMA .",
-      "date": "Thu, 11 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-05T18:14:26.105700+00:00",
+  "fetchedAt": "2026-07-10T07:30:05.527361+00:00",
   "items": [
     {
       "title": "Nos grandes questions : “Pourquoi portons-nous un autre regard sur le monde ?”",
@@ -17,6 +17,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Comment pense Jordan Bardella ?",
+      "url": "https://www.philomag.com/articles/comment-pense-jordan-bardella",
+      "description": "",
+      "date": "Tue, 07 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Comment pense Marine Le Pen ?",
+      "url": "https://www.philomag.com/articles/comment-pense-marine-le-pen",
+      "description": "",
+      "date": "Tue, 07 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -36,42 +68,26 @@
       }
     },
     {
-      "title": "\"Amnésie infantile\" : pourquoi n’avons-nous aucun souvenir avant l'âge de 2-3 ans ?",
-      "url": "https://www.philomag.com/articles/amnesie-infantile-pourquoi-navons-nous-aucun-souvenir-avant-lage-de-2-3-ans",
+      "title": "“Le sentiment océanique et l'expérience de l’infini” : le nouveau “Philosophie magazine” sort ce jeudi !",
+      "url": "https://www.philomag.com/articles/le-sentiment-oceanique-et-lexperience-de-linfini-le-nouveau-philosophie-magazine-sort-ce",
       "description": "",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Nos grandes questions pour changer d'ère : “Un autre monde est-il encore possible ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-pour-changer-dere-un-autre-monde-est-il-encore-possible",
-      "description": "",
-      "date": "Thu, 02 Jul 2026",
+      "date": "Fri, 10 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "250 ans de l’indépendance américaine : “Les États-Unis sont en train de devenir une ploutocratie sans limites”",
-      "url": "https://www.philomag.com/articles/250-ans-de-lindependance-americaine-les-etats-unis-sont-en-train-de-devenir-une",
+      "title": "Ali Benmakhlouf : “Les Marocains ont entamé un travail de conjuration du ‘déjà vu’ pour que la défaite de 2022 ne se reproduise pas”",
+      "url": "https://www.philomag.com/articles/ali-benmakhlouf-les-marocains-ont-entame-un-travail-de-conjuration-du-deja-vu-pour-que",
       "description": "",
-      "date": "Sat, 04 Jul 2026",
+      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,10 +100,10 @@
       }
     },
     {
-      "title": "Les enquêtes internes en entreprise, fragile instrument de justice",
-      "url": "https://www.philomag.com/articles/les-enquetes-internes-en-entreprise-fragile-instrument-de-justice",
+      "title": "Nos grandes questions : “D’où vient le pouvoir de séduction du fascisme ?”",
+      "url": "https://www.philomag.com/articles/nos-grandes-questions-dou-vient-le-pouvoir-de-seduction-du-fascisme",
       "description": "",
-      "date": "Wed, 01 Jul 2026",
+      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +116,26 @@
       }
     },
     {
-      "title": "La “maïeutique” chez Socrate, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/la-maieutique-chez-socrate-cest-quoi",
+      "title": "Rétrospective 2006-2026 : “Hypnocratie”, l’IA peut-elle penser par elle-même ?",
+      "url": "https://www.philomag.com/articles/retrospective-2006-2026-hypnocratie-lia-peut-elle-penser-par-elle-meme",
       "description": "",
-      "date": "Sun, 05 Jul 2026",
+      "date": "Tue, 07 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Quand Marine Le Pen refuse d’être surveillée par l’œil du peuple",
+      "url": "https://www.philomag.com/articles/quand-marine-le-pen-refuse-detre-surveillee-par-loeil-du-peuple",
+      "description": "",
+      "date": "Wed, 08 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,122 +148,90 @@
       }
     },
     {
-      "title": "Le génie comique intact du match de foot philosophique des Monty Python",
-      "url": "https://www.philomag.com/articles/le-genie-comique-intact-du-match-de-foot-philosophique-des-monty-python",
+      "title": "Rétrospective 2006-2026 : #MeToo, une parole libérée et une vraie révolution sexuelle",
+      "url": "https://www.philomag.com/articles/retrospective-2006-2026-metoo-une-parole-liberee-et-une-vraie-revolution-sexuelle",
+      "description": "",
+      "date": "Wed, 08 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Le Pen-Bardella : le jeu des 7 différences",
+      "url": "https://www.philomag.com/articles/le-pen-bardella-le-jeu-des-7-differences",
+      "description": "",
+      "date": "Tue, 07 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Drones : l’arme du futur ?",
+      "url": "https://www.philomag.com/articles/drones-larme-du-futur",
+      "description": "",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Joëlle Zask : que disent de nous les feux de forêt ?",
+      "url": "https://www.philomag.com/articles/joelle-zask-que-disent-de-nous-les-feux-de-foret",
+      "description": "",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Sauver le vivant avec le droit ? Entretien avec le philosophe Baptiste Morizot et le juriste Laurent Neyret",
+      "url": "https://www.philomag.com/articles/sauver-le-vivant-avec-le-droit-entretien-avec-le-philosophe-baptiste-morizot-et-le",
+      "description": "",
+      "date": "Mon, 06 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Kwame Anthony Appiah : “Les Américains n’ont pas de vision historique commune”",
+      "url": "https://www.philomag.com/articles/kwame-anthony-appiah-les-americains-nont-pas-de-vision-historique-commune",
       "description": "",
       "date": "Sat, 04 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "\"Dry Leaf” : le road trip onirique du cinéaste géorgien Aleksandre Koberidze",
-      "url": "https://www.philomag.com/articles/dry-leaf-le-road-trip-onirique-du-cineaste-georgien-aleksandre-koberidze",
-      "description": "",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Masculinismes : de l’idéologie sexiste à la menace terroriste",
-      "url": "https://www.philomag.com/articles/masculinismes-de-lideologie-sexiste-la-menace-terroriste",
-      "description": "",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Quels espoirs pour ceux qui ont 20 ans en 2026 ? Les réponses des jeunes",
-      "url": "https://www.philomag.com/articles/quels-espoirs-pour-ceux-qui-ont-20-ans-en-2026-les-reponses-des-jeunes",
-      "description": "",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Entre admiration, respect et rejet… De Gaulle vu par Sartre, Camus, Aron",
-      "url": "https://www.philomag.com/articles/entre-admiration-respect-et-rejet-de-gaulle-vu-par-sartre-camus-aron",
-      "description": "",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Coupe du monde de football : le chauvinisme “degré zéro du nationalisme” ?",
-      "url": "https://www.philomag.com/articles/coupe-du-monde-de-football-le-chauvinisme-degre-zero-du-nationalisme",
-      "description": "",
-      "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "2006-2026 : le grand retour du religieux ?",
-      "url": "https://www.philomag.com/articles/2006-2026-le-grand-retour-du-religieux",
-      "description": "",
-      "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Découvrez les 20 livres de nos 20 ans !",
-      "url": "https://www.philomag.com/articles/decouvrez-les-20-livres-de-nos-20-ans",
-      "description": "",
-      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
