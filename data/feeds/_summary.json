@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-10T20:04:14.759478+00:00",
+  "lastRun": "2026-07-11T02:18:47.391333+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -12,6 +12,7 @@
     "deutschlandfunk-philosophie",
     "hohe-luft",
     "philomag-de",
+    "merkur",
     "agora42",
     "sternstunde-philosophie",
     "rick-dufer",
@@ -26,18 +27,31 @@
     "philosophy-bites",
     "psyche",
     "then-and-now",
+    "daily-stoic",
     "big-think",
     "the-atlantic-ideas",
     "noema",
     "the-marginalian",
     "new-atlantis",
-    "pursuit-of-wonder"
+    "pursuit-of-wonder",
+    "the-conversation-fr-philo",
+    "nonfiction-fr",
+    "sous-le-soleil-de-platon",
+    "dlf-essay-diskurs",
+    "dlfkultur-zeitfragen",
+    "swr2-wissen",
+    "pandora-rivista",
+    "ermanno-ferretti",
+    "the-conversation-uk-philosophy",
+    "philosophers-magazine",
+    "iai-tv",
+    "the-point",
+    "hedgehog-review",
+    "nautilus"
   ],
   "fail": [
-    "merkur",
-    "leparoleelecose",
-    "daily-stoic"
+    "leparoleelecose"
   ],
-  "total": 34,
-  "fetched": 31
+  "total": 48,
+  "fetched": 47
 }
