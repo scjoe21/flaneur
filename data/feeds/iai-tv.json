@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-07-11T02:18:46.744264+00:00",
+  "fetchedAt": "2026-07-11T17:26:55.350714+00:00",
   "items": [
     {
       "title": "How Stoicism can help us through the chaos of modern politics | Massimo Pigliucci",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "We must give up on hope in order to save the planet | Erik Swyngedouw",
+      "url": "https://www.youtube.com/shorts/3C8JjNx4WWc",
+      "description": "With a free trial, you can watch the full debate NOW at https://iai.tv/video/the-green-technology-paradox?utm_source=YouTube&utm_medium=short2\n\n#climatechange #technology #climatecrisis #greenenergy",
+      "date": "2026-07-11",
+      "thumbnail": "https://i4.ytimg.com/vi/3C8JjNx4WWc/hqdefault.jpg",
+      "videoId": "3C8JjNx4WWc",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 25
       }
     },
     {
@@ -180,6 +196,22 @@
       }
     },
     {
+      "title": "New evidence from the James Webb Space Telescope has physicists puzzled | Ellis, de Rham, Ekeberg",
+      "url": "https://www.youtube.com/watch?v=UVWJnJW_jTo",
+      "description": "[Speakers] discuss [themes] (max. one line).\n\nOne liner hook - could be a question.\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/cosmology-in-crisis?utm_source=YouTube&utm_medium=description\n\nFrom the Big Bang to the expanding universe, we imagine we have a detailed account of the origin and formation of the cosmos. But, in the last few years, new evidence from the James Webb Telescope is challenging these assumptions and leading some to propose radically differe",
+      "date": "2026-07-11",
+      "thumbnail": "https://i2.ytimg.com/vi/UVWJnJW_jTo/hqdefault.jpg",
+      "videoId": "UVWJnJW_jTo",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
       "title": "Is God misunderstood? | Alex O'Connor on mystical experiences",
       "url": "https://www.youtube.com/shorts/yNL8NeMNRcI",
       "description": "#philosophy  #panpsychism     #consciousness  #mind  #god   #spirituality  #religion #christianity #bible      @CosmicSkeptic \n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
@@ -193,38 +225,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Does the brain filter consciousness? | Michael Pollan on taking psychedelics",
-      "url": "https://www.youtube.com/shorts/QSK6aurxGYw",
-      "description": "#mind  #consciousness   #science   #coolscience  #sciencefacts     #neuroscience   #psychedelics\n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
-      "date": "2026-06-28",
-      "thumbnail": "https://i2.ytimg.com/vi/QSK6aurxGYw/hqdefault.jpg",
-      "videoId": "QSK6aurxGYw",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Is it possible to have an original thought? | Victoria Trumbull, Tony Sampson, Sylvie Delacroix",
-      "url": "https://www.youtube.com/watch?v=offwTo91F7g",
-      "description": "Victoria Trumbull, Tony Sampson, and Sylvie Delacroix debate whether genuine individual genius is possible, or whether all art and ideas are built on those that came before them.\n\nDo individuals like Einstein and Napoleon change the course of history, or do they merely ride the wave of a wider societal change?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/memes-minds-and-the-myth-of-control?utm_source=YouTube&utm_medium=description\n\nWe imagine ourselves as the ini",
-      "date": "2026-06-27",
-      "thumbnail": "https://i4.ytimg.com/vi/offwTo91F7g/hqdefault.jpg",
-      "videoId": "offwTo91F7g",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

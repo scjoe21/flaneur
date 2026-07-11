@@ -1,24 +1,8 @@
 {
   "sourceId": "rick-dufer",
   "sourceName": "Rick DuFer",
-  "fetchedAt": "2026-07-11T02:17:47.104496+00:00",
+  "fetchedAt": "2026-07-11T17:26:00.800688+00:00",
   "items": [
-    {
-      "title": "DISSENTIRE per poter PENSARE: tra Guerra, Matrix e Linguaggio | con Bruno Mastroianni",
-      "url": "https://www.youtube.com/watch?v=-axsaR4drdA",
-      "description": "La newsletter gratuita ➤➤➤ http://eepurl.com/c-LKfz \nInsieme a Bruno Mastroianni esploriamo la \"guerra senza conflitto\": perché usiamo le parole come bandiere, la trappola dell'AI e perché il dissenso è l'unico modo per sentirsi davvero vivi.\n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \nI prossimi eventi dal vivo ➤➤➤ https://www.dailycogito.com/eventi \nScopri",
-      "date": "2026-07-01",
-      "thumbnail": "https://i2.ytimg.com/vi/-axsaR4drdA/hqdefault.jpg",
-      "videoId": "-axsaR4drdA",
-      "priority": 50,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 50
-      }
-    },
     {
       "title": "Putin e la Trappola dei \"20 km\": perché preferiamo crollare pur di non cambiare idea",
       "url": "https://www.youtube.com/watch?v=JxUf0fpU7dU",
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Intelligenza Artificiale: La Nostra Intelligenza Deve Espandersi #shorts",
+      "url": "https://www.youtube.com/shorts/QA_y_Bm0h6w",
+      "description": "L'IA è uno strumento potente, ma richiede intelligenza umana per essere usata al meglio. Devi correggere, guidare e studiare di più per rimanere un passo avanti. #IntelligenzaArtificiale #AI #CrescitaPersonale #Apprendimento",
+      "date": "2026-07-11",
+      "thumbnail": "https://i2.ytimg.com/vi/QA_y_Bm0h6w/hqdefault.jpg",
+      "videoId": "QA_y_Bm0h6w",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
       }
     },
     {

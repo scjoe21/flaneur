@@ -1,8 +1,24 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-11T02:18:34.107224+00:00",
+  "fetchedAt": "2026-07-11T17:26:47.062086+00:00",
   "items": [
+    {
+      "title": "The Art of Dignity Beyond Pride: How to Move Through Heartbreak Like Frida Kahlo",
+      "url": "https://www.themarginalian.org/2026/07/10/frida-kahlo-nickolas-muray-letters/",
+      "description": "“Life will break you,” Louise Erdrich wrote in her exquisite insistence that “you are here to risk your heart.” The price we pay for the risk is the great equalizer of humanity. In heartbreak, everyone is shorn of dignity, everyone follows the same pattern of self-prostration: the willful blindness to the first signs of being left, so obvious to any impartial observer; the pitiful petitions for the return of love; the bargaining for a different ending; the desperate denial of the end, until the ",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 42,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 12,
+        "novelty": 0,
+        "total": 42
+      }
+    },
     {
       "title": "20 Ways of Surfacing from the Blues: Sydney Smith’s 200-year-old Strategies for Raising Low Spirits in a Letter of Advice to a 13-year-old Girl",
       "url": "https://www.themarginalian.org/2026/07/07/sydney-smith-low-spirits/",
@@ -17,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "But We Had Music",
+      "url": "https://www.themarginalian.org/2026/07/10/but-we-had-music/",
+      "description": "How, knowing that even the universe is dying, do we bear our lives? Most readily, through friendship, through connection, through co-creating the world we want to live in for the brief time we have together on this lonely, perfect planet. The seventh annual Universe in Verse — a many-hearted labor of love, celebrating the wonder of reality through science and poetry — occasioned a joyous collaboration with Australian musician and writer Nick Cave and Brazilian artist and filmmaker Daniel Bruson ",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -36,22 +68,6 @@
       }
     },
     {
-      "title": "Hermann Hesse on Solitude, the Value of Hardship, the Courage to Be Yourself, and How to Find Your Destiny",
-      "url": "https://www.themarginalian.org/2026/07/02/hermann-hesse-solitude-suffering-destiny/",
-      "description": "\"Solitude is not chosen, any more than destiny is chosen. Solitude comes to us if we have within us the magic stone that attracts destiny.\"",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "Nature and Creativity: The Science of “Soft Fascination” and How the Natural World Resets the Brain",
       "url": "https://www.themarginalian.org/2026/07/08/default-mode-network-awe-soft-fascination/",
       "description": "\"Our everyday experience does not prepare us to assimilate the gaping hugeness of the Grand Canyon or the crashing grandeur of Niagara Falls. We have no response at the ready; our usual frames of reference don’t fit.\"",
@@ -65,22 +81,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "The Art of Losing and the Art of Beckoning Love Back: The Story Behind One of the Greatest Poems Ever Written",
-      "url": "https://www.themarginalian.org/2026/07/03/one-art/",
-      "description": "You wouldn’t have bet on it, the frail famous poet teaching at Harvard as a visiting professor and the athletic secretary of the campus residence half her age. But every great love exists against probability, belongs to that region of the universe where the wildest bet may be the winning bet. When she met Alice Methfessel, Elizabeth Bishop had served as Poet Laureate of the United States, had won the National Book Award and the Pulitzer Prize, had spent the better part of her youth in solitude a",
-      "date": "Sat, 04 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -104,22 +104,6 @@
       "url": "https://www.themarginalian.org/2026/07/04/carl-jung-neurosis-creativity/",
       "description": "When AI first began colonizing language — which is still our best instrument for bridging the abyss between us, a container for thought and feeling that shapes the contents — I asked chatGPT to compose a poem about a solar eclipse in the style of Walt Whitman. It returned a ledger of cliches in rhymed couplets. Getting the form wrong — Whitman did not rhyme — seemed like an easy correction by a line of code. Getting poetry itself wrong was the interesting question, the question that gets at the ",
       "date": "Sat, 04 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "No One You Love Is Ever Dead: Hemingway on the Most Devastating of Losses and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/07/03/hemingway-loss-letter/",
-      "description": "\"We must live it, now, a day at a time and be very careful not to hurt each other.\"",
-      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Nick Cave on the Antidote to Our Existential Helplessness",
+      "url": "https://www.themarginalian.org/2026/07/10/nick-cave-helplessness-power/",
+      "description": "Stepping up to the subtle gestures that can redeem a day, or a life.",
+      "date": "Fri, 10 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

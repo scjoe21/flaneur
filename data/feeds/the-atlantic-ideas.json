@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-11T02:18:33.181164+00:00",
+  "fetchedAt": "2026-07-11T17:26:46.357574+00:00",
   "items": [
     {
       "title": "The Death of Renee Good Has Yet to Be Properly Investigated",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Small-Dollar Campaign Donors Are Hurting the Political System",
-      "url": "https://www.theatlantic.com/ideas/2026/07/small-dollar-donors-harm/687734/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-06",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Social Ritual That Made Me a Better Man",
+      "url": "https://www.theatlantic.com/ideas/2026/07/guys-night-friendship-loneliness/687878/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

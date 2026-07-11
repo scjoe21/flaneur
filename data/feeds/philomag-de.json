@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-11T02:17:43.800146+00:00",
+  "fetchedAt": "2026-07-11T17:25:58.450857+00:00",
   "items": [
     {
       "title": "Sebastian Watzl: „Die heutige Umgebung bereitet Menschen mit ADHS-Profil starke Probleme“",
@@ -17,38 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Eine Frage des Fokus",
-      "url": "https://www.philomag.de/artikel/eine-frage-des-fokus",
-      "description": "Wie sehr sollten wir die Aufmerksamkeit kontrollieren, welche Rolle spielt sie für die Moral und stimmt es eigentlich, dass sie durch Medienkonsum bedroht wird? Darüber waren Philosophen geteilter Meinung.",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 40
-      }
-    },
-    {
-      "title": "Warum können wir nicht allein sein?",
-      "url": "https://www.philomag.de/artikel/warum-koennen-wir-nicht-allein-sein",
-      "description": "Allein sein – das wünscht sich auf lange Sicht kaum einer. Doch warum löst die Einsamkeit in uns Unbehagen aus? Drei Perspektiven aus der Philosophiegeschichte.",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
       }
     },
     {
@@ -241,6 +209,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Sinnieren in der Sonne",
+      "url": "https://www.philomag.de/artikel/sinnieren-der-sonne",
+      "description": "Acht Buchtipps aus der Redaktion für einen garantiert philosophischen Sommer!",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Verlorene Zukunft",
+      "url": "https://www.philomag.de/artikel/verlorene-zukunft",
+      "description": "Junge Menschen, die versuchen das Leben von Senioren zu führen: Der Grannycore-Trend ist ein Symptom unserer zukunftsarmen Zeit.",
+      "date": "Fri, 03 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

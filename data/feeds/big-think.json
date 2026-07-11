@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-11T02:18:32.599883+00:00",
+  "fetchedAt": "2026-07-11T17:26:45.985016+00:00",
   "items": [
     {
       "title": "The psychology of perversion, revenge, and AI companionship",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 40
-      }
-    },
-    {
-      "title": "The 221-year-old company that reinvented itself — 4 times",
-      "url": "https://bigthink.com/the-long-game/the-221-year-old-company-that-reinvented-itself-4-times/",
-      "description": "We love telling the story of how horse-and-buggy makers were wiped out by the automobile. It’s a clean, dramatic tale that confirms everything we already believe about disruption, hubris, and the inevitability of change. Clayton Christensen turned this phenomenon — disruptive innovation — into one of the most influential business theories of the past century: the innovator’s dilemma. \n There’s just one problem: The story is not entirely true. \n Meet Jean-Joseph D’Ieteren. \n In 1805, the 14-year-",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/reinvent-wheel_compressed.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Starts With A Bang podcast #131 – The baryon life cycle",
+      "url": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-131-the-baryon-life-cycle/",
+      "description": "In order for stars to form, you need the right ingredients to make it happen: gravity, mass, time, and of course the right type of matter in the form of baryons. Shortly after the Big Bang, the Universe had plenty of them, but they were all very simple: protons, deuterons, helium-3 and helium-4 nuclei, and a tiny bit of lithium-7. These nuclei, made out of protons and neutrons, were all that the Universe gave us to work with prior to the formation of stars. But, in clumps of material small and l",
+      "date": "Sat, 11 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/52224799818_ef29eb1b62_k.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-11T02:17:38.237698+00:00",
+  "fetchedAt": "2026-07-11T17:25:54.593297+00:00",
   "items": [
     {
       "title": "Comment pense Jordan Bardella ?",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Nietzsche était-il homosexuel ? La question ouverte qui permet de relire sa vie et son œuvre",
+      "url": "https://www.philomag.com/articles/nietzsche-etait-il-homosexuel-la-question-ouverte-qui-permet-de-relire-sa-vie-et-son",
+      "description": "",
+      "date": "Sat, 11 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Ali Benmakhlouf : “Les Marocains ont entamé un travail de conjuration du ‘déjà vu’ pour que la défaite de 2022 ne se reproduise pas”",
       "url": "https://www.philomag.com/articles/ali-benmakhlouf-les-marocains-ont-entame-un-travail-de-conjuration-du-deja-vu-pour-que",
       "description": "",
@@ -97,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Nager entre le fini et l'infini : l'édito d'Alexandre Lacroix",
+      "url": "https://www.philomag.com/articles/nager-entre-le-fini-et-linfini-ledito-dalexandre-lacroix",
+      "description": "",
+      "date": "Sat, 11 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -198,38 +230,6 @@
     {
       "title": "Drones : l’arme du futur ?",
       "url": "https://www.philomag.com/articles/drones-larme-du-futur",
-      "description": "",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Joëlle Zask : que disent de nous les feux de forêt ?",
-      "url": "https://www.philomag.com/articles/joelle-zask-que-disent-de-nous-les-feux-de-foret",
-      "description": "",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sauver le vivant avec le droit ? Entretien avec le philosophe Baptiste Morizot et le juriste Laurent Neyret",
-      "url": "https://www.philomag.com/articles/sauver-le-vivant-avec-le-droit-entretien-avec-le-philosophe-baptiste-morizot-et-le",
       "description": "",
       "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
