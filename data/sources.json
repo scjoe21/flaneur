@@ -245,7 +245,7 @@
       "type": "rss",
       "url": "https://www.leparoleelecose.it",
       "description": "이탈리아 문학·사상 비평 블로그. 문화·사회 현상의 깊이 있는 에세이.",
-      "rssUrl": "https://www.leparoleelecose.it/?feed=rss2"
+      "rssUrl": "https://www.leparoleelecose.it/feed/"
     },
     {
       "id": "not-neroeditions",
@@ -416,6 +416,177 @@
       "url": "https://www.youtube.com/@PursuitofWonder",
       "description": "미국 실존·일상 철학 유튜버. 현대인의 불안·선택·의미를 서사적으로 탐구.",
       "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC-tLyAaPbRZiYrOJxAGB7dQ"
+    },
+    {
+      "id": "the-conversation-fr-philo",
+      "name": "The Conversation France — Philosophie",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "rss",
+      "url": "https://theconversation.com/fr/topics/philosophie-21470",
+      "description": "대학 연구자들이 쓰는 시사·철학 분석 매체. 일상·사회 현상을 학술적이되 대중적으로 풀어낸다.",
+      "rssUrl": "https://theconversation.com/topics/philosophie-21470/articles.atom"
+    },
+    {
+      "id": "nonfiction-fr",
+      "name": "Nonfiction.fr",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "rss",
+      "url": "https://www.nonfiction.fr",
+      "description": "프랑스 사상·인문 서평 및 시사 매거진. 책과 사회 현상을 성찰적으로 연결.",
+      "rssUrl": "https://www.nonfiction.fr/rss-actualites.xml"
+    },
+    {
+      "id": "sous-le-soleil-de-platon",
+      "name": "Sous le soleil de Platon (France Inter)",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "flag": "🇫🇷",
+      "day": "monday",
+      "type": "rss",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon",
+      "description": "철학자 Charles Pépin이 매일 게스트에게 던지는 실천·실존 철학 질문. 일상의 물음을 철학으로.",
+      "rssUrl": "https://radiofrance-podcast.net/podcast09/rss_22259.xml"
+    },
+    {
+      "id": "dlf-essay-diskurs",
+      "name": "Essay und Diskurs (Deutschlandfunk)",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "rss",
+      "url": "https://www.deutschlandfunk.de/essay-und-diskurs-100.html",
+      "description": "독일 공영라디오 Dlf의 에세이·담론 프로그램. 문화·사회 현상을 사색적 에세이로 풀어냄.",
+      "rssUrl": "https://www.deutschlandfunk.de/essay-und-diskurs-102.xml"
+    },
+    {
+      "id": "dlfkultur-zeitfragen",
+      "name": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "rss",
+      "url": "https://www.deutschlandfunkkultur.de/zeitfragen-feature-100.html",
+      "description": "Dlf Kultur의 시사·사회 피처. 노동·기술·기후 등 일상 현상을 심층 성찰.",
+      "rssUrl": "https://www.deutschlandfunkkultur.de/zeitfragen-feature-130.xml"
+    },
+    {
+      "id": "swr2-wissen",
+      "name": "Das Wissen (SWR Kultur)",
+      "country": "germany",
+      "countryLabel": "독일",
+      "flag": "🇩🇪",
+      "day": "tuesday",
+      "type": "rss",
+      "url": "https://www.swr.de/swr2/wissen/",
+      "description": "SWR 공영라디오의 지식·교양 프로그램. 몸·소비·관계 등 일상 주제를 성찰적으로 탐구.",
+      "rssUrl": "https://www.swr.de/~podcast/swr2/programm/podcast-swr2-wissen-100.xml"
+    },
+    {
+      "id": "pandora-rivista",
+      "name": "Pandora Rivista",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "flag": "🇮🇹",
+      "day": "wednesday",
+      "type": "youtube",
+      "channelId": "UCVieK0yyr9vpWxlowLoLQqA",
+      "url": "https://www.youtube.com/@PandoraRivistaVideo",
+      "description": "이탈리아 사상·문화 저널 판도라의 영상 채널. 사회·기술·기후·철학을 지식인 대담으로 성찰.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCVieK0yyr9vpWxlowLoLQqA"
+    },
+    {
+      "id": "ermanno-ferretti",
+      "name": "Ermanno Ferretti",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "flag": "🇮🇹",
+      "day": "wednesday",
+      "type": "youtube",
+      "channelId": "UC_2OzUw2mnLmlqFEzNzzUjw",
+      "url": "https://www.youtube.com/@scrip79",
+      "description": "이탈리아 철학·역사 해설 유튜버. 개념 강의와 함께 일상·사회 현상을 성찰적으로 다룸.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UC_2OzUw2mnLmlqFEzNzzUjw"
+    },
+    {
+      "id": "the-conversation-uk-philosophy",
+      "name": "The Conversation UK — Philosophy",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "rss",
+      "url": "https://theconversation.com/uk/topics/philosophy-234",
+      "description": "영국 학자들이 시사·일상 현상을 쉬운 언어로 풀어내는 비영리 저널리즘. 철학 토픽 피드.",
+      "rssUrl": "https://theconversation.com/uk/topics/philosophy-234/articles.atom"
+    },
+    {
+      "id": "philosophers-magazine",
+      "name": "The Philosophers' Magazine (TPM)",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "rss",
+      "url": "https://www.philosophersmag.com",
+      "description": "영국 대중 철학 잡지. 응용윤리·기술·사회 현상을 성찰적으로 다룸.",
+      "rssUrl": "https://www.philosophersmag.com/feed"
+    },
+    {
+      "id": "iai-tv",
+      "name": "The Institute of Art and Ideas (IAI)",
+      "country": "uk",
+      "countryLabel": "영국",
+      "flag": "🇬🇧",
+      "day": "thursday",
+      "type": "youtube",
+      "channelId": "UCTsiZiMomJo6FOyiBaFeaIw",
+      "url": "https://www.youtube.com/@iai_tv",
+      "description": "영국 사상 페스티벌 IAI의 채널. 세계적 사상가들이 과학·정치·일상 주제를 토론.",
+      "rssUrl": "https://www.youtube.com/feeds/videos.xml?channel_id=UCTsiZiMomJo6FOyiBaFeaIw"
+    },
+    {
+      "id": "the-point",
+      "name": "The Point Magazine",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://thepointmag.com",
+      "description": "미국 시카고 발행 사상·에세이 잡지. 일상·문화·정치를 철학적 성찰로 풀어냄.",
+      "rssUrl": "https://thepointmag.com/feed/"
+    },
+    {
+      "id": "hedgehog-review",
+      "name": "The Hedgehog Review",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://hedgehogreview.com",
+      "description": "버지니아대 문화연구소 발행 비평지. 현대 문화·사회현상을 사려 깊게 관찰.",
+      "rssUrl": "https://hedgehogreview.com/web-features/feed"
+    },
+    {
+      "id": "nautilus",
+      "name": "Nautilus",
+      "country": "usa",
+      "countryLabel": "미국",
+      "flag": "🇺🇸",
+      "day": "friday",
+      "type": "rss",
+      "url": "https://nautil.us",
+      "description": "과학·인문 교차 매거진. 자연·몸·시간·기술을 성찰적 에세이로 탐구.",
+      "rssUrl": "https://nautil.us/feed/"
     }
   ]
 }
