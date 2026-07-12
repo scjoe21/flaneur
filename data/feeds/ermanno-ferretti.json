@@ -1,7 +1,7 @@
 {
   "sourceId": "ermanno-ferretti",
   "sourceName": "Ermanno Ferretti",
-  "fetchedAt": "2026-07-11T17:26:52.290186+00:00",
+  "fetchedAt": "2026-07-12T18:08:50.938848+00:00",
   "items": [
     {
       "title": "Tifare per il cattivo",
@@ -110,22 +110,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Vygotskij scrive a Vannacci [Email dall'Oltretomba]",
-      "url": "https://www.youtube.com/shorts/j6GQtI_r050",
-      "description": "Ti hanno mai detto che eri \"meno bravo\" di qualche tuo compagno di classe?\n\nVannacci sembra voler rendere quella distinzione ufficiale, con classi separate per rendimento. Un'idea che un grande psicologo russo aveva già smontato quasi cent'anni fa; con i dati, non con le opinioni.\n\n👉 E tu, pensi che la diversità in classe sia una risorsa o un problema? Scrivimelo nei commenti.\n\n#scuola #classidifferenziali #Vannacci #pedagogia",
-      "date": "2026-06-30",
-      "thumbnail": "https://i3.ytimg.com/vi/j6GQtI_r050/hqdefault.jpg",
-      "videoId": "j6GQtI_r050",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "La decostruzione di Jacques Derrida",
+      "url": "https://www.youtube.com/watch?v=GPDvMKfuXZc",
+      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nPrimo video (di una serie di due) dedicato a Derrida e al suo pensiero: partiamo dal concetto di decostruzione e da quel che ne consegue.\n\nSommario dei contenuti:\n00:00 Intro\n01:32 Chi sono (e cosa faccio qui)\n02:53 La vita e le opere\n10:04 Decostruzione e instabilità\n20:00 La metafisica della presenza\n27:55 Le accuse di relativismo\n31:56 Conclusione\n\n💁 Vuoi sostenere il canale?\nTi piacciono o ti sono ",
+      "date": "2026-07-12",
+      "thumbnail": "https://i4.ytimg.com/vi/GPDvMKfuXZc/hqdefault.jpg",
+      "videoId": "GPDvMKfuXZc",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

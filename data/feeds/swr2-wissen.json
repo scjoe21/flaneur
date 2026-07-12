@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-11T17:26:52.076007+00:00",
+  "fetchedAt": "2026-07-12T18:08:50.674493+00:00",
   "items": [
     {
       "title": "Weg von Trump – Wie Deutschland US-Forscher anlocken will",
@@ -148,22 +148,6 @@
       }
     },
     {
-      "title": "Weltmacht USA – Wie es begann und vielleicht endet",
-      "url": "https://www.swr.de/swrkultur/wissen/weltmacht-usa-wie-es-begann-und-vielleicht-endet-100.html",
-      "description": "Vor 250 Jahren erklären 13 britische Kolonien ihre Unabhängigkeit und schließen sich zu den „Vereinigten Staaten von Amerika“ zusammen. Damals ahnt noch niemand, dass daraus eine künftige Supermacht werden würde – militärisch, technologisch, kulturell. Wie kam es dazu? Und geht es mit dieser Ära langsam zu Ende?\nGábor Paál spricht mit dem Historiker Michael Hochgeschwender von der LMU München. (SWR 2026)\nMehr zur Sendung:\nhttp://swr.li/weltmachtusa\nHörtipps:\nTee in der Weltgeschichte (1/2) - Von",
-      "date": "Sun, 28 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Kontrollverlust – Was hilft gegen Hilflosigkeit?",
       "url": "https://www.swr.de/swrkultur/wissen/kontrollverlust-was-hilft-gegen-hilflosigkeit-100.html",
       "description": "Job-Verlust, unerwartete Trennung, ein eskalierender Streit: Menschen reagieren sensibel auf das Gefühl, machtlos, hilflos und ausgeliefert zu sein. Was hilft?",
@@ -177,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "Abkürzung Arktis – Neue Schifffahrtsrouten durch den Klimawandel?",
+      "url": "https://www.swr.de/swrkultur/wissen/abkuerzung-arktis-neue-schifffahrtsrouten-durch-den-klimawandel-100.html",
+      "description": "Das Eis in der Arktis schmilzt. So werden Routen frei, auf denen Schiffe schneller von Asien nach Europa kommen könnten. Das hat Konsequenzen für Umwelt und indigene Gemeinden.",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-11T17:25:54.593297+00:00",
+  "fetchedAt": "2026-07-12T18:07:23.870094+00:00",
   "items": [
     {
       "title": "Comment pense Jordan Bardella ?",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "“La Chaleur”, de Stéphane Demoustier au cinéma : brûlante éthique de l'adolescence",
+      "url": "https://www.philomag.com/articles/la-chaleur-de-stephane-demoustier-au-cinema-brulante-ethique-de-ladolescence",
+      "description": "",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -100,19 +116,19 @@
       }
     },
     {
-      "title": "Rétrospective 2006-2026 : “Hypnocratie”, l’IA peut-elle penser par elle-même ?",
-      "url": "https://www.philomag.com/articles/retrospective-2006-2026-hypnocratie-lia-peut-elle-penser-par-elle-meme",
+      "title": "Augustin croyait-il au pouvoir divinatoire des sorcières ?",
+      "url": "https://www.philomag.com/articles/augustin-croyait-il-au-pouvoir-divinatoire-des-sorcieres",
       "description": "",
-      "date": "Tue, 07 Jul 2026",
+      "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/le-pen-bardella-le-jeu-des-7-differences",
       "description": "",
       "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Drones : l’arme du futur ?",
-      "url": "https://www.philomag.com/articles/drones-larme-du-futur",
-      "description": "",
-      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

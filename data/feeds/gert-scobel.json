@@ -1,8 +1,24 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-07-11T17:25:55.791860+00:00",
+  "fetchedAt": "2026-07-12T18:07:25.188097+00:00",
   "items": [
+    {
+      "title": "\"Strukturelles Aushungern\": So gehen autoritäre Regime vor!",
+      "url": "https://www.youtube.com/shorts/SoSaCsHL2zU",
+      "description": "Experten sehen in den Hochschul-Plänen der AfD in Sachsen-Anhalt Parallelen zu autoritären Systemen. Was genaz dahintersteckt und wie die Wissenschaft reagiert, erfahrt ihr im Video 👉https://youtu.be/tDmaun8tWXM\n#shorts #regime #geschichte #afd",
+      "date": "2026-07-12",
+      "thumbnail": "https://i4.ytimg.com/vi/SoSaCsHL2zU/hqdefault.jpg",
+      "videoId": "SoSaCsHL2zU",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "Ist Sonnencreme krebserregend?",
       "url": "https://www.youtube.com/shorts/Uxhs6nwaj0k",
@@ -144,22 +160,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Habt ihr Angst vor einer Superintelligenz?",
-      "url": "https://www.youtube.com/shorts/_R7jzm18QrY",
-      "description": "Kann dem Schweizer Start-up @FinalSpark wirklich die Erschaffung einer biologischen Superintelligenz gelingen?  🤯 Die Antwort gibt’s in unserem neuen Beitrag! 👉 https://youtu.be/xFxxVLKq-uA #biocomputer #neurologie #superintelligenz",
-      "date": "2026-06-19",
-      "thumbnail": "https://i4.ytimg.com/vi/_R7jzm18QrY/hqdefault.jpg",
-      "videoId": "_R7jzm18QrY",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 15
       }
     },

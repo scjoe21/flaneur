@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-11T17:26:47.062086+00:00",
+  "fetchedAt": "2026-07-12T18:08:45.425992+00:00",
   "items": [
     {
       "title": "The Art of Dignity Beyond Pride: How to Move Through Heartbreak Like Frida Kahlo",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Do Not Spare Yourself",
+      "url": "https://www.themarginalian.org/2026/07/12/no-te-salves/",
+      "description": "The only thing more dangerous than wanting to save another person — a dangerous desire too often mistaken for love — is wanting to save yourself, to spare yourself the disappointment and heartbreak and loss inseparable from being a creature with hopes and longings constantly colliding with reality, with the indifference of time and chance, with the opposing hopes and longings of others. We have, of course, always invented institutions of salvation — religion to save us from our sins, therapy to ",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "3 Kinds of Loneliness and 4 Kinds of Forever",
       "url": "https://www.themarginalian.org/2026/07/09/loneliness-forever/",
       "description": "Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience. Everything of beauty and substance that we make — every poem, every painting, every friendship — is an outstretche",
@@ -100,19 +116,19 @@
       }
     },
     {
-      "title": "The Pain in You and the God in You: Carl Jung on the Relationship Between Psychological Suffering and Creativity",
-      "url": "https://www.themarginalian.org/2026/07/04/carl-jung-neurosis-creativity/",
-      "description": "When AI first began colonizing language — which is still our best instrument for bridging the abyss between us, a container for thought and feeling that shapes the contents — I asked chatGPT to compose a poem about a solar eclipse in the style of Walt Whitman. It returned a ledger of cliches in rhymed couplets. Getting the form wrong — Whitman did not rhyme — seemed like an easy correction by a line of code. Getting poetry itself wrong was the interesting question, the question that gets at the ",
-      "date": "Sat, 04 Jul 2026",
+      "title": "Is There a God? Stephen Hawking Gives the Definitive Answer to the Eternal Question",
+      "url": "https://www.themarginalian.org/2026/07/11/stephen-hawking-brief-answers-to-the-big-questions/",
+      "description": "\"The universe is the ultimate free lunch.\"",
+      "date": "Sat, 11 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.themarginalian.org/2026/07/07/the-souls-of-animals/",
       "description": "“They do not sweat and whine about their condition,” Walt Whitman wrote of the other animals, “they do not lie awake in the dark and weep for their sins, they do not make me sick discussing their duty to God, not one is dissatisfied, not one is demented with the mania of owning things.” Here was “the poet of the body and the poet of the soul” holding up a mirror to us creatures inhabiting an animal body complicated by a soul — that organ of want and worry which we ourselves invented to explain w",
       "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Storytelling and the Art of Tenderness: Olga Tokarczuk’s Magnificent Nobel Prize Acceptance Speech",
-      "url": "https://www.themarginalian.org/2026/07/05/tenderness-olga-tokarczuk-nobel-prize/",
-      "description": "\"Tenderness is the most modest form of love. It is the kind of love that does not appear in the scriptures or the gospels, no one swears by it, no one cites it... It appears wherever we take a close and careful look at another being, at something that is not our 'self.’\"",
-      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

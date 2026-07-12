@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-07-11T17:25:53.993153+00:00",
+  "fetchedAt": "2026-07-12T18:07:23.075874+00:00",
   "items": [
     {
       "title": "La mort n’est rien",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "L'amour est un piège",
-      "url": "https://www.youtube.com/shorts/aoBwHuLbPiY",
-      "description": "Au XIXe siècle, le philosophe allemand Arthur Schopenhauer développe une théorie aussi provocatrice que dérangeante : l'amour ne serait pas un sentiment sacré, mais un simple mécanisme de la nature destiné à assurer la reproduction de l'espèce. Dans cette vidéo, je vous explique pourquoi, selon lui, lorsque nous tombons amoureux, ce n'est pas notre âme qui parle… mais notre biologie.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #schopenhauer #amour #psychologie #",
-      "date": "2026-06-07",
-      "thumbnail": "https://i2.ytimg.com/vi/aoBwHuLbPiY/hqdefault.jpg",
-      "videoId": "aoBwHuLbPiY",
-      "priority": 30,
+      "title": "L’éternel retour",
+      "url": "https://www.youtube.com/shorts/7dwzgXQmHmA",
+      "description": "Au XIXe siècle, le philosophe allemand Friedrich Nietzsche formule une expérience de pensée aussi vertigineuse que dérangeante : et si vous deviez revivre votre vie, exactement telle qu’elle est, encore et encore, pour l’éternité ? Dans cette vidéo, je vous explique pourquoi, selon lui, cette question ne sert pas à nous faire peur… mais à mesurer notre capacité à dire oui à la vie, jusque dans ses souffrances, ses erreurs et ses regrets.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#phil",
+      "date": "2026-07-12",
+      "thumbnail": "https://i4.ytimg.com/vi/7dwzgXQmHmA/hqdefault.jpg",
+      "videoId": "7dwzgXQmHmA",
+      "priority": 25,
       "scoreDetail": {
         "daily": 20,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {

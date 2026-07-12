@@ -1,7 +1,7 @@
 {
   "sourceId": "rick-dufer",
   "sourceName": "Rick DuFer",
-  "fetchedAt": "2026-07-11T17:26:00.800688+00:00",
+  "fetchedAt": "2026-07-12T18:07:30.745248+00:00",
   "items": [
     {
       "title": "Putin e la Trappola dei \"20 km\": perché preferiamo crollare pur di non cambiare idea",
@@ -26,22 +26,6 @@
       "date": "2026-07-09",
       "thumbnail": "https://i2.ytimg.com/vi/Ue14jN4R5qY/hqdefault.jpg",
       "videoId": "Ue14jN4R5qY",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Perché lo Smartphone ti sta Rubando la VITA (e l'arma Stoica per salvarti)",
-      "url": "https://www.youtube.com/watch?v=EX0Kz0SpqFs",
-      "description": "La newsletter gratuita ➤➤➤ http://eepurl.com/c-LKfz \nViviamo nell'economia dell'attenzione, schiavi di impulsi digitali. Scopri la Prosochè, l'arma filosofica di Marco Aurelio e Seneca per difendere la tua mente e ritrovare la vera libertà. \n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \nI prossimi eventi dal vivo ➤➤➤ https://www.dailycogito.com/eventi \nScopri ",
-      "date": "2026-07-02",
-      "thumbnail": "https://i2.ytimg.com/vi/EX0Kz0SpqFs/hqdefault.jpg",
-      "videoId": "EX0Kz0SpqFs",
       "priority": 35,
       "scoreDetail": {
         "daily": 30,
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Intelligenza Artificiale: ChatGPT ha Superato il Test di Turing! #shorts",
+      "url": "https://www.youtube.com/shorts/CLiXIdg9IwY",
+      "description": "Alan Turing ideò un test per misurare l'intelligenza delle macchine. Ora, ChatGPT dimostra un'abilità linguistica così avanzata da ingannare gli umani, superando questa sfida. #IntelligenzaArtificiale #TestDiTuring #ChatGPT #IA #Innovazione",
+      "date": "2026-07-12",
+      "thumbnail": "https://i4.ytimg.com/vi/CLiXIdg9IwY/hqdefault.jpg",
+      "videoId": "CLiXIdg9IwY",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

@@ -1,93 +1,13 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-11T17:25:54.209115+00:00",
+  "fetchedAt": "2026-07-12T18:07:23.229925+00:00",
   "items": [
     {
-      "title": "Qu'est-ce que les Lumières ?  : Les Lumières écossaises",
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 03/16 · Le tribunal des anormaux",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Muhlmann - Au XVIIIe siècle, les \"Lumières écossaises\" apparaissent dans un pays en pleine transformation sur le plan économique et social. Qu'est-ce qui fait leur spécificité, qu'est-ce qui fait leur manière de réfléchir aux émotions individuelles et à ce qui peut créer un \"sens commun\" ?   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épiso",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Qu'est-ce que les Lumières ?  : Que dit Kant dans son texte \"Qu'est-ce que les Lumières\" ?",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:30  - Avec philosophie - par : Géraldine Muhlmann - \"Ose penser par toi-même !\", nous dit Kant. Telle est la devise des Lumières. Mais, s'adressant à Frédéric II de Prusse, il affirme que seule la liberté d'expression favorisera la pensée libre.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Qu'est-ce que les Lumières ?  : Les Lumières et l'idée coloniale",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:02  - Avec philosophie - par : Géraldine Muhlmann - Si les Lumières opèrent une critique de l’ethnocentrisme européen et dénoncent par exemple l’esclavage, elles acceptent pour autant de façon partielle ou implicite l’ordre colonial. Comment alors, ont-elles pensé et critiqué la question coloniale ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Comment répond-on au pourquoi ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-repond-on-au-pourquoi-1132740",
-      "description": "durée : 00:03:36  - Avec philosophie - par : Frédéric Worms - Selon le poète Angelus Silesius, cité par Heidegger, \"la rose est sans pourquoi\". Pour le philosophe Spinoza, le pourquoi relève d'une illusion finaliste. Certaines questions ne trouveront jamais de réponse. Devons-nous renoncer au pourquoi pour nous en tenir au comment ?  - équipe : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Pourquoi le \"comment\" ne nous suffit-il pas ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-le-comment-ne-nous-suffit-il-pas-2740905",
-      "description": "durée : 00:03:58  - Avec philosophie - par : Frédéric Worms - Quelle est la différence fondamentale entre le comment et le pourquoi ? Selon le fondateur du positivisme, Auguste Comte, la question du \"pourquoi\" est un piège métaphysique auquel la science ne doit pas répondre. Le pourquoi est une question abusive mais a toujours besoin d'un comment.  - équipe : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "(Re)lire les classiques féministes 2/4 :  \"Le Deuxième Sexe\" de Simone de Beauvoir par la philosophe Manon Garcia",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:59:23  - Avec philosophie - par : Géraldine Mosna-Savoye - Manon Garcia évoque la première philosophe à avoir fait des femmes un sujet philosophique : Simone de Beauvoir. Dans \"Le Deuxième sexe\", elle pose cette question d'une grande actualité : comment conjurer les mythes du féminin pour permettre une véritable rencontre entre les hommes et les femmes ?  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, re",
-      "date": "Fri, 10 Jul 2026",
+      "description": "durée : 00:21:47  - Avec philosophie - Comment se construit la figure de “l’anormal”, au croisement de la justice et de la psychiatrie ? Dans son cours “Les Anormaux” donné au Collège de France, Michel Foucault analyse l’émergence d’une catégorie décisive pour comprendre le pouvoir de juger. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -100,26 +20,10 @@
       }
     },
     {
-      "title": "Qu'est-ce que les Lumières ?  : L'esprit des Lumières et les deux Révolutions, américaine et française",
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 05/16 · L’avènement du biopouvoir",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:14  - Avec philosophie - par : Géraldine Muhlmann - Des préoccupations communes, des références et des lectures relient la Révolution française de 1789 et la Révolution américaine de 1776. De Montesquieu à Thomas Jefferson, de Rousseau à Benjamin Franklin, retour sur les figures essentielles de deux révolutions démocratiques de la fin du 18ᵉ siècle.\n  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour éc",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Spinoza à la loupe : L’erreur et ce qu’elle nous dit de la connaissance",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Muhlmann - D'où viennent nos erreurs ? Et comment s'en libérer ? Spinoza nous propose une théorie de la connaissance très singulière pour nous affranchir de nos fausses idées et pour conduire la raison vers la vérité.  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 05 Jul 2026",
+      "description": "durée : 00:22:30  - Avec philosophie - Comment le pouvoir en est-il venu à s’exercer sur la vie elle-même ? Dans “Il faut défendre la société”, cours donné au Collège de France en 1976, Michel Foucault met au jour une transformation majeure : l’émergence du biopouvoir. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -132,106 +36,202 @@
       }
     },
     {
-      "title": "Spinoza à la loupe : La critique de la religion",
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 10/16 · La foi et l’aveu",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Muhlmann - En plein XVIIème, Spinoza (1632-1677) entreprend une lutte risquée contre toutes les formes d’aliénations, tant religieuses que politiques,  pour promouvoir la liberté de penser des individus. En quoi consiste donc la critique de la religion dans son \"Traité théologico-politique\" ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épi",
-      "date": "Wed, 08 Jul 2026",
+      "description": "durée : 00:22:26  - Avec philosophie - Comment gouverne-t-on par la vérité ? En 1980, dans son cours \"Du Gouvernement des vivants\", Michel Foucault explore les formes d’adhésion et de contrainte par lesquelles les sujets sont amenés à reconnaître le vrai et à dire vrai sur eux-mêmes. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 02/16 · L’expertise médico-légale",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:22:32  - Avec philosophie - Que se joue-t-il lorsque la psychiatrie entre dans le prétoire ? Au Collège de France, dans son cours “Les Anormaux”, Michel Foucault montre comment l’expertise psychiatrique participe pleinement à l’acte de juger. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 20,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Spinoza à la loupe :  Le bien et le mal",
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 09/16 · Homo œconomicus",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:17  - Avec philosophie - par : Géraldine Muhlmann - Pour Spinoza, le bien et le mal ne sont pas des réalités objectives, mais des interprétations liées à notre nature et à nos affects. Dès lors, ces valeurs ont-elles une existence réelle ou ne sont-elles que des fictions humaines ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 06 Jul 2026",
+      "description": "durée : 00:21:55  - Avec philosophie - Comment l’économie en est-elle venue à définir notre manière d’être au monde ? Avec le néolibéralisme, l’individu est désormais pensé comme un acteur rationnel, appelé à gérer sa vie comme un capital. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 11/16 · L’expérience de la chair",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:21:54  - Avec philosophie - D’où viennent les normes qui encadrent la sexualité ? En 1981, Michel Foucault en retrace les origines antiques et montre comment elles participent à la formation des sujets. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 04/16 · La guerre des races",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:22:23  - Avec philosophie - Et si le racisme trouvait son origine dans une lecture guerrière de l’histoire ? Au Collège de France, Michel Foucault explore cette hypothèse dans un cours intitulé “Il faut défendre la société”, en repensant le pouvoir à partir des rapports de domination. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 08/16 · La raison libérale",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:22:35  - Avec philosophie - Penser l’État autrement que comme une entité centrale : c’est la démarche proposée par Michel Foucault en 1979, lorsqu’il examine la rationalité libérale et ses effets sur les manières de gouverner. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
       "scoreDetail": {
         "daily": 0,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Penser nos vies connectées  : Débusquer les arnaques à la romance avec Platon",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:03:54  - Avec philosophie - Qu'il s'agisse d'un faux profil se faisant passer pour Brad Pitt sur Internet ou d'un beau parleur dans la vraie vie, Platon, l'un des plus grands philosophes de la Grèce antique, nous apprend à nous méfier de la parole séductrice.  - équipe : Camille Renard, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 15,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 20
       }
     },
     {
-      "title": "Doris Lessing, romancière philosophe ? : La question politique",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-question-politique-4983408",
-      "description": "durée : 00:57:48  - Avec philosophie - par : Géraldine Muhlmann - Nourrie par son expérience du colonialisme en Afrique australe et par son engagement, par sa désillusion ensuite, vis-à-vis du communisme, l'œuvre de Doris Lessing interroge les mécanismes de domination et les contradictions des systèmes politiques.  - équipe : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Doria Zénine, Nassim El Kabli, Luna Hadjla - invités : Nicolas Poirier Docteur en science politique de l’université",
-      "date": "Thu, 02 Jul 2026",
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 06/16 · Le gouvernement des populations",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:21:14  - Avec philosophie - À partir du XVIIIᵉ siècle, la politique ne se pense plus seulement à partir du souverain, mais d’un nouvel objet : la population. Michel Foucault en analyse les implications dans un cours intitulé “Sécurité, territoire, population” et donné en 1978 au Collège de France. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 07/16 · Le pouvoir pastoral",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:21:25  - Avec philosophie - D’où vient l’idée de gouverner les hommes comme un troupeau ? Dans un cours intitulé \"Sécurité, territoire, population\", donné en 1978, Michel Foucault remonte aux origines du pouvoir pastoral pour éclairer une forme essentielle de la gouvernementalité moderne. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 12/16 · Le souci de soi",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:22:10  - Avec philosophie - Face au célèbre \"Connais-toi toi-même\", Michel Foucault met en lumière une autre exigence de la philosophie antique : le souci de soi, entendu comme un travail de transformation de soi tout au long de la vie. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 13/16 · L’esprit des Lumières",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:21:25  - Avec philosophie - Quel rapport le philosophe doit-il entretenir avec son temps ? En 1983, Michel Foucault relit Kant pour penser une philosophie attentive au présent et fondée sur l’exercice de la critique. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "Clémentine Beauvais, enseignante en sciences de l'éducation : \"Fifi Brindacier, c'est l'enfance qui n'a peur de rien\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/clementine-beauvais-enseignante-chercheuse-en-sociologie-de-l-enfance-sur-fifi-brindacier-d-astrid-lindgren-4819655",
-      "description": "durée : 00:58:09  - Avec philosophie - par : Géraldine Mosna-Savoye - \"Fifi Brindacier\", roman jeunesse d'Astrid Lindgren, paru en 1945, nous raconte les aventures de Fifi, une fillette drôle, dotée d'une force extraordinaire, qui vit toute seule, avec son cheval et son singe. Clémentine Beauvais, écrivaine et chercheuse en sociologie de l’enfance nous en parle. \n\n  - équipe : Nicolas Berger, Doria Zénine, Manon de La Selle, Corinne Amar - invités : Clémentine Beauvais Autrice, traductrice, ense",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "Doris Lessing, romancière philosophe ? : Quel féminisme ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/les-femmes-7455300",
-      "description": "durée : 00:58:40  - Avec philosophie - par : Géraldine Muhlmann - L'œuvre de Doris Lessing ne se contente pas de donner une voix aux femmes : elle interroge ce que signifie devenir un sujet libre dans un monde de rapports de pouvoir. La condition féminine y apparaît comme le lieu d'une réflexion large sur l'identité, l'aliénation et la quête de soi.  - équipe : Carla Michel, Axel Dubois, Corinne Amar, Nicolas Berger, Françoise Le Floch, Nassim El Kabli, Luna Hadjla - invités : François de Singly",
-      "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "Spinoza à la loupe : \"À l'homme, rien de plus utile que l'homme\" !",
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 14/16 · Le courage de la vérité",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:06  - Avec philosophie - par : Géraldine Muhlmann - Que sont les \"autres\" pour Spinoza ? Que veut dire cette phrase qui lui appartient : \"À l’homme rien de plus utile que l’homme\" ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 09 Jul 2026",
+      "description": "durée : 00:22:26  - Avec philosophie - Dans ses derniers cours, Michel Foucault s’intéresse à la \"parrêsia\", ce dire-vrai adressé au pouvoir qui engage celui qui parle au point de mettre sa vie en jeu. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 15/16 · Le scandale du cynisme",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:21:37  - Avec philosophie - Dans son dernier cours au Collège de France en 1984, Michel Foucault explore le cynisme antique, où la vérité ne se dit pas seulement, mais s’éprouve dans une manière de vivre qui rompt avec les conventions. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 01/16 · Naissance de la psychiatrie",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:21:23  - Avec philosophie - Au XIXᵉ siècle, la psychiatrie ne se contente pas de soigner : elle fait exister la folie. Dans ce cours de Michel Foucault restauré par France Culture, le philosophe développe une analyse décisive des origines du pouvoir psychiatrique. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

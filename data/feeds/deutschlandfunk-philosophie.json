@@ -1,8 +1,24 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-07-11T17:25:56.785771+00:00",
+  "fetchedAt": "2026-07-12T18:07:25.992623+00:00",
   "items": [
+    {
+      "title": "Politische Philosophie - Vom Empfinden zum politischen Handeln",
+      "url": "https://www.deutschlandfunkkultur.de/politische-phaenomenologie-thomas-bedorf-bodenlos-situiert-philosophie-husserl-heidegger-100.html",
+      "description": "Politik von unten denken! Die Welt also nicht von Begriffen her denken, sondern von persönlichen Erfahrungen ausgehen. Das will die politische Phänomenologie. Was das heißt und warum diese Strömung gerade boomt, erklärt Philosoph Thomas Bedorf. Miller, Simone; Bedorf, Thomas www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 50,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 50
+      }
+    },
     {
       "title": "Geschlechterrollen - Was tun gegen toxische Männlichkeit?",
       "url": "https://www.deutschlandfunkkultur.de/das-comeback-der-starken-maenner-was-tun-gegen-toxische-maennlichlichkeit-100.html",
@@ -33,22 +49,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 25
-      }
-    },
-    {
-      "title": "Wirtschaft im Wandel - Warum wächst hier nichts mehr?",
-      "url": "https://www.deutschlandfunkkultur.de/wachstum-wirtschaft-104.html",
-      "description": "Wachstum ist ein allgegenwärtiges Schlagwort. In ihm schwingt zugleich Heilsversprechen und ökologische Bedrohung mit. Der Historiker Andreas Lingg zeichnet die Entstehung moderner Wachstumsdiskurse nach und kritisiert deren heutige Unschärfe. Lingg, Andreas; Eilenberger, Wolfram www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 31 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -132,6 +132,22 @@
       }
     },
     {
+      "title": "Geplantes Vergesellschaftungsverbot: Der lange Kampf gegen Gemeineigentum",
+      "url": "https://www.deutschlandfunkkultur.de/geplantes-vergesellschaftungsverbot-der-lange-kampf-gegen-gemeineigentum-100.html",
+      "description": "Loick, Daniel www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "250 Jahre USA - Ideale und Realitäten der amerikanischen Staatsgründung",
       "url": "https://www.deutschlandfunkkultur.de/250-jahre-usa-ideale-und-realitaeten-der-amerikanischen-staatsgruendung-100.html",
       "description": "Am 4. Juli feiern die USA ihren 250. Geburtstag. Die Historikerin Britta Waldschmidt-Nelson und der Politologe Philipp Lepenies diskutieren über die philosophischen Ideale der US-Gründerväter und beleuchten, was für ein Experiment die Revolution war. Lepenies, Philipp; Waldschmidt-Nelson, Britta; Newmark, Catherine www.deutschlandfunkkultur.de, Sein und Streit",
@@ -152,22 +168,6 @@
       "url": "https://www.deutschlandfunkkultur.de/fussball-wm-geniessen-statt-boykott-trump-infantino-fifa-menschenrechte-100.html",
       "description": "Dreiviertel der WM-Spiele finden in den USA statt – einem Land, dem unter Präsident Donald Trump ein „Menschenrechtsnotstand“ attestiert wird. Doch moralische Empörung ändert nichts: Sie ist längst Teil des Spektakels. Ein Standpunkt von Nils Schniederjann www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 07 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "KI in der Wissenschaft: Das Ende der Bildung?",
-      "url": "https://www.deutschlandfunkkultur.de/ki-in-der-wissenschaft-das-ende-der-bildung-100.html",
-      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 31 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

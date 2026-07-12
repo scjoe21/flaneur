@@ -1,8 +1,24 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-07-11T17:26:49.755323+00:00",
+  "fetchedAt": "2026-07-12T18:08:48.409066+00:00",
   "items": [
+    {
+      "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
+      "url": "https://www.deutschlandfunk.de/der-kampf-ums-auto-freiheit-klima-und-die-zukunft-der-staedte-100.html",
+      "description": "Kaum ein Gebrauchsobjekt spaltet die Gesellschaft so wie das Auto- für die einen ist es ein ökologisches Problem, das Straßen verstopft und Atemluft verschmutzt, für die andern ein notwendiges Transportmittel und Ausdruck individueller Freiheit. Von Niklas Maak www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 12 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
     {
       "title": "Ich bin dann mal tanzen! - Wie wir uns der dystopischen Gegenwart stellen",
       "url": "https://www.deutschlandfunk.de/ich-bin-dann-mal-tanzen-wie-wir-uns-der-dystopischen-gegenwart-stellen-100.html",
@@ -17,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Ein bisschen Fliegen ist doch kein Problem - Wie weit geht die Verantwortung für den Klimawandel?",
-      "url": "https://www.deutschlandfunk.de/wie-weit-geht-die-verantwortung-fuer-den-klimawandel-100.html",
-      "description": "Die Folgen des Klimawandels scheinen vom Einzelnen zu fordern, sein Handeln daran auszurichten und sich der CO2-Moral unterzuordnen. Ist das wirklich so? Von Frauke Rostalski www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 26 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
       }
     },
     {

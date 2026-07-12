@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-07-11T17:26:48.939913+00:00",
+  "fetchedAt": "2026-07-12T18:08:47.716756+00:00",
   "items": [
     {
       "title": "Saint-Nazaire au travail : si près et si loin de l’emploi…",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "Les mille visages des femmes au Moyen Âge",
-      "url": "https://www.nonfiction.fr/article-12784-les-mille-visages-des-femmes-au-moyen-age.htm",
-      "description": "L’historienne Justine Audebrand livre une synthèse bienvenue sur l’histoire des femmes entre le VI e  et le XI e  siècle. Faisant feu de tout bois, elle plonge son lecteur à la fois dans la cour de l’impératrice Théophano, mais aussi au coeur du quotidien des travailleuses agricoles, des travailleuses du textile qui leur est réservé, ou encore au sein même de leur couple et de leur famille. Les sources partiales et partielles n’en permettent pas moins de retrouver une grande hétérogénéité de par",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
       }
     },
     {
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Aux origines imaginaires d’une musique née de l’ombre",
+      "url": "https://www.nonfiction.fr/article-12792-aux-origines-imaginaires-dune-musique-nee-de-lombre.htm",
+      "description": "Avec  Le Creuset des sorciers , Paul Greveillac livre un roman d’une grande ambition formelle et poétique, qui explore la Louisiane du début du XIXᵉ siècle à travers une idée centrale : la musique peut naître au cœur même de la contrainte, et se constituer comme langage de survie, de mémoire et de création. \r\n\r\n Le récit s’attache à Jean-Baptiste, jeune esclave arraché à son enfance et plongé dans l’univers impitoyable des plantations sucrières. Greveillac ne se limite pas à une reconstitution h",
+      "date": "Sat, 11 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
