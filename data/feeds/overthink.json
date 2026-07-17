@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-07-12T18:08:41.837417+00:00",
+  "fetchedAt": "2026-07-17T06:11:41.742209+00:00",
   "items": [
     {
       "title": "Climate Action with Kyle Whyte",
@@ -49,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Closer Look: Haraway, Cyborg Manifesto",
-      "url": "",
-      "description": "Is the way we interact with technology moving us towards a cyborg future? In episode 164 of Overthink, Ellie and David take a closer look at Donna Haraway’s seminal essay, “A Cyborg Manifesto,” in which Haraway critiques the increasing technologization of everyday life and questions what it means to be a feminist and a socialist in the age of informatics and cybernetics. They discuss her critique of identity politics, her notion of the “homework economy,” the increase of miniaturization in techn",
-      "date": "Tue, 10 Mar 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
       }
     },
     {
@@ -129,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Unemployment",
+      "url": "",
+      "description": "After a BIG announcement (!!!), your hosts David and Ellie get into the economic and psychological features of the state no one wants to be stuck in: unemployment. How does capitalism structurally construct “wageless life” while nonetheless treating it as a personal failure or unhappy accident? What’s the connection between unemployment and reactionary politics? And is AI going to put us all out of a job? Correcting misconceptions about automation, UBI, and more, your hosts take you through some",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {

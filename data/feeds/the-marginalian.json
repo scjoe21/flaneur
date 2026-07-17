@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-12T18:08:45.425992+00:00",
+  "fetchedAt": "2026-07-17T06:11:48.680151+00:00",
   "items": [
     {
       "title": "The Art of Dignity Beyond Pride: How to Move Through Heartbreak Like Frida Kahlo",
@@ -20,19 +20,35 @@
       }
     },
     {
-      "title": "20 Ways of Surfacing from the Blues: Sydney Smith’s 200-year-old Strategies for Raising Low Spirits in a Letter of Advice to a 13-year-old Girl",
-      "url": "https://www.themarginalian.org/2026/07/07/sydney-smith-low-spirits/",
-      "description": "Elizabeth Bishop’s memorial service opened with a reflection by her partner Alice — whose near-loss inspired one of the greatest poems ever written — that included what Elizabeth had always told her was “the only sensible advice she ever heard,” from a man she never met — one of her two favorite authors. By the time a friend’s teenage daughter begged his advice on how to cope with a visitation of the darkness we now call depression, the Anglican clergyman Sydney Smith (June 3, 1771–February 22, ",
-      "date": "Wed, 08 Jul 2026",
+      "title": "How to Get Love Less Wrong: George Saunders on Breaking the Patterns that Break Our Hearts",
+      "url": "https://www.themarginalian.org/2026/07/14/love-chekhov-the-darling-saunders/",
+      "description": "\"We want to believe that love is singular and exclusive, and it unnerves us to think that it might actually be renewable...\"",
+      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 34,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 35
+      }
+    },
+    {
+      "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
+      "url": "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/",
+      "description": "Few things in life are more exasperating than seeing the potential in someone you love and seeing them continually fall short of it, stumbling again and again over the same self-erected roadblocks of character and conduct, comporting themselves in a manner painfully inferior to what you know them to be capable of. What to do? The problem of whether and how people change is the eternal problem of being alive. Changing our own ways of being is difficult enough, prey enough to paradox and peril; ch",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -52,35 +68,51 @@
       }
     },
     {
-      "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
-      "url": "https://www.themarginalian.org/2026/07/06/hermann-hesse-books-poem/",
-      "description": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. We read for the assurance that others have lived through what we are living through. “You think your pain and your heartbreak are unprecedented in the history of the world, but then you read,” James Baldwin reflected in his most personal interview. And yet whi",
-      "date": "Mon, 06 Jul 2026",
+      "title": "How to Grow Old: Bertrand Russell on What Makes a Fulfilling Life",
+      "url": "https://www.themarginalian.org/2026/07/13/how-to-grow-old-bertrand-russell/",
+      "description": "\"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.\"",
+      "date": "Mon, 13 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Nature and Creativity: The Science of “Soft Fascination” and How the Natural World Resets the Brain",
-      "url": "https://www.themarginalian.org/2026/07/08/default-mode-network-awe-soft-fascination/",
-      "description": "\"Our everyday experience does not prepare us to assimilate the gaping hugeness of the Grand Canyon or the crashing grandeur of Niagara Falls. We have no response at the ready; our usual frames of reference don’t fit.\"",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 20
+      }
+    },
+    {
+      "title": "How to Bear Your Sorrows: Nick Cave on Integrating the Darkness of Loss with the Bright Ongoingness of Life",
+      "url": "https://www.themarginalian.org/2026/07/15/nick-cave-loss/",
+      "description": "Few things in our culture are more wounding than the concept of healing — as if the pains and losses that we suffer are an illness, a malfunction of the psyche to be cut out like a tumor, rather than a natural function of being alive, of feeling life deeply and living it fully. All our sorrows have been wasted if we have not learned to suffer and to be surprised by the door at the end of our suffering, on the other wide of which is simply the world, which keeps on worlding. It is not healing tha",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "How to Spot and How to Stop a Liar: Hannah Arendt on Deception, Self-Deception, and the Psychology of Defactualization",
+      "url": "https://www.themarginalian.org/2026/07/13/lying-in-politics-hannah-arendt/",
+      "description": "\"No matter how large the tissue of falsehood that an experienced liar has to offer, it will never be large enough ... to cover the immensity of factuality.\"",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -100,19 +132,51 @@
       }
     },
     {
-      "title": "3 Kinds of Loneliness and 4 Kinds of Forever",
-      "url": "https://www.themarginalian.org/2026/07/09/loneliness-forever/",
-      "description": "Loneliness is the fundamental condition of life — we are born by another, but born alone; die around others (if we are lucky and loved), but die alone; we spend our lives islanded in our one and only human experience — in these particular bodies and minds and circumstances drawn from the cosmic lottery — amid the immense ocean of time and chance teeming with all possible experience. Everything of beauty and substance that we make — every poem, every painting, every friendship — is an outstretche",
-      "date": "Thu, 09 Jul 2026",
+      "title": "The Four Buddhist Mantras for Turning Fear into Love",
+      "url": "https://www.themarginalian.org/2026/07/15/thich-nhat-hanh-fear-love/",
+      "description": "\"When you love someone, the best thing you can offer that person is your presence.\"",
+      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
+      }
+    },
+    {
+      "title": "Pythagoras on the Purpose of Life and the Meaning of Wisdom",
+      "url": "https://www.themarginalian.org/2026/07/12/pythagoras-olympic-games/",
+      "description": "Abiding insight into the aim of human existence from the man who revolutionized science and coined the word \"philosopher.\"",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Fernando Pessoa on Unselfing into Who You Really Are",
+      "url": "https://www.themarginalian.org/2026/07/14/fernando-pessoa-disquiet-self/",
+      "description": "“To be nobody-but-yourself — in a world which is doing its best, night and day, to make you everybody else — means to fight the hardest battle which any human being can fight,” E. E. Cummings wrote in his timeless summons for the courage to be yourself. But what does it really mean to be oneself when the self is an ever-moving target of ever-changing sentiments and cells, a figment of fixity to dam the fluidity that carries us along the river of life, to soften the hard fact that we never fully ",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
       }
     },
     {
@@ -132,35 +196,19 @@
       }
     },
     {
-      "title": "Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife",
-      "url": "https://www.themarginalian.org/2026/07/07/richard-feynman-arline-letter/",
-      "description": "Where the hard edge of physics meets the vulnerable metaphysics of the human heart.",
-      "date": "Tue, 07 Jul 2026",
+      "title": "Diseases of the Will: Neuroscience Founding Father Santiago Ramón y Cajal on the Six Psychological Flaws That Keep the Gifted from Living Up to Their Gift",
+      "url": "https://www.themarginalian.org/2026/07/15/diseases-of-the-will-cajal-advice-for-a-young-investigator/",
+      "description": "\"Our neurons must be used ... not only to know but also to transform knowledge; not only to experience but also to construct.\"",
+      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Souls of Animals",
-      "url": "https://www.themarginalian.org/2026/07/07/the-souls-of-animals/",
-      "description": "“They do not sweat and whine about their condition,” Walt Whitman wrote of the other animals, “they do not lie awake in the dark and weep for their sins, they do not make me sick discussing their duty to God, not one is dissatisfied, not one is demented with the mania of owning things.” Here was “the poet of the body and the poet of the soul” holding up a mirror to us creatures inhabiting an animal body complicated by a soul — that organ of want and worry which we ourselves invented to explain w",
-      "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://www.themarginalian.org/2026/07/09/oliver-sacks-gardens/",
       "description": "\"In forty years of medical practice, I have found only two types of non-pharmaceutical 'therapy' to be vitally important for patients with chronic neurological diseases: music and gardens.\"",
       "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Power of a Thin Skin",
-      "url": "https://www.themarginalian.org/2026/07/08/jenn-shapland-thin-skin/",
-      "description": "\"To be thin-skinned is to feel keenly, to perceive things that might go unseen, unnoticed, that others might prefer not to notice.\"",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Thich Nhat Hanh on the Art of Deep Listening and the 3 Buddhist Steps to Repairing a Relationship",
-      "url": "https://www.themarginalian.org/2026/07/06/thich-nhat-hanh-listening-love/",
-      "description": "\"The intention of deep listening and loving speech is to restore communication, because once communication is restored, everything is possible.\"",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Courage to Be Yourself: E.E. Cummings on Art, Life, and Being Unafraid to Feel",
-      "url": "https://www.themarginalian.org/2026/07/05/e-e-cummings-advice/",
-      "description": "\"To be nobody-but-yourself — in a world which is doing its best, night and day, to make you everybody else — means to fight the hardest battle which any human being can fight.\"",
-      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

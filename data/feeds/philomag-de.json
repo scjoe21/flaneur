@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-12T18:07:28.446871+00:00",
+  "fetchedAt": "2026-07-17T06:10:53.291835+00:00",
   "items": [
     {
       "title": "Sebastian Watzl: „Die heutige Umgebung bereitet Menschen mit ADHS-Profil starke Probleme“",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Helen Keller: „Das Völkerrecht ist enorm resilient“",
+      "url": "https://www.philomag.de/artikel/helen-keller-das-voelkerrecht-ist-enorm-resilient",
+      "description": "Um das Völkerrecht scheint es seit einiger Zeit nicht gut bestellt; der US-Präsident hält es bekanntermaßen gar für obsolet. Warum er damit fatal falsch liegt, erklärt die Rechtswissenschaftlerin Helen Keller. Sie zeigt, worin aktuelle völkerrechtliche Errungenschaften bestehen, welche Teile des Völkerrechts stabiler und welche fragiler sind, und warum wir es gerade jetzt stärken sollten.",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -36,6 +52,22 @@
       }
     },
     {
+      "title": "Die erschöpfte Demokratie",
+      "url": "https://www.philomag.de/artikel/die-erschoepfte-demokratie",
+      "description": "In seinem Werk  Faktizität und Geltung  legt Habermas dar, wie unsere Demokratie operieren muss, um auf festem Grund zu stehen. Hat er dabei entscheidende Kräfte unterschätzt, die früher in seinem Denken noch eine zentrale Rolle spielten?",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "Hamza Howidy: \"Hamas will never look out for the residents of Gaza\"",
       "url": "https://www.philomag.de/artikel/hamza-howidy-hamas-will-never-look-out-residents-gaza",
       "description": "In his autobiography, Hamza Howidy recounts his childhood in Gaza. What was his daily life like under Hamas rule? How did he break away from their ideology? And what is needed to alleviate the suffering there and give people a sense of hope for the future? An interview with Till Schmidt.",
@@ -52,25 +84,25 @@
       }
     },
     {
-      "title": "Die neue Ausgabe: Aufmerksam sein",
-      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-aufmerksam-sein",
-      "description": "Viele Menschen fühlen sich getrieben und ständig abgelenkt. Kein Wunder in Zeiten von TikTok und Co.: Die Aufmerksamkeit ist zu einem hart umkämpften Gut  geworden. Welche Arten der Aufmerksamkeit lassen unser Weltverhältnis verarmen, welche bereichern es? Wie lässt sich wieder lernen, das Hier und Jetzt zu spüren? Hier geht's zur  umfangreichen Heftvorschau!",
-      "date": "Fri, 03 Jul 2026",
+      "title": "Was ist die „Mäeutik“ bei Sokrates?",
+      "url": "https://www.philomag.de/artikel/was-ist-die-maeeutik-bei-sokrates",
+      "description": "Mit der „Hebammenkunst“ leitete Sokrates seinen Gesprächspartner so an, dass dieser die Wahrheit selbst entdeckt. Wie funktioniert diese Methode? Nicolas Tenaillon gibt einen Einblick.",
+      "date": "Tue, 14 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
       "title": "Kommunikation und ihre Kritiker",
       "url": "https://www.philomag.de/artikel/kommunikation-und-ihre-kritiker",
-      "description": "Im Diskurs können Menschen vernünftige, konsensfähige Prinzipien des Miteinanders herausarbeiten, meint Habermas und erklärt damit die Kommunikation zur Grundlage einer besseren Gesellschaft. Doch seine Theorie von Verständigung und Einverständnis erntet auch Kritik.",
+      "description": "Im Diskurs können Menschen vernünftige, konsensfähige Prinzipien des Miteinanders herausarbeiten, meint Habermas und erklärt damit die Kommunikation zur Grundlage einer besseren Gesellschaft. Doch seine Theorie von Verständigung und Einverständnis erntet auch Kritik.  Von Jana Glaese",
       "date": "Mon, 13 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -80,22 +112,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Meine Aufmerksamkeit",
-      "url": "https://www.philomag.de/artikel/meine-aufmerksamkeit",
-      "description": "Auf mich selbst oder den anderen gerichtet, etwas erwartend oder offen für das Erscheinende, konzentriert oder zerstreut: Die Aufmerksamkeit nimmt verschiedene Gestalten an. Fünf Menschen erzählen, wie sie diese erleben.",
-      "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
@@ -132,6 +148,22 @@
       }
     },
     {
+      "title": "Shortlist für den Tractatus-Essaypreis des Philosophicum Lech 2026",
+      "url": "https://www.philomag.de/artikel/shortlist-fuer-den-tractatus-essaypreis-des-philosophicum-lech-2026",
+      "description": "Der Verein Philosophicum Lech hat die Shortlist für den Tractatus – Preis für philosophische Essayistik bekanntgegeben. Wer die mit 25.000 Euro dotierte Auszeichnung erhält, wird Anfang September verkündet. Die feierliche Verleihung findet am 25. September im Rahmen des 29. Philosophicum Lech statt. Das Philosophie Magazin ist Medienpartner.",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Apokalypse? Nein!",
       "url": "https://www.philomag.de/artikel/apokalypse-nein",
       "description": "Der einzige Weg, die Katastrophe zu vermeiden, bestehe darin zuzugeben, dass sie unvermeidlich ist, meint Slavoj Žižek. Und gibt eine Antwort auf die Frage, ob wir uns in einer Vorkriegsphase befinden.",
@@ -148,41 +180,9 @@
       }
     },
     {
-      "title": "Politik der Angst",
-      "url": "https://www.philomag.de/artikel/politik-der-angst",
-      "description": "Wird Menschen konstant die eigene Gefährdung vor Augen geführt, sind Ohnmacht und Schutzbedürftigkeit die Folge. Auf der Strecke bleibt die Eigenmächtigkeit. Die Psychoanalytikerin Jeannette Fischer über eine besorgniserregende Tendenz.",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Eine Nation am Scheideweg",
-      "url": "https://www.philomag.de/artikel/eine-nation-am-scheideweg",
-      "description": "Die USA feiern am 4. Juli ihr 250-jähriges Bestehen. Doch von dem freiheitlich-revolutionären Wind der amerikanischen Demokratie ist angesichts der Präsidentschaft Trumps kaum noch etwas zu spüren. Dabei ist die aktuelle Krise nur die Eskalationsstufe einer demokratieerodierenden Entwicklung, vor der Hannah Arendt schon vor 50 Jahren warnte.  Von Friedrich Weißbach",
-      "date": "Sat, 04 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Propaganda im Feed",
       "url": "https://www.philomag.de/artikel/propaganda-im-feed",
-      "description": "Soziale Medien versprachen einst Demokratisierung und emanzipatorisches Potenzial, verleiten jedoch immer mehr zu bloß passivem Konsum und dem gezieltem Einsatz von Propaganda. Sind Soziale Medien also mithin nur die nächste Stufe der Kulturindustrie oder verbleiben noch Möglichkeiten eines mündigen Umgangs im digitalen Zeitalter?",
+      "description": "Soziale Medien versprachen einst Demokratisierung und emanzipatorisches Potenzial, verleiten jedoch immer mehr zu bloß passivem Konsum und dem gezieltem Einsatz von Propaganda. Sind Soziale Medien also mithin nur die nächste Stufe der Kulturindustrie oder verbleiben noch Möglichkeiten eines mündigen Umgangs im digitalen Zeitalter?  Von Jan Eufinger",
       "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -196,10 +196,26 @@
       }
     },
     {
-      "title": "Befreiung der Aufmerksamkeit",
-      "url": "https://www.philomag.de/artikel/befreiung-der-aufmerksamkeit",
-      "description": "Die Aufmerksamkeitsspannen werden kürzer, die Bildschirmzeiten länger — so lautet eine häufig vorgebrachte Kulturkritik. Doch die Krise der Aufmerksamkeit, in der wir uns befinden, reicht noch weiter.",
-      "date": "Fri, 03 Jul 2026",
+      "title": "Genieße deine Dauer",
+      "url": "https://www.philomag.de/artikel/geniesse-deine-dauer",
+      "description": "Der reine Augenblick ist ein abstrakter Traum. Wir hingegen erleben eine Gegenwart, die immer auch Vergangenheit und Zukunft enthält. Denker von Augustinus bis Husserl waren diesem Phänomen der „Dauer“ auf der Spur. Es lohnt sich, ihren großen Erzählungen über die wahre Natur der Gegenwart zu folgen.",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "Die unmögliche Akteurin",
+      "url": "https://www.philomag.de/artikel/die-unmoegliche-akteurin",
+      "description": "Der Feminismus der Gegenwart feiert die Frau nicht mehr als handelndes Subjekt, sondern als Erzählerin erfahrenen Leids. Mit gravierenden Folgen. Eine kritische Analyse von Mirna Funk.",
+      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "Sinnieren in der Sonne",
-      "url": "https://www.philomag.de/artikel/sinnieren-der-sonne",
-      "description": "Acht Buchtipps aus der Redaktion für einen garantiert philosophischen Sommer!",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Verlorene Zukunft",
-      "url": "https://www.philomag.de/artikel/verlorene-zukunft",
-      "description": "Junge Menschen, die versuchen das Leben von Senioren zu führen: Der Grannycore-Trend ist ein Symptom unserer zukunftsarmen Zeit.",
-      "date": "Fri, 03 Jul 2026",
+      "title": "Christoper Nolans „Odyssee“ – Rückkehr zum Selbst",
+      "url": "https://www.philomag.de/artikel/christoper-nolans-odyssee-rueckkehr-zum-selbst",
+      "description": "Homers Odyssee zählt zu den ältesten und wirkmächtigsten Epen unserer Zeit. Nun hat Christopher Nolan sich an eine filmische Inszenierung des Urstoffs gewagt und bannt den Mythos als erfahrbare Form auf die Leinwand.",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

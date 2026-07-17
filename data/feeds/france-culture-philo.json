@@ -1,8 +1,72 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-12T18:07:23.229925+00:00",
+  "fetchedAt": "2026-07-17T06:10:42.122967+00:00",
   "items": [
+    {
+      "title": "Qu'est-ce que les Lumières ?  : Les Lumières et l'idée coloniale",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:02  - Avec philosophie - par : Géraldine Muhlmann - Si les Lumières opèrent une critique de l’ethnocentrisme européen et dénoncent par exemple l’esclavage, elles acceptent pour autant de façon partielle ou implicite l’ordre colonial. Comment alors, ont-elles pensé et critiqué la question coloniale ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Qu'est-ce que les Lumières ?  : Les Lumières écossaises",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Muhlmann - Au XVIIIe siècle, les \"Lumières écossaises\" apparaissent dans un pays en pleine transformation sur le plan économique et social. Qu'est-ce qui fait leur spécificité, qu'est-ce qui fait leur manière de réfléchir aux émotions individuelles et à ce qui peut créer un \"sens commun\" ?   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épiso",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Qu'est-ce que les Lumières ?  : Que dit Kant dans son texte \"Qu'est-ce que les Lumières\" ?",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:30  - Avec philosophie - par : Géraldine Muhlmann - \"Ose penser par toi-même !\", nous dit Kant. Telle est la devise des Lumières. Mais, s'adressant à Frédéric II de Prusse, il affirme que seule la liberté d'expression favorisera la pensée libre.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Qu'est-ce que les Lumières ?  : L'esprit des Lumières et les deux Révolutions, américaine et française",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:14  - Avec philosophie - par : Géraldine Muhlmann - Des préoccupations communes, des références et des lectures relient la Révolution française de 1789 et la Révolution américaine de 1776. De Montesquieu à Thomas Jefferson, de Rousseau à Benjamin Franklin, retour sur les figures essentielles de deux révolutions démocratiques de la fin du 18ᵉ siècle.\n  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour éc",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 03/16 · Le tribunal des anormaux",
       "url": "https://www.radiofrance.fr",
@@ -158,70 +222,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 12/16 · Le souci de soi",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:22:10  - Avec philosophie - Face au célèbre \"Connais-toi toi-même\", Michel Foucault met en lumière une autre exigence de la philosophie antique : le souci de soi, entendu comme un travail de transformation de soi tout au long de la vie. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 13/16 · L’esprit des Lumières",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:21:25  - Avec philosophie - Quel rapport le philosophe doit-il entretenir avec son temps ? En 1983, Michel Foucault relit Kant pour penser une philosophie attentive au présent et fondée sur l’exercice de la critique. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 14/16 · Le courage de la vérité",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:22:26  - Avec philosophie - Dans ses derniers cours, Michel Foucault s’intéresse à la \"parrêsia\", ce dire-vrai adressé au pouvoir qui engage celui qui parle au point de mettre sa vie en jeu. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 15/16 · Le scandale du cynisme",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:21:37  - Avec philosophie - Dans son dernier cours au Collège de France en 1984, Michel Foucault explore le cynisme antique, où la vérité ne se dit pas seulement, mais s’éprouve dans une manière de vivre qui rompt avec les conventions. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

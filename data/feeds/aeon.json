@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-12T18:08:41.920108+00:00",
+  "fetchedAt": "2026-07-17T06:11:41.901200+00:00",
   "items": [
     {
       "title": "Karl Hess: toward liberty",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "The anguish of choice",
-      "url": "https://aeon.co/essays/re-reading-sartres-lecture-existentialism-is-a-humanism",
-      "description": "In the shattered aftermath of war, Sartre delivered a formidable lecture on freedom and meaning. Its urgency remains - by Skye C Cleary Read on Aeon",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Abyss",
       "url": "https://aeon.co/essays/what-ukrainian-war-widows-know-about-love-and-loss",
       "description": "The testimonies of Ukraine’s war widows reveal the mortal risk of love and the possibility of dying while alive: a black pain - by Julie Reshe Read on Aeon",
@@ -84,19 +68,35 @@
       }
     },
     {
-      "title": "The violence specialists",
-      "url": "https://aeon.co/essays/organised-violence-is-a-trade-whether-legal-or-illegal",
-      "description": "Every society depends on violence workers, but what makes young men take a job that risks their lives and harms others? - by Raúl Zepeda Gil Read on Aeon",
-      "date": "Fri, 26 Jun 2026",
+      "title": "Loitering towards war",
+      "url": "https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent",
+      "description": "While Vienna’s coffeehouses bred modernism, in Belgrade’s kafanas grew conspiracy and rage. Their clash consumed Europe - by Anton Cebalo Read on Aeon",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
+      }
+    },
+    {
+      "title": "The looting of science fiction",
+      "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem",
+      "description": "Tech titans claim the genre inspired them. But all they’ve done is graft their politics onto stories of a better future - by Ali Rıza Taşkale Read on Aeon",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -116,51 +116,67 @@
       }
     },
     {
-      "title": "Illegible benefits",
-      "url": "https://aeon.co/essays/what-we-cant-measure-about-ai-yet",
-      "description": "The costs of transformative innovations are immediately clear: it’s the longterm gains that are hardest to understand - by Carlo Cordasco Read on Aeon",
-      "date": "Tue, 30 Jun 2026",
+      "title": "What remains",
+      "url": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
+      "description": "In an ingenious restoration project, the humble oyster shell is transformed into a powerful tool to halt coastal erosion - by Aeon Video Watch on Aeon",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Timelapse of the Universe",
-      "url": "https://aeon.co/videos/the-13-billion-years-that-led-to-us-a-cosmological-timelapse",
-      "description": "When 13 billion years of the cosmos get condensed into 10 epic minutes, when in the timelapse do you think humans appear? - by Aeon Video Watch on Aeon",
-      "date": "Mon, 29 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Noguchi’s New York animations",
-      "url": "https://aeon.co/videos/in-noguchis-unrealised-playgrounds-art-and-life-are-inseparable",
-      "description": "Hand-painted animations bring to life Isamu Noguchi’s ideas for playgrounds that could integrate art with everyday life - by Aeon Video Watch on Aeon",
-      "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "The diffusion pilot",
+      "url": "https://aeon.co/videos/an-animator-ponders-his-purpose-amid-an-ais-infinite-possibilities",
+      "description": "What does it mean to make art in the age of inexhaustible AIs? An animator ponders his purpose and reclaims some control - by Aeon Video Watch on Aeon",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Patricia Evangelista on journalism",
+      "url": "https://aeon.co/videos/a-filipino-journalist-on-the-terrible-privilege-of-bearing-witness",
+      "description": "The ‘worst’ and ‘best possible’ job at once: what it’s like to dedicate your life to documenting crimes against humanity - by Aeon Video Watch on Aeon",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Unmothered",
+      "url": "https://aeon.co/essays/when-my-ties-to-my-mother-faded-so-did-my-memories",
+      "description": "We are each a living story, written with those who raised us. But when my most loving co-author ghosted me, my story fractured - by David Robson Read on Aeon",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/essays/how-little-we-really-know-of-the-mighty-ming-dynasty",
       "description": "Ming Dynasty China left us copious texts, but these veil the lives of the vast majority of its people from our view - by Craig Clunas Read on Aeon",
       "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The measure of flourishing",
-      "url": "https://aeon.co/essays/it-doesnt-have-to-be-us-versus-nature",
-      "description": "Human prosperity depends on nature, but no global metric has captured this with precision. Enter the Nature Relationship Index - by Yadvinder Malhi Read on Aeon",
-      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

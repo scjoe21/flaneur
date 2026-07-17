@@ -1,8 +1,40 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-07-12T18:08:45.151045+00:00",
+  "fetchedAt": "2026-07-17T06:11:48.415710+00:00",
   "items": [
+    {
+      "title": "How AI Is Rewriting Human Nature",
+      "url": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
+      "description": "The post  How AI Is Rewriting Human Nature  appeared first on  NOEMA .",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Why We Demand Perfect Machines Yet Tolerate Human Carnage",
+      "url": "https://www.noemamag.com/why-we-demand-perfect-machines-yet-tolerate-human-carnage",
+      "description": "The post  Why We Demand Perfect Machines Yet Tolerate Human Carnage  appeared first on  NOEMA .",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "How AI Will Change Us",
       "url": "https://www.noemamag.com/how-ai-will-change-us",
@@ -40,22 +72,6 @@
       "url": "https://www.noemamag.com/trumps-iran-war-the-midwife-to-a-renewable-energy-future",
       "description": "The post  Trump’s Iran War: The Midwife To A Renewable Energy Future  appeared first on  NOEMA .",
       "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "What Comes After The Refugee Camp",
-      "url": "https://www.noemamag.com/what-comes-after-the-refugee-camp",
-      "description": "The post  What Comes After The Refugee Camp  appeared first on  NOEMA .",
-      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/we-need-a-way-to-prove-personhood-online",
       "description": "The post  We Need A Way To Prove Personhood Online  appeared first on  NOEMA .",
       "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Mars Delusion",
-      "url": "https://www.noemamag.com/the-mars-delusion",
-      "description": "The post  The Mars Delusion  appeared first on  NOEMA .",
-      "date": "Thu, 18 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

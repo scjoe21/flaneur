@@ -1,24 +1,8 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-12T18:08:44.859181+00:00",
+  "fetchedAt": "2026-07-17T06:11:47.820154+00:00",
   "items": [
-    {
-      "title": "The Death of Renee Good Has Yet to Be Properly Investigated",
-      "url": "https://www.theatlantic.com/ideas/2026/07/alex-pretti-renee-good-accountability/687792/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-06",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
     {
       "title": "The Quintessential Politician of This Era",
       "url": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham/687893/?utm_source=feed",
@@ -52,67 +36,179 @@
       }
     },
     {
-      "title": "Trump’s War-Not-War Is Doing Something Odd to the Economy",
-      "url": "https://www.theatlantic.com/ideas/2026/07/imf-report-consumers-iran-war/687858/?utm_source=feed",
+      "title": "Russia and America Are Rediscovering the Limits of Nuclear Weapons",
+      "url": "https://www.theatlantic.com/ideas/2026/07/nuclear-weapons-limits-cold-war-deterrence/687883/?utm_source=feed",
       "description": "",
-      "date": "2026-07-09",
+      "date": "2026-07-13",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
-      "title": "Iran, Not Trump, Is in Control of This War",
-      "url": "https://www.theatlantic.com/ideas/2026/07/iran-controls-war-trump/687848/?utm_source=feed",
+      "title": "Trump Just Did More Damage to American Elections Than China",
+      "url": "https://www.theatlantic.com/ideas/2026/07/trump-address/687939/?utm_source=feed",
       "description": "",
-      "date": "2026-07-08",
+      "date": "2026-07-16",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Democrats Became Great by Fighting the Left",
-      "url": "https://www.theatlantic.com/ideas/2026/07/democrats-fight-left-dsa/687839/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Perhaps the Nazi Tattoo Was a Clue",
-      "url": "https://www.theatlantic.com/ideas/2026/07/graham-platner-campaign-scandals/687835/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump Dooms His Own Party",
+      "url": "https://www.theatlantic.com/ideas/2026/07/trump-message-despair/687951/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Explaining Sex to an Anthropologist",
+      "url": "https://www.theatlantic.com/ideas/2026/07/explaining-sex-anthropologist/687948/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "J. D. Vance’s Own Alien Abduction",
+      "url": "https://www.theatlantic.com/ideas/2026/07/jd-vance-rogan-epstein/687944/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Biggest Takeaway From Todd Blanche’s Confirmation Hearing",
+      "url": "https://www.theatlantic.com/ideas/2026/07/todd-blanche-attorney-general-confirmation-hearing/687933/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "You Don’t Need to Vote for Socialists to Get Universal Health Care",
+      "url": "https://www.theatlantic.com/ideas/2026/07/obamacare-universal-health-care-democrats/687917/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The See-No-Evil Supreme Court",
+      "url": "https://www.theatlantic.com/ideas/2026/07/the-see-no-evil-supreme-court/687902/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump’s Anti-Growth Agenda",
+      "url": "https://www.theatlantic.com/ideas/2026/07/trumps-growth-hegemony-decline-britain/687904/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Last of the Three Amigos",
+      "url": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham-ukraine-russia/687898/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "A Win for American Democracy",
+      "url": "https://www.theatlantic.com/ideas/2026/07/supreme-court-fec-nrsc-campaign-donations/687870/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,102 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/guys-night-friendship-loneliness/687878/?utm_source=feed",
       "description": "",
       "date": "2026-07-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Believe the Hype About Teen Takeovers",
-      "url": "https://www.theatlantic.com/ideas/2026/07/teen-takeovers-violence-dc/687866/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Our Oldest Ally",
-      "url": "https://www.theatlantic.com/ideas/2026/07/america-france-enduring-relationship/687844/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What Trump Has in Common With the Far Left",
-      "url": "https://www.theatlantic.com/ideas/2026/07/trump-communism-socialism-central-control/687843/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The End of Reading Is Here",
-      "url": "https://www.theatlantic.com/magazine/2026/08/reading-crisis-postliterate-age/687618/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Nigel Farage’s ‘I Have a Crooked Dream’ Speech",
-      "url": "https://www.theatlantic.com/ideas/2026/07/reform-uk-farage-resigns-special-election/687831/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Demon Next Door",
-      "url": "https://www.theatlantic.com/magazine/2026/08/charismatic-christian-church-tennessee/687624/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-07",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

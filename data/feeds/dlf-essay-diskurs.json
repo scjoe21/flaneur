@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-07-12T18:08:48.409066+00:00",
+  "fetchedAt": "2026-07-17T06:11:54.463148+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Ein bisschen Fliegen ist doch kein Problem - Wie weit geht die Verantwortung für den Klimawandel?",
+      "url": "https://www.deutschlandfunk.de/wie-weit-geht-die-verantwortung-fuer-den-klimawandel-100.html",
+      "description": "Die Folgen des Klimawandels scheinen vom Einzelnen zu fordern, sein Handeln daran auszurichten und sich der CO2-Moral unterzuordnen. Ist das wirklich so? Von Frauke Rostalski www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 26 Apr 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunk.de/zwischen-monogramm-und-moderne-von-der-buergerlichen-aussteuer-zur-autonomen-kunst-100.html",
       "description": "Leibwäsche, Nachtwäsche, Bettwäsche, Tischwäsche: Mehr als 700 Stücke konnte eine bürgerliche Aussteuer um 1900 umfassen. Hier wird die Geschichte bürgerlichen Wohnens, der Emanzipation von Frauen, aber auch die Entwicklung der Textilkunst kenntlich. Von Hilka Dirks www.deutschlandfunk.de, Essay und Diskurs",
       "date": "Sun, 28 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Kulturpresseschau 07.06.2026",
-      "url": "https://www.deutschlandfunk.de/kulturpresseschau-07-06-100.html",
-      "description": "Pokatzky, Klaus www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 07 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

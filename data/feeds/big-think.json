@@ -1,62 +1,110 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-12T18:08:44.445944+00:00",
+  "fetchedAt": "2026-07-17T06:11:47.160097+00:00",
   "items": [
     {
-      "title": "The psychology of perversion, revenge, and AI companionship",
-      "url": "https://bigthink.com/series/full-interview/the-psychology-of-revenge/",
-      "description": "Psychologist Paul Bloom has spent his career studying the parts of human nature we often feel uncomfortable examining: why loneliness feels like starvation, why people are drawn to behaving poorly, why revenge feels righteous until it destroys everything. \n Bloom argues that the US doesn’t actually have a loneliness epidemic, it has a solitude epidemic, one being accelerated by AI companionship. \n \n This video  The psychology of perversion, revenge, and AI companionship  is featured on  Big Thin",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-09-at-11.42.20-AM.png?quality=80&w=640",
+      "title": "A philosopher’s guide to thinking for yourself in an age built to think for you",
+      "url": "https://bigthink.com/series/full-interview/philosophy-of-stupidity/",
+      "description": "Philosopher Jonny Thomson walks through Dietrich Bonhoeffer’s 3 conditions for the kind of stupidity that destroys societies: outsourcing your thinking to an authority, willful ignorance, and conformity.  \n He shows how each one shows up today, from AI answering our moral questions to political parties enforcing loyalty over conviction. \n \n This video  A philosopher’s guide to thinking for yourself in an age built to think for you  is featured on  Big Think .",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-11.42.39-AM.png?quality=80&w=640",
       "videoId": "",
-      "priority": 40,
+      "priority": 49,
       "scoreDetail": {
         "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 40
-      }
-    },
-    {
-      "title": "Mapped: America’s 10 most creative acts of noncompliance",
-      "url": "https://bigthink.com/strange-maps/mapped-americas-10-most-creative-acts-of-noncompliance/",
-      "description": "Before the United States was a country, it was a rebellion: against kings, taxes, and the general idea that someone far away has the right to tell you what to do. In that very foundational sense, there’s nothing more American than opting out, and this map is your field guide to the U.S.’s most creative acts of noncompliance. From California’s Slab City to Amish Country in the Midwest, this is the other America. Not the majority version, but an equally American one. It exists not despite its resi",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/opt-out-around-US_compressed.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "phil": 15,
         "flaneur": 4,
         "novelty": 0,
-        "total": 14
+        "total": 49
       }
     },
     {
-      "title": "“Disclosure Day”: Spielberg’s latest alien film is all mystery, no meaning",
-      "url": "https://bigthink.com/history-society/disclosure-day-spielbergs-latest-alien-film-is-all-mystery-no-meaning/",
-      "description": "There’s a particular kind of disappointment that only a good filmmaker can deliver, and  Disclosure Day  is steeped in it. This isn’t a bad movie, exactly. It’s something more frustrating: a missed opportunity, made by a director standing on the most fertile ground and for some reason refusing to dig. \n Steven Spielberg has spent his career circling the idea of first contact with aliens. The closest comparison here is 1977’s  Close Encounters of the Third Kind , and the comparison is not kind to",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/disclosure-day_compressed.png?quality=80&w=640",
+      "title": "Who pays the cost when Americans opt out of science?",
+      "url": "https://bigthink.com/13-8/who-pays-the-cost-when-americans-opt-out-of-science/",
+      "description": "I had thought science denial would hit a bottom — that once people began to experience the direct consequences of being wrong, of holding fast to beliefs that were demonstrably at odds with well-established science, they would drop those beliefs. It turns out I was wrong.  \n As a research scientist who’s also dedicated many years to science communication, coming to grips with this truth has been hard. It leaves us all facing difficult questions about how science and society can — or cannot — co-",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/war-on-science_compressed.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 10,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "2126: The year data will be controlled by citizens, not tech companies",
+      "url": "https://bigthink.com/books/data-empire/",
+      "description": "2126 CE. \n On your morning commute, the bus automatically reroutes to conserve energy. A message flashes: “Approved by the transit board, August 12.” Riders groan about the detour but know they voted for this policy. \n Parks are watched, but not policed. Sensors measure water use and animal life, and the data gets published openly. Communities decide how to care for the land — its water and habitats — following stewardship principles shaped by long-standing Indigenous knowledges. They count bird",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/data-empire_excerpt.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 30
       }
     },
     {
-      "title": "What you lose when you stop reading physical books",
-      "url": "https://bigthink.com/books/reading-physical-books/",
-      "description": "After unpacking my bag in the bedroom I’d call home for the next month, part two of my European spring trip, I went downstairs. My friend and travel companion sat at the kitchen table, eyes on her phone. Without looking up, she held out a paperback.  \n “Here,” she said, glancing up as I took the book. “I bought this at the airport. I think you’ll love it.” \n I examined the cover. It carried a minimalist hand-drawn portrait, the subject unmistakably a hare in profile, with long, spindly ears, a d",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/stop-reading-print_compressed.jpg?quality=85&w=640",
+      "title": "Ask Ethan: Does Mars’s gravity prohibit human colonization?",
+      "url": "https://bigthink.com/starts-with-a-bang/mars-gravity-human-colonization/",
+      "description": "For as long as we’ve looked up at the night sky and realized that there were other stars and planets out there beyond our own, they’ve captured our imaginations and made us wonder what was possible. How different or similar are they to Earth? Have any of them ever had life on them, and if so, what is (or was) that life like? Can we travel to those worlds, set foot on them, and engineer a habitat that allows us to survive there? Ideally, it wouldn’t just be for a brief time, but rather could pote",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2013/05/origin-505.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Inside the minds of 5 chilling literary psychopaths",
+      "url": "https://bigthink.com/books/stories-psychopathic-protagonists/",
+      "description": "Literature explores the breadth of human experiences, even those behaviors and thoughts we find abhorrent. Characters who are cruel, malicious, and heartless are typically the villains of the story. They stand in opposition to a protagonist who, while perhaps flawed, is heroic, selfless, and kind — qualities we value and admire. When it comes to spending time with one character type or the other, it’s obvious which one readers prefer.  \n But sometimes, storytellers want to center their tale on t",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/psychopaths-novels.gif?w=640",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 19
+      }
+    },
+    {
+      "title": "99% of a core-collapse supernova’s energy is invisible",
+      "url": "https://bigthink.com/starts-with-a-bang/core-collapse-supernova-energy-invisible/",
+      "description": "Have you ever thought about the energetic explosions that occasionally occur — both within our own galaxy and in galaxies all across the Universe — and wondered, “where did all that energy come from?” Throughout human history, what seemed to be new stars have populated our sky at random: \n \n suddenly appearing as if from nowhere, \n brightening and reaching a peak magnitude, \n and then slowly fading away to become invisible to the eye once again. \n \n Since the advent of the telescope, we’ve learn",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/01/Cassiopeia_A_Spitzer_Crop-e1731525345219.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "The physical Universe isn’t made of pure mathematics alone",
+      "url": "https://bigthink.com/starts-with-a-bang/universe-made-pure-mathematics/",
+      "description": "Beyond the limits of the theoretical physics we currently understand, many of the most popular ideas have one thing in common: at their core, they’re mathematical extensions of what we presently know and understand. By adopting a mathematical framework that not only encompasses what we presently understand, but that seeks to explain more things than our currently prevailing theories do, we hope to extend our understanding of the Universe past the current frontiers. We know that our current frame",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/02/Volume_dunivers-e1736197799913.png?quality=80&w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
@@ -68,91 +116,43 @@
       }
     },
     {
-      "title": "Van life looks like freedom. It can feel like exile.",
-      "url": "https://bigthink.com/history-society/van-life-looks-like-freedom-it-can-feel-like-exile/",
-      "description": "I woke up at 7 a.m. to a swift, hard knock on my door.  Whap .  Whap .  Whap . I’d been living in my converted Sprinter van for nearly six years, and I knew that a knock usually meant someone — a cop, a ranger, a homeowner — wanted me gone. \n I lay still for a moment, coming down from the immediate jolt of adrenaline. Where was I? Right: outside of St. George, Utah, on public land, surrounded by other vans, RVs, and trailers. I had played by the rules and bought an annual permit. I was allowed t",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/toll-of-road_compressed.jpg?quality=85&w=640",
+      "title": "Objective reality only exists because other people do",
+      "url": "https://bigthink.com/the-well/objective-reality-only-exists-because-other-people-do/",
+      "description": "Is it time for a new ‘theory of everything’?  \n World-renowned physicist Stephen Wolfram explains his theory that the universe may be built from simple computational rules. He describes space as a giant network made of tiny “atoms of space,” constantly updating in ways that create time, gravity, quantum mechanics, and the laws of physics. He also introduces the Ruliad: the space of all possible computations. Ultimately, Wolfram argues that reality may be far more complex than we can see, shaped ",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/The-Well-Stephen-Wolfram-Segment-01-Web.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "Starts With A Bang podcast #131 – The baryon life cycle",
-      "url": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-131-the-baryon-life-cycle/",
-      "description": "In order for stars to form, you need the right ingredients to make it happen: gravity, mass, time, and of course the right type of matter in the form of baryons. Shortly after the Big Bang, the Universe had plenty of them, but they were all very simple: protons, deuterons, helium-3 and helium-4 nuclei, and a tiny bit of lithium-7. These nuclei, made out of protons and neutrons, were all that the Universe gave us to work with prior to the formation of stars. But, in clumps of material small and l",
-      "date": "Sat, 11 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/52224799818_ef29eb1b62_k.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "The $325 permit reshaping homeownership in Arizona",
-      "url": "https://bigthink.com/history-society/the-325-permit-reshaping-homeownership-in-arizona/",
-      "description": "“I just always thought there was something not quite right about this world,” Clay Greathouse said, as his truck climbed out of an arroyo and onto a creosote-studded lot near the town of Tombstone.  \n It was a Saturday morning in March, an ideal time to be ambling in Arizona’s high desert, though if the truck broke down here I would certainly not want to be without my water bottle. The last street sign I’d seen was for Last Chance Road. Outside our window, a landscape by turns breathtaking and g",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/new-homesteaders_compressed_f52532.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "“I would prefer not to”: The mystery behind literature’s most famous act of refusal",
-      "url": "https://bigthink.com/books/i-would-prefer-not-to-the-mystery-behind-literatures-most-famous-act-of-refusal/",
-      "description": "“I would prefer not to.” \n Those words, printed in white capital letters on a black T-shirt, are worn by a man surrounded by crates full of books in Zuccotti Park, downtown Manhattan. It is late October 2011, and the man doesn’t know it yet, but in three weeks’ time, the books in his crates will be seized by the NYPD and destroyed. \n The slogan on the man’s T-shirt comes from Herman Melville’s 1853 short story “Bartleby, the Scrivener.” The words are spoken by Bartleby, a lawyer’s copyist, who h",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/prefer-not-2_compressed.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "The Opt-Out Nation",
-      "url": "https://bigthink.com/collections/the-opt-out-nation/",
-      "description": "This Big Think issue is a collection of stories about the American instinct to opt out, to pack up and go, to tell the boss, “I’d prefer not to.”",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Opt-Out-091-1-copy.jpg?quality=85&w=640",
+      "title": "The big reason Einstein would never have used AI",
+      "url": "https://bigthink.com/starts-with-a-bang/einstein-ai/",
+      "description": "For today’s students, the temptation to cheat is at an all-time high, with AI tools making it easier than ever. In  one recent class at Brown University , an economics class of 86 students, students scored higher on the (take-home) midterm exam than ever before: with an average score of 96 percent. Only 5 students out of 86 scored below 90 percent on the midterm: in a class where midterm scores had never exceeded 80 percent before. Strongly suspecting cheating, the professor announced that the f",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/12/1_MUYn6wNZgZuaCu2G3pcgFQ-e1723066380603.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
       }
     },
     {
-      "title": "Ask Ethan: What sets the size of the observable Universe?",
-      "url": "https://bigthink.com/starts-with-a-bang/size-observable-universe/",
-      "description": "When we look out across the Universe, we see objects at all different distances. The planets we see all exist only within our own Solar System: right in our cosmic backyard. The stars that we see exist primarily within our home galaxy, the Milky Way, and can be up to tens of thousands of light-years distant. Our nearest galaxies are under a million light-years away, but  the farthest ones that have been identified  are over 33 billion light-years away. And when we look at the oldest, most distan",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/10/0_STfMzDr64h2YHfJg-e1783630180572.jpg?quality=85&w=640",
+      "title": "The harmony Carnie Wilson spent her whole life trying to find",
+      "url": "https://bigthink.com/perception-box/the-harmony-carnie-wilson-spent-her-whole-life-trying-to-find/",
+      "description": "Carnie Wilson — best known as one-third of Wilson Phillips and daughter of Beach Boys founder Brian Wilson — revisits some of the most defining moments of her public and private life. From a childhood spent in the chaos of rock-and-roll royalty, to her rise as one of the best-selling artists of the early 90s, to her very public weight-loss journey and the road to sobriety and motherhood that followed, Carnie shares what she sees when she looks back,  and what it’s taken to finally feel like she ",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/TMIUTB-Carnie-Wilson-Web-A.png?quality=80&w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

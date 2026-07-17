@@ -1,22 +1,22 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-07-12T18:07:32.241482+00:00",
+  "fetchedAt": "2026-07-17T06:11:00.794794+00:00",
   "items": [
     {
-      "title": "Niente è davvero finito (anche se Netflix dice il contrario)",
-      "url": "https://www.iltascabile.com/linguaggi/niente-e-davvero-finito-anche-se-netflix-dice-il-contrario/",
-      "description": "Il caso dell'inesistente “episodio 9” di  Stranger Things  svela il nostro rifiuto contemporaneo per la fine: come il  Conformity gate  e il neoliberismo dello  streaming  hanno trasformato gli spettatori in eretici docetisti. \n L'articolo  Niente è davvero finito (anche se Netflix dice il contrario)  proviene da  Il Tascabile .",
-      "date": "Thu, 02 Jul 2026",
+      "title": "Risalire la piattaforma",
+      "url": "https://www.iltascabile.com/societa/risalire-piattaforma/",
+      "description": "A partire dal saggio  A Sud della piattaforma  di Federico De Stavola, una riflessione su come la figura del  rider , tra lavoro informale e  gig economy , permetta di ripensare al rapporto tra centro e periferia nel modello capitalistico, tornando alla centralità del lavoro. \n L'articolo  Risalire la piattaforma  proviene da  Il Tascabile .",
+      "date": "Tue, 14 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 34,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 5,
-        "total": 29
+        "total": 34
       }
     },
     {
@@ -36,16 +36,16 @@
       }
     },
     {
-      "title": "La ricerca della felicità animale",
-      "url": "https://www.iltascabile.com/scienze/ricerca-felicita-animale/",
-      "description": "Il benessere animale non dipende solo dalla salute e dall’assenza di sofferenze, ma anche dalla capacità di offrire agli animali ciò che vogliono. Una riflessione sul concetto di Positive animal welfare. \n L'articolo  La ricerca della felicità animale  proviene da  Il Tascabile .",
-      "date": "Mon, 29 Jun 2026",
+      "title": "Perché beviamo",
+      "url": "https://www.iltascabile.com/scienze/perche-beviamo/",
+      "description": "La nostra attrazione per l’alcol non è solo un residuo evolutivo potenzialmente patologico, ma anche una tecnologia sociale vecchia di millenni. Una riflessione sul ruolo biologico e culturale dell’ebbrezza. \n L'articolo  Perché beviamo  proviene da  Il Tascabile .",
+      "date": "Mon, 13 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 19,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 4,
         "novelty": 0,
         "total": 19
@@ -68,26 +68,10 @@
       }
     },
     {
-      "title": "La radicalizzazione dell’Occidente",
-      "url": "https://www.iltascabile.com/societa/radicalizzazione-delloccidente/",
-      "description": "L'informazione al servizio della guerra, tra postverità, propaganda, censura, bias tecnologici e sorveglianza. \n L'articolo  La radicalizzazione dell’Occidente  proviene da  Il Tascabile .",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Il pescaggio abissale della poesia",
-      "url": "https://www.iltascabile.com/letterature/pescaggio-abissale-poesia/",
-      "description": "Dietro le quinte di  Poeta a vent’anni  con Simone Lucciola e Andromalis. Un viaggio a fumetti nella vita di Corazzini tra l’ossessione per la morte, la psichedelia e l’estetica DIY. \n L'articolo  Il pescaggio abissale della poesia  proviene da  Il Tascabile .",
-      "date": "Wed, 01 Jul 2026",
+      "title": "Un danno strutturale",
+      "url": "https://www.iltascabile.com/linguaggi/danno-strutturale/",
+      "description": "Nelle giunture affettive di  Sentimental Value : dal testo di Derrida alla tragedia greca, la grazia metaforica di Trier mette in scena le ferite senza mostrare il sangue. \n L'articolo  Un danno strutturale  proviene da  Il Tascabile .",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -113,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Lectura Maris",
+      "url": "https://www.iltascabile.com/letterature/lectura-maris/",
+      "description": "Cercando di inquadrare l’opera. \n L'articolo  Lectura Maris  proviene da  Il Tascabile .",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

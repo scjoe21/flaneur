@@ -1,24 +1,8 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-12T18:08:42.638680+00:00",
+  "fetchedAt": "2026-07-17T06:11:45.183514+00:00",
   "items": [
-    {
-      "title": "Pierre Bourdieu: habitus",
-      "url": "https://psyche.co/videos/the-hidden-rules-of-the-game-that-dictate-how-we-navigate-the-world",
-      "description": "How free are we really, if human behaviour embodies the complex, intertwined webs of society and history? - Video by Then & Now Watch on Psyche",
-      "date": "Fri, 26 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
-      }
-    },
     {
       "title": "How to imagine a better future for yourself",
       "url": "https://psyche.co/guides/how-to-imagine-a-better-future-for-yourself",
@@ -52,35 +36,19 @@
       }
     },
     {
-      "title": "Who do you think you are? There are two answers",
-      "url": "https://psyche.co/ideas/who-do-you-think-you-are-there-are-two-answers",
-      "description": "Being seen for who you are, both existentially and metaphysically, is a gift that society should strive to bestow on all - by Joanna Lawson Read on Psyche",
-      "date": "Thu, 02 Jul 2026",
+      "title": "How to rediscover the joy of drawing",
+      "url": "https://psyche.co/guides/how-to-rediscover-the-joy-of-drawing",
+      "description": "As a child, you knew the thrill of conjuring with a pencil. Reclaim that pleasure with these activities (no talent needed) - by Andrea Kantrowitz Read on Psyche",
+      "date": "Tue, 14 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Why you should talk to your dead ancestors",
-      "url": "https://psyche.co/ideas/why-you-should-talk-to-your-dead-ancestors",
-      "description": "The simple act of communicating without expecting anything in return can bring you closer to your family – and to yourself - by Mariam Vahradyan Read on Psyche",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 19
       }
     },
     {
@@ -100,6 +68,38 @@
       }
     },
     {
+      "title": "The joy of falling down together",
+      "url": "https://psyche.co/notes-to-self/when-youre-in-sync-with-others-joy-is-shared",
+      "description": "My reluctant participation in a line-dancing class showed me how moving as one promotes feelings of group unity – and joy - by Amy Arthur Read on Psyche",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "L A Paul on transformative experience",
+      "url": "https://psyche.co/videos/why-major-life-decisions-should-be-approached-with-epistemic-humility",
+      "description": "At a crossroads in life? No matter how much you deliberate, one unknowable remains: who you will be on the other side - Video by The Well Watch on Psyche",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Same art, different name: would you see or hear it the same way?",
       "url": "https://psyche.co/ideas/same-art-different-name-would-you-see-or-hear-it-the-same-way",
       "description": "A mislabelled concerto and other errors and tricks show that reputation affects how art is perceived, sometimes radically - by Rikki A Wolpowitz Read on Psyche",
@@ -113,6 +113,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "What draws well-meaning parents to authoritarian parenting?",
+      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
+      "description": "In my therapy room, I’ve seen the costs of the controlling impulse. Winnicott and Rogers show us healthier alternatives - by Hope Bastine Read on Psyche",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "I am that I am",
+      "url": "https://psyche.co/turning-points/what-an-18th-century-prophet-taught-me-about-losing-my-gender",
+      "description": "Ego death obliterated my gender identity, but then I stumbled upon the Public Universal Friend - by Silas Joan Savard Read on Psyche",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -180,51 +212,19 @@
       }
     },
     {
-      "title": "Tips and tools for navigating hearing loss",
-      "url": "https://psyche.co/guides/tips-and-tools-for-navigating-hearing-loss",
-      "description": "At home, at work and out having fun, these are the supportive tools, apps and services that have helped me and many others - by Faith Davis Read on Psyche",
-      "date": "Wed, 01 Jul 2026",
+      "title": "Portraits of another life: Lloyd Khan",
+      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
+      "description": "No rent, no mortgage: rejecting easy comfort, a revolutionary homebuilder has found his own version of a successful life - 11 minutes Watch on Psyche",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The film that attacks you",
-      "url": "https://psyche.co/videos/the-groundbreaking-film-that-rejected-plot-to-embrace-the-irrational",
-      "description": "Luis Buñuel and Salvador Dalí drew on imagery from their dreams and unconscious minds to create this shocking, surreal film - Video by The Nerdwriter Watch on Psyche",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The wolverine gospel",
-      "url": "https://psyche.co/portraits/why-the-wolverine-nudged-out-god-in-one-biologists-cosmology",
-      "description": "For the biologist Jeff Copeland, salvation lies not in God but a creature as fierce and free as the mountains it roams - by Jeff Wheelwright Read on Psyche",
-      "date": "Mon, 29 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

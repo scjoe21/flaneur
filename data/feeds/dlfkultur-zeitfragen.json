@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-07-12T18:08:48.960312+00:00",
+  "fetchedAt": "2026-07-17T06:11:55.580594+00:00",
   "items": [
     {
       "title": "250 Jahre USA (2/4) - Wie US-Kultur die Welt eroberte",
@@ -52,19 +52,35 @@
       }
     },
     {
-      "title": "50 Jahre Entebbe - Die Internationalisierung des Terrorismus",
-      "url": "https://www.deutschlandfunkkultur.de/50-jahre-entebbe-deutscher-antisemitismus-und-internationaler-terrorismus-100.html",
-      "description": "Die Entführung eines Air-France-Flugs nach Entebbe 1976 durch palästinensische Kämpfer und zwei deutsche Linksterroristen zählt zu den prägendsten Terroraktionen der 1970er-Jahre. Wie verbreitet war der Antisemitismus in der radikalen Linken? Loll, Anna www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 17 Jun 2026",
+      "title": "Kraken - Rätselhafte Aliens der Meere",
+      "url": "https://www.deutschlandfunkkultur.de/kraken-ueber-die-faszination-der-irdischen-aliens-100.html",
+      "description": "Drei Herzen, neun Gehirne, blaues Blut: Kraken scheinen nicht von dieser Welt zu sein. Sie wirken wie Aliens und wurden als Orakel bestaunt. Mit ihrer fremdartigen Intelligenz inspirieren sie die Robotik und geben der Forschung immer neue Rätsel auf. Beller, Svenja www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
+      }
+    },
+    {
+      "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (1/4) - Eine Ideologie überlebt ihre Niederlage",
+      "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-rechte-intellektuelle-der-bundesrepublik-1-4-100.html",
+      "description": "Nach Ende des Zweiten Weltkriegs mussten sich rechte Netzwerke neu organisieren. Sie konnten sich nicht mehr offen auf den besiegten Nationalsozialismus berufen, suchten aber Wege, ihre Ideologie in die junge Bundesrepublik zu retten. (Wdh. vom 10.09.25) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature Hören bis: 15. Juli 2028, 19:30",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -116,38 +132,6 @@
       }
     },
     {
-      "title": "Erfindergeist - Innovationen brauchen Risikobereitschaft und Geld",
-      "url": "https://www.deutschlandfunkkultur.de/wie-kommt-das-neue-in-die-welt-ueber-innovation-in-unserer-gesellschaft-100.html",
-      "description": "Deutschland galt als Land der Tüftler und Erfinder. Doch seit Jahren sinkt die Innovationsfreude, klagen Politik und Wirtschaft. Der berühmte deutsche Erfindergeist soll wiederbelebt werden. (Erstsendung: 5.8.2025 Kiesel, Heiner www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Altersarmut im Osten - Der lange Schatten der Wende",
-      "url": "https://www.deutschlandfunkkultur.de/altersarmut-in-ostdeutschland-der-lange-schatten-der-wende-100.html",
-      "description": "Auch gut 35 Jahre nach der Wiedervereinigung gibt es ein soziales Gefälle zwischen Ost- und Westdeutschland. Im Alter stehen einige im Osten finanziell schlechter da als im Westen – jedoch nicht alle. Das Bild von der Altersarmut ist vielschichtig. Fannrich-Lautenschläger, Isabel www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 15 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Russlands Schattennetz - Spionage und Sabotage im Visier",
       "url": "https://www.deutschlandfunkkultur.de/russlands-schattennetz-spionage-und-sabotage-im-visier-100.html",
       "description": "In Deutschland und Europa häufen sich Spionage- und Sabotagefälle. Im Verdacht stehen russische \"Wegwerf-Agenten\" – Laien, die über soziale Netzwerke angeworbene werden. Sie erledigen scheinbar harmlose Aufträge – oft ohne die Hintermänner zu kennen. Röhmel, Joseph; Chernobylskaya, Mayya www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Ein Haufen Hoffnung - Was alles im Kompost steckt",
+      "url": "https://www.deutschlandfunkkultur.de/ein-haufen-hoffnung-ueber-das-was-im-kompost-steckt-102.html",
+      "description": "Kompost ist mehr als nur Biomüll: Im Komposthaufen wird aus Küchen- und Gartenabfällen fruchtbarer Humus - eine klimaschonende Kreislaufwirtschaft, die Ressourcen spart und Böden verbessert. Doch das ist noch längst nicht alles. Goretzki, Anna Marie www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophers-magazine",
   "sourceName": "The Philosophers' Magazine (TPM)",
-  "fetchedAt": "2026-07-12T18:08:54.031707+00:00",
+  "fetchedAt": "2026-07-17T06:12:03.109781+00:00",
   "items": [
     {
       "title": "The Ethics of Sex Verification",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "On the Subordination of Scholarship to Politics",
+      "url": "https://philosophersmag.com/on-subordinating-scholarship-to-politics/",
+      "description": "Paul Boghossian adumbrates the qualified criticisms of a recent report on the humanities, and responds to counter-critics. \n The post  On the Subordination of Scholarship to Politics  first appeared on  The Philosophers' Magazine .",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Hyperintensionality: For or Against? Part II",
       "url": "https://philosophersmag.com/hyperintensionality-for-or-against-part-ii/",
       "description": "Kit Fine and Timothy Williamson debate the nature and existence of hyperintensionality (Part II). \n The post  Hyperintensionality: For or Against? Part II  first appeared on  The Philosophers' Magazine .",
@@ -88,22 +104,6 @@
       "url": "https://philosophersmag.com/hyperintensionality-for-or-against-part-i/",
       "description": "Kit Fine and Timothy Williamson debate the nature and existence of hyperintensionality (Part I). \n The post  Hyperintensionality: For or Against? Part I  first appeared on  The Philosophers' Magazine .",
       "date": "Sat, 04 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "On Being Rejected",
-      "url": "https://philosophersmag.com/on-being-rejected/",
-      "description": "First a review article, then a book, now a book review—Alex Byrne chronicles the latest surprise rejection of his writing in the philosophy of sex and gender. \n The post  On Being Rejected  first appeared on  The Philosophers' Magazine .",
-      "date": "Wed, 18 Mar 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

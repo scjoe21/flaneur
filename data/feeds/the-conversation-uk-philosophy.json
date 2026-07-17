@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-07-12T18:08:51.340696+00:00",
+  "fetchedAt": "2026-07-17T06:11:59.908853+00:00",
   "items": [
     {
       "title": "Why corporate inclusion policies are moral decisions, not just business ones",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "What do human relationships with chatbots say about friendship? A philosopher considers",
+      "url": "https://theconversation.com/what-do-human-relationships-with-chatbots-say-about-friendship-a-philosopher-considers-284188",
+      "description": "",
+      "date": "2026-07-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Antonio Gramsci: his philosophy explained",
       "url": "https://theconversation.com/antonio-gramsci-his-philosophy-explained-286341",
       "description": "",
@@ -216,22 +232,6 @@
       "url": "https://theconversation.com/ai-chatbots-can-prioritize-flattery-over-facts-and-that-carries-serious-risks-274298",
       "description": "",
       "date": "2026-05-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Friday essay: John Keane on demagogues, despots and the rise of ‘phantom democracies’",
-      "url": "https://theconversation.com/friday-essay-john-keane-on-demagogues-despots-and-the-rise-of-phantom-democracies-280137",
-      "description": "",
-      "date": "2026-04-30",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

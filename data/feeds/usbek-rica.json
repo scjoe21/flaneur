@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-12T18:07:24.068728+00:00",
+  "fetchedAt": "2026-07-17T06:10:44.306386+00:00",
   "items": [
     {
       "title": "Canicule : après le confinement sanitaire, bientôt l’ère des confinements climatiques ?",
@@ -17,6 +17,54 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 29
+      }
+    },
+    {
+      "title": "Pourquoi les philosophes sont en train de devenir les stars de l'intelligence artificielle",
+      "url": "https://usbeketrica.com/fr/article/les-philosophes-sont-ils-en-train-de-devenir-les-stars-de-l-intelligence-artificielle",
+      "description": "Et si la vraie compétence d'avenir n'était finalement pas de savoir coder, mais de savoir philosopher ? C’est ce que suggère un article publié par le média américain The Economist, qui fait le constat d'un intérêt grandissant des entreprises d’IA pour les diplômés de philosophie.",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Ce que la SF peut nous apprendre de l'habitabilité d'un monde en réchauffement",
+      "url": "https://usbeketrica.com/fr/article/ce-que-la-sf-peut-nous-apprendre-de-l-habitabilite-d-un-monde-en-rechauffement",
+      "description": "TRIBUNE // Et si le débat sur les climatiseurs qui a échaudé les plateaux télévisés français ces dernières semaines était le symptôme d'un manque criant d'imagination pour penser un futur habitable ? C'est ce que suggère dans cette tribune Yannick Rumpala, Maître de conférences (HDR) en science politique à l'Université Côte d'Azur, qui invite à voir dans les œuvres de sience-fiction un laboratoire d'expérimentation précieux pour maintenir l’habitabilité planétaire.",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Canicule : quatre essences d'arbres précieuses face aux feux de forêt",
+      "url": "https://usbeketrica.com/fr/article/adaptation-quelles-essences-d-arbres-pour-un-futur-au-climat-deregle",
+      "description": "Alors que la France endure sa troisième canicule de l'année, la flore sylvestre accuse, elle aussi, le coup. Face à une mortalité des arbres accélérée par un dérèglement climatique qui intensifie les sécheresses, les hivers trop doux, les pluies diluviennes et l'augmentation de parasites, quelles espèces résisteront et feront nos paysages d'ici 30 ans ? On s'est posé la question dans le numéro 37 de notre magazine, paru en octobre 2022.",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -68,22 +116,6 @@
       }
     },
     {
-      "title": "Face aux canicules, la géo-ingénierie va-t-elle gagner en acceptabilité ?",
-      "url": "https://usbeketrica.com/fr/article/face-aux-canicules-la-geo-ingenierie-va-t-elle-gagner-en-acceptabilite",
-      "description": "A force de faire face à des canicules de plus en plus fréquentes et intenses, nos cerveaux finiront-ils par souhaiter la pluie à tout prix ? Aujourd’hui encore marginales, les techniques de géo-ingénierie deviendront-elles plus « acceptables » dans notre esprit ? On a posé la question à Mélusine Boon-Falleur, docteure en sciences cognitives au centre de recherche sur les inégalités sociales de Sciences Po.",
-      "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "J’ai joué au « test des trois Chinois », et voilà le résultat",
       "url": "https://usbeketrica.com/fr/article/j-ai-joue-au-test-des-trois-chinois-et-voila-le-resultat",
       "description": "ÉDITO // Qui est capable de citer le nom de trois Chinois vivants ? Derrière cette question provocatrice, posée par le rédacteur en chef du site Le Grand Continent, il y a le constat d’une urgence : le travail de veille sur l’état du monde et les émergences de notre époque ne doit pas être réservé à une poignée d’experts. C’est l’angle creusé dans l’édito du nouveau numéro de FUTUR, le magazine d'Usbek & Rica, disponible en librairie depuis le 9 juillet.",
@@ -120,22 +152,6 @@
       "url": "https://usbeketrica.com/fr/article/arco-patema-robot-sauvage-5-films-d-animation-pour-rever-d-un-monde-meilleur",
       "description": "Alors que les vacances scolaires démarrent ce samedi 4 juillet, la rédaction d’Usbek & Rica a sélectionné 5 films d’animation inspirants, à voir en famille ou entre amis pour continuer de croire en un monde meilleur. À (re)découvrir sans modération durant tout l’été.",
       "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "5 croyances qui freinent l’innovation au service du handicap en entreprise",
-      "url": "https://usbeketrica.com/fr/article/5-croyances-qui-freinent-l-innovation-au-service-du-handicap-en-entreprise",
-      "description": "Longtemps, le handicap au travail a été pensé comme une obligation légale, voire… un centre de coût. Et si la différence – et l’innovation déployée pour intégrer au mieux toutes et tous en entreprise, permettait de transformer pour le mieux les modes d’organisation ? Avec le sociologue Norbert Alter, auteur de L’innovation ordinaire (Puf, 2013) et de La Force de la différence (Puf, 2018), nous revenons sur cinq préjugés tenaces à propos d’innovation et de handicap en entreprise.",
-      "date": "Thu, 25 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/s-s-rajamouli-maitre-du-cinema-d-action-indien-il-faut-que-l-experience-de-la-salle-redevienne-speciale",
       "description": "Rencontre avec le réalisateur star S. S. Rajamouli, maître du cinéma d’action indien (Magadheera, La Légende de Baahubali, RRR…), de passage à Paris à l’occasion d’une tournée organisée par son distributeur français Carlotta Films.",
       "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les drogues ont-elles toujours été consommées pour le plaisir ?",
-      "url": "https://usbeketrica.com/fr/article/les-drogues-ont-elles-toujours-ete-consommees-pour-le-plaisir",
-      "description": "Si les drogues les plus populaires du XXIème siècle doivent une partie de leur succès à la fête, d’autres usages, spirituels notamment, coexistent depuis longtemps avec elle. Dans le cadre de la sortie du nouveau numéro de notre magazine FUTUR, consacré au fun et à l'amusement, retour sur l’histoire longue de ce phénomène.",
-      "date": "Fri, 26 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

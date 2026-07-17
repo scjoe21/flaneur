@@ -1,7 +1,7 @@
 {
   "sourceId": "sous-le-soleil-de-platon",
   "sourceName": "Sous le soleil de Platon (France Inter)",
-  "fetchedAt": "2026-07-12T18:08:47.942662+00:00",
+  "fetchedAt": "2026-07-17T06:11:53.649248+00:00",
   "items": [
     {
       "title": "Dominique Méda : comment travailler autrement, sans abîmer le monde ?",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 35
+      }
+    },
+    {
+      "title": "Valérie Masson-Delmotte : pourquoi ne prenons-nous pas les mesures nécessaires pour que notre planète reste habitable ?",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-mercredi-15-juillet-2026-7283574",
+      "description": "durée : 00:49:38  - Sous le soleil de Platon   - par : Charles Pépin - Valérie Masson-Delmotte est une climatologue reconnue pour son engagement dans la sensibilisation aux enjeux climatiques. Ses nombreux ouvrages de vulgarisation contribuent à rendre accessibles la connaissance de l'évolution du climat et ses causes.  - équipe : Estelle Gapp, Antoine Larcher, Stéphanie Valois, Juliette Husson - invités : Valérie Masson-Delmotte Climatologue, membre du Haut conseil pour le climat et responsable",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -52,6 +68,22 @@
       }
     },
     {
+      "title": "CharlÉlie Couture : comment être multiple en restant soi-même ? \"Chaque oeuvre est une proposition, on n'impose rien.\"",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-mardi-14-juillet-2026-2980817",
+      "description": "durée : 00:48:52  - Sous le soleil de Platon   - par : Charles Pépin - CharlElie Couture n'a jamais choisi. Il est tout à la fois auteur, compositeur, interprète, peintre, écrivain, graphiste et photographe. Le Projet Blanc Bleu regroupe des textes de son répertoire célébrant l’amour de la nature et la nécessité d’une forme de décroissance.  - équipe : Estelle Gapp, Antoine Larcher, Stéphanie Valois, Juliette Husson - invités : Charlélie Couture Compositeur, auteur, interprète, peintre, écrivain",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "Bianca Costa : comment les cultures font-elles pour se mélanger harmonieusement ?",
       "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-vendredi-10-juillet-2026-1750018",
       "description": "durée : 00:48:19  - Sous le soleil de Platon   - par : Charles Pépin - La chanteuse franco-brésilienne Bianca Costa a sorti son premier album \"Gringa\" en 2025. Inventrice d'un genre nouveau, la bossa trap, elle bouscule les codes de la scène francophone en mélangeant la mélancolie de la bossa nova aux rythmes percutants du rap.  - équipe : Estelle Gapp, Antoine Larcher, Alicia Vullo, Laura Dumez, Audrey Carmes, Juliette Husson \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite,",
@@ -65,6 +97,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Valérie Dréville :  comment transmettre les mouvements de l'âme ?",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-lundi-13-juillet-2026-3685546",
+      "description": "durée : 00:48:29  - Sous le soleil de Platon   - par : Charles Pépin - A l'occasion de la 80e édition du Festival d'Avignon, Valérie Dréville nous partage les leçons des grands dramaturges qui l'ont accompagnée tout au long de son parcours d'actrice.  Seule en scène, elle  joue \"Thésée sa vie nouvelle\", une adaptation du roman de Camille de Toledo, à Vedène.  - équipe : Estelle Gapp, Antoine Larcher, Alicia Vullo, Laura Dumez, Audrey Carmes, Juliette Husson \n\nVous aimez ce podcast ? Pour écouter",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Qu'est-ce que notre voix dit de nous ? Avec Lou Doillon",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-jeudi-16-juillet-2026-1587245",
+      "description": "durée : 00:51:01  - Sous le soleil de Platon   - par : Charles Pépin - Lou Doillon, chanteuse, auteure, compositrice-interprète, à la voix soul si particulière a trouvé son individualité grâce à sa voix.   - équipe : Estelle Gapp, Antoine Larcher, Alicia Vullo, Laura Dumez, Audrey Carmes, Juliette Husson \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

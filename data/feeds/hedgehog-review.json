@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-07-12T18:08:54.383169+00:00",
+  "fetchedAt": "2026-07-17T06:12:03.680738+00:00",
   "items": [
     {
       "title": "What I Learned from Gordon Wood",
@@ -20,35 +20,35 @@
       }
     },
     {
-      "title": "How Many Divisions Has the Pope?",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/how-many-divisions-has-the-pope",
-      "description": "Of politics and pastoral style in papal encyclicals.",
-      "date": "Thu, 28 May 2026",
+      "title": "How Not to Rise to the Occasion",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/how-not-to-rise-to-the-occasion",
+      "description": "Does the dialectic of history lead to synthesis, a new beginning—or only return to childhood?",
+      "date": "Wed, 08 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "Should the Lion Lie Down With the Electric Lamb?",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/should-the-lion-lie-down-with-the-electric-lamb",
-      "description": "Can people whose judgment has been formed by AI still make prudent choices about its uses?",
-      "date": "Tue, 02 Jun 2026",
+      "title": "Believing Is Seeing",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/believing-is-seeing",
+      "description": "To be a humanist is to be humbled by limits, while wishing to transcend them.",
+      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 0
       }
     },
     {

@@ -1,13 +1,13 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-12T18:07:23.870094+00:00",
+  "fetchedAt": "2026-07-17T06:10:43.308342+00:00",
   "items": [
     {
-      "title": "Comment pense Jordan Bardella ?",
-      "url": "https://www.philomag.com/articles/comment-pense-jordan-bardella",
+      "title": "“Avec l’Odyssée, Homère raconte comment on quitte l’âge des héros” : entretien avec Pierre Judet de La Combe",
+      "url": "https://www.philomag.com/articles/avec-lodyssee-homere-raconte-comment-quitte-lage-des-heros-entretien-avec-pierre-judet",
       "description": "",
-      "date": "Tue, 07 Jul 2026",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,26 +20,10 @@
       }
     },
     {
-      "title": "Comment pense Marine Le Pen ?",
-      "url": "https://www.philomag.com/articles/comment-pense-marine-le-pen",
+      "title": "“L’Odyssée, un voyage vers soi-même”, le nouveau hors-série de “Philosophie magazine” sort ce mercredi !",
+      "url": "https://www.philomag.com/articles/lodyssee-un-voyage-vers-soi-meme-le-nouveau-hors-serie-de-philosophie-magazine-sort-ce",
       "description": "",
-      "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "“Le sentiment océanique et l'expérience de l’infini” : le nouveau “Philosophie magazine” sort ce vendredi !",
-      "url": "https://www.philomag.com/articles/le-sentiment-oceanique-et-lexperience-de-linfini-le-nouveau-philosophie-magazine-sort-ce",
-      "description": "",
-      "date": "Fri, 10 Jul 2026",
+      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -49,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "“Que faire quand on m'offre un cadeau qui me déplait ?” Charles Pépin répond à vos petites et grandes questions !",
+      "url": "https://www.philomag.com/articles/que-faire-quand-moffre-un-cadeau-qui-me-deplait-charles-pepin-repond-vos-petites-et",
+      "description": "",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -84,35 +84,115 @@
       }
     },
     {
-      "title": "Ali Benmakhlouf : “Les Marocains ont entamé un travail de conjuration du ‘déjà vu’ pour que la défaite de 2022 ne se reproduise pas”",
-      "url": "https://www.philomag.com/articles/ali-benmakhlouf-les-marocains-ont-entame-un-travail-de-conjuration-du-deja-vu-pour-que",
+      "title": "Éprouver le “sentiment océanique” à la plage avec la philosophe Laurence Devillairs",
+      "url": "https://www.philomag.com/articles/eprouver-le-sentiment-oceanique-la-plage-avec-la-philosophe-laurence-devillairs",
       "description": "",
-      "date": "Thu, 09 Jul 2026",
+      "date": "Fri, 17 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Nos grandes questions : “D’où vient le pouvoir de séduction du fascisme ?”",
-      "url": "https://www.philomag.com/articles/nos-grandes-questions-dou-vient-le-pouvoir-de-seduction-du-fascisme",
+      "title": "Le “calcul félicifique” chez Bentham, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/le-calcul-felicifique-chez-bentham-cest-quoi",
       "description": "",
-      "date": "Thu, 09 Jul 2026",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "“L’Odyssée” de Christopher Nolan, miroir de notre siècle ?",
+      "url": "https://www.philomag.com/articles/lodyssee-de-christopher-nolan-miroir-de-notre-siecle",
+      "description": "",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ulysse, immortel malgré lui ! L’édito de Sven Ortoli",
+      "url": "https://www.philomag.com/articles/ulysse-immortel-malgre-lui-ledito-de-sven-ortoli",
+      "description": "",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La fin de la lecture ?",
+      "url": "https://www.philomag.com/articles/la-fin-de-la-lecture",
+      "description": "",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La “dignité de l’homme” chez Pic de la Mirandole, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/la-dignite-de-lhomme-chez-pic-de-la-mirandole-cest-quoi",
+      "description": "",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Chaque fois que nous donnons une définition de l’infini, nous l’exprimons dans une formule finie” Entretien avec Adrian W. Moore",
+      "url": "https://www.philomag.com/articles/chaque-fois-que-nous-donnons-une-definition-de-linfini-nous-lexprimons-dans-une-formule",
+      "description": "",
+      "date": "Mon, 13 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -152,86 +232,6 @@
       "url": "https://www.philomag.com/articles/lee-ufan-au-palais-des-papes-pierres-de-touche",
       "description": "",
       "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Hilary Putnam, le philosophe qui a fait sortir l’esprit de sa cuve",
-      "url": "https://www.philomag.com/articles/hilary-putnam-le-philosophe-qui-fait-sortir-lesprit-de-sa-cuve",
-      "description": "",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le “sentiment océanique” : concept philosophique ou brèche dans la rationalité ?",
-      "url": "https://www.philomag.com/articles/le-sentiment-oceanique-concept-philosophique-ou-breche-dans-la-rationalite",
-      "description": "",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Quand Marine Le Pen refuse d’être surveillée par l’œil du peuple",
-      "url": "https://www.philomag.com/articles/quand-marine-le-pen-refuse-detre-surveillee-par-loeil-du-peuple",
-      "description": "",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Rétrospective 2006-2026 : #MeToo, une parole libérée et une vraie révolution sexuelle",
-      "url": "https://www.philomag.com/articles/retrospective-2006-2026-metoo-une-parole-liberee-et-une-vraie-revolution-sexuelle",
-      "description": "",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le Pen-Bardella : le jeu des 7 différences",
-      "url": "https://www.philomag.com/articles/le-pen-bardella-le-jeu-des-7-differences",
-      "description": "",
-      "date": "Tue, 07 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

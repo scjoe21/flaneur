@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-12T18:08:50.674493+00:00",
+  "fetchedAt": "2026-07-17T06:11:58.300009+00:00",
   "items": [
     {
       "title": "Weg von Trump – Wie Deutschland US-Forscher anlocken will",
@@ -52,19 +52,19 @@
       }
     },
     {
-      "title": "Radikalisiert im Netz – Wie Islamisten Jugendliche erreichen",
-      "url": "https://www.swr.de/swrkultur/wissen/radikalisiert-im-netz-wie-islamisten-jugendliche-erreichen-100.html",
-      "description": "Extremisten locken online mit Unterhaltung und Gemeinschaft. Das Ziel: neue Gotteskrieger rekrutieren. Wie können Jugendliche sich dagegen wehren?\nVon Joseph Röhmel (SWR 2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/radikalisiert-im-netz\nHörtipp:\nRaus aus dem Extremismus – Strategien für Rechte und Islamisten\nhttps://www.ardsounds.de/episode/urn:ard:episode:9bc2fbf0e57bb08b/\nBei Fragen und Anregungen schreibt uns:\ndaswissen@swr.de\nFolgt uns auf Mastodon:\nhttps://ard.social/@DasWissen",
-      "date": "Mon, 29 Jun 2026",
+      "title": "Millionen Analphabeten – Wie Erwachsene richtig lesen und schreiben lernen",
+      "url": "https://www.swr.de/swrkultur/wissen/millionen-analphabeten-wie-erwachsene-richtig-lesen-und-schreiben-lernen-100.html",
+      "description": "Rund sechs Millionen Erwachsene können – trotz Schulabschluss und Job – nur einzelne Sätze lesen oder schreiben. Schon einfache Texte werden zum Problem. Doch die wenigsten suchen Hilfe.",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -94,38 +94,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "80 Jahre Bikini – Skandal, Freiheit, Schönheitsdruck",
-      "url": "https://www.swr.de/swrkultur/wissen/80-jahre-bikini-skandal-freiheit-schoenheitsdruck-100.html",
-      "description": "80 Jahre nach seiner Erfindung steht der Bikini für Empowerment und Sexismus zugleich: Bewegungen wie Body Positivity wollen weg von der normschönen, dünnen Bikinifigur kommen.",
-      "date": "Thu, 2 Jul 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Waldbrände verhindern – Feuerresistente Baumarten und neue Technik",
-      "url": "https://www.swr.de/swrkultur/wissen/waldbraende-verhindern-feuerresistente-baumarten-und-neue-technik-100.html",
-      "description": "Waldbrände nehmen weltweit zu, auch in Deutschland. Kurzfristig können bessere Frühwarnung und Löscheinsätze helfen, langfristig nur der Waldumbau mit Bäumen, die dem Feuer besser widerstehen.\nVon Kai Rüsberg (SWR 2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/waldbraende-verhindern\nHörtipp:\nMehr als Holz – Welchen Wert der Wald hat\nhttps://www.ardsounds.de/episode/urn:ard:episode:e068507ea7022db1/\nBei Fragen und Anregungen schreibt uns:\ndaswissen@swr.de\nFolgt uns auf Mastodon:\nhttps://ard",
-      "date": "Tue, 30 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -196,6 +164,22 @@
       }
     },
     {
+      "title": "Beate Uhse – Sex-Pionierin und Geschäftsfrau",
+      "url": "https://www.swr.de/swrkultur/wissen/beate-uhse-sex-pionierin-und-geschaeftsfrau-104.html",
+      "description": "Anfangs ging es Beate Uhse um mehr Lust und Selbstbestimmung der deutschen Frauen. Später dachte sie vor allem ans Geschäft und bediente mit ihren Pornofilmen Männerfantasien. Vor 25 Jahren ist sie gestorben.",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Tiere klonen – Vom Laborschaf Dolly zum Geschäftsmodell",
       "url": "https://www.swr.de/swrkultur/wissen/tiere-klonen-vom-laborschaf-dolly-zum-geschaeftsmodell-100.html",
       "description": "Am 5. Juli 1996 wurde Dolly geboren, das erste geklonte Säugetier – ein wissenschaftlicher Meilenstein. Heute ist das Klonen von Tieren gängige Praxis, etwa in der Landwirtschaft.",
@@ -212,19 +196,35 @@
       }
     },
     {
-      "title": "Anarchismus – Wo Michail Bakunins Ideen lebendig sind",
-      "url": "https://www.swr.de/swrkultur/wissen/anarchismus-wo-michail-bakunins-ideen-lebendig-sind-100.html",
-      "description": "Kein Chef, kein Staat, keine Ausbeutung: Bakunins anarchistische Ideen wirken nach – in basisdemokratischen Gewerkschaften, Genossenschaften und freien Schulen.",
-      "date": "Wed, 1 Jul 2026 ",
+      "title": "Krebsnachsorge – Rückfälle vermeiden, Lebensqualität verbessern",
+      "url": "https://www.swr.de/swrkultur/wissen/krebsnachsorge-rueckfaelle-vermeiden-lebensqualitaet-verbessern-100.html",
+      "description": "Wer Krebs überlebt hat, leidet häufig jahrelang unter körperlichen und psychischen Folgen. Individuelle medizinische Angebote können die \"Survivor\" unterstützen. Es gibt aber zu wenige.",
+      "date": "Fri, 17 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Putschversuch in der Türkei 2016 und die Oppositionsbewegung heute",
+      "url": "https://www.swr.de/swrkultur/wissen/putschversuch-in-der-tuerkei-2016-und-die-oppositionsbewegung-heute-100.html",
+      "description": "In der Nacht zum 16. Juli 2016 putschten Teile des türkischen Militärs – und scheiterten. Welche Folgen hat der Putsch noch heute? Und wohin steuert die Türkei zehn Jahre danach?",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
