@@ -1,24 +1,8 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-17T06:11:41.901200+00:00",
+  "fetchedAt": "2026-07-17T16:22:43.368747+00:00",
   "items": [
-    {
-      "title": "Karl Hess: toward liberty",
-      "url": "https://aeon.co/videos/a-republican-speechwriter-turned-welders-radical-gospel-of-localism",
-      "description": "‘Society, in fact, is neighbourhoods’ – how Karl Hess transformed from a Republican speechwriter into a radical welder - by Aeon Video Watch on Aeon",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
     {
       "title": "How to offset your brain",
       "url": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Transit of wonder",
+      "url": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers",
+      "description": "Every 122 years, Venus crosses the Sun as a black and fleeting teardrop, kindling the awe of all those who dare to know - by Ananya Palivela Read on Aeon",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

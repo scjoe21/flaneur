@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-17T06:10:43.308342+00:00",
+  "fetchedAt": "2026-07-17T16:22:10.905139+00:00",
   "items": [
+    {
+      "title": "L’aide à mourir (enfin) votée : partir, oui mais comment ?",
+      "url": "https://www.philomag.com/articles/laide-mourir-enfin-votee-partir-oui-mais-comment",
+      "description": "",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "“Avec l’Odyssée, Homère raconte comment on quitte l’âge des héros” : entretien avec Pierre Judet de La Combe",
       "url": "https://www.philomag.com/articles/avec-lodyssee-homere-raconte-comment-quitte-lage-des-heros-entretien-avec-pierre-judet",
@@ -81,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "La “cellule patate” : un pas vers la vie artificielle ?",
+      "url": "https://www.philomag.com/articles/la-cellule-patate-un-pas-vers-la-vie-artificielle",
+      "description": "",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/augustin-croyait-il-au-pouvoir-divinatoire-des-sorcieres",
       "description": "",
       "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Nager entre le fini et l'infini : l'édito d'Alexandre Lacroix",
-      "url": "https://www.philomag.com/articles/nager-entre-le-fini-et-linfini-ledito-dalexandre-lacroix",
-      "description": "",
-      "date": "Sat, 11 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lee Ufan au palais des Papes : pierres de touche",
-      "url": "https://www.philomag.com/articles/lee-ufan-au-palais-des-papes-pierres-de-touche",
-      "description": "",
-      "date": "Fri, 10 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

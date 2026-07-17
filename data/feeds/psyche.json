@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-17T06:11:45.183514+00:00",
+  "fetchedAt": "2026-07-17T16:22:45.892698+00:00",
   "items": [
     {
       "title": "How to imagine a better future for yourself",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Jung’s archetypes are a mirror that shows who and what we are",
+      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
+      "description": "Psychedelics and neuroscience seem to support his ideas about ancestral dreams and fears – but with an evolutionary twist - by Hugh McGovern Read on Psyche",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "What draws well-meaning parents to authoritarian parenting?",
       "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
       "description": "In my therapy room, I’ve seen the costs of the controlling impulse. Winnicott and Rogers show us healthier alternatives - by Hope Bastine Read on Psyche",
@@ -192,22 +208,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Emotions were felt differently in the past",
-      "url": "https://psyche.co/notes-to-self/critics-of-the-history-of-emotions-are-missing-the-point",
-      "description": "A profile of a scholar of the history of emotions provoked a remarkable backlash. But critics of the field misunderstand it - by Sam Haselby Read on Psyche",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 5
       }
     },

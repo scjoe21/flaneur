@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-17T06:11:58.300009+00:00",
+  "fetchedAt": "2026-07-17T16:23:00.258068+00:00",
   "items": [
     {
       "title": "Weg von Trump – Wie Deutschland US-Forscher anlocken will",
@@ -180,19 +180,19 @@
       }
     },
     {
-      "title": "Tiere klonen – Vom Laborschaf Dolly zum Geschäftsmodell",
-      "url": "https://www.swr.de/swrkultur/wissen/tiere-klonen-vom-laborschaf-dolly-zum-geschaeftsmodell-100.html",
-      "description": "Am 5. Juli 1996 wurde Dolly geboren, das erste geklonte Säugetier – ein wissenschaftlicher Meilenstein. Heute ist das Klonen von Tieren gängige Praxis, etwa in der Landwirtschaft.",
-      "date": "Fri, 3 Jul 2026 ",
+      "title": "Open Science – Forschung zwischen Transparenz und Datenklau",
+      "url": "https://www.swr.de/swrkultur/wissen/open-science-forschung-zwischen-transparenz-und-datenklau-100.html",
+      "description": "Offen, transparent und nachnutzbar. So lautet das Versprechen von Open Science. Wenn die Forschenden ihre Daten kostenfrei teilen, werden alle profitieren. Geht diese Rechnung auf?",
+      "date": "Sat, 18 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

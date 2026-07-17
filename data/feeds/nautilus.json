@@ -1,7 +1,7 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-07-17T06:12:03.774660+00:00",
+  "fetchedAt": "2026-07-17T16:23:05.620915+00:00",
   "items": [
     {
       "title": "NASA Satellite Map Shows Stifling Heat Dome Squatting Over the United States",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "How Eating Healthier Could Reshape Agriculture",
+      "url": "https://nautil.us/how-eating-healthier-could-reshape-agriculture-1282754/",
+      "description": "A Western diet is bad for us and bad for the planet \n The post  How Eating Healthier Could Reshape Agriculture  appeared first on  Nautilus .",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Currie_HERO_4a5a02.png?w=564",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -52,22 +68,6 @@
       }
     },
     {
-      "title": "What’s Causing The Rise in Rural Mortality?",
-      "url": "https://nautil.us/whats-causing-the-rise-in-rural-mortality-1282704/",
-      "description": "The problem isn’t entirely health-related \n The post  What’s Causing The Rise in Rural Mortality?  appeared first on  Nautilus .",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Currie_HERO_97cbee.png?w=564",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Small, Cheap, and Full of Teeth: Baby Tyrannosaurs Were Plentiful and Precocious",
       "url": "https://nautil.us/small-cheap-and-full-of-teeth-baby-tyrannosaurs-were-plentiful-and-precocious-1282740/",
       "description": "Cat-sized tyrannosaur hatchlings had lots and lots of siblings \n The post  Small, Cheap, and Full of Teeth: Baby Tyrannosaurs Were Plentiful and Precocious  appeared first on  Nautilus .",
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "New, Orange-Lipped Monkey Discovered in Africa",
-      "url": "https://nautil.us/new-orange-lipped-monkey-discovered-in-africa-1282707/",
-      "description": "It’s one of only a handful of new monkey species identified on the continent in the last 75 years \n The post  New, Orange-Lipped Monkey Discovered in Africa  appeared first on  Nautilus .",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Reese_hero_fa77d4.png?w=564",
+      "title": "What Became of the Chimps Who Revolutionized Our Understanding of Animal Behavior?",
+      "url": "https://nautil.us/what-became-of-the-chimps-who-revolutionized-our-understanding-of-animal-behavior-1282759/",
+      "description": "It’s a harrowing tale of deadly winters in Berlin captivity \n The post  What Became of the Chimps Who Revolutionized Our Understanding of Animal Behavior?  appeared first on  Nautilus .",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Reese_HERO_4aacf6.png?w=564",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {

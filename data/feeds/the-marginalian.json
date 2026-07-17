@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-17T06:11:48.680151+00:00",
+  "fetchedAt": "2026-07-17T16:22:51.858840+00:00",
   "items": [
     {
       "title": "The Art of Dignity Beyond Pride: How to Move Through Heartbreak Like Frida Kahlo",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "But We Had Music",
-      "url": "https://www.themarginalian.org/2026/07/10/but-we-had-music/",
-      "description": "How, knowing that even the universe is dying, do we bear our lives? Most readily, through friendship, through connection, through co-creating the world we want to live in for the brief time we have together on this lonely, perfect planet. The seventh annual Universe in Verse — a many-hearted labor of love, celebrating the wonder of reality through science and poetry — occasioned a joyous collaboration with Australian musician and writer Nick Cave and Brazilian artist and filmmaker Daniel Bruson ",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "How to Grow Old: Bertrand Russell on What Makes a Fulfilling Life",
       "url": "https://www.themarginalian.org/2026/07/13/how-to-grow-old-bertrand-russell/",
       "description": "\"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.\"",
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "The Wild Iris: Nobel Laureate Louise Glück on the Door at the End of Your Suffering",
+      "url": "https://www.themarginalian.org/2026/07/16/louse-gluck-wild-iris/",
+      "description": "\"Whatever returns from oblivion returns to find a voice.\"",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -129,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Marcus Aurelius on the Good Luck of Your Bad Luck: The Stoic Strategy for Weathering Life’s Waves and Turning Suffering into Strength",
+      "url": "https://www.themarginalian.org/2026/07/16/marcus-aurelius-luck/",
+      "description": "\"What happened could have happened to anyone, but not everyone could have carried on.\"",
+      "date": "Thu, 16 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/07/10/nick-cave-helplessness-power/",
       "description": "Stepping up to the subtle gestures that can redeem a day, or a life.",
       "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Healing Power of Gardens: Oliver Sacks on the Psychological and Physiological Consolations of Nature",
-      "url": "https://www.themarginalian.org/2026/07/09/oliver-sacks-gardens/",
-      "description": "\"In forty years of medical practice, I have found only two types of non-pharmaceutical 'therapy' to be vitally important for patients with chronic neurological diseases: music and gardens.\"",
-      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

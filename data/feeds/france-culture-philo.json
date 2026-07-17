@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-17T06:10:42.122967+00:00",
+  "fetchedAt": "2026-07-17T16:22:10.161104+00:00",
   "items": [
     {
       "title": "Qu'est-ce que les Lumières ?  : Les Lumières et l'idée coloniale",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 10/16 · La foi et l’aveu",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:22:26  - Avec philosophie - Comment gouverne-t-on par la vérité ? En 1980, dans son cours \"Du Gouvernement des vivants\", Michel Foucault explore les formes d’adhésion et de contrainte par lesquelles les sujets sont amenés à reconnaître le vrai et à dire vrai sur eux-mêmes. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 02/16 · L’expertise médico-légale",
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:22:32  - Avec philosophie - Que se joue-t-il lorsque la psychiatrie entre dans le prétoire ? Au Collège de France, dans son cours “Les Anormaux”, Michel Foucault montre comment l’expertise psychiatrique participe pleinement à l’acte de juger. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
@@ -135,22 +119,6 @@
       "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 09/16 · Homo œconomicus",
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:21:55  - Avec philosophie - Comment l’économie en est-elle venue à définir notre manière d’être au monde ? Avec le néolibéralisme, l’individu est désormais pensé comme un acteur rationnel, appelé à gérer sa vie comme un capital. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 11/16 · L’expérience de la chair",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:21:54  - Avec philosophie - D’où viennent les normes qui encadrent la sexualité ? En 1981, Michel Foucault en retrace les origines antiques et montre comment elles participent à la formation des sujets. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -225,6 +193,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "\"L'Encyclopédie\" de Novalis par l'écrivain Jean-Christophe Bailly",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Mosna-Savoye - Poète romantique allemand, Novalis a cherché à rassembler en une encyclopédie toute l'histoire de l'humanité. Une œuvre fragmentaire, fulgurante, et laissée inachevée par la mort prématurée de son auteur, sur laquelle revient l'écrivain Jean-Christophe Bailly.\n  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sat, 18 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "\"L'Encyclopédie\" de Novalis par l'écrivain Jean-Christophe Bailly",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Mosna-Savoye - Poète romantique allemand, Novalis a cherché à rassembler en une encyclopédie toute l'histoire de l'humanité. Une œuvre fragmentaire, fulgurante, et laissée inachevée par la mort prématurée de son auteur, sur laquelle revient l'écrivain Jean-Christophe Bailly.\n  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

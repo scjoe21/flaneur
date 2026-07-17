@@ -1,8 +1,24 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-17T06:10:53.291835+00:00",
+  "fetchedAt": "2026-07-17T16:22:15.532593+00:00",
   "items": [
+    {
+      "title": "Eine Frage des Fokus",
+      "url": "https://www.philomag.de/artikel/eine-frage-des-fokus",
+      "description": "Wie sehr sollten wir die Aufmerksamkeit kontrollieren, welche Rolle spielt sie für die Moral und stimmt es eigentlich, dass sie durch Medienkonsum bedroht wird? Darüber waren Philosophen geteilter Meinung.",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 40
+      }
+    },
     {
       "title": "Sebastian Watzl: „Die heutige Umgebung bereitet Menschen mit ADHS-Profil starke Probleme“",
       "url": "https://www.philomag.de/artikel/sebastian-watzl-die-heutige-umgebung-bereitet-menschen-mit-adhs-profil-starke-probleme",
@@ -36,42 +52,10 @@
       }
     },
     {
-      "title": "Hamza Howidy: „Die Hamas wird sich niemals um die Bewohner Gazas kümmern“",
-      "url": "https://www.philomag.de/artikel/hamza-howidy-die-hamas-wird-sich-niemals-um-die-bewohner-gazas-kuemmern",
-      "description": "In seiner Autobiografie berichtet Hamza Howidy von seinem Aufwachsen in Gaza. Wie sah sein Alltag unter der Herrschaft der Hamas aus? Wie löste er sich von ihrer Ideologie? Und was ist nötig, um das bestehende Leid vor Ort zu mindern, den Menschen eine Perspektive zu geben? Ein Gespräch mit Till Schmidt.",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
-      }
-    },
-    {
       "title": "Die erschöpfte Demokratie",
       "url": "https://www.philomag.de/artikel/die-erschoepfte-demokratie",
-      "description": "In seinem Werk  Faktizität und Geltung  legt Habermas dar, wie unsere Demokratie operieren muss, um auf festem Grund zu stehen. Hat er dabei entscheidende Kräfte unterschätzt, die früher in seinem Denken noch eine zentrale Rolle spielten?",
+      "description": "In seinem Werk  Faktizität und Geltung  legt Habermas dar, wie unsere Demokratie operieren muss, um auf festem Grund zu stehen. Hat er dabei entscheidende Kräfte unterschätzt, die früher in seinem Denken noch eine zentrale Rolle spielten?  Von Oliver Eberl",
       "date": "Thu, 16 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Hamza Howidy: \"Hamas will never look out for the residents of Gaza\"",
-      "url": "https://www.philomag.de/artikel/hamza-howidy-hamas-will-never-look-out-residents-gaza",
-      "description": "In his autobiography, Hamza Howidy recounts his childhood in Gaza. What was his daily life like under Hamas rule? How did he break away from their ideology? And what is needed to alleviate the suffering there and give people a sense of hope for the future? An interview with Till Schmidt.",
-      "date": "Wed, 08 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -132,19 +116,19 @@
       }
     },
     {
-      "title": "Kleine Raupen-Diskursanalyse",
-      "url": "https://www.philomag.de/artikel/kleine-raupen-diskursanalyse",
-      "description": "An vielen Orten gibt es dieses Jahr zahlreiche Eichenprozessionsspinner. Die Brennhaare der Raupen sind giftig und lösen Hautausschläge aus. Doch wie die Menschen die Ausbreitung der Raupen beurteilen und welche Maßnahmen sie fordern, unterscheidet sich stark. In den Reaktionen zeigen sich auch politische Haltungen.  Von Theresa Schouwink",
-      "date": "Tue, 07 Jul 2026",
+      "title": "Thomas von der Osten-Sacken: „Der Spanische Bürgerkrieg war ein Schlüsselereignis des 20. Jahrhunderts“",
+      "url": "https://www.philomag.de/artikel/thomas-von-der-osten-sacken-der-spanische-buergerkrieg-war-ein-schluesselereignis-des-20",
+      "description": "Vor 90 Jahren begann der Spanische Bürgerkrieg, der in einer Jahrzehnte andauernden Diktatur Francos mündete. Eine zentrale Rolle spielte die internationale Unterstützung der Konfliktparteien, die das Geschehen maßgeblich beeinflusste. Ein Gespräch mit Thomas von der Osten-Sacken über die anhaltende Bedeutung des Spanienkriegs, der sich in Weltliteratur verewigte.",
+      "date": "Fri, 17 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
       }
     },
     {
@@ -212,6 +196,22 @@
       }
     },
     {
+      "title": "Die WM als Kunstwerk",
+      "url": "https://www.philomag.de/artikel/die-wm-als-kunstwerk",
+      "description": "Der Fußball zeigt die Zeit, in der er gespielt wird. Beschädigte Rechtsverhältnisse, Verschwörungstheorien und die Tragödie der Aufklärung haben diese Weltmeisterschaft bestimmt. Aber es gab auch Momente von ergreifender Schönheit, die die gezeigte Wirklichkeit negieren.  Von Moritz Rudolph",
+      "date": "Sat, 18 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
       "title": "Die unmögliche Akteurin",
       "url": "https://www.philomag.de/artikel/die-unmoegliche-akteurin",
       "description": "Der Feminismus der Gegenwart feiert die Frau nicht mehr als handelndes Subjekt, sondern als Erzählerin erfahrenen Leids. Mit gravierenden Folgen. Eine kritische Analyse von Mirna Funk.",
@@ -230,7 +230,7 @@
     {
       "title": "Christoper Nolans „Odyssee“ – Rückkehr zum Selbst",
       "url": "https://www.philomag.de/artikel/christoper-nolans-odyssee-rueckkehr-zum-selbst",
-      "description": "Homers Odyssee zählt zu den ältesten und wirkmächtigsten Epen unserer Zeit. Nun hat Christopher Nolan sich an eine filmische Inszenierung des Urstoffs gewagt und bannt den Mythos als erfahrbare Form auf die Leinwand.",
+      "description": "Homers  Odyssee  zählt zu den ältesten und wirkmächtigsten Epen unserer Zeit. Nun hat Christopher Nolan sich an eine filmische Inszenierung des Urstoffs gewagt und bannt den Mythos als erfahrbare Form auf die Leinwand. Eine Filmbesprechung von Sebastian Clauss",
       "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",

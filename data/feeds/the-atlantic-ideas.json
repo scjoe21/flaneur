@@ -1,27 +1,11 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-17T06:11:47.820154+00:00",
+  "fetchedAt": "2026-07-17T16:22:46.960945+00:00",
   "items": [
     {
       "title": "The Quintessential Politician of This Era",
       "url": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham/687893/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "American Loneliness",
-      "url": "https://www.theatlantic.com/ideas/2026/07/america-birthday-250-roadtrip/687877/?utm_source=feed",
       "description": "",
       "date": "2026-07-12",
       "thumbnail": "",
@@ -49,6 +33,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "The Best Running Shoes You Can’t Get Your Hands On",
+      "url": "https://www.theatlantic.com/ideas/2026/07/running-shoes-china-america/687941/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Attention-Span Class Divide",
+      "url": "https://www.theatlantic.com/ideas/2026/07/attention-span-class-divide-ballet-opera-movies/687919/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "A Perfectly Crude Solution to America’s Housing Shortage",
+      "url": "https://www.theatlantic.com/ideas/2026/07/housing-shortage-pay-nimby/687932/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/supreme-court-fec-nrsc-campaign-donations/687870/?utm_source=feed",
       "description": "",
       "date": "2026-07-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Unintended Consequences of Genetic Tests",
-      "url": "https://www.theatlantic.com/ideas/2026/07/genetic-testing-children-diseases/687869/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Social Ritual That Made Me a Better Man",
-      "url": "https://www.theatlantic.com/ideas/2026/07/guys-night-friendship-loneliness/687878/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-11",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
