@@ -1,24 +1,8 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-17T16:22:46.960945+00:00",
+  "fetchedAt": "2026-07-17T19:43:41.228752+00:00",
   "items": [
-    {
-      "title": "The Quintessential Politician of This Era",
-      "url": "https://www.theatlantic.com/ideas/2026/07/lindsey-graham/687893/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
     {
       "title": "Russia and America Are Rediscovering the Limits of Nuclear Weapons",
       "url": "https://www.theatlantic.com/ideas/2026/07/nuclear-weapons-limits-cold-war-deterrence/687883/?utm_source=feed",
@@ -33,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Susan Collins Is Not Concerned About Election Denial",
+      "url": "https://www.theatlantic.com/ideas/2026/07/trump-speech-election-integrity-republicans/687978/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

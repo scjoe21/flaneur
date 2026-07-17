@@ -2,7 +2,7 @@
   "week": "2026-W30",
   "weekLabel": "2026년 7월 20일 — 24일",
   "theme": "",
-  "curatedAt": "2026-07-17T16:35:09.896544+00:00",
+  "curatedAt": "2026-07-17T19:49:11.252534+00:00",
   "items": [
     {
       "day": "monday",
@@ -125,6 +125,26 @@
       "id": "wed-01"
     },
     {
+      "day": "wednesday",
+      "dayLabel": "수요일",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "source": "Doppiozero",
+      "sourceUrl": "https://www.doppiozero.com/le-macchine-hanno-ancora-bisogno-di-fiumi",
+      "channelUrl": "https://www.doppiozero.com",
+      "thumbnail": "",
+      "title": "기계도 강물이 필요하다",
+      "summary": "냉각수가 부족해진 원전, 디지털 문명의 물질적 토대가 흔들린다",
+      "detail": "[현상/질문] 40도를 넘는 여름, 프랑스 남부의 가론 강 수온이 너무 높아지자 인근 핵발전소가 출력을 줄여야 했다. 냉각수로 쓸 물이 충분히 차갑지 않았기 때문이다. 같은 계절, 다른 나라에서는 AI 데이터센터들이 엄청난 양의 물을 소비하며 밤새 가동된다. 우리가 검색창에 질문 하나를 입력하고 답을 받는 그 몇 초 사이, 어딘가의 강물이 데워지고 있다. 디지털은 흔히 '클라우드'라는 이름 아래 물질 없는 세계처럼 느껴진다. 화면을 닫으면 사라지는 것들, 무게도 냄새도 없는 정보들. 그러나 그 정보를 처리하는 서버는 뜨거워지고, 그 열을 식히려면 물이 필요하고, 그 물은 강에서 온다. 우리의 첨단 문명이 가장 오래된 것—흐르는 물—에 의존하고 있다는 사실을 우리는 얼마나 자주 잊고 사는가.\n\n[철학적 해석] 마르크스는 생산의 물질적 조건, 즉 토대(Basis)가 어떻게 구성되느냐가 사회 전체의 형태를 결정한다고 봤다. 그러나 그 통찰은 디지털 시대에 와서 이상하게 흐릿해졌다. 정보 경제, 플랫폼 자본주의, 지식 노동—이 언어들은 모두 물질로부터의 탈주를 암시한다. 그러나 현실은 반대다. AI는 반도체를 필요로 하고, 반도체는 희토류를 필요로 하고, 데이터센터는 전기와 물을 필요로 한다. 철학자 티머시 모튼이 '하이퍼오브젝트'라고 부른 것들—기후변화, 생태계, 물의 순환—은 우리가 그것을 무시한다고 해서 사라지지 않는다. 오히려 그것들은 우리가 가장 탈물질적이라고 믿는 바로 그 순간에, 가장 강하게 반격한다. 뜨거워진 강물이 발전소를 멈추게 하는 장면은 자연이 인프라에 끼어드는 이례적 사고가 아니라, 우리가 자연 위에 문명을 쌓았다는 평범한 진실의 귀환이다. 탈물질화의 환상이 걷히는 순간, 우리는 여전히 강에 기대고 있는 자신을 발견한다.\n\n[그 나라 맥락] In Italia, l'acqua è sempre stata importante. I fiumi come il Po e il Tevere hanno dato vita alle città. Ma oggi, le estati sono sempre più calde. I fiumi si abbassano. In Piemonte e in Lombardia, gli agricoltori spesso non hanno abbastanza acqua per i campi. Anche i data center italiani usano molta acqua per raffreddarsi. Molti italiani oggi capiscono che il digitale non è «leggero»: ha bisogno di acqua, elettricità e terra.",
+      "tags": [
+        "기후",
+        "기술",
+        "물질성"
+      ],
+      "originalTitle": "Le macchine hanno ancora bisogno di fiumi",
+      "id": "wed-02"
+    },
+    {
       "day": "thursday",
       "dayLabel": "목요일",
       "country": "uk",
@@ -165,6 +185,26 @@
       "id": "thu-02"
     },
     {
+      "day": "thursday",
+      "dayLabel": "목요일",
+      "country": "uk",
+      "countryLabel": "영국",
+      "source": "Aeon Magazine",
+      "sourceUrl": "https://aeon.co/essays/viennas-cafes-inspired-poets-belgrades-bred-dissent",
+      "channelUrl": "https://aeon.co",
+      "thumbnail": "",
+      "title": "카페는 어떻게 역사를 만드는가",
+      "summary": "커피 한 잔 앞에서 싹튼 것들—모더니즘과 혁명, 그 갈림길의 철학",
+      "detail": "[현상/질문] 도시 어딘가에는 늘 단골들이 있는 카페가 있다. 매일 같은 자리에 앉아 신문을 읽거나 오래된 친구와 한두 시간을 보내는 사람들. 외부에서 보면 아무것도 일어나지 않는 것처럼 보이는 그 공간에서, 사실 무언가가 천천히 발효된다. 생각이 교환되고, 불만이 공유되고, 농담이 진지한 주장으로 변해간다. 우리는 카페를 그저 음료를 마시는 곳이라고 여기지만, 역사를 돌아보면 카페는 언제나 무언가가 시작되는 장소였다. 19세기 말 빈의 카페하우스에서는 프로이트가 동료들과 논쟁을 벌였고, 카뮈와 사르트르는 파리의 카페에서 철학을 완성했다. 그런데 같은 시대 발칸 반도의 카파나(kafana)라 불리는 선술집 같은 카페에서는 전혀 다른 것이 자라나고 있었다. 빈에서 모더니즘이 꽃피는 동안, 베오그라드에서는 분노와 음모가 무르익었고, 그 두 공간에서 잉태된 서로 다른 정신이 결국 1914년 유럽 전체를 삼켜버린 전쟁으로 이어졌다.\n\n[철학적 해석] 철학자 위르겐 하버마스는 '공론장(public sphere)'이라는 개념을 통해 근대 민주주의의 탄생을 설명했다. 그에게 카페, 살롱, 신문은 단순한 문화적 장식이 아니었다. 그것들은 개인들이 사적 의견을 공적 토론으로 가져와 합리적으로 경쟁하는 공간이었다. 국가도 교회도 아닌, 시민들끼리 자유롭게 이성을 겨루는 이 장소에서 여론이 형성되고 권력이 비판받는다. 그러나 이 이상적인 공론장 개념은 하나의 중요한 전제를 깔고 있다. 참여자들이 공통의 합리성, 즉 설득과 논거를 통해 상대를 바꿀 수 있다는 믿음을 공유한다는 것이다. 빈의 카페하우스가 그런 공간에 가까웠다면, 베오그라드의 카파나는 달랐다. 거기서 공유된 것은 논거가 아니라 원한이었고, 이성이 아니라 정체성의 격분이었다. 같은 테이블과 커피잔이라도, 그 안에서 어떤 말이 오가고 어떤 감정이 쌓이느냐에 따라 공론장은 혁신의 온상이 되기도 하고, 파국의 인큐베이터가 되기도 한다. 우리가 오늘날 소셜미디어나 온라인 커뮤니티를 두고 나누는 논쟁—이것이 과연 민주적 대화의 공간인가, 아니면 분노를 증폭시키는 메아리방인가—은 사실 그 카페들의 질문을 디지털로 반복하고 있다.\n\n[그 나라 맥락] In Vienna, the coffeehouse has long been a symbol of civilised urban life. People could sit for hours with one cup of coffee. They read, wrote, and talked quietly. Writers like Stefan Zweig and Arthur Schnitzler were regulars. The city even added Viennese coffeehouse culture to its UNESCO heritage list. But in Belgrade, the kafana was different. It was louder and more emotional. People gathered there to share grievances, not ideas. Historians note that some of the conspirators behind the 1914 assassination of Archduke Franz Ferdinand met in kafanas. The contrast between these two types of spaces shows how the same simple act of sitting together over a drink can lead to very different places.",
+      "tags": [
+        "공론장",
+        "카페문화",
+        "도시와정치"
+      ],
+      "originalTitle": "Loitering towards war",
+      "id": "thu-03"
+    },
+    {
       "day": "friday",
       "dayLabel": "금요일",
       "country": "usa",
@@ -183,6 +223,26 @@
       ],
       "originalTitle": "How Eating Healthier Could Reshape Agriculture",
       "id": "fri-01"
+    },
+    {
+      "day": "friday",
+      "dayLabel": "금요일",
+      "country": "usa",
+      "countryLabel": "미국",
+      "source": "Noema Magazine",
+      "sourceUrl": "https://www.noemamag.com/the-heated-debate-in-europe-over-air-conditioning",
+      "channelUrl": "https://www.noemamag.com",
+      "thumbnail": "",
+      "title": "에어컨을 둘러싼 유럽의 철학 전쟁",
+      "summary": "더위를 참는 것이 미덕이던 사회에서, 냉방은 왜 도덕적 논쟁이 됐는가",
+      "detail": "[현상/질문] 왜 유럽의 많은 사람들은 40도에 육박하는 폭염 속에서도 에어컨 없이 버티려 하는가? 파리의 카페, 로마의 아파트, 베를린의 사무실 — 창문을 열고 선풍기를 틀고, 땀을 흘리면서도 '에어컨은 없어도 돼'라는 말을 자랑스럽게 하는 사람들이 있다. 반면 기후변화로 유럽의 여름이 해마다 극단적으로 뜨거워지면서 노인과 노동자들이 열사병으로 쓰러지는 사태가 반복되고 있다. 에어컨 보급률이 10퍼센트 안팎인 나라들에서 이제 에어컨은 단순한 가전제품이 아니라 하나의 문화적·윤리적 선언이 되었다. 에어컨을 설치하는 것은 기후 파괴에 공모하는 행위인가, 아니면 생존을 위한 당연한 권리인가? 불편함을 견디는 것은 절제의 미덕인가, 아니면 특권층만이 누릴 수 있는 낭만적 허세인가?\n\n[철학적 해석] 이 논쟁은 표면적으로는 환경 문제지만, 그 아래에는 훨씬 오래된 철학적 긴장이 흐른다. 스토아 철학자들은 외부 조건에 흔들리지 않는 능력 — '아파테이아(apatheia)', 즉 정념에 지배당하지 않는 상태 — 을 덕의 핵심으로 보았다. 더위도, 추위도, 고통도 내 내면의 평정을 빼앗을 수 없다는 태도. 유럽의 '에어컨 없이 살기' 문화에는 이 스토아적 감수성이 기묘하게 섞여 있다. 그러나 기후 윤리학자들은 여기서 다른 질문을 던진다: 불편함을 감내할 수 있는 것은 그 불편함이 치명적이지 않은 조건에 있는 사람에게만 가능한 사치가 아닌가? 철학자 엘리자베스 앤더슨이 지적하듯, 선택의 자유는 선택지를 감당할 수 있는 사람에게만 실질적이다. 에어컨을 거부하는 윤리적 선택은 에어컨을 살 여유가 있는 사람에게만 진정한 '선택'이다. 폭염이 평등하지 않듯, 폭염에 맞서는 철학도 평등하지 않다.\n\n[그 나라 맥락] In Europe, especially in France and Italy, many people see air conditioning as bad for the environment and for health. They say it is an 'American habit.' But summers are getting hotter every year. In the summer of 2003, about 15,000 people died from heat in France alone. Most were elderly and poor. Now the debate is changing. Some European cities are installing public cooling centers. But many homes and offices still have no air conditioning. Young Europeans are divided: some see AC as necessary, others see it as a sign of weak character or environmental carelessness. The question is no longer just about comfort — it is about who gets to survive the summer.",
+      "tags": [
+        "폭염",
+        "기후윤리",
+        "불편함의 철학"
+      ],
+      "originalTitle": "The Heated Debate In Europe Over Air-Conditioning",
+      "id": "fri-02"
     }
   ]
 }

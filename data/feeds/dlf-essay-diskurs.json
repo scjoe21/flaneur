@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-07-17T16:22:57.300275+00:00",
+  "fetchedAt": "2026-07-17T19:43:46.933794+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -33,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Ein bisschen Fliegen ist doch kein Problem - Wie weit geht die Verantwortung für den Klimawandel?",
-      "url": "https://www.deutschlandfunk.de/wie-weit-geht-die-verantwortung-fuer-den-klimawandel-100.html",
-      "description": "Die Folgen des Klimawandels scheinen vom Einzelnen zu fordern, sein Handeln daran auszurichten und sich der CO2-Moral unterzuordnen. Ist das wirklich so? Von Frauke Rostalski www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 26 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
       }
     },
     {
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 20
+      }
+    },
+    {
+      "title": "Der neue Reaktionär - Curtis Yarvin und die Versuchung der smarten Tyrannei",
+      "url": "https://www.deutschlandfunk.de/curtis-yarvin-demokratie-jd-vance-peter-thiel-trump-usa-100.html",
+      "description": "Curtis Yarvin träumt vom Ende der Demokratie und einem amerikanischen Autokraten. Seine autoritären Ideen treffen den Nerv einer erschöpften Zeit und begeistern rechte Eliten wie Tech-Milliardär Peter Thiel oder US-Vizepräsident J. D. Vance. Von Ava Kofman www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

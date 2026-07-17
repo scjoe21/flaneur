@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-17T16:22:11.249661+00:00",
+  "fetchedAt": "2026-07-17T19:42:26.069175+00:00",
   "items": [
     {
       "title": "Canicule : après le confinement sanitaire, bientôt l’ère des confinements climatiques ?",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Archéologie : l’IA peut-elle vraiment retracer le passé ?",
+      "url": "https://usbeketrica.com/fr/article/archeologie-l-ia-peut-elle-vraiment-retracer-le-passe",
+      "description": "Faire renaître des papyrus antiques de leurs cendres : c’est la promesse faite par l’IA à l’humanité. Si elle semble en voie d’être tenue à Herculanum, bien d’autres intelligences nourries au « deep learning » aident les chercheurs à combler les lacunes du passé. Mais les outils ont beau se multiplier, les incertitudes quant aux résultats fournis, eux, demeurent.",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
       "title": "J’ai joué au « test des trois Chinois », et voilà le résultat",
       "url": "https://usbeketrica.com/fr/article/j-ai-joue-au-test-des-trois-chinois-et-voila-le-resultat",
       "description": "ÉDITO // Qui est capable de citer le nom de trois Chinois vivants ? Derrière cette question provocatrice, posée par le rédacteur en chef du site Le Grand Continent, il y a le constat d’une urgence : le travail de veille sur l’état du monde et les émergences de notre époque ne doit pas être réservé à une poignée d’experts. C’est l’angle creusé dans l’édito du nouveau numéro de FUTUR, le magazine d'Usbek & Rica, disponible en librairie depuis le 9 juillet.",
@@ -168,22 +184,6 @@
       "url": "https://usbeketrica.com/fr/article/solopreneurs-en-chine-l-ia-fait-exploser-le-micro-entrepreneuriat",
       "description": "L'auto-entrepreneuriat a la côte en Chine. Secondés par moultes outils d'intelligence artificielle, des « solopreneurs » lancent leur propre entreprise à moindre frais et sans aucun employé. Une tendance qui cache une crainte, désormais massive, de devenir osbolète face à l'automatisation du travail.",
       "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Le bruit rose, bénéfique ou nocif pour le sommeil des bébés ?",
-      "url": "https://usbeketrica.com/fr/article/le-bruit-rose-benefique-ou-nocif-pour-le-sommeil-des-bebes",
-      "description": "Le « bruit rose », ce son doux utilisé notamment pour tester le matériel audio, aiderait les enfants à mieux dormir, d’après un laboratoire japonais spécialisé. De quoi soulager les parents épuisés. Mais des chercheurs de l’université de Pennsylvanie mettent en garde contre les effets indésirables de ce bruit magique sur la qualité du sommeil.",
-      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
