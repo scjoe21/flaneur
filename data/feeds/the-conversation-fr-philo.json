@@ -1,24 +1,8 @@
 {
   "sourceId": "the-conversation-fr-philo",
   "sourceName": "The Conversation France — Philosophie",
-  "fetchedAt": "2026-07-17T19:43:42.796843+00:00",
+  "fetchedAt": "2026-07-18T09:29:13.487023+00:00",
   "items": [
-    {
-      "title": "Qu'est-ce que le bonheur ? Un philosophe propose quelques éléments de réponse",
-      "url": "https://theconversation.com/quest-ce-que-le-bonheur-un-philosophe-propose-quelques-elements-de-reponse-277746",
-      "description": "",
-      "date": "2026-03-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "IA : pourquoi former une « tête bien faite » n’a jamais été aussi crucial",
       "url": "https://theconversation.com/ia-pourquoi-former-une-tete-bien-faite-na-jamais-ete-aussi-crucial-278556",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Se faire attacher pour résister aux Sirènes : ce que le choix d’Ulysse révèle du droit",
+      "url": "https://theconversation.com/se-faire-attacher-pour-resister-aux-sirenes-ce-que-le-choix-dulysse-revele-du-droit-287612",
+      "description": "",
+      "date": "2026-07-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

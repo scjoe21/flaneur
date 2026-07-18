@@ -1,24 +1,8 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-07-17T19:43:54.002775+00:00",
+  "fetchedAt": "2026-07-18T09:29:24.837813+00:00",
   "items": [
-    {
-      "title": "NASA Satellite Map Shows Stifling Heat Dome Squatting Over the United States",
-      "url": "https://nautil.us/nasa-satellite-map-shows-stifling-heat-dome-squatting-over-the-united-states-1282721/",
-      "description": "And now it’s come for the East Coast \n The post  NASA Satellite Map Shows Stifling Heat Dome Squatting Over the United States  appeared first on  Nautilus .",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Currie_HERO_c5eac0.png?w=564",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "How Eating Healthier Could Reshape Agriculture",
       "url": "https://nautil.us/how-eating-healthier-could-reshape-agriculture-1282754/",
@@ -49,6 +33,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Radar Map Shows Wildfires in Canada Blanketing the US with Smoke",
+      "url": "https://nautil.us/radar-map-shows-wildfires-in-canada-blanketing-the-us-with-smoke-1282776/",
+      "description": "More than 800 wildfires are currently active \n The post  Radar Map Shows Wildfires in Canada Blanketing the US with Smoke  appeared first on  Nautilus .",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Nield_HERO.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Drinking Water With Meals May Make You Eat More, Not Less",
+      "url": "https://nautil.us/drinking-water-with-meals-may-make-you-eat-more-not-less-1282772/",
+      "description": "This common dieting tip might be a myth  \n The post  Drinking Water With Meals May Make You Eat More, Not Less  appeared first on  Nautilus .",
+      "date": "Fri, 17 Jul 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Currie_HERO_fbe642.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -137,22 +153,6 @@
       "description": "People who can’t see images in their minds challenge an old philosophical standby \n The post  What a Picture of a Dog Has to Do with Reason and Logic  appeared first on  Nautilus .",
       "date": "Thu, 16 Jul 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/French_HERO_4c010d.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Challenges of Writing in Space",
-      "url": "https://nautil.us/the-challenges-of-writing-in-space-1282731/",
-      "description": "With the recent auction of arguably the most famous pen ever used off-Earth, we take a moment to reflect on the evolution of such cosmic utensils \n The post  The Challenges of Writing in Space  appeared first on  Nautilus .",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/07/Grant_hero_49035a.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

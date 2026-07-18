@@ -2,7 +2,7 @@
   "week": "2026-W30",
   "weekLabel": "2026년 7월 20일 — 24일",
   "theme": "",
-  "curatedAt": "2026-07-17T19:49:11.252534+00:00",
+  "curatedAt": "2026-07-18T09:33:25.442894+00:00",
   "items": [
     {
       "day": "monday",
@@ -43,6 +43,46 @@
       ],
       "originalTitle": "À la base du bonheur finlandais, le « sisu », une philosophie du froid",
       "id": "mon-02"
+    },
+    {
+      "day": "monday",
+      "dayLabel": "월요일",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "source": "Philosophie Magazine",
+      "sourceUrl": "https://www.philomag.com/articles/eprouver-le-sentiment-oceanique-la-plage-avec-la-philosophe-laurence-devillairs",
+      "channelUrl": "https://www.philomag.com",
+      "thumbnail": "",
+      "title": "바다 앞에서 나는 왜 작아지는가",
+      "summary": "파도 소리에 압도되는 그 순간, 철학은 그것을 '황홀한 소멸'이라 부른다",
+      "detail": "[현상/질문] 여름 해변에 앉아 수평선을 바라보다 갑자기 이상한 감각이 찾아온 적이 있는가. 파도가 밀려오고 물이 발끝에 닿는 순간, 몸의 경계가 흐릿해지면서 '나'라는 느낌이 잠시 사라지는 것 같은 경험. 넓은 바다 앞에서는 아무 말도 하고 싶지 않아진다. 잠시 전까지 머릿속을 가득 채우던 걱정, 일정, 인간관계가 갑자기 아무 의미도 없어 보인다. 휴가를 맞아 바다를 찾은 수천만 명이 매년 이 감각을 경험하지만, 대부분은 그것을 그냥 '기분이 좋다'는 말로 넘겨버린다. 그런데 이 순간은 단순한 휴식이 아니다. 자아가 일시적으로 세계와 합류하는, 좀처럼 설명하기 어려운 철학적 사건이다.\n\n[철학적 해석] 정신분석가 로맹 롤랑은 이 감각에 이름을 붙였다. '대양적 감정(sentiment océanique)'—바다처럼 경계 없이 세계와 하나가 되는 느낌, 자아가 녹아드는 듯한 황홀감. 프로이트는 롤랑의 편지를 받고 그것이 종교적 감정의 원천일 수 있다고 분석했지만, 정작 자신은 그 느낌을 경험하지 못했다고 고백했다. 롤랑에게 이 감정은 병적인 퇴행이 아니라 오히려 가장 근원적인 생의 감각이었다. 철학자 로렌스 드빌레르는 이 경험을 단순한 자아 상실이 아니라 '자아의 확장'으로 읽는다. 나의 경계가 사라지는 것이 두려움이 아니라 해방감으로 느껴지는 이유는, 평소 우리가 얼마나 단단하게 자아를 지키고 방어하며 살아가는지를 역설적으로 드러내기 때문이다. 바다 앞에서 작아진다는 것은 굴욕이 아니다. 그것은 오히려 '나'라는 견고한 구조물을 잠시 내려놓을 수 있다는 안도다.\n\n[그 나라 맥락] En France, la mer est une expérience culturelle très importante. Chaque été, des millions de Français vont à la plage. La côte Atlantique et la Méditerranée sont des lieux de repos bien connus. Romain Rolland, écrivain français, a inventé l'expression « sentiment océanique ». Il a écrit une lettre à Freud pour lui parler de ce sentiment. Aujourd'hui, la philosophe française Laurence Devillairs invite les gens à réfléchir à ce moment sur la plage : pourquoi se sentir petit devant l'océan peut être une bonne chose ?",
+      "tags": [
+        "대양적 감정",
+        "자아의 경계",
+        "자연과 합일"
+      ],
+      "originalTitle": "Éprouver le “sentiment océanique” à la plage avec la philosophe Laurence Devillairs",
+      "id": "mon-03"
+    },
+    {
+      "day": "monday",
+      "dayLabel": "월요일",
+      "country": "france",
+      "countryLabel": "프랑스",
+      "source": "Usbek & Rica",
+      "sourceUrl": "https://usbeketrica.com/fr/article/les-philosophes-sont-ils-en-train-de-devenir-les-stars-de-l-intelligence-artificielle",
+      "channelUrl": "https://usbeketrica.com",
+      "thumbnail": "",
+      "title": "철학자가 AI 시대의 스타가 된 이유",
+      "summary": "코딩보다 철학이 더 필요한 시대, 그 역설은 어디서 오는가?",
+      "detail": "[현상/질문] 요즘 실리콘밸리의 채용 공고에서 낯선 변화가 감지된다. 수학이나 컴퓨터공학 전공자가 줄 서던 자리에 철학과 출신들이 불려가고 있다. 앤트로픽, 오픈AI, 딥마인드 같은 인공지능 기업들이 철학 전공자를 적극적으로 채용하고 있다는 소식이 《이코노미스트》를 통해 퍼지자 많은 사람들이 고개를 갸웃거렸다. 논리학을 공부했다고, 윤리학 세미나에서 토론을 했다고, 그것이 AI 개발에 무슨 쓸모가 있다는 걸까? 취업 상담실에서 '철학은 취업이 안 된다'는 말을 들어온 학생들은 특히 당혹스럽다. 그런데 더 흥미로운 건, 이 현상이 단순한 유행이 아니라는 것이다. AI가 스스로 추론하고 글을 쓰고 결정을 내리는 시대에, 정작 인간에게 필요한 능력이 무엇인지에 대한 질문이 새롭게 떠오르고 있다. '잘 묻는 것', '개념을 정확히 구분하는 것', '윤리적 함의를 따지는 것'이 갑자기 희귀 자원이 되고 있다.\n\n[철학적 해석] 19세기 프랑스 철학자 오귀스트 콩트는 지식의 위계를 세우면서 수학과 자연과학을 최상위에, 철학을 그 아래에 두었다. 이후 근대 교육은 대체로 이 위계를 따랐다. 측정 가능하고, 응용 가능하고, 생산성으로 환산될 수 있는 지식이 우선시됐다. 그런데 AI는 이 위계를 뒤흔든다. 기계가 계산하고 코딩하고 데이터를 처리하는 일을 대신할수록, 인간의 고유한 역할은 오히려 개념을 만들고, 질문을 설계하고, 판단의 기준을 세우는 것으로 이동한다. 이것은 정확히 철학이 2500년간 해온 일이다. 비트겐슈타인은 철학의 임무를 '언어의 혼란을 해소하는 것'이라 했다. AI가 쏟아내는 정보의 홍수 속에서 무엇이 진짜 질문인지, 어떤 개념이 혼동되고 있는지, 어떤 추론이 오류인지를 가려내는 능력이 지금 가장 값비싼 인지적 기술이 되고 있다. 모두가 답을 생산할 수 있을 때, 좋은 질문을 던지는 사람이 희귀해진다.\n\n[그 나라 맥락] En France, la philosophie est une matière obligatoire au lycée. Tous les élèves passent l\\'épreuve de philosophie au baccalauréat. C\\'est une tradition très ancienne. Beaucoup de Français pensent que philosopher est utile pour la vie, pas seulement pour l\\'école. Mais aujourd\\'hui, même en France, les étudiants en philosophie ont du mal à trouver un emploi. La nouvelle vogue de la philosophie dans les entreprises d\\'IA surprend donc même les Français. Peut-être que la France avait raison depuis le début.",
+      "tags": [
+        "인공지능",
+        "철학의 쓸모",
+        "질문의 능력"
+      ],
+      "originalTitle": "Pourquoi les philosophes sont en train de devenir les stars de l'intelligence artificielle",
+      "id": "mon-04"
     },
     {
       "day": "tuesday",
@@ -143,6 +183,26 @@
       ],
       "originalTitle": "Le macchine hanno ancora bisogno di fiumi",
       "id": "wed-02"
+    },
+    {
+      "day": "wednesday",
+      "dayLabel": "수요일",
+      "country": "italy",
+      "countryLabel": "이탈리아",
+      "source": "Il Tascabile",
+      "sourceUrl": "https://www.iltascabile.com/scienze/perche-beviamo/",
+      "channelUrl": "https://www.iltascabile.com",
+      "thumbnail": "",
+      "title": "우리는 왜 술을 마시는가",
+      "summary": "알코올은 단순한 기호품이 아니라, 수천 년 된 사회적 기술이다",
+      "detail": "[현상/질문] 퇴근 후 동료들과 맥주 한 잔을 기울이는 자리, 결혼식 피로연의 건배, 장례식 뒤 유족들이 모여 나누는 와인 한 잔—우리는 삶의 거의 모든 중요한 순간에 술을 곁들인다. 혼자 소파에 앉아 하루의 긴장을 풀기 위해 한 잔을 따르는 사람도 있고, 낯선 이와 처음 만나는 자리의 어색함을 술로 녹이는 사람도 있다. 음주는 개인의 습관이기도 하지만 동시에 집단적 의식처럼 보이기도 한다. 금주를 선언한 사람이 파티에서 겪는 묘한 소외감은 어디서 오는 것일까. 술을 마시지 않는다는 것이 단순히 음료 선택의 문제가 아니라, 어떤 공동체에서 벗어나는 신호처럼 받아들여지는 이유는 무엇인가. 우리는 왜 이토록 오랫동안, 이토록 보편적으로 술을 마셔왔는가.\n\n[철학적 해석] 진화생물학과 인류학은 알코올에 대한 인간의 끌림이 단순한 쾌락 추구나 도피 욕구로 환원되지 않는다고 말한다. 인류학자들은 알코올이 수천 년에 걸쳐 '사회적 기술'로 기능해왔다는 점에 주목한다. 술은 낯선 이들 사이의 경계를 낮추고, 불신을 일시적으로 유예하며, 집단 의식의 동기화를 돕는다. 에밀 뒤르켐이 말한 '집합적 흥분(effervescence collective)'—제의와 축제에서 개인이 일시적으로 집단에 녹아들며 느끼는 고양감—은 술 한 잔이 만들어내는 분위기와 구조적으로 닮아 있다. 술자리는 단순한 음주 행위가 아니라, 공동체가 서로의 취약성을 동시에 드러내고 수용하는 의식적 공간이다. 개인이 방어막을 낮추고 타인 앞에 조금 더 솔직한 자신을 내보이는 이 순간은, 신뢰의 형성이라는 사회적 필요와 맞닿아 있다. 문제는 음주 자체가 아니라, 우리가 그 사회적 공간을 오직 알코올을 통해서만 만들 수 있다고 믿게 되었을 때 시작된다. 술이 연결을 만드는 것이 아니라, 연결이 가능하다는 신호로 술이 사용되어왔다는 역전된 시각이 필요하다.\n\n[그 나라 맥락] In Italia, il vino è parte della vita quotidiana. Non è solo una bevanda: è cultura, identità, tradizione. A tavola, il vino unisce la famiglia. Durante le feste, è un simbolo di gioia condivisa. Ma oggi molti giovani italiani bevono meno vino e più birra artigianale. Alcuni scelgono di non bere affatto. Questo cambiamento è lento ma visibile. In Italia si discute: il vino è patrimonio culturale o abitudine difficile da cambiare?",
+      "tags": [
+        "음주",
+        "사회적 유대",
+        "집합적 의식"
+      ],
+      "originalTitle": "Perché beviamo",
+      "id": "wed-03"
     },
     {
       "day": "thursday",
