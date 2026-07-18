@@ -676,14 +676,42 @@ def main():
         except Exception as e:
             print(f"  → 큐레이션 실패: {e}")
             return 0
+        added = _accept(day, picked, phase)
+        return added
+
+    def take_raw(day, n, phase="3차"):
+        """최후 보루: 의미 중복 게이트를 건너뛰고 원문 후보에서 n개를 채운다.
+        원문(실제 소스 글)은 완전 중복이 아니므로, 15개에 미달하느니 약간 겹치더라도 채운다.
+        이미 채택한 URL·과거 발행 URL은 제외하므로 같은 글이 반복되지는 않는다.
+        """
+        nonlocal recent_articles
+        used = chosen_urls(day)
+        items = [it for it in day_feeds.get(day, []) if it["url"] not in used]
+        if not items or n <= 0:
+            return 0
+        try:
+            picked = curate_day(client, day, items, recent_articles, need=n)
+        except Exception as e:
+            print(f"  → 최후 보충 실패: {e}")
+            return 0
+        return _accept(day, picked[:n], phase)
+
+    def _accept(day, picked, phase):
+        """picked를 chosen_by_day에 추가(URL 중복 방지)하고 실제 추가 편수 반환."""
+        nonlocal recent_articles
+        added = 0
         for c in picked:
+            if c["sourceUrl"] in chosen_urls(day):
+                continue
             chosen_by_day[day].append(c)
             recent_articles = recent_articles + [
                 {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", [])}
             ]
-        if picked:
-            print(f"  [{phase}] {DAY_LABELS[day]} +{len(picked)}: {[c['title'] for c in picked]}")
-        return len(picked)
+            added += 1
+        if added:
+            titles = [c["title"] for c in chosen_by_day[day][-added:]]
+            print(f"  [{phase}] {DAY_LABELS[day]} +{added}: {titles}")
+        return added
 
     # ── 1차: 각 요일을 PER_DAY(3)까지 ──
     print("── 1차 큐레이션: 요일당 3개 목표 ──")
@@ -709,6 +737,20 @@ def main():
                 if day_count(day) >= MAX_PER_DAY or not day_feeds.get(day):
                     continue
                 added_this_round += take(day, 1, "2차")
+            stagnant_rounds = stagnant_rounds + 1 if added_this_round == 0 else 0
+
+    # ── 3차(최후 보루): 그래도 15개 미만이면 중복 게이트를 완화해 반드시 채운다 ──
+    if total_count() < WEEKLY_TARGET:
+        print(f"\n── 3차 최후 보충: 현재 {total_count()}개 → {WEEKLY_TARGET}개 (중복 게이트 완화) ──")
+        stagnant_rounds = 0
+        while total_count() < WEEKLY_TARGET and stagnant_rounds < 2:
+            added_this_round = 0
+            for day in sorted(DAYS, key=day_count):
+                if total_count() >= WEEKLY_TARGET:
+                    break
+                if day_count(day) >= MAX_PER_DAY or not day_feeds.get(day):
+                    continue
+                added_this_round += take_raw(day, 1)
             stagnant_rounds = stagnant_rounds + 1 if added_this_round == 0 else 0
 
     # 요일 순으로 id 부여 후 병합
