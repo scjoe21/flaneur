@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-18T09:29:20.429677+00:00",
+  "fetchedAt": "2026-07-18T17:26:06.284810+00:00",
   "items": [
     {
       "title": "Weg von Trump – Wie Deutschland US-Forscher anlocken will",
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Wunderpflanze Moos – Vom Evolutionsbooster zum Luftreiniger",
+      "url": "https://www.swr.de/swrkultur/wissen/wunderpflanze-moos-vom-evolutionsbooster-zum-luftreiniger-100.html",
+      "description": "Die Erde war wüst und leer – dann kam das Moos und hat sie begrünt. Jedenfalls das Festland. Moos reinigt die Luft, baut Moore auf und kann medizinische Wirkstoffe produzieren.",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Beate Uhse – Sex-Pionierin und Geschäftsfrau",
       "url": "https://www.swr.de/swrkultur/wissen/beate-uhse-sex-pionierin-und-geschaeftsfrau-104.html",
       "description": "Anfangs ging es Beate Uhse um mehr Lust und Selbstbestimmung der deutschen Frauen. Später dachte sie vor allem ans Geschäft und bediente mit ihren Pornofilmen Männerfantasien. Vor 25 Jahren ist sie gestorben.",
@@ -216,22 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/putschversuch-in-der-tuerkei-2016-und-die-oppositionsbewegung-heute-100.html",
       "description": "In der Nacht zum 16. Juli 2016 putschten Teile des türkischen Militärs – und scheiterten. Welche Folgen hat der Putsch noch heute? Und wohin steuert die Türkei zehn Jahre danach?",
       "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Songs als Protest – Was Musiker bewirken können",
-      "url": "https://www.swr.de/swrkultur/wissen/songs-als-protest-was-musiker-bewirken-koennen-100.html",
-      "description": "Musik emotionalisiert und verbindet die Zuhörer mit den Künstlern und anderen Fans. Politische Texte sollen argumentativ überzeugen und im Idealfall motivieren, sich zu engagieren.",
-      "date": "Sat, 4 Jul 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

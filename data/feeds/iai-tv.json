@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-07-18T09:29:24.376406+00:00",
+  "fetchedAt": "2026-07-18T17:26:10.635528+00:00",
   "items": [
     {
       "title": "Why extraordinary claims still require extraordinary evidence | Michael Shermer",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
+      }
+    },
+    {
+      "title": "Roger Penrose and Brian Cox on the Big Bang, the multiverse and physics' greatest lesson | Q&A",
+      "url": "https://www.youtube.com/watch?v=Ip-bYpCb_vo",
+      "description": "Roger Penrose answers audience questions on Conformal Cyclic Cosmology, the multiverse and the most important thing he has learnt in physics.\n\nWhat would you ask Roger if you had the chance?\n\nWith a free trial, you can watch Roger and Brian in conversation NOW at https://iai.tv/video/our-future-theories-of-the-universe?utm_source=YouTube&utm_medium=description\n\nFrom the Big Bang to the fabric of spacetime and the nature of consciousness, our core scientific assumptions frame how we understand an",
+      "date": "2026-07-18",
+      "thumbnail": "https://i2.ytimg.com/vi/Ip-bYpCb_vo/hqdefault.jpg",
+      "videoId": "Ip-bYpCb_vo",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -196,32 +212,16 @@
       }
     },
     {
-      "title": "Are young boys lost? | Mary Ann Sieghart",
-      "url": "https://www.youtube.com/shorts/Xz9p0Yw-r4M",
-      "description": "With a free trial, you can watch the full debate NOW at https://iai.tv/video/the-patriarchy-in-question?utm_source=YouTube&utm_medium=short2\n\n#politics #genderequality #feminism",
-      "date": "2026-07-04",
-      "thumbnail": "https://i1.ytimg.com/vi/Xz9p0Yw-r4M/hqdefault.jpg",
-      "videoId": "Xz9p0Yw-r4M",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Is God misunderstood? | Alex O'Connor on mystical experiences",
-      "url": "https://www.youtube.com/shorts/yNL8NeMNRcI",
-      "description": "#philosophy  #panpsychism     #consciousness  #mind  #god   #spirituality  #religion #christianity #bible      @CosmicSkeptic \n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
-      "date": "2026-07-03",
-      "thumbnail": "https://i2.ytimg.com/vi/yNL8NeMNRcI/hqdefault.jpg",
-      "videoId": "yNL8NeMNRcI",
+      "title": "The West does not practice what it preaches | Kishore Mahbubani",
+      "url": "https://www.youtube.com/shorts/DWP2FqN7IzY",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/rebalancing-the-global-order?utm_source=YouTube&utm_medium=short1\n\n#politics #geopolitics",
+      "date": "2026-07-18",
+      "thumbnail": "https://i1.ytimg.com/vi/DWP2FqN7IzY/hqdefault.jpg",
+      "videoId": "DWP2FqN7IzY",
       "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
