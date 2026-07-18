@@ -47,7 +47,9 @@ CONTEXT_LANG = {
 # (불완전함·신체·침묵 등 반복 테마가 두 달 이상 간격으로 재등장하므로 넉넉히 본다.
 #  소스 확대로 후보 풀이 깊어져 더 오래 거슬러 봐도 발행 편수에 무리가 없다.)
 HISTORY_LOOKBACK = 16
-PER_DAY = 3  # 요일당 발행 편수
+PER_DAY = 3        # 요일당 기본 발행 편수 (1차 목표)
+WEEKLY_TARGET = 15 # 주간 총 발행 편수 (반드시 채운다)
+MAX_PER_DAY = 5    # 보충 시 한 요일에 허용하는 최대 편수 (나라별 3~5개 → 균형 유지)
 
 
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -161,7 +163,7 @@ def load_feeds_for_day(sources: list, day: str, published_urls: set = None) -> l
             continue
         with open(feed_path, encoding="utf-8") as f:
             data = json.load(f)
-        for item in data.get("items", [])[:6]:    # 소스당 최대 6개 (소스 수 증가로 조정)
+        for item in data.get("items", [])[:8]:    # 소스당 최대 8개 (주간 15개 보충용 후보 풀 확대)
             if item.get("url") in published_urls:
                 continue
             items.append({
@@ -506,15 +508,17 @@ def filter_duplicates(client: anthropic.Anthropic, candidates: list, past: list)
 
 
 def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
-                        recent_articles: list, target: int = PER_DAY) -> list:
+                        recent_articles: list, target: int = PER_DAY,
+                        exclude_urls: set = None) -> list:
     """해당 요일에서 과거 글과 중복되지 않는 글 target개를 확보해 반환.
 
     target은 '이번에 새로 더 채워야 할 편수'다(부분 보충 시 PER_DAY보다 작을 수 있다).
+    exclude_urls에 든 URL(이미 이번 주에 채택한 항목)은 후보에서 제외한다.
     1차 큐레이션 → 중복 필터 게이트 → 중복은 버리고, 부족분은 1회 보충 큐레이션.
     같은 주 안의 중복도 막기 위해, 이미 채택한 글을 비교 대상(past)에 누적한다.
     """
     chosen = []
-    used_urls = set()
+    used_urls = set(exclude_urls or ())
     candidates = list(day_items)
 
     for round_no in range(2):  # 최초 + 보충 1회
@@ -604,10 +608,9 @@ def main():
     week_id, week_label = get_week_info()
     print(f"주차: {week_id} ({week_label})\n")
 
-    # 멱등성: 같은 주차가 이미 발행되어 있으면, 빠진 요일만 보충 큐레이션한다.
-    # (FORCE=1이면 전부 재생성. 모든 요일 완비 + FORCE 없음이면 스킵)
+    # 멱등성: 같은 주차가 이미 WEEKLY_TARGET(15)개 발행됐으면 건너뛴다.
+    # (FORCE=1이면 전부 재생성. 15개 미만이면 부족분을 이어서 채운다.)
     existing_items = []
-    days_to_run = list(DAYS)
     force = bool(os.environ.get("FORCE"))
     if not force:
         try:
@@ -615,16 +618,14 @@ def main():
                 existing = json.load(f)
             if existing.get("week") == week_id:
                 existing_items = existing.get("items", [])
-                # 요일이 '존재'하는지가 아니라 '편수가 PER_DAY를 채웠는지'로 보충 대상을 판단한다.
-                # (2개만 발행된 요일도 보충 대상에 포함 → cron 재시도가 3개까지 자가 복구)
-                day_counts = Counter(it.get("day") for it in existing_items)
-                incomplete = [d for d in DAYS if day_counts.get(d, 0) < PER_DAY]
-                if not incomplete:
-                    print(f"이미 {week_id} 모든 요일 {PER_DAY}개 발행됨 — 건너뜁니다. (재생성하려면 FORCE=1)")
+                if len(existing_items) >= WEEKLY_TARGET:
+                    print(f"이미 {week_id} {len(existing_items)}개(목표 {WEEKLY_TARGET}) 발행됨 "
+                          f"— 건너뜁니다. (재생성하려면 FORCE=1)")
                     return
-                days_to_run = incomplete
-                shortfall = {DAY_LABELS[d]: day_counts.get(d, 0) for d in incomplete}
-                print(f"이미 {week_id} 일부 발행됨. 보충 대상(현재 편수): {shortfall} → 각 {PER_DAY}개로 채움\n")
+                day_counts = Counter(it.get("day") for it in existing_items)
+                shortfall = {DAY_LABELS[d]: day_counts.get(d, 0) for d in DAYS}
+                print(f"이미 {week_id} {len(existing_items)}개 발행됨(요일별 {shortfall}). "
+                      f"→ {WEEKLY_TARGET}개까지 이어서 채움\n")
         except (FileNotFoundError, json.JSONDecodeError):
             pass
 
@@ -642,53 +643,97 @@ def main():
             for it in existing_items
         ]
 
-    new_items = []
+    # 요일별 피드는 한 번만 로딩(1차·2차 보충에서 공유)
+    day_feeds = {d: load_feeds_for_day(sources, d, published_urls) for d in DAYS}
 
-    for day in days_to_run:
-        already = sum(1 for it in existing_items if it.get("day") == day)
-        target  = PER_DAY - already
-        if target <= 0:
-            continue
-        print(f"[{DAY_LABELS[day]}] 피드 로딩... (현재 {already}개, {target}개 추가 목표)", flush=True)
-        day_items = load_feeds_for_day(sources, day, published_urls)
+    # 이번 실행에서 새로 뽑은 글(요일별). 이미 발행된 existing_items와 합쳐 최종 편수를 계산한다.
+    from collections import defaultdict
+    chosen_by_day    = defaultdict(list)
+    existing_by_day  = Counter(it.get("day") for it in existing_items)
+    existing_urls    = defaultdict(set)
+    for it in existing_items:
+        if it.get("sourceUrl"):
+            existing_urls[it.get("day")].add(it["sourceUrl"])
 
-        if not day_items:
-            print(f"  → 피드 없음, 건너뜀\n")
-            continue
+    def day_count(d):
+        return existing_by_day.get(d, 0) + len(chosen_by_day[d])
 
-        print(f"  → {len(day_items)}개 항목 검토 중...", flush=True)
+    def total_count():
+        return len(existing_items) + sum(len(v) for v in chosen_by_day.values())
+
+    def chosen_urls(d):
+        return existing_urls[d] | {c["sourceUrl"] for c in chosen_by_day[d]}
+
+    def take(day, n, phase):
+        """해당 요일에서 비중복 글 n개를 확보해 chosen_by_day에 추가하고 실제 추가 편수 반환."""
+        nonlocal recent_articles
+        items = day_feeds.get(day, [])
+        if not items or n <= 0:
+            return 0
         try:
-            curated = curate_day_filtered(client, day, day_items, recent_articles, target=target)
-            if not curated:
-                print(f"  → 비중복 항목 없음, 건너뜀\n")
-                continue
-            prefix  = DAY_PREFIX[day]
-            # 기존 편수 다음 번호부터 id 부여 (예: tue-01,02 존재 → 신규는 tue-03)
-            for i, item in enumerate(curated, start=already + 1):
-                item["id"] = f"{prefix}-{i:02d}"
-            new_items.extend(curated)
-            # 다음 요일이 같은 주 안에서 중복되지 않도록 채택분을 비교 대상에 누적
+            picked = curate_day_filtered(client, day, items, recent_articles,
+                                         target=n, exclude_urls=chosen_urls(day))
+        except Exception as e:
+            print(f"  → 큐레이션 실패: {e}")
+            return 0
+        for c in picked:
+            chosen_by_day[day].append(c)
             recent_articles = recent_articles + [
                 {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", [])}
-                for c in curated
             ]
-            titles = [c["title"] for c in curated]
-            print(f"  → 선택: {titles}\n")
-        except Exception as e:
-            print(f"  → 큐레이션 실패: {e}\n")
+        if picked:
+            print(f"  [{phase}] {DAY_LABELS[day]} +{len(picked)}: {[c['title'] for c in picked]}")
+        return len(picked)
+
+    # ── 1차: 각 요일을 PER_DAY(3)까지 ──
+    print("── 1차 큐레이션: 요일당 3개 목표 ──")
+    for day in DAYS:
+        need = PER_DAY - day_count(day)
+        if need <= 0:
+            continue
+        if not day_feeds.get(day):
+            print(f"  [1차] {DAY_LABELS[day]} 피드 없음, 건너뜀")
+            continue
+        take(day, need, "1차")
+
+    # ── 2차: 주간 총 15개를 채울 때까지 후보가 남은 요일에서 보충(요일당 MAX_PER_DAY까지) ──
+    if total_count() < WEEKLY_TARGET:
+        print(f"\n── 2차 보충: 현재 {total_count()}개 → {WEEKLY_TARGET}개 채움 (요일당 최대 {MAX_PER_DAY}개) ──")
+        stagnant_rounds = 0
+        while total_count() < WEEKLY_TARGET and stagnant_rounds < 2:
+            added_this_round = 0
+            # 편수가 적은 요일부터 채워 균형을 유지
+            for day in sorted(DAYS, key=day_count):
+                if total_count() >= WEEKLY_TARGET:
+                    break
+                if day_count(day) >= MAX_PER_DAY or not day_feeds.get(day):
+                    continue
+                added_this_round += take(day, 1, "2차")
+            stagnant_rounds = stagnant_rounds + 1 if added_this_round == 0 else 0
+
+    # 요일 순으로 id 부여 후 병합
+    new_items = []
+    for day in DAYS:
+        start = existing_by_day.get(day, 0) + 1
+        for i, item in enumerate(chosen_by_day[day], start=start):
+            item["id"] = f"{DAY_PREFIX[day]}-{i:02d}"
+            new_items.append(item)
 
     if not new_items:
+        if existing_items:
+            print(f"\n새로 추가된 항목 없음 — 기존 {len(existing_items)}개 유지.")
+            return
         print("큐레이션된 항목이 없습니다. 기존 news.json을 유지합니다.")
         sys.exit(1)
 
-    # 보충 모드면 기존 + 신규 병합 후 요일 순으로 정렬, 전체 모드면 신규만
-    if existing_items and not force:
-        day_order = {d: i for i, d in enumerate(DAYS)}
-        merged = existing_items + new_items
-        merged.sort(key=lambda it: day_order.get(it.get("day"), 99))
-        all_items = merged
-    else:
-        all_items = new_items
+    day_order = {d: i for i, d in enumerate(DAYS)}
+    all_items = existing_items + new_items
+    all_items.sort(key=lambda it: day_order.get(it.get("day"), 99))
+
+    final_total = len(all_items)
+    if final_total < WEEKLY_TARGET:
+        print(f"\n[경고] 비중복 후보 고갈로 {final_total}개만 확보(목표 {WEEKLY_TARGET}). "
+              f"다음 cron이 이어서 보충하며, 반복되면 소스를 늘려야 합니다.")
 
     news = {
         "week":       week_id,
