@@ -1,8 +1,40 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-18T17:25:32.898539+00:00",
+  "fetchedAt": "2026-07-19T18:06:06.107589+00:00",
   "items": [
+    {
+      "title": "[DÉCOUVERTE] Avoir raison avec... Pascal | 3/5 · De l'art de polémiquer",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:28:50  - Avec philosophie - \"L'éloquence n'est pas une fin, mais doit être un moyen et servir la vérité. Il ne faut pas que la vérité soit désarmée.\" Comment le philosophe Pascal use-t-il de cet art de la polémique ? Il est question de son œuvre \"Les Provinciales\" et de sa conception du débat dans l'espace public. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] Avoir raison avec... Pascal | 2/5 · Une anthropologie de la chute",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:29:55  - Avec philosophie - C'est auprès de Pascal, et de son anthropologie de la chute, que Margaux Dubar a trouvé des outils pour penser l'addiction. De quoi révéler comment mobiliser et actualiser une pensée pour éclairer certaines des formes les plus contemporaines de la souffrance humaine. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Qu'est-ce que les Lumières ?  : Les Lumières et l'idée coloniale",
       "url": "https://www.radiofrance.fr",
@@ -84,26 +116,10 @@
       }
     },
     {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 05/16 · L’avènement du biopouvoir",
+      "title": "[DÉCOUVERTE] Avoir raison avec... Pascal | 5/5 · Pascal, un nietzschéen avant l'heure",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:22:30  - Avec philosophie - Comment le pouvoir en est-il venu à s’exercer sur la vie elle-même ? Dans “Il faut défendre la société”, cours donné au Collège de France en 1976, Michel Foucault met au jour une transformation majeure : l’émergence du biopouvoir. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 02/16 · L’expertise médico-légale",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:22:32  - Avec philosophie - Que se joue-t-il lorsque la psychiatrie entre dans le prétoire ? Au Collège de France, dans son cours “Les Anormaux”, Michel Foucault montre comment l’expertise psychiatrique participe pleinement à l’acte de juger. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
+      "description": "durée : 00:29:31  - Avec philosophie - Et si nous chaussions les lunettes de Nietzsche pour lire Pascal ? Comment ne pas s’étonner de la proximité entre ces deux auteurs qui semblent s’opposer à tant d’égards ? À l'époque contemporaine, la pensée de Pascal reste une description incomparable de notre condition humaine. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -116,9 +132,9 @@
       }
     },
     {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 09/16 · Homo œconomicus",
+      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 02/16 · L’expertise médico-légale",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:21:55  - Avec philosophie - Comment l’économie en est-elle venue à définir notre manière d’être au monde ? Avec le néolibéralisme, l’individu est désormais pensé comme un acteur rationnel, appelé à gérer sa vie comme un capital. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "description": "durée : 00:22:32  - Avec philosophie - Que se joue-t-il lorsque la psychiatrie entre dans le prétoire ? Au Collège de France, dans son cours “Les Anormaux”, Michel Foucault montre comment l’expertise psychiatrique participe pleinement à l’acte de juger. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Sun, 12 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -148,51 +164,35 @@
       }
     },
     {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 08/16 · La raison libérale",
+      "title": "[DÉCOUVERTE] Avoir raison avec... Pascal | 4/5 · Le legs scientifique de Pascal",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:22:35  - Avec philosophie - Penser l’État autrement que comme une entité centrale : c’est la démarche proposée par Michel Foucault en 1979, lorsqu’il examine la rationalité libérale et ses effets sur les manières de gouverner. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
+      "description": "durée : 00:31:19  - Avec philosophie - Pascal est le pionnier du calcul des probabilités ainsi que le concepteur de l'expérimentation qui permit de prouver l'existence de la pression atmosphérique. Que nous reste-t-il aujourd'hui de la science de Pascal ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 0,
         "phil": 15,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 06/16 · Le gouvernement des populations",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:21:14  - Avec philosophie - À partir du XVIIIᵉ siècle, la politique ne se pense plus seulement à partir du souverain, mais d’un nouvel objet : la population. Michel Foucault en analyse les implications dans un cours intitulé “Sécurité, territoire, population” et donné en 1978 au Collège de France. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "[DÉCOUVERTE] Foucault retrouvé, 16 leçons de philosophie | 07/16 · Le pouvoir pastoral",
+      "title": "[DÉCOUVERTE] Avoir raison avec... Pascal | 1/5 · Portrait de Pascal en philosophe",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:21:25  - Avec philosophie - D’où vient l’idée de gouverner les hommes comme un troupeau ? Dans un cours intitulé \"Sécurité, territoire, population\", donné en 1978, Michel Foucault remonte aux origines du pouvoir pastoral pour éclairer une forme essentielle de la gouvernementalité moderne. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 12 Jul 2026",
+      "description": "durée : 00:29:53  - Avec philosophie - Plus de 400 ans après son écriture, l’œuvre de Pascal est toujours vibrante. Certes, c'est le propre des classiques que de traverser le temps, mais cette pertinence du philosophe Pascal pour notre époque nous interpelle. Quelle est cette ardeur que l'on découvre dans ses écrits ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {

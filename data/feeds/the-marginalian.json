@@ -1,24 +1,8 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-18T17:25:57.335489+00:00",
+  "fetchedAt": "2026-07-19T18:07:58.111829+00:00",
   "items": [
-    {
-      "title": "The Art of Dignity Beyond Pride: How to Move Through Heartbreak Like Frida Kahlo",
-      "url": "https://www.themarginalian.org/2026/07/10/frida-kahlo-nickolas-muray-letters/",
-      "description": "“Life will break you,” Louise Erdrich wrote in her exquisite insistence that “you are here to risk your heart.” The price we pay for the risk is the great equalizer of humanity. In heartbreak, everyone is shorn of dignity, everyone follows the same pattern of self-prostration: the willful blindness to the first signs of being left, so obvious to any impartial observer; the pitiful petitions for the return of love; the bargaining for a different ending; the desperate denial of the end, until the ",
-      "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 42,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 12,
-        "novelty": 0,
-        "total": 42
-      }
-    },
     {
       "title": "How to Get Love Less Wrong: George Saunders on Breaking the Patterns that Break Our Hearts",
       "url": "https://www.themarginalian.org/2026/07/14/love-chekhov-the-darling-saunders/",
@@ -52,6 +36,22 @@
       }
     },
     {
+      "title": "How to Be a Lichen: Adaptive Strategies for the Vulnerabilities of Being Human from Nature’s Tiny Titans of Tenacity",
+      "url": "https://www.themarginalian.org/2026/07/18/lichen/",
+      "description": "When I was a child, little delighted me more than the magical green garlands draping from the pine trees, which I made into wreaths and mustaches to roam the mountains of Bulgaria as a miniature Orlando. I had no idea that Usnea longissima is just one of more than 20,000 known species of lichen — almost twice as many as birds. In the lifetime since, I have collected and photographed lichen all over the world, from the spruces lining the wild shores of Alaska to the stone walls lining the rural r",
+      "date": "Sat, 18 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "How to Love: Legendary Zen Buddhist Teacher Thich Nhat Hanh on Mastering the Art of “Interbeing”",
       "url": "https://www.themarginalian.org/2026/07/17/how-to-love-thich-nhat-hanh/",
       "description": "\"To love without knowing how to love wounds the person we love.\"",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Borges on How to Conquer Time",
+      "url": "https://www.themarginalian.org/2026/07/18/a-new-refutation-of-time-borges/",
+      "description": "\"Time is the substance I am made of. Time is a river which sweeps me along, but I am the river; it is a tiger which destroys me, but I am the tiger; it is a fire which consumes me, but I am the fire.\"",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Pythagoras on the Purpose of Life and the Meaning of Wisdom",
-      "url": "https://www.themarginalian.org/2026/07/12/pythagoras-olympic-games/",
-      "description": "Abiding insight into the aim of human existence from the man who revolutionized science and coined the word \"philosopher.\"",
-      "date": "Mon, 13 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

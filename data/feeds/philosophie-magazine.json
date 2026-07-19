@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-18T17:25:33.410850+00:00",
+  "fetchedAt": "2026-07-19T18:06:06.447027+00:00",
   "items": [
     {
       "title": "L’aide à mourir (enfin) votée : partir, oui mais comment ?",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "“Que faire quand on m'offre un cadeau qui me déplait ?” Charles Pépin répond à vos petites et grandes questions !",
-      "url": "https://www.philomag.com/articles/que-faire-quand-moffre-un-cadeau-qui-me-deplait-charles-pepin-repond-vos-petites-et",
-      "description": "",
-      "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "Interdiction du “gang-bang” : quand le Conseil d’État invoque la “dignité humaine” pour restreindre les libertés",
       "url": "https://www.philomag.com/articles/interdiction-du-gang-bang-quand-le-conseil-detat-invoque-la-dignite-humaine-pour",
       "description": "",
@@ -81,6 +65,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Adoption de la loi sur l’aide à mourir : mourir peut-il être un “projet” ?",
+      "url": "https://www.philomag.com/articles/adoption-de-la-loi-sur-laide-mourir-mourir-peut-il-etre-un-projet",
+      "description": "",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Avec l'écrivaine Margaret Atwood, Pénélope reprend la parole !",
+      "url": "https://www.philomag.com/articles/avec-lecrivaine-margaret-atwood-penelope-reprend-la-parole",
+      "description": "",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/la-fin-de-la-lecture",
       "description": "",
       "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La “dignité de l’homme” chez Pic de la Mirandole, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/la-dignite-de-lhomme-chez-pic-de-la-mirandole-cest-quoi",
-      "description": "",
-      "date": "Mon, 13 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-18T17:25:33.769492+00:00",
+  "fetchedAt": "2026-07-19T18:06:06.706562+00:00",
   "items": [
     {
       "title": "Canicule : après le confinement sanitaire, bientôt l’ère des confinements climatiques ?",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "« Il y a un boulevard pour le candidat qui dira ‘Stop à l’IA !’ »",
+      "url": "https://usbeketrica.com/fr/article/il-y-a-un-boulevard-pour-le-candidat-qui-dira-stop-a-l-ia",
+      "description": "Le déploiement de l’intelligence artificielle est-il vraiment irrésistible ? La France est-elle la mieux placée pour inventer des réponses politiques à la hauteur de l’enjeu ? Pour répondre à ces questions, nous avons réuni les romanciers Abel Quentin et Hadrien Klent, dont les derniers livres (Santuaires, éd. L’observatoire, et Le jour zéro, éd. Tripode) dénoncent, de façon plus ou moins frontale, notre dépendance technologique.",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://usbeketrica.com/fr/article/j-ai-joue-au-test-des-trois-chinois-et-voila-le-resultat",
       "description": "ÉDITO // Qui est capable de citer le nom de trois Chinois vivants ? Derrière cette question provocatrice, posée par le rédacteur en chef du site Le Grand Continent, il y a le constat d’une urgence : le travail de veille sur l’état du monde et les émergences de notre époque ne doit pas être réservé à une poignée d’experts. C’est l’angle creusé dans l’édito du nouveau numéro de FUTUR, le magazine d'Usbek & Rica, disponible en librairie depuis le 9 juillet.",
       "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Et si les lieux étaient les meilleurs témoins des transformations de notre époque ?",
-      "url": "https://usbeketrica.com/fr/article/et-si-les-lieux-etaient-les-meilleurs-temoins-des-transformations-de-notre-epoque",
-      "description": "TRIBUNE // À l’heure où les images générées brouillent la frontière entre réel et fiction, une évidence résiste : celle des lieux. Et si, plutôt que les écrans, c’étaient eux qui racontaient le plus justement les mutations de notre époque ? C'est la question autour de laquelle ont échangé Lucile Soussan, artiste plasticienne de la galerie Dilecta, Ivan Descamps alias Diskay, compositeur et producteur de musique électronique, et Bernard Werber, écrivain de science-fiction et romancier, lors d'une",
-      "date": "Mon, 29 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

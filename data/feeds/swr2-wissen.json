@@ -1,24 +1,8 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-18T17:26:06.284810+00:00",
+  "fetchedAt": "2026-07-19T18:08:03.032878+00:00",
   "items": [
-    {
-      "title": "Weg von Trump – Wie Deutschland US-Forscher anlocken will",
-      "url": "https://www.swr.de/swrkultur/wissen/weg-von-trump-wie-deutschland-us-forscher-anlocken-will-104.html",
-      "description": "Seit die Trump-Regierung Forschungsmittel kürzt, denken viele Wissenschaftler*innen ans Auswandern. Kann Deutschland ihnen eine Perspektive bieten? Von Christoph Drösser (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/us-forscher-anlocken\nHörtipps:\nKeine Zukunft an der Uni - Wenn Wissenschaftler aussteigen müssen\nhttps://www.ardaudiothek.de/episode/urn:ard:episode:19812ef470f80953/\nTrump gegen die Wissenschaft - Was wird aus dem Forschungsstandort USA?\nhttps://www.ardaudiothek.de/episo",
-      "date": "Sat, 4 Jul 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
     {
       "title": "Jugendliche und Sex – Aufklärung im TikTok-Zeitalter",
       "url": "https://www.swr.de/swrkultur/wissen/jugendliche-und-sex-aufklaerung-im-tiktok-zeitalter-100.html",
@@ -116,19 +100,19 @@
       }
     },
     {
-      "title": "Kontrollverlust – Was hilft gegen Hilflosigkeit?",
-      "url": "https://www.swr.de/swrkultur/wissen/kontrollverlust-was-hilft-gegen-hilflosigkeit-100.html",
-      "description": "Job-Verlust, unerwartete Trennung, ein eskalierender Streit: Menschen reagieren sensibel auf das Gefühl, machtlos, hilflos und ausgeliefert zu sein. Was hilft?",
-      "date": "Sun, 5 Jul 2026 ",
+      "title": "Informationsfreiheit in Gefahr – Regierung will Akteneinsicht erschweren",
+      "url": "https://www.swr.de/swrkultur/wissen/akten-unter-verschluss-wie-behoerden-die-informationsfreiheit-untergraben-100.html",
+      "description": "Die schwarz-rote Koalition will das Informationsfreiheitsgesetz beschneiden. Doch Deutschland rangiert bei Auskunftsrechten gegenüber Behörden schon heute hinter autoritären Regimen.",
+      "date": "Mon, 20 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 14,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 14
+        "total": 10
       }
     },
     {
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Mode online shoppen mit KI – Passende Outfits, weniger Retouren?",
+      "url": "https://www.swr.de/swrkultur/wissen/mode-online-shoppen-mit-ki-passende-outfits-weniger-retouren-100.html",
+      "description": "Ein Foto von sich aufnehmen, in der App hochladen und schon empfiehlt sie die richtige Kleidergröße. Das würde zielgenaues Online-Shoppen ermöglichen und könnte die Retouren halbieren.",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

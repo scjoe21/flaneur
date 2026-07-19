@@ -1,8 +1,24 @@
 {
   "sourceId": "rick-dufer",
   "sourceName": "Rick DuFer",
-  "fetchedAt": "2026-07-18T17:25:42.902385+00:00",
+  "fetchedAt": "2026-07-19T18:06:12.229599+00:00",
   "items": [
+    {
+      "title": "La Scomoda Verità sulla Voce nella tua Testa: NON è la tua!!!",
+      "url": "https://www.youtube.com/watch?v=mYOG0nJ4B3U",
+      "description": "Se vuoi seguire la prima lezione della Cogito Academy ➤➤➤ https://mailchi.mp/cogitostudios/prima-lezione-gratis \nChi parla dentro di te quando pensi? Tra scienze cognitive e filosofia, scopriamo perché il tuo caos interiore non è un difetto, ma la radice stessa della tua libertà.\n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \nI prossimi eventi dal vivo ➤➤➤ http",
+      "date": "2026-07-16",
+      "thumbnail": "https://i2.ytimg.com/vi/mYOG0nJ4B3U/hqdefault.jpg",
+      "videoId": "mYOG0nJ4B3U",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Putin e la Trappola dei \"20 km\": perché preferiamo crollare pur di non cambiare idea",
       "url": "https://www.youtube.com/watch?v=JxUf0fpU7dU",
@@ -33,22 +49,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
-      }
-    },
-    {
-      "title": "Di chi è la Voce dentro di te? La Scienza del \"Due in Uno\"",
-      "url": "https://www.youtube.com/watch?v=mYOG0nJ4B3U",
-      "description": "Se vuoi seguire la prima lezione della Cogito Academy ➤➤➤ https://mailchi.mp/cogitostudios/prima-lezione-gratis \nChi parla dentro di te quando pensi? Tra scienze cognitive e filosofia, scopriamo perché il tuo caos interiore non è un difetto, ma la radice stessa della tua libertà.\n⬇⬇⬇SOTTO TROVI INFORMAZIONI IMPORTANTI⬇⬇⬇\nAbbonati per live e contenuti esclusivi ➤➤➤ https://bit.ly/memberdufer \nLeggi Daily Cogito su Substack ➤➤➤ https://dailycogito.substack.com/ \nI prossimi eventi dal vivo ➤➤➤ http",
-      "date": "2026-07-16",
-      "thumbnail": "https://i2.ytimg.com/vi/mYOG0nJ4B3U/hqdefault.jpg",
-      "videoId": "mYOG0nJ4B3U",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
       }
     },
     {
@@ -132,6 +132,22 @@
       }
     },
     {
+      "title": "Esseri Intelligenti Extraterrestri: Sono Già Qui? #shorts",
+      "url": "https://www.youtube.com/shorts/mt4K142ozqw",
+      "description": "Esiste una possibilità di vita extraterrestre intelligente che ci ha visitato? Analizziamo scientificamente la questione: dalla prima trasmissione radio ai viaggi interstellari, le probabilità sono remote. Nessuna traccia, nessun resto. Siete scettici anche voi? #VitaExtraterrestre #Scienza #Misteri #Ufologia #Spazio",
+      "date": "2026-07-19",
+      "thumbnail": "https://i2.ytimg.com/vi/mt4K142ozqw/hqdefault.jpg",
+      "videoId": "mt4K142ozqw",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
       "title": "IA: La Rivoluzione Creativa per il Pensiero Umano #shorts",
       "url": "https://www.youtube.com/shorts/6EMx4sU2FGc",
       "description": "L'intelligenza artificiale può superare le nostre capacità di calcolo, liberando il pensiero umano dall'essenziale. Un parallelo con la fotografia che ha rivoluzionato l'arte pittorica, spingendola verso nuove forme espressive. #IntelligenzaArtificiale #PensieroUmano #Innovazione #Futuro",
@@ -208,22 +224,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "Heidegger: Il Tempo non è una Risorsa, tu Sei il Tuo Tempo #shorts",
-      "url": "https://www.youtube.com/shorts/SpHW43pqanQ",
-      "description": "Heidegger ci insegna: il tempo non è una risorsa, ma ciò che siamo. Ogni minuto speso a scrollare o a usare ChatGPT ci definisce. Non hai tempo, tu sei il tuo tempo. #Heidegger #Filosofia #Tempo #Esistenzialismo #Riflessioni",
-      "date": "2026-07-09",
-      "thumbnail": "https://i4.ytimg.com/vi/SpHW43pqanQ/hqdefault.jpg",
-      "videoId": "SpHW43pqanQ",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 5
       }
     },

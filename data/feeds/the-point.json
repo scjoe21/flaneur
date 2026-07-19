@@ -1,7 +1,7 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-07-18T17:26:11.015016+00:00",
+  "fetchedAt": "2026-07-19T18:08:06.528797+00:00",
   "items": [
     {
       "title": "The Critic’s Loves",
@@ -84,22 +84,6 @@
       }
     },
     {
-      "title": "The Work Without Markers",
-      "url": "https://thepointmag.com/criticism/the-work-without-markers/",
-      "description": "In the late 1990s, I read a short story by Nirmal Verma called “Terminal.” \n The post  The Work Without Markers  appeared first on  The Point Magazine .",
-      "date": "Tue, 28 Apr 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Searching for the Unexpected",
       "url": "https://thepointmag.com/dialogue/searching-for-the-unexpected/",
       "description": "This interview with Carlo Ginzburg, which we are publishing here for the first time, was conducted a decade ago at the University of Chicago. \n The post  Searching for the Unexpected  appeared first on  The Point Magazine .",
@@ -113,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Issue 37",
+      "url": "https://thepointmag.com/general/issue-37/",
+      "description": "The annotated table of contents below offers a sneak peek at what’s in issue 37. \n The post  Issue 37  appeared first on  The Point Magazine .",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
