@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-24T16:50:17.027646+00:00",
+  "fetchedAt": "2026-07-24T19:58:57.673213+00:00",
   "items": [
     {
       "title": "The American People Need the Truth About the Iran War",
@@ -20,6 +20,22 @@
       }
     },
     {
+      "title": "The Fear of Black Greeks",
+      "url": "https://www.theatlantic.com/ideas/2026/07/odyssey-race/688058/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The True History of New England’s Stone Walls",
       "url": "https://www.theatlantic.com/ideas/2026/07/second-career-passion-life-meaning/687952/?utm_source=feed",
       "description": "",
@@ -33,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Does Iran Have a Plan?",
+      "url": "https://www.theatlantic.com/ideas/2026/07/war-strategy-shift-isolation/688061/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/us-military-tech-drones/687945/?utm_source=feed",
       "description": "",
       "date": "2026-07-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Susan Collins Is Not Concerned About Election Denial",
-      "url": "https://www.theatlantic.com/ideas/2026/07/trump-speech-election-integrity-republicans/687978/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Best Running Shoes You Can’t Get Your Hands On",
-      "url": "https://www.theatlantic.com/ideas/2026/07/running-shoes-china-america/687941/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-17",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

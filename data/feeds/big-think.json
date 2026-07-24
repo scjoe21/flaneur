@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-24T16:50:16.585841+00:00",
+  "fetchedAt": "2026-07-24T19:58:57.082926+00:00",
   "items": [
+    {
+      "title": "A philosopher’s guide to thinking for yourself in an age built to think for you",
+      "url": "https://bigthink.com/series/full-interview/philosophy-of-stupidity/",
+      "description": "Philosopher Jonny Thomson walks through Dietrich Bonhoeffer’s 3 conditions for the kind of stupidity that destroys societies: outsourcing your thinking to an authority, willful ignorance, and conformity.  \n He shows how each one shows up today, from AI answering our moral questions to political parties enforcing loyalty over conviction. \n \n This video  A philosopher’s guide to thinking for yourself in an age built to think for you  is featured on  Big Think .",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/B1-Web-Thomson-1.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 49,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 49
+      }
+    },
     {
       "title": "Physician: The outdated mindset that gets in the way of our healing",
       "url": "https://bigthink.com/series/full-interview/body-intelligence-enders/",
@@ -81,22 +97,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "The goal-setting mistake you don’t know you’re making",
-      "url": "https://bigthink.com/business/the-price-of-becoming/",
-      "description": "I have struggled to set goals for most of my life. I’ve wondered for a while what they actually do for me. When I was younger, my dad had us write down big, ambitious, long-term goals. I still have some of those handwritten notes.  \n Two of them were: \n 1. Earn a college scholarship for academics or athletics. \n 2. After college, get a job that I actually like instead of just worrying about money. \n Both came true. So, here’s a reasonable question: Did they happen because I wrote them down? Or b",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/price-of-becoming_excerpt.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 24
       }
     },
     {

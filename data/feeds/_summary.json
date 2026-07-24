@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-24T16:50:28.169236+00:00",
+  "lastRun": "2026-07-24T19:59:11.832818+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -40,7 +40,6 @@
     "sous-le-soleil-de-platon",
     "dlf-essay-diskurs",
     "dlfkultur-zeitfragen",
-    "swr2-wissen",
     "pandora-rivista",
     "ermanno-ferretti",
     "the-conversation-uk-philosophy",
@@ -50,7 +49,9 @@
     "hedgehog-review",
     "nautilus"
   ],
-  "fail": [],
+  "fail": [
+    "swr2-wissen"
+  ],
   "total": 48,
-  "fetched": 48
+  "fetched": 47
 }
