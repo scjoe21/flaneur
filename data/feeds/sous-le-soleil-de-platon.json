@@ -1,7 +1,7 @@
 {
   "sourceId": "sous-le-soleil-de-platon",
   "sourceName": "Sous le soleil de Platon (France Inter)",
-  "fetchedAt": "2026-07-24T06:21:13.231539+00:00",
+  "fetchedAt": "2026-07-24T16:50:21.303711+00:00",
   "items": [
     {
       "title": "Dominique Méda : comment travailler autrement, sans abîmer le monde ?",
@@ -212,22 +212,6 @@
       }
     },
     {
-      "title": "Eric-Emmanuel Schmitt : pourquoi la beauté nous donne l'impression d'être sauvés ?",
-      "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-lundi-06-juillet-2026-7265741",
-      "description": "durée : 00:48:01  - Sous le soleil de Platon  - par : Charles Pépin - Dramaturge, romancier, scénariste, réalisateur, comédien, Eric-Emmanuel Schmitt fait escale dans notre studio avant de rejoindre le festival de la Correspondance de Grignan, dont il est le président et le directeur artistique depuis 2022 et qui s’ouvre aujourd’hui pour une 30ᵉ édition.   - équipe : Estelle Gapp, Antoine Larcher, Alicia Vullo, Stéphanie Valois, Juliette Husson - invités : Éric-Emmanuel Schmitt Dramaturge, roman",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Les conseils lecture de Charles Pépin",
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:01:14  - Sous le soleil de Platon  - par : Charles Pépin - Le secret de la vraie joie révélé par Clément Rosset, le Zarathoustra de Nietzsche et une histoire de famille qui finit dans le trash par Rebecca Lighieri, ce sont les recommandations de Charles pour votre été.  - équipe : Estelle Gapp, Antoine Larcher, Alicia Vullo, Laura Dumez, Audrey Carmes, Juliette Husson \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Richard Malka : \"La laïcité, c'est considérer que les lois humaines sont supérieures à celles de Dieu\"",
+      "url": "https://www.radiofrance.fr/franceinter/podcasts/sous-le-soleil-de-platon/sous-le-soleil-de-platon-du-vendredi-24-juillet-2026-5710247",
+      "description": "durée : 00:48:36  - Sous le soleil de Platon  - par : Charles Pépin - Richard Malka est l'un des principaux avocats de la laïcité, connu notamment pour avoir défendu l’e journal satirique Charlie Hebdo. Il est en outre essayiste, scénariste de BD et romancier. Son attachement viscéral à la laïcité et à l’égalité le conduit à défendre plutôt que des hommes, des causes.  - équipe : Estelle Gapp, Antoine Larcher, Stéphanie Valois, Juliette Husson - invités : Richard Malka Avocat au barreau de Paris",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

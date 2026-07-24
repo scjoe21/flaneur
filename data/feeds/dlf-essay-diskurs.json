@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-07-24T06:21:14.068615+00:00",
+  "fetchedAt": "2026-07-24T16:50:21.799177+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Aufstieg der Populisten - Die Rechte ist da, aber sie hat keine Gesellschaftstheorie mitgebracht",
+      "url": "https://www.deutschlandfunk.de/die-rechte-ist-da-aber-sie-hat-keine-gesellschaftstheorie-mitgebracht-100.html",
+      "description": "Weltweit sind Populisten und staatsfeindliche Libertäre in die Zentren der Macht gelangt oder auf dem besten Wege dorthin. Wie konnte das geschehen – trotz ihrer Faktenverdrehungen, groben Pauschalisierungen und offener Demokratiefeindlichkeit? Von Barbara Sichtermann und Simon Brückner www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -200,22 +216,6 @@
       "url": "https://www.deutschlandfunk.de/ketchup-usa-ernaehrung-antiamerikanismus-100.html",
       "description": "Ketchup ist in Deutschland zum Symbol für alles Banausige geworden, das aus den USA stammt. Im Windschatten des „Coca-Kolonialismus“ wurde er zum Kristallisationspunkt des westdeutschen Nachkriegs-Antiamerikanismus (Erstsendedatum: 01.01.2025). Von Holm Friebe und Rainer Kirberg www.deutschlandfunk.de, Essay und Diskurs",
       "date": "Sun, 05 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Die neuen Chefs - Heroische und postheroische Führung",
-      "url": "https://www.deutschlandfunk.de/arbeit-job-chef-fuehrung-hierarchien-100.html",
-      "description": "Die hierarchischen Arbeitsstrukturen verschwinden mehr und mehr aus den Unternehmen. Selbstorganisation und Agilität sind die Schlagworte der Stunde. Was heißt Führung in Zeiten postheroischen Managements? Von Stefan Kühl www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Fri, 01 May 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

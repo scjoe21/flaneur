@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-24T06:20:49.333872+00:00",
+  "fetchedAt": "2026-07-24T16:49:58.921190+00:00",
   "items": [
     {
       "title": "„Anti-Europa“ — Wie chinesisches Denken Leibniz und die europäische Aufklärung prägte",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "Keine super Helden",
+      "url": "https://www.philomag.de/artikel/keine-super-helden",
+      "description": "Auch für den Kinosommer 2026 sind Superhelden-Filme angesagt, darunter Ende Juli mal wieder ein neuer Teil von Spider-Man. Die Sehnsucht nach übermenschlichen Rettern hält sich hartnäckig, trotz ihrer politisch fragwürdigen Botschaften. Haben wir Angst davor, uns selbst als handlungsfähig zu begreifen?",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "Bernhard Schlink: „Gerechtigkeit ist ein Sehnsuchtsbegriff“",
       "url": "https://www.philomag.de/artikel/bernhard-schlink-gerechtigkeit-ist-ein-sehnsuchtsbegriff",
       "description": "Partizipation, gleiche Rechte und Chancen: Die Gerechtigkeitserwartungen in Demokratien sind hoch. Bernhard Schlink argumentiert in seinem neuen Buch für einen realistischeren Blick. Ein Gespräch über die Macht des Unverfügbaren und die Mühen der Gerechtigkeitsarbeit.",
@@ -94,22 +110,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Shortlist für den Tractatus-Essaypreis des Philosophicum Lech 2026",
-      "url": "https://www.philomag.de/artikel/shortlist-fuer-den-tractatus-essaypreis-des-philosophicum-lech-2026",
-      "description": "Der Verein Philosophicum Lech hat die Shortlist für den Tractatus – Preis für philosophische Essayistik bekanntgegeben. Wer die mit 25.000 Euro dotierte Auszeichnung erhält, wird Anfang September verkündet. Die feierliche Verleihung findet am 25. September im Rahmen des 29. Philosophicum Lech statt. Das Philosophie Magazin ist Medienpartner.",
-      "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

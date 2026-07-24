@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-07-24T06:21:12.785930+00:00",
+  "fetchedAt": "2026-07-24T16:50:20.612232+00:00",
   "items": [
     {
       "title": "Saint-Nazaire au travail : si près et si loin de l’emploi…",
@@ -33,22 +33,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
-      }
-    },
-    {
-      "title": "La liberté de manifester à l’épreuve des interdictions",
-      "url": "https://www.nonfiction.fr/article-12785-la-liberte-de-manifester-a-lepreuve-des-interdictions.htm",
-      "description": "Parmi les libertés publiques soumises à de fortes tensions ces dernières années, le droit de manifester occupe une place singulière. Les interdictions de manifestations de soutien au peuple palestinien prononcées à partir du 7 octobre en offrent un observatoire privilégié. \r\n\r\n Dans  Faire taire la rue , le philosophe et membre de la Ligue des droits humains Lucas Lévy-Lajeunesse analyse minutieusement les motifs invoqués dans les arrêtés préfectoraux. Au-delà du seul cas palestinien, son enquêt",
-      "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 13,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 13
       }
     },
     {
@@ -84,8 +68,8 @@
       }
     },
     {
-      "title": "Le vocation universitaire à l’épreuve de l’institution",
-      "url": "https://www.nonfiction.fr/article-12791-le-vocation-universitaire-a-lepreuve-de-linstitution.htm",
+      "title": "La vocation universitaire à l’épreuve de l’institution",
+      "url": "https://www.nonfiction.fr/article-12791-la-vocation-universitaire-a-lepreuve-de-linstitution.htm",
       "description": "Avec  Galaxie du personnel , publié au Nouvel Attila, Alexis Anne-Braun accomplit un geste littéraire rare : faire d'une procédure administrative universitaire la matière d'un récit à la fois drôle, mélancolique, théorique et profondément humain. Le titre renvoie d'abord au portail numérique du ministère de l'Enseignement supérieur qui centralise les carrières universitaires françaises ; mais il désigne bientôt un univers beaucoup plus vaste, peuplé d'institutions, de fantasmes professionnels, d",
       "date": "Wed, 08 Jul 2026",
       "thumbnail": "",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Les vacances de Nonfiction",
+      "url": "https://www.nonfiction.fr/article-12806-les-vacances-de-nonfiction.htm",
+      "description": "Nonfiction fait une pause dans ses publications et vous donne rendez-vous le 24 août. Bonnes lectures en attendant !",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {

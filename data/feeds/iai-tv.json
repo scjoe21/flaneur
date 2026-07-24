@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-07-19T18:08:06.392423+00:00",
+  "fetchedAt": "2026-07-24T16:50:27.662261+00:00",
   "items": [
     {
       "title": "Why extraordinary claims still require extraordinary evidence | Michael Shermer",
@@ -36,19 +36,67 @@
       }
     },
     {
-      "title": "\"The most important thing when I look back on my life\"  | Roger Penrose and Brian Cox Q&A",
+      "title": "Roger Penrose and Brian Cox on the Big Bang, the multiverse and physics' greatest lesson | Q&A",
       "url": "https://www.youtube.com/watch?v=Ip-bYpCb_vo",
       "description": "Roger Penrose answers audience questions on Conformal Cyclic Cosmology, the multiverse and the most important thing he has learnt in physics.\n\nWhat would you ask Roger if you had the chance?\n\nWith a free trial, you can watch Roger and Brian in conversation NOW at https://iai.tv/video/our-future-theories-of-the-universe?utm_source=YouTube&utm_medium=description\n\nFrom the Big Bang to the fabric of spacetime and the nature of consciousness, our core scientific assumptions frame how we understand an",
       "date": "2026-07-18",
       "thumbnail": "https://i2.ytimg.com/vi/Ip-bYpCb_vo/hqdefault.jpg",
       "videoId": "Ip-bYpCb_vo",
-      "priority": 30,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 25,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Economists are completely detached from reality | Cahal Moran",
+      "url": "https://www.youtube.com/shorts/bJjvNbWW9eQ",
+      "description": "With a free trial, you can watch the full conversation NOW at https://iai.tv/video/why-you-should-ignore-the-economics-nobel-prize-with-cahal-moran?utm_source=YouTube&utm_medium=short1\n\n#economics #costofliving #greatdepression",
+      "date": "2026-07-22",
+      "thumbnail": "https://i3.ytimg.com/vi/bJjvNbWW9eQ/hqdefault.jpg",
+      "videoId": "bJjvNbWW9eQ",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "How has consciousness shaped evolution? | Eva Jablonka",
+      "url": "https://www.youtube.com/watch?v=qxp54vOHhzQ",
+      "description": "Eva Jablonka discusses goal-directedness in animals and its relationship with evolution.\n\nWhat does this mean for how we understand evolution itself?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/eva-jablonka-evolution-beyond-genes?utm_source=YouTube&utm_medium=description\n\nFor decades, evolution has been told as a simple story: random genes change, natural selection does the rest. But what if that story has been missing something fundamental, something that looks, ",
+      "date": "2026-07-23",
+      "thumbnail": "https://i2.ytimg.com/vi/qxp54vOHhzQ/hqdefault.jpg",
+      "videoId": "qxp54vOHhzQ",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "The cost of living crisis shows that economists are out of touch with reality | Cahal Moran",
+      "url": "https://www.youtube.com/watch?v=BwzI4C2158U",
+      "description": "Cahal Moran discusses how we are approaching the cost of living crisis all wrong.\n\nDo you agree with Cahal that many economists are out of touch with reality?\n\nWith a free trial, you can watch Cahal in a debate on economic growth NOW at https://iai.tv/video/the-holy-grail-of-economics?utm_source=YouTube&utm_medium=description\n\nWe think economics is a science best left to experts speaking in equations and jargon. But Cahal Moran argues the profession suffers from \"physics envy\"—chasing mathematic",
+      "date": "2026-07-21",
+      "thumbnail": "https://i3.ytimg.com/vi/BwzI4C2158U/hqdefault.jpg",
+      "videoId": "BwzI4C2158U",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -100,38 +148,6 @@
       }
     },
     {
-      "title": "Why AI's energy needs are not the real catastrophe | Sheila Jasanoff, Erik Swyngedouw, Paul Stein",
-      "url": "https://www.youtube.com/watch?v=ZPJT4BShL90",
-      "description": "Sheila Jasanoff, Erik Swyngedouw and Paul Stein discuss the ecological impact of the AI tech boom.\n\nWill tech leaders invest in clean tech, or will AI destroy the planet?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-green-technology-paradox?utm_source=YouTube&utm_medium=description\n\nCentral to Western thought has been the idea that through science and technology, we can understand the world and improve our circumstances. Green tech is seemingly a contemporary",
-      "date": "2026-07-06",
-      "thumbnail": "https://i3.ytimg.com/vi/ZPJT4BShL90/hqdefault.jpg",
-      "videoId": "ZPJT4BShL90",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
-      }
-    },
-    {
-      "title": "Why didn't Trump's tariffs tank the US economy? | Glasman, Johnson, Shaheen, Powell",
-      "url": "https://www.youtube.com/watch?v=2xBzw_cw-pQ",
-      "description": "Maurice Glasman, Paul Johnson, Faiza Shaheen, and Llŷr Powell debate the tariffs imposed by Donald Trump and their impact on the national and global economy, as well as geopolitics.\n\nIs liberal economics a failed experiment?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/everything-we-knew-about-economics-is-wrong?utm_source=YouTube&utm_medium=description\n\nWhen Fukuyama infamously declared ‘the end of history’, it summed up his view that liberal economics had won t",
-      "date": "2026-07-04",
-      "thumbnail": "https://i3.ytimg.com/vi/2xBzw_cw-pQ/hqdefault.jpg",
-      "videoId": "2xBzw_cw-pQ",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Physicists debate unsettling discovery from the James Webb Space Telescope | Ellis, de Rham, Ekeberg",
       "url": "https://www.youtube.com/watch?v=UVWJnJW_jTo",
       "description": "Claudia de Rham, George Ellis, and Bjørn Ekeberg debate the latest findings of the JWST and the Hubble Telescope, and the implications that this new evidence might have for our theories of the universe.\n\nWhy do we keep finding data to suggest that there's matter older than the Big Bang?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/cosmology-in-crisis?utm_source=YouTube&utm_medium=description\n\nFrom the Big Bang to the expanding universe, we imagine we have a detai",
@@ -145,22 +161,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "“The line between imagination and reality isn't very solid” | Nadine Dijkstra",
-      "url": "https://www.youtube.com/watch?v=FSgId8obeMU",
-      "description": "Nadine Dijkstra discusses whether human perception is hallucination or imagination.\n\nWhy do children use their imagination more than adults?\n\nWith a free trial, you can watch the full interview NOW at https://iai.tv/video/the-neural-border-between-mind-and-world-with-nadine-dijkstra?utm_source=YouTube&utm_medium=description\n\n'“The line between imagination and reality is just not so solid.”\n\nNadine Dijkstra is a Principal Investigator at the Institute of Neurology at UCL. Her research in Imaging ",
-      "date": "2026-07-07",
-      "thumbnail": "https://i3.ytimg.com/vi/FSgId8obeMU/hqdefault.jpg",
-      "videoId": "FSgId8obeMU",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -196,19 +196,19 @@
       }
     },
     {
-      "title": "I debunked a man's \"supernatural powers\" - this is how he responded | Massimo Pigliucci",
-      "url": "https://www.youtube.com/shorts/v07iT8-pfJQ",
-      "description": "#ghost #paranormal #debunkingmyths #mythbusting #skeptic #supernatural \n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
-      "date": "2026-07-05",
-      "thumbnail": "https://i3.ytimg.com/vi/v07iT8-pfJQ/hqdefault.jpg",
-      "videoId": "v07iT8-pfJQ",
-      "priority": 15,
+      "title": "Princess Diana is dead and you probably can't draw a bicycle | Michael Shermer",
+      "url": "https://www.youtube.com/shorts/feCGb_snOv0",
+      "description": "With a free trial, you can watch Michael's full talk at https://iai.tv/video/michael-shermer-reality-doesnt-care-what-you-think?utm_source=YouTube&utm_medium=short\n\n#conspiracytheories #coolfacts  #interestingfacts #skeptic",
+      "date": "2026-07-24",
+      "thumbnail": "https://i3.ytimg.com/vi/feCGb_snOv0/hqdefault.jpg",
+      "videoId": "feCGb_snOv0",
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {

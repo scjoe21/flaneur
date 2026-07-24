@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-24T06:21:04.014696+00:00",
+  "fetchedAt": "2026-07-24T16:50:12.635428+00:00",
   "items": [
     {
       "title": "Can cells think?",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Signal then storm",
+      "url": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain",
+      "description": "Allan Basbaum has spent 50 years searching the nervous system for the places where pain begins – and where it can be stopped - by Stephani Sutherland Read on Aeon",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/essays/how-to-decode-the-archive-inside-ancient-tree-rings",
       "description": "Trees contain an archive – tales of planetary shifts, cosmic events, historical pivots – that we’re only just unlocking - by Valerie Trouet Read on Aeon",
       "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Africa’s cultural landmarks: rock-hewn churches of Lalibela, Ethiopia",
-      "url": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
-      "description": "Most buildings rise from the bottom up, stone by stone. Not so these churches: carved from a single rock, top-to-bottom - by Aeon Video Watch on Aeon",
-      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

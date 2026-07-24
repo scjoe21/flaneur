@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-24T06:21:06.511814+00:00",
+  "fetchedAt": "2026-07-24T16:50:14.315133+00:00",
   "items": [
+    {
+      "title": "How to stop avoiding life",
+      "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
+      "description": "Your anxiety may never fully recede. Here’s five research-backed strategies to help you live a life bigger than your fear - Video by Doctor Ali Mattu Watch on Psyche",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "How to become the person you want to be",
       "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
@@ -16,22 +32,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "How to imagine a better future for yourself",
-      "url": "https://psyche.co/guides/how-to-imagine-a-better-future-for-yourself",
-      "description": "Feeling unclear or pessimistic about what’s ahead? Your ‘best possible self’ is a tool for seeing things differently - by Dan Tomasulo Read on Psyche",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 20
       }
     },
@@ -65,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Make some noise",
+      "url": "https://psyche.co/notes-to-self/sexist-thinking-about-feminine-voices-goes-way-way-back",
+      "description": "As a girl, I felt I should change my voice. Anne Carson’s writing on the ancient Greeks shows how old that pressure is - by Hannah Seo Read on Psyche",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -168,22 +184,6 @@
       "url": "https://psyche.co/videos/jacques-recalls-the-odd-calm-of-marching-into-battle-in-wartime-france",
       "description": "A filmmaker turns an exchange with his grandfather about his memories of the Second World War into an affecting animation - Directed by Mathias de Panafieu Watch on Psyche",
       "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Gadu Doushin",
-      "url": "https://psyche.co/videos/the-japanese-dance-tradition-that-finds-beauty-in-weakness",
-      "description": "Butoh – the Japanese dance form cherishing imperfection that emerged as the country recovered from the Second World War - Video by MN Original Watch on Psyche",
-      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

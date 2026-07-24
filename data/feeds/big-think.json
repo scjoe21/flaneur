@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-24T06:21:07.832459+00:00",
+  "fetchedAt": "2026-07-24T16:50:16.585841+00:00",
   "items": [
     {
       "title": "Physician: The outdated mindset that gets in the way of our healing",
@@ -132,6 +132,22 @@
       }
     },
     {
+      "title": "American literature, charted in one monumental map",
+      "url": "https://bigthink.com/strange-maps/american-literature-charted-in-one-monumental-map/",
+      "description": "The second map ever featured on  Strange Maps  — back in 2006, when it was still a fledgling WordPress blog — was a literary take on Maine. It showed the real and imagined places that tether Stephen King’s horror stories to the rugged landscape of his home state. On the map, fictional towns like Derry, Castle Rock, and Lake Kashwakamak jostle for space with the real ones that inspired them, including Bangor, Skowhegan, and Portland.  \n I was mesmerized by both that duality — the tension between ",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Lit-Map-Strange-Maps-Article-1-Thumbnail.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
       "title": "Live with Big Think: Inside “The Opt-Out Nation”",
       "url": "https://bigthink.com/series/the-big-think-interview/opt-out-nation-live-event/",
       "description": "Big Think hosted its inaugural live event to bring our summer special issue,  The Opt-Out Nation , to life. Join our candid conversation with the editors and writers behind it, featuring voices from  The New York Times ,  WIRED , and  County Highway . Hosted by Big Think producer and director Dan Hayes. \n \n This video  Live with Big Think: Inside “The Opt-Out Nation”  is featured on  Big Think .",
@@ -145,22 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "2026’s Perseids, lousy this July, will peak at the perfect time",
-      "url": "https://bigthink.com/starts-with-a-bang/2026-perseids-peak-perfect-time/",
-      "description": "During most times of the year, when you look up at a dark, clear night sky, the stars, planets, and perhaps the Moon shine brightly, along with, if you’re lucky, a view of the plane of the Milky Way. As far as objects moving through the sky go, you’re usually far more likely to see things with artificial lights, like airplanes or satellites, than you are meteors. Across the entire sky, during most times of the year, you’re lucky if you can spot 2 or 3 meteors per hour: caused by random pieces of",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/08/3f59b9f135b64b7caf52aaebe3375771.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
       }
     }
   ]

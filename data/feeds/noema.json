@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-07-24T06:21:08.937364+00:00",
+  "fetchedAt": "2026-07-24T16:50:17.322662+00:00",
   "items": [
     {
       "title": "How AI Is Rewriting Human Nature",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’",
+      "url": "https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age",
+      "description": "The post  The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’  appeared first on  NOEMA .",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 8,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 8
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/when-the-machines-deserve-our-consideration",
       "description": "The post  When The Machines Deserve Our Consideration  appeared first on  NOEMA .",
       "date": "Thu, 02 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "America At 250 & Beyond",
-      "url": "https://www.noemamag.com/america-at-250",
-      "description": "The post  America At 250 & Beyond  appeared first on  NOEMA .",
-      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

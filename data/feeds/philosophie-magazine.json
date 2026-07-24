@@ -1,10 +1,10 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-24T06:20:42.507825+00:00",
+  "fetchedAt": "2026-07-24T16:49:55.241456+00:00",
   "items": [
     {
-      "title": "Le “J-space” de Claude ou comment l’IA se met à ressembler à la conscience",
+      "title": "Le “J-Space” de Claude ou comment l’IA se met à ressembler à la conscience",
       "url": "https://www.philomag.com/articles/le-j-space-de-claude-ou-comment-lia-se-met-ressembler-la-conscience",
       "description": "",
       "date": "Wed, 22 Jul 2026",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Iran : d’où vient le culte des martyrs ?",
+      "url": "https://www.philomag.com/articles/iran-dou-vient-le-culte-des-martyrs",
+      "description": "",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/projet-barthes-avignon-sous-les-signes-de-roland-barthes",
       "description": "",
       "date": "Sat, 18 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Camille Vivier à la MEP : malaise dans le culturisme ?",
-      "url": "https://www.philomag.com/articles/camille-vivier-la-mep-malaise-dans-le-culturisme",
-      "description": "",
-      "date": "Fri, 17 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

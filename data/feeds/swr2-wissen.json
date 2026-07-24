@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-24T06:21:18.076445+00:00",
+  "fetchedAt": "2026-07-24T16:50:24.264608+00:00",
   "items": [
     {
       "title": "Vibes – Wann wir uns mit anderen wohlfühlen",
@@ -52,19 +52,19 @@
       }
     },
     {
-      "title": "Wie krank macht Fast Food? – Hochverarbeitete Lebensmittel in der Kritik",
-      "url": "https://www.swr.de/swrkultur/wissen/wie-krank-macht-fast-food-hochverarbeitete-lebensmittel-in-der-kritik-100.html",
-      "description": "Billig und schnell zubereitet – der Vorteil hochverarbeiteter Lebensmittel. Doch sie beinhalten viel Zucker, viel Fett, viele Kalorien, wenig Ballast- und Mineralstoffe und erhöhen das Risiko für viele Krankheiten.",
-      "date": "Fri, 10 Jul 2026",
+      "title": "Queer und alt – Zwischen Pride und Einsamkeit",
+      "url": "https://www.swr.de/swrkultur/wissen/queer-und-alt-zwischen-pride-und-einsamkeit-100.html",
+      "description": "Diskriminierung prägt viele queere Menschen bis ins Alter. In Seniorenheimen fürchten sie Ausgrenzung und Einsamkeit. Doch das Bewusstsein für die Bedürfnisse einer vielfältigen älteren Generation wächst.\nVon Horst Gross (SWR 2025/2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/queer-im-alter\nHörtipp:\nBuchgefühl\nhttps://1.ard.de/buchgefuehl\nBei Fragen und Anregungen schreibt uns:\ndaswissen@swr.de\nFolgt uns auf Mastodon:\nhttps://ard.social/@DasWissen",
+      "date": "Sat, 25 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {

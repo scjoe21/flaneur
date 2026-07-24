@@ -1,8 +1,24 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-24T06:21:09.194379+00:00",
+  "fetchedAt": "2026-07-24T16:50:17.630560+00:00",
   "items": [
+    {
+      "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
+      "url": "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/",
+      "description": "Few things in life are more exasperating than seeing the potential in someone you love and seeing them continually fall short of it, stumbling again and again over the same self-erected roadblocks of character and conduct, comporting themselves in a manner painfully inferior to what you know them to be capable of. What to do? The problem of whether and how people change is the eternal problem of being alive. Changing our own ways of being is difficult enough, prey enough to paradox and peril; ch",
+      "date": "Tue, 14 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
     {
       "title": "How Not to Waste Your Life",
       "url": "https://www.themarginalian.org/2026/07/21/hawthorne-life/",
@@ -33,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "How to Be a Lichen: Adaptive Strategies for the Vulnerabilities of Being Human from Nature’s Tiny Titans of Tenacity",
-      "url": "https://www.themarginalian.org/2026/07/18/lichen/",
-      "description": "When I was a child, little delighted me more than the magical green garlands draping from the pine trees, which I made into wreaths and mustaches to roam the mountains of Bulgaria as a miniature Orlando. I had no idea that Usnea longissima is just one of more than 20,000 known species of lichen — almost twice as many as birds. In the lifetime since, I have collected and photographed lichen all over the world, from the spruces lining the wild shores of Alaska to the stone walls lining the rural r",
-      "date": "Sat, 18 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
       }
     },
     {
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Dostoyevsky in Love",
+      "url": "https://www.themarginalian.org/2026/07/23/dostoyevsky-in-love/",
+      "description": "“I love her happiness more than my own.”",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "How to Keep Life from Becoming a Parody of Itself: Simone de Beauvoir on the Art of Growing Older",
       "url": "https://www.themarginalian.org/2026/07/22/simone-de-beauvoir-coming-of-age/",
       "description": "\"In old age we should wish still to have passions strong enough to prevent us turning in on ourselves.\"",
@@ -132,38 +148,6 @@
       }
     },
     {
-      "title": "Borges on How to Conquer Time",
-      "url": "https://www.themarginalian.org/2026/07/18/a-new-refutation-of-time-borges/",
-      "description": "\"Time is the substance I am made of. Time is a river which sweeps me along, but I am the river; it is a tiger which destroys me, but I am the tiger; it is a fire which consumes me, but I am the fire.\"",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "The Wild Iris: Nobel Laureate Louise Glück on the Door at the End of Your Suffering",
-      "url": "https://www.themarginalian.org/2026/07/16/louse-gluck-wild-iris/",
-      "description": "\"Whatever returns from oblivion returns to find a voice.\"",
-      "date": "Thu, 16 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "How to Bear Your Sorrows: Nick Cave on Integrating the Darkness of Loss with the Bright Ongoingness of Life",
       "url": "https://www.themarginalian.org/2026/07/15/nick-cave-loss/",
       "description": "Few things in our culture are more wounding than the concept of healing — as if the pains and losses that we suffer are an illness, a malfunction of the psyche to be cut out like a tumor, rather than a natural function of being alive, of feeling life deeply and living it fully. All our sorrows have been wasted if we have not learned to suffer and to be surprised by the door at the end of our suffering, on the other wide of which is simply the world, which keeps on worlding. It is not healing tha",
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Antidotes to Fear of Death: Astronomer and Poet Rebecca Elson’s Stunning Cosmic Salve for Existential Tremors",
+      "url": "https://www.themarginalian.org/2026/07/23/antidotes-to-fear-of-death-rebecca-elson/",
+      "description": "\"Sometimes as an antidote to fear of death, I eat the stars.\"",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -212,19 +212,19 @@
       }
     },
     {
-      "title": "Marcus Aurelius on the Good Luck of Your Bad Luck: The Stoic Strategy for Weathering Life’s Waves and Turning Suffering into Strength",
-      "url": "https://www.themarginalian.org/2026/07/16/marcus-aurelius-luck/",
-      "description": "\"What happened could have happened to anyone, but not everyone could have carried on.\"",
-      "date": "Thu, 16 Jul 2026",
+      "title": "Albert Camus on the Three Antidotes to the Absurdity of Life",
+      "url": "https://www.themarginalian.org/2026/07/23/albert-camus-interview-absurd/",
+      "description": "\"In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.\"",
+      "date": "Fri, 24 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
