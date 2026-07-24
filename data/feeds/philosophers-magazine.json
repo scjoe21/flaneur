@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophers-magazine",
   "sourceName": "The Philosophers' Magazine (TPM)",
-  "fetchedAt": "2026-07-19T18:08:06.208814+00:00",
+  "fetchedAt": "2026-07-24T06:21:22.275332+00:00",
   "items": [
     {
       "title": "The Ethics of Sex Verification",
@@ -16,22 +16,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 5,
-        "total": 15
-      }
-    },
-    {
-      "title": "Living with Class",
-      "url": "https://philosophersmag.com/living-with-class/",
-      "description": "Hanno Sauer argues that we will have to learn how to live with class hierarchy. \n The post  Living with Class  first appeared on  The Philosophers' Magazine .",
-      "date": "Wed, 25 Mar 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 15
       }
     },
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Necessities Underlying Reality",
+      "url": "https://philosophersmag.com/the-necessities-underlying-reality/",
+      "description": "James Franklin introduces his recent book on necessities and objectivity. \n The post  The Necessities Underlying Reality  first appeared on  The Philosophers' Magazine .",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

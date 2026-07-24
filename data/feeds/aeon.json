@@ -1,54 +1,38 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-19T18:07:54.056867+00:00",
+  "fetchedAt": "2026-07-24T06:21:04.014696+00:00",
   "items": [
     {
-      "title": "How to offset your brain",
-      "url": "https://aeon.co/essays/can-mindfulness-help-you-overcome-your-cognitive-biases",
-      "description": "From confirmation bias to loss aversion, everyone suffers from cognitive biases. Skilfully targeted mindfulness can help - by Stephanie Dorais Read on Aeon",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Skill nostalgia",
-      "url": "https://aeon.co/essays/the-radical-reasons-why-you-dream-of-making-things-by-hand",
-      "description": "Is all the beekeeping, baking and leatherwork just escapist fantasy or the start of a radically human approach to work? - by Joshua Habgood-Coote Read on Aeon",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Abyss",
-      "url": "https://aeon.co/essays/what-ukrainian-war-widows-know-about-love-and-loss",
-      "description": "The testimonies of Ukraine’s war widows reveal the mortal risk of love and the possibility of dying while alive: a black pain - by Julie Reshe Read on Aeon",
-      "date": "Fri, 03 Jul 2026",
+      "title": "Can cells think?",
+      "url": "https://aeon.co/videos/why-we-should-think-of-intelligence-in-terms-of-goals-not-brains",
+      "description": "Inside the lab of a biologist who is seeking to understand intelligence by focusing on problem-solving, not neurons - by Aeon Video Watch on Aeon",
+      "date": "Wed, 22 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The savage bites back",
+      "url": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism",
+      "description": "Rooted in Brazilian modernism, anthropophagy devours and transforms culture, subverting colonial fears of cannibalism - by Sofia Cándano Read on Aeon",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -84,19 +68,67 @@
       }
     },
     {
-      "title": "Begone dull care",
-      "url": "https://aeon.co/videos/jazz-and-innovative-animation-form-a-sensory-swirl-in-this-1949-short",
-      "description": "Let this exuberant melding of jazz and animation from 1949 blur your senses as abstract visuals interpret the music - by Aeon Video Watch on Aeon",
-      "date": "Mon, 06 Jul 2026",
+      "title": "All the Queens houses",
+      "url": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough",
+      "description": "To the trained eye, the personalised homes of Queens, NYC, evoke everything from a Venetian streetscape to a Chinese temple - by Aeon Video Watch on Aeon",
+      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "The people’s atheist",
+      "url": "https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people",
+      "description": "Jean Meslier, a rural French priest, argued that religion is designed to produce subjects who will automatically obey - by Nidal Taibi Read on Aeon",
+      "date": "Tue, 21 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "The Skinner revolution",
+      "url": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control",
+      "description": "A 1979 doc examining the life and ideas of B F Skinner, with a focus on his radical, controversial behaviour experiments - by Aeon Video Watch on Aeon",
+      "date": "Mon, 20 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Beyond Greece and Rome",
+      "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
+      "description": "A dramatic shift in perspective is producing a much bigger, broader and more exciting view of ‘the ancient world’ - by Carlos Noreña Read on Aeon",
+      "date": "Mon, 20 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://aeon.co/videos/explore-the-wondrous-ethiopian-churches-that-are-carved-into-the-earth",
       "description": "Most buildings rise from the bottom up, stone by stone. Not so these churches: carved from a single rock, top-to-bottom - by Aeon Video Watch on Aeon",
       "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sangre violenta / sangre violeta",
-      "url": "https://aeon.co/videos/on-the-ground-with-the-voices-fighting-femicide-in-mexico",
-      "description": "Confronted with the horrifying reality of gendered violence, radically different people unite in resistance and protest - by Aeon Video Watch on Aeon",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "‘The emperor is far away’",
-      "url": "https://aeon.co/essays/how-little-we-really-know-of-the-mighty-ming-dynasty",
-      "description": "Ming Dynasty China left us copious texts, but these veil the lives of the vast majority of its people from our view - by Craig Clunas Read on Aeon",
-      "date": "Tue, 07 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-19T18:07:55.238696+00:00",
+  "fetchedAt": "2026-07-24T06:21:06.511814+00:00",
   "items": [
+    {
+      "title": "How to become the person you want to be",
+      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
+      "description": "Close the intention-action gap and live the way you want, using insights from the cognitive neuroscience of habits - by Eike Buabang Read on Psyche",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "How to imagine a better future for yourself",
       "url": "https://psyche.co/guides/how-to-imagine-a-better-future-for-yourself",
@@ -16,22 +32,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "How to fix your attention span",
-      "url": "https://psyche.co/videos/how-to-reclaim-your-attention-from-the-distraction-economy",
-      "description": "Could you watch this video on full screen, 1x speed, with no distractions? Here are five steps to rebuild your attention span - Video by Daniel Pink Watch on Psyche",
-      "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "What ancient art tells us about modern psychedelic medicine",
+      "url": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine",
+      "description": "Millennia-old rock paintings reflect a wisdom about healing that should inform today’s evolving psychedelic treatments - by William McCarthy Read on Psyche",
+      "date": "Tue, 21 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "The joy of falling down together",
       "url": "https://psyche.co/notes-to-self/when-youre-in-sync-with-others-joy-is-shared",
       "description": "My reluctant participation in a line-dancing class showed me how moving as one promotes feelings of group unity – and joy - by Amy Arthur Read on Psyche",
@@ -88,22 +104,6 @@
       "url": "https://psyche.co/videos/why-major-life-decisions-should-be-approached-with-epistemic-humility",
       "description": "At a crossroads in life? No matter how much you deliberate, one unknowable remains: who you will be on the other side - Video by The Well Watch on Psyche",
       "date": "Mon, 13 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Same art, different name: would you see or hear it the same way?",
-      "url": "https://psyche.co/ideas/same-art-different-name-would-you-see-or-hear-it-the-same-way",
-      "description": "A mislabelled concerto and other errors and tricks show that reputation affects how art is perceived, sometimes radically - by Rikki A Wolpowitz Read on Psyche",
-      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -164,19 +164,19 @@
       }
     },
     {
-      "title": "The ghost behind",
-      "url": "https://psyche.co/videos/tracing-the-making-and-unmaking-of-four-friends-rockstar-dreams",
-      "description": "Reminiscing with her brother’s bandmates, a filmmaker pieces together a life of music, friendship, dreams and addiction - Directed by Caroline Rumley Watch on Psyche",
-      "date": "Tue, 07 Jul 2026",
+      "title": "It wasn’t Bourgogne",
+      "url": "https://psyche.co/videos/jacques-recalls-the-odd-calm-of-marching-into-battle-in-wartime-france",
+      "description": "A filmmaker turns an exchange with his grandfather about his memories of the Second World War into an affecting animation - Directed by Mathias de Panafieu Watch on Psyche",
+      "date": "Tue, 21 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -196,26 +196,26 @@
       }
     },
     {
-      "title": "Does modernisation erase cultural difference – or amplify it?",
-      "url": "https://psyche.co/ideas/does-modernisation-erase-cultural-difference-or-amplify-it",
-      "description": "We understandably fear the flattening effect of modernity. But global data from China to Peru tells a hopeful story - by Thomas Talhelm Read on Psyche",
-      "date": "Wed, 08 Jul 2026",
+      "title": "When the world stopped moving",
+      "url": "https://psyche.co/turning-points/in-the-stillness-of-prison-i-learned-how-to-be-alone",
+      "description": "I wanted to outrun my thoughts. But in the stillness of prison, I had no choice but to face myself - by Devin A Giordano Read on Psyche",
+      "date": "Mon, 20 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
-      "title": "Portraits of another life: Lloyd Khan",
-      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
-      "description": "No rent, no mortgage: rejecting easy comfort, a revolutionary homebuilder has found his own version of a successful life - 11 minutes Watch on Psyche",
-      "date": "Thu, 16 Jul 2026",
+      "title": "Don’t turn away from tragedy, but do witness intentionally",
+      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
+      "description": "Chronic exposure to the world’s horror has a mental cost. Being an effective witness requires a more sustainable approach - by Nena Močnik Read on Psyche",
+      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "A college fling",
-      "url": "https://psyche.co/turning-points/my-college-fling-was-brief-hollow-yet-deeply-meaningful",
-      "description": "It was a three-week stint of make-outs, music, and not much else. But it meant more than he knew - by Jessica Gentile Read on Psyche",
-      "date": "Tue, 07 Jul 2026",
+      "title": "Portraits of another life: Lloyd Khan",
+      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
+      "description": "No rent, no mortgage: rejecting easy comfort, a revolutionary homebuilder has found his own version of a successful life - 11 minutes Watch on Psyche",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

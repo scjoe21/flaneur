@@ -1,8 +1,24 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-19T18:08:03.032878+00:00",
+  "fetchedAt": "2026-07-24T06:21:18.076445+00:00",
   "items": [
+    {
+      "title": "Vibes – Wann wir uns mit anderen wohlfühlen",
+      "url": "https://www.swr.de/swrkultur/wissen/vibes-wann-wir-uns-mit-anderen-wohlfuehlen-100.html",
+      "description": "Sich auf Anhieb zu verstehen, fühlt sich gut an. Man weiß, wie der andere tickt und muss nicht viel erklären: Es vibet einfach. Sogar die Hirnströme gleichen sich an.",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Jugendliche und Sex – Aufklärung im TikTok-Zeitalter",
       "url": "https://www.swr.de/swrkultur/wissen/jugendliche-und-sex-aufklaerung-im-tiktok-zeitalter-100.html",
@@ -14,22 +30,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Wo der Tastsinn wichtig ist – Liebe, Medizin, Konsum",
-      "url": "https://www.swr.de/swrkultur/wissen/wo-der-tastsinn-wichtig-ist-liebe-medizin-konsum-100.html",
-      "description": "Berührungen sind entscheidend für unsere körperliche und psychische Gesundheit. Auch in der Medizin spielen sie eine Rolle. Produkte, die sich hochwertig anfühlen, verkaufen sich besser.",
-      "date": "Thu, 9 Jul 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -68,35 +68,19 @@
       }
     },
     {
-      "title": "Ämter ohne Microsoft – Warum Behörden freie Software nutzen wollen",
-      "url": "https://www.swr.de/swrkultur/wissen/aemter-ohne-microsoft-warum-behoerden-freie-software-nutzen-wollen-100.html",
-      "description": "Software im Abomodell ist teuer und die Daten liegen in der Cloud. Erste Behörden wollen sich aus dieser Abhängigkeit lösen und setzen auf freie Software.",
-      "date": "Tue, 7 Jul 2026 ",
+      "title": "Viren, Drogen, Umweltgifte – Was das Abwasser über uns verrät",
+      "url": "https://www.swr.de/swrkultur/wissen/viren-drogen-umweltgifte-was-das-abwasser-ueber-uns-verraet-104.html",
+      "description": "Die Analyse avon Abwasserproben verrät, was wir essen, welche Krankheiten wir haben und welche Drogen wir nehmen. EU-weit wird das Monitoring ausgeweitet.",
+      "date": "Tue, 21 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Sterbeforschung – Wie die Psychiaterin Elisabeth Kübler-Ross ein Tabu brach",
-      "url": "https://www.swr.de/swrkultur/wissen/sterbeforschung-wie-die-psychiaterin-elisabeth-kuebler-ross-ein-tabu-brach-100.html",
-      "description": "Bis heute prägt Elisabeth Kübler-Ross unseren Umgang mit Tod und Trauer. Ihr Bestseller \"Interviews mit Sterbenden\" brach 1969 ein Tabu. Auch wenn Fachleute es für überholt halten: Das Fünf-Phasenmodell der Trauer bleibt populär.",
-      "date": "Wed, 8 Jul 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -132,19 +116,19 @@
       }
     },
     {
-      "title": "Usbekistan nach der Diktatur – Aufbruch an der Seidenstraße",
-      "url": "https://www.swr.de/swrkultur/wissen/usbekistan-nach-der-diktatur-aufbruch-an-der-seidenstrasse-100.html",
-      "description": "Usbekistan ist das bevölkerungsreichste Land Zentralasiens. Seit dem Krieg in der Ukraine buhlen nicht nur Russland und China um seine Ressourcen, sondern auch Deutschland.",
-      "date": "Mon, 6 Jul 2026 ",
+      "title": "Biodiversität in Städten – Ungeahnte Vielfalt in Parks und Mauerritzen",
+      "url": "https://www.swr.de/swrkultur/wissen/biodiversitaet-in-staedten-ungeahnte-vielfalt-in-parks-und-mauerritzen-100.html",
+      "description": "Allein in Berlin gibt es über 20.000 Tier- und Pflanzenarten. Doch zunehmende Versiegelung bedroht die Vielfalt. Tierfreundliche Architektur und mehr ökologisches Bewusstsein könnten sie bewahren.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/biodiversitaet-staedte\nInfos:\nUm die Artenvielfalt in den Städten zu erfassen, kann jede und jeder mithelfen! Dazu informiert unter anderem die Stiftung für Naturschutz\nhttps://www.stiftung-naturschutz.de/presse/pressemitte",
+      "date": "Fri, 24 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Apothekensterben – Was die Versorgung trotzdem sichern könnte",
+      "url": "https://www.swr.de/swrkultur/wissen/apothekensterben-108.html",
+      "description": "In ländlichen Regionen finden immer mehr Apotheker keine Nachfolger. Briefkästen oder Terminals im Supermarkt sollen helfen, damit Patienten ihre Medikamente bestellen können. Beratung gibt es nicht.",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {

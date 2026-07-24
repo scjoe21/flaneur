@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-19T18:06:06.706562+00:00",
+  "fetchedAt": "2026-07-24T06:20:44.033388+00:00",
   "items": [
     {
       "title": "Canicule : après le confinement sanitaire, bientôt l’ère des confinements climatiques ?",
@@ -38,7 +38,7 @@
     {
       "title": "« Il y a un boulevard pour le candidat qui dira ‘Stop à l’IA !’ »",
       "url": "https://usbeketrica.com/fr/article/il-y-a-un-boulevard-pour-le-candidat-qui-dira-stop-a-l-ia",
-      "description": "Le déploiement de l’intelligence artificielle est-il vraiment irrésistible ? La France est-elle la mieux placée pour inventer des réponses politiques à la hauteur de l’enjeu ? Pour répondre à ces questions, nous avons réuni les romanciers Abel Quentin et Hadrien Klent, dont les derniers livres (Santuaires, éd. L’observatoire, et Le jour zéro, éd. Tripode) dénoncent, de façon plus ou moins frontale, notre dépendance technologique.",
+      "description": "Le déploiement de l’intelligence artificielle est-il vraiment irrésistible ? La France est-elle la mieux placée pour inventer des réponses politiques à la hauteur de l’enjeu ? Pour répondre à ces questions, nous avons réuni les romanciers Abel Quentin et Hadrien Klent, dont les derniers livres (Sanctuaires, éd. L’observatoire, et Le jour zéro, éd. Tripode) dénoncent, de façon plus ou moins frontale, notre dépendance technologique.",
       "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Et si l’IA devenait vraiment inclusive ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-l-ia-devenait-vraiment-inclusive",
+      "description": "Quand une IA ne comprend pas une voix sourde, ignore un CV portant la mention RQTH ou produit un site inaccessible, elle ne fait souvent que reproduire les angles morts de la société. Pour devenir inclusive, elle doit d'abord apprendre à voir ce qu'elle ne voit pas. Portrait-robot d’une IA (vraiment) pour toutes et tous, commenté par Emmanuelle Aboaf, développeuse sourde de naissance, spécialisée en accessibilité numérique et Yann Ferguson, sociologue et directeur scientifique du LaborIA à INRIA",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
+      }
+    },
+    {
       "title": "Samantha Shannon, autrice de fantasy : « Il faut questionner les idées que les mythes et légendes transmettent d'une génération à l'autre »",
       "url": "https://usbeketrica.com/fr/article/samantha-shannon-autrice-de-fantasy-il-faut-questionner-les-idees-que-transmettent-les-mythes-et-legendes",
       "description": "À l’occasion du Festival international du film fantastique de Neuchâtel (NIFFF), qui lui décerne cette année un « prix spécial », la romancière de fantasy Samantha Shannon (The Bone Season, Le Prieuré de l’Oranger…) nous plonge dans les coulisses de son œuvre.",
@@ -132,18 +148,18 @@
       }
     },
     {
-      "title": "Archéologie : l’IA peut-elle vraiment retracer le passé ?",
-      "url": "https://usbeketrica.com/fr/article/archeologie-l-ia-peut-elle-vraiment-retracer-le-passe",
-      "description": "Faire renaître des papyrus antiques de leurs cendres : c’est la promesse faite par l’IA à l’humanité. Si elle semble en voie d’être tenue à Herculanum, bien d’autres intelligences nourries au « deep learning » aident les chercheurs à combler les lacunes du passé. Mais les outils ont beau se multiplier, les incertitudes quant aux résultats fournis, eux, demeurent.",
-      "date": "Fri, 17 Jul 2026",
+      "title": "Solitude : et si les médecins prescrivaient du temps social ?",
+      "url": "https://usbeketrica.com/fr/article/solitude-et-si-les-medecins-prescrivaient-du-temps-social",
+      "description": "Suède, Portugal, Japon… une poignée de pays ont mis en place des politiques publiques consacrées spécifiquement à l’endiguement de la solitude. Des mesures qu'on recense dans le numéro 49 de notre magazine consacré à l'épidémie de solitude (automne 2025), toujours disponible en librairie. Parmi elles, figure la prescription du temps social établie au Royaume-Uni.",
+      "date": "Wed, 22 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
         "total": 10
       }
     },
@@ -164,35 +180,35 @@
       }
     },
     {
-      "title": "« Arco », « Patéma »… 5 films d'animation pour rêver d'un monde meilleur",
-      "url": "https://usbeketrica.com/fr/article/arco-patema-robot-sauvage-5-films-d-animation-pour-rever-d-un-monde-meilleur",
-      "description": "Alors que les vacances scolaires démarrent ce samedi 4 juillet, la rédaction d’Usbek & Rica a sélectionné 5 films d’animation inspirants, à voir en famille ou entre amis pour continuer de croire en un monde meilleur. À (re)découvrir sans modération durant tout l’été.",
-      "date": "Fri, 03 Jul 2026",
+      "title": "3 œuvres de SF pour regarder le monde et en rire",
+      "url": "https://usbeketrica.com/fr/article/trois-oeuvres-de-sf-pour-regarder-le-monde-et-en-rire",
+      "description": "Cet été, la rédaction d'Usbek & Rica vous recommande la lecture de trois romans où le rire est à l'honneur.",
+      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 9
+        "total": 4
       }
     },
     {
-      "title": "« Solopreneurs » : en Chine, l'IA fait exploser le micro-entrepreneuriat",
-      "url": "https://usbeketrica.com/fr/article/solopreneurs-en-chine-l-ia-fait-exploser-le-micro-entrepreneuriat",
-      "description": "L'auto-entrepreneuriat a la côte en Chine. Secondés par moultes outils d'intelligence artificielle, des « solopreneurs » lancent leur propre entreprise à moindre frais et sans aucun employé. Une tendance qui cache une crainte, désormais massive, de devenir osbolète face à l'automatisation du travail.",
-      "date": "Wed, 01 Jul 2026",
+      "title": "« Gorgona », un film post-apo bancal mais bizarrement séduisant",
+      "url": "https://usbeketrica.com/fr/article/gorgona-un-post-apo-bancal-mais-bizarrement-seduisant",
+      "description": "Dans un futur post-apocalyptique, deux femmes se rebellent contre leur cité-État patriarcale oppressive et polluée. Avec Gorgona, la cinéaste grecque Evi Kalogiropoulou signe un manifeste féministe déroutant, à la fois bancal et séduisant. En salles ce mercredi 22 juillet.",
+      "date": "Tue, 21 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/5-romans-pour-plonger-dans-le-futur-cet-ete",
       "description": "Vous ne savez pas encore quels romans embarquer dans vos valises cet été ? On vous en conseille cinq dévorés récemment - et qui parlent du futur, évidemment.",
       "date": "Fri, 10 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "S. S. Rajamouli, maître du cinéma d'action indien : « Il faut que l’expérience de la salle redevienne spéciale »",
-      "url": "https://usbeketrica.com/fr/article/s-s-rajamouli-maitre-du-cinema-d-action-indien-il-faut-que-l-experience-de-la-salle-redevienne-speciale",
-      "description": "Rencontre avec le réalisateur star S. S. Rajamouli, maître du cinéma d’action indien (Magadheera, La Légende de Baahubali, RRR…), de passage à Paris à l’occasion d’une tournée organisée par son distributeur français Carlotta Films.",
-      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

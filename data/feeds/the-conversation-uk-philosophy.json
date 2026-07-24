@@ -1,8 +1,24 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-07-19T18:08:03.809180+00:00",
+  "fetchedAt": "2026-07-24T06:21:18.991693+00:00",
   "items": [
+    {
+      "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
+      "url": "https://theconversation.com/thinking-about-life-inside-how-performance-is-creating-space-for-a-discussion-of-crime-and-punishment-282985",
+      "description": "",
+      "date": "2026-07-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Why corporate inclusion policies are moral decisions, not just business ones",
       "url": "https://theconversation.com/why-corporate-inclusion-policies-are-moral-decisions-not-just-business-ones-279160",
@@ -216,22 +232,6 @@
       "url": "https://theconversation.com/friday-essay-cultural-marxism-is-a-conspiracy-theory-for-our-time-277489",
       "description": "",
       "date": "2026-07-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AI chatbots can prioritize flattery over facts – and that carries serious risks",
-      "url": "https://theconversation.com/ai-chatbots-can-prioritize-flattery-over-facts-and-that-carries-serious-risks-274298",
-      "description": "",
-      "date": "2026-05-01",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

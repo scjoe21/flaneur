@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-07-19T18:08:01.532526+00:00",
+  "fetchedAt": "2026-07-24T06:21:15.146373+00:00",
   "items": [
     {
       "title": "250 Jahre USA (2/4) - Wie US-Kultur die Welt eroberte",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "CO2 in der Atmosphäre - Das Rätsel um den Messwert",
-      "url": "https://www.deutschlandfunkkultur.de/co2-in-der-atmosphaere-der-krimi-um-einen-messwert-100.html",
-      "description": "Die Kohlendioxid-Konzentration ist zuletzt so stark gestiegen wie nie zuvor: 2024 lag sie auf einem Niveau wie zuletzt vor zwei Millionen Jahren. Doch die fossilen Emissionen allein können den Anstieg nicht erklären. Lemmerich, Philipp www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 23 Jun 2026",
+      "title": "Doping im Hobbysport - Wenn die Jagd nach dem perfekten Körper zur Sucht wird",
+      "url": "https://www.deutschlandfunkkultur.de/doping-fitness-gesundheitsrisiko-100.html",
+      "description": "Jeder fünfte Nutzer von Fitnessstudios hat schon einmal gedopt. Aber es gibt Risiken: Die Libido kann verloren gehen, die Haut sich verändern. Auch Gepanschtes ist im Umlauf. In der Schweiz gibt es eine Anlaufstelle für Abhängige. (Erstsendung am 30.05.2024) Carolin Riethmüller www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
         "daily": 20,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (1/4) - Eine Ideologie überlebt ihre Niederlage",
       "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-rechte-intellektuelle-der-bundesrepublik-1-4-100.html",
-      "description": "Nach Ende des Zweiten Weltkriegs mussten sich rechte Netzwerke neu organisieren. Sie konnten sich nicht mehr offen auf den besiegten Nationalsozialismus berufen, suchten aber Wege, ihre Ideologie in die junge Bundesrepublik zu retten. (Wdh. vom 10.09.25) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature Hören bis: 15. Juli 2028, 19:30",
+      "description": "Nach Ende des Zweiten Weltkriegs mussten sich rechte Netzwerke neu organisieren. Sie konnten sich nicht mehr offen auf den besiegten Nationalsozialismus berufen, suchten aber Wege, ihre Ideologie in die junge Bundesrepublik zu retten. (Erstsendung am 10.09.25) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature Hören bis: 15. Juli 2028, 19:30",
       "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -116,19 +116,35 @@
       }
     },
     {
-      "title": "Adorno vs. Pütz - Dialektik im Hobbykeller",
-      "url": "https://www.deutschlandfunkkultur.de/treffen-sich-jean-puetz-und-theodor-adorno-dialektik-im-hobbykeller-100.html",
-      "description": "Hobbys machen glücklicher und häufig klüger. Das zeigte jahrelang auch die „Hobbythek“, die Kultsendung mit Jean Pütz. Für Theodor Adorno dagegen waren Hobbys eine Form der Kulturindustrie, die er ablehnte. Kommerz oder Kreativität? Eine Spurensuche. Stucke, Julius www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 22 Jun 2026",
+      "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (2/4) - Lernen vom Gegner",
+      "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-rechte-intellektuelle-der-bundesrepublik-2-4-100.html",
+      "description": "1968 bedeutete auch für rechte Denker eine Zäsur: Einer welthistorischen Liberalisierung hatten sie nichts entgegenzusetzen. Also versuchten sie, den Geist der 68er für ihre Zwecke zu nutzen. (Erstsendung am 17.09.2025) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 22 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
+      }
+    },
+    {
+      "title": "Palliative Geburt - Schwanger, um Abschied zu nehmen",
+      "url": "https://www.deutschlandfunkkultur.de/solange-das-herz-schlaegt-spaetabbruch-fetozid-und-palliative-geburt-100.html",
+      "description": "Statt die Schwangerschaft nach einer schweren pränatalen Diagnose abzubrechen, können Frauen ihr Baby auch palliativ zur Welt bringen. Eltern, die das erlebt haben, berichten von einem wertvollen Abschied, der so sonst nicht möglich gewesen wäre. Müller-Frank, Stefanie www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 20 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -212,35 +228,19 @@
       }
     },
     {
-      "title": "Anarchie - Die lange Geschichte einer politischen Utopie",
-      "url": "https://www.deutschlandfunkkultur.de/wer-ist-heute-noch-anarchist-100.html",
-      "description": "Freiheit ohne Staat, Herrschaft und Zwang: Die Ideen des Anarchisten Michail Bakunin faszinieren und provozieren bis heute. Viele verbinden Anarchismus mit Chaos und Gewalt. Tatsächlich entstand er als ernsthafte politische Alternative. Heinemann, Mirko www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 24 Jun 2026",
+      "title": "Migration - Freiwillige Rückkehr von Syrern als Angebot",
+      "url": "https://www.deutschlandfunkkultur.de/freiwillige-rueckkehr-von-syrern-sinnvolles-instrument-der-migrationssteuerung-100.html",
+      "description": "Mehr als 1,5 Millionen Syrer sind seit dem Machtwechsel 2024 in ihre Heimat zurückgekehrt. Deutschland verließen bisher nur wenige Tausend. Die Bundesregierung will das ändern: Sie setzt verstärkt auf freiwillige Ausreise und übernimmt Reisekosten. Börner, Moritz www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 21 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Krankheitserreger - Wenn Schimmelpilze töten",
-      "url": "https://www.deutschlandfunkkultur.de/pilze-als-krankheitserreger-100.html",
-      "description": "Für Menschen mit geschwächtem Immunsystem können bestimmte Schimmelpilze lebensbedrohlich werden. Die besonders gefährliche Mukormykose forderte während der zweiten Covid-Welle in Indien Tausende Opfer. Welche Lehren ziehen Forschende heute daraus? Kupferschmidt, Kai; Salm-Reifferscheidt, Laura www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     }
   ]

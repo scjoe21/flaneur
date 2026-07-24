@@ -1,38 +1,38 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-19T18:07:58.111829+00:00",
+  "fetchedAt": "2026-07-24T06:21:09.194379+00:00",
   "items": [
     {
-      "title": "How to Get Love Less Wrong: George Saunders on Breaking the Patterns that Break Our Hearts",
-      "url": "https://www.themarginalian.org/2026/07/14/love-chekhov-the-darling-saunders/",
-      "description": "\"We want to believe that love is singular and exclusive, and it unnerves us to think that it might actually be renewable...\"",
-      "date": "Wed, 15 Jul 2026",
+      "title": "How Not to Waste Your Life",
+      "url": "https://www.themarginalian.org/2026/07/21/hawthorne-life/",
+      "description": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of planetary motion; not realizing that the measure of an unwasted life is not what outlives it but how it was lived — how much integrity and authenticity and creative vitality filled these numbered days, these unrepeatable hours. Most of us will not leave behind a re",
+      "date": "Tue, 21 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 29,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 35
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
-      "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
-      "url": "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/",
-      "description": "Few things in life are more exasperating than seeing the potential in someone you love and seeing them continually fall short of it, stumbling again and again over the same self-erected roadblocks of character and conduct, comporting themselves in a manner painfully inferior to what you know them to be capable of. What to do? The problem of whether and how people change is the eternal problem of being alive. Changing our own ways of being is difficult enough, prey enough to paradox and peril; ch",
-      "date": "Tue, 14 Jul 2026",
+      "title": "Sleep and the Meaning of Life: Fernando Pessoa on the Existential Dimension of the Horizontal Hours",
+      "url": "https://www.themarginalian.org/2026/07/20/fernando-pessoa-sleep/",
+      "description": "One of the most important things I have learned about living is that, in any life of purpose and creative vitality, you must be as religious and disciplined about your sleep as about your work. And yet one of the great self-betrayals of our culture is the way it wears the lack of sleep as a badge of honor on the lapel of the ego of achievement — the cult of productivity gone past the sacrifice of presence, sacrificing even that precious nightly absence of conscious thought and metabolic urgency ",
+      "date": "Mon, 20 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
         "daily": 20,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 30
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "How to Love the World More: George Saunders on the Courage of Uncertainty",
+      "url": "https://www.themarginalian.org/2026/07/20/george-saunders-uncertainty/",
+      "description": "\"In a world full of people who seem to know everything, passionately, based on little (often slanted) information, where certainty is often mistaken for power, what a relief it is to be in the company of someone confident enough to stay unsure (that is, perpetually curious).\"",
+      "date": "Mon, 20 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "How to Love: Legendary Zen Buddhist Teacher Thich Nhat Hanh on Mastering the Art of “Interbeing”",
       "url": "https://www.themarginalian.org/2026/07/17/how-to-love-thich-nhat-hanh/",
       "description": "\"To love without knowing how to love wounds the person we love.\"",
@@ -68,19 +84,51 @@
       }
     },
     {
-      "title": "How to Grow Old: Bertrand Russell on What Makes a Fulfilling Life",
-      "url": "https://www.themarginalian.org/2026/07/13/how-to-grow-old-bertrand-russell/",
-      "description": "\"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.\"",
-      "date": "Mon, 13 Jul 2026",
+      "title": "Carl Jung on Creativity",
+      "url": "https://www.themarginalian.org/2026/07/22/carl-jung-creativity/",
+      "description": "The question of what it takes to create — to make something of beauty and substance that touches other lives across space and time — is one of the deepest, oldest questions, perhaps because the answer to it is so unbearably simple: everything. We bring everything we are and everything we have lived to every smallest creative act — every experience, every dream, every memory, every unremembered impression, every unconsciously absorbed influence. The great bewilderment is that we can only access a",
+      "date": "Wed, 22 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 19
+      }
+    },
+    {
+      "title": "How to Keep Life from Becoming a Parody of Itself: Simone de Beauvoir on the Art of Growing Older",
+      "url": "https://www.themarginalian.org/2026/07/22/simone-de-beauvoir-coming-of-age/",
+      "description": "\"In old age we should wish still to have passions strong enough to prevent us turning in on ourselves.\"",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
+      }
+    },
+    {
+      "title": "G.K. Chesterton on the Dandelion and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/07/21/g-k-chesterton-dandelion/",
+      "description": "Recovering the \"forgotten blaze or burst of astonishment at our own existence\" alive in the back of our modernity-deadened minds.",
+      "date": "Tue, 21 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
       }
     },
     {
@@ -132,19 +180,35 @@
       }
     },
     {
-      "title": "How to Spot and How to Stop a Liar: Hannah Arendt on Deception, Self-Deception, and the Psychology of Defactualization",
-      "url": "https://www.themarginalian.org/2026/07/13/lying-in-politics-hannah-arendt/",
-      "description": "\"No matter how large the tissue of falsehood that an experienced liar has to offer, it will never be large enough ... to cover the immensity of factuality.\"",
-      "date": "Mon, 13 Jul 2026",
+      "title": "Epictetus on Love and Loss: The Stoic Strategy for Surviving Heartbreak",
+      "url": "https://www.themarginalian.org/2026/07/20/epictetus-love-loss/",
+      "description": "\"Who is good if he knows not who he is? and who knows what he is, if he forgets that things which have been made are perishable, and that it is not possible for one human being to be with another always?\"",
+      "date": "Mon, 20 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
+      }
+    },
+    {
+      "title": "From Mitochondria to Minds: The Illustrated Science of the Psychedelic Dream Called Life",
+      "url": "https://www.themarginalian.org/2026/07/19/the-forgotten-teachers/",
+      "description": "Like consciousness, like music, like love, life itself didn’t have to exist — nothing in the fundamental laws demands it. The universe could have gone on lapping at itself as a horizonless sea of pure spacetime, black and lifeless as the inside of a skull. But, in a whisper that soon became a symphony, life arose to give us such ceaseless wonders as the ghost pipe and the ginkgo, the bowerbird and the eye of the scallop. Neuroscientist Brian Isett and artist Claudia Biçen celebrate the wonder of",
+      "date": "Sun, 19 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -164,83 +228,19 @@
       }
     },
     {
-      "title": "The Four Buddhist Mantras for Turning Fear into Love",
-      "url": "https://www.themarginalian.org/2026/07/15/thich-nhat-hanh-fear-love/",
-      "description": "\"When you love someone, the best thing you can offer that person is your presence.\"",
-      "date": "Wed, 15 Jul 2026",
+      "title": "Notes on Complexity: A Buddhist Scientist on the Murmuration of Being",
+      "url": "https://www.themarginalian.org/2026/07/19/notes-on-complexity-neil-theise/",
+      "description": "\"You are this body, and you are these molecules, and you are these atoms, and you are these quantum entities, and you are the quantum foam, and you are the energetic field of space-time, and, ultimately, you are the fundamental awareness out of which all these emerge.\"",
+      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "The Art of the Sacred Pause and Despair as a Catalyst of Regeneration",
-      "url": "https://www.themarginalian.org/2026/07/17/marett-humility/",
-      "description": "Just as there are transitional times in the life of the world — dark periods of disorientation between two world systems, periods in which humanity loses the ability to comprehend itself and collapses into chaos in order to rebuild itself around a new organizing principle — there are such times in every human life, times when the entire system seems to cave in and curl up into a catatonia of anguish and confusion, difficult yet necessary for our growth. In such times, the most courageous thing w",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "De Profundis: Patti Smith Reads Oscar Wilde’s Stirring Letter on Suffering and Transcendence, Penned in Prison",
-      "url": "https://www.themarginalian.org/2026/07/17/patti-smith-reads-oscar-wilde-de-profundis/",
-      "description": "\"I have got to make everything that has happened to me good for me... There is not a single degradation of the body which I must not try and make into a spiritualising of the soul.\"",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Fernando Pessoa on Unselfing into Who You Really Are",
-      "url": "https://www.themarginalian.org/2026/07/14/fernando-pessoa-disquiet-self/",
-      "description": "“To be nobody-but-yourself — in a world which is doing its best, night and day, to make you everybody else — means to fight the hardest battle which any human being can fight,” E. E. Cummings wrote in his timeless summons for the courage to be yourself. But what does it really mean to be oneself when the self is an ever-moving target of ever-changing sentiments and cells, a figment of fixity to dam the fluidity that carries us along the river of life, to soften the hard fact that we never fully ",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "Diseases of the Will: Neuroscience Founding Father Santiago Ramón y Cajal on the Six Psychological Flaws That Keep the Gifted from Living Up to Their Gift",
-      "url": "https://www.themarginalian.org/2026/07/15/diseases-of-the-will-cajal-advice-for-a-young-investigator/",
-      "description": "\"Our neurons must be used ... not only to know but also to transform knowledge; not only to experience but also to construct.\"",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

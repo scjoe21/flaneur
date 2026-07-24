@@ -1,7 +1,7 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-07-19T18:06:13.878324+00:00",
+  "fetchedAt": "2026-07-24T06:20:56.178698+00:00",
   "items": [
     {
       "title": "Risalire la piattaforma",
@@ -17,22 +17,6 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 34
-      }
-    },
-    {
-      "title": "Un po’ d’amicizia, altrimenti soffoco",
-      "url": "https://www.iltascabile.com/societa/amicizia-soffoco/",
-      "description": "Tra esperienza generazionale e genealogie queer, l’amicizia come fondamento di comunità, cura reciproca e alternativa alla famiglia normativa. \n L'articolo  Un po’ d’amicizia, altrimenti soffoco  proviene da  Il Tascabile .",
-      "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
       }
     },
     {
@@ -52,19 +36,19 @@
       }
     },
     {
-      "title": "Una nuova primavera",
-      "url": "https://www.iltascabile.com/linguaggi/nuova-primavera/",
-      "description": "Mentre i Mondiali 2026 sanciscono la fine delle lusinghe inclusive del capitalismo, Gabriel Kuhn ci mostra come il calcio underground possa ancora inventare nuove primavere. \n L'articolo  Una nuova primavera  proviene da  Il Tascabile .",
-      "date": "Thu, 09 Jul 2026",
+      "title": "L’esperimento Wonka",
+      "url": "https://www.iltascabile.com/linguaggi/lesperimento-wonka/",
+      "description": "Viaggio nella zona grigia del classico del 1971, in bilico tra favola morale e incubo allegorico, dove le fantasie dell’infanzia incontrano le nostre ossessioni collettive. \n L'articolo  L’esperimento Wonka  proviene da  Il Tascabile .",
+      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -84,19 +68,67 @@
       }
     },
     {
-      "title": "Città morte di Mike Davis",
-      "url": "https://www.iltascabile.com/recensioni/citta-morte-mike-davis/",
-      "description": "L'articolo  Città morte di Mike Davis  proviene da  Il Tascabile .",
-      "date": "Fri, 10 Jul 2026",
+      "title": "Nel regno del gioco di David Toomey",
+      "url": "https://www.iltascabile.com/recensioni/regno-gioco-david-toomey/",
+      "description": "L'articolo  Nel regno del gioco di David Toomey  proviene da  Il Tascabile .",
+      "date": "Fri, 24 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "Nella tenebra del presente",
+      "url": "https://www.iltascabile.com/letterature/tenebra-presente/",
+      "description": "Dalle origini cibernetiche di Materialismo gotico al comunismo acido di Mark Fisher: un pensiero oltre il vitalismo oscuro del capitalismo per risvegliare il desiderio collettivo. \n L'articolo  Nella tenebra del presente  proviene da  Il Tascabile .",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Far fiorire il deserto è far sparire il deserto",
+      "url": "https://www.iltascabile.com/societa/fiorire-deserto-sparire-deserto/",
+      "description": "La ricerca di un’infanzia del mondo in  Sopralluoghi in Palestina  di Pier Paolo Pasolini. \n L'articolo  Far fiorire il deserto è far sparire il deserto  proviene da  Il Tascabile .",
+      "date": "Tue, 21 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Fabbricare la pioggia",
+      "url": "https://www.iltascabile.com/scienze/fabbricare-pioggia/",
+      "description": "Le tecniche per stimolare artificialmente le precipitazioni esistono da decenni, ma la loro efficacia è difficile da misurare. Riti, scienza e teorie del complotto attorno alla modificazione del tempo atmosferico. \n L'articolo  Fabbricare la pioggia  proviene da  Il Tascabile .",
+      "date": "Mon, 20 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/letterature/lectura-maris/",
       "description": "Cercando di inquadrare l’opera. \n L'articolo  Lectura Maris  proviene da  Il Tascabile .",
       "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Tutto testa e niente mani",
-      "url": "https://www.iltascabile.com/letterature/tutto-testa-niente-mani/",
-      "description": "Lingua materiale e diserzione ideologica nella  Strana categoria  bordiniana. \n L'articolo  Tutto testa e niente mani  proviene da  Il Tascabile .",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Seveso, l’apocalisse in due tempi",
-      "url": "https://www.iltascabile.com/scienze/seveso-apocalisse-due-tempi/",
-      "description": "Sono passati 50 anni dal peggior disastro ecologico italiano. La storia del monitoraggio decennale che ha dato al mondo i primi dati mai raccolti sulla tossicità umana della diossina, e del medico che lo rese possibile. \n L'articolo  Seveso, l’apocalisse in due tempi  proviene da  Il Tascabile .",
-      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

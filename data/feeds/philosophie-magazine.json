@@ -1,54 +1,38 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-19T18:06:06.447027+00:00",
+  "fetchedAt": "2026-07-24T06:20:42.507825+00:00",
   "items": [
     {
-      "title": "L’aide à mourir (enfin) votée : partir, oui mais comment ?",
-      "url": "https://www.philomag.com/articles/laide-mourir-enfin-votee-partir-oui-mais-comment",
+      "title": "Le “J-space” de Claude ou comment l’IA se met à ressembler à la conscience",
+      "url": "https://www.philomag.com/articles/le-j-space-de-claude-ou-comment-lia-se-met-ressembler-la-conscience",
       "description": "",
-      "date": "Fri, 17 Jul 2026",
+      "date": "Wed, 22 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
-      "title": "“Avec l’Odyssée, Homère raconte comment on quitte l’âge des héros” : entretien avec Pierre Judet de La Combe",
-      "url": "https://www.philomag.com/articles/avec-lodyssee-homere-raconte-comment-quitte-lage-des-heros-entretien-avec-pierre-judet",
+      "title": "La plasticienne Laure Prouvost répond à notre “Questionnaire de Socrate”",
+      "url": "https://www.philomag.com/articles/la-plasticienne-laure-prouvost-repond-notre-questionnaire-de-socrate",
       "description": "",
-      "date": "Thu, 16 Jul 2026",
+      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "“L’Odyssée, un voyage vers soi-même”, le nouveau hors-série de “Philosophie magazine” sort ce mercredi !",
-      "url": "https://www.philomag.com/articles/lodyssee-un-voyage-vers-soi-meme-le-nouveau-hors-serie-de-philosophie-magazine-sort-ce",
-      "description": "",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -65,6 +49,118 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Les nouveaux empires, l’Europe, l’IA… Comprendre notre nouveau monde avec Peter Sloterdijk",
+      "url": "https://www.philomag.com/articles/les-nouveaux-empires-leurope-lia-comprendre-notre-nouveau-monde-avec-peter-sloterdijk",
+      "description": "",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Tabou, secret, pulsionnel ? Les idées reçues sur l’inceste qui empêchent de lutter efficacement contre le phénomène",
+      "url": "https://www.philomag.com/articles/tabou-secret-pulsionnel-les-idees-recues-sur-linceste-qui-empechent-de-lutter",
+      "description": "",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ara, jaguar, serpent corail… À la découverte de l'élégance animale avec le philosophe Bertrand Prévost",
+      "url": "https://www.philomag.com/articles/ara-jaguar-serpent-corail-la-decouverte-de-lelegance-animale-avec-le-philosophe-bertrand",
+      "description": "",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La beauté de Fontainebleau",
+      "url": "https://www.philomag.com/articles/la-beaute-de-fontainebleau",
+      "description": "",
+      "date": "Tue, 21 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ulysse “ballotté entre l’attraction de l’ici et celle de l’ailleurs” : entretien avec Heinz Wismann",
+      "url": "https://www.philomag.com/articles/ulysse-ballotte-entre-lattraction-de-lici-et-celle-de-lailleurs-entretien-avec-heinz",
+      "description": "",
+      "date": "Tue, 21 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Martin Ajdari, président de l’Arcom : “Définir le pluralisme relève d’un débat philosophique”",
+      "url": "https://www.philomag.com/articles/martin-ajdari-president-de-larcom-definir-le-pluralisme-releve-dun-debat-philosophique",
+      "description": "",
+      "date": "Mon, 20 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Les Animaux et nous” de Catalin Pavel : nos civilisations sentent le bestiaire",
+      "url": "https://www.philomag.com/articles/les-animaux-et-nous-de-catalin-pavel-nos-civilisations-sentent-le-bestiaire",
+      "description": "",
+      "date": "Mon, 20 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,102 +232,6 @@
       "url": "https://www.philomag.com/articles/camille-vivier-la-mep-malaise-dans-le-culturisme",
       "description": "",
       "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La “cellule patate” : un pas vers la vie artificielle ?",
-      "url": "https://www.philomag.com/articles/la-cellule-patate-un-pas-vers-la-vie-artificielle",
-      "description": "",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Éprouver le “sentiment océanique” à la plage avec la philosophe Laurence Devillairs",
-      "url": "https://www.philomag.com/articles/eprouver-le-sentiment-oceanique-la-plage-avec-la-philosophe-laurence-devillairs",
-      "description": "",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le “calcul félicifique” chez Bentham, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/le-calcul-felicifique-chez-bentham-cest-quoi",
-      "description": "",
-      "date": "Thu, 16 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“L’Odyssée” de Christopher Nolan, miroir de notre siècle ?",
-      "url": "https://www.philomag.com/articles/lodyssee-de-christopher-nolan-miroir-de-notre-siecle",
-      "description": "",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ulysse, immortel malgré lui ! L’édito de Sven Ortoli",
-      "url": "https://www.philomag.com/articles/ulysse-immortel-malgre-lui-ledito-de-sven-ortoli",
-      "description": "",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La fin de la lecture ?",
-      "url": "https://www.philomag.com/articles/la-fin-de-la-lecture",
-      "description": "",
-      "date": "Tue, 14 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

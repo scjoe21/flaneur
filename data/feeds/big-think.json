@@ -1,126 +1,142 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-19T18:07:56.896209+00:00",
+  "fetchedAt": "2026-07-24T06:21:07.832459+00:00",
   "items": [
     {
-      "title": "A philosopher’s guide to thinking for yourself in an age built to think for you",
-      "url": "https://bigthink.com/series/full-interview/philosophy-of-stupidity/",
-      "description": "Philosopher Jonny Thomson walks through Dietrich Bonhoeffer’s 3 conditions for the kind of stupidity that destroys societies: outsourcing your thinking to an authority, willful ignorance, and conformity.  \n He shows how each one shows up today, from AI answering our moral questions to political parties enforcing loyalty over conviction. \n \n This video  A philosopher’s guide to thinking for yourself in an age built to think for you  is featured on  Big Think .",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-16-at-11.42.39-AM.png?quality=80&w=640",
+      "title": "Physician: The outdated mindset that gets in the way of our healing",
+      "url": "https://bigthink.com/series/full-interview/body-intelligence-enders/",
+      "description": "Physician Giulia Enders spent years studying the gut before realizing no organ works alone. Here, she walks through 5 body parts — the lung, the immune system, the skin, the muscles, and the brain — and what each one reveals about how we work, heal, and recover. \n This video  Physician: The outdated mindset that gets in the way of our healing  is featured on  Big Think .",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/Screenshot-2026-07-22-at-12.10.27-PM.png?quality=80&w=640",
       "videoId": "",
-      "priority": 49,
+      "priority": 44,
       "scoreDetail": {
         "daily": 30,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 4,
         "novelty": 0,
-        "total": 49
+        "total": 44
       }
     },
     {
-      "title": "The psychology of morality, perversion, and revenge, in 67 minutes",
-      "url": "https://bigthink.com/series/full-interview/the-psychology-of-revenge/",
-      "description": "Psychologist Paul Bloom has spent his career studying the parts of human nature we often feel uncomfortable examining: why loneliness feels like starvation, why people are drawn to behaving poorly, why revenge feels righteous until it destroys everything. \n Bloom argues that the US doesn’t actually have a loneliness epidemic, it has a solitude epidemic, one being accelerated by AI companionship. \n \n This video  The psychology of morality, perversion, and revenge, in 67 minutes  is featured on  B",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/D1-Web-Bloom-1.jpg?quality=85&w=640",
+      "title": "The psychology of revenge, in 19 minutes",
+      "url": "https://bigthink.com/series/the-big-think-interview/psychology-of-revenge/",
+      "description": "Psychologist Paul Bloom explains why morality, the thing that makes cooperation and trust possible, is also what drives cruelty, cycles of revenge, and wars where both sides believe they’re the moral ones. \n This video  The psychology of revenge, in 19 minutes  is featured on  Big Think .",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/B1-Web-Bloom.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 45,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 45
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
       }
     },
     {
-      "title": "Who pays the cost when Americans opt out of science?",
-      "url": "https://bigthink.com/13-8/who-pays-the-cost-when-americans-opt-out-of-science/",
-      "description": "I had thought science denial would hit a bottom — that once people began to experience the direct consequences of being wrong, of holding fast to beliefs that were demonstrably at odds with well-established science, they would drop those beliefs. It turns out I was wrong.  \n As a research scientist who’s also dedicated many years to science communication, coming to grips with this truth has been hard. It leaves us all facing difficult questions about how science and society can — or cannot — co-",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/war-on-science_compressed_6038bc.jpg?quality=85&w=640",
+      "title": "How Ice-T evolved out of ‘survival mode’",
+      "url": "https://bigthink.com/perception-box/how-ice-t-evolved-out-of-survival-mode/",
+      "description": "From writing ‘Cop Killer’ to playing a cop on  SVU , ICE-T is no stranger to personal evolution. After losing both parents by seventh grade, he was sent to Los Angeles, where he learned to survive without a family. Here, he hustled for money and respect until rap gave him another route. \n Eventually, acting opened another path, forcing him to step outside the persona he built to protect himself. Now, in his late 60s, he understands that the chaos of his early life existed to propel him forward, ",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/TMIUTB-Ice-T-Web-B.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
+    {
+      "title": "How the wrong kind of nostalgia can endanger a society",
+      "url": "https://bigthink.com/mini-philosophy/how-the-wrong-kind-of-nostalgia-can-endanger-a-society/",
+      "description": "If you spend any time on the artsy and philosophical side of social media (of which I am a proud denizen), you will eventually stumble upon some nostalgia-made-cool. I am as guilty as the rest. \n Because English has only a few words for nostalgia-adjacent emotions — like heartache, homesickness, or sorrow — English speakers tend to grasp thirstily for what other languages have to say. And other languages certainly seem to have richer accounts of a complex emotion. \n In Portuguese, you have “ sau",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/nostalgia-danger-society_compressed.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
+        "daily": 25,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
       }
     },
     {
-      "title": "A brief reminder of the folly of war (Korea edition)",
-      "url": "https://bigthink.com/strange-maps/a-brief-reminder-of-the-folly-of-war-korea-edition/",
-      "description": "In case you need a reminder that war is not just evil and destructive, but can also be just plain stupid, study this map. It shows how much territory changed hands after the Korean War, which lasted from 1950 to 1953 and claimed between 2.5 and 4 million lives. \n Result: The border between North and South Korea changed from the straight red line to the squiggly white one. North Korea gained 3,900 km 2  (1,500 sq. mi) in the west, but lost 4,300 km 2  (1,660 sq mi) in the east. That’s a net win f",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/05/Cropped-Koreamap.jpeg?quality=85&w=640",
+      "title": "The value of time off isn’t better productivity — it’s your humanity",
+      "url": "https://bigthink.com/books/big-time-off/",
+      "description": "As humans, we instinctively understand that time has profound worth, regardless of any workplace benefits. This is what sabbatical alumni mean when they ascribe a feeling of humanity to their time off. Unfortunately, the burden of proof for many is to somehow provide an equation of increased productivity. \n While this misses the point of what taking time off is all about, there is a lens from psychology that can help us understand the benefits in more tangible terms: conservation of resources th",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/big-time-off_excerpt.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
-      "title": "Ask Ethan: Does Mars’s gravity prohibit human colonization?",
-      "url": "https://bigthink.com/starts-with-a-bang/mars-gravity-human-colonization/",
-      "description": "For as long as we’ve looked up at the night sky and realized that there were other stars and planets out there beyond our own, they’ve captured our imaginations and made us wonder what was possible. How different or similar are they to Earth? Have any of them ever had life on them, and if so, what is (or was) that life like? Can we travel to those worlds, set foot on them, and engineer a habitat that allows us to survive there? Ideally, it wouldn’t just be for a brief time, but rather could pote",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2013/05/origin-505.jpg?quality=85&w=640",
+      "title": "The goal-setting mistake you don’t know you’re making",
+      "url": "https://bigthink.com/business/the-price-of-becoming/",
+      "description": "I have struggled to set goals for most of my life. I’ve wondered for a while what they actually do for me. When I was younger, my dad had us write down big, ambitious, long-term goals. I still have some of those handwritten notes.  \n Two of them were: \n 1. Earn a college scholarship for academics or athletics. \n 2. After college, get a job that I actually like instead of just worrying about money. \n Both came true. So, here’s a reasonable question: Did they happen because I wrote them down? Or b",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/price-of-becoming_excerpt.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Inside the minds of 5 chilling literary psychopaths",
-      "url": "https://bigthink.com/books/stories-psychopathic-protagonists/",
-      "description": "Literature explores the breadth of human experiences, even those behaviors and thoughts we find abhorrent. Characters who are cruel, malicious, and heartless are typically the villains of the story. They stand in opposition to a protagonist who, while perhaps flawed, is heroic, selfless, and kind — qualities we value and admire. When it comes to spending time with one character type or the other, it’s obvious which one readers prefer.  \n But sometimes, storytellers want to center their tale on t",
-      "date": "Thu, 16 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/psychopaths-novels.gif?w=640",
-      "videoId": "",
-      "priority": 19,
+      "priority": 24,
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
         "flaneur": 4,
-        "novelty": 5,
-        "total": 19
+        "novelty": 10,
+        "total": 24
       }
     },
     {
-      "title": "2 ways to deradicalize someone (and the 1 that works the best)",
-      "url": "https://bigthink.com/mini-philosophy/2-ways-to-deradicalize-someone-and-the-1-that-works-the-best/",
-      "description": "Arguing a point has never changed my mind. As a philosopher, that’s a brazen thing to say. It’s pig-headed, closed-minded, and stubborn. But, it’s also very human. Of course, I’ve changed my  beliefs  over the years. I would have to have been an especially enlightened 10-year-old to have been right about everything from the get-go, talking in Confucian aphorisms over a bowl of cereal. \n What I mean is that I have never changed my mind in the heated throes of a point-scoring debate. I’ve never pa",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/2-ways-deradicalize_compressed.jpg?quality=85&w=640",
+      "title": "Ask Ethan: Should we stop worrying about vacuum decay?",
+      "url": "https://bigthink.com/starts-with-a-bang/worry-vacuum-decay/",
+      "description": "When we gaze out into the abyss of space, it seems like the most peaceful, serene of sights. Night after night, the planets and our Moon migrate predictably — like clockwork — while the stars, the Milky Way, and even extragalactic objects hardly change at all over time. Sure, there are occasional cataclysms, including stars that die and new lights that briefly appear before fading away, as the shining stars burn through their fuel, evolve, and sometimes even interact. But space itself, although ",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/05/crunchy-e1784843310776.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 10,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 20
       }
     },
     {
-      "title": "The physical Universe isn’t made of pure mathematics alone",
-      "url": "https://bigthink.com/starts-with-a-bang/universe-made-pure-mathematics/",
-      "description": "Beyond the limits of the theoretical physics we currently understand, many of the most popular ideas have one thing in common: at their core, they’re mathematical extensions of what we presently know and understand. By adopting a mathematical framework that not only encompasses what we presently understand, but that seeks to explain more things than our currently prevailing theories do, we hope to extend our understanding of the Universe past the current frontiers. We know that our current frame",
-      "date": "Thu, 16 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/02/Volume_dunivers-e1736197799913.png?quality=80&w=640",
+      "title": "4 myths cause us to abandon science. Here’s the path back.",
+      "url": "https://bigthink.com/starts-with-a-bang/4-prominent-myths-science/",
+      "description": "There are a lot of people who think they know what science is, what science tells us, and how to evaluate claims based on their scientific merits. But are their assessments accurate? How do you, yourself, conceive of science? Do you do what most people do, and default to what you learned about science across a variety of classes in school, with a layer of cynicism and skepticism layered atop it? That’s understandable, as many of us remember being taught “facts” in our science classes that later ",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/04/Pulse_Polio_Day_Gwalior_January_2014-e1715800291325.jpeg?quality=85&w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Live with Big Think: Inside “The Opt-Out Nation”",
+      "url": "https://bigthink.com/series/the-big-think-interview/opt-out-nation-live-event/",
+      "description": "Big Think hosted its inaugural live event to bring our summer special issue,  The Opt-Out Nation , to life. Join our candid conversation with the editors and writers behind it, featuring voices from  The New York Times ,  WIRED , and  County Highway . Hosted by Big Think producer and director Dan Hayes. \n \n This video  Live with Big Think: Inside “The Opt-Out Nation”  is featured on  Big Think .",
+      "date": "Thu, 23 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/thumb.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
@@ -132,35 +148,19 @@
       }
     },
     {
-      "title": "The big reason Einstein would never have used AI",
-      "url": "https://bigthink.com/starts-with-a-bang/einstein-ai/",
-      "description": "For today’s students, the temptation to cheat is at an all-time high, with AI tools making it easier than ever. In  one recent class at Brown University , an economics class of 86 students, students scored higher on the (take-home) midterm exam than ever before: with an average score of 96 percent. Only 5 students out of 86 scored below 90 percent on the midterm: in a class where midterm scores had never exceeded 80 percent before. Strongly suspecting cheating, the professor announced that the f",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/12/1_MUYn6wNZgZuaCu2G3pcgFQ-e1723066380603.jpg?quality=85&w=640",
+      "title": "2026’s Perseids, lousy this July, will peak at the perfect time",
+      "url": "https://bigthink.com/starts-with-a-bang/2026-perseids-peak-perfect-time/",
+      "description": "During most times of the year, when you look up at a dark, clear night sky, the stars, planets, and perhaps the Moon shine brightly, along with, if you’re lucky, a view of the plane of the Milky Way. As far as objects moving through the sky go, you’re usually far more likely to see things with artificial lights, like airplanes or satellites, than you are meteors. Across the entire sky, during most times of the year, you’re lucky if you can spot 2 or 3 meteors per hour: caused by random pieces of",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/08/3f59b9f135b64b7caf52aaebe3375771.png?quality=80&w=640",
       "videoId": "",
       "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The harmony Carnie Wilson spent her whole life trying to find",
-      "url": "https://bigthink.com/perception-box/the-harmony-carnie-wilson-spent-her-whole-life-trying-to-find/",
-      "description": "Carnie Wilson — best known as one-third of Wilson Phillips and daughter of Beach Boys founder Brian Wilson — revisits some of the most defining moments of her public and private life. From a childhood spent in the chaos of rock-and-roll royalty, to her rise as one of the best-selling artists of the early 90s, to her very public weight-loss journey and the road to sobriety and motherhood that followed, Carnie shares what she sees when she looks back,  and what it’s taken to finally feel like she ",
-      "date": "Thu, 16 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/TMIUTB-Carnie-Wilson-Web-A.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 0
+        "novelty": 5,
+        "total": 5
       }
     }
   ]
