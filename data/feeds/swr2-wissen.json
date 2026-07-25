@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-24T16:50:24.264608+00:00",
+  "fetchedAt": "2026-07-25T17:27:45.724670+00:00",
   "items": [
     {
       "title": "Vibes – Wann wir uns mit anderen wohlfühlen",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Jugendliche und Sex – Aufklärung im TikTok-Zeitalter",
-      "url": "https://www.swr.de/swrkultur/wissen/jugendliche-und-sex-aufklaerung-im-tiktok-zeitalter-100.html",
-      "description": "Obwohl Jugendliche heute durch Social Media viel über Sex erfahren, hapert es mit ihrem Wissen über Sexualität. Mythen wie das Jungfernhäutchen oder falsche Bezeichnungen von Geschlechtsteilen halten sich. Wie gelingt zeitgemäße Aufklärung?",
-      "date": "Sat, 11 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -177,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Populismus? Faschismus? Politische Begriffe und ihre Grenzen",
+      "url": "https://www.swr.de/swrkultur/wissen/populismus-faschismus-politische-begriffe-und-ihre-grenzen-102.html",
+      "description": "Ist die AfD \"populistisch\"? Ist Trump ein \"Faschist\"? Solche Begriffe helfen einerseits, politische Phänomene einzuordnen. Doch manchmal machen wir es uns damit zu einfach.",
+      "date": "Sun, 26 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

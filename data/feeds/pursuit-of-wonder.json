@@ -1,7 +1,7 @@
 {
   "sourceId": "pursuit-of-wonder",
   "sourceName": "Pursuit of Wonder",
-  "fetchedAt": "2026-07-24T19:58:59.625649+00:00",
+  "fetchedAt": "2026-07-25T17:27:40.500679+00:00",
   "items": [
     {
       "title": "Creativity in the Age of Al Slop - Why I'm No Longer Working Anonymously",
@@ -180,22 +180,6 @@
       }
     },
     {
-      "title": "The One Question That Defines Your Life",
-      "url": "https://www.youtube.com/watch?v=Dz-W5N0sMJ0",
-      "description": "Get the Pursuit of Wonder Guided Journal here: https://pursuitofwonder.kit.com/guidedjournalpursuitofwonder\n\nIn this short fiction story, we join two characters as they contemplate whether a movie is worth watching or not if you know the ending.\n\nFree Pursuit of Wonder Newsletter: https://pursuitofwonder.ck.page/newsletter\nInstagram: https://www.instagram.com/pursuitofwonder\nFacebook: https://www.facebook.com/PursuitOfWonder\n\nCheck out Pursuit of Wonder books here: https://www.amazon.com/stores/",
-      "date": "2026-07-22",
-      "thumbnail": "https://i1.ytimg.com/vi/Dz-W5N0sMJ0/hqdefault.jpg",
-      "videoId": "Dz-W5N0sMJ0",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Everyone Is Quietly Giving Up (And It Makes Sense)",
       "url": "https://www.youtube.com/watch?v=t0FttQ4mhyI",
       "description": "Become knowledgeable on the future of technology through BlueDot Impact's free courses here: https://bluedot.org/pursuitofwonder. Thank you to BlueDot for sponsoring this video.\n\nIn this video, we explore the decline of cursive writing, the rise of AI-generative technologies, and the earliest examples of human expression and communication in history. In a world of rapid change and decreasing need for direct human involvement, what do we teach new humans? What do we preserve for future humans?\n\nG",
@@ -224,6 +208,22 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
+        "total": 10
+      }
+    },
+    {
+      "title": "Yes, You Will Die. But What Happens Next Is Worse. | The Philosophy of Blaise Pascal",
+      "url": "https://www.youtube.com/watch?v=wMwn7_Wscb0",
+      "description": "Get a free 7-day trial of Imprint and 25% off an annual membership using this link: https://imprintapp.com/Pursuit-of-Wonder or scan the QR code. Thank you to Imprint for sponsoring this video.\n\nIn this video, we explore the remarkable life and philosophy of Blaise Pascal. Beginning his life as a prodigy in math and science and then transitioning into an obsession with religion and philosophy, Pascal's life and work are both astounding and historically material. His acclaimed book, Pensées, and ",
+      "date": "2025-12-30",
+      "thumbnail": "https://i4.ytimg.com/vi/wMwn7_Wscb0/hqdefault.jpg",
+      "videoId": "wMwn7_Wscb0",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
         "total": 10
       }
     },

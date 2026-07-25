@@ -1,24 +1,8 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-24T19:58:58.896036+00:00",
+  "fetchedAt": "2026-07-25T17:27:39.627190+00:00",
   "items": [
-    {
-      "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
-      "url": "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/",
-      "description": "Few things in life are more exasperating than seeing the potential in someone you love and seeing them continually fall short of it, stumbling again and again over the same self-erected roadblocks of character and conduct, comporting themselves in a manner painfully inferior to what you know them to be capable of. What to do? The problem of whether and how people change is the eternal problem of being alive. Changing our own ways of being is difficult enough, prey enough to paradox and peril; ch",
-      "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
-      }
-    },
     {
       "title": "How Not to Waste Your Life",
       "url": "https://www.themarginalian.org/2026/07/21/hawthorne-life/",
@@ -68,22 +52,6 @@
       }
     },
     {
-      "title": "How to Love: Legendary Zen Buddhist Teacher Thich Nhat Hanh on Mastering the Art of “Interbeing”",
-      "url": "https://www.themarginalian.org/2026/07/17/how-to-love-thich-nhat-hanh/",
-      "description": "\"To love without knowing how to love wounds the person we love.\"",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Carl Jung on Creativity",
       "url": "https://www.themarginalian.org/2026/07/22/carl-jung-creativity/",
       "description": "The question of what it takes to create — to make something of beauty and substance that touches other lives across space and time — is one of the deepest, oldest questions, perhaps because the answer to it is so unbearably simple: everything. We bring everything we are and everything we have lived to every smallest creative act — every experience, every dream, every memory, every unremembered impression, every unconsciously absorbed influence. The great bewilderment is that we can only access a",
@@ -97,6 +65,22 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 19
+      }
+    },
+    {
+      "title": "How to Stop Waiting and Start Living: A Jolt from Henry James",
+      "url": "https://www.themarginalian.org/2026/07/24/henry-james-the-beast-in-the-jungle/",
+      "description": "\"It wouldn't have been failure to be bankrupt, dishonoured, pilloried, hanged; it was failure not to be anything.\"",
+      "date": "Sat, 25 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -148,19 +132,19 @@
       }
     },
     {
-      "title": "How to Bear Your Sorrows: Nick Cave on Integrating the Darkness of Loss with the Bright Ongoingness of Life",
-      "url": "https://www.themarginalian.org/2026/07/15/nick-cave-loss/",
-      "description": "Few things in our culture are more wounding than the concept of healing — as if the pains and losses that we suffer are an illness, a malfunction of the psyche to be cut out like a tumor, rather than a natural function of being alive, of feeling life deeply and living it fully. All our sorrows have been wasted if we have not learned to suffer and to be surprised by the door at the end of our suffering, on the other wide of which is simply the world, which keeps on worlding. It is not healing tha",
-      "date": "Wed, 15 Jul 2026",
+      "title": "Dr. Jekyll, Mr. Hyde, and Ms. Boodle: Robert Louis Stevenson’s Advice on Writing to a Young Woman Aspiring to Be an Author",
+      "url": "https://www.themarginalian.org/2026/07/24/robert-louis-stevenson-writing/",
+      "description": "In late 1884, Adelaide Boodle — talented, timorous, still in her twenties — received news so thrilling she thought she was dreaming: Her favorite author was moving into the small town on the south coast of England that had always been her home. Having longed to be a writer since childhood, she seized the chance to learn from one of the world’s greatest storytellers. After a decade as a struggling obscure writer, Robert Louis Stevenson (November 13, 1850–December 3, 1894) — brilliant, strange, so",
+      "date": "Fri, 24 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 13,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 8,
         "novelty": 0,
-        "total": 15
+        "total": 13
       }
     },
     {
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Kahlil Gibran on the Art of Becoming Yourself Across the Sweep of Life",
+      "url": "https://www.themarginalian.org/2026/07/24/youth-and-age-kahlil-gibran/",
+      "description": "A roadmap to the fulfilled belonging on the other side of \"the great aloneness which knows not what is far and what is near, nor what is small nor great.\"",
+      "date": "Fri, 24 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {

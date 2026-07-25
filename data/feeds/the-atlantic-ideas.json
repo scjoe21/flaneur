@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-24T19:58:57.673213+00:00",
+  "fetchedAt": "2026-07-25T17:27:38.842790+00:00",
   "items": [
     {
       "title": "The American People Need the Truth About the Iran War",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The Saudis Learn the Truth About Trump",
+      "url": "https://www.theatlantic.com/ideas/2026/07/saudi-arabia-trump-nuclear-deal/688064/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -36,23 +52,23 @@
       }
     },
     {
-      "title": "The True History of New England’s Stone Walls",
-      "url": "https://www.theatlantic.com/ideas/2026/07/second-career-passion-life-meaning/687952/?utm_source=feed",
+      "title": "Public Health Needs MAHA",
+      "url": "https://www.theatlantic.com/ideas/2026/07/public-health-maha-rfk/688014/?utm_source=feed",
       "description": "",
-      "date": "2026-07-19",
+      "date": "2026-07-25",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
-      "title": "Does Iran Have a Plan?",
+      "title": "The U.S. Is Subtly Shifting Its Iran Strategy",
       "url": "https://www.theatlantic.com/ideas/2026/07/war-strategy-shift-isolation/688061/?utm_source=feed",
       "description": "",
       "date": "2026-07-24",
@@ -84,8 +100,8 @@
       }
     },
     {
-      "title": "The New Chilling Effect",
-      "url": "https://www.theatlantic.com/ideas/2026/07/high-school-students-free-speech-protest/688028/?utm_source=feed",
+      "title": "The Other Victims of a Wrongful Conviction",
+      "url": "https://www.theatlantic.com/ideas/2026/07/wrongful-conviction-family/687394/?utm_source=feed",
       "description": "",
       "date": "2026-07-23",
       "thumbnail": "",
@@ -100,8 +116,8 @@
       }
     },
     {
-      "title": "The Other Victims of a Wrongful Conviction",
-      "url": "https://www.theatlantic.com/ideas/2026/07/wrongful-conviction-family/687394/?utm_source=feed",
+      "title": "The New Chilling Effect",
+      "url": "https://www.theatlantic.com/ideas/2026/07/high-school-students-free-speech-protest/688028/?utm_source=feed",
       "description": "",
       "date": "2026-07-23",
       "thumbnail": "",
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/trump-populism-right-wing-critique/687974/?utm_source=feed",
       "description": "",
       "date": "2026-07-19",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Fighter Jets Are Passé",
-      "url": "https://www.theatlantic.com/ideas/2026/07/us-military-tech-drones/687945/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-18",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

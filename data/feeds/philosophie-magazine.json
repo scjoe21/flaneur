@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-24T19:58:27.880685+00:00",
+  "fetchedAt": "2026-07-25T17:25:50.111466+00:00",
   "items": [
     {
       "title": "Le “J-Space” de Claude ou comment l’IA se met à ressembler à la conscience",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Mohenjo-daro : la cité qui met en question le scénario de l’inégalité",
+      "url": "https://www.philomag.com/articles/mohenjo-daro-la-cite-qui-met-en-question-le-scenario-de-linegalite",
+      "description": "",
+      "date": "Sat, 25 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -36,19 +52,19 @@
       }
     },
     {
-      "title": "Interdiction du “gang-bang” : quand le Conseil d’État invoque la “dignité humaine” pour restreindre les libertés",
-      "url": "https://www.philomag.com/articles/interdiction-du-gang-bang-quand-le-conseil-detat-invoque-la-dignite-humaine-pour",
+      "title": "Les grandes étapes du retour d’Ulysse à Ithaque",
+      "url": "https://www.philomag.com/articles/les-grandes-etapes-du-retour-dulysse-ithaque",
       "description": "",
-      "date": "Sat, 18 Jul 2026",
+      "date": "Sat, 25 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Qui sont les classes moyennes ?",
       "url": "https://www.philomag.com/articles/qui-sont-les-classes-moyennes",
-      "description": "",
-      "date": "Sat, 18 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Projet Barthes” à Avignon : sous les signes de Roland Barthes",
-      "url": "https://www.philomag.com/articles/projet-barthes-avignon-sous-les-signes-de-roland-barthes",
       "description": "",
       "date": "Sat, 18 Jul 2026",
       "thumbnail": "",
