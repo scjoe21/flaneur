@@ -1,8 +1,40 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-25T17:27:39.627190+00:00",
+  "fetchedAt": "2026-07-26T18:11:29.084076+00:00",
   "items": [
+    {
+      "title": "How Two Souls Can Interact with One Another: Simone de Beauvoir on Love and Friendship",
+      "url": "https://www.themarginalian.org/2026/07/25/simone-de-beauvoir-love-friendship/",
+      "description": "It is in relationships that we discover both our depths and our limits, there that we anneal ourselves and transcend ourselves, there that we are hurt the most and there that we find the most healing. But despite what a crucible of our emotional and spiritual lives relationships are — or perhaps precisely because of it — they can be riddling and nebulous, destabilizing in their fluidity and ambiguity, leaving us grasping for the comforting solidity of categories and labels. The ancient Greeks, i",
+      "date": "Sat, 25 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 34
+      }
+    },
+    {
+      "title": "How to Live a Miraculous Life",
+      "url": "https://www.themarginalian.org/2026/07/25/brian-doyle-humility-love/",
+      "description": "Suppose we agree that we are here to love anyway — to love even though the work is almost unbearably difficult, even though we know that everything alive is dying, that everything beautiful is perishable, that everything we love will eventually be taken from us by one form of entropy or another, culminating with life itself. Suppose we agree that, as Rilke so passionately insisted, “for one human being to love another… is perhaps the most difficult of all our tasks, the ultimate, the last test a",
+      "date": "Sat, 25 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
     {
       "title": "How Not to Waste Your Life",
       "url": "https://www.themarginalian.org/2026/07/21/hawthorne-life/",
@@ -20,10 +52,10 @@
       }
     },
     {
-      "title": "Sleep and the Meaning of Life: Fernando Pessoa on the Existential Dimension of the Horizontal Hours",
-      "url": "https://www.themarginalian.org/2026/07/20/fernando-pessoa-sleep/",
-      "description": "One of the most important things I have learned about living is that, in any life of purpose and creative vitality, you must be as religious and disciplined about your sleep as about your work. And yet one of the great self-betrayals of our culture is the way it wears the lack of sleep as a badge of honor on the lapel of the ego of achievement — the cult of productivity gone past the sacrifice of presence, sacrificing even that precious nightly absence of conscious thought and metabolic urgency ",
-      "date": "Mon, 20 Jul 2026",
+      "title": "The One Hundred Milliseconds Between the World and You: Oliver Sacks on Perception",
+      "url": "https://www.themarginalian.org/2026/07/25/oliver-sacks-perception/",
+      "description": "“If the doors of perception were cleansed,” William Blake wrote, “everything would appear to man as it is, infinite.” But we are finite creatures, in time and in space, and there is a limit to how much reality we can bear — evolution gave us consciousness so that we may sieve the salient from the infinite, equipped it with attention so that we may narrow the aperture of perception to take in only what is relevant to us from the immense vista of now. The astonishing thing is that even though we a",
+      "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -180,22 +212,6 @@
       }
     },
     {
-      "title": "From Mitochondria to Minds: The Illustrated Science of the Psychedelic Dream Called Life",
-      "url": "https://www.themarginalian.org/2026/07/19/the-forgotten-teachers/",
-      "description": "Like consciousness, like music, like love, life itself didn’t have to exist — nothing in the fundamental laws demands it. The universe could have gone on lapping at itself as a horizonless sea of pure spacetime, black and lifeless as the inside of a skull. But, in a whisper that soon became a symphony, life arose to give us such ceaseless wonders as the ghost pipe and the ginkgo, the bowerbird and the eye of the scallop. Neuroscientist Brian Isett and artist Claudia Biçen celebrate the wonder of",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Kahlil Gibran on the Art of Becoming Yourself Across the Sweep of Life",
       "url": "https://www.themarginalian.org/2026/07/24/youth-and-age-kahlil-gibran/",
       "description": "A roadmap to the fulfilled belonging on the other side of \"the great aloneness which knows not what is far and what is near, nor what is small nor great.\"",
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/07/23/albert-camus-interview-absurd/",
       "description": "\"In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.\"",
       "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Notes on Complexity: A Buddhist Scientist on the Murmuration of Being",
-      "url": "https://www.themarginalian.org/2026/07/19/notes-on-complexity-neil-theise/",
-      "description": "\"You are this body, and you are these molecules, and you are these atoms, and you are these quantum entities, and you are the quantum foam, and you are the energetic field of space-time, and, ultimately, you are the fundamental awareness out of which all these emerge.\"",
-      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-25T17:25:50.111466+00:00",
+  "fetchedAt": "2026-07-26T18:10:31.754182+00:00",
   "items": [
     {
       "title": "Le “J-Space” de Claude ou comment l’IA se met à ressembler à la conscience",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Au fil des œuvres de l’artiste Jeanne Vicerial dans 4 lieux à Aix-en-Provence",
+      "url": "https://www.philomag.com/articles/au-fil-des-oeuvres-de-lartiste-jeanne-vicerial-dans-4-lieux-aix-en-provence",
+      "description": "",
+      "date": "Sun, 26 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/avec-lecrivaine-margaret-atwood-penelope-reprend-la-parole",
       "description": "",
       "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Qui sont les classes moyennes ?",
-      "url": "https://www.philomag.com/articles/qui-sont-les-classes-moyennes",
-      "description": "",
-      "date": "Sat, 18 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-07-25T17:25:49.598957+00:00",
+  "fetchedAt": "2026-07-26T18:10:30.500073+00:00",
   "items": [
     {
       "title": "La mort n’est rien",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "L'entraide, facteur de l'évolution",
-      "url": "https://www.youtube.com/shorts/1vEKhOqEUAo",
-      "description": "Au XIXe siècle, le penseur anarchiste russe Pierre Kropotkine remet en question une idée profondément ancrée dans nos sociétés, celle selon laquelle seuls les plus forts survivent. Dans cette vidéo, je vous explique pourquoi, selon lui, les espèces les plus évoluées ne sont pas celles qui se font la guerre, mais celles qui coopèrent et s'entraident.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #kropotkine #coopération #évolution #anarchisme #solidarité",
-      "date": "2026-06-21",
-      "thumbnail": "https://i2.ytimg.com/vi/1vEKhOqEUAo/hqdefault.jpg",
-      "videoId": "1vEKhOqEUAo",
-      "priority": 40,
+      "title": "Savez-vous qui vous êtes ?",
+      "url": "https://www.youtube.com/shorts/B4iFaVd8asM",
+      "description": "Au XXe siècle, le philosophe britannique Derek Parfit remet profondément en question notre manière de penser l’identité personnelle. Dans cette vidéo, je vous explique pourquoi, selon lui, ce que nous appelons “le moi” n’est peut-être pas une substance fixe mais une continuité fragile de souvenirs, de croyances et de connexions psychologiques.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #derekparfit #identité #moi #conscience #temps #existence",
+      "date": "2026-07-26",
+      "thumbnail": "https://i3.ytimg.com/vi/B4iFaVd8asM/hqdefault.jpg",
+      "videoId": "B4iFaVd8asM",
+      "priority": 45,
       "scoreDetail": {
         "daily": 20,
-        "phil": 20,
+        "phil": 25,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
+        "total": 45
       }
     },
     {

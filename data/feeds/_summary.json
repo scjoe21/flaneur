@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-07-25T17:27:49.668870+00:00",
+  "lastRun": "2026-07-26T18:11:42.096343+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -12,7 +12,6 @@
     "deutschlandfunk-philosophie",
     "hohe-luft",
     "philomag-de",
-    "merkur",
     "agora42",
     "sternstunde-philosophie",
     "rick-dufer",
@@ -32,7 +31,6 @@
     "the-atlantic-ideas",
     "noema",
     "the-marginalian",
-    "new-atlantis",
     "pursuit-of-wonder",
     "the-conversation-fr-philo",
     "nonfiction-fr",
@@ -50,8 +48,10 @@
     "nautilus"
   ],
   "fail": [
-    "leparoleelecose"
+    "merkur",
+    "leparoleelecose",
+    "new-atlantis"
   ],
   "total": 48,
-  "fetched": 47
+  "fetched": 45
 }

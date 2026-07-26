@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-25T17:25:50.297383+00:00",
+  "fetchedAt": "2026-07-26T18:10:32.050980+00:00",
   "items": [
     {
       "title": "Canicule : après le confinement sanitaire, bientôt l’ère des confinements climatiques ?",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Climat : et si on avait écouté la science ?",
+      "url": "https://usbeketrica.com/fr/article/climat-et-si-on-avait-ecoute-la-science",
+      "description": "Publié en 1972, le « rapport Meadows » démontre qu'une croissance infinie dans un monde aux ressources limitées n'est pas tenable. Mais malgré sa médiatisation et son succès en librairie, ce texte n'a jamais été pris au sérieux par les décideurs politiques. Et si les États-Unis avaient empêché sa publication, que serait-il advenu ? Le message du « lanceur d'alerte » Dennis Meadows, paradoxalement, n'aurait-il pas fini par être entendu et mis en œuvre par son pays ? C’est l’hypothèse explorée dan",
+      "date": "Sun, 26 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
       }
     },
     {
@@ -88,22 +104,6 @@
       "url": "https://usbeketrica.com/fr/article/adaptation-quelles-essences-d-arbres-pour-un-futur-au-climat-deregle",
       "description": "Alors que la France endure sa troisième canicule de l'année, la flore sylvestre accuse, elle aussi, le coup. Face à une mortalité des arbres accélérée par un dérèglement climatique qui intensifie les sécheresses, les hivers trop doux, les pluies diluviennes et l'augmentation de parasites, quelles espèces résisteront et feront nos paysages d'ici 30 ans ? On s'est posé la question dans le numéro 37 de notre magazine, paru en octobre 2022.",
       "date": "Mon, 13 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Les agriculteurs doivent-ils payer l’eau plus cher ?",
-      "url": "https://usbeketrica.com/fr/article/les-agriculteurs-doivent-ils-payer-l-eau-plus-cher",
-      "description": "Alors que les sécheresses se multiplient, les champs sont de plus en plus irrigués. Une absurdité environnementale qui pousse certains experts à s’interroger : et si, pour endiguer la surconsommation d’eau, il fallait augmenter la taxe sur l’eau payée par les agriculteurs ? Loin de faire l’unanimité, la question suscite la colère d’une partie du monde agricole. On tentait d'y répondre dans le numéro d'automne 2025 de FUTUR, notre magazine, toujours disponible en librairie.",
-      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,

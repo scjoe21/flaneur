@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-07-25T17:27:49.276268+00:00",
+  "fetchedAt": "2026-07-26T18:11:41.636873+00:00",
   "items": [
     {
       "title": "Why extraordinary claims still require extraordinary evidence | Michael Shermer",
@@ -228,19 +228,19 @@
       }
     },
     {
-      "title": "Spooky action at a distance gives me goosebumps | Matt O'Dowd on quantum entanglement",
-      "url": "https://www.youtube.com/shorts/WbwmqwddivI",
-      "description": "#physics  #quantum  #science #quantumphysics #einstein #coolscience #sciencefacts \n\n@pbsspacetime \n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
-      "date": "2026-07-10",
-      "thumbnail": "https://i4.ytimg.com/vi/WbwmqwddivI/hqdefault.jpg",
-      "videoId": "WbwmqwddivI",
-      "priority": 0,
+      "title": "This astronomer thought he'd discovered a 9th planet in our solar system | Matt O'Dowd",
+      "url": "https://www.youtube.com/shorts/_FvKnUqYPtA",
+      "description": "With a free trial, you can watch the full debate at https://iai.tv/video/adventures-in-space?utm_source=YouTube&utm_medium=short3\n\n#space #astronomy #science #coolscience #sciencefacts  #einstein  @pbsspacetime",
+      "date": "2026-07-26",
+      "thumbnail": "https://i4.ytimg.com/vi/_FvKnUqYPtA/hqdefault.jpg",
+      "videoId": "_FvKnUqYPtA",
+      "priority": 9,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 0
+        "total": 9
       }
     }
   ]
