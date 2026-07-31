@@ -1,22 +1,22 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-26T18:11:29.084076+00:00",
+  "fetchedAt": "2026-07-31T06:40:50.554436+00:00",
   "items": [
     {
-      "title": "How Two Souls Can Interact with One Another: Simone de Beauvoir on Love and Friendship",
-      "url": "https://www.themarginalian.org/2026/07/25/simone-de-beauvoir-love-friendship/",
-      "description": "It is in relationships that we discover both our depths and our limits, there that we anneal ourselves and transcend ourselves, there that we are hurt the most and there that we find the most healing. But despite what a crucible of our emotional and spiritual lives relationships are — or perhaps precisely because of it — they can be riddling and nebulous, destabilizing in their fluidity and ambiguity, leaving us grasping for the comforting solidity of categories and labels. The ancient Greeks, i",
-      "date": "Sat, 25 Jul 2026",
+      "title": "Ursula K. Le Guin on the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/07/26/le-guin-life/",
+      "description": "We are the survivors of immense and minute events — violent cosmic collisions and subtle genetic mutations, the deaths of innumerable suns and the births of innumerable cells, the splitting of continents and the splitting of atoms. Out of it all, we emerged as creatures muzzled by a consciousness that demands we give meaning to our survival. It will not come like alms dropped from the unfeeling hand of the universe. It cannot be found ready-made in the great books and the great teachers, or boug",
+      "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 34,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "How Not to Waste Your Life",
-      "url": "https://www.themarginalian.org/2026/07/21/hawthorne-life/",
-      "description": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of planetary motion; not realizing that the measure of an unwasted life is not what outlives it but how it was lived — how much integrity and authenticity and creative vitality filled these numbered days, these unrepeatable hours. Most of us will not leave behind a re",
-      "date": "Tue, 21 Jul 2026",
+      "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
+      "url": "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/",
+      "description": "Few things in life are more exasperating than seeing the potential in someone you love and seeing them continually fall short of it, stumbling again and again over the same self-erected roadblocks of character and conduct, comporting themselves in a manner painfully inferior to what you know them to be capable of. What to do? The problem of whether and how people change is the eternal problem of being alive. Changing our own ways of being is difficult enough, prey enough to paradox and peril; ch",
+      "date": "Tue, 14 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -68,10 +68,10 @@
       }
     },
     {
-      "title": "How to Love the World More: George Saunders on the Courage of Uncertainty",
-      "url": "https://www.themarginalian.org/2026/07/20/george-saunders-uncertainty/",
-      "description": "\"In a world full of people who seem to know everything, passionately, based on little (often slanted) information, where certainty is often mistaken for power, what a relief it is to be in the company of someone confident enough to stay unsure (that is, perpetually curious).\"",
-      "date": "Mon, 20 Jul 2026",
+      "title": "Games People Play: The Revolutionary 1964 Model of Human Relationships That Changed How We (Mis)Understand Ourselves and Each Other",
+      "url": "https://www.themarginalian.org/2026/07/29/eric-berne-games-people-play/",
+      "description": "\"Because there is so little opportunity for intimacy in daily life, and because some forms of intimacy (especially if intense) are psychologically impossible for most people, the bulk of the time in serious social life is taken up with playing games.\"",
+      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -84,83 +84,99 @@
       }
     },
     {
-      "title": "Carl Jung on Creativity",
-      "url": "https://www.themarginalian.org/2026/07/22/carl-jung-creativity/",
-      "description": "The question of what it takes to create — to make something of beauty and substance that touches other lives across space and time — is one of the deepest, oldest questions, perhaps because the answer to it is so unbearably simple: everything. We bring everything we are and everything we have lived to every smallest creative act — every experience, every dream, every memory, every unremembered impression, every unconsciously absorbed influence. The great bewilderment is that we can only access a",
-      "date": "Wed, 22 Jul 2026",
+      "title": "The Donkey and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/07/26/platero-and-i/",
+      "description": "\"Come with me. I'll teach you the flowers and the stars.\"",
+      "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Love Anyway",
+      "url": "https://www.themarginalian.org/2026/07/26/love-anyway/",
+      "description": "You know that the price of life is death, that the price of love is loss, and still you watch the golden afternoon light fall on a face you love, knowing that the light will soon fade, knowing that the loving face too will one day fade to indifference or bone, and you love anyway — because life is transient but possible, because love alone bridges the impossible and the eternal. I think about this and a passage from Louise Erdrich’s 2005 novel The Painted Drum (public library) flits across the s",
+      "date": "Sun, 26 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Do the Next Right Thing: Carl Jung on How to Live and the Origin of His Famous Tenet for Navigating Uncertainty",
+      "url": "https://www.themarginalian.org/2026/07/27/carl-jung-next-right-thing/",
+      "description": "\"There is no pit you cannot climb out of provided you make the right effort at the right place... do the next thing with diligence and devotion.\"",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "How to Bear Your Sorrows: Nick Cave on Integrating the Darkness of Loss with the Bright Ongoingness of Life",
+      "url": "https://www.themarginalian.org/2026/07/15/nick-cave-loss/",
+      "description": "Few things in our culture are more wounding than the concept of healing — as if the pains and losses that we suffer are an illness, a malfunction of the psyche to be cut out like a tumor, rather than a natural function of being alive, of feeling life deeply and living it fully. All our sorrows have been wasted if we have not learned to suffer and to be surprised by the door at the end of our suffering, on the other wide of which is simply the world, which keeps on worlding. It is not healing tha",
+      "date": "Wed, 15 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Kahlil Gibran on Silence, Solitude, and the Courage to Know Yourself",
+      "url": "https://www.themarginalian.org/2026/07/29/kahlil-gibran-prophet-talking/",
+      "description": "\"In much of your talking, thinking is half murdered. For thought is a bird of space, that in a cage of words may indeed unfold its wings but cannot fly.\"",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
         "flaneur": 4,
-        "novelty": 5,
-        "total": 19
-      }
-    },
-    {
-      "title": "How to Stop Waiting and Start Living: A Jolt from Henry James",
-      "url": "https://www.themarginalian.org/2026/07/24/henry-james-the-beast-in-the-jungle/",
-      "description": "\"It wouldn't have been failure to be bankrupt, dishonoured, pilloried, hanged; it was failure not to be anything.\"",
-      "date": "Sat, 25 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 14
       }
     },
     {
-      "title": "Dostoyevsky in Love",
-      "url": "https://www.themarginalian.org/2026/07/23/dostoyevsky-in-love/",
-      "description": "“I love her happiness more than my own.”",
-      "date": "Thu, 23 Jul 2026",
+      "title": "The Bird in You, the World in You, and the Art of Trusting Time: A Ceramics and Serpentine Raffle",
+      "url": "https://www.themarginalian.org/2026/07/27/serpentine-birdworlds/",
+      "description": "One December afternoon, I arrived in Patagonia with a big blue backpack, a small bilingual edition of Pablo Neruda’s love poems, and a broken heart. (Though a heart, of course, never breaks.) The moment I stepped out of the airplane, the Andes towered over me like the stone thrones of gods, snow-capped over the oracle eye of the glacial lake, blue as Uranus, their scale so incomprehensible you are no longer a person but a particle, a mote of dust in the eye of eternity; the trees are no longer t",
+      "date": "Tue, 28 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 14,
       "scoreDetail": {
         "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How to Keep Life from Becoming a Parody of Itself: Simone de Beauvoir on the Art of Growing Older",
-      "url": "https://www.themarginalian.org/2026/07/22/simone-de-beauvoir-coming-of-age/",
-      "description": "\"In old age we should wish still to have passions strong enough to prevent us turning in on ourselves.\"",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "G.K. Chesterton on the Dandelion and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/07/21/g-k-chesterton-dandelion/",
-      "description": "Recovering the \"forgotten blaze or burst of astonishment at our own existence\" alive in the back of our modernity-deadened minds.",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 15
+        "total": 14
       }
     },
     {
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "Antidotes to Fear of Death: Astronomer and Poet Rebecca Elson’s Stunning Cosmic Salve for Existential Tremors",
-      "url": "https://www.themarginalian.org/2026/07/23/antidotes-to-fear-of-death-rebecca-elson/",
-      "description": "\"Sometimes as an antidote to fear of death, I eat the stars.\"",
-      "date": "Thu, 23 Jul 2026",
+      "title": "The Third Self: Mary Oliver on Creativity and Time",
+      "url": "https://www.themarginalian.org/2026/07/29/mary-oliver-upstream-creativity-power-time/",
+      "description": "\"The most regretful people on earth are those who felt the call to creative work, who felt their own creative power restive and uprising, and gave to it neither power nor time.\"",
+      "date": "Wed, 29 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -196,10 +212,26 @@
       }
     },
     {
-      "title": "Epictetus on Love and Loss: The Stoic Strategy for Surviving Heartbreak",
-      "url": "https://www.themarginalian.org/2026/07/20/epictetus-love-loss/",
-      "description": "\"Who is good if he knows not who he is? and who knows what he is, if he forgets that things which have been made are perishable, and that it is not possible for one human being to be with another always?\"",
-      "date": "Mon, 20 Jul 2026",
+      "title": "Kindness Over Fear: Naomi Shihab Nye Tells the Remarkable Real-Life Story That Inspired Her Beloved Poem “Kindness”",
+      "url": "https://www.themarginalian.org/2026/07/28/naomi-shihab-nye-kindness/",
+      "description": "\"Before you know kindness as the deepest thing inside, / you must know sorrow as the other deepest thing.\"",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "From Mitochondria to Minds: The Illustrated Science of the Psychedelic Dream Called Life",
+      "url": "https://www.themarginalian.org/2026/07/19/the-forgotten-teachers/",
+      "description": "Like consciousness, like music, like love, life itself didn’t have to exist — nothing in the fundamental laws demands it. The universe could have gone on lapping at itself as a horizonless sea of pure spacetime, black and lifeless as the inside of a skull. But, in a whisper that soon became a symphony, life arose to give us such ceaseless wonders as the ghost pipe and the ginkgo, the bowerbird and the eye of the scallop. Neuroscientist Brian Isett and artist Claudia Biçen celebrate the wonder of",
+      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -209,38 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Kahlil Gibran on the Art of Becoming Yourself Across the Sweep of Life",
-      "url": "https://www.themarginalian.org/2026/07/24/youth-and-age-kahlil-gibran/",
-      "description": "A roadmap to the fulfilled belonging on the other side of \"the great aloneness which knows not what is far and what is near, nor what is small nor great.\"",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Albert Camus on the Three Antidotes to the Absurdity of Life",
-      "url": "https://www.themarginalian.org/2026/07/23/albert-camus-interview-absurd/",
-      "description": "\"In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.\"",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     }
   ]

@@ -1,45 +1,29 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-26T18:11:28.465682+00:00",
+  "fetchedAt": "2026-07-31T06:40:49.302481+00:00",
   "items": [
     {
-      "title": "The American People Need the Truth About the Iran War",
-      "url": "https://www.theatlantic.com/ideas/2026/07/trump-iran-conflict-pentagon/688026/?utm_source=feed",
+      "title": "How Netanyahu Lost America",
+      "url": "https://www.theatlantic.com/ideas/2026/07/bibi-netanyahu-israel-failures-antisemitism/688050/?utm_source=feed",
       "description": "",
-      "date": "2026-07-22",
+      "date": "2026-07-27",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     },
     {
-      "title": "The Saudis Learn the Truth About Trump",
-      "url": "https://www.theatlantic.com/ideas/2026/07/saudi-arabia-trump-nuclear-deal/688064/?utm_source=feed",
+      "title": "Trump Is Barely Pretending About Comey Anymore",
+      "url": "https://www.theatlantic.com/ideas/2026/07/comey-trump-aides-secret-service/688116/?utm_source=feed",
       "description": "",
-      "date": "2026-07-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Fear of Black Greeks",
-      "url": "https://www.theatlantic.com/ideas/2026/07/odyssey-race/688058/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-24",
+      "date": "2026-07-30",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -49,6 +33,182 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The American Commentator Making Excuses for Iran",
+      "url": "https://www.theatlantic.com/ideas/2026/07/iran-apologists-blumenthal/688068/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Newcomer",
+      "url": "https://www.theatlantic.com/ideas/2026/07/feature-governor-wes-moore/687804/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Cities That Said Yes to Drugs",
+      "url": "https://www.theatlantic.com/magazine/2026/09/city-drug-addiction-harm-reduction-policy/687967/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Abdul El-Sayed Fuses Together Two Toxic Ideologies",
+      "url": "https://www.theatlantic.com/ideas/2026/07/michigan-election-el-sayed-stevens-zionism/688101/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Rural America’s Maternal-Health Crisis Is About to Get Much Worse",
+      "url": "https://www.theatlantic.com/ideas/2026/07/giving-birth-rural-hospitals-danger-mortality/688091/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-29",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Worst Way to Regulate AI",
+      "url": "https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Girlboss Is Dead",
+      "url": "https://www.theatlantic.com/ideas/2026/07/female-ambition-alex-cooper-alix-earle/688080/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Automation Led to Economic Misery. AI Doesn’t Have To.",
+      "url": "https://www.theatlantic.com/ideas/2026/07/ai-automation-productivity-workers/688083/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Masculinity Scam",
+      "url": "https://www.theatlantic.com/ideas/2026/07/masculinity-scam-manosphere-talarico/687999/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "An <em>Odyssey</em> for Our Own Time",
+      "url": "https://www.theatlantic.com/ideas/2026/07/nolan-odysseus-morality-guilt/688076/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Bible Belongs in the Classroom",
+      "url": "https://www.theatlantic.com/ideas/2026/07/texas-public-schools-bible/688054/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -72,166 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/07/public-health-maha-rfk/688014/?utm_source=feed",
       "description": "",
       "date": "2026-07-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The U.S. Is Subtly Shifting Its Iran Strategy",
-      "url": "https://www.theatlantic.com/ideas/2026/07/war-strategy-shift-isolation/688061/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Social Security Reckoning Is Finally Coming",
-      "url": "https://www.theatlantic.com/ideas/2026/07/social-security-taxes-benefits/688042/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The New Chilling Effect",
-      "url": "https://www.theatlantic.com/ideas/2026/07/high-school-students-free-speech-protest/688028/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-23",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Other Victims of a Wrongful Conviction",
-      "url": "https://www.theatlantic.com/ideas/2026/07/wrongful-conviction-family/687394/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-23",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Abolishing the Senate Might Be the DSA’s Best Idea",
-      "url": "https://www.theatlantic.com/ideas/2026/07/senate-representation-undemocratic-imbalance/688012/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Lines the Court Won’t Cross",
-      "url": "https://www.theatlantic.com/ideas/2026/07/scotus-birthright-citizenship-trump/687797/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The AI Bubble Is No Ordinary Bubble",
-      "url": "https://www.theatlantic.com/ideas/2026/07/ai-economy-stock-market/688004/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Few Know About This Law, but Everyone Is Paying for It",
-      "url": "https://www.theatlantic.com/ideas/2026/07/jones-act-domestic-commerce/688003/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The DSA Is a Parasite",
-      "url": "https://www.theatlantic.com/ideas/2026/07/dsa-socialist-leftist-takeover/687989/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pete Hegseth, You Call That a Pull-Up?",
-      "url": "https://www.theatlantic.com/magazine/2026/09/pete-hegseth-workout-videos-fitness/687955/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-20",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

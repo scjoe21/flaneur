@@ -1,38 +1,54 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-07-26T18:10:41.769206+00:00",
+  "fetchedAt": "2026-07-31T06:39:03.560747+00:00",
   "items": [
     {
-      "title": "Risalire la piattaforma",
-      "url": "https://www.iltascabile.com/societa/risalire-piattaforma/",
-      "description": "A partire dal saggio  A Sud della piattaforma  di Federico De Stavola, una riflessione su come la figura del  rider , tra lavoro informale e  gig economy , permetta di ripensare al rapporto tra centro e periferia nel modello capitalistico, tornando alla centralità del lavoro. \n L'articolo  Risalire la piattaforma  proviene da  Il Tascabile .",
-      "date": "Tue, 14 Jul 2026",
+      "title": "Sacro o sacrificabile",
+      "url": "https://www.iltascabile.com/scienze/sacro-sacrificabile/",
+      "description": "Trattiamo i nostri territori come opera d’arte intoccabile e come materia da sfruttare. Riconoscere questo doppio sguardo, al di là di ogni questione estetica, permette di capire chi vince e chi perde nella transizione energetica. \n L'articolo  Sacro o sacrificabile  proviene da  Il Tascabile .",
+      "date": "Mon, 27 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 34,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
-      "title": "Perché beviamo",
-      "url": "https://www.iltascabile.com/scienze/perche-beviamo/",
-      "description": "La nostra attrazione per l’alcol non è solo un residuo evolutivo potenzialmente patologico, ma anche una tecnologia sociale vecchia di millenni. Una riflessione sul ruolo biologico e culturale dell’ebbrezza. \n L'articolo  Perché beviamo  proviene da  Il Tascabile .",
-      "date": "Mon, 13 Jul 2026",
+      "title": "Un gruista in paradiso spiega l’essenza del Cristianesimo",
+      "url": "https://www.iltascabile.com/letterature/gruista-paradiso-essenza-cristianesimo/",
+      "description": "Il romanzo di Arto Paasilinna con ironia e leggerezza ripercorre la teoria filosofica di Ludwig Feuerbach e spiega perché l’epoca contemporanea è così sconvolta e affascinata dal sacro. \n L'articolo  Un gruista in paradiso spiega l’essenza del Cristianesimo  proviene da  Il Tascabile .",
+      "date": "Wed, 29 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Il concorso di Venezia è un affare da uomini",
+      "url": "https://www.iltascabile.com/linguaggi/concorso-venezia-affare-uomini/",
+      "description": "Tra un concorso “del presente” quasi solo maschile e classificazioni ancora binarie, perché contare le registe non basta più per capire il cinema di oggi. \n L'articolo  Il concorso di Venezia è un affare da uomini  proviene da  Il Tascabile .",
+      "date": "Thu, 30 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
       }
     },
     {
@@ -52,19 +68,35 @@
       }
     },
     {
-      "title": "Un danno strutturale",
-      "url": "https://www.iltascabile.com/linguaggi/danno-strutturale/",
-      "description": "Nelle giunture affettive di  Sentimental Value : dal testo di Derrida alla tragedia greca, la grazia metaforica di Trier mette in scena le ferite senza mostrare il sangue. \n L'articolo  Un danno strutturale  proviene da  Il Tascabile .",
-      "date": "Thu, 16 Jul 2026",
+      "title": "Un pubblico meraviglioso di Andrea Lai",
+      "url": "https://www.iltascabile.com/recensioni/pubblico-meraviglioso-andrea-lai/",
+      "description": "L'articolo  Un pubblico meraviglioso di Andrea Lai  proviene da  Il Tascabile .",
+      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "I dubbi sul biocarburante del Kenya",
+      "url": "https://www.iltascabile.com/societa/dubbi-biocarburante-kenya/",
+      "description": "Si sommano inchieste e domande critiche sulla filiera dell’agri- feedstock  di Eni nel Piano Mattei. \n L'articolo  I dubbi sul biocarburante del Kenya  proviene da  Il Tascabile .",
+      "date": "Tue, 28 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/scienze/fabbricare-pioggia/",
       "description": "Le tecniche per stimolare artificialmente le precipitazioni esistono da decenni, ma la loro efficacia è difficile da misurare. Riti, scienza e teorie del complotto attorno alla modificazione del tempo atmosferico. \n L'articolo  Fabbricare la pioggia  proviene da  Il Tascabile .",
       "date": "Mon, 20 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La diga di Maylis De Kerangal e Joy Sorman",
-      "url": "https://www.iltascabile.com/recensioni/diga-maylis-kerangal-joy-sorman/",
-      "description": "L'articolo  La diga di Maylis De Kerangal e Joy Sorman  proviene da  Il Tascabile .",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lectura Maris",
-      "url": "https://www.iltascabile.com/letterature/lectura-maris/",
-      "description": "Cercando di inquadrare l’opera. \n L'articolo  Lectura Maris  proviene da  Il Tascabile .",
-      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

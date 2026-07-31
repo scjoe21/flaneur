@@ -1,24 +1,8 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-26T18:10:31.754182+00:00",
+  "fetchedAt": "2026-07-31T06:38:52.015183+00:00",
   "items": [
-    {
-      "title": "Le “J-Space” de Claude ou comment l’IA se met à ressembler à la conscience",
-      "url": "https://www.philomag.com/articles/le-j-space-de-claude-ou-comment-lia-se-met-ressembler-la-conscience",
-      "description": "",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
     {
       "title": "Mohenjo-daro : la cité qui met en question le scénario de l’inégalité",
       "url": "https://www.philomag.com/articles/mohenjo-daro-la-cite-qui-met-en-question-le-scenario-de-linegalite",
@@ -36,19 +20,147 @@
       }
     },
     {
-      "title": "La plasticienne Laure Prouvost répond à notre “Questionnaire de Socrate”",
-      "url": "https://www.philomag.com/articles/la-plasticienne-laure-prouvost-repond-notre-questionnaire-de-socrate",
+      "title": "“Ulysse 31” : une odyssée futuriste aux dieux algorithmiques",
+      "url": "https://www.philomag.com/articles/ulysse-31-une-odyssee-futuriste-aux-dieux-algorithmiques",
       "description": "",
-      "date": "Thu, 23 Jul 2026",
+      "date": "Wed, 29 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Fin de vie : la dépénalisation de l’euthanasie vue par André Comte-Sponville",
+      "url": "https://www.philomag.com/articles/fin-de-vie-la-depenalisation-de-leuthanasie-vue-par-andre-comte-sponville",
+      "description": "",
+      "date": "Tue, 28 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Enquête dans la tête de Vincent Bolloré",
+      "url": "https://www.philomag.com/articles/enquete-dans-la-tete-de-vincent-bollore",
+      "description": "",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Tous des hypocrites ? Le grand théâtre de notre vie sociale vu par Erving Goffman",
+      "url": "https://www.philomag.com/articles/tous-des-hypocrites-le-grand-theatre-de-notre-vie-sociale-vu-par-erving-goffman",
+      "description": "",
+      "date": "Thu, 30 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Seul face à l’immensité du ciel, j’ai pleinement fait partie du monde” : le sentiment océanique par Philippe Descola",
+      "url": "https://www.philomag.com/articles/seul-face-limmensite-du-ciel-jai-pleinement-fait-partie-du-monde-le-sentiment-oceanique",
+      "description": "",
+      "date": "Thu, 30 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“La Caverne du Pont-Neuf” : la grosse déception d’Yves Michaud",
+      "url": "https://www.philomag.com/articles/la-caverne-du-pont-neuf-la-grosse-deception-dyves-michaud",
+      "description": "",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Dark romance, le côté obscur du fantasme ? La chronique d’Anne-Sophie Moreau",
+      "url": "https://www.philomag.com/articles/dark-romance-le-cote-obscur-du-fantasme-la-chronique-danne-sophie-moreau",
+      "description": "",
+      "date": "Tue, 28 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Vacances : je t’aime… moi non plus ?",
+      "url": "https://www.philomag.com/articles/vacances-je-taime-moi-non-plus",
+      "description": "",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ulysse, notre compagnon de survie",
+      "url": "https://www.philomag.com/articles/ulysse-notre-compagnon-de-survie",
+      "description": "",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,118 +232,6 @@
       "url": "https://www.philomag.com/articles/tabou-secret-pulsionnel-les-idees-recues-sur-linceste-qui-empechent-de-lutter",
       "description": "",
       "date": "Thu, 23 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ara, jaguar, serpent corail… À la découverte de l'élégance animale avec le philosophe Bertrand Prévost",
-      "url": "https://www.philomag.com/articles/ara-jaguar-serpent-corail-la-decouverte-de-lelegance-animale-avec-le-philosophe-bertrand",
-      "description": "",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La beauté de Fontainebleau",
-      "url": "https://www.philomag.com/articles/la-beaute-de-fontainebleau",
-      "description": "",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ulysse “ballotté entre l’attraction de l’ici et celle de l’ailleurs” : entretien avec Heinz Wismann",
-      "url": "https://www.philomag.com/articles/ulysse-ballotte-entre-lattraction-de-lici-et-celle-de-lailleurs-entretien-avec-heinz",
-      "description": "",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Martin Ajdari, président de l’Arcom : “Définir le pluralisme relève d’un débat philosophique”",
-      "url": "https://www.philomag.com/articles/martin-ajdari-president-de-larcom-definir-le-pluralisme-releve-dun-debat-philosophique",
-      "description": "",
-      "date": "Mon, 20 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Les Animaux et nous” de Catalin Pavel : nos civilisations sentent le bestiaire",
-      "url": "https://www.philomag.com/articles/les-animaux-et-nous-de-catalin-pavel-nos-civilisations-sentent-le-bestiaire",
-      "description": "",
-      "date": "Mon, 20 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Adoption de la loi sur l’aide à mourir : mourir peut-il être un “projet” ?",
-      "url": "https://www.philomag.com/articles/adoption-de-la-loi-sur-laide-mourir-mourir-peut-il-etre-un-projet",
-      "description": "",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Avec l'écrivaine Margaret Atwood, Pénélope reprend la parole !",
-      "url": "https://www.philomag.com/articles/avec-lecrivaine-margaret-atwood-penelope-reprend-la-parole",
-      "description": "",
-      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

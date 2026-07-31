@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-07-26T18:11:26.924825+00:00",
+  "fetchedAt": "2026-07-31T06:40:46.333459+00:00",
   "items": [
     {
       "title": "How to stop avoiding life",
@@ -36,10 +36,10 @@
       }
     },
     {
-      "title": "How to rediscover the joy of drawing",
-      "url": "https://psyche.co/guides/how-to-rediscover-the-joy-of-drawing",
-      "description": "As a child, you knew the thrill of conjuring with a pencil. Reclaim that pleasure with these activities (no talent needed) - by Andrea Kantrowitz Read on Psyche",
-      "date": "Tue, 14 Jul 2026",
+      "title": "Hoarding: how it impacted my life",
+      "url": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them",
+      "description": "‘All this stuff is my trauma’: one woman’s experience of hoarding disorder, a much misunderstood and stigmatised condition - Video by BBC Ideas, The Open University Watch on Psyche",
+      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 19,
@@ -52,19 +52,19 @@
       }
     },
     {
-      "title": "Being lonely taught me how to be me",
-      "url": "https://psyche.co/notes-to-self/after-moving-cities-this-book-taught-me-to-enjoy-time-alone",
-      "description": "When I moved to a new city where I had no friends, Olivia Laing’s book helped me find my own rhythm and enjoy time alone - by Anandi Mishra Read on Psyche",
-      "date": "Fri, 10 Jul 2026",
+      "title": "Why some men seek refuge in ever bigger muscles",
+      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
+      "description": "Diagnoses of muscle dysmorphia or ‘bigorexia’ are rising. A psychoanalytic lens offers an explanation – and a healthier path - by Tom Wooldridge Read on Psyche",
+      "date": "Mon, 27 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
       }
     },
     {
@@ -100,38 +100,6 @@
       }
     },
     {
-      "title": "The joy of falling down together",
-      "url": "https://psyche.co/notes-to-self/when-youre-in-sync-with-others-joy-is-shared",
-      "description": "My reluctant participation in a line-dancing class showed me how moving as one promotes feelings of group unity – and joy - by Amy Arthur Read on Psyche",
-      "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "L A Paul on transformative experience",
-      "url": "https://psyche.co/videos/why-major-life-decisions-should-be-approached-with-epistemic-humility",
-      "description": "At a crossroads in life? No matter how much you deliberate, one unknowable remains: who you will be on the other side - Video by The Well Watch on Psyche",
-      "date": "Mon, 13 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Jung’s archetypes are a mirror that shows who and what we are",
       "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
       "description": "Psychedelics and neuroscience seem to support his ideas about ancestral dreams and fears – but with an evolutionary twist - by Hugh McGovern Read on Psyche",
@@ -148,35 +116,19 @@
       }
     },
     {
-      "title": "What draws well-meaning parents to authoritarian parenting?",
-      "url": "https://psyche.co/ideas/what-draws-well-meaning-parents-to-authoritarian-parenting",
-      "description": "In my therapy room, I’ve seen the costs of the controlling impulse. Winnicott and Rogers show us healthier alternatives - by Hope Bastine Read on Psyche",
-      "date": "Wed, 15 Jul 2026",
+      "title": "After the performance",
+      "url": "https://psyche.co/portraits/the-nba-superstar-carmelo-anthony-on-life-after-basketball",
+      "description": "For 19 years, the NBA superstar Carmelo Anthony mastered the version of himself the world demanded. Retired from basketball, he confronts a harder question: who is he now? - by D Watkins Read on Psyche",
+      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "I am that I am",
-      "url": "https://psyche.co/turning-points/what-an-18th-century-prophet-taught-me-about-losing-my-gender",
-      "description": "Ego death obliterated my gender identity, but then I stumbled upon the Public Universal Friend - by Silas Joan Savard Read on Psyche",
-      "date": "Mon, 13 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -209,6 +161,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "In praise of not-quite-friends",
+      "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile",
+      "description": "Learning about the Korean concept of ‘jeong’ helped me understand the importance of my not-quite-friends at the gym - by Christian Jarrett Read on Psyche",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Your deepest regrets help you see yourself more clearly",
+      "url": "https://psyche.co/ideas/your-deepest-regrets-help-you-see-yourself-more-clearly",
+      "description": "Far from being a waste of time, the regrets that haunt you reveal more about who you are than your successes ever could - by Joshua Halberstam Read on Psyche",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "We were there to be there",
+      "url": "https://psyche.co/videos/how-two-punk-bands-came-to-play-a-california-psychiatric-hospital",
+      "description": "The chaotic and joyful musical moment in 1978 when two punk bands played a gig at a psychiatric hospital in California - A film by Mike Plante and Jason Willis Watch on Psyche",
+      "date": "Tue, 28 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

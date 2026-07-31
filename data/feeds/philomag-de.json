@@ -1,43 +1,27 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-26T18:10:37.195098+00:00",
+  "fetchedAt": "2026-07-31T06:38:57.910500+00:00",
   "items": [
     {
-      "title": "„Anti-Europa“ — Wie chinesisches Denken Leibniz und die europäische Aufklärung prägte",
-      "url": "https://www.philomag.de/artikel/anti-europa-wie-chinesisches-denken-leibniz-und-die-europaeische-aufklaerung-praegte",
-      "description": "Im Verlauf der Aufklärung wurde nicht-europäisches Denken rassistisch abgewertet. Und noch heute mangele es im akademischen Diskurs an der Anerkennung chinesischer Philosophie, wie der Sinologe Henrik Jaeger schreibt. Dabei waren Bedeutsamkeit und Fortschrittlichkeit des chinesischen Denkens von Vertretern der Frühaufklärung, wie Gottfried Wilhelm Leibniz, erkannt worden.",
-      "date": "Mon, 20 Jul 2026",
+      "title": "Die Macht der Nähe",
+      "url": "https://www.philomag.de/artikel/die-macht-der-naehe",
+      "description": "Wer Unterstützern der extremen Rechten nahekommt, macht sich schnell verdächtig, deren Positionen zu akzeptieren. Doch Nähe ist nicht nur ein Nährboden für Normalisierung. Sie kann auch eine Ressource sein, um besser miteinander zu diskutieren. Und: Für viele Menschen ist sie im Alltag unvermeidlich. Wie also klug mit ihr umgehen? Jana Glaese ist dieser Frage in ihrem neuen Buch nachgegangen. Ein Auszug.",
+      "date": "Tue, 28 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 0,
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "Eine Frage des Fokus",
-      "url": "https://www.philomag.de/index%2ephp/artikel/eine-frage-des-fokus",
-      "description": "Wie sehr sollten wir die Aufmerksamkeit kontrollieren, welche Rolle spielt sie für die Moral und stimmt es eigentlich, dass sie durch Medienkonsum bedroht wird? Darüber waren Philosophen geteilter Meinung.",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 40
+        "total": 39
       }
     },
     {
       "title": "Rainer Forst: „Demokratie lebt vom Anspruch auf öffentliche Rechtfertigung“",
-      "url": "https://www.philomag.de/index%2ephp/artikel/rainer-forst-demokratie-lebt-vom-anspruch-auf-oeffentliche-rechtfertigung",
+      "url": "https://www.philomag.de/artikel/rainer-forst-demokratie-lebt-vom-anspruch-auf-oeffentliche-rechtfertigung",
       "description": "Dass Habermas als demokratischer Ideengeber gilt, hat besonders mit Überlegungen zu tun, die er ab den späten 1980er-Jahren anstellte. Im Gespräch erläutert der Philosoph Rainer Forst, damals Doktorand von Habermas, dessen Rechts- und Demokratietheorie – und wie Recht darin zum Mittel der Freiheit wird.",
       "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
@@ -52,24 +36,40 @@
       }
     },
     {
-      "title": "Die erschöpfte Demokratie",
-      "url": "https://www.philomag.de/index%2ephp/artikel/die-erschoepfte-demokratie",
-      "description": "In seinem Werk  Faktizität und Geltung  legt Habermas dar, wie unsere Demokratie operieren muss, um auf festem Grund zu stehen. Hat er dabei entscheidende Kräfte unterschätzt, die früher in seinem Denken noch eine zentrale Rolle spielten?  Von Oliver Eberl",
-      "date": "Thu, 16 Jul 2026",
+      "title": "Was klassische Logik über Gott und trinkende Partygäste beweist",
+      "url": "https://www.philomag.de/artikel/was-klassische-logik-ueber-gott-und-trinkende-partygaeste-beweist",
+      "description": "Was kann Logik wirklich? Ist sie so zuverlässig und streng gegen Trugschlüsse, wie es ihr Ruf vermuten lässt? Oder hat auch sie blinde Flecken? Ein Einblick in die klassische Prädikatenlogik und zwei Beispiele, wo sie mindestens Merkwürdiges beweist.",
+      "date": "Wed, 29 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 24
+      }
+    },
+    {
+      "title": "„Dreams“ – Träumen muss man sich leisten können",
+      "url": "https://www.philomag.de/artikel/dreams-traeumen-muss-man-sich-leisten-koennen",
+      "description": "Michel Francos  Dreams  folgt dem jungen, illegalen Einwanderer Fernando, der in der Liebe zu einer privilegierten US-Bürgerin sein Glück sucht – und dabei erkennt, dass einige Grenzen für ihn unüberwindbar bleiben. Seit vergangenem Donnerstag läuft der Film in den Kinos.",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
       "title": "Keine super Helden",
-      "url": "https://www.philomag.de/index%2ephp/artikel/keine-super-helden",
+      "url": "https://www.philomag.de/artikel/keine-super-helden",
       "description": "Auch für den Kinosommer 2026 sind Superhelden-Filme angesagt, darunter Ende Juli mal wieder ein neuer Teil von Spider-Man. Die Sehnsucht nach übermenschlichen Rettern hält sich hartnäckig, trotz ihrer politisch fragwürdigen Botschaften. Haben wir Angst davor, uns selbst als handlungsfähig zu begreifen?",
       "date": "Fri, 24 Jul 2026",
       "thumbnail": "",
@@ -85,7 +85,7 @@
     },
     {
       "title": "Bernhard Schlink: „Gerechtigkeit ist ein Sehnsuchtsbegriff“",
-      "url": "https://www.philomag.de/index%2ephp/artikel/bernhard-schlink-gerechtigkeit-ist-ein-sehnsuchtsbegriff",
+      "url": "https://www.philomag.de/artikel/bernhard-schlink-gerechtigkeit-ist-ein-sehnsuchtsbegriff",
       "description": "Partizipation, gleiche Rechte und Chancen: Die Gerechtigkeitserwartungen in Demokratien sind hoch. Bernhard Schlink argumentiert in seinem neuen Buch für einen realistischeren Blick. Ein Gespräch über die Macht des Unverfügbaren und die Mühen der Gerechtigkeitsarbeit.",
       "date": "Wed, 22 Jul 2026",
       "thumbnail": "",
@@ -100,10 +100,10 @@
       }
     },
     {
-      "title": "Thomas von der Osten-Sacken: „Der Spanische Bürgerkrieg war ein Schlüsselereignis des 20. Jahrhunderts“",
-      "url": "https://www.philomag.de/index%2ephp/artikel/thomas-von-der-osten-sacken-der-spanische-buergerkrieg-war-ein-schluesselereignis-des-20",
-      "description": "Vor 90 Jahren begann der Spanische Bürgerkrieg, der in einer Jahrzehnte andauernden Diktatur Francos mündete. Eine zentrale Rolle spielte die internationale Unterstützung der Konfliktparteien, die das Geschehen maßgeblich beeinflusste. Ein Gespräch mit Thomas von der Osten-Sacken über die anhaltende Bedeutung des Spanienkriegs, der sich in Weltliteratur verewigte.",
-      "date": "Fri, 17 Jul 2026",
+      "title": "Klaus Viertbauer: „Glauben und Wissen befruchten sich gegenseitig“",
+      "url": "https://www.philomag.de/artikel/klaus-viertbauer-glauben-und-wissen-befruchten-sich-gegenseitig",
+      "description": "Obwohl er sich selbst als „religiös unmusikalisch“ beschrieb, dachte Habermas intensiv über die Rolle des Glaubens nach. Der Religionsphilosoph Klaus Viertbauer erläutert, wie sich Habermas’ Einschätzung dazu veränderte und wie sich religiöse in säkulare Sprache übersetzen lässt.",
+      "date": "Wed, 29 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -116,8 +116,24 @@
       }
     },
     {
+      "title": "Musikalische Guilty Pleasures",
+      "url": "https://www.philomag.de/artikel/musikalische-guilty-pleasures",
+      "description": "Sei es auf einer Party oder im Gespräch mit Freunden: Während andere sich über bestimmte Lieder lustig machen, findet man insgeheim Gefallen an ihnen und schämt sich dafür. Doch was steckt eigentlich hinter diesem Phänomen?",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
       "title": "Eine empirisch begründete Theorie der Geschichte",
-      "url": "https://www.philomag.de/index%2ephp/artikel/eine-empirisch-begruendete-theorie-der-geschichte",
+      "url": "https://www.philomag.de/artikel/eine-empirisch-begruendete-theorie-der-geschichte",
       "description": "Wird alles immer schlechter? Im Gegenteil, meint Thomas Unnerstall: Die bisherige Zivilisationsgeschichte gibt Anlass zu Optimismus. Unsere Zukunft wird höchstwahrscheinlich ziemlich gut.",
       "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
@@ -133,7 +149,7 @@
     },
     {
       "title": "Phil.Kids (05/26)",
-      "url": "https://www.philomag.de/index%2ephp/artikel/philkids-0526",
+      "url": "https://www.philomag.de/artikel/philkids-0526",
       "description": "Kleine Menschen wissen oft mehr als große. Wir fragen, Kinder antworten.",
       "date": "Tue, 21 Jul 2026",
       "thumbnail": "",
@@ -148,8 +164,24 @@
       }
     },
     {
+      "title": "Die neue Leichtigkeit der Mutter",
+      "url": "https://www.philomag.de/artikel/die-neue-leichtigkeit-der-mutter",
+      "description": "Ein Vater, der gleichberechtigt Sorgearbeit leistet, wirkt mütterlichen Schuldgefühlen entgegen und eröffnet Frauen ein freieres Verhältnis zum Kind, argumentiert Millay Hyatt.",
+      "date": "Thu, 30 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Die Zeit ist ein Korkenzieher",
-      "url": "https://www.philomag.de/index%2ephp/artikel/die-zeit-ist-ein-korkenzieher",
+      "url": "https://www.philomag.de/artikel/die-zeit-ist-ein-korkenzieher",
       "description": "Robyn Hitchcock denkt auf seinem neuen Album mit psychedelischem Sound über die Einschließung und Auflösung des Ichs nach.",
       "date": "Sat, 25 Jul 2026",
       "thumbnail": "",
@@ -165,7 +197,7 @@
     },
     {
       "title": "Barbara Bleisch und Andrea Büchler: „Familie ist kein Naturereignis“",
-      "url": "https://www.philomag.de/index%2ephp/artikel/barbara-bleisch-und-andrea-buechler-familie-ist-kein-naturereignis",
+      "url": "https://www.philomag.de/artikel/barbara-bleisch-und-andrea-buechler-familie-ist-kein-naturereignis",
       "description": "Welche Technologien dürfen wir nutzen auf dem Weg zum Wunschkind? Sollte Leihmutterschaft erlaubt sein?  Barbara Bleisch  und  Andrea Büchler  erörtern die ethischen und rechtlichen Herausforderungen der Reproduktionsmedizin – und sprechen sich klar gegen Verbote aus.",
       "date": "Wed, 22 Jul 2026",
       "thumbnail": "",
@@ -181,7 +213,7 @@
     },
     {
       "title": "Sinnieren in der Sonne",
-      "url": "https://www.philomag.de/index%2ephp/artikel/sinnieren-der-sonne",
+      "url": "https://www.philomag.de/artikel/sinnieren-der-sonne",
       "description": "Acht Buchtipps aus der Redaktion für einen garantiert philosophischen Sommer!",
       "date": "Tue, 21 Jul 2026",
       "thumbnail": "",
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "Die WM als Kunstwerk",
-      "url": "https://www.philomag.de/index%2ephp/artikel/die-wm-als-kunstwerk",
-      "description": "Der Fußball zeigt die Zeit, in der er gespielt wird. Beschädigte Rechtsverhältnisse, Verschwörungstheorien und die Tragödie der Aufklärung haben diese Weltmeisterschaft bestimmt. Aber es gab auch Momente von ergreifender Schönheit, die die gezeigte Wirklichkeit negieren.  Von Moritz Rudolph",
-      "date": "Sat, 18 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "Die unmögliche Akteurin",
-      "url": "https://www.philomag.de/index%2ephp/artikel/die-unmoegliche-akteurin",
-      "description": "Der Feminismus der Gegenwart feiert die Frau nicht mehr als handelndes Subjekt, sondern als Erzählerin erfahrenen Leids. Mit gravierenden Folgen. Eine kritische Analyse von Mirna Funk.",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Christoper Nolans „Odyssee“ – Rückkehr zum Selbst",
-      "url": "https://www.philomag.de/index%2ephp/artikel/christoper-nolans-odyssee-rueckkehr-zum-selbst",
-      "description": "Homers  Odyssee  zählt zu den ältesten und wirkmächtigsten Epen unserer Zeit. Nun hat Christopher Nolan sich an eine filmische Inszenierung des Urstoffs gewagt und bannt den Mythos als erfahrbare Form auf die Leinwand. Eine Filmbesprechung von Sebastian Clauss",
-      "date": "Thu, 16 Jul 2026",
+      "title": "Von der Unerträglichkeit des Urlaubs",
+      "url": "https://www.philomag.de/artikel/von-der-unertraeglichkeit-des-urlaubs",
+      "description": "Den Urlaub nicht zu mögen, das gibt man selten zu. Und doch gibt es gewichtige Gründe dafür. Mit Blaise Pascal lässt sich zeigen, welche das sind.",
+      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

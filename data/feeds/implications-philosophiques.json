@@ -1,7 +1,7 @@
 {
   "sourceId": "implications-philosophiques",
   "sourceName": "Implications Philosophiques",
-  "fetchedAt": "2026-07-26T18:10:33.345338+00:00",
+  "fetchedAt": "2026-07-31T06:38:53.928577+00:00",
   "items": [
     {
       "title": "Ép. 10 Repenser l’éthique de la performance, avec Chloé Bonifas",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "Entretien –  Gunnar Declerck. Perception et apparition du monde",
-      "url": "https://www.implications-philosophiques.org/entretien-gunnar-declerck-perception-et-apparition-du-monde/",
-      "description": "Jessica Lombard. Dans le contexte de la parution de l’ouvrage Perception et apparition du monde (2024) dont elle rédige le compte-rendu pour Implications philosophiques (disponible ici), la philosophe Jessica Lombard (enseignante-chercheuse contractuelle à l’Université Côte d’Azur, CRHI) a également eu la possibilité de s’entretenir avec l’auteur, le philosophe et phénoménologue Gunnar Declerck (Maître de Conférences en philosophie à l’Université de Technologie de Compiègne, laboratoire COSTECH)",
-      "date": "Thu, 05 Feb 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Compte-rendu critique — Deleuze, Sur Spinoza",
       "url": "https://www.implications-philosophiques.org/compte-rendu-critique-deleuze-sur-spinoza/",
       "description": "La publication du cours de Deleuze sur Spinoza de 1980-1981 nous permet d’accéder à une présentation accessible et passionnante de la pensée spinoziste, développant une lecture affectuelle, relationnelle et pratique de l’éthique spinoziste. Ces analyses éclairent des passages d’autres livres de Deleuze, Différence et répétition ou encore Mille Plateaux, qui se nourrissent aussi de Spinoza. Ce faisant, Deleuze apporte aussi un nouveau point de vue sur Spinoza, mis en relation avec la peinture et ",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Implications philosophiques sur OpenEdition Journals",
+      "url": "https://www.implications-philosophiques.org/implications-philosophiques-sur-openedition-journals/",
+      "description": "Implications philosophiques sur OpenEdition Journals   Toute l’équipe de la revue Implications Philosophiques est heureuse de vous annoncer l’ouverture du nouveau site de la revue sur OpenEdition Journals. https://journals.openedition.org/implicationsphilosophiques Tous les nouveaux dossiers et les nouveaux articles de la revue paraîtront désormais sur ce nouveau site. Le site originel restera ouvert pour conserver les articles déjà publiés et accueillir les podcasts de la revue. Cette migration",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-07-26T18:11:42.008304+00:00",
+  "fetchedAt": "2026-07-31T06:41:03.541588+00:00",
   "items": [
     {
       "title": "What I Learned from Gordon Wood",
@@ -20,6 +20,22 @@
       }
     },
     {
+      "title": "Birthright and Belonging",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/birthright-and-belonging",
+      "description": "How does one become American?",
+      "date": "Wed, 22 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "How Not to Rise to the Occasion",
       "url": "https://hedgehogreview.com/web-features/thr/posts/how-not-to-rise-to-the-occasion",
       "description": "Does the dialectic of history lead to synthesis, a new beginning—or only return to childhood?",
@@ -33,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Read the Novels and Forget Everything Else",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
+      "description": "Patrick O’Brian’s life may have been one of dissimulation but his Aubrey-Maturin novels still offer the nutmeg of consolation for thousands of readers.",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/tolstoy-and-the-illusion-of-inevitability",
       "description": "AI reduces the apparent space of possibilities by presenting one path as the path. Many “futuribles” are reduced to one.",
       "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Companions on Parnassus",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/companions-on-parnassus",
-      "description": "Making ends meet—and writing timeless poetry—in Greenwich Village and Ischia.",
-      "date": "Wed, 10 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Akela Missed—Even If the Missiles Don’t",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/akela-missedeven-if-the-missiles-dont",
-      "description": "The fatal flaw of tyrants is their refusal to accept reality.",
-      "date": "Thu, 04 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

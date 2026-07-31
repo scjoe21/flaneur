@@ -1,40 +1,8 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-26T18:10:30.814976+00:00",
+  "fetchedAt": "2026-07-31T06:38:51.425912+00:00",
   "items": [
-    {
-      "title": "[DÉCOUVERTE] La mythologie chinoise | 09/10 · Les Routes de la Soie",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 01:00:14  - Avec philosophie - Comment une invention européenne du XIXᵉ siècle est-elle devenue un puissant outil géopolitique chinois deux siècles plus tard, et quelle réalité économique et stratégique recouvre-t-elle aujourd'hui ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "L'Odyssée d'Homère 1/4 : La fin d’un monde héroïque",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:57:46  - Avec philosophie - L’Odyssée d’Homère, épopée de la Grèce antique composée après l’Iliade, narre, quelques années après la victoire de la guerre de Troie, les dix ans d’aventure et d’errance d’Ulysse, qui poursuit son rêve de retour et de vie normale. Comment l'Odyssée éclaire-t-elle ce passage d'un monde à un autre ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 23 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
     {
       "title": "[DÉCOUVERTE] La mythologie chinoise | 02/10 · Yu le Grand, gouverneur des eaux",
       "url": "https://www.radiofrance.fr",
@@ -84,22 +52,6 @@
       }
     },
     {
-      "title": "Amandine Gay, artiste-essayiste : \"Charles W. Mills nous ouvre les yeux : le contrat social est un contrat racial\"",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:49  - Avec philosophie - par : Géraldine Mosna-Savoye - La réalisatrice et essayiste Amandine Gay nous invite à découvrir ou redécouvrir un texte peu connu du grand public. Bouleversée dans sa jeunesse par sa justesse, elle nous partage son regard sur cette œuvre qui ne cesse de la travailler : \"Le Contrat racial\" de Charles W. Mills.  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Ra",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
       "title": "Voyage en Italie avec Nietzsche : Gênes et Messine : 1882, grande année !",
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:58:22  - Avec philosophie - par : Géraldine Muhlmann - Le séjour de Friedrich Nietzsche à Gênes puis à Messine marque un moment où sa pensée s’ouvre à une affirmation plus joyeuse de l’existence. Face à la mer et à la lumière méditerranéenne, le philosophe développe l’idée d’un \"oui à la vie\", malgré ses souffrances.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite,",
@@ -116,10 +68,26 @@
       }
     },
     {
-      "title": "[DÉCOUVERTE] La mythologie chinoise | 06/10 · Mulan et le trouble dans le mythe",
+      "title": "Simone de Beauvoir, philosophe pas si rangée  3/4 : Simone de Beauvoir et la question des autres",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 01:01:21  - Avec philosophie - En mandarin, son nom est devenu synonyme d'héroïne. De la ballade anonyme des dynasties du Nord au dessin animé Disney, cette fille qui prend la place de son père enrôlé pour la guerre a traversé les siècles au gré des lectures confucéenne, nationaliste, communiste, hollywoodienn et sino-américaine. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 26 Jul 2026",
+      "description": "durée : 00:58:20  - Avec philosophie - par : Géraldine Muhlmann - Dans ses écrits de jeunesse, Simone de Beauvoir manifestait déjà un intérêt et un élan pour l'autre. Prenant acte de la pensée existentialiste, elle développera par la suite une conception ambitieuse du rapport autrui et de la responsabilité.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Rad",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Simone de Beauvoir, philosophe pas si rangée  2/4 : Un féminisme socialiste : l'évolution de Beauvoir",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:33  - Avec philosophie - par : Géraldine Muhlmann - Beauvoir publie le Deuxième Sexe en 1949 : à cette époque, elle ne se dit pas encore féministe mais plutôt socialiste. Si elle oppose d'abord ces deux formes d'engagement politique, elle assume après mai 68 un féminisme socialiste et matérialiste.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur",
+      "date": "Tue, 28 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -132,9 +100,25 @@
       }
     },
     {
-      "title": "[DÉCOUVERTE] La mythologie chinoise | 10/10 · 5 000 ans d'histoire",
+      "title": "Simone de Beauvoir, philosophe pas si rangée  1/4 : Quel est l'existentialisme de Beauvoir ?",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 01:01:43  - Avec philosophie - C’est l’un des refrains les plus puissants du récit chinois contemporain : celui d’une civilisation continue, cinq fois millénaire, dont le Parti communiste serait aujourd’hui l’héritier légitime. Que recouvre ce motif ? Et que reste-t-il archéologiquement, politiquement, de cette continuité ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "description": "durée : 00:58:36  - Avec philosophie - par : Géraldine Muhlmann - D'abord proche de l'existentialisme de Jean-Paul Sartre, Simone de Beauvoir a peu à peu développé son propre existentialisme afin de pouvoir penser la condition des femmes.  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "[DÉCOUVERTE] La mythologie chinoise | 06/10 · Mulan et le trouble dans le mythe",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 01:01:21  - Avec philosophie - En mandarin, son nom est devenu synonyme d'héroïne. De la ballade anonyme des dynasties du Nord au dessin animé Disney, cette fille qui prend la place de son père enrôlé pour la guerre a traversé les siècles au gré des lectures confucéenne, nationaliste, communiste, hollywoodienn et sino-américaine. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -168,6 +152,22 @@
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:57:19  - Avec philosophie - par : Géraldine Muhlmann - À Sorrente, Friedrich Nietzsche découvre la lumière italienne comme une révélation. Elle marque une rupture avec la culture allemande, ouvre un nouvel horizon pour sa pensée. Cette clarté méditerranéenne devient  pour lui le symbole d’une renaissance intellectuelle.  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limit",
       "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Simone de Beauvoir, philosophe pas si rangée  4/4 : Simone de Beauvoir au cœur des débats féministes",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:23  - Avec philosophie - par : Géraldine Muhlmann - Depuis la publication du \"Deuxième sexe\" en 1949, Simone de Beauvoir a fait couler beaucoup d'encre. Entre scandale et reconnaissance, la philosophe a touché un large public. Mais quelle place a-t-elle aujourd'hui dans les débats féministes ?   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Rad",
+      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

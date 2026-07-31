@@ -1,7 +1,7 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-07-26T18:11:25.189032+00:00",
+  "fetchedAt": "2026-07-31T06:40:44.082138+00:00",
   "items": [
     {
       "title": "Climate Action with Kyle Whyte",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 45
+      }
+    },
+    {
+      "title": "Weddings",
+      "url": "",
+      "description": "Something old, something new, something borrowed, something blue! In this episode, Ellie and David talk about weddings. What kind of celebration is a wedding? And what social function do these festivities serve? Do weddings necessarily legitimize the institution of marriage? Or can weddings be dissociated from this legal institution and its problematic history? As they ponder these issues, your hosts walk you down the aisle of history by considering how early Christians developed their views abo",
+      "date": "Tue, 28 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
       }
     },
     {
@@ -94,22 +110,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Pornography",
-      "url": "",
-      "description": "Content warning: this episode involves discussion of sexual violence and sexual assault. Can pornography be liberating or does it just promote the hatred of women? In episode 165 of Overthink Ellie and David discuss pornography. They talk about the feminist ‘sex wars’ and the pro-porn and anti-porn views that emerged from it. They talk about how the figure of the porn star has changed in the era of OnlyFans, and how porn blends sex with visuality. How might porn endanger women as a class? Can se",
-      "date": "Tue, 17 Mar 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 30

@@ -1,24 +1,8 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-07-26T18:10:32.050980+00:00",
+  "fetchedAt": "2026-07-31T06:38:52.423050+00:00",
   "items": [
-    {
-      "title": "Canicule : après le confinement sanitaire, bientôt l’ère des confinements climatiques ?",
-      "url": "https://usbeketrica.com/fr/article/canicule-apres-le-confinement-sanitaire-bientot-l-ere-des-confinements-climatiques",
-      "description": "Après une première canicule meurtrière fin juin, la France est à nouveau plongée dans une nouvelle vague de chaleur qui vide les rues et pousse la population à chercher refuge chez soi ou dans des lieux climatisés, donnant au pays des airs confinés. Mais le spectre d’un confinement climatique est-il vraiment crédible ? Plus encore : l’isolement imposé est-il en passe de devenir un réflexe pour nos sociétés ébranlées par les polycrises ?",
-      "date": "Sat, 11 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 29
-      }
-    },
     {
       "title": "Pourquoi les philosophes sont en train de devenir les stars de l'intelligence artificielle",
       "url": "https://usbeketrica.com/fr/article/les-philosophes-sont-ils-en-train-de-devenir-les-stars-de-l-intelligence-artificielle",
@@ -116,6 +100,38 @@
       }
     },
     {
+      "title": "Réseaux sociaux : et si c'était le début de la fin ?",
+      "url": "https://usbeketrica.com/fr/article/reseaux-sociaux-et-si-c-etait-le-debut-de-la-fin",
+      "description": "En janvier 2026, le Financial Times lâchait une petite bombe statistique : nous aurions collectivement passé le pic de temps consacré aux réseaux sociaux en 2022. Depuis, la courbe s'inverserait, doucement mais sûrement - même si notre temps d'écran, lui, continuerait d'augmenter. Le temps du scroll infini est-il bel et bien révolu ? Sommes-nous en train d'inventer de nouvelles manières d'habiter ces plateformes ? Ou bien cette reprise de contrôle n'est-elle qu'un mirage ?",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "En Chine, on peut louer son visage à des IA",
+      "url": "https://usbeketrica.com/fr/article/en-chine-on-peut-louer-son-visage-a-des-ia",
+      "description": "En Chine, l'essor de l'industrie des micro-dramas, des fictions ultra-courtes, alimente un tout nouveau business : la location de visages. Selon une enquête du média en ligne Rest of World, il est désormais possible, pour une poignée de yuans, de fournir des images de son faciès et de céder ses droits à l'image afin d'alimenter les algorithmes des sociétés de production spécialisées dans ce format à la mode. Un modèle lucratif qui pourrait, à terme, faire émerger « un nouveau marché de l'identit",
+      "date": "Mon, 27 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
       "title": "Et si l’IA devenait vraiment inclusive ?",
       "url": "https://usbeketrica.com/fr/article/et-si-l-ia-devenait-vraiment-inclusive",
       "description": "Quand une IA ne comprend pas une voix sourde, ignore un CV portant la mention RQTH ou produit un site inaccessible, elle ne fait souvent que reproduire les angles morts de la société. Pour devenir inclusive, elle doit d'abord apprendre à voir ce qu'elle ne voit pas. Portrait-robot d’une IA (vraiment) pour toutes et tous, commenté par Emmanuelle Aboaf, développeuse sourde de naissance, spécialisée en accessibilité numérique et Yann Ferguson, sociologue et directeur scientifique du LaborIA à INRIA",
@@ -132,19 +148,19 @@
       }
     },
     {
-      "title": "Samantha Shannon, autrice de fantasy : « Il faut questionner les idées que les mythes et légendes transmettent d'une génération à l'autre »",
-      "url": "https://usbeketrica.com/fr/article/samantha-shannon-autrice-de-fantasy-il-faut-questionner-les-idees-que-transmettent-les-mythes-et-legendes",
-      "description": "À l’occasion du Festival international du film fantastique de Neuchâtel (NIFFF), qui lui décerne cette année un « prix spécial », la romancière de fantasy Samantha Shannon (The Bone Season, Le Prieuré de l’Oranger…) nous plonge dans les coulisses de son œuvre.",
-      "date": "Tue, 07 Jul 2026",
+      "title": "« L’invention du futur », roman d’une jeunesse qui refuse le contrôle social",
+      "url": "https://usbeketrica.com/fr/article/l-invention-du-futur-roman-d-une-jeunesse-qui-refuse-le-controle-social",
+      "description": "Avec L’invention du futur (in8 éditions, 2026), le journaliste et romancier Cédric Fabre, contributeur régulier d’Usbek & Rica, propose un récit d’anticipation déroutant et étrangement crédible. Un roman pour adolescents en forme d’éloge de la résistance, de la différence, et de la politique au sens le plus noble du terme.",
+      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 14,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
+        "total": 14
       }
     },
     {
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "J’ai joué au « test des trois Chinois », et voilà le résultat",
-      "url": "https://usbeketrica.com/fr/article/j-ai-joue-au-test-des-trois-chinois-et-voila-le-resultat",
-      "description": "ÉDITO // Qui est capable de citer le nom de trois Chinois vivants ? Derrière cette question provocatrice, posée par le rédacteur en chef du site Le Grand Continent, il y a le constat d’une urgence : le travail de veille sur l’état du monde et les émergences de notre époque ne doit pas être réservé à une poignée d’experts. C’est l’angle creusé dans l’édito du nouveau numéro de FUTUR, le magazine d'Usbek & Rica, disponible en librairie depuis le 9 juillet.",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "Cinq BD pour emmener le futur en vacances",
-      "url": "https://usbeketrica.com/fr/article/cinq-bd-pour-garder-un-pied-dans-le-futur-cet-ete",
-      "description": "Après avoir sélectionné cinq romans à dévorer cet été, la rédaction d'Usbek & Rica recommande cinq bandes dessinées pour garder un pied dans le futur pendant les vacances.",
-      "date": "Fri, 17 Jul 2026",
+      "title": "Trois mangas de science-fiction à lire absolument cet été",
+      "url": "https://usbeketrica.com/fr/article/trois-mangas-de-science-fiction-a-lire-absolument-cet-ete",
+      "description": "Après les romans et les BD, la rédaction d’Usbek & Rica vous a concocté une nouvelle sélection de recommandations de lecture pour vous évader cet été, direction le futur. Aujourd'hui, cap sur les meilleurs mangas de SF parus ces derniers mois, en toute subjectivité.",
+      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "5 romans pour plonger dans le futur cet été",
-      "url": "https://usbeketrica.com/fr/article/5-romans-pour-plonger-dans-le-futur-cet-ete",
-      "description": "Vous ne savez pas encore quels romans embarquer dans vos valises cet été ? On vous en conseille cinq dévorés récemment - et qui parlent du futur, évidemment.",
-      "date": "Fri, 10 Jul 2026",
+      "title": "Cinq BD pour emmener le futur en vacances",
+      "url": "https://usbeketrica.com/fr/article/cinq-bd-pour-garder-un-pied-dans-le-futur-cet-ete",
+      "description": "Après avoir sélectionné cinq romans à dévorer cet été, la rédaction d'Usbek & Rica recommande cinq bandes dessinées pour garder un pied dans le futur pendant les vacances.",
+      "date": "Fri, 17 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
