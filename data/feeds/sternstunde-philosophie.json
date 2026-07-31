@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-07-26T18:10:39.284042+00:00",
+  "fetchedAt": "2026-07-31T16:50:41.395794+00:00",
   "items": [
     {
       "title": "Ivan Krastev, how sustainable is Europe? | Sternstunde Philosophie | SRF Kultur",
@@ -78,22 +78,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "Geburtenrückgang – Gibt es bald zu wenige Menschen? | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=Mh3xB3TpehA",
-      "description": "Paul Morland ist einer der einflussreichsten Demografen weltweit. Und er hat eine alarmierende Nachricht: Nicht mehr die Bevölkerungsexplosion ist die grosse Gefahr für die Welt, sondern das Gegenteil: Wir könnten bald zu wenige sein. Wie kam es dazu und was lässt sich dagegen tun?\n\nThemen in dieser Folge:\n00:00 Warum ist die Lage so dramatisch? \n17:34 Das demografische Trilemma \n30:00 Das Problem der alternden Bevölkerung \n34:00 Wie bringen wir die Menschen dazu, wieder mehr Kinder zu haben? \n\n",
-      "date": "2026-05-26",
-      "thumbnail": "https://i2.ytimg.com/vi/Mh3xB3TpehA/hqdefault.jpg",
-      "videoId": "Mh3xB3TpehA",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 40
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Wie finde ich aus der Erschöpfung, Thomas Fuchs?",
+      "url": "https://www.youtube.com/watch?v=WzDoHqn5JGU",
+      "description": "Erschöpft, leer, ausgebrannt: Immer mehr Menschen fühlen sich an der Grenze ihrer Kräfte. Der Philosoph und Psychiater Thomas Fuchs erklärt im «Zimmer 42», woher unsere Müdigkeit kommt – und wie wir aus der Erschöpfung herausfinden.\n\nDie Arbeitslast hat im Vergleich zu früher nicht wesentlich zugenommen, sagt Thomas Fuchs im Gespräch mit Barbara Bleisch. Dennoch beobachtet er in seiner Praxis, dass immer mehr Menschen von tiefer Erschöpfung berichten. Verändert habe sich vor allem das hohe Tempo",
+      "date": "2026-07-28",
+      "thumbnail": "https://i4.ytimg.com/vi/WzDoHqn5JGU/hqdefault.jpg",
+      "videoId": "WzDoHqn5JGU",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {

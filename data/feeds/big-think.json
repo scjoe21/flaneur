@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-07-31T06:40:48.752342+00:00",
+  "fetchedAt": "2026-07-31T16:50:53.295290+00:00",
   "items": [
     {
       "title": "Understanding our modern crisis of meaning",
@@ -20,22 +20,6 @@
       }
     },
     {
-      "title": "The 20 biggest cosmic discoveries of the last 20 decades",
-      "url": "https://bigthink.com/starts-with-a-bang/20-biggest-cosmic-discoveries-20-decades/",
-      "description": "It’s hard to fathom just how far we’ve come in our understanding of the Universe over the past 200 years. Back in the early 1800s, we didn’t even know how far away the stars were, what they were made of, or how they worked. We didn’t know what the Universe was, how big it was, or even what the laws were that governed it. We were up to seven planets in the Solar System, with Uranus being discovered in 1781, and had uncovered several asteroids: objects in between the orbits of Mars and Jupiter. We",
-      "date": "Tue, 28 Jul 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/01/LRD_subsample-e1781556164697.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
       "title": "America doesn’t need new politicians. It needs a more political competition.",
       "url": "https://bigthink.com/history-society/andrew-yang-third-parties/",
       "description": "“Hey, Yang, where’s my thousand bucks?” It’s a question entrepreneur and political commentator Andrew Yang hears a lot. So often, he turned it into the title of his new memoir,  Hey Yang, Where’s My Thousand Bucks? and Other True Stories of Staggering Depth . \n It’s not a bad question to ask. Universal basic income (UBI) was a core talking point of Yang’s energizing but ultimately unsuccessful 2020 presidential campaign, as well as his run for mayor of New York two years later, where he hoped to",
@@ -49,6 +33,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 28
+      }
+    },
+    {
+      "title": "Big Think’s 5 favorite nonfiction books of 2026 (so far)",
+      "url": "https://bigthink.com/books/favorite-nonfiction-books-of-2026-so-far/",
+      "description": "We’re only halfway through 2026, and already, the year has been filled to bursting with amazing books on any subject you’d care to learn about. Our book coverage alone has run the gamut, touching on subjects as diverse as mental health, dinosaurs, social connections, chaos theory, love, Greek myths, science fiction, and economies. And then there were the many histories about things like war, colors, soccer, medical myths,  information technology , and politics ( so much  politics). \n As we enter",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/07/favorites-of-2026-so-far.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {

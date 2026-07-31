@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-07-31T06:38:51.425912+00:00",
+  "fetchedAt": "2026-07-31T16:50:34.315884+00:00",
   "items": [
     {
       "title": "[DÉCOUVERTE] La mythologie chinoise | 02/10 · Yu le Grand, gouverneur des eaux",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "[DÉCOUVERTE] La mythologie chinoise | 07/10 · Monstres et fantômes",
+      "title": "Wajdi Mouawad, auteur : \"L'idée de 'solidarité des ébranlés' de Patočka a bouleversé ma vie\"",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 01:00:03  - Avec philosophie - Dans la tradition chinoise, monstres et fantômes ne sont presque jamais de simples créatures destinées à faire peur. Morts oubliés, esprits en colère, démons métamorphoses, renardes séduisantes, cadavres animés popularisés par le cinéma de Hong Kong : ils habitent les contes, les temples et l'écran. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 26 Jul 2026",
+      "description": "durée : 00:58:37  - Avec philosophie - par : Géraldine Mosna-Savoye - En 1975, le philosophe tchèque Jan Patočka proposait, avec ses \"Essais hérétiques\", une réflexion puissante sur le XXème siècle, ses deux guerres mondiales, \"la solidarité des ébranlés\": cet ébranlement, le dramaturge Wajdi Mouawad en a fait le cœur de son œuvre. Il vient nous en parler. \n\n  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-v",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 10,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 25
+        "total": 19
       }
     },
     {
@@ -49,6 +49,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "\"Le Terrier\" de Franz Kafka par le philosophe Peter Szendy",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:06  - Avec philosophie - par : Géraldine Mosna-Savoye - Le philosophe Peter Szendy évoque \"Le Terrier\" de Franz Kafka, un petit conte inquiétant et inachevé sur une taupe paranoïaque qui n'a qu'un rêve, celui de bâtir le terrier parfait, à l'abri du monde, de ses bruits et de ses dangers, jusqu'à faire de son chez-soi le lieu de toutes les menaces...  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, ren",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Plonger dans sa psyché 1/5 : \"Fragments d’un discours amoureux\" de Roland Barthes par la psychanalyste Laurence Joseph",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:11  - Avec philosophie - par : Géraldine Mosna-Savoye - Avec la psychanalyste Laurence Joseph ouvrons les \"Fragments d'un discours amoureux\" de Roland Barthes pour un retour sur un texte intemporel de 1977 et une chorégraphie du sentiment amoureux décliné en figures de l'alphabet.    - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -113,38 +145,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] La mythologie chinoise | 06/10 · Mulan et le trouble dans le mythe",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 01:01:21  - Avec philosophie - En mandarin, son nom est devenu synonyme d'héroïne. De la ballade anonyme des dynasties du Nord au dessin animé Disney, cette fille qui prend la place de son père enrôlé pour la guerre a traversé les siècles au gré des lectures confucéenne, nationaliste, communiste, hollywoodienn et sino-américaine. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] La mythologie chinoise | 08/10 · Yugong Yishan, le vieux fou qui déplaça les montagnes",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 01:00:48  - Avec philosophie - Un vieil homme n’en pouvait plus de voir se dresser devant sa maison deux montagnes, le Taihang et le Wangwu. Alors, malgré les doutes de sa femmes ou les sarcasmes de ses voisins, Yugong, 90 ans, décida de déplacer les montagnes avec l’aide, dans un premier temps, de ses fils et de ses petits-fils. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
       }
     },
     {

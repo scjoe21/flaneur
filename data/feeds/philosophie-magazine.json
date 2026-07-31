@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-31T06:38:52.015183+00:00",
+  "fetchedAt": "2026-07-31T16:50:34.736140+00:00",
   "items": [
     {
       "title": "Mohenjo-daro : la cité qui met en question le scénario de l’inégalité",
@@ -49,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Peut-on avoir raison par hasard ? Quand les complotistes voient (parfois) juste",
+      "url": "https://www.philomag.com/articles/peut-avoir-raison-par-hasard-quand-les-complotistes-voient-parfois-juste",
+      "description": "",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/les-nouveaux-empires-leurope-lia-comprendre-notre-nouveau-monde-avec-peter-sloterdijk",
       "description": "",
       "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Tabou, secret, pulsionnel ? Les idées reçues sur l’inceste qui empêchent de lutter efficacement contre le phénomène",
-      "url": "https://www.philomag.com/articles/tabou-secret-pulsionnel-les-idees-recues-sur-linceste-qui-empechent-de-lutter",
-      "description": "",
-      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

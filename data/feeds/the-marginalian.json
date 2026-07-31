@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-31T06:40:50.554436+00:00",
+  "fetchedAt": "2026-07-31T16:50:54.435551+00:00",
   "items": [
     {
       "title": "Ursula K. Le Guin on the Meaning of Life",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "How to Help Someone Change: The Samurai Guide to Giving Feedback",
-      "url": "https://www.themarginalian.org/2026/07/13/tsunetomo-feedback/",
-      "description": "Few things in life are more exasperating than seeing the potential in someone you love and seeing them continually fall short of it, stumbling again and again over the same self-erected roadblocks of character and conduct, comporting themselves in a manner painfully inferior to what you know them to be capable of. What to do? The problem of whether and how people change is the eternal problem of being alive. Changing our own ways of being is difficult enough, prey enough to paradox and peril; ch",
-      "date": "Tue, 14 Jul 2026",
+      "title": "The Log from the Sea of Cortez: John Steinbeck’s Forgotten Masterpiece on How to Think and the Art of Seeing the Pattern Beyond the Particular",
+      "url": "https://www.themarginalian.org/2026/07/30/steinbeck-log-from-the-sea-of-cortez/",
+      "description": "\"Everything impinges on everything else... Everything is potentially everywhere.\"",
+      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 5,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -116,26 +116,26 @@
       }
     },
     {
+      "title": "A Heron, a Red Leaf, and a Hole in a Blue Star: Poet Jane Kenyon on the Art of Letting Go",
+      "url": "https://www.themarginalian.org/2026/07/30/jane-kenyon-things-otherwise/",
+      "description": "The vital force of life is charged by the poles of holding on and letting go. We know that the price of love is loss, and yet we love anyway; that our atoms will one day belong to generations of other living creatures who too will die in turn, and yet we press them hard against the body of the world, against each other’s bodies, against the canvas and the keyboard and the cambium of life. This is the cruel contract of all experience, of aliveness itself — that in order to have it, we must agree ",
+      "date": "Thu, 30 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
       "title": "Do the Next Right Thing: Carl Jung on How to Live and the Origin of His Famous Tenet for Navigating Uncertainty",
       "url": "https://www.themarginalian.org/2026/07/27/carl-jung-next-right-thing/",
       "description": "\"There is no pit you cannot climb out of provided you make the right effort at the right place... do the next thing with diligence and devotion.\"",
       "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How to Bear Your Sorrows: Nick Cave on Integrating the Darkness of Loss with the Bright Ongoingness of Life",
-      "url": "https://www.themarginalian.org/2026/07/15/nick-cave-loss/",
-      "description": "Few things in our culture are more wounding than the concept of healing — as if the pains and losses that we suffer are an illness, a malfunction of the psyche to be cut out like a tumor, rather than a natural function of being alive, of feeling life deeply and living it fully. All our sorrows have been wasted if we have not learned to suffer and to be surprised by the door at the end of our suffering, on the other wide of which is simply the world, which keeps on worlding. It is not healing tha",
-      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -180,19 +180,35 @@
       }
     },
     {
-      "title": "Dr. Jekyll, Mr. Hyde, and Ms. Boodle: Robert Louis Stevenson’s Advice on Writing to a Young Woman Aspiring to Be an Author",
-      "url": "https://www.themarginalian.org/2026/07/24/robert-louis-stevenson-writing/",
-      "description": "In late 1884, Adelaide Boodle — talented, timorous, still in her twenties — received news so thrilling she thought she was dreaming: Her favorite author was moving into the small town on the south coast of England that had always been her home. Having longed to be a writer since childhood, she seized the chance to learn from one of the world’s greatest storytellers. After a decade as a struggling obscure writer, Robert Louis Stevenson (November 13, 1850–December 3, 1894) — brilliant, strange, so",
-      "date": "Fri, 24 Jul 2026",
+      "title": "Blackie & Co.: A Blackbird’s Lesson in Friendship",
+      "url": "https://www.themarginalian.org/2026/07/31/hockley-clarke-blackie/",
+      "description": "In the middle of my bleakest winter, my friend Andrea gave me a battered copy of a forgotten book from her elderly father’s used bookshop in rural Texas, by a man named Hockley Clarke. I inhaled it in a day. Born in England in the final year of the nineteenth century, Hockley Clarke grew up loving nature. When he was sent to France with the British infantry during WWI, still a teenager, he looked for birds whenever he was out of the trenches or had a day’s rest, listening for them through the bl",
+      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 13,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 8,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
+      "title": "No One You Love Is Ever Dead: Hemingway on the Most Devastating of Losses and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/07/31/hemingway-loss-letter/",
+      "description": "\"We must live it, now, a day at a time and be very careful not to hurt each other.\"",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 13
+        "total": 10
       }
     },
     {
@@ -222,22 +238,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "From Mitochondria to Minds: The Illustrated Science of the Psychedelic Dream Called Life",
-      "url": "https://www.themarginalian.org/2026/07/19/the-forgotten-teachers/",
-      "description": "Like consciousness, like music, like love, life itself didn’t have to exist — nothing in the fundamental laws demands it. The universe could have gone on lapping at itself as a horizonless sea of pure spacetime, black and lifeless as the inside of a skull. But, in a whisper that soon became a symphony, life arose to give us such ceaseless wonders as the ghost pipe and the ginkgo, the bowerbird and the eye of the scallop. Neuroscientist Brian Isett and artist Claudia Biçen celebrate the wonder of",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

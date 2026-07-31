@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-07-31T06:38:57.910500+00:00",
+  "fetchedAt": "2026-07-31T16:50:39.009313+00:00",
   "items": [
     {
       "title": "Die Macht der Nähe",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
+      }
+    },
+    {
+      "title": "Europa als Chance",
+      "url": "https://www.philomag.de/artikel/europa-als-chance",
+      "description": "Mehr noch als der Philosoph der Bundesrepublik war Habermas Denker einer kosmopolitischen Ordnung. Eine nationalistische, von Volksgefühlen genährte Politik hielt er für ebenso gefährlich wie unzureichend.",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -116,6 +132,22 @@
       }
     },
     {
+      "title": "Philosophie jenseits von Dogmen. Hilary Putnam zum 100. Geburtstag",
+      "url": "https://www.philomag.de/artikel/philosophie-jenseits-von-dogmen-hilary-putnam-zum-100-geburtstag",
+      "description": "Der Philosoph Hilary Putnam ist nicht nur Urheber des berühmten Gedankenexperiments vom Gehirn im Tank. Mit seiner Suche nach pragmatischen Vermittlungspositionen leistete er auch einen wesentlichen Beitrag zur Überwindung dogmatischer Denkmuster in der Philosophie.",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Musikalische Guilty Pleasures",
       "url": "https://www.philomag.de/artikel/musikalische-guilty-pleasures",
       "description": "Sei es auf einer Party oder im Gespräch mit Freunden: Während andere sich über bestimmte Lieder lustig machen, findet man insgeheim Gefallen an ihnen und schämt sich dafür. Doch was steckt eigentlich hinter diesem Phänomen?",
@@ -145,22 +177,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 10
-      }
-    },
-    {
-      "title": "Phil.Kids (05/26)",
-      "url": "https://www.philomag.de/artikel/philkids-0526",
-      "description": "Kleine Menschen wissen oft mehr als große. Wir fragen, Kinder antworten.",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {
@@ -206,22 +222,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Sinnieren in der Sonne",
-      "url": "https://www.philomag.de/artikel/sinnieren-der-sonne",
-      "description": "Acht Buchtipps aus der Redaktion für einen garantiert philosophischen Sommer!",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

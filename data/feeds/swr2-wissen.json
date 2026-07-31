@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-26T18:11:37.529060+00:00",
+  "fetchedAt": "2026-07-31T16:51:01.111671+00:00",
   "items": [
     {
       "title": "Spähsoftware im Handy – Wie Staaten uns heimlich überwachen",
@@ -20,6 +20,22 @@
       }
     },
     {
+      "title": "Hitze – Wann sie gefährlich wird und wie wir uns anpassen",
+      "url": "https://www.swr.de/swrkultur/wissen/hitze-wann-sie-gefaehrlich-wird-und-wie-wir-uns-anpassen-108.html",
+      "description": "Hitzewellen sind belastend, doch mit der richtigen Anpassung lassen sie sich gut überstehen. Dazu gehört, sich nicht ausschließlich in klimatisierten Räumen zu schonen, sondern den Körper an Hitze zu gewöhnen.",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Vibes – Wann wir uns mit anderen wohlfühlen",
       "url": "https://www.swr.de/swrkultur/wissen/vibes-wann-wir-uns-mit-anderen-wohlfuehlen-100.html",
       "description": "Sich auf Anhieb zu verstehen, fühlt sich gut an. Man weiß, wie der andere tickt und muss nicht viel erklären: Es vibet einfach. Sogar die Hirnströme gleichen sich an.",
@@ -33,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "Millionen Analphabeten – Wie Erwachsene richtig lesen und schreiben lernen",
-      "url": "https://www.swr.de/swrkultur/wissen/millionen-analphabeten-wie-erwachsene-richtig-lesen-und-schreiben-lernen-100.html",
-      "description": "Rund sechs Millionen Erwachsene können – trotz Schulabschluss und Job – nur einzelne Sätze lesen oder schreiben. Schon einfache Texte werden zum Problem. Doch die wenigsten suchen Hilfe.",
-      "date": "Thu, 16 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Können Männer Feministen sein?",
+      "url": "https://www.swr.de/swrkultur/wissen/koennen-maenner-feministen-sein-100.html",
+      "description": "Von mangelnder Care-Arbeit bis zum Schweigen bei sexualisierter Gewalt: Selbst aufgeklärte Männer unterschätzen Frauen und sind tendenziell weniger mitfühlend. Was tun?",
+      "date": "Thu, 30 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Biodiversität in Städten – Ungeahnte Vielfalt in Parks und Mauerritzen",
       "url": "https://www.swr.de/swrkultur/wissen/biodiversitaet-in-staedten-ungeahnte-vielfalt-in-parks-und-mauerritzen-100.html",
       "description": "Allein in Berlin gibt es über 20.000 Tier- und Pflanzenarten. Doch zunehmende Versiegelung bedroht die Vielfalt. Tierfreundliche Architektur und mehr ökologisches Bewusstsein könnten sie bewahren.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/biodiversitaet-staedte\nInfos:\nUm die Artenvielfalt in den Städten zu erfassen, kann jede und jeder mithelfen! Dazu informiert unter anderem die Stiftung für Naturschutz\nhttps://www.stiftung-naturschutz.de/presse/pressemitte",
@@ -132,19 +148,19 @@
       }
     },
     {
-      "title": "Beate Uhse – Sex-Pionierin und Geschäftsfrau",
-      "url": "https://www.swr.de/swrkultur/wissen/beate-uhse-sex-pionierin-und-geschaeftsfrau-104.html",
-      "description": "Anfangs ging es Beate Uhse um mehr Lust und Selbstbestimmung der deutschen Frauen. Später dachte sie vor allem ans Geschäft und bediente mit ihren Pornofilmen Männerfantasien. Vor 25 Jahren ist sie gestorben.",
-      "date": "Wed, 15 Jul 2026",
+      "title": "Vom Planschen zum Kraulen – Schwimmunterricht in Deutschland",
+      "url": "https://www.swr.de/swrkultur/wissen/vom-planschen-zum-kraulen-schwimmunterricht-in-deutschland-102.html",
+      "description": "Zu wenig Bäder, fehlendes Lehrpersonal, Corona-Pause: Die Zahl der Grundschulkinder, die nicht schwimmen können, hat sich verdoppelt. Doch es gibt Wege, die Lage zu verbessern.",
+      "date": "Sat, 1 Aug 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
@@ -164,6 +180,38 @@
       }
     },
     {
+      "title": "Bunker, Tiefgaragen, private Keller – Wo wir im Ernstfall Schutz finden",
+      "url": "https://www.swr.de/swrkultur/wissen/bunker-tiefgaragen-private-keller-wo-wir-im-ernstfall-schutz-finden-100.html",
+      "description": "Ein Angriff, ein Schadstoff-Unfall: Nur eine halbe Million Deutsche fände Platz in einem alten Bunker. Die Bundesregierung investiert Milliarden in den Zivilschutz. Privatpersonen sollten sich vorbereiten.",
+      "date": "Wed, 29 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Mode online shoppen mit KI – Passende Outfits, weniger Retouren?",
+      "url": "https://www.swr.de/swrkultur/wissen/mode-online-shoppen-mit-ki-passende-outfits-weniger-retouren-100.html",
+      "description": "Ein Foto von sich aufnehmen, in der App hochladen und schon empfiehlt sie die richtige Kleidergröße. Das würde zielgenaues Online-Shoppen ermöglichen und könnte die Retouren halbieren.",
+      "date": "Tue, 28 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Populismus? Faschismus? Politische Begriffe und ihre Grenzen",
       "url": "https://www.swr.de/swrkultur/wissen/populismus-faschismus-politische-begriffe-und-ihre-grenzen-102.html",
       "description": "Ist die AfD \"populistisch\"? Ist Trump ein \"Faschist\"? Solche Begriffe helfen einerseits, politische Phänomene einzuordnen. Doch manchmal machen wir es uns damit zu einfach.",
@@ -180,58 +228,10 @@
       }
     },
     {
-      "title": "Mode online shoppen mit KI – Passende Outfits, weniger Retouren?",
-      "url": "https://www.swr.de/swrkultur/wissen/mode-online-shoppen-mit-ki-passende-outfits-weniger-retouren-100.html",
-      "description": "Ein Foto von sich aufnehmen, in der App hochladen und schon empfiehlt sie die richtige Kleidergröße. Das würde zielgenaues Online-Shoppen ermöglichen und könnte die Retouren halbieren.",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
       "title": "Open Science – Forschung zwischen Transparenz und Datenklau",
       "url": "https://www.swr.de/swrkultur/wissen/open-science-forschung-zwischen-transparenz-und-datenklau-100.html",
       "description": "Offen, transparent und nachnutzbar. So lautet das Versprechen von Open Science. Wenn die Forschenden ihre Daten kostenfrei teilen, werden alle profitieren. Geht diese Rechnung auf?",
       "date": "Sat, 18 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Krebsnachsorge – Rückfälle vermeiden, Lebensqualität verbessern",
-      "url": "https://www.swr.de/swrkultur/wissen/krebsnachsorge-rueckfaelle-vermeiden-lebensqualitaet-verbessern-100.html",
-      "description": "Wer Krebs überlebt hat, leidet häufig jahrelang unter körperlichen und psychischen Folgen. Individuelle medizinische Angebote können die \"Survivor\" unterstützen. Es gibt aber zu wenige.",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Putschversuch in der Türkei 2016 und die Oppositionsbewegung heute",
-      "url": "https://www.swr.de/swrkultur/wissen/putschversuch-in-der-tuerkei-2016-und-die-oppositionsbewegung-heute-100.html",
-      "description": "In der Nacht zum 16. Juli 2016 putschten Teile des türkischen Militärs – und scheiterten. Welche Folgen hat der Putsch noch heute? Und wohin steuert die Türkei zehn Jahre danach?",
-      "date": "Tue, 14 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

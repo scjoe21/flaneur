@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-07-31T06:40:44.235930+00:00",
+  "fetchedAt": "2026-07-31T16:50:50.403591+00:00",
   "items": [
     {
       "title": "How art invented humanity",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Resist the technocrats",
+      "url": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international",
+      "description": "Through international organisations, they wield power under the pretence of simply following the experts. Don’t believe them - by Jan Eijking Read on Aeon",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers",
       "description": "Every 122 years, Venus crosses the Sun as a black and fleeting teardrop, kindling the awe of all those who dare to know - by Ananya Palivela Read on Aeon",
       "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What remains",
-      "url": "https://aeon.co/videos/how-oyster-cultivation-protects-louisianas-fragile-coastline",
-      "description": "In an ingenious restoration project, the humble oyster shell is transformed into a powerful tool to halt coastal erosion - by Aeon Video Watch on Aeon",
-      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
