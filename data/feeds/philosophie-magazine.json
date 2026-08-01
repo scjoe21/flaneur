@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-07-31T20:05:42.080286+00:00",
+  "fetchedAt": "2026-08-01T17:26:38.399234+00:00",
   "items": [
     {
       "title": "Mohenjo-daro : la cité qui met en question le scénario de l’inégalité",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Ritualiser le quotidien : une arme contre l’aliénation du monde moderne ?",
+      "url": "https://www.philomag.com/articles/ritualiser-le-quotidien-une-arme-contre-lalienation-du-monde-moderne",
+      "description": "",
+      "date": "Sat, 01 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -49,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Les mille et un visages d’Ulysse : entretien avec Daniel Mendelsohn",
+      "url": "https://www.philomag.com/articles/les-mille-et-un-visages-dulysse-entretien-avec-daniel-mendelsohn",
+      "description": "",
+      "date": "Sat, 01 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/les-grandes-etapes-du-retour-dulysse-ithaque",
       "description": "",
       "date": "Sat, 25 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Iran : d’où vient le culte des martyrs ?",
-      "url": "https://www.philomag.com/articles/iran-dou-vient-le-culte-des-martyrs",
-      "description": "",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les nouveaux empires, l’Europe, l’IA… Comprendre notre nouveau monde avec Peter Sloterdijk",
-      "url": "https://www.philomag.com/articles/les-nouveaux-empires-leurope-lia-comprendre-notre-nouveau-monde-avec-peter-sloterdijk",
-      "description": "",
-      "date": "Fri, 24 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

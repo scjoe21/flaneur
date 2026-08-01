@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-07-31T20:06:25.095643+00:00",
+  "fetchedAt": "2026-08-01T17:27:09.032977+00:00",
   "items": [
     {
       "title": "Spähsoftware im Handy – Wie Staaten uns heimlich überwachen",
@@ -97,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Geoengineering im Meer – Mit Mineralien gegen den Klimawandel?",
+      "url": "https://www.swr.de/swrkultur/wissen/geoengineering-im-meer-mit-mineralien-gegen-den-klimawandel-100.html",
+      "description": "Könnte man das Meer dazu bringen, mehr CO2 aus der Atmosphäre aufzunehmen, um so die globale Erwärmung zu bremsen? An einem solchen Verfahren wird weltweit geforscht.",
+      "date": "Sun, 2 Aug 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/populismus-faschismus-politische-begriffe-und-ihre-grenzen-102.html",
       "description": "Ist die AfD \"populistisch\"? Ist Trump ein \"Faschist\"? Solche Begriffe helfen einerseits, politische Phänomene einzuordnen. Doch manchmal machen wir es uns damit zu einfach.",
       "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Open Science – Forschung zwischen Transparenz und Datenklau",
-      "url": "https://www.swr.de/swrkultur/wissen/open-science-forschung-zwischen-transparenz-und-datenklau-100.html",
-      "description": "Offen, transparent und nachnutzbar. So lautet das Versprechen von Open Science. Wenn die Forschenden ihre Daten kostenfrei teilen, werden alle profitieren. Geht diese Rechnung auf?",
-      "date": "Sat, 18 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

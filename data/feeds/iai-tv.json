@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-07-31T20:06:29.554262+00:00",
+  "fetchedAt": "2026-08-01T17:27:13.121471+00:00",
   "items": [
     {
       "title": "Alain de Botton on love, perversion and suffering",
@@ -132,22 +132,6 @@
       }
     },
     {
-      "title": "How the language you speak changes how you see the world | Lera Boroditsky",
-      "url": "https://www.youtube.com/watch?v=MAd3kuoOgQ4",
-      "description": "Lera Boroditsky discusses how the language you speak impacts your perception of the world.\n\nHow has learning a second language impacted your understanding of the world?\n\nWith a free trial, you can watch Steven Pinker in a debate on the relationship between language and thought NOW at https://iai.tv/video/lost-in-thought?utm_source=YouTube&utm_medium=description\n\nWe used to think that language is simply a neutral tool for communication - and that speakers of every language must think alike. But L",
-      "date": "2026-07-16",
-      "thumbnail": "https://i2.ytimg.com/vi/MAd3kuoOgQ4/hqdefault.jpg",
-      "videoId": "MAd3kuoOgQ4",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "The medicalisation of sadness is making us ill | Joanna Moncrieff, Sarah Wilson, Anna Lembke",
       "url": "https://www.youtube.com/watch?v=Q1fy7TaiLaE",
       "description": "Anna Lembke, Sarah Wilson and Joanna Moncrieff discuss whether bringing mental health into the open may be making us more fragile.\n\nDo you think that we are over-medicalising ordinary aspects of daily life?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-pathology-of-everyday-life?utm_source=YouTube&utm_medium=description\n\nBringing mental illness into the open was hailed as a breakthrough. Today, over half of Americans are comfortable discussing their emotional ",
@@ -180,19 +164,19 @@
       }
     },
     {
-      "title": "Mozart never created an original piece of music | Tony Sampson, Victoria Trumbull",
-      "url": "https://www.youtube.com/shorts/bqgfMwCpMQY",
-      "description": "With a free trial, you can watch the full debate NOW at https://iai.tv/video/memes-minds-and-the-myth-of-control?utm_source=YouTube&utm_medium=short\n\n#classicalmusic #music #creativity #philosophy",
-      "date": "2026-07-15",
-      "thumbnail": "https://i3.ytimg.com/vi/bqgfMwCpMQY/hqdefault.jpg",
-      "videoId": "bqgfMwCpMQY",
-      "priority": 15,
+      "title": "What the Ancient Greeks can teach us about love | Alain de Botton",
+      "url": "https://www.youtube.com/shorts/5HIBxwepyW8",
+      "description": "With a free trial, you can watch the full talk at https://iai.tv/video/love-is-more-than-magic?utm_source=YouTube&utm_medium=short-2\n\n#ancientgreece #schooloflife #love #relationships",
+      "date": "2026-08-01",
+      "thumbnail": "https://i2.ytimg.com/vi/5HIBxwepyW8/hqdefault.jpg",
+      "videoId": "5HIBxwepyW8",
+      "priority": 10,
       "scoreDetail": {
         "daily": 10,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -241,6 +225,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Science and the unknowable universe | Avshalom Elitzur and Lera Boroditsky",
+      "url": "https://www.youtube.com/watch?v=VDifVg4Chxc",
+      "description": "Avshalom Elitzur and Lera Boroditsky discuss whether science is limited by human perception. \n\nScience has long been considered the most powerful tool for understanding reality. But can it ever fully grasp the things it seeks? \n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/science-and-the-unknowable-universe?utm_source=YouTube&utm_medium=description\n\nPhysicist and philosopher Avshalom Elitzur has spent his career probing the foundations of quantum mechanics and conf",
+      "date": "2026-08-01",
+      "thumbnail": "https://i3.ytimg.com/vi/VDifVg4Chxc/hqdefault.jpg",
+      "videoId": "VDifVg4Chxc",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     }
   ]

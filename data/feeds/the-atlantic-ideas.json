@@ -1,22 +1,22 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-07-31T20:06:15.805577+00:00",
+  "fetchedAt": "2026-08-01T17:27:00.491475+00:00",
   "items": [
     {
-      "title": "How Netanyahu Lost America",
-      "url": "https://www.theatlantic.com/ideas/2026/07/bibi-netanyahu-israel-failures-antisemitism/688050/?utm_source=feed",
+      "title": "The Two Great Threats to Truth",
+      "url": "https://www.theatlantic.com/ideas/2026/08/truth-relativism-civil-discourse/688112/?utm_source=feed",
       "description": "",
-      "date": "2026-07-27",
+      "date": "2026-08-01",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -52,19 +52,35 @@
       }
     },
     {
-      "title": "The Newcomer",
-      "url": "https://www.theatlantic.com/ideas/2026/07/feature-governor-wes-moore/687804/?utm_source=feed",
+      "title": "When Following the Rules Leads to Disaster",
+      "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-morocco-crisis-immigration/688149/?utm_source=feed",
       "description": "",
-      "date": "2026-07-27",
+      "date": "2026-08-01",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "The Incoherence of the Iran Hawks",
+      "url": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/?utm_source=feed",
+      "description": "",
+      "date": "2026-07-31",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "An <em>Odyssey</em> for Our Own Time",
       "url": "https://www.theatlantic.com/ideas/2026/07/nolan-odysseus-morality-guilt/688076/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Bible Belongs in the Classroom",
-      "url": "https://www.theatlantic.com/ideas/2026/07/texas-public-schools-bible/688054/?utm_source=feed",
       "description": "",
       "date": "2026-07-27",
       "thumbnail": "",

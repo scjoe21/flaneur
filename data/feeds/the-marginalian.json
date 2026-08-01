@@ -1,38 +1,38 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-07-31T20:06:16.687921+00:00",
+  "fetchedAt": "2026-08-01T17:27:01.358689+00:00",
   "items": [
     {
-      "title": "Ursula K. Le Guin on the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/07/26/le-guin-life/",
-      "description": "We are the survivors of immense and minute events — violent cosmic collisions and subtle genetic mutations, the deaths of innumerable suns and the births of innumerable cells, the splitting of continents and the splitting of atoms. Out of it all, we emerged as creatures muzzled by a consciousness that demands we give meaning to our survival. It will not come like alms dropped from the unfeeling hand of the universe. It cannot be found ready-made in the great books and the great teachers, or boug",
-      "date": "Sun, 26 Jul 2026",
+      "title": "The Continuous Creative Act of Holding on and Letting Go: 10 Beautiful Minds on the Art of Growing Older",
+      "url": "https://www.themarginalian.org/2026/07/31/growing-older/",
+      "description": "A great paradox of being alive in this civilization is that we have come to dread and devalue the triumph of having lived, forgetting that to grow old is not a punishment but a privilege — that of having survived the loneliness of childhood, the brash insecurity of youth, the turmoil of middle age, in order to begin the continuous creative act of holding on while letting go. This is not easy in a culture that fetishes youth, that clothes us in an invisibility cloak as life strips us of time. We ",
+      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
+        "daily": 25,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 30
+        "novelty": 5,
+        "total": 35
       }
     },
     {
-      "title": "How to Live a Miraculous Life",
-      "url": "https://www.themarginalian.org/2026/07/25/brian-doyle-humility-love/",
-      "description": "Suppose we agree that we are here to love anyway — to love even though the work is almost unbearably difficult, even though we know that everything alive is dying, that everything beautiful is perishable, that everything we love will eventually be taken from us by one form of entropy or another, culminating with life itself. Suppose we agree that, as Rilke so passionately insisted, “for one human being to love another… is perhaps the most difficult of all our tasks, the ultimate, the last test a",
-      "date": "Sat, 25 Jul 2026",
+      "title": "Death and How to Be More Alive: Carl Jung on Immortality and the Rebirth of Middle Age",
+      "url": "https://www.themarginalian.org/2026/07/31/carl-jung-death-immortality/",
+      "description": "Once, I spent a year walking Brooklyn’s historic Green-Wood Cemetery daily, winding between the marble tombs engulfed by tree-roots and emblazoned with the surnames of the dead, each followed by a full stop to demarcate the terminus of life. It hovers there, so sure of itself, this punctuational emblem of an irrevocable end. And yet the surety of science about what happens when we die, like the surety of religion, is only speculative, for it is conceived by the living. Whitman — who often walked",
+      "date": "Sat, 01 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 34,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 30,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
       }
     },
     {
@@ -48,22 +48,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 5,
-        "total": 25
-      }
-    },
-    {
-      "title": "The One Hundred Milliseconds Between the World and You: Oliver Sacks on Perception",
-      "url": "https://www.themarginalian.org/2026/07/25/oliver-sacks-perception/",
-      "description": "“If the doors of perception were cleansed,” William Blake wrote, “everything would appear to man as it is, infinite.” But we are finite creatures, in time and in space, and there is a limit to how much reality we can bear — evolution gave us consciousness so that we may sieve the salient from the infinite, equipped it with attention so that we may narrow the aperture of perception to take in only what is relevant to us from the immense vista of now. The astonishing thing is that even though we a",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 25
       }
     },
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Darwin’s Greatest Regret and His Deathbed Reflection on What Makes Life Worth Living",
+      "url": "https://www.themarginalian.org/2026/07/31/darwin-life/",
+      "description": "\"If I had to live my life again, I would have made a rule to read some poetry and listen to some music at least once every week.\"",
+      "date": "Fri, 31 Jul 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     }
   ]
