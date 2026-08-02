@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-01T17:27:09.032977+00:00",
+  "fetchedAt": "2026-08-02T18:11:21.176683+00:00",
   "items": [
     {
       "title": "Spähsoftware im Handy – Wie Staaten uns heimlich überwachen",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Neue Biowaffen – Wie gefährlich sind Viren, Bakterien und Pflanzensamen?",
+      "url": "https://www.swr.de/swrkultur/wissen/neue-biowaffen-wie-gefaehrlich-sind-viren-bakterien-und-pflanzensamen-106.html",
+      "description": "Die Biowaffen-Konvention der UN von 1975 ist offiziell bislang nicht gebrochen worden. Doch die Bedrohung durch die B-Waffen ist groß. Und mit KI entstehen neue Gefahren.",
+      "date": "Mon, 3 Aug 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -142,22 +158,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Wunderpflanze Moos – Vom Evolutionsbooster zum Luftreiniger",
-      "url": "https://www.swr.de/swrkultur/wissen/wunderpflanze-moos-vom-evolutionsbooster-zum-luftreiniger-100.html",
-      "description": "Die Erde war wüst und leer – dann kam das Moos und hat sie begrünt. Jedenfalls das Festland. Moos reinigt die Luft, baut Moore auf und kann medizinische Wirkstoffe produzieren.",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

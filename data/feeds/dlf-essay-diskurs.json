@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-08-01T17:27:05.166797+00:00",
+  "fetchedAt": "2026-08-02T18:11:17.315138+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Von der Demokratie zur Plutokratie? - Wie man den Regimewechsel noch verhindern kann",
+      "url": "https://www.deutschlandfunk.de/wie-man-den-regimewechsel-noch-verhindern-kann-100.html",
+      "description": "Geld regiert die Welt, eine alte Weisheit, die heute Schule macht. Donald Trump und Elon Musk sind dabei, in den USA die Verbindung von Macht und Geld in Politik zu verwandeln. Ist das eine Entwicklung, die die alten Demokratien substanziell bedroht? Von Claus Leggewie www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -144,22 +160,6 @@
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "Last Frontier - Die Tiefsee als letzter Freiraum des Planeten Erde",
-      "url": "https://www.deutschlandfunk.de/last-frontier-die-tiefsee-als-letzter-freiraum-des-planeten-erde-100.html",
-      "description": "Wem gehört eigentlich die Tiefsee? Wer darf sie ausbeuten, wer muss sie schützen? Die globale Rohstoffgewinnung - von Kupferminen bis Offshore-Plattformen - hat die Tiefsee längst im Visier. Leggewie, Claus www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 03 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
         "total": 14
       }
     },

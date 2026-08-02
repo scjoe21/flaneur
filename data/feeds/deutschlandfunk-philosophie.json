@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-01T17:26:41.425612+00:00",
+  "fetchedAt": "2026-08-02T18:09:21.970102+00:00",
   "items": [
     {
       "title": "Politische Philosophie - Vom Empfinden zum politischen Handeln",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Lebensphasen - Wer bestimmt den Takt unseres Lebens?",
+      "url": "https://www.deutschlandfunkkultur.de/philosophie-von-lebenswegen-lebensphasen-orientierung-oder-korsett-100.html",
+      "description": "Kindheit, Jugend, Erwachsensein und Alter gelten als natürlicher Lauf des Lebens. Bei genauerem Hinsehen zeigt sich jedoch ein Lebenslaufregime voller gesellschaftlicher Erwartungen. Wie prägt es uns und wie lässt sich das Leben anders betrachten? Miller, Simone; Avanessian, Armen; Marquardt, Udo www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 40
       }
     },
     {
@@ -78,22 +94,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Ingeborg Bachmann und die Philosophie: Die Wahrheit ist zumutbar",
-      "url": "https://www.deutschlandfunkkultur.de/ingeborg-bachmann-und-die-philosophie-die-wahrheit-ist-zumutbar-100.html",
-      "description": "de la Riva, Miguel; Volfing, Barbara www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 14 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Lebenszeiten 1: Kindheit - Zwischen Entfaltung und Entfremdung",
+      "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-1-kindheit-zwischen-entfaltung-und-entfremdung-100.html",
+      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Tag der nonbinären Menschen: Eine Revolution der Geschlechterordnung",
       "url": "https://www.deutschlandfunkkultur.de/tag-der-nonbinaeren-menschen-eine-revolution-der-geschlechterordnung-100.html",
       "description": "Bratu, Christine www.deutschlandfunkkultur.de, Sein und Streit",
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/dipesh-chakrabarty-from-the-globe-to-the-planet-english-100.html",
       "description": "Chakrabarty, Dipesh; Aguigah, René www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 21 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Kimberlé Crenshaw: Pioneering theorist of intersectionality (english)",
-      "url": "https://www.deutschlandfunkkultur.de/kimberle-crenshaw-pioneering-theorist-of-intersectionality-english-100.html",
-      "description": "Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 14 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-08-01T17:26:38.509215+00:00",
+  "fetchedAt": "2026-08-02T18:09:19.050967+00:00",
   "items": [
     {
       "title": "Pourquoi les philosophes sont en train de devenir les stars de l'intelligence artificielle",
@@ -71,22 +71,6 @@
       "title": "Ce que la SF peut nous apprendre de l'habitabilité d'un monde en réchauffement",
       "url": "https://usbeketrica.com/fr/article/ce-que-la-sf-peut-nous-apprendre-de-l-habitabilite-d-un-monde-en-rechauffement",
       "description": "TRIBUNE // Et si le débat sur les climatiseurs qui a échaudé les plateaux télévisés français ces dernières semaines était le symptôme d'un manque criant d'imagination pour penser un futur habitable ? C'est ce que suggère dans cette tribune Yannick Rumpala, Maître de conférences (HDR) en science politique à l'Université Côte d'Azur, qui invite à voir dans les œuvres de sience-fiction un laboratoire d'expérimentation précieux pour maintenir l’habitabilité planétaire.",
-      "date": "Mon, 13 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Canicule : quatre essences d'arbres précieuses face aux feux de forêt",
-      "url": "https://usbeketrica.com/fr/article/adaptation-quelles-essences-d-arbres-pour-un-futur-au-climat-deregle",
-      "description": "Alors que la France endure sa troisième canicule de l'année, la flore sylvestre accuse, elle aussi, le coup. Face à une mortalité des arbres accélérée par un dérèglement climatique qui intensifie les sécheresses, les hivers trop doux, les pluies diluviennes et l'augmentation de parasites, quelles espèces résisteront et feront nos paysages d'ici 30 ans ? On s'est posé la question dans le numéro 37 de notre magazine, paru en octobre 2022.",
       "date": "Mon, 13 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -209,6 +193,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Et si l’on avait délaissé le nucléaire pour la « bombe temporelle » ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-l-on-avait-delaisse-le-nucleaire-pour-la-bombe-temporelle",
+      "description": "En 1946, après les attaques de Nagasaki et Hiroshima, les États-Unis ont proposé de transférer progressivement la possession de l’arme nucléaire aux Nations unies pour en limiter la prolifération. Un plan rejeté par l’Union soviétique. Et si les deux blocs s’étaient finalement entendus ? Et si l’abandon du nucléaire militaire avait poussé les nations à chercher un autre avantage stratégique : la maîtrise du temps ? C’est l’hypothèse creusée dans cette uchronie, publiée initialement dans les page",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

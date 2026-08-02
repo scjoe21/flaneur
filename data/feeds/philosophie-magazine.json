@@ -1,22 +1,22 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-01T17:26:38.399234+00:00",
+  "fetchedAt": "2026-08-02T18:09:18.699283+00:00",
   "items": [
     {
-      "title": "Mohenjo-daro : la cité qui met en question le scénario de l’inégalité",
-      "url": "https://www.philomag.com/articles/mohenjo-daro-la-cite-qui-met-en-question-le-scenario-de-linegalite",
+      "title": "Santé mentale : comment lutter contre notre addiction aux écrans (et résister aux sollicitations)",
+      "url": "https://www.philomag.com/articles/sante-mentale-comment-lutter-contre-notre-addiction-aux-ecrans-et-resister-aux",
       "description": "",
-      "date": "Sat, 25 Jul 2026",
+      "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 25
       }
     },
     {
@@ -65,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“Émousser les frontières entre mon corps et le monde grâce à la musique” : le “sentiment océanique” par Natalie Depraz",
+      "url": "https://www.philomag.com/articles/emousser-les-frontieres-entre-mon-corps-et-le-monde-grace-la-musique-le-sentiment",
+      "description": "",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/au-fil-des-oeuvres-de-lartiste-jeanne-vicerial-dans-4-lieux-aix-en-provence",
       "description": "",
       "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les grandes étapes du retour d’Ulysse à Ithaque",
-      "url": "https://www.philomag.com/articles/les-grandes-etapes-du-retour-dulysse-ithaque",
-      "description": "",
-      "date": "Sat, 25 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

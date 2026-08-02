@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-08-01T17:26:36.717983+00:00",
+  "fetchedAt": "2026-08-02T18:09:17.368466+00:00",
   "items": [
     {
       "title": "La mort n’est rien",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 45
+      }
+    },
+    {
+      "title": "L'homme est bon par nature",
+      "url": "https://www.youtube.com/shorts/7CD2-YnjT2o",
+      "description": "Au XVIIIe siècle, Jean-Jacques Rousseau développe une idée aussi célèbre que dérangeante : l’être humain serait naturellement bon, mais la société finirait par le corrompre. Dans cette vidéo, je vous explique pourquoi, selon lui, ce ne sont pas nos instincts premiers qui nous rendent mauvais, mais la comparaison, la propriété, les inégalités et le regard des autres.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #rousseau #nature #société #inégalités #amourpropre #",
+      "date": "2026-08-02",
+      "thumbnail": "https://i4.ytimg.com/vi/7CD2-YnjT2o/hqdefault.jpg",
+      "videoId": "7CD2-YnjT2o",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -209,22 +225,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "L'IA vous est montée au cerveau !!!",
-      "url": "https://www.youtube.com/shorts/DUNQL8Gokp8",
-      "description": "Depuis quelques mois, on lit partout ce commentaire sous des vidéos anodines : \"IA\". C'est le signe que s'est installée une hystérie et une paranoïa collective autour de l'intelligence artificielle. Moi-même, pensez-vous que je sois un avatar IA ?\n \n#IA #IntelligenceArtificielle #Fake #Paranoïa #Technologie",
-      "date": "2026-06-24",
-      "thumbnail": "https://i1.ytimg.com/vi/DUNQL8Gokp8/hqdefault.jpg",
-      "videoId": "DUNQL8Gokp8",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

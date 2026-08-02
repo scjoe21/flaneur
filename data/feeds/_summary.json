@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-01T17:27:13.874578+00:00",
+  "lastRun": "2026-08-02T18:11:25.845925+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -19,7 +19,6 @@
     "rai-radio3-filosofia",
     "il-tascabile",
     "doppiozero",
-    "leparoleelecose",
     "not-neroeditions",
     "philosophy-now",
     "overthink",
@@ -49,9 +48,10 @@
   ],
   "fail": [
     "merkur",
+    "leparoleelecose",
     "daily-stoic",
     "new-atlantis"
   ],
   "total": 48,
-  "fetched": 45
+  "fetched": 44
 }

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-01T17:27:01.358689+00:00",
+  "fetchedAt": "2026-08-02T18:11:13.643128+00:00",
   "items": [
     {
       "title": "The Continuous Creative Act of Holding on and Letting Go: 10 Beautiful Minds on the Art of Growing Older",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "How to Hold the Darkness: Notes on Living Through Uncertainty",
+      "url": "https://www.themarginalian.org/2026/08/02/francis-weller-ordinary/",
+      "description": "There are times in life when the continent of certainty parts underfoot and, as the ash cloud of the old world rains darkness upon us, we are asked to swim in the rivers of lava that will make the new. “Almost it would appear that it is useless in such confusion to ask,” wrote Virginia Woolf of such times, “those questions as to what, and why, and wherefore.” Unlike her staunchly secularized contemporaries, who shuddered to speak of the soul for fear of being seen as anti-intellectual, Woolf dev",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -68,38 +84,6 @@
       }
     },
     {
-      "title": "The Donkey and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/07/26/platero-and-i/",
-      "description": "\"Come with me. I'll teach you the flowers and the stars.\"",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Love Anyway",
-      "url": "https://www.themarginalian.org/2026/07/26/love-anyway/",
-      "description": "You know that the price of life is death, that the price of love is loss, and still you watch the golden afternoon light fall on a face you love, knowing that the light will soon fade, knowing that the loving face too will one day fade to indifference or bone, and you love anyway — because life is transient but possible, because love alone bridges the impossible and the eternal. I think about this and a passage from Louise Erdrich’s 2005 novel The Painted Drum (public library) flits across the s",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "A Heron, a Red Leaf, and a Hole in a Blue Star: Poet Jane Kenyon on the Art of Letting Go",
       "url": "https://www.themarginalian.org/2026/07/30/jane-kenyon-things-otherwise/",
       "description": "The vital force of life is charged by the poles of holding on and letting go. We know that the price of love is loss, and yet we love anyway; that our atoms will one day belong to generations of other living creatures who too will die in turn, and yet we press them hard against the body of the world, against each other’s bodies, against the canvas and the keyboard and the cambium of life. This is the cruel contract of all experience, of aliveness itself — that in order to have it, we must agree ",
@@ -113,22 +97,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
-      }
-    },
-    {
-      "title": "Do the Next Right Thing: Carl Jung on How to Live and the Origin of His Famous Tenet for Navigating Uncertainty",
-      "url": "https://www.themarginalian.org/2026/07/27/carl-jung-next-right-thing/",
-      "description": "\"There is no pit you cannot climb out of provided you make the right effort at the right place... do the next thing with diligence and devotion.\"",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -241,6 +209,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Enchantment and the Courage of Joy: René Magritte on the Antidote to the Banality of Pessimism",
+      "url": "https://www.themarginalian.org/2026/08/02/rene-magritte-enchantment/",
+      "description": "\"Life is wasted when we make it more terrifying, precisely because it is so easy to do so.\"",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Pleasure of Being Left Alone",
+      "url": "https://www.themarginalian.org/2026/08/01/rose-macaulay-personal-pleasures/",
+      "description": "\"An exquisite peace obtains: a drowsy, golden peace, flowing honey-sweet over my dwelling, soaking it, dripping like music from the walls... A peace for gods; a divine emptiness.\"",
+      "date": "Sat, 01 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]
