@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-07T05:31:49.735664+00:00",
+  "fetchedAt": "2026-08-07T16:02:42.190951+00:00",
   "items": [
     {
       "title": "Santé mentale : comment lutter contre notre addiction aux écrans (et résister aux sollicitations)",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Qui aime bien s’engueule bien ? Une plongée dans l’intimité des disputes",
+      "url": "https://www.philomag.com/articles/qui-aime-bien-sengueule-bien-une-plongee-dans-lintimite-des-disputes",
+      "description": "",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Peut-on avoir raison par hasard ? Quand les complotistes voient (parfois) juste",
       "url": "https://www.philomag.com/articles/peut-avoir-raison-par-hasard-quand-les-complotistes-voient-parfois-juste",
-      "description": "",
-      "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Enquête dans la tête de Vincent Bolloré",
-      "url": "https://www.philomag.com/articles/enquete-dans-la-tete-de-vincent-bollore",
       "description": "",
       "date": "Fri, 31 Jul 2026",
       "thumbnail": "",

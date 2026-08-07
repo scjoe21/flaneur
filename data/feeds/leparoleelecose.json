@@ -1,7 +1,7 @@
 {
   "sourceId": "leparoleelecose",
   "sourceName": "Le parole e le cose",
-  "fetchedAt": "2026-08-01T17:26:51.875523+00:00",
+  "fetchedAt": "2026-08-07T16:02:55.936451+00:00",
   "items": [
     {
       "title": "Il mondo dall’alto. Il senso del lavoro e la percezione del rischio a partire da “Works” di Vitaliano Trevisan",
@@ -20,35 +20,51 @@
       }
     },
     {
-      "title": "Il cavallo di Torino e l’apocalisse del silenzio",
-      "url": "https://www.leparoleelecose.it/il-cavallo-di-torino-e-lapocalisse-del-silenzio/",
-      "description": "di Michele Michelangelo Innocenti   Firenze è una città morta, un cubo trasparente con dentro una piscina: ci sono quelli che galleggiano e quelli che annegano. Io faccio il cameriere e quando non annego o lotto per stare a galla, vado al cinema. Menomale che c’è il cinema, verrebbe da dire, in una città come Firenze. Menomale che non c’hanno fatto al suo posto …  read more  \"Il cavallo di Torino e l’apocalisse del silenzio\"",
-      "date": "Sun, 26 Jul 2026",
+      "title": "Ridere dell’IA. Corpo a corpo con il sé digitale",
+      "url": "https://www.leparoleelecose.it/ridere-dellia-corpo-a-corpo-con-il-se-digitale/",
+      "description": "di Paolo Costa   Habitus digitale, rubrica a cura di Italo Testa   Il meccanico che è in noi   L’influente saggio di Henri Bergson sul riso si avvita attorno alla natura equivoca del senso dell’umorismo.[1] Da un lato, la comicità viene presentata nel testo come una delle espressioni più vitali dell’essere umano. Dall’altro …  read more  \"Ridere dell’IA. Corpo a corpo con il sé digitale\"",
+      "date": "Mon, 03 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 23,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 8,
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 23
+        "total": 30
       }
     },
     {
-      "title": "Su “Amanti elementari” di Paolo Sortino",
-      "url": "https://www.leparoleelecose.it/su-amanti-elementari-di-paolo-sortino/",
-      "description": "di Luca Illetterati   “È così difficile parlare d’amore” – scriveva Vitaliano Trevisan in Tristissimi giardini. Aggiungendo subito dopo: “con l’amore è come con la batteria: forse lo strumento più facile da suonare male insieme alla chitarra, ma certo molto più fastidioso”. La sfida di Paolo Sortino in Amanti elementari (Einaudi 2026) è da questo …  read more  \"Su “Amanti elementari” di Paolo Sortino\"",
-      "date": "Thu, 23 Jul 2026",
+      "title": "Linguaggi d’avanguardia in Spagna e Italia. Modernità e dissenso",
+      "url": "https://www.leparoleelecose.it/linguaggi-davanguardia-in-spagna-e-italia-modernita-e-dissenso/",
+      "description": "di Alessandro Ghignoli   [E’ uscito da poco per Peter Lang Linguaggi d’avanguardia in Spagna e Italia: Modernità e dissenso, di Alessandro Ghignoli. Proponiamo l’introduzione].   Introduzione   Il nostro studio si propone di verificare come determinati linguaggi d’avanguardia, principalmente dalla secondà metà del Novecento ad oggi, hanno al loro interno motivazioni di lotta e …  read more  \"Linguaggi d’avanguardia in Spagna e Italia. Modernità e dissenso\"",
+      "date": "Tue, 04 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
+      }
+    },
+    {
+      "title": "Nuclei impenetrabili di senso. Su “Lina e il sasso” di Mauro Covacich",
+      "url": "https://www.leparoleelecose.it/nuclei-impenetrabili-di-senso-su-lina-e-il-sasso-di-mauro-covacich/",
+      "description": "di Roberto Falconi   Se la buona letteratura tende al significato ultimo delle cose e rende allo stesso tempo conto dell’impossibilità di giungervi appieno, ciò significa perlomeno ipotizzare l’esistenza di un nucleo di senso irriducibile e impenetrabile (torno in chiusa su questo secondo aggettivo, qui davvero da intendere alla lettera), che uno scrittore può allora …  read more  \"Nuclei impenetrabili di senso. Su “Lina e il sasso” di Mauro Covacich\"",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
       }
     },
     {
@@ -65,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Stirare le mutandine",
+      "url": "https://www.leparoleelecose.it/stirare-le-mutandine/",
+      "description": "di Arben Dedja    [Un uomo, un ferro da stiro, un universo governato da codici oscuri. Arben Dedja mette alla prova la maschilità contemporanea alle prese con il lavoro di cura: tra biancheria, pudori, logistica familiare e un eroismo domestico dall’umorismo irresistibile].   Prolegomeni Prima della malattia di mia moglie stirare era per me un’attività …  read more  \"Stirare le mutandine\"",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -100,26 +132,10 @@
       }
     },
     {
-      "title": "Viaggio in Italia /3, Torino: Mario Marchetti e Andrea Pagliardi",
-      "url": "https://www.leparoleelecose.it/viaggio-in-italia-3-torino-mario-marchetti-e-andrea-pagliardi/",
-      "description": "a cura di Maria Teresa Carbone   Viaggio in Italia è un ciclo di conversazioni che ha di volta in volta per protagonista una città del nostro paese, con l’intento di uscire dal binomio obbligato Roma-Milano, che occupa quasi per intero il paesaggio mediatico. Questa volta, però, al centro c’è una città che, dopo essere stata la prima capitale …  read more  \"Viaggio in Italia /3, Torino: Mario Marchetti e Andrea Pagliardi\"",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "The Odyssey, metafrasi di un eterno popolare",
-      "url": "https://www.leparoleelecose.it/the-odyssey-metafrasi-di-un-eterno-popolare/",
-      "description": "di Mariangela Caprara   Anni fa riflettevo (in questa sede) sul meccanismo del riconoscimento di un racconto già noto da parte di un pubblico popolare: era il 2019, e l’occasione mi fu fornita dall’uscita nei cinema dell’attesissimo remake del Re Leone disneyano. Ritorno quindi su un altro evento popolare, ossia l’uscita di The Odyssey di …  read more  \"The Odyssey, metafrasi di un eterno popolare\"",
-      "date": "Tue, 28 Jul 2026",
+      "title": "Il prato del vicino ha l’erba più verde. Passeggiando nei “Prati” di Andrea Inglese",
+      "url": "https://www.leparoleelecose.it/il-prato-del-vicino-ha-lerba-piu-verde-passeggiando-nei-prati-di-andrea-inglese/",
+      "description": "di Luigi Toni   Pubblicato per la prima volta nel 2007 in edizione bilingue presso La Camera Verde e poi confluito nella costellazione ormai seminale di Prosa in prosa, Prati/Pelouses di Andrea Inglese torna oggi in una nuova Extended Version per Tic Edizioni (2025). Una riedizione ampliata che non rappresenta soltanto il recupero di un …  read more  \"Il prato del vicino ha l’erba più verde. Passeggiando nei “Prati” di Andrea Inglese\"",
+      "date": "Fri, 07 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,26 +148,10 @@
       }
     },
     {
-      "title": "A Dot in the Universe",
-      "url": "https://www.leparoleelecose.it/a-dot-in-the-universe/",
-      "description": "playlist di Elisabetta Stella       Camélia Jordana, Moi c’est (Camélia Jordana, 2010)   Luigi Tenco, Io sono uno (Canzoni per un giorno triste, 1959)   Mina, Io sono quel che sono (Studio Uno, 1965)   Sammy Davis Jr., I’ve Gotta Be Me (I’ve Gotta Be Me, 1968)   Banco del Mutuo Soccorso, Non …  read more  \"A Dot in the Universe\"",
-      "date": "Sat, 25 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Gioventù spettrale. Il dibattito sulla “giovane poesia” nell’Italia degli anni Cinquanta",
-      "url": "https://www.leparoleelecose.it/gioventu-spettrale-il-dibattito-sulla-giovane-poesia-nellitalia-degli-anni-cinquanta/",
-      "description": "di Paolo Giovannetti       [Esce prossimamente presso Palumbo, nella collana “S-nodi”, diretta da Massimiliano Tortora, il saggio di Paolo Giovannetti Gioventù spettrale. Il dibattito sulla “giovane poesia” nell’Italia degli anni Cinquanta. Ne presentiamo in anteprima l’introduzione]     Introduzione     L’aspetto importante della figura dello spettro […] è che […] non può essere pienamente …  read more  \"Gioventù spettrale. Il dibattito sulla “giovane poesia” nell’Italia degli anni Cinquanta   ",
-      "date": "Fri, 24 Jul 2026",
+      "title": "Nome, verbo, aggettivo, avverbio /16: Fabrizio Lombardo",
+      "url": "https://www.leparoleelecose.it/nome-verbo-aggettivo-avverbio-16-fabrizio-lombardo/",
+      "description": "a cura di Laura Pugno [In questa rubrica, un autore o un’autrice ci consegna le sue quattro parole chiave, un nome (comune o proprio), un verbo, un aggettivo e un avverbio, dal primo o dall’ultimo libro o dall’intero della sua opera. Oggi risponde Fabrizio Lombardo]. Nome: Movimento   Il movimento attraversa tutta la mia scrittura. …  read more  \"Nome, verbo, aggettivo, avverbio /16: Fabrizio Lombardo\"",
+      "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

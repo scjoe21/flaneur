@@ -1,22 +1,22 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-07T05:31:54.282321+00:00",
+  "fetchedAt": "2026-08-07T16:02:47.395878+00:00",
   "items": [
     {
-      "title": "Die Macht der Nähe",
-      "url": "https://www.philomag.de/artikel/die-macht-der-naehe",
-      "description": "Wer Unterstützern der extremen Rechten nahekommt, macht sich schnell verdächtig, deren Positionen zu akzeptieren. Doch Nähe ist nicht nur ein Nährboden für Normalisierung. Sie kann auch eine Ressource sein, um besser miteinander zu diskutieren. Und: Für viele Menschen ist sie im Alltag unvermeidlich. Wie also klug mit ihr umgehen? Jana Glaese ist dieser Frage in ihrem neuen Buch nachgegangen. Ein Auszug.",
-      "date": "Tue, 28 Jul 2026",
+      "title": "Von der Kunst, Ochsen zu zerteilen",
+      "url": "https://www.philomag.de/artikel/von-der-kunst-ochsen-zu-zerteilen",
+      "description": "Wie übe ich mich in Aufmerksamkeit? Für die chinesische Philosophie ist diese Frage seit jeher zentral. Über die Kunst höchster Sammlung und die Lehren des Daoismus für eine geglückte Existenz.",
+      "date": "Fri, 07 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 39,
+      "priority": 50,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 25,
+        "phil": 25,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 39
+        "total": 50
       }
     },
     {
@@ -116,22 +116,6 @@
       }
     },
     {
-      "title": "Klaus Viertbauer: „Glauben und Wissen befruchten sich gegenseitig“",
-      "url": "https://www.philomag.de/artikel/klaus-viertbauer-glauben-und-wissen-befruchten-sich-gegenseitig",
-      "description": "Obwohl er sich selbst als „religiös unmusikalisch“ beschrieb, dachte Habermas intensiv über die Rolle des Glaubens nach. Der Religionsphilosoph Klaus Viertbauer erläutert, wie sich Habermas’ Einschätzung dazu veränderte und wie sich religiöse in säkulare Sprache übersetzen lässt.",
-      "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Philosophie jenseits von Dogmen. Hilary Putnam zum 100. Geburtstag",
       "url": "https://www.philomag.de/artikel/philosophie-jenseits-von-dogmen-hilary-putnam-zum-100-geburtstag",
       "description": "Der Philosoph Hilary Putnam ist nicht nur Urheber des berühmten Gedankenexperiments vom Gehirn im Tank. Mit seiner Suche nach pragmatischen Vermittlungspositionen leistete er auch einen wesentlichen Beitrag zur Überwindung dogmatischer Denkmuster in der Philosophie.",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Ist Trump der Katechon?",
+      "url": "https://www.philomag.de/artikel/ist-trump-der-katechon",
+      "description": "Unter Rechten geht die Legende von einer geheimnisvollen Kraft, die das Verderben aufhält: Der Katechon. Der Historiker Volker Weiß hat ein Buch darüber geschrieben.",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

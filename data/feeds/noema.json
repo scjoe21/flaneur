@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-08-07T05:33:15.635192+00:00",
+  "fetchedAt": "2026-08-07T16:03:14.083542+00:00",
   "items": [
     {
       "title": "How To Give Everyday People A Say In AI Governance",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "How AI Is Rewriting Human Nature",
-      "url": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
-      "description": "The post  How AI Is Rewriting Human Nature  appeared first on  NOEMA .",
-      "date": "Thu, 16 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’",
       "url": "https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age",
       "description": "The post  The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’  appeared first on  NOEMA .",
@@ -65,6 +49,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 8
+      }
+    },
+    {
+      "title": "From The Trap Of Geopolitics To A Geo-Civilizational Paradigm",
+      "url": "https://www.noemamag.com/from-the-trap-of-geopolitics-to-a-geo-civilizational-paradigm",
+      "description": "The post  From The Trap Of Geopolitics To A Geo-Civilizational Paradigm  appeared first on  NOEMA .",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

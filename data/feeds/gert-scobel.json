@@ -1,24 +1,8 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-08-02T18:09:20.687157+00:00",
+  "fetchedAt": "2026-08-07T16:02:43.894791+00:00",
   "items": [
-    {
-      "title": "\"Strukturelles Aushungern\": So gehen autoritäre Regime vor!",
-      "url": "https://www.youtube.com/shorts/SoSaCsHL2zU",
-      "description": "Experten sehen in den Hochschul-Plänen der AfD in Sachsen-Anhalt Parallelen zu autoritären Systemen. Was genaz dahintersteckt und wie die Wissenschaft reagiert, erfahrt ihr im Video 👉https://youtu.be/tDmaun8tWXM\n#shorts #regime #geschichte #afd",
-      "date": "2026-07-12",
-      "thumbnail": "https://i4.ytimg.com/vi/SoSaCsHL2zU/hqdefault.jpg",
-      "videoId": "SoSaCsHL2zU",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
     {
       "title": "Würdet ihr die Bodycam freiwillig tragen?",
       "url": "https://www.youtube.com/shorts/wkFP9KG5PpA",
@@ -148,6 +132,22 @@
       }
     },
     {
+      "title": "Habt ihr Angst, dass eure Daten in Zukunft gehackt werden?",
+      "url": "https://www.youtube.com/shorts/UUzl0j5EXdI",
+      "description": "Hacker fangen deine Daten schon heute ab – und warten einfach ab, bis Quantencomputer stark genug sind, um sie in ein paar Jahren mühelos zu entschlüsseln. Dieses Phänomen nennt sich „Store now, decrypt later“ und betrifft uns alle. Mehr zu den Gefahren von Quantencomputern erfahrt ihr hier 👉 https://youtu.be/8KwyJI_-4rE\n#quantencomputer #cybersecurity #datenschutz  #hacking #nano  #3sat",
+      "date": "2026-08-07",
+      "thumbnail": "https://i2.ytimg.com/vi/UUzl0j5EXdI/hqdefault.jpg",
+      "videoId": "UUzl0j5EXdI",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Gibt es uns unendlich oft?",
       "url": "https://www.youtube.com/shorts/OCYMFb2np2M",
       "description": "“Das Multiversum” ist fast schon ein Trendbegriff, der auch in der Popkultur immer wieder aufgegriffen wird. Aber was sagen Physik und Philosophie dazu? Darum geht es in unserer neuen NANO Talk-Folge 👉\nhttps://youtu.be/YyPNupyxGiY\n#multiversum #physik #philosophie #nanotalk",
@@ -212,6 +212,22 @@
       }
     },
     {
+      "title": "Quantencomputer: Sind unsere Daten noch sicher? | NANO",
+      "url": "https://www.youtube.com/watch?v=8KwyJI_-4rE",
+      "description": "Können Quantencomputer das weltweite Finanzsystem aushebeln? Die rasante Entwicklung der Superrechner stellt Banken, Regierungen und die gesamte globale IT-Sicherheit vor eine historische Zerreißprobe.\n\n#quantencomputer #cybersecurity #hacking \n\nTäglich werden im Londoner Bankenviertel Canary Wharf Devisengeschäfte im Wert von 3,8 Billionen US-Dollar abgewickelt – mehr als ein Drittel des globalen Handelsvolumens. Doch das gesamte System beruht auf Verschlüsselungscodes, die durch Quantenrechner",
+      "date": "2026-08-06",
+      "thumbnail": "https://i1.ytimg.com/vi/8KwyJI_-4rE/hqdefault.jpg",
+      "videoId": "8KwyJI_-4rE",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Dead Internet Theory: KI übernimmt das Netz | NANO",
       "url": "https://www.youtube.com/watch?v=ueEYWiJsUyg",
       "description": "Steht das freie Netz vor dem Kollaps? Mehr als die Hälfte des weltweiten Web-Traffics wird mittlerweile von Bots generiert – und immer mehr Inhalte stammen von Maschinen statt von Menschen.\n\n#deadinternettheory #künstlicheintelligenz #fakenews #scam #kibots\n\nZwölf Millionen gefälschte Facebook-Accounts an nur einem Tag, 50.000 KI-generierte Songs täglich auf Spotify und eine Flut an synthetischem Social-Media-Content: Was Ende der 2010er-Jahre als Meme begann, entwickelt sich zur bitteren Realit",
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Bald weniger Mitbestimmung für Studierende?",
-      "url": "https://www.youtube.com/shorts/kOKd9TFm1LQ",
-      "description": "Die AfD in Sachsen-Anhalt plant unter anderem, die Mitbestimmungsrechte der Studierenden an Unis einzuschränken. Was Experten dazu sagen seht ihr in diesem Video 👉  https://youtu.be/tDmaun8tWXM\n#shorts #afd #landtagswahlen #sachsen-anhalt #demokratie #universitäten",
-      "date": "2026-07-10",
-      "thumbnail": "https://i4.ytimg.com/vi/kOKd9TFm1LQ/hqdefault.jpg",
-      "videoId": "kOKd9TFm1LQ",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

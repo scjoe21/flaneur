@@ -1,0 +1,247 @@
+{
+  "sourceId": "wired-jp",
+  "sourceName": "WIRED Japan",
+  "fetchedAt": "2026-08-07T16:03:30.708221+00:00",
+  "items": [
+    {
+      "title": "SNSで話題のアライグマ「ジモシー」、人気が招くリスクに専門家が警鐘",
+      "url": "https://wired.jp/article/dont-get-too-attached-to-jimothy/",
+      "description": "背骨が曲がり、短い尻尾をもつアライグマ「ジモシー」は、都市環境に適応しているように見える。しかし野生生物の専門家は、その暮らしを脅かしかねないのは意外にもインターネットでの人気だと指摘する。",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 24
+      }
+    },
+    {
+      "title": "フィジカルAIは「物理空間の創造」を書き換える｜オートデスクCEO来日インタビュー",
+      "url": "https://wired.jp/article/autodesk-ceo-andrew-anagnost-interview/",
+      "description": "フィジカルAIの登場によってデジタルと物理世界の境界が溶けはじめている。その変化の中心にいるオートデスク社長兼CEOのインタビューから、建築や都市スケールでの「創造」の意味が書き換わる未来が見えてきた。",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "AIはどれほど日常に浸透しているのか？ 欧州で開示義務が始まり、その実態が見えてくる",
+      "url": "https://wired.jp/article/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
+      "description": "EUでは、AIシステムとやりとりしていることや、AIが生成・加工したコンテンツであることを利用者に知らせることが義務づけられた。日常のどこでAIが使われているのかが可視化される一方、「開示疲れ」への懸念も広がっている。",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "睡眠学習は本当にできる──ただし、弊害の可能性も",
+      "url": "https://wired.jp/article/sz-its-possible-to-learn-in-our-sleep-should-we/",
+      "description": "最新の研究を信じるなら、人は夢を見ているときでさえコミュニケーションを取ったり、スキルを磨いたりできる。だが、夢や睡眠にはそもそも別の役割がある。",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "【WIRED AI特集】The Garden of AI",
+      "url": "https://wired.jp/article/featuring-ai/",
+      "description": "人類がAIとの共存、そしてさらなる繁栄を本気で望むのならば、そのために必要な知恵と実践の場は、すべてこの “AIの庭” にある。『WIRED』による決定版AI特集［Digital Edition］",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "ようこそ、AIの庭へ──特集「The Garden of AI」に寄せて、編集長から読者のみなさんへ",
+      "url": "https://wired.jp/article/ai-editors-letter/",
+      "description": "『WIRED』日本版初となるAI特集がデジタルエディションとして公開された。なぜ「庭」なのか？ 本特集の射程を、知恵の実を手にした“エデンの園”から説き起こすエディターズレター。",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "完全自動運転の実現、それは最終ゴールではない：チューリング──フィジカルAIの実現に挑む7つの企業",
+      "url": "https://wired.jp/article/turing-autonomous-driving-physical-ai-startups/",
+      "description": "高度な人工知能（AI）とロボティクスが融合することで、現実世界を認識・判断して自律的に動作するフィジカルAI。その進歩と社会実装に挑む注目のスタートアップやベンチャーを紹介する。第1回は、自動運転技術を手がけるチューリング。",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Netflix「ガス人間」で、監督・片山慎三が伝えたかったこと",
+      "url": "https://wired.jp/article/human-vapor-netflix-shinzo-katayama-interview/",
+      "description": "伝説的な特撮映画をオリジナルストーリーのドラマにリブートしたNetflixシリーズ「ガス人間」。監督の片山慎三は、その再構築にどう向き合い、何を伝えたいと考えたのか。",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Amazonプライム・ビデオで観るべきおすすめドラマ・番組33選【2026年最新】",
+      "url": "https://wired.jp/article/best-shows-amazon-prime-2026/",
+      "description": "『スパイダー・ノワール』から『フォールアウト』、『スター・トレック：ストレンジ・ニュー・ワールド』まで。いまプライム・ビデオで見逃せないシリーズを紹介する。",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "無料ランチと引き換えに、ロボット用学習データを提供した",
+      "url": "https://wired.jp/article/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
+      "description": "ロボット用学習データを集めるスタートアップが、撮影への協力と引き換えに無料の料理を提供するサービスを始めている。わたしもカメラ付きのプライベートシェフを家に迎え、その手さばきを未来のヒューマノイドのために記録させた。",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "いますぐ観たい！ Netflixのおすすめ映画64選【2026年最新】",
+      "url": "https://wired.jp/article/netflix-best-movies-2026/",
+      "description": "『ゴジラ-1.0/C』から『私はフランケルダ』、『劇場版モノノ怪 第二章 火鼠』など。いまNetflixで観るべき映画を紹介しよう。",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "OpenAIとAnthropicの“2強支配”にAI業界で危機感",
+      "url": "https://wired.jp/article/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
+      "description": "OpenAIとAnthropicの急成長を巡り、AI業界で安全性と市場支配への懸念が強まっている。一方、オープンモデルの性能も高まり、動画生成AIをロボット制御に応用するスタートアップが増えている。",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "中国製EVをめぐる言説はどこまでが本当なのか？",
+      "url": "https://wired.jp/article/sz-theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
+      "description": "中国製EVは、すでに液晶パネルで埋め尽くされた車内に、いまやAIが完全装備されようとしている。米国『Ars Technica』より。",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“知性の生態系”を耕すために──ジェームズ・ブライドルが語る、AIと自然と人間の美しい関係",
+      "url": "https://wired.jp/article/james-bridle-ecosystem-of-intelligences/",
+      "description": "タコ、粘菌、ネアンデルタール人、そしてAI── 著書『Ways of Being』で人間以外の知性に溢れた世界を鮮やかに示し、“モア・ザン・ヒューマンの生態学”を打ち立てた鬼才ジェームズ・ブライドルの咆哮。",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "人と人、国家と国家をつなぐ「コネクティブAI」の可能性──PKSHA Technology 上野山勝也",
+      "url": "https://wired.jp/article/pksha-technology-katsuya-uenoyama-interview/",
+      "description": "2012年にPKSHA Technologyを創業し、“LLM以前”からその最前線で技術開発・実装に取り組んできた上野山勝也が語るのは、人と人、国家と国家の「間」をつなぎ、新たなる協働を生み出す「コネクティブAI」の可能性だ。",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    }
+  ]
+}

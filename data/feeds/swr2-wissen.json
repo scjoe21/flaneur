@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-07T05:33:23.549371+00:00",
+  "fetchedAt": "2026-08-07T16:03:22.086332+00:00",
   "items": [
     {
       "title": "Spähsoftware im Handy – Wie Staaten uns heimlich überwachen",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Inklusion an Schulen ‒ Woran sie scheitert und wie sie gelingt",
+      "url": "https://www.swr.de/swrkultur/wissen/inklusion-an-schulen-woran-sie-scheitert-und-wie-sie-gelingt-100.html",
+      "description": "Eltern haben die Wahl, wo ihr Kind mit Förderbedarf zur Schule gehen soll. Doch Inklusion an Schulen hapert immer noch an baulichen Einschränkungen, fehlendem Personal, am Geld.",
+      "date": "Sat, 8 Aug 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -142,22 +158,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Biodiversität in Städten – Ungeahnte Vielfalt in Parks und Mauerritzen",
-      "url": "https://www.swr.de/swrkultur/wissen/biodiversitaet-in-staedten-ungeahnte-vielfalt-in-parks-und-mauerritzen-100.html",
-      "description": "Allein in Berlin gibt es über 20.000 Tier- und Pflanzenarten. Doch zunehmende Versiegelung bedroht die Vielfalt. Tierfreundliche Architektur und mehr ökologisches Bewusstsein könnten sie bewahren.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/biodiversitaet-staedte\nInfos:\nUm die Artenvielfalt in den Städten zu erfassen, kann jede und jeder mithelfen! Dazu informiert unter anderem die Stiftung für Naturschutz\nhttps://www.stiftung-naturschutz.de/presse/pressemitte",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

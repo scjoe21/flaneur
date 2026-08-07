@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-07T05:33:14.226083+00:00",
+  "fetchedAt": "2026-08-07T16:03:13.497041+00:00",
   "items": [
     {
       "title": "Trump Should Need a Warrant to See Your Phone",
@@ -33,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "The Two Great Threats to Truth",
-      "url": "https://www.theatlantic.com/ideas/2026/08/truth-relativism-civil-discourse/688112/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -129,6 +113,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Dishonesty of True Crime",
+      "url": "https://www.theatlantic.com/ideas/2026/08/what-true-crime-gets-wrong-about-crime/688214/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Bring Back the Blue-Book Exam",
+      "url": "https://www.theatlantic.com/magazine/2026/09/higher-education-in-person-written-exams/687954/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/08/father-family-old-age/688113/?utm_source=feed",
       "description": "",
       "date": "2026-08-02",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "When Following the Rules Leads to Disaster",
-      "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-morocco-crisis-immigration/688149/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-01",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

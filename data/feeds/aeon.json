@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-08-07T05:33:08.677733+00:00",
+  "fetchedAt": "2026-08-07T16:03:10.580875+00:00",
   "items": [
     {
       "title": "Ani Liu: eye heart womb",
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "Sasquatch science",
+      "url": "https://aeon.co/essays/the-surprisingly-scientific-methods-of-bigfooters",
+      "description": "The hunt for Bigfoot sounds like the opposite of good science, but those pursuing the creature are often serious empiricists - by Andrew Bartlett & Jamie Lewis Read on Aeon",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -200,22 +216,6 @@
       "url": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain",
       "description": "Allan Basbaum has spent 50 years searching the nervous system for the places where pain begins – and where it can be stopped - by Stephani Sutherland Read on Aeon",
       "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "All the Queens houses",
-      "url": "https://aeon.co/videos/tour-the-eclectic-residences-of-new-yorks-most-diverse-borough",
-      "description": "To the trained eye, the personalised homes of Queens, NYC, evoke everything from a Venetian streetscape to a Chinese temple - by Aeon Video Watch on Aeon",
-      "date": "Thu, 23 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
