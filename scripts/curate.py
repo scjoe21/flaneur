@@ -21,26 +21,28 @@ FEEDS_DIR    = os.path.join(ROOT, "data", "feeds")
 NEWS_PATH    = os.path.join(ROOT, "data", "news.json")
 HISTORY_PATH = os.path.join(ROOT, "data", "published_history.json")
 
-DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday"]
+DAYS = ["monday", "tuesday", "wednesday", "thursday", "friday", "saturday"]
 DAY_LABELS = {
     "monday":    "월요일",
     "tuesday":   "화요일",
     "wednesday": "수요일",
     "thursday":  "목요일",
     "friday":    "금요일",
+    "saturday":  "토요일",
 }
 DAY_PREFIX = {
     "monday": "mon", "tuesday": "tue", "wednesday": "wed",
-    "thursday": "thu", "friday": "fri",
+    "thursday": "thu", "friday": "fri", "saturday": "sat",
 }
 
 # '그 나라 맥락' 단락을 작성할 언어 (출처 국가 기준).
-# 프랑스→프랑스어, 이탈리아→이탈리아어, 영국·미국→영어. 독일(화)은 제외 → 한국어 유지.
+# 프랑스→프랑스어, 이탈리아→이탈리아어, 영국·미국→영어, 일본(토)→일본어. 독일(화)은 제외 → 한국어 유지.
 CONTEXT_LANG = {
     "monday":    "프랑스어(français)",
     "wednesday": "이탈리아어(italiano)",
     "thursday":  "영어(English)",
     "friday":    "영어(English)",
+    "saturday":  "일본어(日本語)",
 }
 
 # 중복 필터가 과거 글과 대조할 때 거슬러 보는 주차 수.
@@ -48,7 +50,7 @@ CONTEXT_LANG = {
 #  소스 확대로 후보 풀이 깊어져 더 오래 거슬러 봐도 발행 편수에 무리가 없다.)
 HISTORY_LOOKBACK = 16
 PER_DAY = 3        # 요일당 기본 발행 편수 (1차 목표)
-WEEKLY_TARGET = 15 # 주간 총 발행 편수 (반드시 채운다)
+WEEKLY_TARGET = 18 # 주간 총 발행 편수 (월~토 6일 × 3개, 반드시 채운다)
 MAX_PER_DAY = 5    # 보충 시 한 요일에 허용하는 최대 편수 (나라별 3~5개 → 균형 유지)
 
 
@@ -57,19 +59,53 @@ MAX_PER_DAY = 5    # 보충 시 한 요일에 허용하는 최대 편수 (나라
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 def get_week_info():
-    """토요일 실행 기준: 다음 주 월~금 날짜 반환"""
+    """토요일 실행 기준: 다음 주 월~토 날짜 반환"""
     now = datetime.now(timezone.utc)
     days_to_next_monday = (7 - now.weekday()) % 7
     if days_to_next_monday == 0:
         days_to_next_monday = 7
     next_monday = (now + timedelta(days=days_to_next_monday)).date()
-    next_friday  = next_monday + timedelta(days=4)
+    next_saturday = next_monday + timedelta(days=5)
     year, week, _ = next_monday.isocalendar()
-    if next_monday.month != next_friday.month:
-        label = f"{year}년 {next_monday.month}월 {next_monday.day}일 — {next_friday.month}월 {next_friday.day}일"
+    if next_monday.month != next_saturday.month:
+        label = f"{year}년 {next_monday.month}월 {next_monday.day}일 — {next_saturday.month}월 {next_saturday.day}일"
     else:
-        label = f"{year}년 {next_monday.month}월 {next_monday.day}일 — {next_friday.day}일"
+        label = f"{year}년 {next_monday.month}월 {next_monday.day}일 — {next_saturday.day}일"
     return f"{year}-W{week:02d}", label
+
+
+import re
+
+# 철학자 성(姓) 추출 시 무시할 관사·전치사 토큰
+_PHIL_STOP = {"the", "von", "van", "der", "den", "de", "del", "della",
+              "di", "le", "la", "of", "el", "dos", "da", "san", "saint"}
+
+
+def philosopher_keys(field: str) -> set:
+    """철학자 표기 문자열에서 비교용 정규화 키(주로 성) 집합을 뽑는다.
+
+    '니체 (Friedrich Nietzsche)' → {'nietzsche'} 처럼 라틴 표기가 있으면 마지막 토큰(성)을 쓴다.
+    라틴 표기가 없으면 한글/원어 표기를 공백 제거해 그대로 키로 쓴다.
+    여러 철학자를 '/·,;·&·그리고'로 나눠 각각 키를 만든다.
+    """
+    keys = set()
+    if not field:
+        return keys
+    for part in re.split(r"[/,;·&]| 그리고 ", field):
+        part = part.strip()
+        if not part:
+            continue
+        m = re.search(r"[(（]([^)）]*)[)）]", part)   # 괄호 안 원어/라틴
+        latin = m.group(1) if m else part
+        toks = [t.lower() for t in re.findall(r"[A-Za-z][A-Za-z'\-]+", latin)]
+        toks = [t for t in toks if len(t) >= 3 and t not in _PHIL_STOP]
+        if toks:
+            keys.add(toks[-1])          # 성은 보통 마지막
+        else:
+            kk = re.sub(r"[\s·]+", "", part)  # 라틴 표기 없음 → 한글 정규화
+            if kk:
+                keys.add(kk)
+    return keys
 
 
 def load_published_urls() -> set:
@@ -121,9 +157,10 @@ def save_history(week_id: str, items: list):
 
     articles = [
         {
-            "title":   (item.get("title") or "").strip(),
-            "summary": (item.get("summary") or "").strip(),
-            "tags":    item.get("tags", []),
+            "title":       (item.get("title") or "").strip(),
+            "summary":     (item.get("summary") or "").strip(),
+            "philosopher": (item.get("philosopher") or "").strip(),
+            "tags":        item.get("tags", []),
         }
         for item in items
         if (item.get("title") or "").strip()
@@ -163,7 +200,7 @@ def load_feeds_for_day(sources: list, day: str, published_urls: set = None) -> l
             continue
         with open(feed_path, encoding="utf-8") as f:
             data = json.load(f)
-        for item in data.get("items", [])[:8]:    # 소스당 최대 8개 (주간 15개 보충용 후보 풀 확대)
+        for item in data.get("items", [])[:8]:    # 소스당 최대 8개 (주간 18개 보충용 후보 풀 확대)
             if item.get("url") in published_urls:
                 continue
             items.append({
@@ -215,7 +252,8 @@ SYSTEM_PROMPT = """당신은 철학 큐레이션 사이트 '플라뇌르(Flâneu
 반드시 JSON만 반환. 다른 텍스트 없이."""
 
 
-def build_user_prompt(day: str, items: list, recent_articles: list = None, need: int = PER_DAY) -> str:
+def build_user_prompt(day: str, items: list, recent_articles: list = None,
+                      need: int = PER_DAY, banned_names: list = None) -> str:
     items_block = ""
     for i, item in enumerate(items):
         items_block += (
@@ -224,6 +262,15 @@ def build_user_prompt(day: str, items: list, recent_articles: list = None, need:
             f"설명: {item['description']}\n"
             f"URL: {item['url']}\n"
             f"날짜: {item['date']}\n---"
+        )
+
+    philosopher_section = ""
+    if banned_names:
+        philosopher_section = (
+            f"\n## 이번 주(월~토) 이미 다룬 철학자 — 절대 다시 다루지 마세요\n"
+            f"{', '.join(banned_names)}\n"
+            f"→ 위 인물을 **중심으로** 다루는 항목은 (한글·원어 표기가 달라도 동일 인물이면) 선택하지 마세요.\n"
+            f"   이번에 고르는 {need}개도 서로 **다른 철학자**를 중심으로 해야 합니다. 같은 철학자를 두 번 쓰지 마세요.\n"
         )
 
     avoid_section = ""
@@ -268,11 +315,12 @@ def build_user_prompt(day: str, items: list, recent_articles: list = None, need:
     return f"""{DAY_LABELS[day]} 항목 {len(items)}개 중 가장 적합한 {need}개를 선택하고 한국어 요약을 작성하세요.
 - 선택하는 {need}개는 **서로 다른 삶의 영역·주제**여야 합니다 (예: 하나가 '노동'이면 나머지는 '관계'·'기술'·'몸' 등 다른 축). 비슷한 결의 글을 겹쳐 뽑지 마세요.
 - 엽기적·충격적·극단적이거나 노골적으로 자극적인 항목, 일상과 동떨어진 난해한 학술 논쟁은 제외합니다. 적합한 항목이 {need}개에 못 미치면 억지로 채우지 말고 가능한 만큼만 선택하세요.
-{avoid_section}
+{philosopher_section}{avoid_section}
 
 각 항목은 다음 구조로 작성합니다:
 - title: 한국어 제목 (원제목을 번역하거나 핵심을 재구성, 30자 이내)
 - summary: 한 줄 요약 (독자의 호기심을 자극, 40~60자)
+- philosopher: 이 글이 **중심으로** 다루는 철학자(또는 사상가) 1명의 이름. 반드시 '한글이름 (원어 알파벳 표기)' 형식으로 라틴 알파벳 이름을 병기한다 (예: "니체 (Friedrich Nietzsche)", "한나 아렌트 (Hannah Arendt)"). 중심 철학자가 여럿이면 가장 핵심 1명만 적는다. 특정 철학자를 중심에 두지 않는 글이면 빈 문자열("")로 둔다.
 - detail: 본문. 아래 순서로 세 단락을 작성:
     [현상/질문] "왜 우리는 ~하는가?" 형식으로 구체적 일상 장면·사회현상을 독자가 생생하게 떠올릴 수 있도록 5~7문장으로 묘사. 장면의 디테일, 감각, 감정까지 담아 독자를 그 상황 안으로 끌어들인다.
     [철학적 해석] 현상과 자연스럽게 연결되는 철학자·개념을 소개하고, 그 철학이 이 현상을 어떻게 다르게 보게 해주는지 5~7문장으로 서술. 개념 설명에 그치지 않고 독자가 "아, 그래서 이런 거였구나"라고 느낄 수 있도록 현상과의 연결을 충분히 풀어낸다.
@@ -292,6 +340,7 @@ def build_user_prompt(day: str, items: list, recent_articles: list = None, need:
       "index": 1,
       "title": "...",
       "summary": "...",
+      "philosopher": "니체 (Friedrich Nietzsche)",
       "detail": "...",
       "tags": ["...", "...", "..."]
     }}
@@ -364,9 +413,10 @@ def extract_json(text: str) -> dict:
 
 
 def curate_day(client: anthropic.Anthropic, day: str, items: list,
-               recent_articles: list = None, need: int = PER_DAY) -> list:
+               recent_articles: list = None, need: int = PER_DAY,
+               banned_names: list = None) -> list:
     """Claude API로 해당 요일 상위 need개 선택 + 한국어 요약 반환. JSON 파싱 실패 시 1회 재시도."""
-    messages = [{"role": "user", "content": build_user_prompt(day, items, recent_articles, need)}]
+    messages = [{"role": "user", "content": build_user_prompt(day, items, recent_articles, need, banned_names)}]
 
     for attempt in range(2):
         response = client.messages.create(
@@ -411,6 +461,7 @@ def curate_day(client: anthropic.Anthropic, day: str, items: list,
             "thumbnail":    orig.get("thumbnail", ""),
             "title":        sel["title"],
             "summary":      sel["summary"],
+            "philosopher":  (sel.get("philosopher") or "").strip(),
             "detail":       sel["detail"],
             "tags":         sel.get("tags", []),
             "originalTitle": orig["title"],
@@ -509,17 +560,20 @@ def filter_duplicates(client: anthropic.Anthropic, candidates: list, past: list)
 
 def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
                         recent_articles: list, target: int = PER_DAY,
-                        exclude_urls: set = None) -> list:
+                        exclude_urls: set = None, banned_names: list = None) -> list:
     """해당 요일에서 과거 글과 중복되지 않는 글 target개를 확보해 반환.
 
     target은 '이번에 새로 더 채워야 할 편수'다(부분 보충 시 PER_DAY보다 작을 수 있다).
     exclude_urls에 든 URL(이미 이번 주에 채택한 항목)은 후보에서 제외한다.
+    banned_names는 이번 주 이미 다룬 철학자 목록 → 프롬프트에서 재사용을 막는다.
     1차 큐레이션 → 중복 필터 게이트 → 중복은 버리고, 부족분은 1회 보충 큐레이션.
     같은 주 안의 중복도 막기 위해, 이미 채택한 글을 비교 대상(past)에 누적한다.
     """
     chosen = []
     used_urls = set(exclude_urls or ())
     candidates = list(day_items)
+    # 이번 호출 안에서 채택한 철학자도 다음 라운드 프롬프트에서 배제
+    round_banned = list(banned_names or [])
 
     for round_no in range(2):  # 최초 + 보충 1회
         need = target - len(chosen)
@@ -529,7 +583,8 @@ def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
         if not pool:
             break
 
-        picked = curate_day(client, day, pool, recent_articles, need=need)
+        picked = curate_day(client, day, pool, recent_articles, need=need,
+                            banned_names=round_banned)
         if not picked:
             break
         for p in picked:
@@ -547,6 +602,8 @@ def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
                 print(f"    [중복 제외] '{p['title']}' ↔ '{v['matched']}' ({v['reason']})")
             else:
                 chosen.append(p)
+                if p.get("philosopher"):
+                    round_banned.append(p["philosopher"])
 
     if len(chosen) < target:
         print(f"    [알림] {DAY_LABELS[day]}: 중복 제외 후 {len(chosen)}개만 확보 "
@@ -608,8 +665,8 @@ def main():
     week_id, week_label = get_week_info()
     print(f"주차: {week_id} ({week_label})\n")
 
-    # 멱등성: 같은 주차가 이미 WEEKLY_TARGET(15)개 발행됐으면 건너뛴다.
-    # (FORCE=1이면 전부 재생성. 15개 미만이면 부족분을 이어서 채운다.)
+    # 멱등성: 같은 주차가 이미 WEEKLY_TARGET(18)개 발행됐으면 건너뛴다.
+    # (FORCE=1이면 전부 재생성. 18개 미만이면 부족분을 이어서 채운다.)
     existing_items = []
     force = bool(os.environ.get("FORCE"))
     if not force:
@@ -655,6 +712,19 @@ def main():
         if it.get("sourceUrl"):
             existing_urls[it.get("day")].add(it["sourceUrl"])
 
+    # 이번 주(월~토) 이미 사용된 철학자 — 한 주 안에서 같은 철학자를 두 번 이상 다루지 않는다.
+    # keys=비교용 정규화 성(姓) 집합, names=프롬프트에 보여줄 원 표기 목록.
+    used_phil_keys  = set()
+    used_phil_names = []
+    for it in existing_items:
+        ph = (it.get("philosopher") or "").strip()
+        if not ph:
+            continue
+        ks = philosopher_keys(ph)
+        if ks and not (ks & used_phil_keys):
+            used_phil_names.append(ph)
+        used_phil_keys |= ks
+
     def day_count(d):
         return existing_by_day.get(d, 0) + len(chosen_by_day[d])
 
@@ -672,7 +742,8 @@ def main():
             return 0
         try:
             picked = curate_day_filtered(client, day, items, recent_articles,
-                                         target=n, exclude_urls=chosen_urls(day))
+                                         target=n, exclude_urls=chosen_urls(day),
+                                         banned_names=used_phil_names)
         except Exception as e:
             print(f"  → 큐레이션 실패: {e}")
             return 0
@@ -681,7 +752,7 @@ def main():
 
     def take_raw(day, n, phase="3차"):
         """최후 보루: 의미 중복 게이트를 건너뛰고 원문 후보에서 n개를 채운다.
-        원문(실제 소스 글)은 완전 중복이 아니므로, 15개에 미달하느니 약간 겹치더라도 채운다.
+        원문(실제 소스 글)은 완전 중복이 아니므로, 18개에 미달하느니 약간 겹치더라도 채운다.
         이미 채택한 URL·과거 발행 URL은 제외하므로 같은 글이 반복되지는 않는다.
         """
         nonlocal recent_articles
@@ -690,20 +761,31 @@ def main():
         if not items or n <= 0:
             return 0
         try:
-            picked = curate_day(client, day, items, recent_articles, need=n)
+            picked = curate_day(client, day, items, recent_articles, need=n,
+                                banned_names=used_phil_names)
         except Exception as e:
             print(f"  → 최후 보충 실패: {e}")
             return 0
         return _accept(day, picked[:n], phase)
 
     def _accept(day, picked, phase):
-        """picked를 chosen_by_day에 추가(URL 중복 방지)하고 실제 추가 편수 반환."""
+        """picked를 chosen_by_day에 추가(URL·철학자 중복 방지)하고 실제 추가 편수 반환."""
         nonlocal recent_articles
         added = 0
         for c in picked:
             if c["sourceUrl"] in chosen_urls(day):
                 continue
+            # 이번 주 이미 다룬 철학자면 제외 (월~토 철학자 유일성 하드 게이트)
+            keys = philosopher_keys(c.get("philosopher", ""))
+            dup_keys = keys & used_phil_keys
+            if dup_keys:
+                print(f"    [철학자 중복 제외] '{c['title']}' — 이미 다룬 철학자"
+                      f"({c.get('philosopher','')})")
+                continue
             chosen_by_day[day].append(c)
+            if keys:
+                used_phil_keys.update(keys)
+                used_phil_names.append(c.get("philosopher", ""))
             recent_articles = recent_articles + [
                 {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", [])}
             ]
@@ -724,7 +806,7 @@ def main():
             continue
         take(day, need, "1차")
 
-    # ── 2차: 주간 총 15개를 채울 때까지 후보가 남은 요일에서 보충(요일당 MAX_PER_DAY까지) ──
+    # ── 2차: 주간 총 18개를 채울 때까지 후보가 남은 요일에서 보충(요일당 MAX_PER_DAY까지) ──
     if total_count() < WEEKLY_TARGET:
         print(f"\n── 2차 보충: 현재 {total_count()}개 → {WEEKLY_TARGET}개 채움 (요일당 최대 {MAX_PER_DAY}개) ──")
         stagnant_rounds = 0
@@ -739,7 +821,7 @@ def main():
                 added_this_round += take(day, 1, "2차")
             stagnant_rounds = stagnant_rounds + 1 if added_this_round == 0 else 0
 
-    # ── 3차(최후 보루): 그래도 15개 미만이면 중복 게이트를 완화해 반드시 채운다 ──
+    # ── 3차(최후 보루): 그래도 18개 미만이면 중복 게이트를 완화해 반드시 채운다 ──
     if total_count() < WEEKLY_TARGET:
         print(f"\n── 3차 최후 보충: 현재 {total_count()}개 → {WEEKLY_TARGET}개 (중복 게이트 완화) ──")
         stagnant_rounds = 0

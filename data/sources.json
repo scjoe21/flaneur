@@ -587,6 +587,78 @@
       "url": "https://nautil.us",
       "description": "과학·인문 교차 매거진. 자연·몸·시간·기술을 성찰적 에세이로 탐구.",
       "rssUrl": "https://nautil.us/feed/"
+    },
+    {
+      "id": "kangaeruhito",
+      "name": "考える人 (Shincho)",
+      "country": "japan",
+      "countryLabel": "일본",
+      "flag": "🇯🇵",
+      "day": "saturday",
+      "type": "rss",
+      "url": "https://kangaeruhito.jp",
+      "description": "신초샤(新潮社)의 사색 에세이 웹매거진 '考える人(생각하는 사람)'. 일상·삶의 태도를 성찰적으로 다룸.",
+      "rssUrl": "https://kangaeruhito.jp/feed"
+    },
+    {
+      "id": "webchikuma",
+      "name": "web Chikuma (Chikuma Shobo)",
+      "country": "japan",
+      "countryLabel": "일본",
+      "flag": "🇯🇵",
+      "day": "saturday",
+      "type": "rss",
+      "url": "https://www.webchikuma.jp",
+      "description": "지쿠마쇼보(筑摩書房)의 인문·사회 에세이 웹매거진. 일상·문화 현상을 사상적으로 풀어냄.",
+      "rssUrl": "https://www.webchikuma.jp/rss"
+    },
+    {
+      "id": "shueisha-shinsho",
+      "name": "Shueisha Shinsho Plus",
+      "country": "japan",
+      "countryLabel": "일본",
+      "flag": "🇯🇵",
+      "day": "saturday",
+      "type": "rss",
+      "url": "https://shinsho-plus.shueisha.co.jp",
+      "description": "슈에이샤(集英社) 신서플러스. 사회·사상·삶의 문제를 교양 에세이로 다루는 웹매거진.",
+      "rssUrl": "https://shinsho-plus.shueisha.co.jp/feed"
+    },
+    {
+      "id": "keisobiblio",
+      "name": "Keiso Bibliophile (Keiso Shobo)",
+      "country": "japan",
+      "countryLabel": "일본",
+      "flag": "🇯🇵",
+      "day": "saturday",
+      "type": "rss",
+      "url": "https://keisobiblio.com",
+      "description": "철학·인문 전문 출판사 게이소쇼보(勁草書房)의 웹연재. 철학·윤리·사회사상 에세이.",
+      "rssUrl": "https://keisobiblio.com/feed/"
+    },
+    {
+      "id": "gendai-media",
+      "name": "Gendai Business (Kodansha)",
+      "country": "japan",
+      "countryLabel": "일본",
+      "flag": "🇯🇵",
+      "day": "saturday",
+      "type": "rss",
+      "url": "https://gendai.media",
+      "description": "고단샤(講談社) 현대 미디어. 사회·사상·일상 현상을 폭넓게 다루는 교양 매거진.",
+      "rssUrl": "https://gendai.media/list/feed/rss"
+    },
+    {
+      "id": "wired-jp",
+      "name": "WIRED Japan",
+      "country": "japan",
+      "countryLabel": "일본",
+      "flag": "🇯🇵",
+      "day": "saturday",
+      "type": "rss",
+      "url": "https://wired.jp",
+      "description": "일본판 WIRED. 기술이 삶·문화·사회를 어떻게 바꾸는지 사상적으로 관찰.",
+      "rssUrl": "https://wired.jp/feed/rss"
     }
   ]
 }

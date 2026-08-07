@@ -9,8 +9,9 @@ const DAY_CONFIG = {
   wednesday: { label: '수요일', flag: '🇮🇹', country: 'italy',   countryLabel: '이탈리아' },
   thursday:  { label: '목요일', flag: '🇬🇧', country: 'uk',      countryLabel: '영국'   },
   friday:    { label: '금요일', flag: '🇺🇸', country: 'usa',     countryLabel: '미국'   },
+  saturday:  { label: '토요일', flag: '🇯🇵', country: 'japan',   countryLabel: '일본'   },
 };
-const DAY_ORDER = ['monday','tuesday','wednesday','thursday','friday'];
+const DAY_ORDER = ['monday','tuesday','wednesday','thursday','friday','saturday'];
 
 // ── 상태 ──
 let newsData  = null;

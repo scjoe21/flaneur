@@ -71,21 +71,49 @@ jobs:
           git pull --rebase -X ours origin master
           git push
 
-      # 발행 편수 검증: 15개 미만이면 잡을 실패로 표시(가시화) → 다음 cron 안전망이 이어서 보충.
+      # 발행 편수 검증: 18개 미만이면 잡을 실패로 표시(가시화) → 다음 cron 안전망이 이어서 보충.
+      # 아울러 한 주(월~토) 안에서 같은 철학자가 두 번 이상 쓰이지 않았는지도 검증한다.
       # 진행분은 이미 커밋/푸시됐으므로 유실되지 않는다.
-      - name: 발행 편수 검증 (15개 보장)
+      - name: 발행 편수·철학자 유일성 검증 (18개 + 철학자 비중복)
         run: |
           python - <<'PY'
-          import json, sys
+          import json, sys, re
           d = json.load(open("data/news.json", encoding="utf-8"))
           items = d.get("items", [])
           from collections import Counter
           by_day = Counter(it.get("day") for it in items)
           print(f"발행 주차: {d.get('week')} / 총 {len(items)}개")
-          for day in ["monday","tuesday","wednesday","thursday","friday"]:
+          for day in ["monday","tuesday","wednesday","thursday","friday","saturday"]:
               print(f"  {day}: {by_day.get(day,0)}")
-          if len(items) < 15:
-              print(f"::error::주간 발행 편수 부족: {len(items)}/15 — 다음 cron이 보충합니다.")
+
+          # 철학자 유일성 검사 (성 기준 정규화)
+          STOP = {"the","von","van","der","den","de","del","della","di","le","la","of","el","dos","da","san","saint"}
+          def keys(field):
+              ks=set()
+              for part in re.split(r"[/,;·&]| 그리고 ", field or ""):
+                  part=part.strip()
+                  if not part: continue
+                  m=re.search(r"[(（]([^)）]*)[)）]", part)
+                  latin=m.group(1) if m else part
+                  toks=[t.lower() for t in re.findall(r"[A-Za-z][A-Za-z'\-]+", latin)]
+                  toks=[t for t in toks if len(t)>=3 and t not in STOP]
+                  if toks: ks.add(toks[-1])
+                  else:
+                      kk=re.sub(r"[\s·]+","",part)
+                      if kk: ks.add(kk)
+              return ks
+          seen={}; dups=[]
+          for it in items:
+              for k in keys(it.get("philosopher","")):
+                  if k in seen:
+                      dups.append(f"{k}: '{seen[k]}' ↔ '{it.get('title')}'")
+                  else:
+                      seen[k]=it.get("title")
+          if dups:
+              print("::warning::같은 주에 철학자 중복 발견:\n  " + "\n  ".join(dups))
+
+          if len(items) < 18:
+              print(f"::error::주간 발행 편수 부족: {len(items)}/18 — 다음 cron이 보충합니다.")
               sys.exit(1)
-          print("✓ 15개 이상 발행 확인")
+          print("✓ 18개 이상 발행 확인")
           PY

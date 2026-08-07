@@ -42,8 +42,8 @@ function renderSidebar() {
   const sidebar = document.getElementById('source-list');
   sidebar.innerHTML = '';
 
-  const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday'];
-  const dayNames = { monday:'월요일', tuesday:'화요일', wednesday:'수요일', thursday:'목요일', friday:'금요일' };
+  const days = ['monday', 'tuesday', 'wednesday', 'thursday', 'friday', 'saturday'];
+  const dayNames = { monday:'월요일', tuesday:'화요일', wednesday:'수요일', thursday:'목요일', friday:'금요일', saturday:'토요일' };
 
   days.forEach(day => {
     const daySources = sources.filter(s => s.day === day);
@@ -495,7 +495,7 @@ function addToWeek(src) {
   const item = {
     id,
     day:          src.day,
-    dayLabel:     { monday:'월요일', tuesday:'화요일', wednesday:'수요일', thursday:'목요일', friday:'금요일' }[src.day],
+    dayLabel:     { monday:'월요일', tuesday:'화요일', wednesday:'수요일', thursday:'목요일', friday:'금요일', saturday:'토요일' }[src.day],
     country:      src.country,
     countryLabel: src.countryLabel,
     source:       src.name,
@@ -533,7 +533,7 @@ function renderWeekItems() {
   }
 
   container.innerHTML = '';
-  const dayOrder = ['monday','tuesday','wednesday','thursday','friday'];
+  const dayOrder = ['monday','tuesday','wednesday','thursday','friday','saturday'];
   const sorted   = [...newsData.items].sort(
     (a,b) => dayOrder.indexOf(a.day) - dayOrder.indexOf(b.day)
   );

@@ -70,6 +70,11 @@ DAILY_LIFE_KEYWORDS = [
     # 의문형 제목 (현상 제기)
     "pourquoi", "warum", "perché", "why", "comment", "wie", "come", "how",
     "est-ce que", "ist es", "è possibile", "should we", "can we",
+    # 일본어 — 일상·사회현상
+    "スマホ", "携帯", "ソーシャル", "ネット", "依存", "画面", "仕事", "労働",
+    "消費", "お金", "孤独", "家族", "愛", "友情", "結婚", "不安", "幸福", "幸せ",
+    "怒り", "恐れ", "気候", "環境", "政治", "戦争", "食べる", "眠る", "歩く",
+    "日常", "暮らし", "なぜ", "どうして",
 ]
 
 # 2. 철학적 연결 키워드 (25점 만점)
@@ -86,6 +91,9 @@ PHILOSOPHY_KEYWORDS = [
     "penser", "denken", "pensare", "think", "réfléchir", "nachdenken",
     "question", "frage", "domanda", "problème", "problem", "problema",
     "valeur", "wert", "valore", "value",
+    # 일본어 — 철학적 연결
+    "哲学", "倫理", "道徳", "自由", "真理", "意味", "存在", "正義",
+    "意識", "社会", "考える", "思想", "問い", "価値", "生き方",
 ]
 
 # 3. 플라뇌르 정체성 키워드 (20점 만점)
@@ -108,6 +116,9 @@ FLANEUR_KEYWORDS = [
     "découvrir", "entdecken", "scoprire", "discover", "remarquer", "bemerken",
     "étrange", "seltsam", "strano", "strange", "bizarre", "merkwürdig",
     "inattendu", "unerwartet", "inaspettato", "unexpected",
+    # 일본어 — 관찰·산책·성찰
+    "観察", "散歩", "歩く", "街", "都市", "路地", "静けさ", "沈黙",
+    "反省", "省察", "気づく", "何気ない", "ふだん",
 ]
 
 # 4. 새로운 시각 키워드 (15점 만점)
@@ -125,6 +136,9 @@ NOVELTY_KEYWORDS = [
     # 질문 뒤집기
     "vraiment", "wirklich", "davvero", "really", "vraie question",
     "il faut se demander", "man muss fragen", "bisogna chiedersi",
+    # 일본어 — 새로운 시각·역설
+    "逆説", "パラドックス", "実は", "本当に", "むしろ", "見直す",
+    "新しい視点", "問い直す", "意外",
 ]
 
 

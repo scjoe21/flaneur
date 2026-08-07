@@ -255,7 +255,7 @@ document.addEventListener('DOMContentLoaded', () => {
           <span style="font-size:18px">${src.flag}</span>
           <span style="font-weight:500;min-width:120px">${src.name}</span>
           <span style="color:var(--text-muted);min-width:60px">${src.countryLabel}</span>
-          <span style="color:var(--text-light);min-width:60px">${{monday:'월요일',tuesday:'화요일',wednesday:'수요일',thursday:'목요일',friday:'금요일'}[src.day]}</span>
+          <span style="color:var(--text-light);min-width:60px">${{monday:'월요일',tuesday:'화요일',wednesday:'수요일',thursday:'목요일',friday:'금요일',saturday:'토요일'}[src.day]}</span>
           <span style="background:${src.type==='youtube'?'#fee2e2':'#fef3c7'};color:${src.type==='youtube'?'#dc2626':'#d97706'};padding:2px 8px;border-radius:8px;font-size:11px;font-weight:500">
             ${src.type === 'youtube' ? 'YouTube' : 'RSS'}
           </span>
