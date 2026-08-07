@@ -1,24 +1,8 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-08-02T18:09:19.050967+00:00",
+  "fetchedAt": "2026-08-07T05:31:50.259303+00:00",
   "items": [
-    {
-      "title": "Pourquoi les philosophes sont en train de devenir les stars de l'intelligence artificielle",
-      "url": "https://usbeketrica.com/fr/article/les-philosophes-sont-ils-en-train-de-devenir-les-stars-de-l-intelligence-artificielle",
-      "description": "Et si la vraie compétence d'avenir n'était finalement pas de savoir coder, mais de savoir philosopher ? C’est ce que suggère un article publié par le média américain The Economist, qui fait le constat d'un intérêt grandissant des entreprises d’IA pour les diplômés de philosophie.",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "Climat : et si on avait écouté la science ?",
       "url": "https://usbeketrica.com/fr/article/climat-et-si-on-avait-ecoute-la-science",
@@ -40,38 +24,6 @@
       "url": "https://usbeketrica.com/fr/article/celui-qui-inventera-les-materiaux-de-demain-faconnera-les-industries-du-futur",
       "description": "Alors que l’Europe cherche à s’affranchir de ses dépendances géopolitiques, l’intelligence artificielle s’impose comme le nouvel architecte de l’innovation moléculaire. En inversant les processus de recherche traditionnels, elle promet d’accélérer la découverte de matériaux d’avenir. C'est l'une des idées fortes qui ressort de l'échange entre Karima Benelhadj, responsable sectorielle Chimie et Environnement chez Bpifrance, et Mathieu Pucheault, cofondateur de Synboli, une start-up spécialisée da",
       "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "« Il y a un boulevard pour le candidat qui dira ‘Stop à l’IA !’ »",
-      "url": "https://usbeketrica.com/fr/article/il-y-a-un-boulevard-pour-le-candidat-qui-dira-stop-a-l-ia",
-      "description": "Le déploiement de l’intelligence artificielle est-il vraiment irrésistible ? La France est-elle la mieux placée pour inventer des réponses politiques à la hauteur de l’enjeu ? Pour répondre à ces questions, nous avons réuni les romanciers Abel Quentin et Hadrien Klent, dont les derniers livres (Sanctuaires, éd. L’observatoire, et Le jour zéro, éd. Tripode) dénoncent, de façon plus ou moins frontale, notre dépendance technologique.",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Ce que la SF peut nous apprendre de l'habitabilité d'un monde en réchauffement",
-      "url": "https://usbeketrica.com/fr/article/ce-que-la-sf-peut-nous-apprendre-de-l-habitabilite-d-un-monde-en-rechauffement",
-      "description": "TRIBUNE // Et si le débat sur les climatiseurs qui a échaudé les plateaux télévisés français ces dernières semaines était le symptôme d'un manque criant d'imagination pour penser un futur habitable ? C'est ce que suggère dans cette tribune Yannick Rumpala, Maître de conférences (HDR) en science politique à l'Université Côte d'Azur, qui invite à voir dans les œuvres de sience-fiction un laboratoire d'expérimentation précieux pour maintenir l’habitabilité planétaire.",
-      "date": "Mon, 13 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -148,6 +100,38 @@
       }
     },
     {
+      "title": "L'IA va-t-elle refermer la révolution amoureuse ouverte par les applications de rencontre ?",
+      "url": "https://usbeketrica.com/fr/article/l-ia-va-t-elle-refermer-la-revolution-amoureuse-ouverte-par-les-applications-de-rencontre",
+      "description": "TRIBUNE // Les applications de rencontre ont élargi nos horizons amoureux. L'intelligence artificielle risque-t-elle, paradoxalement, de les rétrécir ? C'est l'interrogation que développe Martin Pavanello, CEO du cabinet de conseil Mister IA.",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
+      "title": "Nos vies numériques en 1996 : quand le futur se résumait à AOL, Mario et l’USB",
+      "url": "https://usbeketrica.com/fr/article/internet-en-1996-quand-le-futur-se-resumait-a-aol-et-a-l-usb",
+      "description": "[SÉRIE D’ÉTÉ] Cet été, Usbek & Rica retourne dans le passé. Sites Internet, réseaux sociaux, jeux vidéo : on vous raconte ce qui fait le sel de nos vies numériques depuis trois décennies. Pour ce premier épisode, direction 1996.",
+      "date": "Tue, 04 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Solitude : et si les médecins prescrivaient du temps social ?",
       "url": "https://usbeketrica.com/fr/article/solitude-et-si-les-medecins-prescrivaient-du-temps-social",
       "description": "Suède, Portugal, Japon… une poignée de pays ont mis en place des politiques publiques consacrées spécifiquement à l’endiguement de la solitude. Des mesures qu'on recense dans le numéro 49 de notre magazine consacré à l'épidémie de solitude (automne 2025), toujours disponible en librairie. Parmi elles, figure la prescription du temps social établie au Royaume-Uni.",
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Aux Philippines, une armée d'infirmiers surveille des patients d'hôpitaux américains à distance",
+      "url": "https://usbeketrica.com/fr/article/aux-philippines-une-armee-d-infirmiers-virtuels-surveille-des-patients-americains-a-distance",
+      "description": "Pour faire face à un déficit d’infirmiers, une partie croissante d'hôpitaux américains délègue la surveillance de ses patients et certaines tâches administratives à des travailleurs basés aux Philippines, raconte le média Rest of World. Payés cinq à neuf fois moins que leurs homologues américains, ces « assistants de soins virtuels » aggravent la pénurie de personnel soignant dans leur propre pays.",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -196,6 +196,22 @@
       }
     },
     {
+      "title": "10 chiffres clés sur l’électrification de l'industrie",
+      "url": "https://usbeketrica.com/fr/article/10-chiffres-cles-sur-l-electrification-de-l-industrie",
+      "description": "L’électrification des usages industriels est un levier indispensable pour atteindre les objectifs de transition écologique, alors que la France vise la neutralité carbone pour 2050. Où en est-on aujourd’hui ? La réponse au travers de 10 chiffres pour explorer les perspectives, les contraintes et les opportunités de l’électrification.",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Et si l’on avait délaissé le nucléaire pour la « bombe temporelle » ?",
       "url": "https://usbeketrica.com/fr/article/et-si-l-on-avait-delaisse-le-nucleaire-pour-la-bombe-temporelle",
       "description": "En 1946, après les attaques de Nagasaki et Hiroshima, les États-Unis ont proposé de transférer progressivement la possession de l’arme nucléaire aux Nations unies pour en limiter la prolifération. Un plan rejeté par l’Union soviétique. Et si les deux blocs s’étaient finalement entendus ? Et si l’abandon du nucléaire militaire avait poussé les nations à chercher un autre avantage stratégique : la maîtrise du temps ? C’est l’hypothèse creusée dans cette uchronie, publiée initialement dans les page",
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/trois-mangas-de-science-fiction-a-lire-absolument-cet-ete",
       "description": "Après les romans et les BD, la rédaction d’Usbek & Rica vous a concocté une nouvelle sélection de recommandations de lecture pour vous évader cet été, direction le futur. Aujourd'hui, cap sur les meilleurs mangas de SF parus ces derniers mois, en toute subjectivité.",
       "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Cinq BD pour emmener le futur en vacances",
-      "url": "https://usbeketrica.com/fr/article/cinq-bd-pour-garder-un-pied-dans-le-futur-cet-ete",
-      "description": "Après avoir sélectionné cinq romans à dévorer cet été, la rédaction d'Usbek & Rica recommande cinq bandes dessinées pour garder un pied dans le futur pendant les vacances.",
-      "date": "Fri, 17 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

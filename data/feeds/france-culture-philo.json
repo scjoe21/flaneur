@@ -1,8 +1,24 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-08-02T18:09:17.718442+00:00",
+  "fetchedAt": "2026-08-07T05:31:48.250188+00:00",
   "items": [
+    {
+      "title": "Voyage en Italie avec Nietzsche : Turin : la flamboyance et l'effondrement",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:57:20  - Avec philosophie - par : Géraldine Muhlmann - Le séjour de Nietzsche à Turin en 1888 constitue l’un des derniers moments de bonheur et de fécondité intellectuelle de sa vie, où il découvre un lieu qui lui apparaît aussitôt comme l’espace idéal pour vivre et penser. Mais cette période prolifique précède son effondrement psychique.  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les ",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
     {
       "title": "[DÉCOUVERTE] La mythologie chinoise | 02/10 · Yu le Grand, gouverneur des eaux",
       "url": "https://www.radiofrance.fr",
@@ -215,22 +231,6 @@
       "title": "[DÉCOUVERTE] La mythologie chinoise | 04/10 · Le dragon, symbole des empereurs et de la Chine",
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:59:14  - Avec philosophie - Aujourd'hui, partons à la découverte du dragon, totem des empereurs et symbole de la Chine. De la dynastie des Shang aux paroles d'une chanson taïwanaise reprise par Xi Jinping, de la peinture lettrée à Bruce Lee, retour sur la longue histoire d'un mythe que les pouvoirs n'ont cessé de convoquer. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "[DÉCOUVERTE] La mythologie chinoise | 05/10 · L'Empereur jaune",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:59:52  - Avec philosophie - Une fois le monde créé et le chaos maîtrisé, sont venus les temps des rois et des empereurs. Les Chinois les désignent comme les trois Augustes et les cinq Empereurs. Parmi ces derniers, un s'est imposé : Huangdi, l'Empereur Jaune. \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",

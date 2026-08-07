@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-08-02T18:11:11.313916+00:00",
+  "fetchedAt": "2026-08-07T05:33:10.883433+00:00",
   "items": [
+    {
+      "title": "How to cultivate compassion",
+      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
+      "description": "More than a moral good, practicing compassion on a daily basis can make us more resilient, happier and healthier people - Video by Dr Tracey Marks Watch on Psyche",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "How to stop avoiding life",
       "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
@@ -20,10 +36,26 @@
       }
     },
     {
-      "title": "How to become the person you want to be",
-      "url": "https://psyche.co/guides/how-to-become-the-person-you-want-to-be",
-      "description": "Close the intention-action gap and live the way you want, using insights from the cognitive neuroscience of habits - by Eike Buabang Read on Psyche",
-      "date": "Wed, 22 Jul 2026",
+      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
+      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
+      "description": "There’s more to virtue than how we treat other individuals. ‘Structure-facing virtues’ tie the personal to the big picture - by Michael Brownstein & Alex Madva Read on Psyche",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Why we should learn to embrace the middlebrow",
+      "url": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow",
+      "description": "Stranded between ‘low’ and ‘high’ art, the middlebrow is unfairly condemned. It’s a ‘both/and’ mode capable of greatness - by Aaron Meskin & Jonathan Weinberg Read on Psyche",
+      "date": "Mon, 03 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -49,6 +81,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "How to enter a state of flow",
+      "url": "https://psyche.co/guides/how-to-enter-a-state-of-flow",
+      "description": "That moment of sweet immersion in the task at hand: that’s flow. With some strategy, you can experience it more often - by Susan A Jackson Read on Psyche",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Free-range fraud",
+      "url": "https://psyche.co/turning-points/my-double-life-came-to-a-head-when-i-pretended-to-be-vegan",
+      "description": "An animal rights group offered a rare job opportunity. How hard could it be to play along? - by Evan E Lambert Read on Psyche",
+      "date": "Tue, 04 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -84,38 +148,6 @@
       }
     },
     {
-      "title": "What ancient art tells us about modern psychedelic medicine",
-      "url": "https://psyche.co/ideas/what-ancient-art-tells-us-about-modern-psychedelic-medicine",
-      "description": "Millennia-old rock paintings reflect a wisdom about healing that should inform today’s evolving psychedelic treatments - by William McCarthy Read on Psyche",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Jung’s archetypes are a mirror that shows who and what we are",
-      "url": "https://psyche.co/ideas/jungs-archetypes-are-a-mirror-that-shows-who-and-what-we-are",
-      "description": "Psychedelics and neuroscience seem to support his ideas about ancestral dreams and fears – but with an evolutionary twist - by Hugh McGovern Read on Psyche",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "After the performance",
       "url": "https://psyche.co/portraits/the-nba-superstar-carmelo-anthony-on-life-after-basketball",
       "description": "For 19 years, the NBA superstar Carmelo Anthony mastered the version of himself the world demanded. Retired from basketball, he confronts a harder question: who is he now? - by D Watkins Read on Psyche",
@@ -132,35 +164,35 @@
       }
     },
     {
-      "title": "It wasn’t Bourgogne",
-      "url": "https://psyche.co/videos/jacques-recalls-the-odd-calm-of-marching-into-battle-in-wartime-france",
-      "description": "A filmmaker turns an exchange with his grandfather about his memories of the Second World War into an affecting animation - Directed by Mathias de Panafieu Watch on Psyche",
-      "date": "Tue, 21 Jul 2026",
+      "title": "Climbing gives me a break from my brain",
+      "url": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain",
+      "description": "When I took up indoor climbing, I didn’t anticipate the special appeal it held for someone with ADHD - by Alizeh Kohari Read on Psyche",
+      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "When the world stopped moving",
-      "url": "https://psyche.co/turning-points/in-the-stillness-of-prison-i-learned-how-to-be-alone",
-      "description": "I wanted to outrun my thoughts. But in the stillness of prison, I had no choice but to face myself - by Devin A Giordano Read on Psyche",
-      "date": "Mon, 20 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "Teddy",
+      "url": "https://psyche.co/videos/birth-doulas-are-almost-exclusively-female-enter-teddy",
+      "description": "As a security guard and childbirth doula, Teddy challenges stereotypes of masculinity with knowledge, calm and care - Directed by Lauren Santucci Watch on Psyche",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://psyche.co/videos/how-two-punk-bands-came-to-play-a-california-psychiatric-hospital",
       "description": "The chaotic and joyful musical moment in 1978 when two punk bands played a gig at a psychiatric hospital in California - A film by Mike Plante and Jason Willis Watch on Psyche",
       "date": "Tue, 28 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Don’t turn away from tragedy, but do witness intentionally",
-      "url": "https://psyche.co/ideas/dont-turn-away-from-tragedy-but-do-witness-intentionally",
-      "description": "Chronic exposure to the world’s horror has a mental cost. Being an effective witness requires a more sustainable approach - by Nena Močnik Read on Psyche",
-      "date": "Thu, 23 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Portraits of another life: Lloyd Khan",
-      "url": "https://psyche.co/videos/the-godfather-of-tiny-homes-has-spent-a-lifetime-changing-his-mind",
-      "description": "No rent, no mortgage: rejecting easy comfort, a revolutionary homebuilder has found his own version of a successful life - 11 minutes Watch on Psyche",
-      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

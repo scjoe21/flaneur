@@ -1,8 +1,24 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-08-02T18:11:09.637089+00:00",
+  "fetchedAt": "2026-08-07T05:33:08.677733+00:00",
   "items": [
+    {
+      "title": "Ani Liu: eye heart womb",
+      "url": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art",
+      "description": "A scientist, artist and mother, Ani Liu contemplates how power and control shape the body in her taboo-breaking artworks - by Aeon Video Watch on Aeon",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "How art invented humanity",
       "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
@@ -17,6 +33,38 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 20
+      }
+    },
+    {
+      "title": "The last ice age",
+      "url": "https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot",
+      "description": "Retracing his grandparents’ journey to Iceland’s Vatnajökull glacier, a writer draws on storytelling to grasp climate change - by Aeon Video Watch on Aeon",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Thucydides the perspicacious",
+      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
+      "description": "Far from thinking that ‘might makes right’, the great historian’s analysis of war identifies a vice common to all states - by David Polansky & Daniel Schillinger Read on Aeon",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -36,6 +84,38 @@
       }
     },
     {
+      "title": "The great arc",
+      "url": "https://aeon.co/videos/pariss-business-district-boasts-imposing-art-but-who-is-it-for",
+      "description": "A striking meditation on inequality via the bold sculptures that sit amongst skyscrapers in Paris’s business district - by Aeon Video Watch on Aeon",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Towards an AI for Africa",
+      "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
+      "description": "Western-developed AI rides roughshod over Ubuntu values of connection and community that animate African ethical life - by Fainos Mangena Read on Aeon",
+      "date": "Tue, 04 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Mud below, sun above",
       "url": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away",
       "description": "Meet Bể, part of Vietnam’s vital but overlooked network of recyclers – a workforce predominantly made up of elderly women - by Aeon Video Watch on Aeon",
@@ -48,22 +128,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Can cells think?",
-      "url": "https://aeon.co/videos/why-we-should-think-of-intelligence-in-terms-of-goals-not-brains",
-      "description": "Inside the lab of a biologist who is seeking to understand intelligence by focusing on problem-solving, not neurons - by Aeon Video Watch on Aeon",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 10
       }
     },
@@ -132,22 +196,6 @@
       }
     },
     {
-      "title": "The savage bites back",
-      "url": "https://aeon.co/essays/anthropophagy-art-flips-the-cannibal-worries-of-colonialism",
-      "description": "Rooted in Brazilian modernism, anthropophagy devours and transforms culture, subverting colonial fears of cannibalism - by Sofía Cándano Read on Aeon",
-      "date": "Thu, 23 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Signal then storm",
       "url": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain",
       "description": "Allan Basbaum has spent 50 years searching the nervous system for the places where pain begins – and where it can be stopped - by Stephani Sutherland Read on Aeon",
@@ -180,58 +228,10 @@
       }
     },
     {
-      "title": "The people’s atheist",
-      "url": "https://aeon.co/essays/the-rural-french-priest-who-preached-atheism-to-the-people",
-      "description": "Jean Meslier, a rural French priest, argued that religion is designed to produce subjects who will automatically obey - by Nidal Taibi Read on Aeon",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Skinner revolution",
-      "url": "https://aeon.co/videos/how-bf-skinner-upended-our-understanding-of-behaviour-and-control",
-      "description": "A 1979 doc examining the life and ideas of B F Skinner, with a focus on his radical, controversial behaviour experiments - by Aeon Video Watch on Aeon",
-      "date": "Mon, 20 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Beyond Greece and Rome",
-      "url": "https://aeon.co/essays/uncovering-a-global-ancient-history-beyond-greece-and-rome",
-      "description": "A dramatic shift in perspective is producing a much bigger, broader and more exciting view of ‘the ancient world’ - by Carlos Noreña Read on Aeon",
-      "date": "Mon, 20 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Transit of wonder",
-      "url": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers",
-      "description": "Every 122 years, Venus crosses the Sun as a black and fleeting teardrop, kindling the awe of all those who dare to know - by Ananya Palivela Read on Aeon",
-      "date": "Fri, 17 Jul 2026",
+      "title": "Culture clash",
+      "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
+      "description": "C P Snow’s ‘Two Cultures’ lecture provoked a savage response from fellow critic F R Leavis. What was at the heart of it all? - by Sam Dresser Read on Aeon",
+      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

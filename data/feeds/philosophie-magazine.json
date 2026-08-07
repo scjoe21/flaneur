@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-02T18:09:18.699283+00:00",
+  "fetchedAt": "2026-08-07T05:31:49.735664+00:00",
   "items": [
     {
       "title": "Santé mentale : comment lutter contre notre addiction aux écrans (et résister aux sollicitations)",
@@ -36,10 +36,26 @@
       }
     },
     {
-      "title": "“Ulysse 31” : une odyssée futuriste aux dieux algorithmiques",
-      "url": "https://www.philomag.com/articles/ulysse-31-une-odyssee-futuriste-aux-dieux-algorithmiques",
+      "title": "“Un nouvel état de conscience avec l'ayahuasca” : le “sentiment océanique\" par Mathilde Ramadier",
+      "url": "https://www.philomag.com/articles/un-nouvel-etat-de-conscience-avec-layahuasca-le-sentiment-oceanique-par-mathilde",
       "description": "",
-      "date": "Wed, 29 Jul 2026",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Rûmî, Sohrawardi, Avicenne… À la découverte de la pensée iranienne",
+      "url": "https://www.philomag.com/articles/rumi-sohrawardi-avicenne-la-decouverte-de-la-pensee-iranienne",
+      "description": "",
+      "date": "Tue, 04 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,10 +68,10 @@
       }
     },
     {
-      "title": "Fin de vie : la dépénalisation de l’euthanasie vue par André Comte-Sponville",
-      "url": "https://www.philomag.com/articles/fin-de-vie-la-depenalisation-de-leuthanasie-vue-par-andre-comte-sponville",
+      "title": "“Et soudain tout est changé !” : le “sentiment océanique” par André Comte-Sponville",
+      "url": "https://www.philomag.com/articles/et-soudain-tout-est-change-le-sentiment-oceanique-par-andre-comte-sponville",
       "description": "",
-      "date": "Tue, 28 Jul 2026",
+      "date": "Mon, 03 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -65,6 +81,102 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“Le yoga permet une forme de connexion au cosmos” : le “sentiment océanique” par Jeanne Burgart Goutal",
+      "url": "https://www.philomag.com/articles/le-yoga-permet-une-forme-de-connexion-au-cosmos-le-sentiment-oceanique-par-jeanne",
+      "description": "",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La religion, un opium du peuple… bénéfique et nécessaire ? Le point de vue de Denis Moreau",
+      "url": "https://www.philomag.com/articles/la-religion-un-opium-du-peuple-benefique-et-necessaire-le-point-de-vue-de-denis-moreau",
+      "description": "",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Que pensaient les philosophes du général de Gaulle ?",
+      "url": "https://www.philomag.com/articles/que-pensaient-les-philosophes-du-general-de-gaulle",
+      "description": "",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Avec James Joyce à Dublin… Une Odyssée éthylique !",
+      "url": "https://www.philomag.com/articles/avec-james-joyce-dublin-une-odyssee-ethylique",
+      "description": "",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Pour revenir, il faut d’abord se perdre” : les errances d’Ulysse par Élodie Pinel",
+      "url": "https://www.philomag.com/articles/pour-revenir-il-faut-dabord-se-perdre-les-errances-dulysse-par-elodie-pinel",
+      "description": "",
+      "date": "Tue, 04 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Sexe, mensonges et débat d’idées : Ovidie contre Emma Becker",
+      "url": "https://www.philomag.com/articles/sexe-mensonges-et-debat-didees-ovidie-contre-emma-becker",
+      "description": "",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,118 +232,6 @@
       "url": "https://www.philomag.com/articles/enquete-dans-la-tete-de-vincent-bollore",
       "description": "",
       "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Tous des hypocrites ? Le grand théâtre de notre vie sociale vu par Erving Goffman",
-      "url": "https://www.philomag.com/articles/tous-des-hypocrites-le-grand-theatre-de-notre-vie-sociale-vu-par-erving-goffman",
-      "description": "",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Seul face à l’immensité du ciel, j’ai pleinement fait partie du monde” : le sentiment océanique par Philippe Descola",
-      "url": "https://www.philomag.com/articles/seul-face-limmensite-du-ciel-jai-pleinement-fait-partie-du-monde-le-sentiment-oceanique",
-      "description": "",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“La Caverne du Pont-Neuf” : la grosse déception d’Yves Michaud",
-      "url": "https://www.philomag.com/articles/la-caverne-du-pont-neuf-la-grosse-deception-dyves-michaud",
-      "description": "",
-      "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Dark romance, le côté obscur du fantasme ? La chronique d’Anne-Sophie Moreau",
-      "url": "https://www.philomag.com/articles/dark-romance-le-cote-obscur-du-fantasme-la-chronique-danne-sophie-moreau",
-      "description": "",
-      "date": "Tue, 28 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Vacances : je t’aime… moi non plus ?",
-      "url": "https://www.philomag.com/articles/vacances-je-taime-moi-non-plus",
-      "description": "",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ulysse, notre compagnon de survie",
-      "url": "https://www.philomag.com/articles/ulysse-notre-compagnon-de-survie",
-      "description": "",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Au fil des œuvres de l’artiste Jeanne Vicerial dans 4 lieux à Aix-en-Provence",
-      "url": "https://www.philomag.com/articles/au-fil-des-oeuvres-de-lartiste-jeanne-vicerial-dans-4-lieux-aix-en-provence",
-      "description": "",
-      "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

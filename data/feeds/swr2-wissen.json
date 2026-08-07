@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-02T18:11:21.176683+00:00",
+  "fetchedAt": "2026-08-07T05:33:23.549371+00:00",
   "items": [
     {
       "title": "Spähsoftware im Handy – Wie Staaten uns heimlich überwachen",
@@ -36,19 +36,35 @@
       }
     },
     {
-      "title": "Vibes – Wann wir uns mit anderen wohlfühlen",
-      "url": "https://www.swr.de/swrkultur/wissen/vibes-wann-wir-uns-mit-anderen-wohlfuehlen-100.html",
-      "description": "Sich auf Anhieb zu verstehen, fühlt sich gut an. Man weiß, wie der andere tickt und muss nicht viel erklären: Es vibet einfach. Sogar die Hirnströme gleichen sich an.",
-      "date": "Thu, 23 Jul 2026",
+      "title": "Innovative Batteriezellen – Wie wird Deutschland wettbewerbsfähig?",
+      "url": "https://www.swr.de/swrkultur/wissen/innovative-batteriezellen-wie-wird-deutschland-wettbewerbsfaehig-100.html",
+      "description": "Bei der Erforschung und Entwicklung neuer Batterietypen gehört Deutschland zur internationalen Spitzengruppe. Noch. Um weiter mithalten zu können, braucht es aber mehr Geld, Zeit und Forschung.",
+      "date": "Fri, 7 Aug 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Gut altern beginnt im Kopf – Wie uns positive Altersbilder stärken",
+      "url": "https://www.swr.de/swrkultur/wissen/gut-altern-beginnt-im-kopf-wie-uns-positive-altersbilder-staerken-100.html",
+      "description": "Zu Longevity gehört neben Genen und Lebensstil auch die Einstellung. Studien der Alterspsychologie zeigen: Menschen, die positiv aufs Altwerden blicken, leben länger.",
+      "date": "Thu, 6 Aug 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -84,26 +100,10 @@
       }
     },
     {
-      "title": "Viren, Drogen, Umweltgifte – Was das Abwasser über uns verrät",
-      "url": "https://www.swr.de/swrkultur/wissen/viren-drogen-umweltgifte-was-das-abwasser-ueber-uns-verraet-104.html",
-      "description": "Die Analyse avon Abwasserproben verrät, was wir essen, welche Krankheiten wir haben und welche Drogen wir nehmen. EU-weit wird das Monitoring ausgeweitet.",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Informationsfreiheit in Gefahr – Regierung will Akteneinsicht erschweren",
-      "url": "https://www.swr.de/swrkultur/wissen/akten-unter-verschluss-wie-behoerden-die-informationsfreiheit-untergraben-100.html",
-      "description": "Die schwarz-rote Koalition will das Informationsfreiheitsgesetz beschneiden. Doch Deutschland rangiert bei Auskunftsrechten gegenüber Behörden schon heute hinter autoritären Regimen.",
-      "date": "Mon, 20 Jul 2026",
+      "title": "Japans erfolgreicher Kampf gegen den Suizid",
+      "url": "https://www.swr.de/swrkultur/wissen/japans-erfolgreicher-kampf-gegen-den-suizid-102.html",
+      "description": "Ein Gesetz machte das Verhindern von Selbsttötungen in Japan zur gesamtgesellschaftlichen Aufgabe. Aktivisten, Beamte, Priester, Journalisten und Familienangehörige kooperieren.",
+      "date": "Tue, 4 Aug 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -180,19 +180,19 @@
       }
     },
     {
-      "title": "Apothekensterben – Was die Versorgung trotzdem sichern könnte",
-      "url": "https://www.swr.de/swrkultur/wissen/apothekensterben-108.html",
-      "description": "In ländlichen Regionen finden immer mehr Apotheker keine Nachfolger. Briefkästen oder Terminals im Supermarkt sollen helfen, damit Patienten ihre Medikamente bestellen können. Beratung gibt es nicht.",
-      "date": "Wed, 22 Jul 2026",
+      "title": "Eisenmangel und seine Folgen – Müde, unkonzentriert, kurzatmig",
+      "url": "https://www.swr.de/swrkultur/wissen/eisenmangel-und-seine-folgen-muede-unkonzentriert-kurzatmig-100.html",
+      "description": "Bei Eisenmangel leidet der Sauerstofftransport im Blut, in der Folge ist der Körper weniger leistungsfähig. Und das gilt auch für das Gehirn. Wichtiger Marker: das Ferritin im Blutserum.",
+      "date": "Wed, 5 Aug 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {

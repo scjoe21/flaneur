@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-02T18:09:25.331116+00:00",
+  "fetchedAt": "2026-08-07T05:31:54.282321+00:00",
   "items": [
     {
       "title": "Die Macht der Nähe",
@@ -20,10 +20,26 @@
       }
     },
     {
-      "title": "Europa als Chance",
-      "url": "https://www.philomag.de/artikel/europa-als-chance",
-      "description": "Mehr noch als der Philosoph der Bundesrepublik war Habermas Denker einer kosmopolitischen Ordnung. Eine nationalistische, von Volksgefühlen genährte Politik hielt er für ebenso gefährlich wie unzureichend.",
-      "date": "Fri, 31 Jul 2026",
+      "title": "Warum die Mystik gerade ein Comeback erlebt",
+      "url": "https://www.philomag.de/artikel/warum-die-mystik-gerade-ein-comeback-erlebt",
+      "description": "Eine mystische Bewegung ergreift derzeit die Kultur: Von der Kunst bis zum Pop finden sich Bezüge auf Denkerinnen wie Hildegard von Bingen. Woher kommt diese Begeisterung? Dieser Text ist zuerst bei  Monopol  erschienen.",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Wie viel Faschismus steckt im Kulturkampf?",
+      "url": "https://www.philomag.de/artikel/wie-viel-faschismus-steckt-im-kulturkampf",
+      "description": "Jason Stanley warnt, dass Angriffe auf Universitäten und Museen den Faschismus vorbereiten. Seine Analyse springt oft zu kühn von Trump zum Nationalsozialismus. Dennoch macht sie wichtige Techniken rechtsautoritärer Kulturpolitik sichtbar.",
+      "date": "Mon, 03 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -36,16 +52,16 @@
       }
     },
     {
-      "title": "Rainer Forst: „Demokratie lebt vom Anspruch auf öffentliche Rechtfertigung“",
-      "url": "https://www.philomag.de/artikel/rainer-forst-demokratie-lebt-vom-anspruch-auf-oeffentliche-rechtfertigung",
-      "description": "Dass Habermas als demokratischer Ideengeber gilt, hat besonders mit Überlegungen zu tun, die er ab den späten 1980er-Jahren anstellte. Im Gespräch erläutert der Philosoph Rainer Forst, damals Doktorand von Habermas, dessen Rechts- und Demokratietheorie – und wie Recht darin zum Mittel der Freiheit wird.",
-      "date": "Thu, 23 Jul 2026",
+      "title": "Europa als Chance",
+      "url": "https://www.philomag.de/artikel/europa-als-chance",
+      "description": "Mehr noch als der Philosoph der Bundesrepublik war Habermas Denker einer kosmopolitischen Ordnung. Eine nationalistische, von Volksgefühlen genährte Politik hielt er für ebenso gefährlich wie unzureichend.",
+      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -68,26 +84,10 @@
       }
     },
     {
-      "title": "„Dreams“ – Träumen muss man sich leisten können",
-      "url": "https://www.philomag.de/artikel/dreams-traeumen-muss-man-sich-leisten-koennen",
-      "description": "Michel Francos  Dreams  folgt dem jungen, illegalen Einwanderer Fernando, der in der Liebe zu einer privilegierten US-Bürgerin sein Glück sucht – und dabei erkennt, dass einige Grenzen für ihn unüberwindbar bleiben. Seit vergangenem Donnerstag läuft der Film in den Kinos.",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Keine super Helden",
-      "url": "https://www.philomag.de/artikel/keine-super-helden",
-      "description": "Auch für den Kinosommer 2026 sind Superhelden-Filme angesagt, darunter Ende Juli mal wieder ein neuer Teil von Spider-Man. Die Sehnsucht nach übermenschlichen Rettern hält sich hartnäckig, trotz ihrer politisch fragwürdigen Botschaften. Haben wir Angst davor, uns selbst als handlungsfähig zu begreifen?",
-      "date": "Fri, 24 Jul 2026",
+      "title": "Jan İlhan Kızılhan: „Al-Baghdadi hat den Massenmord als gottgewollten Akt gedeutet“",
+      "url": "https://www.philomag.de/artikel/jan-ilhan-kizilhan-al-baghdadi-hat-den-massenmord-als-gottgewollten-akt-gedeutet",
+      "description": "Vor zwölf Jahren, Anfang August 2014, überfiel die Terrormiliz „Islamischer Staat“ (IS) jesidische Dörfer und Städte im Nordirak und beging dort einen Völkermord. Von welcher Ideologie waren die Täter getrieben, wieso verfing sie bei so vielen? Und wie erging und ergeht es jesidischen Überlebenden – vor allem jenen, die nach Deutschland gekommen sind? Ein Gespräch mit dem Psychologen und Orientalisten Jan İlhan Kızılhan.",
+      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -100,19 +100,19 @@
       }
     },
     {
-      "title": "Bernhard Schlink: „Gerechtigkeit ist ein Sehnsuchtsbegriff“",
-      "url": "https://www.philomag.de/artikel/bernhard-schlink-gerechtigkeit-ist-ein-sehnsuchtsbegriff",
-      "description": "Partizipation, gleiche Rechte und Chancen: Die Gerechtigkeitserwartungen in Demokratien sind hoch. Bernhard Schlink argumentiert in seinem neuen Buch für einen realistischeren Blick. Ein Gespräch über die Macht des Unverfügbaren und die Mühen der Gerechtigkeitsarbeit.",
-      "date": "Wed, 22 Jul 2026",
+      "title": "Mein Wille, das unbekannte Wesen",
+      "url": "https://www.philomag.de/artikel/mein-wille-das-unbekannte-wesen",
+      "description": "Unser Wille, was soll er nicht alles sein: innerer Kompass und ewiger Antrieb, Garant des Erfolgs und Quelle der Lust. Doch gerade in entscheidenden Situationen erweist er sich oft als schwach und desorientiert. Woher weiß ich also, was ich wirklich will? Durch rationale Abwägung und Kontrolle meiner Begierden? Oder offenbart sich mein wahrer Wille gerade im dunklen, irrationalen Drängen tief im Innern? Womöglich gäbe es sogar eine dritte Option: Was, wenn die wahre Freiheit des Menschen gerade ",
+      "date": "Tue, 04 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 20
+        "novelty": 10,
+        "total": 15
       }
     },
     {
@@ -148,35 +148,19 @@
       }
     },
     {
-      "title": "Musikalische Guilty Pleasures",
-      "url": "https://www.philomag.de/artikel/musikalische-guilty-pleasures",
-      "description": "Sei es auf einer Party oder im Gespräch mit Freunden: Während andere sich über bestimmte Lieder lustig machen, findet man insgeheim Gefallen an ihnen und schämt sich dafür. Doch was steckt eigentlich hinter diesem Phänomen?",
-      "date": "Mon, 27 Jul 2026",
+      "title": "Ozeanisches Denken",
+      "url": "https://www.philomag.de/artikel/ozeanisches-denken",
+      "description": "Was heißt es, sich auf, in oder über das Wasser zu wagen, und was macht das Meer mit den Gedanken? Felicitas Hoppe reist mit einem Frachtschiff um die Welt, Bernd Brunner erkundet das Schwimmen und Siri Ranva Hjelm Jacobsen lässt die Ozeane selbst sprechen.",
+      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Eine empirisch begründete Theorie der Geschichte",
-      "url": "https://www.philomag.de/artikel/eine-empirisch-begruendete-theorie-der-geschichte",
-      "description": "Wird alles immer schlechter? Im Gegenteil, meint Thomas Unnerstall: Die bisherige Zivilisationsgeschichte gibt Anlass zu Optimismus. Unsere Zukunft wird höchstwahrscheinlich ziemlich gut.",
-      "date": "Thu, 23 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 10
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -196,35 +180,51 @@
       }
     },
     {
-      "title": "Die Zeit ist ein Korkenzieher",
-      "url": "https://www.philomag.de/artikel/die-zeit-ist-ein-korkenzieher",
-      "description": "Robyn Hitchcock denkt auf seinem neuen Album mit psychedelischem Sound über die Einschließung und Auflösung des Ichs nach.",
-      "date": "Sat, 25 Jul 2026",
+      "title": "Der Schrebergarten – eine deutsche Utopie",
+      "url": "https://www.philomag.de/artikel/der-schrebergarten-eine-deutsche-utopie",
+      "description": "Der Schrebergarten ist die perfekte Symbiose zweier als ausnehmend deutsch geltender Sehnsüchte: Natur und Ordnung. Doch welche Ideologie steckt hinter den akkuraten Hecken? Ein Ausflug in die traditionsreiche Berliner Kleingartenanlage „Sonnenschein“.",
+      "date": "Wed, 05 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
-      "title": "Barbara Bleisch und Andrea Büchler: „Familie ist kein Naturereignis“",
-      "url": "https://www.philomag.de/artikel/barbara-bleisch-und-andrea-buechler-familie-ist-kein-naturereignis",
-      "description": "Welche Technologien dürfen wir nutzen auf dem Weg zum Wunschkind? Sollte Leihmutterschaft erlaubt sein?  Barbara Bleisch  und  Andrea Büchler  erörtern die ethischen und rechtlichen Herausforderungen der Reproduktionsmedizin – und sprechen sich klar gegen Verbote aus.",
-      "date": "Wed, 22 Jul 2026",
+      "title": "Der Köttbullar-Lolli",
+      "url": "https://www.philomag.de/artikel/der-koettbullar-lolli",
+      "description": "Ein Lolli, der nach Fleisch schmecken soll?",
+      "date": "Tue, 04 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Verlorene Zukunft",
+      "url": "https://www.philomag.de/artikel/verlorene-zukunft",
+      "description": "Junge Menschen, die versuchen das Leben von Senioren zu führen: Der Grannycore-Trend ist ein Symptom unserer zukunftsarmen Zeit.",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

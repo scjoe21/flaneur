@@ -1,13 +1,29 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-08-02T18:11:13.493546+00:00",
+  "fetchedAt": "2026-08-07T05:33:15.635192+00:00",
   "items": [
     {
-      "title": "How AI Is Rewriting Human Nature",
-      "url": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
-      "description": "The post  How AI Is Rewriting Human Nature  appeared first on  NOEMA .",
-      "date": "Thu, 16 Jul 2026",
+      "title": "How To Give Everyday People A Say In AI Governance",
+      "url": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance",
+      "description": "The post  How To Give Everyday People A Say In AI Governance  appeared first on  NOEMA .",
+      "date": "Tue, 04 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Why Is Everyone In Tech So Sad?",
+      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
+      "description": "The post  Why Is Everyone In Tech So Sad?  appeared first on  NOEMA .",
+      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,10 +36,10 @@
       }
     },
     {
-      "title": "Why We Demand Perfect Machines Yet Tolerate Human Carnage",
-      "url": "https://www.noemamag.com/why-we-demand-perfect-machines-yet-tolerate-human-carnage",
-      "description": "The post  Why We Demand Perfect Machines Yet Tolerate Human Carnage  appeared first on  NOEMA .",
-      "date": "Tue, 14 Jul 2026",
+      "title": "How AI Is Rewriting Human Nature",
+      "url": "https://www.noemamag.com/how-ai-is-rewriting-human-nature",
+      "description": "The post  How AI Is Rewriting Human Nature  appeared first on  NOEMA .",
+      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -100,9 +116,9 @@
       }
     },
     {
-      "title": "The Rise And Fall Of Liberal Democracy’s Shared Fiction",
+      "title": "The Rise & Fall Of Liberal Democracy’s Shared Fiction",
       "url": "https://www.noemamag.com/the-rise-and-fall-of-liberal-democracys-shared-fiction",
-      "description": "The post  The Rise And Fall Of Liberal Democracy’s Shared Fiction  appeared first on  NOEMA .",
+      "description": "The post  The Rise & Fall Of Liberal Democracy’s Shared Fiction  appeared first on  NOEMA .",
       "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -116,9 +132,9 @@
       }
     },
     {
-      "title": "Inside The Lab Growing Mutant Bacteria To Terraform Earth",
+      "title": "Growing Mutant Bacteria To Save Earth",
       "url": "https://www.noemamag.com/inside-the-lab-growing-mutant-bacteria-to-terraform-earth",
-      "description": "The post  Inside The Lab Growing Mutant Bacteria To Terraform Earth  appeared first on  NOEMA .",
+      "description": "The post  Growing Mutant Bacteria To Save Earth  appeared first on  NOEMA .",
       "date": "Tue, 28 Jul 2026",
       "thumbnail": "",
       "videoId": "",
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/what-humanity-needs-to-flourish-in-the-next-decade",
       "description": "The post  What Humanity Needs To Flourish In The Next Decade  appeared first on  NOEMA .",
       "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "China’s Open AI Models Are Advancing Its Global Soft Power",
-      "url": "https://www.noemamag.com/chinas-open-ai-models-are-advancing-its-global-soft-power",
-      "description": "The post  China’s Open AI Models Are Advancing Its Global Soft Power  appeared first on  NOEMA .",
-      "date": "Fri, 10 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

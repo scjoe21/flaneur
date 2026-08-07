@@ -1,24 +1,8 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-08-02T18:11:25.765339+00:00",
+  "fetchedAt": "2026-08-07T05:33:28.273014+00:00",
   "items": [
-    {
-      "title": "What I Learned from Gordon Wood",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/what-i-learned-from-gordon-wood",
-      "description": "Democracy, Gordon Wood believed, was ultimately not about politics but about how we relate to each other in our daily affairs.",
-      "date": "Thu, 11 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "Birthright and Belonging",
       "url": "https://hedgehogreview.com/web-features/thr/posts/birthright-and-belonging",
@@ -49,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Plato’s Warning Has Been Vindicated",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/platos-warning-has-been-vindicated",
+      "description": "We now believe that our newest tools, once perfected, will relieve us of the need to be informed at all.",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

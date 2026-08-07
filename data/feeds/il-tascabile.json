@@ -1,8 +1,40 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-08-02T18:09:29.828897+00:00",
+  "fetchedAt": "2026-08-07T05:32:01.743607+00:00",
   "items": [
+    {
+      "title": "La rivincita del piccione",
+      "url": "https://www.iltascabile.com/scienze/rivincita-piccione/",
+      "description": "Siamo abituati a considerarli fastidiosi, sporchi e ottusi. Ma in realtà diverse ricerche mostrano come i piccioni siano animali estremamente intelligenti, custodi dei misteri dell’evoluzione e insospettabili alleati nella conservazione della biodiversità. \n L'articolo  La rivincita del piccione  proviene da  Il Tascabile .",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 29
+      }
+    },
+    {
+      "title": "Da Castelporziano all’eternità crip",
+      "url": "https://www.iltascabile.com/letterature/castelporziano-eternita-crip/",
+      "description": "Come la  beat generation  ha anticipato la rivoluzione politica dei  disability studies. \n L'articolo  Da Castelporziano all’eternità crip  proviene da  Il Tascabile .",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Sacro o sacrificabile",
       "url": "https://www.iltascabile.com/scienze/sacro-sacrificabile/",
@@ -52,19 +84,51 @@
       }
     },
     {
-      "title": "L’esperimento Wonka",
-      "url": "https://www.iltascabile.com/linguaggi/lesperimento-wonka/",
-      "description": "Viaggio nella zona grigia del classico del 1971, in bilico tra favola morale e incubo allegorico, dove le fantasie dell’infanzia incontrano le nostre ossessioni collettive. \n L'articolo  L’esperimento Wonka  proviene da  Il Tascabile .",
-      "date": "Thu, 23 Jul 2026",
+      "title": "Il fischio della fine",
+      "url": "https://www.iltascabile.com/linguaggi/il-fischio-della-fine/",
+      "description": "A partire da  Il calcio è potere  di Luca Pisapia, un viaggio tra miti, geopolitica e scenari distopici di uno sport asservito al capitale. \n L'articolo  Il fischio della fine  proviene da  Il Tascabile .",
+      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
+      }
+    },
+    {
+      "title": "Diari alfabetici di Sheila Heti",
+      "url": "https://www.iltascabile.com/recensioni/diari-alfabetici-sheila-heti/",
+      "description": "L'articolo  Diari alfabetici di Sheila Heti  proviene da  Il Tascabile .",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Mediterraneo",
+      "url": "https://www.iltascabile.com/societa/mediterraneo/",
+      "description": "Un percorso tra letture per chiedersi, al di là delle cartoline e degli hashtag #vitalenta, cosa resta della complessità territoriale di questa regione, tra migrazioni e turistificazione dei territori costieri. \n L'articolo  Mediterraneo  proviene da  Il Tascabile .",
+      "date": "Tue, 04 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -88,70 +152,6 @@
       "url": "https://www.iltascabile.com/societa/dubbi-biocarburante-kenya/",
       "description": "Si sommano inchieste e domande critiche sulla filiera dell’agri- feedstock  di Eni nel Piano Mattei. \n L'articolo  I dubbi sul biocarburante del Kenya  proviene da  Il Tascabile .",
       "date": "Tue, 28 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Nel regno del gioco di David Toomey",
-      "url": "https://www.iltascabile.com/recensioni/regno-gioco-david-toomey/",
-      "description": "L'articolo  Nel regno del gioco di David Toomey  proviene da  Il Tascabile .",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Nella tenebra del presente",
-      "url": "https://www.iltascabile.com/letterature/tenebra-presente/",
-      "description": "Dalle origini cibernetiche di Materialismo gotico al comunismo acido di Mark Fisher: un pensiero oltre il vitalismo oscuro del capitalismo per risvegliare il desiderio collettivo. \n L'articolo  Nella tenebra del presente  proviene da  Il Tascabile .",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Far fiorire il deserto è far sparire il deserto",
-      "url": "https://www.iltascabile.com/societa/fiorire-deserto-sparire-deserto/",
-      "description": "La ricerca di un’infanzia del mondo in  Sopralluoghi in Palestina  di Pier Paolo Pasolini. \n L'articolo  Far fiorire il deserto è far sparire il deserto  proviene da  Il Tascabile .",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Fabbricare la pioggia",
-      "url": "https://www.iltascabile.com/scienze/fabbricare-pioggia/",
-      "description": "Le tecniche per stimolare artificialmente le precipitazioni esistono da decenni, ma la loro efficacia è difficile da misurare. Riti, scienza e teorie del complotto attorno alla modificazione del tempo atmosferico. \n L'articolo  Fabbricare la pioggia  proviene da  Il Tascabile .",
-      "date": "Mon, 20 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,8 +1,40 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-02T18:11:12.920357+00:00",
+  "fetchedAt": "2026-08-07T05:33:14.226083+00:00",
   "items": [
+    {
+      "title": "Trump Should Need a Warrant to See Your Phone",
+      "url": "https://www.theatlantic.com/ideas/2026/08/airport-warrantless-phone-search/688186/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Why Is the U.S. Running So Low on Weapons?",
+      "url": "https://www.theatlantic.com/ideas/2026/08/the-us-isnt-making-enough-weapons/688150/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "The Two Great Threats to Truth",
       "url": "https://www.theatlantic.com/ideas/2026/08/truth-relativism-civil-discourse/688112/?utm_source=feed",
@@ -20,10 +52,10 @@
       }
     },
     {
-      "title": "Trump Is Barely Pretending About Comey Anymore",
-      "url": "https://www.theatlantic.com/ideas/2026/07/comey-trump-aides-secret-service/688116/?utm_source=feed",
+      "title": "Putin’s Human Safari Is the Dystopian Future of War",
+      "url": "https://www.theatlantic.com/ideas/2026/08/ukraine-russia-war-drones/688183/?utm_source=feed",
       "description": "",
-      "date": "2026-07-30",
+      "date": "2026-08-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +68,10 @@
       }
     },
     {
-      "title": "The American Commentator Making Excuses for Iran",
-      "url": "https://www.theatlantic.com/ideas/2026/07/iran-apologists-blumenthal/688068/?utm_source=feed",
+      "title": "Liberals Are Now Fighting a Two-Front War",
+      "url": "https://www.theatlantic.com/ideas/2026/08/michigan-abdul-el-sayed-election/688181/?utm_source=feed",
       "description": "",
-      "date": "2026-07-28",
+      "date": "2026-08-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -49,6 +81,118 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Bidenomics Was More Successful Than People Think",
+      "url": "https://www.theatlantic.com/ideas/2026/08/biden-climate-ira-2024/688179/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Trump’s Irrationality Is Dangerous",
+      "url": "https://www.theatlantic.com/ideas/2026/08/trump-reflecting-pool-irrationality/688180/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Get Used to High Gas Prices",
+      "url": "https://www.theatlantic.com/ideas/2026/08/oil-iran-high-gas-price/688155/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "What Happened to al-Qaeda?",
+      "url": "https://www.theatlantic.com/magazine/2026/09/al-qaeda-25-years-post-9-11/687965/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "A Trojan Horse Is Supposed to Have Humans Inside It",
+      "url": "https://www.theatlantic.com/ideas/2026/08/odyssey-movie-trojan-horse/688168/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump Blames America First",
+      "url": "https://www.theatlantic.com/ideas/2026/08/iran-war-hack-minnesota/688162/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Far Right Is Distorting Ceuta",
+      "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-spain-far-right/688154/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-02",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -88,150 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-morocco-crisis-immigration/688149/?utm_source=feed",
       "description": "",
       "date": "2026-08-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Incoherence of the Iran Hawks",
-      "url": "https://www.theatlantic.com/ideas/2026/07/trump-iran-war-strategy-military-remarks/688144/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-31",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Anthony Fauci Is Not the Villain in This Story",
-      "url": "https://www.theatlantic.com/ideas/2026/07/fauci-senate-diary-rand-paul/688135/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-31",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What the Fauci Diary Reveals About Washington",
-      "url": "https://www.theatlantic.com/ideas/2026/07/anthony-fauci-washington-diary/688127/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-31",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Cities That Said Yes to Drugs",
-      "url": "https://www.theatlantic.com/magazine/2026/09/city-drug-addiction-harm-reduction-policy/687967/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Abdul El-Sayed Fuses Together Two Toxic Ideologies",
-      "url": "https://www.theatlantic.com/ideas/2026/07/michigan-election-el-sayed-stevens-zionism/688101/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Rural America’s Maternal-Health Crisis Is About to Get Much Worse",
-      "url": "https://www.theatlantic.com/ideas/2026/07/giving-birth-rural-hospitals-danger-mortality/688091/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-29",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Worst Way to Regulate AI",
-      "url": "https://www.theatlantic.com/ideas/2026/07/white-house-ai-regulation/688088/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Girlboss Is Dead",
-      "url": "https://www.theatlantic.com/ideas/2026/07/female-ambition-alex-cooper-alix-earle/688080/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Automation Led to Economic Misery. AI Doesn’t Have To.",
-      "url": "https://www.theatlantic.com/ideas/2026/07/ai-automation-productivity-workers/688083/?utm_source=feed",
-      "description": "",
-      "date": "2026-07-28",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

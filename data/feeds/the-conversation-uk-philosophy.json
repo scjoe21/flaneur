@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-08-02T18:11:22.012156+00:00",
+  "fetchedAt": "2026-08-07T05:33:25.424300+00:00",
   "items": [
     {
       "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
@@ -24,22 +24,6 @@
       "url": "https://theconversation.com/why-corporate-inclusion-policies-are-moral-decisions-not-just-business-ones-279160",
       "description": "",
       "date": "2026-06-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Friday essay: why has philosophy ignored motherhood?",
-      "url": "https://theconversation.com/friday-essay-why-has-philosophy-ignored-motherhood-270163",
-      "description": "",
-      "date": "2026-05-07",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -97,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "You can love an AI but can it love you back? Philosophy has the answer",
+      "url": "https://theconversation.com/you-can-love-an-ai-but-can-it-love-you-back-philosophy-has-the-answer-287610",
+      "description": "",
+      "date": "2026-08-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

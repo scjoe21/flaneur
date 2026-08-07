@@ -1,8 +1,24 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-02T18:11:18.393010+00:00",
+  "fetchedAt": "2026-08-07T05:33:21.208911+00:00",
   "items": [
+    {
+      "title": "Online im Alter - Analog erfahren, digital abgehängt?",
+      "url": "https://www.deutschlandfunkkultur.de/online-im-alter-analog-erfahren-digital-abgehaengt-100.html",
+      "description": "Smartphone-Schulungen, Unterstützung beim Onlinebanking oder Online-Ticketkauf: Mit dem \"Digitalpakt Alter\" sollen ältere Menschen fit gemacht werden fürs Internet. Das Problem: Es fehlt das Geld und die Arbeit wird auf Ehrenamtliche abgewälzt. Dreier, Jochen www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 03 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "Tiny Houses - Der Traum vom minimalistischen Lebensstil",
       "url": "https://www.deutschlandfunkkultur.de/tiny-houses-klein-guenstig-klimafreundlich-100.html",
@@ -36,19 +52,19 @@
       }
     },
     {
-      "title": "Klimaanlagen-Dilemma - Kühle Wohnung, warmer Planet",
-      "url": "https://www.deutschlandfunkkultur.de/klimaanlage-klimawandel-klimaerwaermung-klimakrise-100.html",
-      "description": "Hitzewellen machen aus Wohnungen rasch gefühlt Glutöfen. In den USA sind Klimaanlagen daher längst allgegenwärtig. In Deutschland zeichnet sich ein ähnlicher Trend ab. Das Dilemma: Was die Wohnung kühlt, erwärmt die Erde. An Lösungen wird gearbeitet. (Aktualisierte Wiederholung vom 21.06.2021) Wessel, Günther www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 08 Jul 2026",
+      "title": "Kulinarische Identität - Über Ausgrenzung, Rassismus und Aneignung auf dem Teller",
+      "url": "https://www.deutschlandfunkkultur.de/eine-portion-rassismus-ueber-ausgrenzung-und-aneignung-auf-dem-teller-100.html",
+      "description": "Sag mir, was du isst, und ich sage dir, wer du bist! Essen ist Identität. Jede Migrationsbewegung, jeder Krieg hinterlässt Spuren in der Gastro-Szene, im Supermarkt und auf den Tellern. Essen kann verbinden, ausgrenzen und zum Widerstand ermächtigen. (Erstsendung am 27.5.2025) Mayer, Verena Carola www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 04 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 29,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
+        "total": 29
       }
     },
     {
@@ -132,19 +148,35 @@
       }
     },
     {
-      "title": "KI-assoziierte Psychosen - Wie Gespräche mit Chatbots unsere Wahrnehmung verändern können",
-      "url": "https://www.deutschlandfunkkultur.de/gefaehrliche-naehe-ki-psychose-und-die-sehnsucht-nach-menschlichkeit-100.html",
-      "description": "Unterhaltungen mit Chatbots wirken zum Teil wie Gespräche mit echten Menschen. Aber was passiert, wenn ein KI-System nicht nur reagiert, sondern uns bestätigt und scheinbar versteht? Schon gibt es das Schlagwort von der KI-Psychose. Schroeder,Carina www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 09 Jul 2026",
+      "title": "Japanische Lebenskunst - Fünf Säulen zum Glück",
+      "url": "https://www.deutschlandfunkkultur.de/fuenf-saeulen-zum-glueck-die-japanische-lebenskunst-dlf-kultur-6728fc54-100.html",
+      "description": "Lifestyle-Trends aus Japan haben eine besondere Faszination. Das Land der schlichten Ästhetik und mystischen Kultur setzt auf der Suche nach einem gelingenden Leben auf Gelassenheit. Macht japanische Lebenskunst glücklicher? (Erstsendung: 27.6.2024) Andi Hörmann www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 10,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
+      }
+    },
+    {
+      "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (4/4) - Aus Denken wird politische Macht",
+      "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-4-4-rechte-intellektuelle-der-bundesrepublik-100.html",
+      "description": "Mit der Gründung der AfD wittert die Neue Rechte ihre Chance, aus der Nische herauszukommen. Es gelingt zwar, die Partei nach rechts zu verschieben, aber die parteiinternen Richtungskämpfe führen auch zu Verwerfungen innerhalb der Bewegung. (Erstsendung: 10.9.2025) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -180,42 +212,10 @@
       }
     },
     {
-      "title": "Russlands Schattennetz - Spionage und Sabotage im Visier",
-      "url": "https://www.deutschlandfunkkultur.de/russlands-schattennetz-spionage-und-sabotage-im-visier-100.html",
-      "description": "In Deutschland und Europa häufen sich Spionage- und Sabotagefälle. Im Verdacht stehen russische \"Wegwerf-Agenten\" – Laien, die über soziale Netzwerke angeworbene werden. Sie erledigen scheinbar harmlose Aufträge – oft ohne die Hintermänner zu kennen. Röhmel, Joseph; Chernobylskaya, Mayya www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Ein Haufen Hoffnung - Was alles im Kompost steckt",
       "url": "https://www.deutschlandfunkkultur.de/ein-haufen-hoffnung-ueber-das-was-im-kompost-steckt-102.html",
       "description": "Kompost ist mehr als nur Biomüll: Im Komposthaufen wird aus Küchen- und Gartenabfällen fruchtbarer Humus - eine klimaschonende Kreislaufwirtschaft, die Ressourcen spart und Böden verbessert. Doch das ist noch längst nicht alles. Goretzki, Anna Marie www.deutschlandfunkkultur.de, Zeitfragen. Feature",
       "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Mobbing am Arbeitsplatz - Wenn der Job zum täglichen Horrortrip wird",
-      "url": "https://www.deutschlandfunkkultur.de/mobbing-am-arbeitsplatz-wenn-der-job-zum-taeglichen-spiessrutenlauf-wird-100.html",
-      "description": "Mobbing am Arbeitsplatz kann sehr subtil sein. So subtil, dass es - außer der betroffenen Person - niemandem auffällt: Entzug von Zuständigkeiten, Zurückhalten wichtiger Informationen, aber auch physische Gewalt. Die Folgen für Betroffene sind extrem. (Erstsendung am 09.12.2025) Schmidt, Thilo www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 07 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
