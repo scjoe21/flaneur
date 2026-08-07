@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-07T16:03:30.708221+00:00",
+  "fetchedAt": "2026-08-07T19:37:13.433954+00:00",
   "items": [
     {
       "title": "SNSで話題のアライグマ「ジモシー」、人気が招くリスクに専門家が警鐘",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "AIエージェントとは？ 基本から導入の利点まで徹底解説",
+      "url": "https://wired.jp/article/what-is-an-ai-agent/",
+      "description": "生成AIが「質問に答える」道具なら、AIエージェントは「自分で動く」相棒のような存在だ。その違いから仕組み、注目の選択肢、業界事例、導入のリスクと未来展望までを一気に解説する。いまだから知っておくべき自律型AIとの付き合い方とは？",
+      "date": "Wed, 05 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Netflix「ガス人間」で、監督・片山慎三が伝えたかったこと",
       "url": "https://wired.jp/article/human-vapor-netflix-shinzo-katayama-interview/",
       "description": "伝説的な特撮映画をオリジナルストーリーのドラマにリブートしたNetflixシリーズ「ガス人間」。監督の片山慎三は、その再構築にどう向き合い、何を伝えたいと考えたのか。",
@@ -215,22 +231,6 @@
       "title": "“知性の生態系”を耕すために──ジェームズ・ブライドルが語る、AIと自然と人間の美しい関係",
       "url": "https://wired.jp/article/james-bridle-ecosystem-of-intelligences/",
       "description": "タコ、粘菌、ネアンデルタール人、そしてAI── 著書『Ways of Being』で人間以外の知性に溢れた世界を鮮やかに示し、“モア・ザン・ヒューマンの生態学”を打ち立てた鬼才ジェームズ・ブライドルの咆哮。",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "人と人、国家と国家をつなぐ「コネクティブAI」の可能性──PKSHA Technology 上野山勝也",
-      "url": "https://wired.jp/article/pksha-technology-katsuya-uenoyama-interview/",
-      "description": "2012年にPKSHA Technologyを創業し、“LLM以前”からその最前線で技術開発・実装に取り組んできた上野山勝也が語るのは、人と人、国家と国家の「間」をつなぎ、新たなる協働を生み出す「コネクティブAI」の可能性だ。",
       "date": "Wed, 05 Aug 2026",
       "thumbnail": "",
       "videoId": "",
