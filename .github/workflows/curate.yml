@@ -72,9 +72,10 @@ jobs:
           git push
 
       # 발행 편수 검증: 18개 미만이면 잡을 실패로 표시(가시화) → 다음 cron 안전망이 이어서 보충.
-      # 아울러 한 주(월~토) 안에서 같은 철학자가 두 번 이상 쓰이지 않았는지도 검증한다.
+      # 아울러 (a) 요일(나라)별 정확히 3개인지, (b) 한 주 안에서 같은 철학자가 두 번 이상
+      # 쓰이지 않았는지, (c) 최근 몇 주 이력과 철학자가 겹치지 않는지를 검증한다.
       # 진행분은 이미 커밋/푸시됐으므로 유실되지 않는다.
-      - name: 발행 편수·철학자 유일성 검증 (18개 + 철학자 비중복)
+      - name: 발행 편수·요일 배분·철학자 유일성 검증 (18개 = 6일×3개)
         run: |
           python - <<'PY'
           import json, sys, re
@@ -83,8 +84,24 @@ jobs:
           from collections import Counter
           by_day = Counter(it.get("day") for it in items)
           print(f"발행 주차: {d.get('week')} / 총 {len(items)}개")
-          for day in ["monday","tuesday","wednesday","thursday","friday","saturday"]:
+          DAYS = ["monday","tuesday","wednesday","thursday","friday","saturday"]
+          for day in DAYS:
               print(f"  {day}: {by_day.get(day,0)}")
+
+          # 요일(나라)별 정확히 3개 — 특정 나라가 4~5개가 되면 안 된다
+          over  = [f"{d_}={by_day.get(d_,0)}" for d_ in DAYS if by_day.get(d_,0) > 3]
+          under = [f"{d_}={by_day.get(d_,0)}" for d_ in DAYS if by_day.get(d_,0) < 3]
+          if over:
+              print("::error::요일당 3개 초과: " + ", ".join(over))
+          if under:
+              print("::warning::요일당 3개 미달: " + ", ".join(under))
+
+          # 일본(토요일) '그 나라 맥락'이 한국어인지 — 일본어 문자가 섞이면 경고
+          JP = re.compile("[ぁ-ゟ゠-ヿ]")
+          jp_bad = [it.get("title") for it in items
+                    if it.get("day") == "saturday" and JP.search(it.get("detail",""))]
+          if jp_bad:
+              print("::warning::토요일 본문에 일본어 문자 발견(한국어로 써야 함): " + ", ".join(map(str, jp_bad)))
 
           # 철학자 유일성 검사 (성 기준 정규화)
           STOP = {"the","von","van","der","den","de","del","della","di","le","la","of","el","dos","da","san","saint"}
@@ -112,8 +129,29 @@ jobs:
           if dups:
               print("::warning::같은 주에 철학자 중복 발견:\n  " + "\n  ".join(dups))
 
+          # 최근 이력과의 철학자 중복(크로스위크) — 경고만. 3차 보충에서 완화되므로 실패는 아님.
+          try:
+              hist = json.load(open("data/published_history.json", encoding="utf-8"))["weeks"]
+              past = set()
+              for e in hist[-11:]:
+                  if e.get("week") == d.get("week"):
+                      continue
+                  for a in e.get("articles", []):
+                      for f in [a.get("philosopher","")] + (a.get("philosophers") or []):
+                          past |= keys(f)
+              repeats = [f"{it.get('philosopher')} — '{it.get('title')}'"
+                         for it in items if keys(it.get("philosopher","")) & past]
+              if repeats:
+                  print(f"::warning::최근 10주에 다룬 철학자 재등장 {len(repeats)}건:\n  "
+                        + "\n  ".join(repeats))
+          except Exception as e:
+              print(f"이력 대조 건너뜀: {e}")
+
+          if over:
+              print("::error::나라별 편수 규칙 위반(요일당 3개 초과) — curate.py MAX_PER_DAY 확인 필요")
+              sys.exit(1)
           if len(items) < 18:
               print(f"::error::주간 발행 편수 부족: {len(items)}/18 — 다음 cron이 보충합니다.")
               sys.exit(1)
-          print("✓ 18개 이상 발행 확인")
+          print("✓ 18개(6일 × 3개) 발행 확인")
           PY

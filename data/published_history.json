@@ -73,6 +73,8 @@
         {
           "title": "자유의지는 환상인가 — 결정론과 책임의 문제",
           "summary": "우리의 모든 선택이 사실은 뇌의 화학반응과 과거 경험의 산물이라면, 도덕적 책임은 여전히 유효한가? 몽시외 피가 자유의지 논쟁을 일상의 언어로 풀어낸다.",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "자유의지",
             "결정론",
@@ -83,6 +85,11 @@
         {
           "title": "에피쿠로스의 쾌락주의 — 오해와 진실",
           "summary": "에피쿠로스는 '즐기며 살라'고 했지만, 그것은 우리가 상상하는 향락과 거리가 멀다. 물, 빵, 우정 — 그의 철학이 말하는 진짜 행복의 조건.",
+          "philosopher": "에피쿠로스 (Epicurus)",
+          "philosophers": [
+            "에피쿠로스 (Epicurus)",
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "에피쿠로스",
             "쾌락주의",
@@ -93,6 +100,12 @@
         {
           "title": "몽테뉴의 자기 탐구 — 나를 모르면서 어떻게 절제할 수 있는가",
           "summary": "몽테뉴는 평생 자신을 관찰하고 기록했다. 수상록은 철학 논문이 아니라 자기 실험의 일지다. 욕망을 다스리기 위해 먼저 해야 할 일은 자신이 무엇을 원하는지 아는 것이다.",
+          "philosopher": "몽테뉴 (Michel de Montaigne)",
+          "philosophers": [
+            "몽테뉴 (Michel de Montaigne)",
+            "루소 (Jean-Jacques Rousseau)",
+            "사르트르 (Jean-Paul Sartre)"
+          ],
           "tags": [
             "몽테뉴",
             "수상록",
@@ -104,6 +117,10 @@
         {
           "title": "도파민 경제 — 뇌가 더 많은 것을 원하도록 설계된 이유",
           "summary": "스마트폰 알림, 소셜미디어 좋아요, 도박 기계 — 이것들은 모두 같은 뇌 회로를 공략한다. 게르트 쇼벨이 신경과학과 자본주의의 교차점을 탐구한다.",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "도파민",
             "신경과학",
@@ -115,6 +132,8 @@
         {
           "title": "기후 불안과 무력감 — 철학은 무엇을 할 수 있는가",
           "summary": "기후변화를 알면서도 행동하지 못하는 것은 게으름이 아니라 심리적 방어기제다. 쇼벨이 생태적 위기 앞에서의 인간 심리와 철학적 행위성을 탐구한다.",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "기후변화",
             "생태철학",
@@ -126,6 +145,11 @@
         {
           "title": "쇼펜하우어의 의지 — 욕망은 왜 채워지지 않는가",
           "summary": "원하던 것을 얻는 순간 새로운 욕망이 생긴다. 쇼펜하우어는 이것이 인간의 본질적 조건이라고 봤다. 그렇다면 우리는 영원히 불만족에 운명지워진 것인가?",
+          "philosopher": "쇼펜하우어 (Schopenhauer)",
+          "philosophers": [
+            "쇼펜하우어 (Schopenhauer)",
+            "니체 (Friedrich Nietzsche)"
+          ],
           "tags": [
             "쇼펜하우어",
             "의지",
@@ -137,6 +161,10 @@
         {
           "title": "니체의 '힘에의 의지' — 지배욕인가 자기극복인가",
           "summary": "니체의 가장 오해받는 개념. 힘에의 의지는 타인을 지배하려는 욕망이 아니라 자기 자신을 극복하려는 창조적 충동이다. 릭 두페르의 니체 읽기.",
+          "philosopher": "니체 (Friedrich Nietzsche)",
+          "philosophers": [
+            "니체 (Friedrich Nietzsche)"
+          ],
           "tags": [
             "니체",
             "힘에의 의지",
@@ -147,6 +175,10 @@
         {
           "title": "소비주의 신화학 — 광고는 어떻게 욕망을 만드는가",
           "summary": "롤랑 바르트의 신화론으로 현대 광고를 해부한다. 애플은 기기를 팔지 않고 정체성을 판다. 이탈리아 철학 집단 Tlon의 분석.",
+          "philosopher": "바르트 (Roland Barthes)",
+          "philosophers": [
+            "바르트 (Roland Barthes)"
+          ],
           "tags": [
             "롤랑바르트",
             "소비주의",
@@ -158,6 +190,11 @@
         {
           "title": "스피노자의 코나투스 — 욕망은 악이 아니라 존재의 본질이다",
           "summary": "스피노자에게 욕망은 죄가 아니었다. 존재하려는 충동, 코나투스가 인간 행동의 근원이다. 그렇다면 문제는 욕망을 없애는 것이 아니라 어떤 욕망과 관계 맺을 것인가다.",
+          "philosopher": "스피노자 (Baruch Spinoza)",
+          "philosophers": [
+            "스피노자 (Baruch Spinoza)",
+            "노자 (Laozi)"
+          ],
           "tags": [
             "스피노자",
             "코나투스",
@@ -169,6 +206,10 @@
         {
           "title": "절제는 덕인가 — 아리스토텔레스의 중용과 현대인의 번아웃",
           "summary": "아리스토텔레스는 덕을 과잉과 결핍 사이의 중간으로 봤다. 현대의 '열심히 살기' 문화는 어떤 덕목을 추구하다 오히려 덕에서 멀어지게 하는가.",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "아리스토텔레스",
             "중용",
@@ -180,6 +221,8 @@
         {
           "title": "페미니즘과 돌봄 윤리 — 자기희생은 덕인가 착취인가",
           "summary": "캐롤 길리건의 돌봄 윤리는 전통 도덕철학이 남성적 자율성 개념에 기반했다고 비판한다. 돌봄을 수행하는 사람들은 왜 항상 더 많이 절제해야 하는가.",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "돌봄윤리",
             "페미니즘",
@@ -191,6 +234,10 @@
         {
           "title": "버트런드 러셀의 행복론 — 질투는 왜 현대 불행의 핵심인가",
           "summary": "러셀은 1930년에 행복의 가장 큰 적 중 하나로 질투를 꼽았다. 소셜미디어가 없던 시대의 통찰이 오늘날 더 날카롭게 들린다.",
+          "philosopher": "버트런드 러셀 (Bertrand Russell)",
+          "philosophers": [
+            "버트런드 러셀 (Bertrand Russell)"
+          ],
           "tags": [
             "버트런드러셀",
             "행복론",
@@ -202,6 +249,10 @@
         {
           "title": "마르쿠스 아우렐리우스의 일기 — 황제가 매일 자신에게 상기시킨 것",
           "summary": "로마 황제이자 스토아 철학자. 그는 무한한 권력을 가졌지만 매일 일기에 절제와 겸손을 상기했다. 명상록에서 배우는 자기 훈련의 실천.",
+          "philosopher": "마르쿠스 아우렐리우스 (Marcus Aurelius)",
+          "philosophers": [
+            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
+          ],
           "tags": [
             "스토아철학",
             "마르쿠스아우렐리우스",
@@ -213,6 +264,10 @@
         {
           "title": "미니멀리즘은 철학인가 미학인가 — 소유와 존재의 문제",
           "summary": "인스타그램의 미니멀리즘은 빈 벽과 흰 셔츠다. 하지만 철학적 미니멀리즘은 더 급진적인 질문을 던진다. 나는 소유하는 것인가, 소유당하는 것인가.",
+          "philosopher": "소로 (Henry David Thoreau)",
+          "philosophers": [
+            "소로 (Henry David Thoreau)"
+          ],
           "tags": [
             "미니멀리즘",
             "소로",
@@ -224,6 +279,10 @@
         {
           "title": "중독의 철학 — 의지력 부족인가 환경의 실패인가",
           "summary": "우리는 중독을 개인의 나약함으로 본다. 하지만 신경과학과 사회철학은 다른 설명을 제시한다. 욕망이 통제 불능이 될 때 책임은 어디에 있는가.",
+          "philosopher": "마르쿠스 아우렐리우스 (Marcus Aurelius)",
+          "philosophers": [
+            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
+          ],
           "tags": [
             "중독",
             "의지력",
@@ -278,6 +337,8 @@
         {
           "title": "당신의 말은 왜 믿어지지 않는가",
           "summary": "편견이 타인의 목소리를 지우는 순간, 우리는 그것을 알아챌 수 있을까?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "인식적 불의",
             "편견",
@@ -287,6 +348,10 @@
         {
           "title": "광고는 왜 이성이 아닌 욕망에 말을 거는가",
           "summary": "우리가 물건을 사는 이유가 필요해서가 아니라면, 그 이유는 도대체 어디서 오는가?",
+          "philosopher": "프로이트 (Sigmund Freud)",
+          "philosophers": [
+            "프로이트 (Sigmund Freud)"
+          ],
           "tags": [
             "욕망 조작",
             "소비주의",
@@ -296,6 +361,10 @@
         {
           "title": "우리는 왜 바삭함에 열광하는가",
           "summary": "음식의 소리가 맛의 일부라면, 우리의 감각은 어디서 끝나고 어디서 시작되는가?",
+          "philosopher": "메를로퐁티 (Maurice Merleau-Ponty)",
+          "philosophers": [
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "감각",
             "현상학",
@@ -305,6 +374,10 @@
         {
           "title": "분노할 권리는 누구에게 있는가",
           "summary": "여성의 분노는 왜 '히스테리'가 되고 남성의 분노는 '정당한 분개'가 되는가?",
+          "philosopher": "누스바움 (Martha Nussbaum)",
+          "philosophers": [
+            "누스바움 (Martha Nussbaum)"
+          ],
           "tags": [
             "분노",
             "젠더권력",
@@ -314,6 +387,10 @@
         {
           "title": "우리는 왜 잘못된 사람을 따르는가",
           "summary": "카리스마 앞에서 우리의 이성은 얼마나 쉽게 무너지는가?",
+          "philosopher": "막스 베버 (Max Weber)",
+          "philosophers": [
+            "막스 베버 (Max Weber)"
+          ],
           "tags": [
             "카리스마",
             "대중심리",
@@ -323,6 +400,8 @@
         {
           "title": "탄소 크레딧이라는 새로운 식민주의",
           "summary": "기업의 탄소 상쇄 거래가 원주민의 땅과 자유를 어떻게 빼앗는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "탄소시장",
             "환경식민주의",
@@ -332,6 +411,10 @@
         {
           "title": "AI를 부러워하는 우리—고통 없는 창조의 유혹",
           "summary": "AI가 두렵다고 말하면서도, 우리는 정말 AI를 부러워하는 건 아닐까?",
+          "philosopher": "쇼펜하우어 (Schopenhauer)",
+          "philosophers": [
+            "쇼펜하우어 (Schopenhauer)"
+          ],
           "tags": [
             "AI창조",
             "고통과예술",
@@ -341,6 +424,12 @@
         {
           "title": "'휴가촌 사회'—우리는 진짜 삶을 잃어가고 있는가",
           "summary": "마찰 없이 매끄러운 세상, 그 편안함이 오히려 삶을 텅 비게 만든다.",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "플라톤 (Plato)",
+            "기 드보르 (Guy Debord)"
+          ],
           "tags": [
             "마찰없는삶",
             "존재의공허",
@@ -350,6 +439,11 @@
         {
           "title": "불완전한 몸으로 세상에 속한다는 것",
           "summary": "완벽함이 기준이 된 세상에서, 불완전한 나는 어디에 속하는가?",
+          "philosopher": "클레르 마랭 (Claire Marin)",
+          "philosophers": [
+            "클레르 마랭 (Claire Marin)",
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "소속감",
             "불완전성",
@@ -359,6 +453,11 @@
         {
           "title": "억만장자의 현실은 왜 따로 존재하는가",
           "summary": "제프 베조스의 비밀 리트릿에서 목격한, 결과 없는 세계의 철학적 의미",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)",
+            "장자 (Zhuangzi)"
+          ],
           "tags": [
             "책임",
             "공적영역",
@@ -368,6 +467,10 @@
         {
           "title": "지하철 개찰구 하나가 도시를 바꿨다",
           "summary": "샌프란시스코는 어떻게 무임승차 문제를 해결했고, 그것이 말해주는 것은 무엇인가",
+          "philosopher": "푸코 (Michel Foucault)",
+          "philosophers": [
+            "푸코 (Michel Foucault)"
+          ],
           "tags": [
             "감시",
             "공간권력",
@@ -377,6 +480,11 @@
         {
           "title": "스탠퍼드 신입생들은 왜 세계를 지배하려 하는가",
           "summary": "엘리트 대학 캠퍼스에서 자라나는 권력 욕망, 그것은 어디서 오는가",
+          "philosopher": "알튀세르 (Louis Althusser)",
+          "philosophers": [
+            "알튀세르 (Louis Althusser)",
+            "마이클 샌델 (Michael Sandel)"
+          ],
           "tags": [
             "호명",
             "엘리트",
@@ -437,6 +545,14 @@
         {
           "title": "유튜브가 파는 '가짜 스토아 철학'",
           "summary": "클릭 한 번으로 얻은 지혜, 그것은 정말 지혜인가?",
+          "philosopher": "소크라테스 (Socrates)",
+          "philosophers": [
+            "소크라테스 (Socrates)",
+            "에픽테토스 (Epictetus)",
+            "플라톤 (Plato)",
+            "세네카 (Seneca)",
+            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
+          ],
           "tags": [
             "디지털 소비",
             "가짜 지혜",
@@ -446,6 +562,11 @@
         {
           "title": "빨간 약이냐 파란 약이냐, 그 선택의 철학",
           "summary": "매트릭스의 그 장면이 우리 일상 깊숙이 들어와 있다면?",
+          "philosopher": "사르트르 (Jean-Paul Sartre)",
+          "philosophers": [
+            "사르트르 (Jean-Paul Sartre)",
+            "볼테르 (Voltaire)"
+          ],
           "tags": [
             "자기기만",
             "선택의 윤리",
@@ -455,6 +576,10 @@
         {
           "title": "진실 없는 재판, 정의는 가능한가",
           "summary": "유죄 협상으로 빠르게 닫히는 법정, 그 속에서 진실은 어디로 가는가?",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "사법 정의",
             "진실의 정치",
@@ -464,6 +589,10 @@
         {
           "title": "자기 자신을 사랑한다는 것의 의미",
           "summary": "거울 앞에서 나를 바라볼 때, 그것은 사랑인가 자기기만인가?",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "자기사랑",
             "아리스토텔레스",
@@ -473,6 +602,10 @@
         {
           "title": "머리카락이 날리는 거리에서",
           "summary": "히잡을 벗어던지는 여성들, 그 몸짓은 왜 세계를 흔들었나?",
+          "philosopher": "보부아르 (Simone de Beauvoir)",
+          "philosophers": [
+            "보부아르 (Simone de Beauvoir)"
+          ],
           "tags": [
             "신체의 자유",
             "보부아르",
@@ -482,6 +615,11 @@
         {
           "title": "욕망에는 유통기한이 없다",
           "summary": "50대 이후의 성을 금기시하는 사회, 그 침묵은 무엇을 감추는가?",
+          "philosopher": "푸코 (Michel Foucault)",
+          "philosophers": [
+            "푸코 (Michel Foucault)",
+            "프로이트 (Sigmund Freud)"
+          ],
           "tags": [
             "중년의 욕망",
             "푸코",
@@ -491,6 +629,10 @@
         {
           "title": "미래에 베팅하는 사람들",
           "summary": "재앙을 예측하고 돈을 버는 시대, 우리는 미래를 포기한 걸까?",
+          "philosopher": "니체 (Friedrich Nietzsche)",
+          "philosophers": [
+            "니체 (Friedrich Nietzsche)"
+          ],
           "tags": [
             "허무주의",
             "예측시장",
@@ -500,6 +642,10 @@
         {
           "title": "손으로 만드는 것의 철학",
           "summary": "AI가 모든 것을 만드는 시대, 손의 느림이 돌아오고 있다",
+          "philosopher": "마르크스 (Karl Marx)",
+          "philosophers": [
+            "마르크스 (Karl Marx)"
+          ],
           "tags": [
             "장인정신",
             "소외",
@@ -509,6 +655,10 @@
         {
           "title": "몸은 어디에 있는가",
           "summary": "화면과 현실 사이를 오가는 몸, 우리는 지금 어디에 존재하는가?",
+          "philosopher": "매클루언 (Marshall McLuhan)",
+          "philosophers": [
+            "매클루언 (Marshall McLuhan)"
+          ],
           "tags": [
             "몸",
             "미디어",
@@ -518,6 +668,11 @@
         {
           "title": "우리가 정말 혐오하는 건 위선이 아니다",
           "summary": "위선자를 향한 분노의 밑바닥에 숨겨진 진짜 감정은 무엇인가?",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)",
+            "니체 (Friedrich Nietzsche)"
+          ],
           "tags": [
             "위선",
             "도덕감정",
@@ -527,6 +682,10 @@
         {
           "title": "자연을 두려워하지 않을 때 파괴가 시작된다",
           "summary": "죽어가는 늑대의 눈에서 한 생태학자가 본 것은 무엇이었나?",
+          "philosopher": "하이데거 (Martin Heidegger)",
+          "philosophers": [
+            "하이데거 (Martin Heidegger)"
+          ],
           "tags": [
             "생태학",
             "두려움",
@@ -536,6 +695,11 @@
         {
           "title": "책 읽기는 정말 우리에게 유익한가?",
           "summary": "독서가 미덕이라는 믿음, 그 이면에 숨겨진 불편한 질문들",
+          "philosopher": "사르트르 (Jean-Paul Sartre)",
+          "philosophers": [
+            "사르트르 (Jean-Paul Sartre)",
+            "바르트 (Roland Barthes)"
+          ],
           "tags": [
             "독서",
             "문학",
@@ -545,6 +709,11 @@
         {
           "title": "질투와 경외 사이, 글쓰기의 역설",
           "summary": "타인의 완벽한 문장 앞에서 느끼는 분노는 창작의 적인가, 엔진인가?",
+          "philosopher": "키르케고르 (Kierkegaard)",
+          "philosophers": [
+            "키르케고르 (Kierkegaard)",
+            "바르트 (Roland Barthes)"
+          ],
           "tags": [
             "창작",
             "질투",
@@ -554,6 +723,11 @@
         {
           "title": "실리콘밸리는 왜 가톨릭으로 향하는가",
           "summary": "AI 시대의 테크 엘리트들이 고해성사와 라틴 미사에서 찾는 것은 무엇인가?",
+          "philosopher": "하이데거 (Martin Heidegger)",
+          "philosophers": [
+            "하이데거 (Martin Heidegger)",
+            "막스 베버 (Max Weber)"
+          ],
           "tags": [
             "종교",
             "기술",
@@ -563,6 +737,11 @@
         {
           "title": "우리의 도덕 감각은 지금 어디로 가는가",
           "summary": "콘텐츠 크리에이터의 절도 고백에 열광하는 시대, 무엇이 옳음을 결정하는가?",
+          "philosopher": "니체 (Friedrich Nietzsche)",
+          "philosophers": [
+            "니체 (Friedrich Nietzsche)",
+            "뒤르켐 (Emile Durkheim)"
+          ],
           "tags": [
             "도덕",
             "진정성",
@@ -624,6 +803,10 @@
         {
           "title": "관용은 불관용을 관용해야 하는가",
           "summary": "자유로운 사회가 자신의 적에게도 자유를 주어야 한다면—포퍼가 던진 위험한 질문",
+          "philosopher": "포퍼 (Karl Popper)",
+          "philosophers": [
+            "포퍼 (Karl Popper)"
+          ],
           "tags": [
             "관용의역설",
             "민주주의",
@@ -633,6 +816,10 @@
         {
           "title": "왜 우리는 헤어질 때 '다시 봐요'라고 말하는가",
           "summary": "작별 인사 한마디에 숨겨진 만남과 시간에 대한 우리의 철학",
+          "philosopher": "레비나스 (Emmanuel Levinas)",
+          "philosophers": [
+            "레비나스 (Emmanuel Levinas)"
+          ],
           "tags": [
             "작별인사",
             "타자성",
@@ -642,6 +829,10 @@
         {
           "title": "5월 1일에 빵집을 열어야 하는가",
           "summary": "노동절에 문을 여는 빵집, 그 안에서 우리는 무엇과 마주치는가?",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "노동",
             "연대",
@@ -651,6 +842,12 @@
         {
           "title": "공자는 지금도 중국을 지배하는가",
           "summary": "유교적 세계관이 현대 중국의 정치·외교·일상에 어떻게 살아 숨 쉬는가",
+          "philosopher": "공자 (Confucius)",
+          "philosophers": [
+            "공자 (Confucius)",
+            "존 로크 (John Locke)",
+            "루소 (Jean-Jacques Rousseau)"
+          ],
           "tags": [
             "공자",
             "중국철학",
@@ -660,6 +857,12 @@
         {
           "title": "왜 우리는 변하려 할수록 변하지 못하는가",
           "summary": "헤라클레이토스는 모든 것이 흐른다고 했지만—정작 나는 왜 제자리인가",
+          "philosopher": "부르디외 (Pierre Bourdieu)",
+          "philosophers": [
+            "부르디외 (Pierre Bourdieu)",
+            "존 듀이 (John Dewey)",
+            "윌리엄 제임스 (William James)"
+          ],
           "tags": [
             "변화",
             "헤라클레이토스",
@@ -669,6 +872,11 @@
         {
           "title": "어떻게 살 것인가, 라는 질문이 찾아올 때",
           "summary": "삶의 방향을 잃은 순간, 철학은 처방전이 될 수 있는가",
+          "philosopher": "에피쿠로스 (Epicurus)",
+          "philosophers": [
+            "에피쿠로스 (Epicurus)",
+            "푸코 (Michel Foucault)"
+          ],
           "tags": [
             "삶의기술",
             "자기배려",
@@ -678,6 +886,11 @@
         {
           "title": "죽음이 선물이라면: 톨킨의 역설",
           "summary": "불멸을 꿈꾸는 시대에, 톨킨은 왜 죽음을 '선물'이라 불렀는가?",
+          "philosopher": "하이데거 (Martin Heidegger)",
+          "philosophers": [
+            "하이데거 (Martin Heidegger)",
+            "장자 (Zhuangzi)"
+          ],
           "tags": [
             "죽음",
             "유한성",
@@ -687,6 +900,10 @@
         {
           "title": "해방의 날이 메아리방이 될 때",
           "summary": "반파시즘의 광장이 새로운 배제의 공간으로 변한다면, 그것은 무엇인가?",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "이데올로기",
             "에코챔버",
@@ -696,6 +913,10 @@
         {
           "title": "불완전한 나를 떠나는 법: 거리두기의 철학",
           "summary": "가족, 역할, 몸에서 벗어나려는 충동은 도망인가, 생존인가?",
+          "philosopher": "클레르 마랭 (Claire Marin)",
+          "philosophers": [
+            "클레르 마랭 (Claire Marin)"
+          ],
           "tags": [
             "정체성",
             "거리두기",
@@ -705,6 +926,11 @@
         {
           "title": "정치 얘기는 왜 항상 허공에서 끝나는가",
           "summary": "대화가 끝나도 아무것도 바뀌지 않는다—정치 토론의 불편한 진실",
+          "philosopher": "밀 (John Stuart Mill)",
+          "philosophers": [
+            "밀 (John Stuart Mill)",
+            "하버마스 (Jurgen Habermas)"
+          ],
           "tags": [
             "정치적 양극화",
             "공론장",
@@ -714,6 +940,10 @@
         {
           "title": "중독은 의지의 실패인가, 뇌의 실패인가",
           "summary": "약물 중독자를 바라보는 두 시선—도덕적 낙인과 의학적 모델 사이에서",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "중독",
             "자유의지",
@@ -723,6 +953,8 @@
         {
           "title": "'악당'은 언제 발명되었는가",
           "summary": "선과 악의 대결 구도—이야기의 본질일까, 만들어진 장치일까",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "서사구조",
             "선악이분법",
@@ -732,6 +964,11 @@
         {
           "title": "공간은 말한다: 우리가 꾸민 곳의 철학",
           "summary": "방 한 칸, 도시 한 블록이 우리도 모르게 가치관을 고백하고 있다",
+          "philosopher": "바슐라르 (Gaston Bachelard)",
+          "philosophers": [
+            "바슐라르 (Gaston Bachelard)",
+            "부르디외 (Pierre Bourdieu)"
+          ],
           "tags": [
             "공간철학",
             "아비투스",
@@ -741,6 +978,11 @@
         {
           "title": "성공하는데 왜 공허한가: 커리어의 철학",
           "summary": "잘 나가는 삶의 한가운데서 '이게 다 무엇을 위한 건가' 묻게 될 때",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)",
+            "찰스 테일러 (Charles Taylor)"
+          ],
           "tags": [
             "에우다이모니아",
             "커리어",
@@ -750,6 +992,12 @@
         {
           "title": "음악은 왜 우리를 울리는가",
           "summary": "한 번도 들어본 적 없는 화음이 눈물을 만들어내는, 몸 깊숙한 철학",
+          "philosopher": "쇼펜하우어 (Schopenhauer)",
+          "philosophers": [
+            "쇼펜하우어 (Schopenhauer)",
+            "니체 (Friedrich Nietzsche)",
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "음악철학",
             "신체",
@@ -811,6 +1059,10 @@
         {
           "title": "노인들은 왜 스마트폰을 놓지 못하는가",
           "summary": "디지털 소외의 반대편, 노인 세대의 화면 집착이 드러내는 고독의 풍경",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "고독",
             "공적존재",
@@ -820,6 +1072,10 @@
         {
           "title": "빨간 약이냐 파란 약이냐: 선택의 환상",
           "summary": "매트릭스의 그 장면이 지금도 우리를 사로잡는 이유는 무엇인가?",
+          "philosopher": "데카르트 (Rene Descartes)",
+          "philosophers": [
+            "데카르트 (Rene Descartes)"
+          ],
           "tags": [
             "인식론",
             "실재",
@@ -829,6 +1085,10 @@
         {
           "title": "명령이 떨어지면, 우리는 복종한다",
           "summary": "밀그램 실험이 60년이 지난 지금도 불편한 이유는 무엇인가?",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "복종",
             "권위",
@@ -838,6 +1098,10 @@
         {
           "title": "꿈꿀 공간이 없는 사람들",
           "summary": "누군가의 존재 전체가 '집단의 대표'로 읽힐 때, 우리는 무엇을 잃는가?",
+          "philosopher": "에드워드 사이드 (Edward Said)",
+          "philosophers": [
+            "에드워드 사이드 (Edward Said)"
+          ],
           "tags": [
             "오리엔탈리즘",
             "집단환원",
@@ -847,6 +1111,8 @@
         {
           "title": "우리가 먹는 것은 음식인가 실험인가",
           "summary": "편의식품이 밥상을 점령한 시대, 먹는다는 행위는 무엇을 잃었는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "초점실천",
             "기술과일상",
@@ -856,6 +1122,10 @@
         {
           "title": "우리는 왜 틀린 사람을 따르는가",
           "summary": "카리스마는 내용을 이긴다—그런데 그 승리는 어떻게 작동하는가?",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "수사학",
             "정치적판단",
@@ -865,6 +1135,10 @@
         {
           "title": "재난에 베팅하는 시대의 허무주의",
           "summary": "미래를 예측한다는 행위가 어느 순간 미래를 소비하는 놀이가 되었다",
+          "philosopher": "니체 (Friedrich Nietzsche)",
+          "philosophers": [
+            "니체 (Friedrich Nietzsche)"
+          ],
           "tags": [
             "금융적허무주의",
             "베팅문화",
@@ -874,6 +1148,10 @@
         {
           "title": "인터넷이 끊긴 제국의 침묵",
           "summary": "디지털 차단이 국가의 붕괴를 가속하는 역설, 정보통제는 왜 역효과를 낳는가",
+          "philosopher": "하버마스 (Jurgen Habermas)",
+          "philosophers": [
+            "하버마스 (Jurgen Habermas)"
+          ],
           "tags": [
             "공론장붕괴",
             "정보통제",
@@ -883,6 +1161,10 @@
         {
           "title": "좋아하는 일을 직업으로 삼을 때의 대가",
           "summary": "열정을 직업으로 바꾸는 순간, 우리는 무엇을 잃고 무엇을 얻는가",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "문화노동",
             "소명과직업",
@@ -892,6 +1174,13 @@
         {
           "title": "웃음은 우리에게 좋은 것인가",
           "summary": "킥킥거리는 그 순간, 철학자들은 무엇을 보았는가?",
+          "philosopher": "플라톤 (Plato)",
+          "philosophers": [
+            "플라톤 (Plato)",
+            "아리스토텔레스 (Aristotle)",
+            "홉스 (Thomas Hobbes)",
+            "베르그송 (Henri Bergson)"
+          ],
           "tags": [
             "유머철학",
             "코미디",
@@ -901,6 +1190,11 @@
         {
           "title": "계획 없이 살아도 되는가",
           "summary": "즉흥적 행동은 자유인가, 아니면 또 다른 환상인가?",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "사르트르 (Jean-Paul Sartre)"
+          ],
           "tags": [
             "즉흥성",
             "자유",
@@ -910,6 +1204,10 @@
         {
           "title": "나는 관계 이전에 존재하는가",
           "summary": "우리가 먼저인지 나가 먼저인지, 당신은 어느 쪽인가?",
+          "philosopher": "데카르트 (Rene Descartes)",
+          "philosophers": [
+            "데카르트 (Rene Descartes)"
+          ],
           "tags": [
             "자아",
             "관계론",
@@ -919,6 +1217,11 @@
         {
           "title": "이 자리에 있으면 안 될 것 같은 느낌",
           "summary": "책상 앞에서 갑자기 엄습하는 불안, 그것은 몸이 보내는 철학적 신호다",
+          "philosopher": "하이데거 (Martin Heidegger)",
+          "philosophers": [
+            "하이데거 (Martin Heidegger)",
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "몸의지각",
             "이동불안",
@@ -928,6 +1231,8 @@
         {
           "title": "경쟁자를 도울 때 내가 더 강해진다",
           "summary": "지진 이후 폐허가 된 마을이 보여준 역설—적을 살려야 내가 산다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "협력의역설",
             "공동체경제",
@@ -937,6 +1242,11 @@
         {
           "title": "후회는 왜 밤에 더 크게 찾아오는가",
           "summary": "지나간 일을 반복해서 되감는 마음—후회는 기억의 오작동인가, 윤리의 증거인가",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)",
+            "버나드 윌리엄스 (Bernard Williams)"
+          ],
           "tags": [
             "후회",
             "용서",
@@ -989,6 +1299,10 @@
         {
           "title": "돈은 왜 우리의 관계를 바꾸는가",
           "summary": "지갑을 열 때마다 우리는 관계의 언어를 돈으로 번역하고 있다",
+          "philosopher": "짐멜 (Georg Simmel)",
+          "philosophers": [
+            "짐멜 (Georg Simmel)"
+          ],
           "tags": [
             "화폐",
             "관계의상품화",
@@ -998,6 +1312,12 @@
         {
           "title": "가난은 왜 눈에 보이지 않는가",
           "summary": "같은 거리를 걸으면서도 누군가의 결핍은 왜 우리 시야 밖에 있는가",
+          "philosopher": "랑시에르 (Jacques Ranciere)",
+          "philosophers": [
+            "랑시에르 (Jacques Ranciere)",
+            "시몬 베유 (Simone Weil)",
+            "존 롤스 (John Rawls)"
+          ],
           "tags": [
             "빈곤의비가시성",
             "사회적배제",
@@ -1007,6 +1327,13 @@
         {
           "title": "존재하기 전에 먼저 무엇이어야 하는가",
           "summary": "아비첸나가 900년 전 던진 질문이 지금 우리의 정체성 논쟁을 흔든다",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)",
+            "사르트르 (Jean-Paul Sartre)",
+            "토마스 아퀴나스 (Thomas Aquinas)",
+            "하이데거 (Martin Heidegger)"
+          ],
           "tags": [
             "본질과존재",
             "이슬람철학",
@@ -1016,6 +1343,10 @@
         {
           "title": "고래를 위해 울고 치킨을 먹다",
           "summary": "SNS에 애도를 올리고 고기를 주문하는 우리, 이 모순은 위선인가 희망인가?",
+          "philosopher": "피터 싱어 (Peter Singer)",
+          "philosophers": [
+            "피터 싱어 (Peter Singer)"
+          ],
           "tags": [
             "도덕적 공감",
             "동물윤리",
@@ -1025,6 +1356,8 @@
         {
           "title": "무임승차자를 감옥에 보내는 나라",
           "summary": "버스 요금을 못 낸 죄로 수감될 수 있다면, 법은 누구를 위한 것인가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "법철학",
             "형식적평등",
@@ -1034,6 +1367,11 @@
         {
           "title": "보수주의는 극우를 막을 수 있는가",
           "summary": "전통을 지키려는 사상이 어쩌다 극단주의의 발판이 되었는가?",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "하이데거 (Martin Heidegger)"
+          ],
           "tags": [
             "보수주의",
             "극우포퓰리즘",
@@ -1043,6 +1381,11 @@
         {
           "title": "산만함의 진짜 대가: 나는 무엇을 피하고 있는가",
           "summary": "주의를 돌릴 때마다 우리는 미래의 자신에게 빚을 지고 있다",
+          "philosopher": "세네카 (Seneca)",
+          "philosophers": [
+            "세네카 (Seneca)",
+            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
+          ],
           "tags": [
             "주의력",
             "회피",
@@ -1052,6 +1395,10 @@
         {
           "title": "웹이 죽어가고 있다: 그게 왜 희소식인가",
           "summary": "바이럴과 AI 쓰레기로 포화된 인터넷의 붕괴가 사유의 복원을 예고한다",
+          "philosopher": "발터 벤야민 (Walter Benjamin)",
+          "philosophers": [
+            "발터 벤야민 (Walter Benjamin)"
+          ],
           "tags": [
             "주의경제",
             "아우라",
@@ -1061,6 +1408,11 @@
         {
           "title": "불완전한 몸, 불완전한 역할: 탈출은 배신인가",
           "summary": "가족과 계급과 젠더에서 떠나는 것은 도망인가, 생존인가",
+          "philosopher": "부르디외 (Pierre Bourdieu)",
+          "philosophers": [
+            "부르디외 (Pierre Bourdieu)",
+            "클레르 마랭 (Claire Marin)"
+          ],
           "tags": [
             "결렬",
             "소속의철학",
@@ -1070,6 +1422,11 @@
         {
           "title": "아무도 그 의미를 모르는 축제",
           "summary": "수백 년째 이어지지만 기원도 의미도 잊힌 스위스 의식이 말하는 것",
+          "philosopher": "셰리 터클 (Sherry Turkle)",
+          "philosophers": [
+            "셰리 터클 (Sherry Turkle)",
+            "뒤르켐 (Emile Durkheim)"
+          ],
           "tags": [
             "의례",
             "상징",
@@ -1079,6 +1436,12 @@
         {
           "title": "아이에게 불편함을 돌려줘야 한다",
           "summary": "보호받는 아이들이 왜 오히려 어른이 되지 못하는가",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "존 듀이 (John Dewey)",
+            "윌리엄 제임스 (William James)"
+          ],
           "tags": [
             "교육철학",
             "성장",
@@ -1088,6 +1451,11 @@
         {
           "title": "우리는 무엇으로부터 도망치는가",
           "summary": "지루함도 타인도 아닌, 우리가 진짜 달아나려는 것의 정체",
+          "philosopher": "레비나스 (Emmanuel Levinas)",
+          "philosophers": [
+            "레비나스 (Emmanuel Levinas)",
+            "사르트르 (Jean-Paul Sartre)"
+          ],
           "tags": [
             "탈출충동",
             "존재감각",
@@ -1149,6 +1517,11 @@
         {
           "title": "배고프지 않으면 삶도 맛이 없다",
           "summary": "식욕을 지운 약이 삶의 쾌락 전체를 지워버린다면, 욕망은 짐인가 선물인가?",
+          "philosopher": "에피쿠로스 (Epicurus)",
+          "philosophers": [
+            "에피쿠로스 (Epicurus)",
+            "캉길렘 (Georges Canguilhem)"
+          ],
           "tags": [
             "쾌락철학",
             "욕망의생물학",
@@ -1158,6 +1531,10 @@
         {
           "title": "주의를 기울인다는 것, 그 용기",
           "summary": "타인을 진짜로 본다는 것은 왜 이렇게 힘들고, 왜 이렇게 중요한가?",
+          "philosopher": "시몬 베유 (Simone Weil)",
+          "philosophers": [
+            "시몬 베유 (Simone Weil)"
+          ],
           "tags": [
             "주의와윤리",
             "시몬베유",
@@ -1167,6 +1544,11 @@
         {
           "title": "아이는 왜 내 계획을 망치는가",
           "summary": "아버지가 된다는 것은 통제할 수 없는 타자와 함께 살기로 동의하는 일이다.",
+          "philosopher": "사르트르 (Jean-Paul Sartre)",
+          "philosophers": [
+            "사르트르 (Jean-Paul Sartre)",
+            "레비나스 (Emmanuel Levinas)"
+          ],
           "tags": [
             "부모됨",
             "예측불가능성",
@@ -1176,6 +1558,11 @@
         {
           "title": "클릭 한 번으로 급진화되는 남성들",
           "summary": "왜 길을 잃은 청년들은 혐오의 언어에서 위안을 찾는가?",
+          "philosopher": "에리히 프롬 (Erich Fromm)",
+          "philosophers": [
+            "에리히 프롬 (Erich Fromm)",
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "급진화",
             "알고리즘",
@@ -1185,6 +1572,11 @@
         {
           "title": "평화주의는 지금 무용한가",
           "summary": "전쟁이 일상이 된 시대, 평화를 원한다는 것은 무엇을 의미하는가?",
+          "philosopher": "홉스 (Thomas Hobbes)",
+          "philosophers": [
+            "홉스 (Thomas Hobbes)",
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "평화주의",
             "전쟁윤리",
@@ -1194,6 +1586,11 @@
         {
           "title": "법은 정말 평등한가",
           "summary": "민주주의 법 안에 숨어있는 권력관계를 우리는 왜 보지 못하는가?",
+          "philosopher": "부르디외 (Pierre Bourdieu)",
+          "philosophers": [
+            "부르디외 (Pierre Bourdieu)",
+            "발터 벤야민 (Walter Benjamin)"
+          ],
           "tags": [
             "법과권력",
             "실질적평등",
@@ -1203,6 +1600,10 @@
         {
           "title": "왜 우리는 악인에게 끌리는가",
           "summary": "선보다 악이 더 생생하게 느껴지는 이유, 도스토옙스키가 그 비밀을 알고 있다",
+          "philosopher": "발터 벤야민 (Walter Benjamin)",
+          "philosophers": [
+            "발터 벤야민 (Walter Benjamin)"
+          ],
           "tags": [
             "악의매혹",
             "도스토옙스키",
@@ -1212,6 +1613,10 @@
         {
           "title": "산만함을 선택하는 시대의 철학",
           "summary": "알림을 끄지 못하는 우리는 무엇으로부터 도망치고 있는가",
+          "philosopher": "파스칼 (Blaise Pascal)",
+          "philosophers": [
+            "파스칼 (Blaise Pascal)"
+          ],
           "tags": [
             "산만함",
             "파스칼",
@@ -1221,6 +1626,10 @@
         {
           "title": "스크린 속으로 사라지는 몸",
           "summary": "화면 앞에서 몸은 어디로 가는가, 미디어 이론이 묻는 새로운 신체의 조건",
+          "philosopher": "매클루언 (Marshall McLuhan)",
+          "philosophers": [
+            "매클루언 (Marshall McLuhan)"
+          ],
           "tags": [
             "미디어이론",
             "탈신체화",
@@ -1230,6 +1639,10 @@
         {
           "title": "시민 단속자들의 탄생",
           "summary": "공기 오염을 막으려던 정책이 만들어낸 '전업 민원인'을 어떻게 볼 것인가",
+          "philosopher": "푸코 (Michel Foucault)",
+          "philosophers": [
+            "푸코 (Michel Foucault)"
+          ],
           "tags": [
             "시민감시",
             "공공선",
@@ -1239,6 +1652,8 @@
         {
           "title": "나 없이 내가 책임진다",
           "summary": "불교는 자아가 없다고 말한다. 그렇다면 누가 책임을 지는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "무아",
             "책임귀속",
@@ -1248,6 +1663,10 @@
         {
           "title": "자기 단련은 독인가 약인가",
           "summary": "훈육을 거부하는 시대에, 우리는 정말 더 자유로워졌는가",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "자기규율",
             "자율성",
@@ -1257,6 +1676,11 @@
         {
           "title": "제약이 자유보다 창의적인 이유",
           "summary": "빈 캔버스 앞에서 오히려 막히는 이유, 한계가 상상력을 깨운다",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)",
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "창의성",
             "제약의역설",
@@ -1266,6 +1690,10 @@
         {
           "title": "최저임금 실험이 뒤흔든 경제 상식",
           "summary": "모두가 알고 있다고 믿었던 경제 법칙이 틀렸다면?",
+          "philosopher": "토머스 쿤 (Thomas Kuhn)",
+          "philosophers": [
+            "토머스 쿤 (Thomas Kuhn)"
+          ],
           "tags": [
             "경제패러다임",
             "과학적믿음",
@@ -1275,6 +1703,11 @@
         {
           "title": "말하지 못한 피드백의 침묵 비용",
           "summary": "친절이라 믿었던 침묵이 상대를 천천히 망가뜨리고 있었다",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)",
+            "비트겐슈타인 (Ludwig Wittgenstein)"
+          ],
           "tags": [
             "침묵의윤리",
             "언어행위",
@@ -1336,6 +1769,11 @@
         {
           "title": "당신의 도덕적 분노는 진짜인가",
           "summary": "남의 성공을 비난할 때, 우리는 정의를 말하는가 아니면 시기를 숨기는가",
+          "philosopher": "니체 (Friedrich Nietzsche)",
+          "philosophers": [
+            "니체 (Friedrich Nietzsche)",
+            "부르디외 (Pierre Bourdieu)"
+          ],
           "tags": [
             "르상티망",
             "니체",
@@ -1345,6 +1783,8 @@
         {
           "title": "우리는 왜 스스로 복종을 선택하는가",
           "summary": "폭군의 힘은 칼이 아니라 우리의 동의에서 온다는 500년 전의 물음",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "자발적복종",
             "라보에시",
@@ -1354,6 +1794,10 @@
         {
           "title": "누가 아이를 돌봐야 하는가",
           "summary": "방과 후 아이들의 빈 시간이 드러내는 돌봄의 공백과 공동체의 철수",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "돌봄의공공성",
             "아렌트",
@@ -1363,6 +1807,10 @@
         {
           "title": "남자도 예뻐야 한다는 압박, 평등인가 함정인가",
           "summary": "남성 외모 가꾸기 열풍, 그것이 해방인지 새로운 굴레인지 묻는다",
+          "philosopher": "푸코 (Michel Foucault)",
+          "philosophers": [
+            "푸코 (Michel Foucault)"
+          ],
           "tags": [
             "외모규범",
             "신체정치",
@@ -1372,6 +1820,11 @@
         {
           "title": "더 많이 일해야 한다는 말, 정말 맞는가",
           "summary": "보이지 않는 노동을 지운 채 '생산성'을 말하는 사회에 던지는 철학적 질문",
+          "philosopher": "악셀 호네트 (Axel Honneth)",
+          "philosophers": [
+            "악셀 호네트 (Axel Honneth)",
+            "공자 (Confucius)"
+          ],
           "tags": [
             "돌봄노동",
             "인정이론",
@@ -1381,6 +1834,8 @@
         {
           "title": "병원에서 죽는다는 것, 실수로 죽는다는 것",
           "summary": "의료 오류 앞에서 '인간은 실수한다'는 말이 용납되는 순간과 그렇지 않은 순간",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "책임의윤리",
             "오류문화",
@@ -1390,6 +1845,8 @@
         {
           "title": "왜 우리는 스스로의 문화를 혐오하는가",
           "summary": "자기 문화에 죄책감을 느끼는 시대, 그 감정의 철학적 정체는 무엇인가",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "오이코포비아",
             "문화비판",
@@ -1399,6 +1856,8 @@
         {
           "title": "데이터를 거부할 때 현실은 어떻게 무너지는가",
           "summary": "이념이 증거를 이기는 순간, 가장 많은 사람이 죽는다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "이념과데이터",
             "인식적완고함",
@@ -1408,6 +1867,10 @@
         {
           "title": "완벽한 자리를 떠날 때 비로소 나를 찾는다",
           "summary": "가족, 젠더, 계급—그 자리를 박차고 나오는 것이 왜 철학적 행위인가",
+          "philosopher": "클레르 마랭 (Claire Marin)",
+          "philosophers": [
+            "클레르 마랭 (Claire Marin)"
+          ],
           "tags": [
             "불일치",
             "귀속감",
@@ -1417,6 +1880,10 @@
         {
           "title": "모차르트는 왜 우리를 불편하게 하는가",
           "summary": "아름다운 선율 속에 숨겨진 도덕적 함정, 오페라가 청중을 시험하는 방식",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "미학적판단",
             "예술과도덕",
@@ -1426,6 +1893,10 @@
         {
           "title": "하와이는 왜 낙원이 될 수 없는가",
           "summary": "관광 포스터 속 하와이와 그 땅에 살아온 사람들이 말하는 하와이는 왜 다른가",
+          "philosopher": "발터 벤야민 (Walter Benjamin)",
+          "philosophers": [
+            "발터 벤야민 (Walter Benjamin)"
+          ],
           "tags": [
             "장소성",
             "탈식민주의",
@@ -1435,6 +1906,10 @@
         {
           "title": "멕시코 철학은 왜 폐허에서 꽃피는가",
           "summary": "패배와 혼종의 역사 속에서 탄생한 철학, 고통이 사유의 언어가 될 때",
+          "philosopher": "하이데거 (Martin Heidegger)",
+          "philosophers": [
+            "하이데거 (Martin Heidegger)"
+          ],
           "tags": [
             "혼종성",
             "지정학과철학",
@@ -1444,6 +1919,10 @@
         {
           "title": "자신을 너무 진지하게 대할 때 잃는 것",
           "summary": "풀밭을 구르는 아이를 보며 부러움을 느낀 순간, 우리는 무엇을 잃었는가?",
+          "philosopher": "베르그송 (Henri Bergson)",
+          "philosophers": [
+            "베르그송 (Henri Bergson)"
+          ],
           "tags": [
             "유희충동",
             "자기경직성",
@@ -1453,6 +1932,10 @@
         {
           "title": "놀이터는 어떻게 어린 시절을 재설계했는가",
           "summary": "아이들이 자유롭게 뛰놀던 세계는 어떻게 설계된 공간으로 바뀌었는가?",
+          "philosopher": "존 듀이 (John Dewey)",
+          "philosophers": [
+            "존 듀이 (John Dewey)"
+          ],
           "tags": [
             "놀이의철학",
             "통제된공간",
@@ -1462,6 +1945,11 @@
         {
           "title": "아이를 낳지 않는 세계의 철학",
           "summary": "전 세계적 출산율 감소는 개인의 선택인가, 문명의 신호인가?",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)",
+            "쇼펜하우어 (Schopenhauer)"
+          ],
           "tags": [
             "탄생성",
             "재생산의윤리",
@@ -1523,6 +2011,11 @@
         {
           "title": "사고 현장을 멈춰 바라보는 우리",
           "summary": "지나쳐야 한다고 알면서도 발걸음이 멈추는 그 순간의 철학",
+          "philosopher": "플라톤 (Plato)",
+          "philosophers": [
+            "플라톤 (Plato)",
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "관음충동",
             "죽음의직시",
@@ -1532,6 +2025,10 @@
         {
           "title": "'야만'이라는 말의 함정",
           "summary": "다른 문화를 미개하다고 부르는 순간, 우리는 무엇을 잃는가",
+          "philosopher": "몽테뉴 (Michel de Montaigne)",
+          "philosophers": [
+            "몽테뉴 (Michel de Montaigne)"
+          ],
           "tags": [
             "문화상대주의",
             "몽테뉴",
@@ -1541,6 +2038,10 @@
         {
           "title": "알약 하나가 모든 것을 바꾼다면",
           "summary": "고통 없이 행복해질 수 있다면, 그 행복은 여전히 우리의 것인가",
+          "philosopher": "노직 (Robert Nozick)",
+          "philosophers": [
+            "노직 (Robert Nozick)"
+          ],
           "tags": [
             "행복의진정성",
             "고통의의미",
@@ -1550,6 +2051,10 @@
         {
           "title": "무임승차, 처벌받아야 하는가",
           "summary": "버스 무임승차를 감옥으로 보내는 법, 우리는 왜 이것을 당연히 여겼나",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "처벌의정당성",
             "법과빈곤",
@@ -1559,6 +2064,8 @@
         {
           "title": "성장은 왜 멈출 수 없는 신이 됐나",
           "summary": "GDP가 오르면 모두가 행복해진다는 믿음, 그것은 언제부터 종교가 되었나",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "성장신화",
             "탈성장",
@@ -1568,6 +2075,11 @@
         {
           "title": "우리는 무엇을 먹는다고 생각하는가",
           "summary": "라벨에 '자연산'이라 적혀 있지만, 그 음식에는 자연이 없다",
+          "philosopher": "보드리야르 (Jean Baudrillard)",
+          "philosophers": [
+            "보드리야르 (Jean Baudrillard)",
+            "짐멜 (Georg Simmel)"
+          ],
           "tags": [
             "음식의진정성",
             "시뮬라크르",
@@ -1577,6 +2089,10 @@
         {
           "title": "Z세대는 왜 다시 서점으로 향하는가",
           "summary": "스크린에 지친 세대가 종이책을 고르는 장면 속 철학적 역설",
+          "philosopher": "메를로퐁티 (Maurice Merleau-Ponty)",
+          "philosophers": [
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "신체적인식론",
             "독서문화",
@@ -1586,6 +2102,10 @@
         {
           "title": "'자기 자신이 되라'는 말의 함정",
           "summary": "가장 많이 듣는 조언이 왜 가장 공허한 말이 되었는가",
+          "philosopher": "흄 (David Hume)",
+          "philosophers": [
+            "흄 (David Hume)"
+          ],
           "tags": [
             "자아개념",
             "정체성의구성",
@@ -1595,6 +2115,11 @@
         {
           "title": "진보가 종교가 될 때",
           "summary": "비판 대신 파문, 의심 대신 교리—좌파는 어떻게 신학이 되었나",
+          "philosopher": "마르크스 (Karl Marx)",
+          "philosophers": [
+            "마르크스 (Karl Marx)",
+            "블로흐 (Ernst Bloch)"
+          ],
           "tags": [
             "이념의종교화",
             "허위의식",
@@ -1604,6 +2129,8 @@
         {
           "title": "나는 중요한 사람인가",
           "summary": "존재가 사라진 뒤에도 '의미 있었나'를 묻는 인간의 이상한 본능",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "존재의미",
             "인정욕구",
@@ -1613,6 +2140,8 @@
         {
           "title": "이민 논쟁에서 도덕을 빼면",
           "summary": "선악의 언어로 가득 찬 이민 토론, 숫자와 교환으로 돌아갈 수 있을까",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "이민논쟁",
             "공공담론",
@@ -1622,6 +2151,8 @@
         {
           "title": "나를 지워야 사랑이 된다",
           "summary": "수피 전통이 말하는 사랑—자아를 녹이는 것이 진짜 연결이다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "수피철학",
             "자아소멸",
@@ -1631,6 +2162,8 @@
         {
           "title": "AI가 바꾸는 '마음'의 정의",
           "summary": "AI가 생각한다면, 우리가 생각한다는 건 무엇을 뜻하는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "의식철학",
             "인공지능",
@@ -1640,6 +2173,8 @@
         {
           "title": "휴가가 당신을 쉬게 하지 못하는 이유",
           "summary": "기다리던 휴가인데 왜 돌아오면 더 지쳐있는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "여가철학",
             "피로사회",
@@ -1649,6 +2184,10 @@
         {
           "title": "읽기가 불안해진 시대",
           "summary": "AI가 쓴 글들 사이에서 독자는 무엇을 믿어야 하는가?",
+          "philosopher": "발터 벤야민 (Walter Benjamin)",
+          "philosophers": [
+            "발터 벤야민 (Walter Benjamin)"
+          ],
           "tags": [
             "텍스트신뢰",
             "AI글쓰기",
@@ -1710,6 +2249,10 @@
         {
           "title": "우리는 모두 과잉관광객이다",
           "summary": "여행지에서 나는 구경꾼인가, 아니면 그 장소를 소비하는 포식자인가?",
+          "philosopher": "사르트르 (Jean-Paul Sartre)",
+          "philosophers": [
+            "사르트르 (Jean-Paul Sartre)"
+          ],
           "tags": [
             "과잉관광",
             "나쁜믿음",
@@ -1719,6 +2262,10 @@
         {
           "title": "정상과 비정상은 누가 정하는가",
           "summary": "진단서 한 장이 삶을 '환자'로 만드는 순간, 그 경계는 어디서 오는가?",
+          "philosopher": "캉길렘 (Georges Canguilhem)",
+          "philosophers": [
+            "캉길렘 (Georges Canguilhem)"
+          ],
           "tags": [
             "정상성",
             "의료화",
@@ -1728,6 +2275,8 @@
         {
           "title": "우리는 왜 점점 더 많이 노는가",
           "summary": "놀이가 의무가 된 시대, 즐거움을 강요받는 역설을 철학은 어떻게 보는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "놀이철학",
             "게임화",
@@ -1737,6 +2286,10 @@
         {
           "title": "우리는 왜 점점 더 화가 나는가",
           "summary": "지하철에서, 도로 위에서, 댓글창에서—분노의 역치는 왜 이토록 낮아졌을까",
+          "philosopher": "슬로터다이크 (Peter Sloterdijk)",
+          "philosophers": [
+            "슬로터다이크 (Peter Sloterdijk)"
+          ],
           "tags": [
             "분노의시대",
             "튀모스",
@@ -1746,6 +2299,10 @@
         {
           "title": "잊은 위험은 사라지지 않는다",
           "summary": "체르노빌에서 40년, 보이지 않는 위험과 함께 사는 법",
+          "philosopher": "귄터 안더스 (Gunther Anders)",
+          "philosophers": [
+            "귄터 안더스 (Gunther Anders)"
+          ],
           "tags": [
             "위험사회",
             "울리히베크",
@@ -1755,6 +2312,11 @@
         {
           "title": "신을 지운 자리: 포이어바흐의 인간학",
           "summary": "신을 부정한 것이 아니라, 신 안에서 인간 자신을 발견한 철학자의 급진적 전환",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "마르크스 (Karl Marx)"
+          ],
           "tags": [
             "투사와자기인식",
             "포이어바흐",
@@ -1764,6 +2326,10 @@
         {
           "title": "희생 없이 행복이 가능한가",
           "summary": "오래 살려는 집착이 오히려 진짜 삶을 망치고 있다면?",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)"
+          ],
           "tags": [
             "희생의철학",
             "바타유",
@@ -1773,6 +2339,10 @@
         {
           "title": "영원할 줄 알았던 세계가 흔들릴 때",
           "summary": "평화와 풍요가 당연하다는 믿음이 무너지면 우리는 어떻게 살아가는가",
+          "philosopher": "지그문트 바우만 (Zygmunt Bauman)",
+          "philosophers": [
+            "지그문트 바우만 (Zygmunt Bauman)"
+          ],
           "tags": [
             "액체근대",
             "바우만",
@@ -1782,6 +2352,10 @@
         {
           "title": "나는 정말 나를 알고 있을까",
           "summary": "왜 그랬는지 나도 모르는 순간들—마음은 늘 나보다 깊다",
+          "philosopher": "소크라테스 (Socrates)",
+          "philosophers": [
+            "소크라테스 (Socrates)"
+          ],
           "tags": [
             "자기인식",
             "마음의깊이",
@@ -1791,6 +2365,8 @@
         {
           "title": "미술관에서 그림을 밟아도 될까",
           "summary": "예술 작품 앞에서 우리가 느끼는 금기는 어디서 오는 걸까?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "촉각의금기",
             "예술제도",
@@ -1800,6 +2376,11 @@
         {
           "title": "집은 철학의 대상이 될 수 있는가",
           "summary": "가정이라는 공간을 단순한 사생활로 보는 시선, 과연 정당한가?",
+          "philosopher": "플라톤 (Plato)",
+          "philosophers": [
+            "플라톤 (Plato)",
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "가정철학",
             "오이코스",
@@ -1809,6 +2390,10 @@
         {
           "title": "왜 어떤 사람들은 산을 오르는가",
           "summary": "정상에 아무것도 없다는 걸 알면서도 오르는 사람들의 철학",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "숭고",
             "등반철학",
@@ -1818,6 +2403,10 @@
         {
           "title": "부모는 정말 아이를 위해 최선을 아는가",
           "summary": "전문가도 국가도 실패한 육아 실험, 그 안에서 드러나는 돌봄의 역설",
+          "philosopher": "루소 (Jean-Jacques Rousseau)",
+          "philosophers": [
+            "루소 (Jean-Jacques Rousseau)"
+          ],
           "tags": [
             "돌봄의불확실성",
             "위니콧",
@@ -1827,6 +2416,11 @@
         {
           "title": "옷을 소유하지 않는 여성들",
           "summary": "옷장을 비우는 사람들이 발견한 것, 소유와 자아의 오래된 등식이 흔들린다",
+          "philosopher": "에리히 프롬 (Erich Fromm)",
+          "philosophers": [
+            "에리히 프롬 (Erich Fromm)",
+            "짐멜 (Georg Simmel)"
+          ],
           "tags": [
             "소유와존재",
             "프롬",
@@ -1836,6 +2430,12 @@
         {
           "title": "표준화 시험은 왜 다시 돌아오는가",
           "summary": "공정함을 폐기했더니 더 불공정해진 역설, 측정의 윤리를 다시 묻다",
+          "philosopher": "플라톤 (Plato)",
+          "philosophers": [
+            "플라톤 (Plato)",
+            "이반 일리치 (Ivan Illich)",
+            "존 롤스 (John Rawls)"
+          ],
           "tags": [
             "측정의윤리",
             "정의론",
@@ -1897,6 +2497,10 @@
         {
           "title": "우울할 때 '나'는 어디에 있는가",
           "summary": "기분이 나를 지배할 때, 나라는 존재는 과연 얼마나 단단한가?",
+          "philosopher": "흄 (David Hume)",
+          "philosophers": [
+            "흄 (David Hume)"
+          ],
           "tags": [
             "우울증",
             "자아",
@@ -1906,6 +2510,10 @@
         {
           "title": "우리는 왜 국가에 복종하는가",
           "summary": "자유를 포기하고 안전을 선택하는 순간, 우리는 무엇에 동의하는 것인가?",
+          "philosopher": "홉스 (Thomas Hobbes)",
+          "philosophers": [
+            "홉스 (Thomas Hobbes)"
+          ],
           "tags": [
             "홉스",
             "사회계약",
@@ -1915,6 +2523,10 @@
         {
           "title": "저자가 죽으면 텍스트는 누구의 것인가",
           "summary": "작가의 의도가 정답이라는 믿음, 그것이 우리의 독서를 가로막고 있다",
+          "philosopher": "바르트 (Roland Barthes)",
+          "philosophers": [
+            "바르트 (Roland Barthes)"
+          ],
           "tags": [
             "저자의 죽음",
             "독서",
@@ -1924,6 +2536,11 @@
         {
           "title": "소셜미디어 연령 제한, 왜 효과가 없는가",
           "summary": "아이를 보호하려는 규제가 오히려 더 큰 위험을 만들어내는 역설",
+          "philosopher": "밀 (John Stuart Mill)",
+          "philosophers": [
+            "밀 (John Stuart Mill)",
+            "누스바움 (Martha Nussbaum)"
+          ],
           "tags": [
             "청소년 보호",
             "디지털 규제",
@@ -1933,6 +2550,8 @@
         {
           "title": "교차성: 흑인 여성의 차별은 왜 두 배가 아닌가",
           "summary": "킴벌레 크렌쇼가 발견한 것—억압은 단순히 더해지지 않는다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "교차성",
             "차별과 범주",
@@ -1942,6 +2561,8 @@
         {
           "title": "진실은 감당할 수 있는 것이다",
           "summary": "우리가 외면하는 것들—그것은 진실이 아프기 때문인가, 우리가 약하기 때문인가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "진실",
             "언어와 침묵",
@@ -1951,6 +2572,12 @@
         {
           "title": "영광은 원하고 진흙은 거부할 때",
           "summary": "보상만 원하고 대가는 피하려는 마음, 그 불만족의 뿌리는 어디인가",
+          "philosopher": "스피노자 (Baruch Spinoza)",
+          "philosophers": [
+            "스피노자 (Baruch Spinoza)",
+            "노자 (Laozi)",
+            "에픽테토스 (Epictetus)"
+          ],
           "tags": [
             "에픽테토스",
             "욕망과 대가",
@@ -1960,6 +2587,8 @@
         {
           "title": "깨어 있다는 환상",
           "summary": "의식이 흐릿해지는 것이 때로는 저항이 된다—각성과 도피 사이의 철학적 역설",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "자본주의 리얼리즘",
             "의식",
@@ -1969,6 +2598,10 @@
         {
           "title": "디지털 판옵티콘, 시선이 우리를 훈련시킨다",
           "summary": "감시받는다는 느낌만으로도 우리는 스스로 행동을 바꾼다—보이지 않는 권력은 어떻게 작동하는가",
+          "philosopher": "푸코 (Michel Foucault)",
+          "philosophers": [
+            "푸코 (Michel Foucault)"
+          ],
           "tags": [
             "판옵티콘",
             "감시",
@@ -1978,6 +2611,15 @@
         {
           "title": "결함 있는 위인을 어떻게 읽을 것인가",
           "summary": "존경하던 철학자가 나쁜 사람이었다면, 그의 사상도 버려야 하는가",
+          "philosopher": "하이데거 (Martin Heidegger)",
+          "philosophers": [
+            "하이데거 (Martin Heidegger)",
+            "아리스토텔레스 (Aristotle)",
+            "루소 (Jean-Jacques Rousseau)",
+            "칸트 (Immanuel Kant)",
+            "밀 (John Stuart Mill)",
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "지적 유산",
             "취소 문화",
@@ -1987,6 +2629,8 @@
         {
           "title": "슬픔은 왜 시간을 다르게 흐르게 하는가",
           "summary": "누군가를 잃은 뒤, 시간은 왜 우리 편이 되기도 하고 적이 되기도 하는가",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "슬픔",
             "시간",
@@ -1996,6 +2640,11 @@
         {
           "title": "자폐의 기쁨: 다른 세계의 철학",
           "summary": "자폐를 결함으로만 보는 시선, 그 너머에 있는 것은 무엇인가",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)",
+            "윌리엄 제임스 (William James)"
+          ],
           "tags": [
             "신경다양성",
             "정상성",
@@ -2005,6 +2654,10 @@
         {
           "title": "AI는 왜 가르치려 드는가",
           "summary": "대화할수록 설명이 쏟아지는 AI, 그 뒤에 숨은 철학적 함정은 무엇인가",
+          "philosopher": "소크라테스 (Socrates)",
+          "philosophers": [
+            "소크라테스 (Socrates)"
+          ],
           "tags": [
             "AI언어",
             "소크라테스",
@@ -2014,6 +2667,10 @@
         {
           "title": "혼자여도 괜찮다는 말의 철학",
           "summary": "반사회적이 될 권리, 그것은 특권인가 생존인가",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "고독",
             "사회성",
@@ -2023,6 +2680,10 @@
         {
           "title": "반바지는 왜 사무실에서 금지되는가",
           "summary": "패션 규칙 하나가 드러내는 권력과 몸의 오래된 정치학",
+          "philosopher": "부르디외 (Pierre Bourdieu)",
+          "philosophers": [
+            "부르디외 (Pierre Bourdieu)"
+          ],
           "tags": [
             "복장 규범",
             "상징 권력",
@@ -2084,6 +2745,10 @@
         {
           "title": "폭염은 왜 모두에게 같지 않은가",
           "summary": "같은 도시, 같은 여름 — 그런데 누군가는 죽고 누군가는 수영장에 있다",
+          "philosopher": "부르디외 (Pierre Bourdieu)",
+          "philosophers": [
+            "부르디외 (Pierre Bourdieu)"
+          ],
           "tags": [
             "기후 불평등",
             "공간과 계층",
@@ -2093,6 +2758,8 @@
         {
           "title": "우리는 무엇을 전달할 수 있는가",
           "summary": "말로 전할 수 없는 것들 — 그래도 우리는 왜 계속 전달하려 하는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "전달과 세대",
             "언어의 한계",
@@ -2102,6 +2769,10 @@
         {
           "title": "부모의 스마트폰이 아이를 지운다",
           "summary": "아이와 함께 있으면서도 함께 없는 부모—화면이 만드는 보이지 않는 단절",
+          "philosopher": "시몬 베유 (Simone Weil)",
+          "philosophers": [
+            "시몬 베유 (Simone Weil)"
+          ],
           "tags": [
             "테크노퍼런스",
             "주의의 윤리",
@@ -2111,6 +2782,15 @@
         {
           "title": "서구는 다시 지방이 되는가",
           "summary": "인도 역사학자가 던진 선언, 보편이라 믿었던 것이 사실은 지역적이었다면",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "칸트 (Immanuel Kant)",
+            "마르크스 (Karl Marx)",
+            "하이데거 (Martin Heidegger)",
+            "하버마스 (Jurgen Habermas)",
+            "막스 베버 (Max Weber)"
+          ],
           "tags": [
             "탈식민주의",
             "보편성",
@@ -2120,6 +2800,10 @@
         {
           "title": "남자다움은 언제 독이 되는가",
           "summary": "젊은 남성들에게 쏟아지는 성과 압박, 그 안에 숨겨진 구조를 철학은 어떻게 보는가",
+          "philosopher": "주디스 버틀러 (Judith Butler)",
+          "philosophers": [
+            "주디스 버틀러 (Judith Butler)"
+          ],
           "tags": [
             "남성성",
             "젠더 규범",
@@ -2129,6 +2813,11 @@
         {
           "title": "지금 이 순간은 누구의 것인가",
           "summary": "시간에 쫓기는 현대인이 정작 '지금'을 살지 못하는 역설",
+          "philosopher": "아우구스티누스 (Augustine)",
+          "philosophers": [
+            "아우구스티누스 (Augustine)",
+            "하이데거 (Martin Heidegger)"
+          ],
           "tags": [
             "현재",
             "시간의 철학",
@@ -2138,6 +2827,10 @@
         {
           "title": "수학 모른다는 게 왜 자랑이 됐는가",
           "summary": "문과 감성은 멋지고 이과 지식은 어렵다는 통념, 그 뒤에 숨은 것은 무엇인가",
+          "philosopher": "플라톤 (Plato)",
+          "philosophers": [
+            "플라톤 (Plato)"
+          ],
           "tags": [
             "과학적 문맹",
             "반지성주의",
@@ -2147,6 +2840,10 @@
         {
           "title": "사회는 어떻게 전쟁을 위해 마음을 준비시키는가",
           "summary": "군비증강의 시대, 무기보다 먼저 동원되는 것은 우리의 생각이다",
+          "philosopher": "푸코 (Michel Foucault)",
+          "philosophers": [
+            "푸코 (Michel Foucault)"
+          ],
           "tags": [
             "군사화",
             "헤게모니",
@@ -2156,6 +2853,11 @@
         {
           "title": "브렉시트 10년, 주권이라는 환상",
           "summary": "더 자유로워지려 했던 선택이 왜 더 큰 무력감을 낳았는가?",
+          "philosopher": "루소 (Jean-Jacques Rousseau)",
+          "philosophers": [
+            "루소 (Jean-Jacques Rousseau)",
+            "장자 (Zhuangzi)"
+          ],
           "tags": [
             "브렉시트",
             "자기결정",
@@ -2165,6 +2867,10 @@
         {
           "title": "우리는 왜 규칙을 어기고 싶어 하는가",
           "summary": "커닝, 도핑, 연인 사이의 배신—속임수는 왜 이렇게 흔한가?",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "속임수",
             "게임 규칙",
@@ -2174,6 +2880,11 @@
         {
           "title": "불을 다스리는 사람들",
           "summary": "병원 옆에 비밀 치유사가 있다—현대 의학이 채우지 못한 빈자리",
+          "philosopher": "가다머 (Gadamer)",
+          "philosophers": [
+            "가다머 (Gadamer)",
+            "루만 (Niklas Luhmann)"
+          ],
           "tags": [
             "민간 치유",
             "몸과 의미",
@@ -2183,6 +2894,11 @@
         {
           "title": "폭력은 왜 하나의 직업이 되는가",
           "summary": "군인도 갱단원도 같은 노동시장에 속한다면, 폭력의 윤리는 어디서 갈리는가",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)",
+            "막스 베버 (Max Weber)"
+          ],
           "tags": [
             "폭력의 노동화",
             "국가 정당성",
@@ -2192,6 +2908,10 @@
         {
           "title": "최고의 리더는 왜 보이지 않는가",
           "summary": "존재감이 없는 상사가 가장 탁월한 리더일 수 있다는 역설",
+          "philosopher": "노자 (Laozi)",
+          "philosophers": [
+            "노자 (Laozi)"
+          ],
           "tags": [
             "리더십",
             "노자",
@@ -2201,6 +2921,11 @@
         {
           "title": "좌파와 우파는 어디서 왔는가",
           "summary": "정치를 가르는 좌우 언어, 그것은 1789년 프랑스 의회의 자리 배치에서 시작됐다",
+          "philosopher": "바르트 (Roland Barthes)",
+          "philosophers": [
+            "바르트 (Roland Barthes)",
+            "비트겐슈타인 (Ludwig Wittgenstein)"
+          ],
           "tags": [
             "정치언어",
             "이데올로기",
@@ -2210,6 +2935,10 @@
         {
           "title": "우리는 왜 자신에게만 나쁜 조언을 하는가",
           "summary": "남의 고민엔 명쾌한 답을 내리면서 정작 내 문제 앞에선 왜 무너지는가",
+          "philosopher": "에픽테토스 (Epictetus)",
+          "philosophers": [
+            "에픽테토스 (Epictetus)"
+          ],
           "tags": [
             "자기인식",
             "판단편향",
@@ -2271,6 +3000,8 @@
         {
           "title": "어리석음에도 법칙이 있다",
           "summary": "나쁜 의도 없이도 세상을 망치는 사람들—멍청함은 생각보다 훨씬 위험하다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "어리석음",
             "치폴라",
@@ -2280,6 +3011,11 @@
         {
           "title": "우리는 왜 유아기를 기억하지 못하는가",
           "summary": "존재했지만 기억에 없는 시간—그 공백은 '나'에 대해 무엇을 말하는가",
+          "philosopher": "존 로크 (John Locke)",
+          "philosophers": [
+            "존 로크 (John Locke)",
+            "리쾨르 (Paul Ricoeur)"
+          ],
           "tags": [
             "기억",
             "정체성",
@@ -2289,6 +3025,10 @@
         {
           "title": "기업 내부 조사라는 이름의 정의",
           "summary": "회사가 스스로 조사하고 스스로 판결한다—그 결과를 우리는 믿을 수 있는가?",
+          "philosopher": "리쾨르 (Paul Ricoeur)",
+          "philosophers": [
+            "리쾨르 (Paul Ricoeur)"
+          ],
           "tags": [
             "내부조사",
             "정의",
@@ -2298,6 +3038,8 @@
         {
           "title": "AI 친구와 4일을 보내면 무슨 일이 일어나는가",
           "summary": "앱 하나로 생긴 '친구'—그 관계는 우리에게 무엇을 말해주는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "AI 관계",
             "친밀감",
@@ -2307,6 +3049,10 @@
         {
           "title": "소의 뼈를 가르는 칼—집중이란 무엇인가",
           "summary": "완전한 몰입의 순간, 우리는 어디에 있는가?",
+          "philosopher": "장자 (Zhuangzi)",
+          "philosophers": [
+            "장자 (Zhuangzi)"
+          ],
           "tags": [
             "집중",
             "무위",
@@ -2316,6 +3062,10 @@
         {
           "title": "우리는 어떻게 죽을 것인가",
           "summary": "죽음을 연구한 사람이 말하는, 잘 죽는다는 것의 의미",
+          "philosopher": "하이데거 (Martin Heidegger)",
+          "philosophers": [
+            "하이데거 (Martin Heidegger)"
+          ],
           "tags": [
             "죽음",
             "존엄",
@@ -2325,6 +3075,10 @@
         {
           "title": "끝나지 않는 이야기의 철학",
           "summary": "스트리밍 시대, 우리는 왜 모든 것이 계속되기를 원하는가?",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)"
+          ],
           "tags": [
             "완결 거부",
             "스트리밍 소비",
@@ -2334,6 +3088,10 @@
         {
           "title": "자본주의 이후, 더 나쁜 무언가",
           "summary": "우리가 사는 체제가 자본주의가 아니라면, 그것은 무엇인가?",
+          "philosopher": "마르크스 (Karl Marx)",
+          "philosophers": [
+            "마르크스 (Karl Marx)"
+          ],
           "tags": [
             "플랫폼 경제",
             "데이터 착취",
@@ -2343,6 +3101,11 @@
         {
           "title": "동물도 행복할 권리가 있는가",
           "summary": "고통 없음이 곧 행복인가—동물 복지가 던지는 불편한 철학적 질문",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)",
+            "피터 싱어 (Peter Singer)"
+          ],
           "tags": [
             "동물 복지",
             "에우다이모니아",
@@ -2352,6 +3115,10 @@
         {
           "title": "우리는 정말 자유롭게 행동하는가",
           "summary": "몸에 새겨진 사회의 규칙—우리가 선택이라 믿는 것의 정체",
+          "philosopher": "부르디외 (Pierre Bourdieu)",
+          "philosophers": [
+            "부르디외 (Pierre Bourdieu)"
+          ],
           "tags": [
             "부르디외",
             "아비투스",
@@ -2361,6 +3128,8 @@
         {
           "title": "왜 우리는 죽은 이에게 말을 거는가",
           "summary": "아무도 듣지 않는 곳을 향해 말할 때, 우리는 무엇과 연결되는가",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "애도",
             "조상",
@@ -2370,6 +3139,10 @@
         {
           "title": "선택의 고통: 자유는 왜 무거운가",
           "summary": "전쟁의 폐허 위에서 사르트르가 던진 질문—자유는 선물인가, 형벌인가?",
+          "philosopher": "사르트르 (Jean-Paul Sartre)",
+          "philosophers": [
+            "사르트르 (Jean-Paul Sartre)"
+          ],
           "tags": [
             "실존주의",
             "선택의 불안",
@@ -2379,6 +3152,11 @@
         {
           "title": "천재 신화가 지우는 사람들",
           "summary": "학위도 명함도 없는 곳에서 철학이 살아 숨쉰다면, 우리는 지식을 어디서 찾아야 하는가?",
+          "philosopher": "플라톤 (Plato)",
+          "philosophers": [
+            "플라톤 (Plato)",
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "천재 신화",
             "지식의 위계",
@@ -2388,6 +3166,11 @@
         {
           "title": "사랑을 안다고 말할 수 있는가",
           "summary": "사랑한다는 확신이 흔들릴 때, 그 흔들림은 배신인가 진실인가?",
+          "philosopher": "누스바움 (Martha Nussbaum)",
+          "philosophers": [
+            "누스바움 (Martha Nussbaum)",
+            "플라톤 (Plato)"
+          ],
           "tags": [
             "사랑의 인식론",
             "취약성",
@@ -2397,6 +3180,11 @@
         {
           "title": "전문가를 맹신할 때 우리는 무엇을 잃는가",
           "summary": "자신 있는 목소리가 틀렸을 때, 우리는 왜 그것을 미리 알아채지 못했는가?",
+          "philosopher": "소크라테스 (Socrates)",
+          "philosophers": [
+            "소크라테스 (Socrates)",
+            "이사야 벌린 (Isaiah Berlin)"
+          ],
           "tags": [
             "전문가 신화",
             "확신의 위험",
@@ -2414,6 +3202,9 @@
         "반려동물복제",
         "애도",
         "정체성",
+        "상호부조",
+        "경쟁과 협력",
+        "진화",
         "고독",
         "고립",
         "자기 인식",
@@ -2429,6 +3220,9 @@
         "반대의견",
         "사유의 조건",
         "한나 아렌트",
+        "소유와 접속",
+        "발터 벤야민",
+        "물질과 기억",
         "민주주의",
         "추첨제",
         "대의정치",
@@ -2443,18 +3237,14 @@
         "연성 매혹",
         "주의와 회복",
         "복수",
-        "르상티망",
-        "상호부조",
-        "경쟁과 협력",
-        "진화",
-        "소유와 접속",
-        "발터 벤야민",
-        "물질과 기억"
+        "르상티망"
       ],
       "articles": [
         {
           "title": "이기심은 도덕적 의무인가",
           "summary": "타인을 위한 희생이 미덕이라는 믿음, 철학은 정반대를 말한다면?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "윤리적 이기주의",
             "이타주의",
@@ -2464,6 +3254,11 @@
         {
           "title": "죽은 반려동물을 복제하는 사람들",
           "summary": "사랑하는 존재를 잃지 않으려는 마음, 그것은 애도인가 부정인가?",
+          "philosopher": "베르그송 (Henri Bergson)",
+          "philosophers": [
+            "베르그송 (Henri Bergson)",
+            "토머스 네이글 (Thomas Nagel)"
+          ],
           "tags": [
             "반려동물복제",
             "애도",
@@ -2471,8 +3266,26 @@
           ]
         },
         {
+          "title": "약육강식은 정말 자연의 법칙인가",
+          "summary": "경쟁만이 살아남는다는 믿음, 그러나 진화를 이끈 것은 서로 돕는 종이었다",
+          "philosopher": "",
+          "philosophers": [],
+          "tags": [
+            "상호부조",
+            "경쟁과 협력",
+            "진화"
+          ]
+        },
+        {
           "title": "우리는 왜 혼자 있는 것을 두려워하는가",
           "summary": "혼자 있는 시간이 찾아오는 순간 핸드폰을 집어 드는 우리—그 불안의 정체는 무엇인가",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)",
+            "스피노자 (Baruch Spinoza)",
+            "쇼펜하우어 (Schopenhauer)",
+            "노자 (Laozi)"
+          ],
           "tags": [
             "고독",
             "고립",
@@ -2482,6 +3295,10 @@
         {
           "title": "소크라테스처럼 산다는 것의 의미",
           "summary": "검토되지 않은 삶은 살 가치가 없다—그 오래된 명령 앞에서 우리는 어떻게 서야 하는가",
+          "philosopher": "소크라테스 (Socrates)",
+          "philosophers": [
+            "소크라테스 (Socrates)"
+          ],
           "tags": [
             "소크라테스",
             "검토된 삶",
@@ -2491,6 +3308,10 @@
         {
           "title": "촉각이 사라진 세계에서 우리는 무엇을 잃는가",
           "summary": "손길 한 번이 말보다 깊이 닿는다—터치의 철학을 묻다",
+          "philosopher": "메를로퐁티 (Maurice Merleau-Ponty)",
+          "philosophers": [
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "촉각",
             "신체현상학",
@@ -2500,6 +3321,11 @@
         {
           "title": "우정은 왜 가족보다 더 진실할 수 있는가",
           "summary": "혈연이 아닌 선택으로 맺어진 관계가 때로 더 깊은 공동체를 만든다",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)",
+            "푸코 (Michel Foucault)"
+          ],
           "tags": [
             "우정",
             "공동체",
@@ -2509,6 +3335,10 @@
         {
           "title": "반대 의견 없이 사유는 가능한가",
           "summary": "의견 충돌을 피하는 순간, 우리는 이미 생각을 멈춘 것이다",
+          "philosopher": "한나 아렌트 (Hannah Arendt)",
+          "philosophers": [
+            "한나 아렌트 (Hannah Arendt)"
+          ],
           "tags": [
             "반대의견",
             "사유의 조건",
@@ -2516,8 +3346,23 @@
           ]
         },
         {
+          "title": "우리는 더 이상 아무것도 소유하지 않는다",
+          "summary": "DVD도 CD도 사라진 시대, 접속의 편리함과 맞바꾼 것은 기억이었다",
+          "philosopher": "발터 벤야민 (Walter Benjamin)",
+          "philosophers": [
+            "발터 벤야민 (Walter Benjamin)"
+          ],
+          "tags": [
+            "소유와 접속",
+            "발터 벤야민",
+            "물질과 기억"
+          ]
+        },
+        {
           "title": "추첨으로 의원을 뽑으면 어떨까",
           "summary": "선거가 민주주의를 망친다면, 제비뽑기가 더 공정할 수 있다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "민주주의",
             "추첨제",
@@ -2527,6 +3372,10 @@
         {
           "title": "살아있는데 이미 죽어버린 사람들",
           "summary": "우크라이나 전쟁 미망인들이 말하는 사랑의 치명적 진실",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "애도",
             "사랑과 상실",
@@ -2536,6 +3385,11 @@
         {
           "title": "자유주의는 왜 공허하게 느껴지는가",
           "summary": "모두에게 중립적이려는 사상이 정작 아무것도 말하지 못할 때",
+          "philosopher": "마이클 샌델 (Michael Sandel)",
+          "philosophers": [
+            "마이클 샌델 (Michael Sandel)",
+            "매킨타이어 (Alasdair MacIntyre)"
+          ],
           "tags": [
             "자유주의",
             "공동체",
@@ -2545,6 +3399,10 @@
         {
           "title": "밴 라이프, 자유인가 추방인가",
           "summary": "집을 버리고 떠난 사람들이 발견한 것은 자유가 아니라 또 다른 경계였다",
+          "philosopher": "바슐라르 (Gaston Bachelard)",
+          "philosophers": [
+            "바슐라르 (Gaston Bachelard)"
+          ],
           "tags": [
             "공간의 시학",
             "귀속감",
@@ -2554,6 +3412,10 @@
         {
           "title": "자연은 왜 생각을 멈추게 하는가",
           "summary": "폭포 앞에서 멍해지는 그 순간, 뇌는 오히려 가장 활발하게 일하고 있다",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "숭고",
             "연성 매혹",
@@ -2563,28 +3425,14 @@
         {
           "title": "복수는 왜 달콤하고 왜 파괴적인가",
           "summary": "복수를 상상할 때 느끼는 쾌감, 그것은 정의인가 독인가?",
+          "philosopher": "니체 (Friedrich Nietzsche)",
+          "philosophers": [
+            "니체 (Friedrich Nietzsche)"
+          ],
           "tags": [
             "복수",
             "고독",
             "르상티망"
-          ]
-        },
-        {
-          "title": "약육강식은 정말 자연의 법칙인가",
-          "summary": "경쟁만이 살아남는다는 믿음, 그러나 진화를 이끈 것은 서로 돕는 종이었다",
-          "tags": [
-            "상호부조",
-            "경쟁과 협력",
-            "진화"
-          ]
-        },
-        {
-          "title": "우리는 더 이상 아무것도 소유하지 않는다",
-          "summary": "DVD도 CD도 사라진 시대, 접속의 편리함과 맞바꾼 것은 기억이었다",
-          "tags": [
-            "소유와 접속",
-            "발터 벤야민",
-            "물질과 기억"
           ]
         }
       ]
@@ -2642,6 +3490,10 @@
         {
           "title": "먹을 것을 준다는 것의 정치학",
           "summary": "밥 한 끼를 나누는 행위 안에 숨겨진 권력과 윤리의 문제",
+          "philosopher": "레비나스 (Emmanuel Levinas)",
+          "philosophers": [
+            "레비나스 (Emmanuel Levinas)"
+          ],
           "tags": [
             "증여",
             "음식권리",
@@ -2651,6 +3503,10 @@
         {
           "title": "핀란드 행복의 비밀, '시수'란 무엇인가",
           "summary": "세계 최고 행복 국가의 비결은 즐거움이 아니라 고통을 견디는 철학이었다",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)"
+          ],
           "tags": [
             "행복",
             "시수",
@@ -2660,6 +3516,10 @@
         {
           "title": "바다 앞에서 나는 왜 작아지는가",
           "summary": "파도 소리에 압도되는 그 순간, 철학은 그것을 '황홀한 소멸'이라 부른다",
+          "philosopher": "프로이트 (Sigmund Freud)",
+          "philosophers": [
+            "프로이트 (Sigmund Freud)"
+          ],
           "tags": [
             "대양적 감정",
             "자아의 경계",
@@ -2669,6 +3529,11 @@
         {
           "title": "철학자가 AI 시대의 스타가 된 이유",
           "summary": "코딩보다 철학이 더 필요한 시대, 그 역설은 어디서 오는가?",
+          "philosopher": "공자 (Confucius)",
+          "philosophers": [
+            "공자 (Confucius)",
+            "비트겐슈타인 (Ludwig Wittgenstein)"
+          ],
           "tags": [
             "인공지능",
             "철학의 쓸모",
@@ -2678,6 +3543,10 @@
         {
           "title": "춤추러 간다: 두 세계에서 사는 법",
           "summary": "재난은 계속되는데 우리는 왜 쇼핑하고 춤추러 가는가?",
+          "philosopher": "카뮈 (Albert Camus)",
+          "philosophers": [
+            "카뮈 (Albert Camus)"
+          ],
           "tags": [
             "부조리",
             "복합위기",
@@ -2687,6 +3556,11 @@
         {
           "title": "자동차라는 자유, 그 이면의 철학",
           "summary": "자동차는 이동 수단인가, 아니면 자유의 상징인가?",
+          "philosopher": "바르트 (Roland Barthes)",
+          "philosophers": [
+            "바르트 (Roland Barthes)",
+            "르페브르 (Henri Lefebvre)"
+          ],
           "tags": [
             "자동차",
             "자유의 신화",
@@ -2696,6 +3570,12 @@
         {
           "title": "정치는 왜 몸에서 시작되어야 하는가",
           "summary": "추상적 원칙이 아닌 살아있는 경험에서 출발하는 정치철학의 귀환",
+          "philosopher": "후설 (Edmund Husserl)",
+          "philosophers": [
+            "후설 (Edmund Husserl)",
+            "하이데거 (Martin Heidegger)",
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "정치 현상학",
             "몸의 경험",
@@ -2705,6 +3585,13 @@
         {
           "title": "배달 노동자가 드러내는 것",
           "summary": "도시의 가장자리를 달리는 사람들이 보여주는 자본주의의 진짜 지도",
+          "philosopher": "마르크스 (Karl Marx)",
+          "philosophers": [
+            "마르크스 (Karl Marx)",
+            "기 드보르 (Guy Debord)",
+            "셰리 터클 (Sherry Turkle)",
+            "장자 (Zhuangzi)"
+          ],
           "tags": [
             "플랫폼 노동",
             "긱 이코노미",
@@ -2714,6 +3601,10 @@
         {
           "title": "기계도 강물이 필요하다",
           "summary": "냉각수가 부족해진 원전, 디지털 문명의 물질적 토대가 흔들린다",
+          "philosopher": "마르크스 (Karl Marx)",
+          "philosophers": [
+            "마르크스 (Karl Marx)"
+          ],
           "tags": [
             "기후",
             "기술",
@@ -2723,6 +3614,10 @@
         {
           "title": "우리는 왜 술을 마시는가",
           "summary": "알코올은 단순한 기호품이 아니라, 수천 년 된 사회적 기술이다",
+          "philosopher": "뒤르켐 (Emile Durkheim)",
+          "philosophers": [
+            "뒤르켐 (Emile Durkheim)"
+          ],
           "tags": [
             "음주",
             "사회적 유대",
@@ -2732,6 +3627,10 @@
         {
           "title": "언어가 세계를 다르게 만든다",
           "summary": "다른 언어를 배우는 순간, 우리는 정말 다른 방식으로 세계를 보게 되는가",
+          "philosopher": "비트겐슈타인 (Ludwig Wittgenstein)",
+          "philosophers": [
+            "비트겐슈타인 (Ludwig Wittgenstein)"
+          ],
           "tags": [
             "언어와 사고",
             "인지언어학",
@@ -2741,6 +3640,10 @@
         {
           "title": "플루타르코스의 온라인 처세술",
           "summary": "2천 년 전 도덕 철학자가 소셜미디어 피로를 먼저 꿰뚫었다면?",
+          "philosopher": "로티 (Richard Rorty)",
+          "philosophers": [
+            "로티 (Richard Rorty)"
+          ],
           "tags": [
             "소셜미디어",
             "플루타르코스",
@@ -2750,6 +3653,13 @@
         {
           "title": "카페는 어떻게 역사를 만드는가",
           "summary": "커피 한 잔 앞에서 싹튼 것들—모더니즘과 혁명, 그 갈림길의 철학",
+          "philosopher": "프로이트 (Sigmund Freud)",
+          "philosophers": [
+            "프로이트 (Sigmund Freud)",
+            "사르트르 (Jean-Paul Sartre)",
+            "카뮈 (Albert Camus)",
+            "하버마스 (Jurgen Habermas)"
+          ],
           "tags": [
             "공론장",
             "카페문화",
@@ -2759,6 +3669,10 @@
         {
           "title": "우리가 먹는 방식이 세계를 바꾼다",
           "summary": "밥상 위의 선택이 지구 반대편 농경지를 어떻게 뒤흔드는가",
+          "philosopher": "피터 싱어 (Peter Singer)",
+          "philosophers": [
+            "피터 싱어 (Peter Singer)"
+          ],
           "tags": [
             "식탁의 윤리",
             "농업",
@@ -2768,6 +3682,8 @@
         {
           "title": "에어컨을 둘러싼 유럽의 철학 전쟁",
           "summary": "더위를 참는 것이 미덕이던 사회에서, 냉방은 왜 도덕적 논쟁이 됐는가",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "폭염",
             "기후윤리",
@@ -2829,6 +3745,10 @@
         {
           "title": "요리는 어떻게 시가 되는가",
           "summary": "세계 최고의 셰프가 말하는 스며듦—맛은 감각인가, 철학인가",
+          "philosopher": "메를로퐁티 (Maurice Merleau-Ponty)",
+          "philosophers": [
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "요리 철학",
             "감각과 몸",
@@ -2838,6 +3758,10 @@
         {
           "title": "차 한 잔의 의식이 이주한다는 것",
           "summary": "중국 차 문화가 퀘벡에 뿌리내릴 때, 전통은 무엇을 잃고 무엇을 얻는가?",
+          "philosopher": "리쾨르 (Paul Ricoeur)",
+          "philosophers": [
+            "리쾨르 (Paul Ricoeur)"
+          ],
           "tags": [
             "이주",
             "문화이식",
@@ -2847,6 +3771,8 @@
         {
           "title": "성능이 아니라 견고함: 생명에서 배우는 사회",
           "summary": "더 빠르고 더 효율적이어야 한다는 압박, 생물학자는 그것이 틀렸다고 말한다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "견고함",
             "성능주의",
@@ -2856,6 +3782,10 @@
         {
           "title": "우리가 '통한다'고 느끼는 순간",
           "summary": "처음 만났는데 왜 어떤 사람과는 말이 통하고 어떤 사람과는 어긋나는가?",
+          "philosopher": "메를로퐁티 (Maurice Merleau-Ponty)",
+          "philosophers": [
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "공명",
             "몸",
@@ -2865,6 +3795,8 @@
         {
           "title": "세대 전쟁이라는 편리한 착각",
           "summary": "부머 대 MZ, 세대 갈등의 언어는 진짜 문제를 어떻게 가리는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "세대갈등",
             "계급",
@@ -2874,6 +3806,11 @@
         {
           "title": "도시의 야생: 균열 속에 사는 것들",
           "summary": "콘크리트 틈새에서 살아남는 생명들이 도시와 자연에 대해 묻는 것",
+          "philosopher": "발터 벤야민 (Walter Benjamin)",
+          "philosophers": [
+            "발터 벤야민 (Walter Benjamin)",
+            "셰리 터클 (Sherry Turkle)"
+          ],
           "tags": [
             "도시생태",
             "지각",
@@ -2883,6 +3820,10 @@
         {
           "title": "습도가 우리를 망친다",
           "summary": "폭염 속에서 우리가 진짜 두려워하는 것은 더위가 아니라 몸의 통제 불능이다",
+          "philosopher": "메를로퐁티 (Maurice Merleau-Ponty)",
+          "philosophers": [
+            "메를로퐁티 (Maurice Merleau-Ponty)"
+          ],
           "tags": [
             "몸의 철학",
             "기후와 감각",
@@ -2892,6 +3833,11 @@
         {
           "title": "놀이는 왜 철학의 문제인가",
           "summary": "동물도 인간도 논다—그렇다면 놀이는 삶에서 무엇을 하는가?",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "philosophers": [
+            "아리스토텔레스 (Aristotle)",
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "놀이",
             "호모 루덴스",
@@ -2901,6 +3847,10 @@
         {
           "title": "내면의 평화라는 환상",
           "summary": "불안이 사라지길 바라는 우리에게, 키르케고르는 왜 불안이 살아있다는 증거라고 말하는가",
+          "philosopher": "키르케고르 (Kierkegaard)",
+          "philosophers": [
+            "키르케고르 (Kierkegaard)"
+          ],
           "tags": [
             "불안",
             "키르케고르",
@@ -2910,6 +3860,10 @@
         {
           "title": "비를 만드는 사람들",
           "summary": "인공강우는 과학인가, 의식인가—날씨를 통제하려는 인간의 오랜 욕망이 말해주는 것",
+          "philosopher": "라투르 (Bruno Latour)",
+          "philosophers": [
+            "라투르 (Bruno Latour)"
+          ],
           "tags": [
             "인공강우",
             "자연통제",
@@ -2919,6 +3873,11 @@
         {
           "title": "모욕당했을 때, 왜 화를 내지 않아도 되는가",
           "summary": "2천 년 전 철학자가 말했다—모욕은 상대의 것, 수치는 내 것이 아니다",
+          "philosopher": "에픽테토스 (Epictetus)",
+          "philosophers": [
+            "에픽테토스 (Epictetus)",
+            "순자 (Xunzi)"
+          ],
           "tags": [
             "모욕",
             "수치",
@@ -2928,6 +3887,8 @@
         {
           "title": "집어삼켜서 새로 태어나다",
           "summary": "식인 공포를 예술로 뒤집은 브라질 철학, 약자가 강자를 삼킬 때 무슨 일이 일어나는가",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "식인주의",
             "문화적 저항",
@@ -2937,6 +3898,10 @@
         {
           "title": "함께 넘어질 때 우리는 하나가 된다",
           "summary": "어설픈 스텝이 만들어낸 연대감—몸이 먼저 아는 공동체의 감각",
+          "philosopher": "뒤르켐 (Emile Durkheim)",
+          "philosophers": [
+            "뒤르켐 (Emile Durkheim)"
+          ],
           "tags": [
             "집합적 열광",
             "몸의 공동체",
@@ -2946,6 +3911,8 @@
         {
           "title": "향수는 왜 위험한 감정이 되는가",
           "summary": "'그때가 좋았지'라는 말, 그것이 현재를 망치고 사회를 흔드는 방식",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "향수",
             "기억의 정치",
@@ -2955,6 +3922,8 @@
         {
           "title": "잠은 왜 삶의 의미와 닿아 있는가",
           "summary": "수면 부족을 자랑하는 시대, 잠을 거부하는 것은 삶을 거부하는 것인가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "수면",
             "페르난도 페소아",
@@ -3016,6 +3985,12 @@
         {
           "title": "내 얼굴을 AI에게 빌려준다면",
           "summary": "중국에서 시작된 '얼굴 대여' 비즈니스가 묻는 정체성의 경계",
+          "philosopher": "존 로크 (John Locke)",
+          "philosophers": [
+            "존 로크 (John Locke)",
+            "레비나스 (Emmanuel Levinas)",
+            "리쾨르 (Paul Ricoeur)"
+          ],
           "tags": [
             "얼굴과 정체성",
             "AI와 신체",
@@ -3025,6 +4000,11 @@
         {
           "title": "기술을 넘어설 때 비로소 예술이 된다",
           "summary": "완벽한 기교를 버린 순간, 소프라노는 왜 더 깊이 울렸는가?",
+          "philosopher": "나가르주나 (Nagarjuna)",
+          "philosophers": [
+            "나가르주나 (Nagarjuna)",
+            "장자 (Zhuangzi)"
+          ],
           "tags": [
             "기술과 예술",
             "자의식",
@@ -3034,6 +4014,8 @@
         {
           "title": "우리는 모두 무대 위에 있다",
           "summary": "사회생활 속 '연기'는 위선인가, 아니면 인간 존재의 본질인가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "사회적 자아",
             "인상 관리",
@@ -3043,6 +4025,10 @@
         {
           "title": "이야기가 트라우마를 치유한다",
           "summary": "말로 꺼낸 고통은 왜 침묵 속의 고통과 다른가",
+          "philosopher": "리쾨르 (Paul Ricoeur)",
+          "philosophers": [
+            "리쾨르 (Paul Ricoeur)"
+          ],
           "tags": [
             "트라우마",
             "서사",
@@ -3052,6 +4038,11 @@
         {
           "title": "퀴어로 늙는다는 것",
           "summary": "노년의 퀴어들이 요양원 앞에서 다시 느끼는 두려움—그것은 무엇을 말해주는가?",
+          "philosopher": "보부아르 (Simone de Beauvoir)",
+          "philosophers": [
+            "보부아르 (Simone de Beauvoir)",
+            "주디스 버틀러 (Judith Butler)"
+          ],
           "tags": [
             "퀴어 노년",
             "돌봄과 정체성",
@@ -3061,6 +4052,11 @@
         {
           "title": "나르시시즘의 뒤면—인정 굶주림의 정체",
           "summary": "자기애가 넘치는 사람의 내면에는 사실 텅 빈 자아가 있다",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "하르트무트 로자 (Hartmut Rosa)"
+          ],
           "tags": [
             "나르시시즘",
             "인정욕구",
@@ -3070,6 +4066,8 @@
         {
           "title": "성스럽거나 희생 가능하거나",
           "summary": "같은 땅을 두고 어떤 이는 성지라 하고 어떤 이는 자원이라 부른다—이 분열은 무엇을 드러내는가?",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "에너지전환",
             "장소의 성스러움",
@@ -3079,6 +4077,12 @@
         {
           "title": "일의 의미는 높이에서 보인다",
           "summary": "크레인 기사의 눈으로 본 세계—노동은 왜 우리를 작게도 크게도 만드는가",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)",
+            "마르크스 (Karl Marx)",
+            "시몬 베유 (Simone Weil)"
+          ],
           "tags": [
             "노동의의미",
             "소외와존엄",
@@ -3088,6 +4092,10 @@
         {
           "title": "기억은 왜 나에게 유리하게 왜곡되는가",
           "summary": "싸움 후 두 사람이 기억하는 사건이 완전히 다를 때, 누가 거짓말하는 걸까?",
+          "philosopher": "리쾨르 (Paul Ricoeur)",
+          "philosophers": [
+            "리쾨르 (Paul Ricoeur)"
+          ],
           "tags": [
             "기억의 왜곡",
             "라쇼몽 효과",
@@ -3097,6 +4105,11 @@
         {
           "title": "좋은 생각은 왜 샤워 중에 떠오르는가",
           "summary": "아무것도 안 하는 순간, 뇌는 왜 가장 창의적이 되는가?",
+          "philosopher": "바슐라르 (Gaston Bachelard)",
+          "philosophers": [
+            "바슐라르 (Gaston Bachelard)",
+            "윌리엄 제임스 (William James)"
+          ],
           "tags": [
             "창의성",
             "몽상",
@@ -3106,6 +4119,10 @@
         {
           "title": "예술이 인간을 만들었다",
           "summary": "동굴 벽화를 그린 순간, 인간은 비로소 자신이 누구인지 알기 시작했다",
+          "philosopher": "헤겔 (Hegel)",
+          "philosophers": [
+            "헤겔 (Hegel)"
+          ],
           "tags": [
             "예술의 기원",
             "인간의식",
@@ -3115,6 +4132,10 @@
         {
           "title": "결혼식은 무엇을 위한 축제인가",
           "summary": "두 사람의 사랑인가, 사회가 요구하는 의식인가—결혼식의 철학적 민낯",
+          "philosopher": "뒤르켐 (Emile Durkheim)",
+          "philosophers": [
+            "뒤르켐 (Emile Durkheim)"
+          ],
           "tags": [
             "결혼 의례",
             "통과의례",
@@ -3124,6 +4145,8 @@
         {
           "title": "모든 것은 연결되어 있다는 감각",
           "summary": "스타인벡이 멕시코 만에서 발견한 것—세계를 패턴으로 보는 눈은 어떻게 열리는가",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "생태적 사유",
             "연결의 감각",
@@ -3133,6 +4156,8 @@
         {
           "title": "우리는 왜 진짜 대화 대신 게임을 하는가",
           "summary": "친밀함이 두려울 때, 인간은 관계 대신 역할극을 선택한다",
+          "philosopher": "",
+          "philosophers": [],
           "tags": [
             "관계",
             "친밀함",
@@ -3142,6 +4167,10 @@
         {
           "title": "세계와 나 사이의 0.1초",
           "summary": "우리가 '지금'이라고 느끼는 순간은 이미 100밀리초 전의 과거다",
+          "philosopher": "칸트 (Immanuel Kant)",
+          "philosophers": [
+            "칸트 (Immanuel Kant)"
+          ],
           "tags": [
             "지각",
             "신경과학",
