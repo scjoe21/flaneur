@@ -1,40 +1,8 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-07T19:36:54.289088+00:00",
+  "fetchedAt": "2026-08-08T16:56:52.060327+00:00",
   "items": [
-    {
-      "title": "The Continuous Creative Act of Holding on and Letting Go: 10 Beautiful Minds on the Art of Growing Older",
-      "url": "https://www.themarginalian.org/2026/07/31/growing-older/",
-      "description": "A great paradox of being alive in this civilization is that we have come to dread and devalue the triumph of having lived, forgetting that to grow old is not a punishment but a privilege — that of having survived the loneliness of childhood, the brash insecurity of youth, the turmoil of middle age, in order to begin the continuous creative act of holding on while letting go. This is not easy in a culture that fetishes youth, that clothes us in an invisibility cloak as life strips us of time. We ",
-      "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
-      }
-    },
-    {
-      "title": "Death and How to Be More Alive: Carl Jung on Immortality and the Rebirth of Middle Age",
-      "url": "https://www.themarginalian.org/2026/07/31/carl-jung-death-immortality/",
-      "description": "Once, I spent a year walking Brooklyn’s historic Green-Wood Cemetery daily, winding between the marble tombs engulfed by tree-roots and emblazoned with the surnames of the dead, each followed by a full stop to demarcate the terminus of life. It hovers there, so sure of itself, this punctuational emblem of an irrevocable end. And yet the surety of science about what happens when we die, like the surety of religion, is only speculative, for it is conceived by the living. Whitman — who often walked",
-      "date": "Sat, 01 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
-      }
-    },
     {
       "title": "How to Hold the Darkness: Notes on Living Through Uncertainty",
       "url": "https://www.themarginalian.org/2026/08/02/francis-weller-ordinary/",
@@ -49,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
+      "url": "https://www.themarginalian.org/2026/08/07/yes-to-life-in-spite-of-everything-viktor-frankl/",
+      "description": "\"Everything depends on the individual human being, regardless of how small a number of like-minded people there is... on each person... creatively making the meaning of life a reality in his or her own being.\"",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
@@ -84,6 +68,22 @@
       }
     },
     {
+      "title": "How to Hold What Harrows You",
+      "url": "https://www.themarginalian.org/2026/08/06/maggie-smith-harrowing/",
+      "description": "We are shaped by all we have suffered — by what harrows us — and in turn shape our lives by how we hold our harrowing. Harrow shares its Middle English root with harvest. It is by suffering, and by what we make of our suffering, that our personhood ripens in us, that we come to reap what evolution sowed long ago when mitochondria first set out to become mind — our capacity for empathy, for doubt, for art. Harrowing may be the hallmark of our humanity — an AI cannot be harrowed because it does no",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "The Grasshopper and the “Lusory Attitude” Essential for Playing the Game of Life",
       "url": "https://www.themarginalian.org/2026/08/02/suits-grasshopper/",
       "description": "On a recent flight, I watched a mother across the aisle play peek-a-boo with her small son while next to me a grown man in a VR headset spent six hours ascending the levels of a video game. It occurred to me that what I was doing between them — reading — was also a game: a peek-a-boo of ideas advancing across levels of meaning. I thought of Newton, who reflected on his deathbed: “I don’t know what I may seem to the world, but, as to myself, I seem to have been only like a boy playing on the…  re",
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Thank You, Everything: An Illustrated Love Letter to the World",
+      "url": "https://www.themarginalian.org/2026/08/07/thank-you-everything-icinori/",
+      "description": "We forget that none of this had to exist — that we weren’t owed mountains and music by the universe. And maybe we have to forget — or we would be too stupefied with gratitude for every raindrop and every eyelash to get through the daily tasks punctuating the unbidden wonder of our lives. But it is good, every once in a while, to let ourselves be stupefied by gratitude, to cast upon ourselves a spell against indifference by moving through the world with an inner bow at every littlest thing that p",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -148,38 +164,6 @@
       }
     },
     {
-      "title": "Blackie & Co.: A Blackbird’s Lesson in Friendship",
-      "url": "https://www.themarginalian.org/2026/07/31/hockley-clarke-blackie/",
-      "description": "In the middle of my bleakest winter, my friend Andrea gave me a battered copy of a forgotten book from her elderly father’s used bookshop in rural Texas, by a man named Hockley Clarke. I inhaled it in a day. Born in England in the final year of the nineteenth century, Hockley Clarke grew up loving nature. When he was sent to France with the British infantry during WWI, still a teenager, he looked for birds whenever he was out of the trenches or had a day’s rest, listening for them through the bl",
-      "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Darwin’s Greatest Regret and His Deathbed Reflection on What Makes Life Worth Living",
-      "url": "https://www.themarginalian.org/2026/07/31/darwin-life/",
-      "description": "\"If I had to live my life again, I would have made a rule to read some poetry and listen to some music at least once every week.\"",
-      "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "Trial, Triumph, and the Art of the Possible: The Remarkable Story Behind Beethoven’s “Ode to Joy”",
       "url": "https://www.themarginalian.org/2026/08/04/beethoven-ode-to-joy/",
       "description": "A hymn of rage, a hymn of redemption, and a timeless love letter to the possible.",
@@ -209,6 +193,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "A Spell Against Stagnation: John O’Donohue on Beginnings",
+      "url": "https://www.themarginalian.org/2026/08/06/john-odonohue-blessings-beginnings/",
+      "description": "\"Our very life here depends directly on continuous acts of beginning.\"",
+      "date": "Thu, 06 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

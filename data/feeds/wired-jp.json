@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-07T19:37:13.433954+00:00",
+  "fetchedAt": "2026-08-08T16:57:12.444026+00:00",
   "items": [
     {
       "title": "SNSで話題のアライグマ「ジモシー」、人気が招くリスクに専門家が警鐘",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "この夏、思考の旅へ誘う──編集部おすすめの7冊：WIRED BOOK GUIDE",
+      "url": "https://wired.jp/article/summer-book-recommendations-2026/",
+      "description": "世間はまもなくお盆休み。海やAI、音楽、哲学──凝り固まった思考パターンやリズムを緩め、本の世界へダイブする夏にぴったりの7冊を、『WIRED』編集部が厳選した。",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,67 +84,67 @@
       }
     },
     {
-      "title": "【WIRED AI特集】The Garden of AI",
-      "url": "https://wired.jp/article/featuring-ai/",
-      "description": "人類がAIとの共存、そしてさらなる繁栄を本気で望むのならば、そのために必要な知恵と実践の場は、すべてこの “AIの庭” にある。『WIRED』による決定版AI特集［Digital Edition］",
-      "date": "Wed, 05 Aug 2026",
+      "title": "毒をもって毒を制す!? 毒ヘビの血から“天然の抗毒素”をつくれる可能性",
+      "url": "https://wired.jp/article/fetua-protein-rattlesnake-antivenom/",
+      "description": "自らの毒に対して耐性をもつ毒ヘビの血中タンパク質を応用し、より強力な抗毒素をつくる手法を米国の研究チームが発見した。従来の抗毒素の10分の1の量で効果があり、進化的に大きく離れた種の一部のヘビ毒にも有効だという。",
+      "date": "Sat, 08 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "ようこそ、AIの庭へ──特集「The Garden of AI」に寄せて、編集長から読者のみなさんへ",
-      "url": "https://wired.jp/article/ai-editors-letter/",
-      "description": "『WIRED』日本版初となるAI特集がデジタルエディションとして公開された。なぜ「庭」なのか？ 本特集の射程を、知恵の実を手にした“エデンの園”から説き起こすエディターズレター。",
-      "date": "Wed, 05 Aug 2026",
+      "title": "Amazonプライム・ビデオで見逃せない映画27選【2026年最新】",
+      "url": "https://wired.jp/article/best-amazon-prime-movies-2026/",
+      "description": "『プロジェクト・ヘイル・メアリー』や『ゼイ・ウィル・キル・ユー』、『アーカイブ』など、Amazonプライム・ビデオをで観るべきおすすめ映画を紹介する。",
+      "date": "Sat, 08 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "完全自動運転の実現、それは最終ゴールではない：チューリング──フィジカルAIの実現に挑む7つの企業",
-      "url": "https://wired.jp/article/turing-autonomous-driving-physical-ai-startups/",
-      "description": "高度な人工知能（AI）とロボティクスが融合することで、現実世界を認識・判断して自律的に動作するフィジカルAI。その進歩と社会実装に挑む注目のスタートアップやベンチャーを紹介する。第1回は、自動運転技術を手がけるチューリング。",
-      "date": "Wed, 05 Aug 2026",
+      "title": "中国製オープンウェイトAIの規制を巡り、シリコンバレーで意見が二分",
+      "url": "https://wired.jp/article/silicon-valley-is-completely-divided-over-chinese-ai/",
+      "description": "巨大AI企業は安全性を理由に中国製のオープンウェイトAIの規制を求める一方、小規模企業は競争力が損なわれるとして反対している。",
+      "date": "Fri, 07 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "AIエージェントとは？ 基本から導入の利点まで徹底解説",
-      "url": "https://wired.jp/article/what-is-an-ai-agent/",
-      "description": "生成AIが「質問に答える」道具なら、AIエージェントは「自分で動く」相棒のような存在だ。その違いから仕組み、注目の選択肢、業界事例、導入のリスクと未来展望までを一気に解説する。いまだから知っておくべき自律型AIとの付き合い方とは？",
-      "date": "Wed, 05 Aug 2026",
+      "title": "共和党が望んだ〈決断する強い大統領〉が統治するアメリカの到来──「アメリカン・ドッペルゲンガー」by 池田純一#14",
+      "url": "https://wired.jp/article/american-doppelganger-14/",
+      "description": "11月に実施される中間選挙に向けて、米国内の経済対策をそっちのけにしてでも推し進めるべきことが、トランプにはあるようだ。7月のトランプの動きから、その真意を読み解く。",
+      "date": "Fri, 07 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -215,22 +231,6 @@
       "title": "中国製EVをめぐる言説はどこまでが本当なのか？",
       "url": "https://wired.jp/article/sz-theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
       "description": "中国製EVは、すでに液晶パネルで埋め尽くされた車内に、いまやAIが完全装備されようとしている。米国『Ars Technica』より。",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“知性の生態系”を耕すために──ジェームズ・ブライドルが語る、AIと自然と人間の美しい関係",
-      "url": "https://wired.jp/article/james-bridle-ecosystem-of-intelligences/",
-      "description": "タコ、粘菌、ネアンデルタール人、そしてAI── 著書『Ways of Being』で人間以外の知性に溢れた世界を鮮やかに示し、“モア・ザン・ヒューマンの生態学”を打ち立てた鬼才ジェームズ・ブライドルの咆哮。",
       "date": "Wed, 05 Aug 2026",
       "thumbnail": "",
       "videoId": "",

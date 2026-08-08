@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-08-07T19:37:07.378682+00:00",
+  "fetchedAt": "2026-08-08T16:57:06.564125+00:00",
   "items": [
     {
       "title": "私たちは決めてほしい―調停者としての「公式」",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "「経済メディア戦国時代」に信頼できる情報に出会うには？　エコノミスト・唐鎌大輔と経済学者・服部孝洋が考える金融の学び方",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/hattori_karakama/36357",
+      "description": "長年続く円安や物価高、新NISAの一般化により経済政策や市場動向に注目が集まる昨今。動画・SNS・ニュース・ブログ・書籍などのメディアの多様化により、経済情報は手に入りやすい一方、たしかな情報を手に入れる難易度はかつてな […]",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "プライドを捨てて若い世代にも学ぶことから始まる、中年の後半戦",
       "url": "https://shinsho-plus.shueisha.co.jp/interview/tanaka_harada/36290",
       "description": "原田　組織のモラトリアムがあるとはいえ、やはり社会人初期の数年間が人生に与える影響って相当大きいですよね。今の学生たちを見ていても、卒業時は頼りなくても3年後くらいに会うと見違えるほどしっかりしている。僕らは就職氷河 […]",
@@ -96,22 +112,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "いよいよ始まる自己負担上限額の引き上げ……　制度改正は本当に患者の声を反映しているのか？",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36233",
-      "description": "ついに８月１日から、高額療養費の自己負担上限額が引き上げられる。前回の引き上げは2015年だったので、それ以来11年ぶりの実施になる。今回の引き上げは2024年末に提示された〈見直し〉案が契機になったが、このときの案は […]",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 5
       }
     },

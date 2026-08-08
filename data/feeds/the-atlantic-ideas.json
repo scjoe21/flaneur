@@ -1,13 +1,13 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-07T19:36:53.619902+00:00",
+  "fetchedAt": "2026-08-08T16:56:51.462782+00:00",
   "items": [
     {
-      "title": "Trump Should Need a Warrant to See Your Phone",
-      "url": "https://www.theatlantic.com/ideas/2026/08/airport-warrantless-phone-search/688186/?utm_source=feed",
+      "title": "Why MAGA Is So Obsessed With Fauci",
+      "url": "https://www.theatlantic.com/ideas/2026/08/fauci-paul-covid-wuhan/688233/?utm_source=feed",
       "description": "",
-      "date": "2026-08-05",
+      "date": "2026-08-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,10 +20,10 @@
       }
     },
     {
-      "title": "Why Is the U.S. Running So Low on Weapons?",
-      "url": "https://www.theatlantic.com/ideas/2026/08/the-us-isnt-making-enough-weapons/688150/?utm_source=feed",
+      "title": "Trump Should Need a Warrant to See Your Phone",
+      "url": "https://www.theatlantic.com/ideas/2026/08/airport-warrantless-phone-search/688186/?utm_source=feed",
       "description": "",
-      "date": "2026-08-03",
+      "date": "2026-08-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -132,6 +132,38 @@
       }
     },
     {
+      "title": "What Mitch McConnell Did",
+      "url": "https://www.theatlantic.com/ideas/2026/08/mitch-mcconnell-gop-legacy/688221/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-08",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Color Recession May Be Permanent",
+      "url": "https://www.theatlantic.com/ideas/2026/08/colorless-gray-products-houses/688174/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-08",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Sadism and a Blue Bunny",
       "url": "https://www.theatlantic.com/ideas/2026/08/max-miller-emily-moreno-abuse-allegations/688218/?utm_source=feed",
       "description": "",
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/08/iran-war-hack-minnesota/688162/?utm_source=feed",
       "description": "",
       "date": "2026-08-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Far Right Is Distorting Ceuta",
-      "url": "https://www.theatlantic.com/ideas/2026/08/ceuta-spain-far-right/688154/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-02",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Dulles Forever",
-      "url": "https://www.theatlantic.com/ideas/2026/08/sorry-haters-dulles-rules/688139/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-02",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

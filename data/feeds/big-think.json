@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-08-07T19:36:53.021276+00:00",
+  "fetchedAt": "2026-08-08T16:56:50.954935+00:00",
   "items": [
     {
       "title": "Depression has tripled in the last 15 years. Arthur Brooks says he knows the real cause",
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Starts With A Bang podcast #132 – Space in the ultraviolet",
+      "url": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-132-space-in-the-ultraviolet/",
+      "description": "Whenever you look at the Universe in a more powerful way than you ever have before, either in a new set of wavelengths, at higher sensitivity, on wider-field scales, or with novel capabilities, you open yourself up to a remarkable possibility. In addition to the “obvious” science gains that you’ll achieve from finding more examples and revealing greater details about the types of objects and events you already know about, you also give the Universe an opportunity to surprise you: by finding thin",
+      "date": "Sat, 08 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/ASPERA-pic.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
       "title": "Where is gravity the strongest and weakest on Earth?",
       "url": "https://bigthink.com/starts-with-a-bang/gravity-strongest-weakest-earth/",
       "description": "If you gather enough mass together in one place, as long as the individual particles inside aren’t moving too quickly, your mass will become gravitationally bound. If that mass is made out of atoms — particles that can collide, exchange energy and momentum, and stick together — then it can form a solid object as well. If the overall mass is great enough, you won’t just make a solid object that’s gravitationally bound, but you’ll reach a state that’s known as hydrostatic equilibrium: where your o",
@@ -113,22 +129,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Your brain doesn’t see reality — it tries to predict it",
-      "url": "https://bigthink.com/business/inner-propaganda/",
-      "description": "On a rainy afternoon in Dublin in 2017, I was running late to see a movie. \n I was going to see  Logan , the final chapter in Marvel’s Wolverine saga, and I arrived at the theater just as the movie was about to begin. It had been billed as a story about a reluctant hero who had nothing left to believe in.  Vanity Fair  had called it a “bracing, violent jolt … raw, true.” \n What would it look like if everything were stripped away and all you were left with was the pain of your present? I was intr",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/inner-propoganda_excerpt.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {

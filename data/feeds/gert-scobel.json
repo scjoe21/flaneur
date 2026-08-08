@@ -1,8 +1,24 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-08-07T19:35:25.961408+00:00",
+  "fetchedAt": "2026-08-08T16:56:27.344957+00:00",
   "items": [
+    {
+      "title": "Wusstet ihr, wie leicht Glasfaser gehackt werden kann?",
+      "url": "https://www.youtube.com/shorts/KUzmXe2s0Ik",
+      "description": "Fast unser gesamtes Internet läuft über Glasfaser – aber wirklich sicher ist das nicht. Ein einfaches Abhörgerät reicht schon aus, um sensible Daten direkt am Kabel abzugreifen. Wie leicht Hacker an die Leitungen rankommen und was das für unsere Datensicherheit bedeutet, seht ihr in diesem Video 👉 https://youtu.be/8KwyJI_-4rE\n#glasfaser #cybersecurity #hacking #datenschutz #NANO #3sat",
+      "date": "2026-08-08",
+      "thumbnail": "https://i4.ytimg.com/vi/KUzmXe2s0Ik/hqdefault.jpg",
+      "videoId": "KUzmXe2s0Ik",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
     {
       "title": "Würdet ihr die Bodycam freiwillig tragen?",
       "url": "https://www.youtube.com/shorts/wkFP9KG5PpA",
@@ -65,22 +81,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 25
-      }
-    },
-    {
-      "title": "PDA: Alltag als größter Stressfaktor",
-      "url": "https://www.youtube.com/shorts/2a5rc_v88fA",
-      "description": "PDA (Pathological Demand Avoidance) ist eine eigene Form des Autismus, bei der schon alltägliche Anforderungen extreme Angst auslösen können. Habt ihr davon schon mal gehört oder selbst Erfahrungen damit? Kennt ihr Menschen mit PDA?\n\n#shorts #pda #autismus #neurodivergent #nano",
-      "date": "2026-07-15",
-      "thumbnail": "https://i3.ytimg.com/vi/2a5rc_v88fA/hqdefault.jpg",
-      "videoId": "2a5rc_v88fA",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
       }
     },
     {

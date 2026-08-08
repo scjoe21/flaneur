@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-08-07T19:37:02.992575+00:00",
+  "fetchedAt": "2026-08-08T16:57:03.067592+00:00",
   "items": [
     {
       "title": "The James Webb Telescope is making cosmologists question the Big Bang | Bjørn Ekeberg",
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Why working-class financial traders excel | Gary Stevenson",
+      "url": "https://www.youtube.com/shorts/D9SRnkXpSso",
+      "description": "",
+      "date": "2026-08-08",
+      "thumbnail": "https://i1.ytimg.com/vi/D9SRnkXpSso/hqdefault.jpg",
+      "videoId": "D9SRnkXpSso",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "The stars and the planets used to be living organisms | Rupert Sheldrake",
       "url": "https://www.youtube.com/shorts/Yosyd_gIy_w",
       "description": "#spirituality    #consciousness   #god    #philosophy    #buddhism  #hinduism #soul   #religion \n\nTo watch the full talk: https://iai.tv/video/discovering-the-world-beyond-science-rupert-sheldrake?utm_source=YouTube&utm_medium=short\n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
@@ -190,22 +206,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Princess Diana is dead and you probably can't draw a bicycle | Michael Shermer",
-      "url": "https://www.youtube.com/shorts/feCGb_snOv0",
-      "description": "With a free trial, you can watch Michael's full talk at https://iai.tv/video/michael-shermer-reality-doesnt-care-what-you-think?utm_source=YouTube&utm_medium=short\n\n#conspiracytheories #coolfacts  #interestingfacts #skeptic",
-      "date": "2026-07-24",
-      "thumbnail": "https://i3.ytimg.com/vi/feCGb_snOv0/hqdefault.jpg",
-      "videoId": "feCGb_snOv0",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
