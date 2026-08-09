@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-fr-philo",
   "sourceName": "The Conversation France — Philosophie",
-  "fetchedAt": "2026-08-08T16:56:53.405997+00:00",
+  "fetchedAt": "2026-08-09T17:46:41.133353+00:00",
   "items": [
     {
       "title": "IA : pourquoi former une « tête bien faite » n’a jamais été aussi crucial",
@@ -100,19 +100,19 @@
       }
     },
     {
-      "title": "« Valeur sentimentale », ou la reconnaissance de l’autre",
-      "url": "https://theconversation.com/valeur-sentimentale-ou-la-reconnaissance-de-lautre-277110",
+      "title": "Ce que les sciences sociales doivent à Edgar Morin",
+      "url": "https://theconversation.com/ce-que-les-sciences-sociales-doivent-a-edgar-morin-289070",
       "description": "",
-      "date": "2026-03-12",
+      "date": "2026-08-09",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

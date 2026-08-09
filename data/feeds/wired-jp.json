@@ -1,38 +1,38 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-08T16:57:12.444026+00:00",
+  "fetchedAt": "2026-08-09T17:46:59.701807+00:00",
   "items": [
     {
-      "title": "SNSで話題のアライグマ「ジモシー」、人気が招くリスクに専門家が警鐘",
-      "url": "https://wired.jp/article/dont-get-too-attached-to-jimothy/",
-      "description": "背骨が曲がり、短い尻尾をもつアライグマ「ジモシー」は、都市環境に適応しているように見える。しかし野生生物の専門家は、その暮らしを脅かしかねないのは意外にもインターネットでの人気だと指摘する。",
-      "date": "Wed, 05 Aug 2026",
+      "title": "NASAの新しい3Dモデルが映し出す、「デコボコ」な地球",
+      "url": "https://wired.jp/article/nasas-new-3d-model-shows-lumpy-earth/",
+      "description": "NASAが公開した新たな3Dモデルは、「青いビー玉」として知られる地球とはまったく異なる姿を映し出している。地球の重力場を表す「ジオイド」の起伏を誇張して可視化したもので、気候変動の研究にも活用されている。",
+      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 24
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
-      "title": "フィジカルAIは「物理空間の創造」を書き換える｜オートデスクCEO来日インタビュー",
-      "url": "https://wired.jp/article/autodesk-ceo-andrew-anagnost-interview/",
-      "description": "フィジカルAIの登場によってデジタルと物理世界の境界が溶けはじめている。その変化の中心にいるオートデスク社長兼CEOのインタビューから、建築や都市スケールでの「創造」の意味が書き換わる未来が見えてきた。",
-      "date": "Thu, 06 Aug 2026",
+      "title": "注目の反AIガジェット、「サイバーデッキ」を自作する人々",
+      "url": "https://wired.jp/article/cyberdecks-tiktok-ube-boobey-diy-computer-gadget/",
+      "description": "いま、ハンドバッグ型の風変わりな自家製コンピューターをつくる若い女性たちが TikTokでバズっている。",
+      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -81,6 +81,54 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 5
+      }
+    },
+    {
+      "title": "放送が始まった注目のTVアニメ。その監督は何者なのか？：2026年7月に最も読まれた10本のストーリー",
+      "url": "https://wired.jp/article/10-most-read-stories-july-2026/",
+      "description": "この7月に「WIRED.jp」で公開した記事のなかから、最も読まれた10本のストーリーを紹介する。",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "電子レンジの耳障りな「ピーッ」音を、部品に手を加えずコードだけで変える",
+      "url": "https://wired.jp/article/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
+      "description": "加熱終了を告げる、電子レンジの不快な「ピーッ」という音。ふたりのサウンドデザイナーが立ち上げた米国のスタートアップが、プログラムを書き換えるだけで、より快適な音に変える方法を編み出した。",
+      "date": "Sat, 08 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "あなたのDNAは絶えず変異している──だが、それはいいことだ",
+      "url": "https://wired.jp/article/sz-beyond-inheritance-roxanne-khamsi-book-review/",
+      "description": "遺伝的特質は変えられないというのは思い込みだ。細胞は秒単位で変異している。変異細胞は自己免疫疾患やがんになることもあるが、自らの入力ミスによるエラーを修正することもある。",
+      "date": "Sat, 08 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
       "description": "ロボット用学習データを集めるスタートアップが、撮影への協力と引き換えに無料の料理を提供するサービスを始めている。わたしもカメラ付きのプライベートシェフを家に迎え、その手さばきを未来のヒューマノイドのために記録させた。",
       "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "いますぐ観たい！ Netflixのおすすめ映画64選【2026年最新】",
-      "url": "https://wired.jp/article/netflix-best-movies-2026/",
-      "description": "『ゴジラ-1.0/C』から『私はフランケルダ』、『劇場版モノノ怪 第二章 火鼠』など。いまNetflixで観るべき映画を紹介しよう。",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "OpenAIとAnthropicの“2強支配”にAI業界で危機感",
-      "url": "https://wired.jp/article/everyone-is-freaking-out-about-openai-and-anthropics-race-for-dominance/",
-      "description": "OpenAIとAnthropicの急成長を巡り、AI業界で安全性と市場支配への懸念が強まっている。一方、オープンモデルの性能も高まり、動画生成AIをロボット制御に応用するスタートアップが増えている。",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "中国製EVをめぐる言説はどこまでが本当なのか？",
-      "url": "https://wired.jp/article/sz-theres-a-lot-of-hype-about-chinese-evs-is-any-of-it-true/",
-      "description": "中国製EVは、すでに液晶パネルで埋め尽くされた車内に、いまやAIが完全装備されようとしている。米国『Ars Technica』より。",
-      "date": "Wed, 05 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,24 +1,8 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-08T16:56:52.060327+00:00",
+  "fetchedAt": "2026-08-09T17:46:40.307014+00:00",
   "items": [
-    {
-      "title": "How to Hold the Darkness: Notes on Living Through Uncertainty",
-      "url": "https://www.themarginalian.org/2026/08/02/francis-weller-ordinary/",
-      "description": "There are times in life when the continent of certainty parts underfoot and, as the ash cloud of the old world rains darkness upon us, we are asked to swim in the rivers of lava that will make the new. “Almost it would appear that it is useless in such confusion to ask,” wrote Virginia Woolf of such times, “those questions as to what, and why, and wherefore.” Unlike her staunchly secularized contemporaries, who shuddered to speak of the soul for fear of being seen as anti-intellectual, Woolf dev",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
     {
       "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
       "url": "https://www.themarginalian.org/2026/08/07/yes-to-life-in-spite-of-everything-viktor-frankl/",
@@ -33,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "Hannah Arendt on Love and How to Live with the Fundamental Fear of Loss",
+      "url": "https://www.themarginalian.org/2026/08/08/love-and-saint-augustine-hannah-arendt/",
+      "description": "“Fearlessness is what love seeks… Such fearlessness exists only in the complete calm that can no longer be shaken by events expected of the future… Hence the only valid tense is the present, the Now.”",
+      "date": "Sat, 08 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Swimming and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/08/08/roger-deakin-waterlog/",
+      "description": "One of my earliest and most vivid childhood memories is of swimming in a cool pool bounded by boulders in the middle of a river in the mountains of Bulgaria, the late-afternoon sun casting komorebi on the water through the rustling leaves. I can still hear the feeling-tone in my body, the strange and lovely simultaneity of absolute presence and absolute peace. I didn’t yet know the word for transcendence. Not long after that, I began swimming competitively in a chlorinated Olympic pool, investin",
+      "date": "Sat, 08 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 18,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 18
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/08/02/rene-magritte-enchantment/",
       "description": "\"Life is wasted when we make it more terrifying, precisely because it is so easy to do so.\"",
       "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Pleasure of Being Left Alone",
-      "url": "https://www.themarginalian.org/2026/08/01/rose-macaulay-personal-pleasures/",
-      "description": "\"An exquisite peace obtains: a drowsy, golden peace, flowing honey-sweet over my dwelling, soaking it, dripping like music from the walls... A peace for gods; a divine emptiness.\"",
-      "date": "Sat, 01 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

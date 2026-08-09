@@ -1,8 +1,24 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-08-08T16:56:27.344957+00:00",
+  "fetchedAt": "2026-08-09T17:45:14.994817+00:00",
   "items": [
+    {
+      "title": "Wie sicher sind unsere Banken und Daten noch?",
+      "url": "https://www.youtube.com/shorts/6sJBumr73DI",
+      "description": "Ein extrem leistungsfähiger Quantencomputer könnte in Zukunft Finanzsysteme lahmlegen und Billionen an Geldströmen bedrohen. Von Banken bis hin zur nationalen Sicherheit stehen Verschlüsselungen vor einer riesigen Herausforderung. Warum der Wettlauf um die Cyber-Sicherheit der Zukunft längst begonnen hat, erfahrt ihr hier 👉 https://youtu.be/8KwyJI_-4rE #quantencomputer #cybersecurity #finanzen #hacking #NANO #3sat",
+      "date": "2026-08-09",
+      "thumbnail": "https://i3.ytimg.com/vi/6sJBumr73DI/hqdefault.jpg",
+      "videoId": "6sJBumr73DI",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Wusstet ihr, wie leicht Glasfaser gehackt werden kann?",
       "url": "https://www.youtube.com/shorts/KUzmXe2s0Ik",
@@ -106,22 +122,6 @@
       "date": "2026-08-01",
       "thumbnail": "https://i1.ytimg.com/vi/tKSqln7Zz9M/hqdefault.jpg",
       "videoId": "tKSqln7Zz9M",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Wie KI das Studium für immer verändert | NANO",
-      "url": "https://www.youtube.com/watch?v=K0oUQO4pVyA",
-      "description": "ChatGPT und andere KI-Tools verändern die Art, wie wir lernen grundlegend. Was bedeutet es für Lehre und Prüfung, wenn künstliche Intelligenz Hausarbeiten und Vorträge per Knopfdruck generiert?\n\n#ki #bildung #chatgpt #universität\n\nUnser Host Eric Mayer hat an der Universität des Saarlandes den Selbstversuch gewagt und sich von ChatGPT einen komplexen Vortrag im Fachbereich “Informatik” erstellen lassen – inklusive Informatiker-Witzen. Fliegt Eric Mayer mit seinem KI-Vortrag auf oder kann er die ",
-      "date": "2026-07-16",
-      "thumbnail": "https://i4.ytimg.com/vi/K0oUQO4pVyA/hqdefault.jpg",
-      "videoId": "K0oUQO4pVyA",
       "priority": 20,
       "scoreDetail": {
         "daily": 20,

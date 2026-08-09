@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-08T16:56:24.629302+00:00",
+  "fetchedAt": "2026-08-09T17:45:13.240377+00:00",
   "items": [
     {
       "title": "Santé mentale : comment lutter contre notre addiction aux écrans (et résister aux sollicitations)",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Ritualiser le quotidien : une arme contre l’aliénation du monde moderne ?",
-      "url": "https://www.philomag.com/articles/ritualiser-le-quotidien-une-arme-contre-lalienation-du-monde-moderne",
+      "title": "À la reconquête de notre temps libre : comment retrouver un véritable temps à soi",
+      "url": "https://www.philomag.com/articles/la-reconquete-de-notre-temps-libre-comment-retrouver-un-veritable-temps-soi",
       "description": "",
-      "date": "Sat, 01 Aug 2026",
+      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 15
       }
     },
     {
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Et si vous emmeniez “Spinoza à la plage” ?",
+      "url": "https://www.philomag.com/articles/et-si-vous-emmeniez-spinoza-la-plage",
+      "description": "",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/sexe-mensonges-et-debat-didees-ovidie-contre-emma-becker",
       "description": "",
       "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Émousser les frontières entre mon corps et le monde grâce à la musique” : le “sentiment océanique” par Natalie Depraz",
-      "url": "https://www.philomag.com/articles/emousser-les-frontieres-entre-mon-corps-et-le-monde-grace-la-musique-le-sentiment",
-      "description": "",
-      "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

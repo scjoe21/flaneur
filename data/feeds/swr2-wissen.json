@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-08T16:56:59.619440+00:00",
+  "fetchedAt": "2026-08-09T17:46:48.138188+00:00",
   "items": [
     {
       "title": "Spähsoftware im Handy – Wie Staaten uns heimlich überwachen",
@@ -100,16 +100,16 @@
       }
     },
     {
-      "title": "Queer und alt – Zwischen Pride und Einsamkeit",
-      "url": "https://www.swr.de/swrkultur/wissen/queer-und-alt-zwischen-pride-und-einsamkeit-100.html",
-      "description": "Diskriminierung prägt viele queere Menschen bis ins Alter. In Seniorenheimen fürchten sie Ausgrenzung und Einsamkeit. Doch das Bewusstsein für die Bedürfnisse einer vielfältigen älteren Generation wächst.\nVon Horst Gross (SWR 2025/2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/queer-im-alter\nHörtipp:\nBuchgefühl\nhttps://1.ard.de/buchgefuehl\nBei Fragen und Anregungen schreibt uns:\ndaswissen@swr.de\nFolgt uns auf Mastodon:\nhttps://ard.social/@DasWissen",
-      "date": "Sat, 25 Jul 2026",
+      "title": "Tierschutz im Reitsport – Was Pferde leisten und wann sie leiden",
+      "url": "https://www.swr.de/swrkultur/wissen/tierschutz-im-reitsport-was-pferde-leisten-und-wann-sie-leiden-100.html",
+      "description": "Am 11. August 2026 startet in Aachen die Reit-WM. Nach einer Regellockerung wird über das Tierwohl im Pferdesport diskutiert: Wie viel Leistungsdruck darf sein?",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
