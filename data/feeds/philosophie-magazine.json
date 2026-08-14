@@ -1,24 +1,8 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-09T17:45:13.240377+00:00",
+  "fetchedAt": "2026-08-14T05:26:57.674641+00:00",
   "items": [
-    {
-      "title": "Santé mentale : comment lutter contre notre addiction aux écrans (et résister aux sollicitations)",
-      "url": "https://www.philomag.com/articles/sante-mentale-comment-lutter-contre-notre-addiction-aux-ecrans-et-resister-aux",
-      "description": "",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "À la reconquête de notre temps libre : comment retrouver un véritable temps à soi",
       "url": "https://www.philomag.com/articles/la-reconquete-de-notre-temps-libre-comment-retrouver-un-veritable-temps-soi",
@@ -52,51 +36,147 @@
       }
     },
     {
-      "title": "“Un nouvel état de conscience avec l'ayahuasca” : le “sentiment océanique\" par Mathilde Ramadier",
-      "url": "https://www.philomag.com/articles/un-nouvel-etat-de-conscience-avec-layahuasca-le-sentiment-oceanique-par-mathilde",
+      "title": "Barbara Cassin sur les traces d’Ulysse au Louvre",
+      "url": "https://www.philomag.com/articles/barbara-cassin-sur-les-traces-dulysse-au-louvre",
       "description": "",
-      "date": "Thu, 06 Aug 2026",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Rûmî, Sohrawardi, Avicenne… À la découverte de la pensée iranienne",
-      "url": "https://www.philomag.com/articles/rumi-sohrawardi-avicenne-la-decouverte-de-la-pensee-iranienne",
-      "description": "",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "“Et soudain tout est changé !” : le “sentiment océanique” par André Comte-Sponville",
-      "url": "https://www.philomag.com/articles/et-soudain-tout-est-change-le-sentiment-oceanique-par-andre-comte-sponville",
-      "description": "",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "La domestication du feu, une affaire humaine… et animale ?",
+      "url": "https://www.philomag.com/articles/la-domestication-du-feu-une-affaire-humaine-et-animale",
+      "description": "",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“L’Esprit du surf” : chevauchez la vague avec Guillaume Durand",
+      "url": "https://www.philomag.com/articles/lesprit-du-surf-chevauchez-la-vague-avec-guillaume-durand",
+      "description": "",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Retrouver notre attention perdue : oui, mais sans la discipliner !",
+      "url": "https://www.philomag.com/articles/retrouver-notre-attention-perdue-oui-mais-sans-la-discipliner",
+      "description": "",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“L’Odyssée, c’est de la vie mise en récit” : entretien avec Christophe Ono-dit-Biot",
+      "url": "https://www.philomag.com/articles/lodyssee-cest-de-la-vie-mise-en-recit-entretien-avec-christophe-ono-dit-biot",
+      "description": "",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "L’imagination fait-elle tourner le monde ?",
+      "url": "https://www.philomag.com/articles/limagination-fait-elle-tourner-le-monde",
+      "description": "",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Poutine vers la fuite en avant ? La chronique de Michel Eltchaninoff",
+      "url": "https://www.philomag.com/articles/poutine-vers-la-fuite-en-avant-la-chronique-de-michel-eltchaninoff",
+      "description": "",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Sartre, Beauvoir et l’Occupation : les deux philosophes étaient-ils des “salauds” ?",
+      "url": "https://www.philomag.com/articles/sartre-beauvoir-et-loccupation-les-deux-philosophes-etaient-ils-des-salauds",
+      "description": "",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Troie continue d’être le lieu que nous habitons” : entretien avec Alberto Manguel",
+      "url": "https://www.philomag.com/articles/troie-continue-detre-le-lieu-que-nous-habitons-entretien-avec-alberto-manguel",
+      "description": "",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -152,86 +232,6 @@
       "url": "https://www.philomag.com/articles/le-yoga-permet-une-forme-de-connexion-au-cosmos-le-sentiment-oceanique-par-jeanne",
       "description": "",
       "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La religion, un opium du peuple… bénéfique et nécessaire ? Le point de vue de Denis Moreau",
-      "url": "https://www.philomag.com/articles/la-religion-un-opium-du-peuple-benefique-et-necessaire-le-point-de-vue-de-denis-moreau",
-      "description": "",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Que pensaient les philosophes du général de Gaulle ?",
-      "url": "https://www.philomag.com/articles/que-pensaient-les-philosophes-du-general-de-gaulle",
-      "description": "",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Avec James Joyce à Dublin… Une Odyssée éthylique !",
-      "url": "https://www.philomag.com/articles/avec-james-joyce-dublin-une-odyssee-ethylique",
-      "description": "",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Pour revenir, il faut d’abord se perdre” : les errances d’Ulysse par Élodie Pinel",
-      "url": "https://www.philomag.com/articles/pour-revenir-il-faut-dabord-se-perdre-les-errances-dulysse-par-elodie-pinel",
-      "description": "",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sexe, mensonges et débat d’idées : Ovidie contre Emma Becker",
-      "url": "https://www.philomag.com/articles/sexe-mensonges-et-debat-didees-ovidie-contre-emma-becker",
-      "description": "",
-      "date": "Mon, 03 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

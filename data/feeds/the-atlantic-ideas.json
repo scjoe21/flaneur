@@ -1,13 +1,13 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-09T17:46:39.474169+00:00",
+  "fetchedAt": "2026-08-14T05:29:06.487121+00:00",
   "items": [
     {
-      "title": "Why MAGA Is So Obsessed With Fauci",
-      "url": "https://www.theatlantic.com/ideas/2026/08/fauci-paul-covid-wuhan/688233/?utm_source=feed",
+      "title": "Why I Quit the Tenure Track",
+      "url": "https://www.theatlantic.com/magazine/2026/09/elite-academia-leadership-hypocrisy/687969/?utm_source=feed",
       "description": "",
-      "date": "2026-08-08",
+      "date": "2026-08-10",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,10 +20,10 @@
       }
     },
     {
-      "title": "Trump Should Need a Warrant to See Your Phone",
-      "url": "https://www.theatlantic.com/ideas/2026/08/airport-warrantless-phone-search/688186/?utm_source=feed",
+      "title": "Why MAGA Is So Obsessed With Fauci",
+      "url": "https://www.theatlantic.com/ideas/2026/08/fauci-paul-covid-wuhan/688233/?utm_source=feed",
       "description": "",
-      "date": "2026-08-05",
+      "date": "2026-08-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -52,83 +52,131 @@
       }
     },
     {
-      "title": "Putin’s Human Safari Is the Dystopian Future of War",
-      "url": "https://www.theatlantic.com/ideas/2026/08/ukraine-russia-war-drones/688183/?utm_source=feed",
+      "title": "The Fatal Combination of Ideology and Charisma",
+      "url": "https://www.theatlantic.com/ideas/2026/08/jonestown-cult-radical-politics/688257/?utm_source=feed",
       "description": "",
-      "date": "2026-08-05",
+      "date": "2026-08-13",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Liberals Are Now Fighting a Two-Front War",
-      "url": "https://www.theatlantic.com/ideas/2026/08/michigan-abdul-el-sayed-election/688181/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Bidenomics Was More Successful Than People Think",
-      "url": "https://www.theatlantic.com/ideas/2026/08/biden-climate-ira-2024/688179/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Trump’s Irrationality Is Dangerous",
-      "url": "https://www.theatlantic.com/ideas/2026/08/trump-reflecting-pool-irrationality/688180/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Dishonesty of True Crime",
-      "url": "https://www.theatlantic.com/ideas/2026/08/what-true-crime-gets-wrong-about-crime/688214/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "AOC Knows a Lemon When She Sees One",
+      "url": "https://www.theatlantic.com/ideas/2026/08/wisconsin-primary-francesca-hong-david-crowley/688263/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What Do <em>Sex</em> and <em>Gender</em> Even Mean Now?",
+      "url": "https://www.theatlantic.com/ideas/2026/08/sex-gender-identity-definition-history/688252/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Man Who Refused to Sit on the Sidelines",
+      "url": "https://www.theatlantic.com/magazine/2026/09/fallen-september-11-firefighter-family/687964/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Are Men to Blame for the Birth-Rate Collapse?",
+      "url": "https://www.theatlantic.com/ideas/2026/08/fertility-men-housework-goldin/688238/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Democrats Can’t Just Laugh Off ‘Woke 1’",
+      "url": "https://www.theatlantic.com/ideas/2026/08/aoc-democrats-wokeness-republicans/688241/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "If Only This Could Last Forever",
+      "url": "https://www.theatlantic.com/ideas/2026/08/pain-glory-summer/688229/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-10",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "In Defense of Flock",
+      "url": "https://www.theatlantic.com/ideas/2026/08/flock-safety-cameras-ai-surevillance/688219/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-10",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/08/max-miller-emily-moreno-abuse-allegations/688218/?utm_source=feed",
       "description": "",
       "date": "2026-08-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bring Back the Blue-Book Exam",
-      "url": "https://www.theatlantic.com/magazine/2026/09/higher-education-in-person-written-exams/687954/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What Happened to al-Qaeda?",
-      "url": "https://www.theatlantic.com/magazine/2026/09/al-qaeda-25-years-post-9-11/687965/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Trojan Horse Is Supposed to Have Humans Inside It",
-      "url": "https://www.theatlantic.com/ideas/2026/08/odyssey-movie-trojan-horse/688168/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

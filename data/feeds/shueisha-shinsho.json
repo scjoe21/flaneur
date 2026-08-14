@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-08-09T17:46:55.218786+00:00",
+  "fetchedAt": "2026-08-14T05:29:19.827663+00:00",
   "items": [
     {
       "title": "私たちは決めてほしい―調停者としての「公式」",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "「経済メディア戦国時代」に信頼できる情報に出会うには？　エコノミスト・唐鎌大輔と経済学者・服部孝洋が考える金融の学び方",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/hattori_karakama/36357",
+      "description": "服部　唐鎌さんは、noteなどを通して、経済情報を積極的に発信されていますね。唐鎌さんからみると、経済の仕事に直接かかわっていない、一般の読者の方々はいまどのような経済動向に関心があるのでしょうか。 唐鎌　株・為替・債券 […]",
+      "date": "Fri, 07 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "【9月9日（水）】『大江健三郎を読む』の刊行記念トークイベントを開催",
       "url": "https://shinsho-plus.shueisha.co.jp/information/36304",
       "description": "大江健三郎は「戦時」と「戦後」のつながりを問い直し、日本社会の閉塞的な状況を文学的な想像力で捉え続けてきた作家でした。1973年には「新しい戦前」という言葉で核時代の危機を指摘しました。そんな大江の初期小説から最晩年の […]",
@@ -65,22 +81,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "「経済メディア戦国時代」に信頼できる情報に出会うには？　エコノミスト・唐鎌大輔と経済学者・服部孝洋が考える金融の学び方",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/hattori_karakama/36357",
-      "description": "長年続く円安や物価高、新NISAの一般化により経済政策や市場動向に注目が集まる昨今。動画・SNS・ニュース・ブログ・書籍などのメディアの多様化により、経済情報は手に入りやすい一方、たしかな情報を手に入れる難易度はかつてな […]",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {
@@ -100,19 +100,19 @@
       }
     },
     {
-      "title": "ローカルを貫くと、なぜ世界に届くのか──岡田利規が切り拓いた「第三の道」",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/sasaki_okada/36154",
-      "description": "今年１月、東京・下北沢の書店「本屋 B&B」で、批評家の佐々木敦と劇作家の岡田利規による公開対談が行われた。佐々木の新著『メイド・イン・ジャパン　日本文化を世界で売る方法』（集英社新書）の刊行を記念したもので、 […]",
-      "date": "Thu, 30 Jul 2026",
+      "title": "日本全国で失われる「都市の森」大阪編",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/36377",
+      "description": "大阪市で１万9000本もの樹木（高木）が伐られている──私がこの話を聞いたのは、神宮外苑再開発見直しを求める署名の発起人ロッシェル・カップさんの声かけで2024年に開かれた、「緑を守る活動を行う全国の市民グループ」のオ […]",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {

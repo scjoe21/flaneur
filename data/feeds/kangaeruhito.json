@@ -1,8 +1,24 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-08-09T17:46:52.864667+00:00",
+  "fetchedAt": "2026-08-14T05:29:16.523505+00:00",
   "items": [
+    {
+      "title": "第２回　戦争のリアルはどこにあるのか：銀幕、YouTube、ドローン",
+      "url": "https://kangaeruhito.jp/article/764209",
+      "description": "戦争を伝えることはできるのか 　人間は、戦争に魅入られてきた。昔は絵画、銀幕で、そして、いまはYouTubeで。ここで私が問いたいのは、「それらはリアルなのか」という問いだ。とりわけ、映画、YouTube、そして、「戦争 […]",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "井上章一さんの連載が、『日本人はなぜ家で靴を脱ぐのか：土足禁止の精神史』として7月23日に発売！",
       "url": "https://kangaeruhito.jp/news/764176",
@@ -30,22 +46,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "【後編】「コンプラ社会」で伝統文化を伝える難しさ",
-      "url": "https://kangaeruhito.jp/interview/764121",
-      "description": "「もっと〝死〟に向き合いたかった」 伯山　新刊『それでも息子を日本の小学校に通わせたい』の中で、小学校は日本の公立、中学からはインターナショナルスクールというご自分の教育歴について、「あらためて考えるとベストだったのでは […]",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "第20夜　橋を渡れば南の島系ロビンソン",
+      "url": "https://kangaeruhito.jp/article/764181",
+      "description": "久しぶりのロビンソン酒場行。お馴染みの連れ、Mさんとの約束の日、私は午後4時に京浜急行の京急鶴見駅で待ち合わせることにした。改札を出てしばらくの後、何本かの電車が過ぎていき、何人もの降車客を見送った。そ […]",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://kangaeruhito.jp/article/764169",
       "description": "世界最古の屋内劇場 　世界最古の屋内劇場とされるテアトロ・オリンピコは、今でこそ世界遺産に登録されて知名度も上がったが、私がフレッド・パイに初めて連れて行かれた1984年は、夏休みの最中であるにもかかわらず観光客の姿もま […]",
       "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "6.インドカレーに落胆",
-      "url": "https://kangaeruhito.jp/article/764112",
-      "description": "名古屋の「うっすらインド」 　今回は先ず、「カレースタンドのうっすらインドなカレー」の話の続きから始めます。 　僕が配属で関西から名古屋に移り住んだのは1994年でした。鹿児島のカレースタンドに、どこか共通する味や雰囲気 […]",
-      "date": "Thu, 16 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

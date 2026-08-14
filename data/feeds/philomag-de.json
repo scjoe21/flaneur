@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-09T17:45:18.577003+00:00",
+  "fetchedAt": "2026-08-14T05:27:02.253607+00:00",
   "items": [
     {
       "title": "Von der Kunst, Ochsen zu zerteilen",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Thomas Biebricher: „Ein reinigendes Gewitter gibt es relativ selten in der Politik“",
+      "url": "https://www.philomag.de/artikel/thomas-biebricher-ein-reinigendes-gewitter-gibt-es-relativ-selten-der-politik",
+      "description": "Der Mann, der antrat, die AfD zu halbieren, sieht nun sich selbst und seine Partei im Sinkflug. Wie könnte es für die CDU weitergehen?",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -52,35 +68,19 @@
       }
     },
     {
-      "title": "Europa als Chance",
-      "url": "https://www.philomag.de/artikel/europa-als-chance",
-      "description": "Mehr noch als der Philosoph der Bundesrepublik war Habermas Denker einer kosmopolitischen Ordnung. Eine nationalistische, von Volksgefühlen genährte Politik hielt er für ebenso gefährlich wie unzureichend.",
-      "date": "Fri, 31 Jul 2026",
+      "title": "Lukrez",
+      "url": "https://www.philomag.de/artikel/lukrez",
+      "description": "Was die Menschen nicht „erkennen können“, führen sie auf „göttliches Walten“ zurück, erklärt Lukrez. Warum geht das mit Gefahren einher?",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Was klassische Logik über Gott und trinkende Partygäste beweist",
-      "url": "https://www.philomag.de/artikel/was-klassische-logik-ueber-gott-und-trinkende-partygaeste-beweist",
-      "description": "Was kann Logik wirklich? Ist sie so zuverlässig und streng gegen Trugschlüsse, wie es ihr Ruf vermuten lässt? Oder hat auch sie blinde Flecken? Ein Einblick in die klassische Prädikatenlogik und zwei Beispiele, wo sie mindestens Merkwürdiges beweist.",
-      "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 24
+        "total": 20
       }
     },
     {
@@ -100,10 +100,26 @@
       }
     },
     {
+      "title": "Der Sprung ins Wissen",
+      "url": "https://www.philomag.de/artikel/der-sprung-ins-wissen",
+      "description": "Der vereitelte Drohnenanschlag am Leipziger Flughafen bringt uns in eine sicherheitspolitische Bredouille: Wie reagieren, wenn wir nie ganz sicher sein können, wer dahintersteckt?",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Mein Wille, das unbekannte Wesen",
       "url": "https://www.philomag.de/artikel/mein-wille-das-unbekannte-wesen",
       "description": "Unser Wille, was soll er nicht alles sein: innerer Kompass und ewiger Antrieb, Garant des Erfolgs und Quelle der Lust. Doch gerade in entscheidenden Situationen erweist er sich oft als schwach und desorientiert. Woher weiß ich also, was ich wirklich will? Durch rationale Abwägung und Kontrolle meiner Begierden? Oder offenbart sich mein wahrer Wille gerade im dunklen, irrationalen Drängen tief im Innern? Womöglich gäbe es sogar eine dritte Option: Was, wenn die wahre Freiheit des Menschen gerade ",
-      "date": "Tue, 04 Aug 2026",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -116,16 +132,32 @@
       }
     },
     {
-      "title": "Philosophie jenseits von Dogmen. Hilary Putnam zum 100. Geburtstag",
-      "url": "https://www.philomag.de/artikel/philosophie-jenseits-von-dogmen-hilary-putnam-zum-100-geburtstag",
-      "description": "Der Philosoph Hilary Putnam ist nicht nur Urheber des berühmten Gedankenexperiments vom Gehirn im Tank. Mit seiner Suche nach pragmatischen Vermittlungspositionen leistete er auch einen wesentlichen Beitrag zur Überwindung dogmatischer Denkmuster in der Philosophie.",
-      "date": "Fri, 31 Jul 2026",
+      "title": "Habermas und der Feminismus",
+      "url": "https://www.philomag.de/artikel/habermas-und-der-feminismus",
+      "description": "Fragen der Geschlechtergerechtigkeit fanden von Habermas zunächst wenig Beachtung. Doch erwuchs daraus eine feministische Kritik, von der nicht nur Habermas' Werk, sondern die Kritische Theorie insgesamt profitierte. Über die Korrekturen, Weiterentwicklungen und Klärungen durch seine Kritikerinnen. Und sein Vermächtnis, das sich genau in diesen Auseinandersetzungen zeigt.",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
+      }
+    },
+    {
+      "title": "Daniel Mendelsohn: „Odysseus verkörpert ein Heldentum des Geistes“",
+      "url": "https://www.philomag.de/artikel/daniel-mendelsohn-odysseus-verkoerpert-ein-heldentum-des-geistes",
+      "description": "Die Prüfungen, die Odysseus durchlebt, lassen ihn verschiedene Facetten seiner selbst erkunden, bis er seine Identität verliert, um sie anschließend wiederzufinden. Homer schafft so ein neues Modell des Heldentums, meint der Autor Daniel Mendelsohn.",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -164,22 +196,6 @@
       }
     },
     {
-      "title": "Die neue Leichtigkeit der Mutter",
-      "url": "https://www.philomag.de/artikel/die-neue-leichtigkeit-der-mutter",
-      "description": "Ein Vater, der gleichberechtigt Sorgearbeit leistet, wirkt mütterlichen Schuldgefühlen entgegen und eröffnet Frauen ein freieres Verhältnis zum Kind, argumentiert Millay Hyatt.",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Der Schrebergarten – eine deutsche Utopie",
       "url": "https://www.philomag.de/artikel/der-schrebergarten-eine-deutsche-utopie",
       "description": "Der Schrebergarten ist die perfekte Symbiose zweier als ausnehmend deutsch geltender Sehnsüchte: Natur und Ordnung. Doch welche Ideologie steckt hinter den akkuraten Hecken? Ein Ausflug in die traditionsreiche Berliner Kleingartenanlage „Sonnenschein“.",
@@ -196,42 +212,26 @@
       }
     },
     {
+      "title": "Globale Theorie",
+      "url": "https://www.philomag.de/artikel/globale-theorie",
+      "description": "Habermas lebte und lehrte vor allem in Deutschland, aber sein Werk besitzt weltweite Wirkkraft. Drei Beispiele.",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Der Köttbullar-Lolli",
       "url": "https://www.philomag.de/artikel/der-koettbullar-lolli",
       "description": "Ein Lolli, der nach Fleisch schmecken soll?",
       "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Verlorene Zukunft",
-      "url": "https://www.philomag.de/artikel/verlorene-zukunft",
-      "description": "Junge Menschen, die versuchen das Leben von Senioren zu führen: Der Grannycore-Trend ist ein Symptom unserer zukunftsarmen Zeit.",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Von der Unerträglichkeit des Urlaubs",
-      "url": "https://www.philomag.de/artikel/von-der-unertraeglichkeit-des-urlaubs",
-      "description": "Den Urlaub nicht zu mögen, das gibt man selten zu. Und doch gibt es gewichtige Gründe dafür. Mit Blaise Pascal lässt sich zeigen, welche das sind.",
-      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

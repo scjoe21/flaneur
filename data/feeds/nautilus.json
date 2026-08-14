@@ -1,14 +1,30 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-08-09T17:46:52.412556+00:00",
+  "fetchedAt": "2026-08-14T05:29:15.755379+00:00",
   "items": [
     {
-      "title": "Taxi Drivers Rarely Die of Alzheimer’s—How Complex Mental Maps and Spatial Reasoning Protect Your Brain",
-      "url": "https://nautil.us/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-1283501/",
-      "description": "Working with and living in spatially complex environments may help delay cognitive decline, though more research is needed \n The post  Taxi Drivers Rarely Die of Alzheimer’s—How Complex Mental Maps and Spatial Reasoning Protect Your Brain  appeared first on  Nautilus .",
-      "date": "Sun, 09 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Sharif-hero.png?w=564",
+      "title": "Extraordinary Experiences Are More Common Than You Think",
+      "url": "https://nautil.us/extraordinary-experiences-are-more-common-than-you-think-1283718/",
+      "description": "How you make sense of the experience shapes its impact your well-being \n The post  Extraordinary Experiences Are More Common Than You Think  appeared first on  Nautilus .",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_866ee9.png?w=564",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "The Trouble with Cancer Screening",
+      "url": "https://nautil.us/the-trouble-with-cancer-screening-1283638/",
+      "description": "Tests for cancer often lead to more confusion than clarity. Here’s how to understand them. \n The post  The Trouble with Cancer Screening  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Parikh_HERO.png?w=564",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
@@ -20,59 +36,43 @@
       }
     },
     {
-      "title": "Inside the Not-So-Dumb Head of the Dodo Bird",
-      "url": "https://nautil.us/inside-the-not-so-dumb-head-of-the-dodo-bird-1283522/",
-      "description": "Cranial scans reveal a brain with clever sensory adaptations \n The post  Inside the Not-So-Dumb Head of the Dodo Bird  appeared first on  Nautilus .",
-      "date": "Sat, 08 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese_HERO_95d474.png?w=564",
+      "title": "Is It Better to Have a Lot of Casual Friends or a Few Close Ones?",
+      "url": "https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/",
+      "description": "Friendships are integral to human health and well being, yet researchers know very little about how people make friends. A new study investigated what people prioritize for new friendships. \n The post  Is It Better to Have a Lot of Casual Friends or a Few Close Ones?  appeared first on  Nautilus .",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/hero_02ecc8.png?w=564",
       "videoId": "",
-      "priority": 10,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Sprinting vs. Jogging: The Benefit Is in the Blood",
+      "url": "https://nautil.us/sprinting-vs-jogging-the-benefit-is-in-the-blood-1283767/",
+      "description": "Live fast, die old \n The post  Sprinting vs. Jogging: The Benefit Is in the Blood  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_669267.png?w=564",
+      "videoId": "",
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
-      "title": "Depression Linked to Shrinking Brain Region in Older Adults",
-      "url": "https://nautil.us/depression-linked-to-shrinking-brain-region-in-older-adults-1283490/",
-      "description": "The memory center of the brain show signs of decreasing volume \n The post  Depression Linked to Shrinking Brain Region in Older Adults  appeared first on  Nautilus .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_2604a0.png?w=564",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Pesticide Exposure at Work May Increase Motor Neurone Disease Risk",
-      "url": "https://nautil.us/pesticide-exposure-at-work-may-increase-motor-neurone-disease-risk-1283457/",
-      "description": "A new review looked at 1,734 people with ALS. But it couldn’t separate pesticide from other risk factors, such as head trauma. \n The post  Pesticide Exposure at Work May Increase Motor Neurone Disease Risk  appeared first on  Nautilus .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Tan_hero.png?w=564",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "This Paradoxical Desert Landscape Is Filled with Fresh Water",
-      "url": "https://nautil.us/this-paradoxical-desert-landscape-is-filled-with-fresh-water-1283495/",
-      "description": "Dunes and lakes as far as the eye can see \n The post  This Paradoxical Desert Landscape Is Filled with Fresh Water  appeared first on  Nautilus .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_228300.png?w=564",
+      "title": "The Quest to Understand the Forgotten Psychedelic",
+      "url": "https://nautil.us/the-quest-to-understand-the-forgotten-psychedelic-1283763/",
+      "description": "One of the first brain scans of mescaline suggests it travels a different path \n The post  The Quest to Understand the Forgotten Psychedelic  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_2b2f80.png?w=564",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -84,27 +84,59 @@
       }
     },
     {
-      "title": "Viagra May Slow the Spread of Cancer",
-      "url": "https://nautil.us/viagra-may-slow-the-spread-of-cancer-1283519/",
-      "description": "And statins can help \n The post  Viagra May Slow the Spread of Cancer  appeared first on  Nautilus .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_ac9a94.png?w=564",
+      "title": "Awe-Inspiring Images from This Year’s Solar Eclipse",
+      "url": "https://nautil.us/awe-inspiring-images-from-this-years-solar-eclipse-1283740/",
+      "description": "When the moon blocks out the sun, it creates something a lot like magic \n The post  Awe-Inspiring Images from This Year’s Solar Eclipse  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_f8e582.png?w=564",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     },
     {
-      "title": "New Observatory Captures More Than Half a Million Galaxies in a Single Image",
-      "url": "https://nautil.us/new-observatory-captures-more-than-half-a-million-galaxies-in-a-single-image-1283526/",
-      "description": "The Vera C. Rubin Observatory is off to a fantastic start \n The post  New Observatory Captures More Than Half a Million Galaxies in a Single Image  appeared first on  Nautilus .",
-      "date": "Sat, 08 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_hERO_66de25.png?w=564",
+      "title": "We May Have Finally Identified the Brain’s Language Network",
+      "url": "https://nautil.us/we-may-have-finally-identified-the-brains-language-network-1283730/",
+      "description": "And it’s complex \n The post  We May Have Finally Identified the Brain’s Language Network  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_8aee58.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Is Cannabis Good for Your Heart?",
+      "url": "https://nautil.us/is-cannabis-good-for-your-heart-1283715/",
+      "description": "You might be surprised. (Scientists were.) \n The post  Is Cannabis Good for Your Heart?  appeared first on  Nautilus .",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_44be2c.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Watch: Australian Dolphin Filmed Catching Fish with Shells",
+      "url": "https://nautil.us/watch-australian-dolphin-filmed-catching-fish-with-shells-1283734/",
+      "description": "Yet another example of dolphins’ exceptional cognitive abilities \n The post  Watch: Australian Dolphin Filmed Catching Fish with Shells  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese_HERO_3224ae.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -116,43 +148,11 @@
       }
     },
     {
-      "title": "Could Physics Help Us Solve the Mystery of Aging?",
-      "url": "https://nautil.us/could-physics-help-us-solve-the-mystery-of-aging-1283486/",
-      "description": "Some scientists say the answers may lie in thermodynamics and other mathematical principles \n The post  Could Physics Help Us Solve the Mystery of Aging?  appeared first on  Nautilus .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_c8ff1a.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Financial Struggle Can Age Your Brain",
-      "url": "https://nautil.us/financial-struggle-can-age-your-brain-1283464/",
-      "description": "Persistent poverty can accelerate cognitive decline starting in your 50s \n The post  Financial Struggle Can Age Your Brain  appeared first on  Nautilus .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_9042fa.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Life Originated Twice on Earth",
-      "url": "https://nautil.us/life-originated-twice-on-earth-1283481/",
-      "description": "New research traces the origins of our metabolism back in time \n The post  Life Originated Twice on Earth  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_197172.png?w=564",
+      "title": "An Ice Island as Big as Manhattan Just Broke Off Greenland",
+      "url": "https://nautil.us/an-ice-island-as-big-as-manhattan-just-broke-off-greenland-1283725/",
+      "description": "It’s a “remarkable” parting of the ways \n The post  An Ice Island as Big as Manhattan Just Broke Off Greenland  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_9b198d.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

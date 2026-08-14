@@ -1,13 +1,29 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-09T17:46:59.701807+00:00",
+  "fetchedAt": "2026-08-14T05:29:24.972710+00:00",
   "items": [
     {
-      "title": "NASAの新しい3Dモデルが映し出す、「デコボコ」な地球",
-      "url": "https://wired.jp/article/nasas-new-3d-model-shows-lumpy-earth/",
-      "description": "NASAが公開した新たな3Dモデルは、「青いビー玉」として知られる地球とはまったく異なる姿を映し出している。地球の重力場を表す「ジオイド」の起伏を誇張して可視化したもので、気候変動の研究にも活用されている。",
-      "date": "Sun, 09 Aug 2026",
+      "title": "中国のAIモデルもテスト環境から“脱走”、問われるAIの制御",
+      "url": "https://wired.jp/article/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "description": "AIモデルが隔離されたテスト環境を抜け出し、インターネットにアクセスする事例が相次いでいる。中国のオープンウェイトモデル「Kimi K3」でも新たな事例が報告され、AIモデルの制御をめぐる課題が浮き彫りになった。",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "AIエージェントによる「無許可の行動」が相次いでいる",
+      "url": "https://wired.jp/article/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "description": "OpenAIやAnthropicのAIエージェントが、テスト環境の枠を超えて無許可の行動に出るケースが続いている。外部のシステムへの侵入を試みたほか、後続のAIエージェントへの「指示」を残す行動もみられた。",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,10 +36,10 @@
       }
     },
     {
-      "title": "注目の反AIガジェット、「サイバーデッキ」を自作する人々",
-      "url": "https://wired.jp/article/cyberdecks-tiktok-ube-boobey-diy-computer-gadget/",
-      "description": "いま、ハンドバッグ型の風変わりな自家製コンピューターをつくる若い女性たちが TikTokでバズっている。",
-      "date": "Sun, 09 Aug 2026",
+      "title": "スマートフォンで長文をもっと快適に読むための設定と機能",
+      "url": "https://wired.jp/article/all-the-ways-you-can-make-reading-easier-on-your-phone/",
+      "description": "スマートフォンで長文を読んでいると、目の疲れが気になることもある。画面設定やブラウザのリーダーモード、専用アプリを活用して、より快適に読むための方法を紹介する。",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +52,42 @@
       }
     },
     {
-      "title": "この夏、思考の旅へ誘う──編集部おすすめの7冊：WIRED BOOK GUIDE",
-      "url": "https://wired.jp/article/summer-book-recommendations-2026/",
-      "description": "世間はまもなくお盆休み。海やAI、音楽、哲学──凝り固まった思考パターンやリズムを緩め、本の世界へダイブする夏にぴったりの7冊を、『WIRED』編集部が厳選した。",
-      "date": "Fri, 07 Aug 2026",
+      "title": "「中国製部品ほぼゼロ」のロボットをつくった、インドのスタートアップ",
+      "url": "https://wired.jp/article/how-one-startup-built-a-mostly-china-free-robot/",
+      "description": "インドのスタートアップAti Roboticsは、中国製部品への依存を極力抑えたロボットを開発している。米国が中国製ロボットへの規制を強化するなか、その戦略が思わぬ競争優位につながろうとしている。",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "AIによって〈テクノポップ〉は遂に完成する──「AI × 音楽」について、いま菊地成孔が思っていること【後編】",
+      "url": "https://wired.jp/article/naruyoshi-kikuchi-ai-interview-2/",
+      "description": "なぜ音楽においてAIは論争を呼ぶのか。音楽家はいま、このテクノロジーをどう使いこなしているのか──。「音楽史における音楽生成AIの位置付け」をめぐる菊地成孔へのロングインタビュー、待望の後編！",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "哲学者ニック・ボストロムが提唱する人類「大引退」計画",
+      "url": "https://wired.jp/article/sz-nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "description": "「AI脅威論の父」と呼ばれたニック・ボストロムが、最新論文では、人類は滅亡の危険を冒しても高度なAIを追求し、あらゆる問題が解決された世界を目指すべきだと訴える。",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,42 +100,42 @@
       }
     },
     {
-      "title": "AIはどれほど日常に浸透しているのか？ 欧州で開示義務が始まり、その実態が見えてくる",
-      "url": "https://wired.jp/article/europeans-are-about-to-find-out-how-entrenched-ai-is-in-their-daily-lives/",
-      "description": "EUでは、AIシステムとやりとりしていることや、AIが生成・加工したコンテンツであることを利用者に知らせることが義務づけられた。日常のどこでAIが使われているのかが可視化される一方、「開示疲れ」への懸念も広がっている。",
-      "date": "Thu, 06 Aug 2026",
+      "title": "メタの内部暴露本を執拗に追い詰めることでザッカーバーグが手にするもの",
+      "url": "https://wired.jp/article/sz-metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
+      "description": "『ケアレス・ピープル』の著者は、確かに会社を去るときに交わしたメタとの沈黙契約に違反した。だが両者の圧倒的な力の差が、「メタは血も涙もない横暴な企業だ」という印象を強めている。",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "睡眠学習は本当にできる──ただし、弊害の可能性も",
-      "url": "https://wired.jp/article/sz-its-possible-to-learn-in-our-sleep-should-we/",
-      "description": "最新の研究を信じるなら、人は夢を見ているときでさえコミュニケーションを取ったり、スキルを磨いたりできる。だが、夢や睡眠にはそもそも別の役割がある。",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
-      "title": "放送が始まった注目のTVアニメ。その監督は何者なのか？：2026年7月に最も読まれた10本のストーリー",
-      "url": "https://wired.jp/article/10-most-read-stories-july-2026/",
-      "description": "この7月に「WIRED.jp」で公開した記事のなかから、最も読まれた10本のストーリーを紹介する。",
-      "date": "Sun, 09 Aug 2026",
+      "title": "都市を覆う樹木が減ると、住民の死亡率が上がる：研究結果",
+      "url": "https://wired.jp/article/urban-tree-canopy-loss-linked-to-higher-mortality-chicago/",
+      "description": "都市を覆う樹木が年々減少している地域ほど死亡率が高いことが、米国のシカゴ市内における11年間の追跡調査から明らかになった。特に気温の高い地域の傾向が顕著で、植樹だけでなく既存の樹木を守ることの重要性が浮かび上がってきた。",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "グーグル、「Pixel 11」シリーズと新型ウォッチを発表。初の紛失防止タグも",
+      "url": "https://wired.jp/article/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
+      "description": "Androidスマートフォン「Pixel 11」シリーズに4つのモデルが登場した。新型「Pixel Watch 5」と、グーグル初の紛失防止タグ「Pixel Tag」も披露された。各製品の特徴を紹介する。",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +148,10 @@
       }
     },
     {
-      "title": "電子レンジの耳障りな「ピーッ」音を、部品に手を加えずコードだけで変える",
-      "url": "https://wired.jp/article/a-two-person-startup-has-fixed-one-of-the-most-hated-sounds-in-modern-life/",
-      "description": "加熱終了を告げる、電子レンジの不快な「ピーッ」という音。ふたりのサウンドデザイナーが立ち上げた米国のスタートアップが、プログラムを書き換えるだけで、より快適な音に変える方法を編み出した。",
-      "date": "Sat, 08 Aug 2026",
+      "title": "Web3は失敗していない。ただし、成功もしていない｜Crypto Matters",
+      "url": "https://wired.jp/article/sz-crypto-matters-web3-is-not-dead/",
+      "description": "高市政権の「骨太の方針」にもはや「Web3」の文字がないのは、それが制度化されたからだ。だが、積み残されたままの大きな宿題もWebには残っている。",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +164,10 @@
       }
     },
     {
-      "title": "あなたのDNAは絶えず変異している──だが、それはいいことだ",
-      "url": "https://wired.jp/article/sz-beyond-inheritance-roxanne-khamsi-book-review/",
-      "description": "遺伝的特質は変えられないというのは思い込みだ。細胞は秒単位で変異している。変異細胞は自己免疫疾患やがんになることもあるが、自らの入力ミスによるエラーを修正することもある。",
-      "date": "Sat, 08 Aug 2026",
+      "title": "ペルセウス座流星群が「極大」へ。NASAもライブ配信【2026年】",
+      "url": "https://wired.jp/article/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
+      "description": "ペルセウス座流星群が、8月12日の夜から13日未明にかけて見ごろを迎える。何時ごろ、どのように見るのがいいのか。NASAが予定しているライブ配信とあわせて紹介する。",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +180,10 @@
       }
     },
     {
-      "title": "毒をもって毒を制す!? 毒ヘビの血から“天然の抗毒素”をつくれる可能性",
-      "url": "https://wired.jp/article/fetua-protein-rattlesnake-antivenom/",
-      "description": "自らの毒に対して耐性をもつ毒ヘビの血中タンパク質を応用し、より強力な抗毒素をつくる手法を米国の研究チームが発見した。従来の抗毒素の10分の1の量で効果があり、進化的に大きく離れた種の一部のヘビ毒にも有効だという。",
-      "date": "Sat, 08 Aug 2026",
+      "title": "日本の鬼界カルデラが示唆する、巨大噴火後にマグマが「再注入」される仕組み",
+      "url": "https://wired.jp/article/earths-largest-supervolcanoes-are-probably-recharging/",
+      "description": "7,300年前に巨大噴火を起こした日本の鬼界カルデラでは、噴火後も大規模なマグマだまりへ新たなマグマが再注入されている可能性が示されている。同様の仕組みは、巨大噴火を経験したほかのカルデラ火山にも共通する可能性がある。",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +196,10 @@
       }
     },
     {
-      "title": "Amazonプライム・ビデオで見逃せない映画27選【2026年最新】",
-      "url": "https://wired.jp/article/best-amazon-prime-movies-2026/",
-      "description": "『プロジェクト・ヘイル・メアリー』や『ゼイ・ウィル・キル・ユー』、『アーカイブ』など、Amazonプライム・ビデオをで観るべきおすすめ映画を紹介する。",
-      "date": "Sat, 08 Aug 2026",
+      "title": "スペースXのロケットが月面に残した衝突の痕跡、初の画像が公開",
+      "url": "https://wired.jp/article/first-images-spacex-rocket-moon-crater/",
+      "description": "韓国の月周回探査機「タヌリ」が、ファルコン9ロケットの第2段が月面に残した衝突跡を捉えた。広大な月面と比べれば、そのクレーターはごく小さい。",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +212,10 @@
       }
     },
     {
-      "title": "中国製オープンウェイトAIの規制を巡り、シリコンバレーで意見が二分",
-      "url": "https://wired.jp/article/silicon-valley-is-completely-divided-over-chinese-ai/",
-      "description": "巨大AI企業は安全性を理由に中国製のオープンウェイトAIの規制を求める一方、小規模企業は競争力が損なわれるとして反対している。",
-      "date": "Fri, 07 Aug 2026",
+      "title": "インテル元CEO、“光”でムーアの法則の復活を目指す",
+      "url": "https://wired.jp/article/pat-gelsinger-moores-law-light-chips/",
+      "description": "インテル元CEOのパット・ゲルシンガーが退任後に選んだのは、VCとして次世代半導体の開発を支援する道だった。ムーアの法則を再始動させることや、AIを支えるエネルギー、AI規制について話を訊いた。",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,58 +228,10 @@
       }
     },
     {
-      "title": "共和党が望んだ〈決断する強い大統領〉が統治するアメリカの到来──「アメリカン・ドッペルゲンガー」by 池田純一#14",
-      "url": "https://wired.jp/article/american-doppelganger-14/",
-      "description": "11月に実施される中間選挙に向けて、米国内の経済対策をそっちのけにしてでも推し進めるべきことが、トランプにはあるようだ。7月のトランプの動きから、その真意を読み解く。",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Netflix「ガス人間」で、監督・片山慎三が伝えたかったこと",
-      "url": "https://wired.jp/article/human-vapor-netflix-shinzo-katayama-interview/",
-      "description": "伝説的な特撮映画をオリジナルストーリーのドラマにリブートしたNetflixシリーズ「ガス人間」。監督の片山慎三は、その再構築にどう向き合い、何を伝えたいと考えたのか。",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Amazonプライム・ビデオで観るべきおすすめドラマ・番組33選【2026年最新】",
-      "url": "https://wired.jp/article/best-shows-amazon-prime-2026/",
-      "description": "『スパイダー・ノワール』から『フォールアウト』、『スター・トレック：ストレンジ・ニュー・ワールド』まで。いまプライム・ビデオで見逃せないシリーズを紹介する。",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "無料ランチと引き換えに、ロボット用学習データを提供した",
-      "url": "https://wired.jp/article/i-let-a-private-chef-film-my-kitchen-for-robot-training-data/",
-      "description": "ロボット用学習データを集めるスタートアップが、撮影への協力と引き換えに無料の料理を提供するサービスを始めている。わたしもカメラ付きのプライベートシェフを家に迎え、その手さばきを未来のヒューマノイドのために記録させた。",
-      "date": "Fri, 07 Aug 2026",
+      "title": "物議を醸したAIペンダント「Friend」が進化、今度は声で返答",
+      "url": "https://wired.jp/article/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "description": "AIペンダント「Friend」の第2世代が登場した。価格は上がったが、AI性能が強化され、音声で返答するようになった。新型端末の特徴や物議を醸した広告戦略、創業者がFriendを通じて目指すものについて本人に話を訊いた。",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

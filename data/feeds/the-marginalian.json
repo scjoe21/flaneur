@@ -1,8 +1,40 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-09T17:46:40.307014+00:00",
+  "fetchedAt": "2026-08-14T05:29:07.091802+00:00",
   "items": [
+    {
+      "title": "The Wisdom of Water: Alan Watts on the Ocean and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/08/10/alan-watts-love-of-waters/",
+      "description": "Four billion years ago, in the hydrothermal vents at the bottom of the world where serpentine is forged, chemistry trembled with the promise of consciousness and matter began its long metabolic pilgrimage toward mind. Perhaps our saline cells remember it: how we, pilgrims of the possible, crawled out of the tide pools to climb the trees, then came down from the trees to live under a canopy of one hundred trillion synapses animated by the oceanic yearning to make meaning of our mortality. Perhaps",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
+      }
+    },
+    {
+      "title": "Anaïs Nin on Why Emotional Excess is Essential to Creativity",
+      "url": "https://www.themarginalian.org/2026/08/10/anais-nin-on-emotion-and-writing/",
+      "description": "\"Something is always born of excess: great art was born of great terrors, great loneliness, great inhibitions, instabilities, and it always balances them.\"",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
       "url": "https://www.themarginalian.org/2026/08/07/yes-to-life-in-spite-of-everything-viktor-frankl/",
@@ -20,26 +52,10 @@
       }
     },
     {
-      "title": "Hannah Arendt on Love and How to Live with the Fundamental Fear of Loss",
-      "url": "https://www.themarginalian.org/2026/08/08/love-and-saint-augustine-hannah-arendt/",
-      "description": "“Fearlessness is what love seeks… Such fearlessness exists only in the complete calm that can no longer be shaken by events expected of the future… Hence the only valid tense is the present, the Now.”",
-      "date": "Sat, 08 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "The Only Three Distinctions Between People",
-      "url": "https://www.themarginalian.org/2026/08/05/nathaniel-hawthorne-classification/",
-      "description": "It may be that consciousness evolved to sieve the relevant from the incomprehensible allness of all there is, to parse the world into concepts and find an organizing principle for the chaos of them. Our cognitive inheritance is a restless yearning to fathom how things cohere and where they belong, a yearning we have given shape to in laws and labels, weights and balances, hierarchies and categories. It has served us well, this instinct to categorize in order to contain, giving us music, the laws",
-      "date": "Wed, 05 Aug 2026",
+      "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
+      "url": "https://www.themarginalian.org/2026/08/09/pessoa-explorer/",
+      "description": "Life is an ongoing expedition into the brambled tendrilled wilderness of ourselves, continually stymied by all we mistake for a final destination — success, superhuman strength, the love of another. Along the way, we keep confusing experiment and exploration. An experiment proves or disproves an existing theory; its payoff is data, fixed and binary. An exploration is a traversal of the unknown, of landscapes you didn’t even know existed, with all the courage and vulnerability and openness to exp",
+      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -52,16 +68,16 @@
       }
     },
     {
-      "title": "Roots and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/08/04/roots/",
-      "description": "They are so far out of sight for us, creatures of the upper world, that we don’t readily think of them. But as soon as we do, as soon as we plunge the mind into the cold dark humus to which the body will one day return, they become a spell against despair and a consecration of all that is alive. Beneath our feet, roots spread fractal and pulmonary, veining the biosphere with the bloodstream of life. The word itself shares its root with “radical” and “race” in the Latin radix — the origin point f",
-      "date": "Tue, 04 Aug 2026",
+      "title": "Hannah Arendt on Love and How to Live with the Fundamental Fear of Loss",
+      "url": "https://www.themarginalian.org/2026/08/08/love-and-saint-augustine-hannah-arendt/",
+      "description": "“Fearlessness is what love seeks… Such fearlessness exists only in the complete calm that can no longer be shaken by events expected of the future… Hence the only valid tense is the present, the Now.”",
+      "date": "Sat, 08 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 15,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -84,19 +100,35 @@
       }
     },
     {
-      "title": "The Grasshopper and the “Lusory Attitude” Essential for Playing the Game of Life",
-      "url": "https://www.themarginalian.org/2026/08/02/suits-grasshopper/",
-      "description": "On a recent flight, I watched a mother across the aisle play peek-a-boo with her small son while next to me a grown man in a VR headset spent six hours ascending the levels of a video game. It occurred to me that what I was doing between them — reading — was also a game: a peek-a-boo of ideas advancing across levels of meaning. I thought of Newton, who reflected on his deathbed: “I don’t know what I may seem to the world, but, as to myself, I seem to have been only like a boy playing on the…  re",
-      "date": "Sun, 02 Aug 2026",
+      "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
+      "url": "https://www.themarginalian.org/2026/08/11/j-r-r-tolkien-on-fairy-stories/",
+      "description": "\"Creative fantasy, because it is mainly trying to do something else (make something new), may open your hoard and let all the locked things fly away like cage-birds.\"",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 20
+      }
+    },
+    {
+      "title": "The Stoic Antidote to Frustration: Marcus Aurelius on How to Keep Your Mental Composure and Emotional Equanimity When People Let You Down",
+      "url": "https://www.themarginalian.org/2026/08/09/marcus-aurelius-meditations-robin-waterfield/",
+      "description": "The art of tempering your fury with an infuriating existential truth.",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -132,83 +164,67 @@
       }
     },
     {
-      "title": "What Makes You You Makes the Universe: Nobel Laureate Erwin Schrödinger on Quantum Physics, Vedanta, and the Ongoing Mystery of What We Are",
-      "url": "https://www.themarginalian.org/2026/08/03/erwin-shcrodinger-my-view-of-the-world/",
-      "description": "\"This life of yours which you are living is not merely a piece of the entire existence, but is in a certain sense the whole.\"",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Your Brain on Grief, Your Heart on Healing",
+      "url": "https://www.themarginalian.org/2026/08/10/the-grieving-brain-mary-frances-o-connor/",
+      "description": "\"Grief is a heart-wrenchingly painful problem for the brain to solve… to live in the world with the absence of someone… ingrained in your understanding of the world… For the brain, [they are] simultaneously gone and also everlasting, and you are walking through two worlds at the same time.\"",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 14,
       "scoreDetail": {
         "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Kurt Vonnegut’s 8 Tenets of Storytelling",
+      "url": "https://www.themarginalian.org/2026/08/12/kurt-vonnegut-on-writing-stories/",
+      "description": "\"Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.\"",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Nick Cave on the Two Pillars of a Meaningful Life",
+      "url": "https://www.themarginalian.org/2026/08/10/nick-cave-humility-curiosity/",
+      "description": "\"Cultivating a questioning mind, of which conversation is the chief instrument, enriches our relationship with the world.\"",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "How to Live and How to Die",
-      "url": "https://www.themarginalian.org/2026/08/03/emily-levine-cold-solace-anna-belle-kaufman/",
-      "description": "\"Leave something of sweetness and substance in the mouth of the world.\"",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Rilke on the Relationship Between Solitude, Love, Sex, and Creativity",
-      "url": "https://www.themarginalian.org/2026/08/02/rilke-letters-to-a-young-poet-macy-barrows/",
-      "description": "\"There is only one solitude, and it is large and not easy to bear... People are drawn to the easy and to the easiest side of the easy. But it is clear that we must hold ourselves to the difficult.\"",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Trial, Triumph, and the Art of the Possible: The Remarkable Story Behind Beethoven’s “Ode to Joy”",
-      "url": "https://www.themarginalian.org/2026/08/04/beethoven-ode-to-joy/",
-      "description": "A hymn of rage, a hymn of redemption, and a timeless love letter to the possible.",
-      "date": "Tue, 04 Aug 2026",
+      "title": "The Story Behind Dylan Thomas’s “Do Not Go Gentle Into That Good Night” and the Poet’s Own Stirring Reading of His Masterpiece",
+      "url": "https://www.themarginalian.org/2026/08/11/dylan-thomas-do-not-go-gentle-into-that-good-night/",
+      "description": "\"Rage, rage against the dying of the light.\"",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Polyvagal Theory and the Neurobiology of Connection: The Science of Rupture, Repair, and Reciprocity",
-      "url": "https://www.themarginalian.org/2026/08/05/polyvagal-theory/",
-      "description": "\"The mind narrates what the nervous system knows. Story follows state.\"",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/08/06/john-odonohue-blessings-beginnings/",
       "description": "\"Our very life here depends directly on continuous acts of beginning.\"",
       "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Enchantment and the Courage of Joy: René Magritte on the Antidote to the Banality of Pessimism",
-      "url": "https://www.themarginalian.org/2026/08/02/rene-magritte-enchantment/",
-      "description": "\"Life is wasted when we make it more terrifying, precisely because it is so easy to do so.\"",
-      "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

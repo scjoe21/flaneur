@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-08-09T17:46:38.111284+00:00",
+  "fetchedAt": "2026-08-14T05:29:04.065110+00:00",
   "items": [
+    {
+      "title": "How to think like a Hegelian",
+      "url": "https://psyche.co/guides/how-to-think-like-a-hegelian",
+      "description": "For Hegel, your thoughts aren’t trapped in a cerebral box: they act on the world, making meaning and expressing your freedom - by Jeffrey Reid Read on Psyche",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "How to cultivate compassion",
       "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
@@ -17,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "How to stop avoiding life",
-      "url": "https://psyche.co/videos/five-research-backed-strategies-for-living-fully-with-anxiety",
-      "description": "Your anxiety may never fully recede. Here’s five research-backed strategies to help you live a life bigger than your fear - Video by Doctor Ali Mattu Watch on Psyche",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
       }
     },
     {
@@ -116,51 +116,99 @@
       }
     },
     {
-      "title": "Why some men seek refuge in ever bigger muscles",
-      "url": "https://psyche.co/ideas/why-some-men-seek-refuge-in-ever-bigger-muscles",
-      "description": "Diagnoses of muscle dysmorphia or ‘bigorexia’ are rising. A psychoanalytic lens offers an explanation – and a healthier path - by Tom Wooldridge Read on Psyche",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Make some noise",
-      "url": "https://psyche.co/notes-to-self/sexist-thinking-about-feminine-voices-goes-way-way-back",
-      "description": "As a girl, I felt I should change my voice. Anne Carson’s writing on the ancient Greeks shows how old that pressure is - by Hannah Seo Read on Psyche",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "After the performance",
-      "url": "https://psyche.co/portraits/the-nba-superstar-carmelo-anthony-on-life-after-basketball",
-      "description": "For 19 years, the NBA superstar Carmelo Anthony mastered the version of himself the world demanded. Retired from basketball, he confronts a harder question: who is he now? - by D Watkins Read on Psyche",
-      "date": "Thu, 30 Jul 2026",
+      "title": "The satisfaction of doing work that lasts",
+      "url": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts",
+      "description": "In Studs Terkel’s oral history ‘Working’, some of the people happiest with their work have something in common - by Matt Huston Read on Psyche",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "A portrait of Liliana Porter",
+      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
+      "description": "Bringing to life her charming cast of vintage figurines, an Argentinian artist finds humour and sorrow in absurdity - Video by the Museum of Modern Art Watch on Psyche",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The impact of self-talk",
+      "url": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial",
+      "description": "Is your inner voice helping you or holding you back? Dig into the science on the real-life impacts of self-talk - Video by TED-Ed Watch on Psyche",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Writing letters is a spiritual practice for our age of speed",
+      "url": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed",
+      "description": "Handwritten letters seem like a remnant of pre-online life, but they connect us to ourselves and each other like nothing else - by Amanda Leigh Lichtenstein Read on Psyche",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Two actors, no director, one dreamlike play",
+      "url": "https://psyche.co/turning-points/how-acting-in-a-surreal-play-in-my-pyjamas-healed-my-heartache",
+      "description": "After a painful breakup, I found myself agreeing to perform in a surreal play, dressed in my pyjamas - by Melissa Matthewson Read on Psyche",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Being in a crowd doesn’t make you part of a mindless mob",
+      "url": "https://psyche.co/ideas/being-in-a-crowd-doesnt-make-you-part-of-a-mindless-mob",
+      "description": "It’s often assumed people lose their minds in a crowd. Research on riots, festivals and sports tells a more uplifting story - by John Drury Read on Psyche",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://psyche.co/videos/birth-doulas-are-almost-exclusively-female-enter-teddy",
       "description": "As a security guard and childbirth doula, Teddy challenges stereotypes of masculinity with knowledge, calm and care - Directed by Lauren Santucci Watch on Psyche",
       "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "In praise of not-quite-friends",
-      "url": "https://psyche.co/notes-to-self/in-praise-of-the-not-quite-friends-who-make-us-smile",
-      "description": "Learning about the Korean concept of ‘jeong’ helped me understand the importance of my not-quite-friends at the gym - by Christian Jarrett Read on Psyche",
-      "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Your deepest regrets help you see yourself more clearly",
-      "url": "https://psyche.co/ideas/your-deepest-regrets-help-you-see-yourself-more-clearly",
-      "description": "Far from being a waste of time, the regrets that haunt you reveal more about who you are than your successes ever could - by Joshua Halberstam Read on Psyche",
-      "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "We were there to be there",
-      "url": "https://psyche.co/videos/how-two-punk-bands-came-to-play-a-california-psychiatric-hospital",
-      "description": "The chaotic and joyful musical moment in 1978 when two punk bands played a gig at a psychiatric hospital in California - A film by Mike Plante and Jason Willis Watch on Psyche",
-      "date": "Tue, 28 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

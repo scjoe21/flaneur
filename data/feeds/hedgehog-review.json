@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-08-09T17:46:52.296646+00:00",
+  "fetchedAt": "2026-08-14T05:29:15.643852+00:00",
   "items": [
     {
       "title": "Birthright and Belonging",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "The Banality of Antisemitism",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/the-banality-of-antisemitism",
+      "description": "Hate for the other comes not only from our hate for who we are but also for what we are not.",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/can-soccer-be-normal-in-america",
       "description": "",
       "date": "Thu, 18 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Tolstoy and the Illusion of Inevitability",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/tolstoy-and-the-illusion-of-inevitability",
-      "description": "AI reduces the apparent space of possibilities by presenting one path as the path. Many “futuribles” are reduced to one.",
-      "date": "Tue, 16 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

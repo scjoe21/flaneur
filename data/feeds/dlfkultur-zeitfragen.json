@@ -1,8 +1,24 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-09T17:46:45.393235+00:00",
+  "fetchedAt": "2026-08-14T05:29:10.762036+00:00",
   "items": [
+    {
+      "title": "Finanzbildung - Jung sein und clever mit Geld umgehen",
+      "url": "https://www.deutschlandfunkkultur.de/der-preis-der-entscheidung-wie-junge-menschen-den-umgang-mit-geld-lernen-100.html",
+      "description": "Heute reden junge Menschen sehr selbstverständlich über ETFs oder Kryptowährungen. Gleichzeitig haben immer mehr von ihnen Geldprobleme. Wie kann man teuren Verlockungen in den sozialen Netzwerken widerstehen und vernünftig wirtschaften? Leue, Vivien www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
+      }
+    },
     {
       "title": "Online im Alter - Analog erfahren, digital abgehängt?",
       "url": "https://www.deutschlandfunkkultur.de/online-im-alter-analog-erfahren-digital-abgehaengt-100.html",
@@ -84,6 +100,38 @@
       }
     },
     {
+      "title": "Umweltgifte - Chemie-Cocktail und mehr – Was uns wirklich im Blut liegt",
+      "url": "https://www.deutschlandfunkkultur.de/umweltgift-chemikalien-blut-100.html",
+      "description": "Wir alle haben Weichmacher und andere Chemikalien in unserem Körper. Einige davon stehen im Verdacht, krank zu machen. Forschende wollen herausfinden, ob man die Gefahr verringern kann – durch den Lebensstil und durch Gesetze. (Erstsendung: 12.12.2024) Nordwig, Hellmuth www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 25
+      }
+    },
+    {
+      "title": "Geschichte der USA - Der Häuptling und der Bierbrauer",
+      "url": "https://www.deutschlandfunkkultur.de/chief-metacom-die-puritaner-und-ein-bierbrauer-100.html",
+      "description": "Der erste indigene Widerstandskrieg Nordamerikas endet mit dem Tod von Metacomet, Häuptling der Wampanoags, am 12.08.1676. Ein Bierfabrikant errichtet Jahre später eine Gedenkstätte gegen das kollektive Vergessen der Verbrechen an den Indigenen. Sobich, Nora www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "Beton - Ein Baustoffwunder im Wandel",
       "url": "https://www.deutschlandfunkkultur.de/beton-was-man-draus-macht-und-wie-man-ihn-machen-kann-100.html",
       "description": "Die Erfindung des Betons hat massenhaftes Bauen günstig gemacht. Aber: Acht Prozent aller CO2-Emissionen gehen auf die Produktion von Zement zurück. Kann der Baustoff bis zur Mitte des Jahrhunderts klimaneutral werden? (Erstsendedatum: 31.03.2025) Wessel, Günther www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -116,35 +164,19 @@
       }
     },
     {
-      "title": "Kraken - Rätselhafte Aliens der Meere",
-      "url": "https://www.deutschlandfunkkultur.de/kraken-ueber-die-faszination-der-irdischen-aliens-100.html",
-      "description": "Drei Herzen, neun Gehirne, blaues Blut: Kraken scheinen nicht von dieser Welt zu sein. Sie wirken wie Aliens und wurden als Orakel bestaunt. Mit ihrer fremdartigen Intelligenz inspirieren sie die Robotik und geben der Forschung immer neue Rätsel auf. Beller, Svenja www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 16 Jul 2026",
+      "title": "Ostdeutschland - Zurück aufs Land",
+      "url": "https://www.deutschlandfunkkultur.de/ostdeutschland-gibt-es-wege-aus-der-demografischen-falle-100.html",
+      "description": "Seit 1990 ist die Bevölkerung in Ostdeutschland um 16 Prozent geschrumpft. Besonders betroffen sind ländliche Gegenden. Kitas schließen und Busverbindungen werden gestrichen. Doch es gibt Ideen, um junge Familien wieder vom Dorfleben zu überzeugen. Schulz, Brigitte www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (1/4) - Eine Ideologie überlebt ihre Niederlage",
-      "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-rechte-intellektuelle-der-bundesrepublik-1-4-100.html",
-      "description": "Nach Ende des Zweiten Weltkriegs mussten sich rechte Netzwerke neu organisieren. Sie konnten sich nicht mehr offen auf den besiegten Nationalsozialismus berufen, suchten aber Wege, ihre Ideologie in die junge Bundesrepublik zu retten. (Erstsendung am 10.09.25) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature Hören bis: 15. Juli 2028, 19:30",
-      "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -193,38 +225,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "Palliative Geburt - Schwanger, um Abschied zu nehmen",
-      "url": "https://www.deutschlandfunkkultur.de/solange-das-herz-schlaegt-spaetabbruch-fetozid-und-palliative-geburt-100.html",
-      "description": "Statt die Schwangerschaft nach einer schweren pränatalen Diagnose abzubrechen, können Frauen ihr Baby auch palliativ zur Welt bringen. Eltern, die das erlebt haben, berichten von einem wertvollen Abschied, der so sonst nicht möglich gewesen wäre. Müller-Frank, Stefanie www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 20 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Ein Haufen Hoffnung - Was alles im Kompost steckt",
-      "url": "https://www.deutschlandfunkkultur.de/ein-haufen-hoffnung-ueber-das-was-im-kompost-steckt-102.html",
-      "description": "Kompost ist mehr als nur Biomüll: Im Komposthaufen wird aus Küchen- und Gartenabfällen fruchtbarer Humus - eine klimaschonende Kreislaufwirtschaft, die Ressourcen spart und Böden verbessert. Doch das ist noch längst nicht alles. Goretzki, Anna Marie www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 14 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {

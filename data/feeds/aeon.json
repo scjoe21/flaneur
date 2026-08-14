@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-08-09T17:46:33.991078+00:00",
+  "fetchedAt": "2026-08-14T05:29:02.665792+00:00",
   "items": [
     {
       "title": "Ani Liu: eye heart womb",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "How art invented humanity",
-      "url": "https://aeon.co/essays/humans-did-not-invent-art-it-was-the-other-way-around",
-      "description": "When early humans first painted cave walls, they began to find out who they really were: our minds emerged from our images - by J F Martel Read on Aeon",
-      "date": "Thu, 30 Jul 2026",
+      "title": "How we meet the future",
+      "url": "https://aeon.co/essays/when-is-stereotyping-a-handy-tool-and-when-is-it-a-sin",
+      "description": "If we couldn’t make generalisations, we would be paralysed by the world’s complexity. Does that ever excuse stereotyping? - by Tom Ralston Read on Aeon",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 20
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How to spot pseudoscience",
-      "url": "https://aeon.co/videos/three-handy-tools-for-separating-pseudoscience-from-the-real-deal",
-      "description": "We are living in a golden age of pseudoscience. Here are three helpful tools for separating science from its imitator - by Aeon Video Watch on Aeon",
-      "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -148,6 +132,22 @@
       }
     },
     {
+      "title": "Bouncy brothers",
+      "url": "https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream",
+      "description": "Two brothers struggle to keep a bouncy house business afloat in this nuanced portrait of family and the pursuit of success - by Aeon Video Watch on Aeon",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Resist the technocrats",
       "url": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international",
       "description": "Through international organisations, they wield power under the pretence of simply following the experts. Don’t believe them - by Jan Eijking Read on Aeon",
@@ -164,58 +164,10 @@
       }
     },
     {
-      "title": "The light narrows",
-      "url": "https://aeon.co/essays/what-kind-of-strength-did-i-chase-with-a-cojones-cheat-code",
-      "description": "My father’s death sent me to the jiu-jitsu mat. Then came defeat, low testosterone and the lure of a chemical cheat code - by Wes Brown Read on Aeon",
-      "date": "Tue, 28 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "In search of the northern cassowary",
-      "url": "https://aeon.co/videos/scientists-and-locals-unite-to-film-a-large-elusive-new-guinean-bird",
-      "description": "Join the search for the elusive cassowary, a big bird that plays an outsized role in maintaining its rainforest home - by Aeon Video Watch on Aeon",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The taming of Black thought",
-      "url": "https://aeon.co/essays/epistemic-convergence-in-the-study-of-world-philosophies",
-      "description": "Black philosophers now feature on Western curricula, but the European tradition diminishes their radicalism into reassurance - by Takeshi Morisato Read on Aeon",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Signal then storm",
-      "url": "https://aeon.co/essays/a-researchers-50-year-hunt-for-the-source-of-chronic-pain",
-      "description": "Allan Basbaum has spent 50 years searching the nervous system for the places where pain begins – and where it can be stopped - by Stephani Sutherland Read on Aeon",
-      "date": "Fri, 24 Jul 2026",
+      "title": "Mecca and the mall",
+      "url": "https://aeon.co/essays/my-pilgrimage-to-mecca-in-the-age-of-the-golf-cart-and-mall",
+      "description": "In a bid for spiritual renewal, I made a pilgrimage to Islam’s holy city. Almost everything I expected to see was gone - by Azania Imtiaz Patel Read on Aeon",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -225,6 +177,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Where the earth meets the sky",
+      "url": "https://aeon.co/videos/in-the-remote-desert-an-awe-inspiring-artwork-collapses-time-and-space",
+      "description": "After half a century in the making, an observatory in New Mexico lets viewers peer 13,000 years into the future and the past - by Aeon Video Watch on Aeon",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "A second sexual revolution",
+      "url": "https://aeon.co/essays/how-shere-hite-listened-to-womens-sexual-desires-and-dislikes",
+      "description": "Until Shere Hite’s Report, even the most daring sexologists refused to listen to what women desired and hated in sex - by Rosa Campbell Read on Aeon",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Khosheutovsky khurul",
+      "url": "https://aeon.co/videos/the-strange-circuitous-history-of-europes-oldest-buddhist-temple",
+      "description": "The oldest Buddhist temple in Europe is an architectural anomaly, built in memory of the Kalmyk regiment that fought Napoleon - by Aeon Video Watch on Aeon",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-08-09T17:46:56.305772+00:00",
+  "fetchedAt": "2026-08-14T05:29:21.585507+00:00",
   "items": [
     {
       "title": "コヨーテ歩き撮り#254",
@@ -17,6 +17,22 @@
         "flaneur": 12,
         "novelty": 0,
         "total": 17
+      }
+    },
+    {
+      "title": "コヨーテ歩き撮り#255",
+      "url": "https://keisobiblio.com/2026/08/10/coyote255/",
+      "description": "夏を逃れて北へ。オホーツク海はしずかな海だった。地図を見れば、それがどれほど広大な内海かは一目瞭然。\n\nNorth-bound to escape the summer. The Sea of Okhotsk is sublimely calm. Take a look at the map and you will know how vast this inland sea is.",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://keisobiblio.com/2026/08/04/atogakitachiyomi_genderriron/",
       "description": "「序章」と「訳者解説」を公開しました。",
       "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あとがきたちよみ『掌の美術論――触覚と想像力』",
-      "url": "https://keisobiblio.com/2026/07/02/atogakitachiyomi_tenohiranobijutsuron/",
-      "description": "「プロローグ」と「エピローグ」を公開しました。",
-      "date": "Thu, 02 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
