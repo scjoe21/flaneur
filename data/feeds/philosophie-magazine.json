@@ -1,45 +1,45 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-07T05:31:49.735664+00:00",
+  "fetchedAt": "2026-08-14T19:32:59.727110+00:00",
   "items": [
     {
-      "title": "Santé mentale : comment lutter contre notre addiction aux écrans (et résister aux sollicitations)",
-      "url": "https://www.philomag.com/articles/sante-mentale-comment-lutter-contre-notre-addiction-aux-ecrans-et-resister-aux",
+      "title": "“Eurêka !” : comment découvre-t-on des vérités mathématiques ?",
+      "url": "https://www.philomag.com/articles/eureka-comment-decouvre-t-des-verites-mathematiques",
       "description": "",
-      "date": "Sun, 02 Aug 2026",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "À la reconquête de notre temps libre : comment retrouver un véritable temps à soi",
+      "url": "https://www.philomag.com/articles/la-reconquete-de-notre-temps-libre-comment-retrouver-un-veritable-temps-soi",
+      "description": "",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 15
       }
     },
     {
-      "title": "Ritualiser le quotidien : une arme contre l’aliénation du monde moderne ?",
-      "url": "https://www.philomag.com/articles/ritualiser-le-quotidien-une-arme-contre-lalienation-du-monde-moderne",
+      "title": "Qui aime bien s’engueule bien ? Une plongée dans l’intimité des disputes",
+      "url": "https://www.philomag.com/articles/qui-aime-bien-sengueule-bien-une-plongee-dans-lintimite-des-disputes",
       "description": "",
-      "date": "Sat, 01 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "“Un nouvel état de conscience avec l'ayahuasca” : le “sentiment océanique\" par Mathilde Ramadier",
-      "url": "https://www.philomag.com/articles/un-nouvel-etat-de-conscience-avec-layahuasca-le-sentiment-oceanique-par-mathilde",
-      "description": "",
-      "date": "Thu, 06 Aug 2026",
+      "date": "Fri, 07 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,42 +52,10 @@
       }
     },
     {
-      "title": "Rûmî, Sohrawardi, Avicenne… À la découverte de la pensée iranienne",
-      "url": "https://www.philomag.com/articles/rumi-sohrawardi-avicenne-la-decouverte-de-la-pensee-iranienne",
+      "title": "Barbara Cassin sur les traces d’Ulysse au Louvre",
+      "url": "https://www.philomag.com/articles/barbara-cassin-sur-les-traces-dulysse-au-louvre",
       "description": "",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "“Et soudain tout est changé !” : le “sentiment océanique” par André Comte-Sponville",
-      "url": "https://www.philomag.com/articles/et-soudain-tout-est-change-le-sentiment-oceanique-par-andre-comte-sponville",
-      "description": "",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "“Le yoga permet une forme de connexion au cosmos” : le “sentiment océanique” par Jeanne Burgart Goutal",
-      "url": "https://www.philomag.com/articles/le-yoga-permet-une-forme-de-connexion-au-cosmos-le-sentiment-oceanique-par-jeanne",
-      "description": "",
-      "date": "Fri, 07 Aug 2026",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +68,10 @@
       }
     },
     {
-      "title": "La religion, un opium du peuple… bénéfique et nécessaire ? Le point de vue de Denis Moreau",
-      "url": "https://www.philomag.com/articles/la-religion-un-opium-du-peuple-benefique-et-necessaire-le-point-de-vue-de-denis-moreau",
+      "title": "La domestication du feu, une affaire humaine… et animale ?",
+      "url": "https://www.philomag.com/articles/la-domestication-du-feu-une-affaire-humaine-et-animale",
       "description": "",
-      "date": "Thu, 06 Aug 2026",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +84,10 @@
       }
     },
     {
-      "title": "Que pensaient les philosophes du général de Gaulle ?",
-      "url": "https://www.philomag.com/articles/que-pensaient-les-philosophes-du-general-de-gaulle",
+      "title": "“L’Esprit du surf” : chevauchez la vague avec Guillaume Durand",
+      "url": "https://www.philomag.com/articles/lesprit-du-surf-chevauchez-la-vague-avec-guillaume-durand",
       "description": "",
-      "date": "Wed, 05 Aug 2026",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +100,10 @@
       }
     },
     {
-      "title": "Avec James Joyce à Dublin… Une Odyssée éthylique !",
-      "url": "https://www.philomag.com/articles/avec-james-joyce-dublin-une-odyssee-ethylique",
+      "title": "Retrouver notre attention perdue : oui, mais sans la discipliner !",
+      "url": "https://www.philomag.com/articles/retrouver-notre-attention-perdue-oui-mais-sans-la-discipliner",
       "description": "",
-      "date": "Wed, 05 Aug 2026",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +116,10 @@
       }
     },
     {
-      "title": "“Pour revenir, il faut d’abord se perdre” : les errances d’Ulysse par Élodie Pinel",
-      "url": "https://www.philomag.com/articles/pour-revenir-il-faut-dabord-se-perdre-les-errances-dulysse-par-elodie-pinel",
+      "title": "“L’Odyssée, c’est de la vie mise en récit” : entretien avec Christophe Ono-dit-Biot",
+      "url": "https://www.philomag.com/articles/lodyssee-cest-de-la-vie-mise-en-recit-entretien-avec-christophe-ono-dit-biot",
       "description": "",
-      "date": "Tue, 04 Aug 2026",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +132,10 @@
       }
     },
     {
-      "title": "Sexe, mensonges et débat d’idées : Ovidie contre Emma Becker",
-      "url": "https://www.philomag.com/articles/sexe-mensonges-et-debat-didees-ovidie-contre-emma-becker",
+      "title": "L’imagination fait-elle tourner le monde ?",
+      "url": "https://www.philomag.com/articles/limagination-fait-elle-tourner-le-monde",
       "description": "",
-      "date": "Mon, 03 Aug 2026",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +148,10 @@
       }
     },
     {
-      "title": "“Émousser les frontières entre mon corps et le monde grâce à la musique” : le “sentiment océanique” par Natalie Depraz",
-      "url": "https://www.philomag.com/articles/emousser-les-frontieres-entre-mon-corps-et-le-monde-grace-la-musique-le-sentiment",
+      "title": "Poutine vers la fuite en avant ? La chronique de Michel Eltchaninoff",
+      "url": "https://www.philomag.com/articles/poutine-vers-la-fuite-en-avant-la-chronique-de-michel-eltchaninoff",
       "description": "",
-      "date": "Sun, 02 Aug 2026",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +164,10 @@
       }
     },
     {
-      "title": "Les mille et un visages d’Ulysse : entretien avec Daniel Mendelsohn",
-      "url": "https://www.philomag.com/articles/les-mille-et-un-visages-dulysse-entretien-avec-daniel-mendelsohn",
+      "title": "Sartre, Beauvoir et l’Occupation : les deux philosophes étaient-ils des “salauds” ?",
+      "url": "https://www.philomag.com/articles/sartre-beauvoir-et-loccupation-les-deux-philosophes-etaient-ils-des-salauds",
       "description": "",
-      "date": "Sat, 01 Aug 2026",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +180,10 @@
       }
     },
     {
-      "title": "Peut-on avoir raison par hasard ? Quand les complotistes voient (parfois) juste",
-      "url": "https://www.philomag.com/articles/peut-avoir-raison-par-hasard-quand-les-complotistes-voient-parfois-juste",
+      "title": "“Troie continue d’être le lieu que nous habitons” : entretien avec Alberto Manguel",
+      "url": "https://www.philomag.com/articles/troie-continue-detre-le-lieu-que-nous-habitons-entretien-avec-alberto-manguel",
       "description": "",
-      "date": "Fri, 31 Jul 2026",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +196,42 @@
       }
     },
     {
-      "title": "Enquête dans la tête de Vincent Bolloré",
-      "url": "https://www.philomag.com/articles/enquete-dans-la-tete-de-vincent-bollore",
+      "title": "Et si vous emmeniez “Spinoza à la plage” ?",
+      "url": "https://www.philomag.com/articles/et-si-vous-emmeniez-spinoza-la-plage",
       "description": "",
-      "date": "Fri, 31 Jul 2026",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Points de suspension sur nos messageries : attendre… toujours attendre ?",
+      "url": "https://www.philomag.com/articles/points-de-suspension-sur-nos-messageries-attendre-toujours-attendre",
+      "description": "",
+      "date": "Sat, 08 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Calypso, Nausicaa, Circé, Pénélope… Les femmes puissantes de l’Odyssée",
+      "url": "https://www.philomag.com/articles/calypso-nausicaa-circe-penelope-les-femmes-puissantes-de-lodyssee",
+      "description": "",
+      "date": "Sat, 08 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,29 +1,13 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-07T05:33:23.549371+00:00",
+  "fetchedAt": "2026-08-14T19:34:05.678361+00:00",
   "items": [
     {
-      "title": "Spähsoftware im Handy – Wie Staaten uns heimlich überwachen",
-      "url": "https://www.swr.de/swrkultur/wissen/spaehsoftware-im-handy-wie-staaten-uns-heimlich-ueberwachen-100.html",
-      "description": "Unter Auflagen können Sicherheitsbehörden Spähsoftware benutzen, um Kriminelle zu überführen. Doch in der EU häufen sich Fälle, in denen etwa Regierungs-Kritiker illegal ausspioniert werden. Eine Gefahr für die Demokratie.\nVon Benjamin Breitegger (SWR 2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/spyware\nHörtipp:\nSpionage in Wien – Wie Österreich zum Drehkreuz der Geheimdienste wurde\nhttps://www.ardaudiothek.de/episode/urn:ard:episode:ab50653686c05155/\nBei Fragen und Anregungen schreibt u",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Hitze – Wann sie gefährlich wird und wie wir uns anpassen",
-      "url": "https://www.swr.de/swrkultur/wissen/hitze-wann-sie-gefaehrlich-wird-und-wie-wir-uns-anpassen-108.html",
-      "description": "Hitzewellen sind belastend, doch mit der richtigen Anpassung lassen sie sich gut überstehen. Dazu gehört, sich nicht ausschließlich in klimatisierten Räumen zu schonen, sondern den Körper an Hitze zu gewöhnen.",
-      "date": "Fri, 31 Jul 2026",
+      "title": "Der Kuss – Warum es ihn gibt",
+      "url": "https://www.swr.de/swrkultur/wissen/der-kuss-warum-es-ihn-gibt-102.html",
+      "description": "Geküsst wird seit rund 5.000 Jahren, unter Paaren, Politikern und selbst in der Kirche. In rund der Hälfte der Kulturen ist Küssen allerdings verpönt. Ist der Kuss vielleicht ein Auslaufmodell? Von Matthias Kußmann (SWR 2024) | Manuskript und mehr zur Sendung: http://swr.li/der-kuss | Bei Fragen und Anregungen schreibt uns: daswissen@swr.de | Folgt uns auf Mastodon: https://ard.social/@DasWissen",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -33,6 +17,54 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Inklusion an Schulen ‒ Woran sie scheitert und wie sie gelingt",
+      "url": "https://www.swr.de/swrkultur/wissen/inklusion-an-schulen-woran-sie-scheitert-und-wie-sie-gelingt-100.html",
+      "description": "Eltern haben die Wahl, wo ihr Kind mit Förderbedarf zur Schule gehen soll. Doch Inklusion an Schulen hapert immer noch an baulichen Einschränkungen, fehlendem Personal, am Geld.",
+      "date": "Sat, 8 Aug 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Wie KI die Schule und das Lernen beeinflusst",
+      "url": "https://www.swr.de/swrkultur/wissen/wie-ki-die-schule-und-das-lernen-beeinflusst-102.html",
+      "description": "KI kann Schülern die Hausaufgaben abnehmen – oder sinnvoll eingesetzt werden. Dafür muss der Umgang mit ihnen auch in der Schule geübt werden.",
+      "date": "Sat, 15 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Vernetzter Wald – Wie Pilze und Pflanzen kommunizieren",
+      "url": "https://www.swr.de/swrkultur/wissen/vernetzter-wald-wie-pilze-und-pflanzen-kommunizieren-100.html",
+      "description": "Was esoterisch klingt, erforschen inzwischen Wissenschaftler: Unter Waldböden verläuft ein natürlich gewachsenes \"Wood Wide Web\".",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -84,16 +116,16 @@
       }
     },
     {
-      "title": "Queer und alt – Zwischen Pride und Einsamkeit",
-      "url": "https://www.swr.de/swrkultur/wissen/queer-und-alt-zwischen-pride-und-einsamkeit-100.html",
-      "description": "Diskriminierung prägt viele queere Menschen bis ins Alter. In Seniorenheimen fürchten sie Ausgrenzung und Einsamkeit. Doch das Bewusstsein für die Bedürfnisse einer vielfältigen älteren Generation wächst.\nVon Horst Gross (SWR 2025/2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/queer-im-alter\nHörtipp:\nBuchgefühl\nhttps://1.ard.de/buchgefuehl\nBei Fragen und Anregungen schreibt uns:\ndaswissen@swr.de\nFolgt uns auf Mastodon:\nhttps://ard.social/@DasWissen",
-      "date": "Sat, 25 Jul 2026",
+      "title": "Tierschutz im Reitsport – Was Pferde leisten und wann sie leiden",
+      "url": "https://www.swr.de/swrkultur/wissen/tierschutz-im-reitsport-was-pferde-leisten-und-wann-sie-leiden-100.html",
+      "description": "Am 11. August 2026 startet in Aachen die Reit-WM. Nach einer Regellockerung wird über das Tierwohl im Pferdesport diskutiert: Wie viel Leistungsdruck darf sein?",
+      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -116,6 +148,38 @@
       }
     },
     {
+      "title": "Jules Verne – Schreibender Abenteurer und Vater der Science-Fiction",
+      "url": "https://www.swr.de/swrkultur/wissen/jules-verne-schreibender-abenteurer-und-vater-der-science-fiction-100.html",
+      "description": "Die Romane von Jules Verne sind bis heute weltberühmt – auch, weil der Autor technische Ideen seiner Zeit aufgriff und visionär fortentwickelte. Von Marc Bädorf und Undine Fuchs (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/jules-verne\nHörtipp:\nTolkien und \"Der Herr der Ringe\" – Fantasy-Erfolg eines Sprachgenies\nhttps://www.ardaudiothek.de/episode/das-wissen/tolkien-und-der-herr-der-ringe-fantasy-erfolg-eines-sprachgenies/swr-kultur/13530427/\nBei Fragen und Anregungen schreibt uns:\nd",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Podcast-Tipp: Die Abnehmspritze – Schlank um jeden Preis?",
+      "url": "https://www.swr.de/swrkultur/wissen/podcast-tipp-die-abnehmspritze-schlank-um-jeden-preis-100.html",
+      "description": "Abnehmspritzen. Ozempic, Wegovy und Co. werden als medizinische Revolution gefeiert. Aber der Hype um das neue Medikament hat auch seine Schattenseiten.",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Geoengineering im Meer – Mit Mineralien gegen den Klimawandel?",
       "url": "https://www.swr.de/swrkultur/wissen/geoengineering-im-meer-mit-mineralien-gegen-den-klimawandel-100.html",
       "description": "Könnte man das Meer dazu bringen, mehr CO2 aus der Atmosphäre aufzunehmen, um so die globale Erwärmung zu bremsen? An einem solchen Verfahren wird weltweit geforscht.",
@@ -126,38 +190,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Können Männer Feministen sein?",
-      "url": "https://www.swr.de/swrkultur/wissen/koennen-maenner-feministen-sein-100.html",
-      "description": "Von mangelnder Care-Arbeit bis zum Schweigen bei sexualisierter Gewalt: Selbst aufgeklärte Männer unterschätzen Frauen und sind tendenziell weniger mitfühlend. Was tun?",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Biodiversität in Städten – Ungeahnte Vielfalt in Parks und Mauerritzen",
-      "url": "https://www.swr.de/swrkultur/wissen/biodiversitaet-in-staedten-ungeahnte-vielfalt-in-parks-und-mauerritzen-100.html",
-      "description": "Allein in Berlin gibt es über 20.000 Tier- und Pflanzenarten. Doch zunehmende Versiegelung bedroht die Vielfalt. Tierfreundliche Architektur und mehr ökologisches Bewusstsein könnten sie bewahren.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/biodiversitaet-staedte\nInfos:\nUm die Artenvielfalt in den Städten zu erfassen, kann jede und jeder mithelfen! Dazu informiert unter anderem die Stiftung für Naturschutz\nhttps://www.stiftung-naturschutz.de/presse/pressemitte",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -180,58 +212,26 @@
       }
     },
     {
+      "title": "Die Sonne – Stern des Lebens, der Energie und der Zerstörung",
+      "url": "https://www.swr.de/swrkultur/wissen/die-sonne-stern-des-lebens-der-energie-und-der-zerstoerung-112.html",
+      "description": "Ohne die Sonne könnten wir nicht leben, sie spendet Wärme und Licht. Doch die Erde ist auch eine Art Insel – rund um die Uhr der Brandung des bedrohlichen Sonnenwinds ausgesetzt.",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Eisenmangel und seine Folgen – Müde, unkonzentriert, kurzatmig",
       "url": "https://www.swr.de/swrkultur/wissen/eisenmangel-und-seine-folgen-muede-unkonzentriert-kurzatmig-100.html",
       "description": "Bei Eisenmangel leidet der Sauerstofftransport im Blut, in der Folge ist der Körper weniger leistungsfähig. Und das gilt auch für das Gehirn. Wichtiger Marker: das Ferritin im Blutserum.",
       "date": "Wed, 5 Aug 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bunker, Tiefgaragen, private Keller – Wo wir im Ernstfall Schutz finden",
-      "url": "https://www.swr.de/swrkultur/wissen/bunker-tiefgaragen-private-keller-wo-wir-im-ernstfall-schutz-finden-100.html",
-      "description": "Ein Angriff, ein Schadstoff-Unfall: Nur eine halbe Million Deutsche fände Platz in einem alten Bunker. Die Bundesregierung investiert Milliarden in den Zivilschutz. Privatpersonen sollten sich vorbereiten.",
-      "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Mode online shoppen mit KI – Passende Outfits, weniger Retouren?",
-      "url": "https://www.swr.de/swrkultur/wissen/mode-online-shoppen-mit-ki-passende-outfits-weniger-retouren-100.html",
-      "description": "Ein Foto von sich aufnehmen, in der App hochladen und schon empfiehlt sie die richtige Kleidergröße. Das würde zielgenaues Online-Shoppen ermöglichen und könnte die Retouren halbieren.",
-      "date": "Tue, 28 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Populismus? Faschismus? Politische Begriffe und ihre Grenzen",
-      "url": "https://www.swr.de/swrkultur/wissen/populismus-faschismus-politische-begriffe-und-ihre-grenzen-102.html",
-      "description": "Ist die AfD \"populistisch\"? Ist Trump ein \"Faschist\"? Solche Begriffe helfen einerseits, politische Phänomene einzuordnen. Doch manchmal machen wir es uns damit zu einfach.",
-      "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

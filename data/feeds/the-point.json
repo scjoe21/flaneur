@@ -1,8 +1,24 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-08-07T05:33:28.130967+00:00",
+  "fetchedAt": "2026-08-14T19:34:08.502518+00:00",
   "items": [
+    {
+      "title": "Student of Desire",
+      "url": "https://thepointmag.com/criticism/student-of-desire/",
+      "description": "It’s one thing to think abstractly about what men want, as a literary or philosophical question, or even to decry sexism as a social phenomenon; it’s another to be a single woman in New York City seeking love and partnership, and to worry that what you have to offer is not especially desired by those you are attracted to. \n The post  Student of Desire  appeared first on  The Point Magazine .",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
     {
       "title": "On Radical Preservation",
       "url": "https://thepointmag.com/letter/on-radical-preservation/",
@@ -20,9 +36,9 @@
       }
     },
     {
-      "title": "After the Post-Avant-Garde",
-      "url": "https://thepointmag.com/criticism/after-the-post-avant-garde/",
-      "description": "The last pre-COVID exhibition at the gallery Reena Spaulings Fine Art in downtown New York was titled Paint-It-Yourself. The exhibit, showing new work by Merlin […] \n The post  After the Post-Avant-Garde  appeared first on  The Point Magazine .",
+      "title": "The Fifth Syllable",
+      "url": "https://thepointmag.com/literature/the-fifth-syllable/",
+      "description": "Great—I’d love to help. Do you have a particular story in mind? \n The post  The Fifth Syllable  appeared first on  The Point Magazine .",
       "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -36,25 +52,41 @@
       }
     },
     {
-      "title": "The Fifth Syllable",
-      "url": "https://thepointmag.com/literature/the-fifth-syllable/",
-      "description": "Q. Great—I’d love to help. Do you have a particular story in mind? Q. Fascinating premise—there’s a long tradition of stories about artificial intelligence becoming […] \n The post  The Fifth Syllable  appeared first on  The Point Magazine .",
+      "title": "After the Post-Avant-Garde",
+      "url": "https://thepointmag.com/criticism/after-the-post-avant-garde/",
+      "description": "When the art market can get by with flashy and ineffectual figurative paintings that are easy to sell on Instagram, it no longer has any reason to care about what’s going on in artistic subcultures. Indeed, those subcultures no longer have any reason to care about themselves. \n The post  After the Post-Avant-Garde  appeared first on  The Point Magazine .",
       "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 9,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "We Were the 99 Percent",
+      "url": "https://thepointmag.com/politics/we-were-the-99-percent/",
+      "description": "As the global tides have continued to shift rightward, I’ve found myself going back to those initial days of Occupy, looking for clues. What was it about the movement that captured the imagination of an entire generation? \n The post  We Were the 99 Percent  appeared first on  The Point Magazine .",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
       "title": "Goodbye, West Orange",
       "url": "https://thepointmag.com/examined-life/goodbye-west-orange/",
-      "description": "On November 13, 2024, about fifty people gathered on a corner in West Orange, New Jersey, a quiet suburb an hour’s drive from Manhattan. The […] \n The post  Goodbye, West Orange  appeared first on  The Point Magazine .",
+      "description": "On November 13, 2024, about fifty people gathered on a corner in West Orange, New Jersey, a quiet suburb an hour’s drive from Manhattan. The plan was to march down the block to protest in front of Moshe Glick’s home. \n The post  Goodbye, West Orange  appeared first on  The Point Magazine .",
       "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -68,9 +100,25 @@
       }
     },
     {
+      "title": "Advanced Fiction",
+      "url": "https://thepointmag.com/literature/advanced-fiction/",
+      "description": "Before I even knew what teaching was, I loved to teach. When I was a child, as soon as I left the crib—and oh, believe me, I wanted to leave that crib! ha ha—my mother would join me in my puny bed, the one that felt so vast at the time, and she would read aloud to me. \n The post  Advanced Fiction  appeared first on  The Point Magazine .",
+      "date": "Sun, 02 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "A Vital Education",
       "url": "https://thepointmag.com/correspondence/a-vital-education/",
-      "description": "This past January, I traveled to a small town in Wisconsin’s Driftless region, the southwest corner of the state the glaciers missed, to join a […] \n The post  A Vital Education  appeared first on  The Point Magazine .",
+      "description": "This past January, I traveled to a small town in Wisconsin’s Driftless region, the southwest corner of the state the glaciers missed, to join a summit of representatives from the far-flung universe of “microcolleges.” \n The post  A Vital Education  appeared first on  The Point Magazine .",
       "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -86,55 +134,7 @@
     {
       "title": "Girls Wrestling",
       "url": "https://thepointmag.com/examined-life/girls-wrestling/",
-      "description": "My daughter joined her school’s newly formed girls’ wrestling team in the seventh grade. Her first tournament was at a high school in Oak Harbor, […] \n The post  Girls Wrestling  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Student of Desire",
-      "url": "https://thepointmag.com/criticism/student-of-desire/",
-      "description": "Years ago, I had an intense relationship with a man who was brilliant and deeply interesting to talk to. I didn’t doubt he felt similarly […] \n The post  Student of Desire  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "We Were the 99 Percent",
-      "url": "https://thepointmag.com/politics/we-were-the-99-percent/",
-      "description": "Roughly once a week, in August and early September of 2011, I sat in a semicircle in Manhattan’s Tompkins Square Park with eighty to a […] \n The post  We Were the 99 Percent  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Advanced Fiction",
-      "url": "https://thepointmag.com/literature/advanced-fiction/",
-      "description": "These scenes have been excerpted from the first act of the play Life Worth Living. Modeled after a trauerspiel, or “mourning play,” it was first performed […] \n The post  Advanced Fiction  appeared first on  The Point Magazine .",
+      "description": "My daughter joined her school’s newly formed girls’ wrestling team in the seventh grade. Her first tournament was at a high school in Oak Harbor, Ohio. \n The post  Girls Wrestling  appeared first on  The Point Magazine .",
       "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -150,7 +150,7 @@
     {
       "title": "Art Auctions",
       "url": "https://thepointmag.com/criticism/art-auctions/",
-      "description": "Hope being an exotic commodity these days, I try to take it wherever I can get it. One of the few recent times I’ve felt […] \n The post  Art Auctions  appeared first on  The Point Magazine .",
+      "description": "Hope being an exotic commodity these days, I try to take it wherever I can get it. One of the few recent times I’ve felt optimistic about the future was last fall—November 18th, to be exact, at 7 p.m. EST.  \n The post  Art Auctions  appeared first on  The Point Magazine .",
       "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",

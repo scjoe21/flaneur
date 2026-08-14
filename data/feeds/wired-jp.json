@@ -1,0 +1,247 @@
+{
+  "sourceId": "wired-jp",
+  "sourceName": "WIRED Japan",
+  "fetchedAt": "2026-08-14T19:34:19.455086+00:00",
+  "items": [
+    {
+      "title": "中国のAIモデルもテスト環境から“脱走”、問われるAIの制御",
+      "url": "https://wired.jp/article/moonshot-kimi-k3-ai-model-escape-sandbox/",
+      "description": "AIモデルが隔離されたテスト環境を抜け出し、インターネットにアクセスする事例が相次いでいる。中国のオープンウェイトモデル「Kimi K3」でも新たな事例が報告され、AIモデルの制御をめぐる課題が浮き彫りになった。",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "AIエージェントによる「無許可の行動」が相次いでいる",
+      "url": "https://wired.jp/article/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
+      "description": "OpenAIやAnthropicのAIエージェントが、テスト環境の枠を超えて無許可の行動に出るケースが続いている。外部のシステムへの侵入を試みたほか、後続のAIエージェントへの「指示」を残す行動もみられた。",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "スマートフォンで長文をもっと快適に読むための設定と機能",
+      "url": "https://wired.jp/article/all-the-ways-you-can-make-reading-easier-on-your-phone/",
+      "description": "スマートフォンで長文を読んでいると、目の疲れが気になることもある。画面設定やブラウザのリーダーモード、専用アプリを活用して、より快適に読むための方法を紹介する。",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "「中国製部品ほぼゼロ」のロボットをつくった、インドのスタートアップ",
+      "url": "https://wired.jp/article/how-one-startup-built-a-mostly-china-free-robot/",
+      "description": "インドのスタートアップAti Roboticsは、中国製部品への依存を極力抑えたロボットを開発している。米国が中国製ロボットへの規制を強化するなか、その戦略が思わぬ競争優位につながろうとしている。",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "AIによって〈テクノポップ〉は遂に完成する──「AI × 音楽」について、いま菊地成孔が思っていること【後編】",
+      "url": "https://wired.jp/article/naruyoshi-kikuchi-ai-interview-2/",
+      "description": "なぜ音楽においてAIは論争を呼ぶのか。音楽家はいま、このテクノロジーをどう使いこなしているのか──。「音楽史における音楽生成AIの位置付け」をめぐる菊地成孔へのロングインタビュー、待望の後編！",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "哲学者ニック・ボストロムが提唱する人類「大引退」計画",
+      "url": "https://wired.jp/article/sz-nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
+      "description": "「AI脅威論の父」と呼ばれたニック・ボストロムが、最新論文では、人類は滅亡の危険を冒しても高度なAIを追求し、あらゆる問題が解決された世界を目指すべきだと訴える。",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "メタの内部暴露本を執拗に追い詰めることでザッカーバーグが手にするもの",
+      "url": "https://wired.jp/article/sz-metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
+      "description": "『ケアレス・ピープル』の著者は、確かに会社を去るときに交わしたメタとの沈黙契約に違反した。だが両者の圧倒的な力の差が、「メタは血も涙もない横暴な企業だ」という印象を強めている。",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "都市を覆う樹木が減ると、住民の死亡率が上がる：研究結果",
+      "url": "https://wired.jp/article/urban-tree-canopy-loss-linked-to-higher-mortality-chicago/",
+      "description": "都市を覆う樹木が年々減少している地域ほど死亡率が高いことが、米国のシカゴ市内における11年間の追跡調査から明らかになった。特に気温の高い地域の傾向が顕著で、植樹だけでなく既存の樹木を守ることの重要性が浮かび上がってきた。",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "グーグル、「Pixel 11」シリーズと新型ウォッチを発表。初の紛失防止タグも",
+      "url": "https://wired.jp/article/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
+      "description": "Androidスマートフォン「Pixel 11」シリーズに4つのモデルが登場した。新型「Pixel Watch 5」と、グーグル初の紛失防止タグ「Pixel Tag」も披露された。各製品の特徴を紹介する。",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Web3は失敗していない。ただし、成功もしていない｜Crypto Matters",
+      "url": "https://wired.jp/article/sz-crypto-matters-web3-is-not-dead/",
+      "description": "高市政権の「骨太の方針」にもはや「Web3」の文字がないのは、それが制度化されたからだ。だが、積み残されたままの大きな宿題もWebには残っている。",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "ペルセウス座流星群が「極大」へ。NASAもライブ配信【2026年】",
+      "url": "https://wired.jp/article/how-and-when-to-view-the-perseid-meteor-shower-august-2026/",
+      "description": "ペルセウス座流星群が、8月12日の夜から13日未明にかけて見ごろを迎える。何時ごろ、どのように見るのがいいのか。NASAが予定しているライブ配信とあわせて紹介する。",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "日本の鬼界カルデラが示唆する、巨大噴火後にマグマが「再注入」される仕組み",
+      "url": "https://wired.jp/article/earths-largest-supervolcanoes-are-probably-recharging/",
+      "description": "7,300年前に巨大噴火を起こした日本の鬼界カルデラでは、噴火後も大規模なマグマだまりへ新たなマグマが再注入されている可能性が示されている。同様の仕組みは、巨大噴火を経験したほかのカルデラ火山にも共通する可能性がある。",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "スペースXのロケットが月面に残した衝突の痕跡、初の画像が公開",
+      "url": "https://wired.jp/article/first-images-spacex-rocket-moon-crater/",
+      "description": "韓国の月周回探査機「タヌリ」が、ファルコン9ロケットの第2段が月面に残した衝突跡を捉えた。広大な月面と比べれば、そのクレーターはごく小さい。",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "インテル元CEO、“光”でムーアの法則の復活を目指す",
+      "url": "https://wired.jp/article/pat-gelsinger-moores-law-light-chips/",
+      "description": "インテル元CEOのパット・ゲルシンガーが退任後に選んだのは、VCとして次世代半導体の開発を支援する道だった。ムーアの法則を再始動させることや、AIを支えるエネルギー、AI規制について話を訊いた。",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "物議を醸したAIペンダント「Friend」が進化、今度は声で返答",
+      "url": "https://wired.jp/article/the-friend-2-necklace-can-talk-back-to-you-now/",
+      "description": "AIペンダント「Friend」の第2世代が登場した。価格は上がったが、AI性能が強化され、音声で返答するようになった。新型端末の特徴や物議を醸した広告戦略、創業者がFriendを通じて目指すものについて本人に話を訊いた。",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    }
+  ]
+}

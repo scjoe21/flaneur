@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-08-07T05:33:20.520406+00:00",
+  "fetchedAt": "2026-08-14T19:34:03.257415+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Körper in Bewegung - Fell, Federn, nackte Haut - Von der Natur des Tanzes",
+      "url": "https://www.deutschlandfunk.de/fell-federn-nackte-haut-von-der-natur-des-tanzes-102.html",
+      "description": "So artifiziell das klassische und zeitgenössische Ballett auch wirkt, so unmittelbar ist sein Bezug zur Natur. Seit dem Barock zeigt sich hier das Verhältnis von Mensch, Natur und Macht. Und im Tanz selbst ist die Natur als reale Gegenwart präsent. Von Wiebke Hüster www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Politische Extreme - Deutsche Ikonografie: Das flammende Bild an der Wand",
       "url": "https://www.deutschlandfunk.de/deutsche-ikonographie-das-flammende-bild-an-der-wand-korrektur-historischer-fehlinterpretationen-100.html",
       "description": "Politische Extreme und Populismus scheinen gegen die Demokratie gerichtet zu sein. Es gilt sie als Teil der Demokratie zu verstehen, meint Kunsttheoretiker Bazon Brock. Einer Demokratie, die im Kern aus Streit und Auseinandersetzung der Bürger besteht. Von Bazon Brock www.deutschlandfunk.de, Essay und Diskurs",
@@ -176,22 +192,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Freiräume - Zwischen Wandel und Widerstand",
-      "url": "https://www.deutschlandfunk.de/zwischen-wandel-und-widerstand-100.html",
-      "description": "Populistische Diskurse verändern die kulturelle Dynamik von Gesellschaften: Cancel Culture und öffentliche Anprangerungen sind die Folge. Wenn Persönliches politisch instrumentalisiert wird, verschwinden Freiräume einer demokratischen Gesellschaft. Von Claudia Emmert www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 10 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 10
       }
     },

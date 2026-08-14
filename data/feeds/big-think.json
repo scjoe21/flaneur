@@ -1,14 +1,46 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-08-07T05:33:13.045725+00:00",
+  "fetchedAt": "2026-08-14T19:33:57.786373+00:00",
   "items": [
+    {
+      "title": "These 4 behaviors predict divorce with startling accuracy",
+      "url": "https://bigthink.com/series/full-interview/save-your-relationship/",
+      "description": "Every marriage’s disintegration is marked by the same four warning signs that researchers John and Julie Gottman can spot before a couple even finishes their first sentence. \n The founders of the Gottman Institute break down decades of lab research on why relationships collapse, and what to look for in a partner so they can make it 50 years by your side. \n \n This video  These 4 behaviors predict divorce with startling accuracy  is featured on  Big Think .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Screenshot-2026-08-13-at-2.08.25-PM.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "How not to confuse good outcomes for good decision-making",
+      "url": "https://bigthink.com/work-wise/how-not-to-confuse-good-outcomes-for-good-decision-making/",
+      "description": "In my decades of playing soccer, I’ve taken part in hundreds of games. I’ve played in games where we dominated and lost. I’ve played in games where we were awful yet somehow scraped through to win. I’ve played in games where the other team cheated the whole way through with time-wasting, shirt-pulling, hacking people down at the knees (picture Paraguay’s shithousery against France in the World Cup) and still walked off winners. I hated it, but the result said they were the better side.  \n Is tha",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/work-wise_decision-vs-payoff.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
     {
       "title": "Psychologist: The blueprint for developing a healthy relationship with your emotions",
       "url": "https://bigthink.com/series/full-interview/healthy-emotional-regulation/",
       "description": "Stress has a branding problem. Clinical psychologist Dr. Lisa Damour argues that most of us have the wrong relationship with discomfort entirely, treating stress like a malfunction instead of what it actually is: a signal that we’re growing. \n \n This video  Psychologist: The blueprint for developing a healthy relationship with your emotions  is featured on  Big Think .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Screenshot-2026-08-06-at-1.42.22-PM.png?quality=80&w=640",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/B1-Web-Damour.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
@@ -20,139 +52,107 @@
       }
     },
     {
-      "title": "Your life has purpose — just not the kind you think",
-      "url": "https://bigthink.com/the-well/your-life-has-purpose-just-not-the-kind-you-think/",
-      "description": "Does life have a purpose? Philosopher Alan Love argues that the answer is not as simple as yes or no. \n From birds that fake a broken wing to protect their young to cancer cells pursuing their own agency inside a larger organism, Love examines how purpose, function, and goal-directed behavior appear across different scales of life. For him, the better question is not whether purpose exists, but what kinds of purpose biology can identify, document, and explain. \n This video  Your life has purpose",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/The-Well-Alan-Love-BTI-Web.jpg?quality=85&w=640",
+      "title": "Ask Ethan: Why are astronauts weightless while still in Earth’s gravity?",
+      "url": "https://bigthink.com/starts-with-a-bang/astronauts-weightless-earth-gravity/",
+      "description": "If you stand here on the surface of the Earth, whether at the north pole where the acceleration is greatest or at the summit of Huascarán where it’s the smallest, you’ll be pulled toward the center of the Earth with an acceleration of  9.8 m/s² : the acceleration due to gravity, or “ 1 g ” on the surface of the Earth. Sure, there are tiny variations that will ensue, as your distance from Earth’s center, the speed of the planet’s rotation beneath your feet, and the density and composition of Eart",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5bbd136e4bbe6f7684a6685f_Angular-momentum-is-conserved-but-may-be-exchanged-between-systems-via-torques-_960x0.gif?w=640",
       "videoId": "",
-      "priority": 30,
+      "priority": 34,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
+        "total": 34
       }
     },
     {
-      "title": "3 forgotten keys to a real scientific golden age for the USA",
-      "url": "https://bigthink.com/starts-with-a-bang/3-keys-real-scientific-golden-age/",
-      "description": "It’s easy to criticize how someone else does their job, but it’s a lot more difficult to actually do that job properly. In July of 2026, the Trump administration released their vision for remaking the USA’s scientific infrastructure, as the Office of Science and Technology Policy (OSTP) published their document,  Science: A New Golden Age . I went through the document and gave  a full summary of the impact it will have  on science and scientists in the United States. But one thing that my analys",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/art002e008487large.jpg?quality=85&w=640",
+      "title": "What living systems teach us about true agency",
+      "url": "https://bigthink.com/the-well/what-living-systems-teach-us-about-true-agency/",
+      "description": "We call AI systems “agents” all the time. But what does “agency” actually mean?  \n Alan Love, philosopher and professor at the University of Minnesota Twin Cities, argues that biology offers a more careful way to think about goal-directed behavior, function, and, eventually, machine intelligence. From earthworms reshaping soil to organisms selecting between behavioral options, living systems reveal forms of agency that are easy to overlook — and difficult to reduce to simple stimulus-response be",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/The-Well-Alan-Love-Segment-01-Web.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 30,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 15,
-        "total": 30
-      }
-    },
-    {
-      "title": "How Earth’s night lights became our most honest economist",
-      "url": "https://bigthink.com/strange-maps/nighttime-light-remote-sensing/",
-      "description": "Don’t believe the Kremlin. It claims that from 2020 to 2024, the Russian economy grew by 13%. Instead, believe the lights Russians leave on at night. They reveal the country’s GDP actually shrank by 8% over that period. So says Sweden’s foreign minister Maria Malmer Stenergard in a  New York Times   op-ed . \n Stenergard wasn’t entirely guessing. Sweden’s intelligence services arrived at that figure by measuring nighttime luminosity, an increasingly mature and rigorous branch of economic geograph",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/Cropped-global-black-marble.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 10,
-        "total": 25
-      }
-    },
-    {
-      "title": "Jaleel White on the greatest perspective shift of his life",
-      "url": "https://bigthink.com/perception-box/jaleel-white-on-the-greatest-perspective-shift-of-his-life/",
-      "description": "From 50 commercials as a kid to nine seasons as one of the most recognizable characters on television, Jaleel White has always performed for an audience. Growing up on set, he learned that giving people what they wanted got you somewhere. So he kept doing it — with fans, with his mother, with anyone who had an expectation of him. \n After Family Matters ended, the work slowed and the identity he had built around it started to crack. He spent years as a single father taking whatever roles came. No",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/TMIUTB-Jeleel-White-Web-B.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
         "total": 24
       }
     },
     {
-      "title": "The ancient principle that explains why you need to slow down to win",
-      "url": "https://bigthink.com/business/pause-book/",
-      "description": "In the early 1980s, Mark Allen was on the verge of reaching the top of the triathlon world. He had the drive, talent, and a relentless work ethic built on the “no pain, no gain” mantra. Coming from a swimming background, his approach was simple: push as hard as possible every single day. To be fair, that strategy worked — up to a point. Allen placed in the top five of several races, proving that brute effort could take him far. But over time it became clear that it wouldn’t carry him all the way",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/pause_excerpt.jpg?quality=85&w=640",
+      "title": "Why the world needs all three 30-meter class telescopes",
+      "url": "https://bigthink.com/starts-with-a-bang/world-three-30-meter-telescopes/",
+      "description": "If you want to view the Universe in a way that takes us past our current frontiers, you only have a few options. You can build a larger telescope: with greater surface area to collect light and a larger diameter to increase your resolution. You can polish your mirror’s surface to be more reflective and smoother: down to nanometer-scale precision. You can keep it clean and pristine: reducing your noise. You can build  improved adaptive optics systems : better correcting for the distortion of the ",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/09/https___blogs-images.forbes.com_startswithabang_files_2017_09_eso1716c-1200x600-1-e1786403645414.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 24,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
-      "title": "Where is gravity the strongest and weakest on Earth?",
-      "url": "https://bigthink.com/starts-with-a-bang/gravity-strongest-weakest-earth/",
-      "description": "If you gather enough mass together in one place, as long as the individual particles inside aren’t moving too quickly, your mass will become gravitationally bound. If that mass is made out of atoms — particles that can collide, exchange energy and momentum, and stick together — then it can form a solid object as well. If the overall mass is great enough, you won’t just make a solid object that’s gravitationally bound, but you’ll reach a state that’s known as hydrostatic equilibrium: where your o",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/art002e000192.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 20
       }
     },
     {
-      "title": "Your brain doesn’t see reality — it tries to predict it",
-      "url": "https://bigthink.com/business/inner-propaganda/",
-      "description": "On a rainy afternoon in Dublin in 2017, I was running late to see a movie. \n I was going to see  Logan , the final chapter in Marvel’s Wolverine saga, and I arrived at the theater just as the movie was about to begin. It had been billed as a story about a reluctant hero who had nothing left to believe in.  Vanity Fair  had called it a “bracing, violent jolt … raw, true.” \n What would it look like if everything were stripped away and all you were left with was the pain of your present? I was intr",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/inner-propoganda_excerpt.jpg?quality=85&w=640",
+      "title": "When to trust your intuition (and when not to)",
+      "url": "https://bigthink.com/mind-behavior/when-to-trust-your-intuition-and-when-not-to/",
+      "description": "Intuition is having a moment. If you listen to podcasts or read nonfiction books, you’ll hear similar advice: trust your gut, listen to your body, follow your instincts. \n The trouble is that what we colloquially call “intuition” carries no label telling you where it came from. It can be based on expertise built over years. But sometimes it’s a cognitive bias. And sometimes it’s just fear. \n So it’s worth asking what intuition really is. The research  points to  something less vague and more use",
+      "date": "Tue, 11 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/when-2-trust-intuition-4_compressed.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 9,
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
+      }
+    },
+    {
+      "title": "The strongest experimental hint that gravity is quantum in nature",
+      "url": "https://bigthink.com/starts-with-a-bang/quantum-gravity/",
+      "description": "If you were to break down the matter in our Universe to its smallest and most fundamental subatomic constituents, you’d find that everything was made up of individual quanta, each of which possesses both wave and particle properties simultaneously. If you pass one of these quantum particles through a double-slit and don’t observe which slit it passes through, the quantum will behave as a wave, interfering with itself on its journey and leaving us with only a probabilistic set of outcomes to desc",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___blogs-images.forbes.com_startswithabang_files_2017_12_quantum_ill-1200x573-1.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 13,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 8,
         "novelty": 0,
-        "total": 9
+        "total": 13
       }
     },
     {
-      "title": "Which 10 atmospheres are the Solar System’s thickest?",
-      "url": "https://bigthink.com/starts-with-a-bang/10-atmospheres-thickest-solar-system/",
-      "description": "Our Solar System has gas giants, rocky planets, moons, asteroids, and more. \n \n \n \n By size, it’s clear that the gas giant worlds vastly outstrip any of the terrestrial planets, and this is true for mass as well. Although Saturn is nearly the same physical size as Jupiter, it contains just 21% of the planetary mass in the Solar System, compared to Jupiter’s whopping 71%. Mass is the largest factor in determining whether a planet has an atmosphere or not, but other factors such as temperature, hi",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/sat-jup.jpg?quality=85&w=640",
+      "title": "3 ways to make your own luck",
+      "url": "https://bigthink.com/mini-philosophy/3-ways-to-make-your-own-luck/",
+      "description": "Three people are sitting on a bench: a wise man between two fools. \n One fool is called “Pointless.” They argue that the universe is cold and uncaring to human needs. We can try as hard as we want and plan as long as we can, but at the end of the day, the world will have its way. A bullet, a disease, a speeding truck, a single sentence from a powerful person — they’ll each determine our lives, so trying to plan is pointless. \n The other fool is called “Control.” They say we are in charge of ever",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/make-ur-luck_compressed.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
-      "title": "Is the Universe truly infinite in size?",
-      "url": "https://bigthink.com/starts-with-a-bang/universe-infinite/",
-      "description": "13.8 billion years ago, the most consequential event in our entire Universe occurred, as cosmic inflation came to an end and the hot Big Bang emerged in its aftermath. The conditions, at that moment, were that the Universe was filled with matter, antimatter, and radiation, and existed in an ultra-hot, ultra-dense, but rapidly expanding-and-cooling state. By the time we arrive at the present day, the volume containing our observable Universe has expanded to be approximately 46 billion light-years",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/01/3-torus.jpg?quality=85&w=640",
+      "title": "Gravity can’t be an instantaneous force",
+      "url": "https://bigthink.com/starts-with-a-bang/gravity-doesnt-happen-instantly/",
+      "description": "When you look at the Sun, the light you’re seeing isn’t the light that’s being emitted right now. Instead, you’re seeing light that’s a little more than eight minutes old, since the Sun is some 150 million kilometers (93 million miles) away, and light — although it’s fast — can only travel through the Universe at a specific speed: the speed of light. But what about gravitation? Everything on Earth experiences the Sun’s gravitational pull, but is the gravity that the Earth experiences as it orbit",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___blogs-images.forbes.com_startswithabang_files_2019_09_image-072-_000150-1200x675-1.png?quality=80&w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

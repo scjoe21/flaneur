@@ -1,46 +1,94 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-08-07T05:33:28.482346+00:00",
+  "fetchedAt": "2026-08-14T19:34:08.665474+00:00",
   "items": [
     {
-      "title": "How Much Do We Really Want to Know About UFOs?",
-      "url": "https://nautil.us/how-much-do-we-really-want-to-know-about-ufos-1283450/",
-      "description": "What disaster psychology research, a few Cold War UFO files, and a Spielberg movie say about how we might handle first contact \n The post  How Much Do We Really Want to Know About UFOs?  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_868e9f.png?w=564",
+      "title": "Where Human Sleep Went Wrong",
+      "url": "https://nautil.us/where-human-sleep-went-wrong-1283797/",
+      "description": "A conversation with David Samson, evolutionary anthropologist and author of  The Sleepless Ape , about how to sleep \n The post  Where Human Sleep Went Wrong  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_5715e7.png?w=564",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 25
+        "novelty": 0,
+        "total": 20
       }
     },
     {
-      "title": "Why Longevity Research Should Focus on Women",
-      "url": "https://nautil.us/why-longevity-research-should-focus-on-women-1283406/",
-      "description": "Long live the queens \n The post  Why Longevity Research Should Focus on Women  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_7d693f.png?w=564",
+      "title": "How Vipers Got Their Venom",
+      "url": "https://nautil.us/how-vipers-got-their-venom-1283792/",
+      "description": "Although it serves as a defense, it’s really all about securing a meal \n The post  How Vipers Got Their Venom  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese_HERO_24a24c.png?w=564",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 15
+        "novelty": 5,
+        "total": 20
       }
     },
     {
-      "title": "Mountain Lions Make Roads Safer",
-      "url": "https://nautil.us/mountain-lions-make-roads-safer-1283388/",
-      "description": "The hidden safety benefits of these kings of the mountains \n The post  Mountain Lions Make Roads Safer  appeared first on  Nautilus .",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese_HERO_4ef7ef.png?w=564",
+      "title": "The Conditions on a US Aircraft Carrier Sound Concerning",
+      "url": "https://nautil.us/the-conditions-on-a-us-aircraft-carrier-sound-concerning-1283806/",
+      "description": "Can science point the way toward designing environments to maximize mental health in such situations? \n The post  The Conditions on a US Aircraft Carrier Sound Concerning  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Grant_HERO.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Extreme Space Weather Could Delay Your Next Flight",
+      "url": "https://nautil.us/extreme-space-weather-could-delay-your-next-flight-1283780/",
+      "description": "Researchers say surges in solar activity can wreak havoc on aircraft \n The post  Extreme Space Weather Could Delay Your Next Flight  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_93ef95.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "In Stunning Color, a Celestial “Treasure Chest” Full of Stars",
+      "url": "https://nautil.us/in-stunning-color-a-celestial-treasure-chest-full-of-stars-1283773/",
+      "description": "A majestic cometary globule some 7,500 light-years away \n The post  In Stunning Color, a Celestial “Treasure Chest” Full of Stars  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_fb3ed8.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Sprinting vs. Jogging: The Benefit Is in the Blood",
+      "url": "https://nautil.us/sprinting-vs-jogging-the-benefit-is-in-the-blood-1283767/",
+      "description": "Live fast, die old \n The post  Sprinting vs. Jogging: The Benefit Is in the Blood  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_669267.png?w=564",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -52,11 +100,11 @@
       }
     },
     {
-      "title": "What Happens When You Put an AI-Powered Banana Casino in a Monkey Reserve?",
-      "url": "https://nautil.us/what-happens-when-you-put-an-ai-powered-banana-casino-in-a-monkey-reserve-1283416/",
-      "description": "AI really is everywhere these days \n The post  What Happens When You Put an AI-Powered Banana Casino in a Monkey Reserve?  appeared first on  Nautilus .",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_1e32e0.png?w=564",
+      "title": "The Quest to Understand the Forgotten Psychedelic",
+      "url": "https://nautil.us/the-quest-to-understand-the-forgotten-psychedelic-1283763/",
+      "description": "One of the first scans of mescaline in the brain suggests it travels a different path \n The post  The Quest to Understand the Forgotten Psychedelic  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_2b2f80.png?w=564",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -68,11 +116,27 @@
       }
     },
     {
-      "title": "Life Originated Twice on Earth",
-      "url": "https://nautil.us/life-originated-twice-on-earth-1283481/",
-      "description": "New research traces the origins of our metabolism back in time \n The post  Life Originated Twice on Earth  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_197172.png?w=564",
+      "title": "Awe-Inspiring Images from This Year’s Solar Eclipse",
+      "url": "https://nautil.us/awe-inspiring-images-from-this-years-solar-eclipse-1283740/",
+      "description": "When the moon blocks out the sun, it creates something a lot like magic \n The post  Awe-Inspiring Images from This Year’s Solar Eclipse  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_f8e582.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Extraterrestrial Rings of Bronze Age Greece",
+      "url": "https://nautil.us/the-extraterrestrial-rings-of-bronze-age-greece-1283789/",
+      "description": "Meteorites were hot fashion accessories back then \n The post  The Extraterrestrial Rings of Bronze Age Greece  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_6f56dc.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -84,75 +148,11 @@
       }
     },
     {
-      "title": "A One-Two Punch: New Drug Overfeeds—Then Starves—Cancer Cells",
-      "url": "https://nautil.us/a-one-two-punch-new-drug-overfeeds-then-starves-cancer-cells-1283471/",
-      "description": "The two-step process could help fight other diseases as well \n The post  A One-Two Punch: New Drug Overfeeds—Then Starves—Cancer Cells  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_d1dace.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Your Big Brain Wouldn’t Be Possible Without Sugar",
-      "url": "https://nautil.us/your-big-brain-wouldnt-be-possible-without-sugar-1283454/",
-      "description": "Pass the glucose \n The post  Your Big Brain Wouldn’t Be Possible Without Sugar  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_d13421.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AI Made Me Look Foolish. Then I Learned",
-      "url": "https://nautil.us/ai-made-me-look-foolish-then-i-learned-1283376/",
-      "description": "Ancient alchemy has a lot to teach us about chatbots \n The post  AI Made Me Look Foolish. Then I Learned  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Sutter_HERO.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Best Mars Photos Taken by the Curiosity Rover",
-      "url": "https://nautil.us/the-best-mars-photos-taken-by-the-curiosity-rover-1283426/",
-      "description": "We owe a lot to this 1,982-pound buggy \n The post  The Best Mars Photos Taken by the Curiosity Rover  appeared first on  Nautilus .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_6ca5ae.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Three Things to Avoid in Middle Age If You Want to Stave Off Dementia",
-      "url": "https://nautil.us/three-things-to-avoid-in-middle-age-if-you-want-to-stave-off-dementia-1283422/",
-      "description": "It may be easier said than done \n The post  Three Things to Avoid in Middle Age If You Want to Stave Off Dementia  appeared first on  Nautilus .",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_a987f5.png?w=564",
+      "title": "Watch: Australian Dolphin Filmed Catching Fish with Shells",
+      "url": "https://nautil.us/watch-australian-dolphin-filmed-catching-fish-with-shells-1283734/",
+      "description": "Yet another example of dolphins’ exceptional cognitive abilities \n The post  Watch: Australian Dolphin Filmed Catching Fish with Shells  appeared first on  Nautilus .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese_HERO_3224ae.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

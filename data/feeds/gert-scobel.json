@@ -1,22 +1,54 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-08-02T18:09:20.687157+00:00",
+  "fetchedAt": "2026-08-14T19:33:02.193384+00:00",
   "items": [
     {
-      "title": "\"Strukturelles Aushungern\": So gehen autoritäre Regime vor!",
-      "url": "https://www.youtube.com/shorts/SoSaCsHL2zU",
-      "description": "Experten sehen in den Hochschul-Plänen der AfD in Sachsen-Anhalt Parallelen zu autoritären Systemen. Was genaz dahintersteckt und wie die Wissenschaft reagiert, erfahrt ihr im Video 👉https://youtu.be/tDmaun8tWXM\n#shorts #regime #geschichte #afd",
-      "date": "2026-07-12",
-      "thumbnail": "https://i4.ytimg.com/vi/SoSaCsHL2zU/hqdefault.jpg",
-      "videoId": "SoSaCsHL2zU",
-      "priority": 30,
+      "title": "Wie sicher sind unsere Banken und Daten noch?",
+      "url": "https://www.youtube.com/shorts/6sJBumr73DI",
+      "description": "Ein extrem leistungsfähiger Quantencomputer könnte in Zukunft Finanzsysteme lahmlegen und Billionen an Geldströmen bedrohen. Von Banken bis hin zur nationalen Sicherheit stehen Verschlüsselungen vor einer riesigen Herausforderung. Warum der Wettlauf um die Cyber-Sicherheit der Zukunft längst begonnen hat, erfahrt ihr hier 👉 https://youtu.be/8KwyJI_-4rE #quantencomputer #cybersecurity #finanzen #hacking #NANO #3sat",
+      "date": "2026-08-09",
+      "thumbnail": "https://i3.ytimg.com/vi/6sJBumr73DI/hqdefault.jpg",
+      "videoId": "6sJBumr73DI",
+      "priority": 35,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
+        "daily": 35,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Wusstet ihr, wie leicht Glasfaser gehackt werden kann?",
+      "url": "https://www.youtube.com/shorts/KUzmXe2s0Ik",
+      "description": "Fast unser gesamtes Internet läuft über Glasfaser – aber wirklich sicher ist das nicht. Ein einfaches Abhörgerät reicht schon aus, um sensible Daten direkt am Kabel abzugreifen. Wie leicht Hacker an die Leitungen rankommen und was das für unsere Datensicherheit bedeutet, seht ihr in diesem Video 👉 https://youtu.be/8KwyJI_-4rE\n#glasfaser #cybersecurity #hacking #datenschutz #NANO #3sat",
+      "date": "2026-08-08",
+      "thumbnail": "https://i4.ytimg.com/vi/KUzmXe2s0Ik/hqdefault.jpg",
+      "videoId": "KUzmXe2s0Ik",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
         "total": 30
+      }
+    },
+    {
+      "title": "KI-Training im Labor: Wie weit ist die Forschung wirklich? | NANO",
+      "url": "https://www.youtube.com/watch?v=IzDvyEDXRkA",
+      "description": "Können humanoide Roboter dank künstlicher Intelligenz bald unseren Alltag und Haushalt übernehmen? Die Forschung macht rasante Fortschritte, aber der Weg zur autonomen Menschmaschine birgt riesige Hürden.\n\n#robotik #künstlicheintelligenz #reinforcementlearning \n\nVom fehlerfreien Balancieren über das Heben schwerer Lasten bis hin zur autonomen Alltagsbewältigung: Wie bringt man Maschinen bei, sich in der komplexen menschlichen Welt zurechtzufinden? NANO-Reporter Eric Mayer macht an der TU Darmsta",
+      "date": "2026-08-13",
+      "thumbnail": "https://i2.ytimg.com/vi/IzDvyEDXRkA/hqdefault.jpg",
+      "videoId": "IzDvyEDXRkA",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 29
       }
     },
     {
@@ -84,12 +116,12 @@
       }
     },
     {
-      "title": "PDA: Alltag als größter Stressfaktor",
-      "url": "https://www.youtube.com/shorts/2a5rc_v88fA",
-      "description": "PDA (Pathological Demand Avoidance) ist eine eigene Form des Autismus, bei der schon alltägliche Anforderungen extreme Angst auslösen können. Habt ihr davon schon mal gehört oder selbst Erfahrungen damit? Kennt ihr Menschen mit PDA?\n\n#shorts #pda #autismus #neurodivergent #nano",
-      "date": "2026-07-15",
-      "thumbnail": "https://i3.ytimg.com/vi/2a5rc_v88fA/hqdefault.jpg",
-      "videoId": "2a5rc_v88fA",
+      "title": "Welchen Dialekt würdet ihr eurem Roboter geben?",
+      "url": "https://www.youtube.com/shorts/GGZUYzZ3830",
+      "description": "Ein Forschungsroboter, der nicht nur das Alter schätzen kann, sondern auch noch auf Hessisch babbelt? “Hainer” zeigt, wie KI und Robotik menschlicher und nahbarer werden sollen. Wie der humanoide Roboter im Forschungsalltag eingesetzt wird und was er noch kann, seht ihr im Video 👉 https://youtu.be/IzDvyEDXRkA\n#roboter #ki #hessisch #robotik #3sat #nano",
+      "date": "2026-08-14",
+      "thumbnail": "https://i4.ytimg.com/vi/GGZUYzZ3830/hqdefault.jpg",
+      "videoId": "GGZUYzZ3830",
       "priority": 24,
       "scoreDetail": {
         "daily": 20,
@@ -132,19 +164,19 @@
       }
     },
     {
-      "title": "Wie KI das Studium für immer verändert | NANO",
-      "url": "https://www.youtube.com/watch?v=K0oUQO4pVyA",
-      "description": "ChatGPT und andere KI-Tools verändern die Art, wie wir lernen grundlegend. Was bedeutet es für Lehre und Prüfung, wenn künstliche Intelligenz Hausarbeiten und Vorträge per Knopfdruck generiert?\n\n#ki #bildung #chatgpt #universität\n\nUnser Host Eric Mayer hat an der Universität des Saarlandes den Selbstversuch gewagt und sich von ChatGPT einen komplexen Vortrag im Fachbereich “Informatik” erstellen lassen – inklusive Informatiker-Witzen. Fliegt Eric Mayer mit seinem KI-Vortrag auf oder kann er die ",
-      "date": "2026-07-16",
-      "thumbnail": "https://i4.ytimg.com/vi/K0oUQO4pVyA/hqdefault.jpg",
-      "videoId": "K0oUQO4pVyA",
-      "priority": 20,
+      "title": "Habt ihr Angst, dass eure Daten in Zukunft gehackt werden?",
+      "url": "https://www.youtube.com/shorts/UUzl0j5EXdI",
+      "description": "Hacker fangen deine Daten schon heute ab – und warten einfach ab, bis Quantencomputer stark genug sind, um sie in ein paar Jahren mühelos zu entschlüsseln. Dieses Phänomen nennt sich „Store now, decrypt later“ und betrifft uns alle. Mehr zu den Gefahren von Quantencomputern erfahrt ihr hier 👉 https://youtu.be/8KwyJI_-4rE\n#quantencomputer #cybersecurity #datenschutz  #hacking #nano  #3sat",
+      "date": "2026-08-07",
+      "thumbnail": "https://i2.ytimg.com/vi/UUzl0j5EXdI/hqdefault.jpg",
+      "videoId": "UUzl0j5EXdI",
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -158,22 +190,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Ist das für euch “Schummeln”?",
-      "url": "https://www.youtube.com/shorts/p3U04_JvYXA",
-      "description": "Wo hört Hilfe auf und wo fängt Schummeln mit ChatGPT an? Gehört die KI-Nutzung an der Uni mittlerweile einfach dazu?  Wie wir den richtigen Umgang mit KI lernen und wie sie unser Bildungssystem verändern wird, erfahrt ihr im Video 👉 https://youtu.be/K0oUQO4pVyA\n#shorts #ki #schummeln #uni #bildung #chatgpt",
-      "date": "2026-07-17",
-      "thumbnail": "https://i1.ytimg.com/vi/p3U04_JvYXA/hqdefault.jpg",
-      "videoId": "p3U04_JvYXA",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -196,19 +212,19 @@
       }
     },
     {
-      "title": "Hättet ihr's gemerkt?",
-      "url": "https://www.youtube.com/shorts/4lO_e0xe0Uo",
-      "description": "Kann ChatGPT einen ganzen Uni-Vortrag unbemerkt fälschen? Die Nutzung von KI gehört auch für viele Studierende schon zum Alltag. Aber ein ganzer Vortrag nur von KI? Da werden selbst  Informatikstudis skeptisch. Das ganze Hörsaal-Experiment von Eric findet ihr hier 👉 https://youtu.be/K0oUQO4pVyA \n#shorts #ki #ki-vortrag #blamage #informatik #chatgpt",
-      "date": "2026-07-19",
-      "thumbnail": "https://i1.ytimg.com/vi/4lO_e0xe0Uo/hqdefault.jpg",
-      "videoId": "4lO_e0xe0Uo",
-      "priority": 9,
+      "title": "Quantencomputer: Sind unsere Daten noch sicher? | NANO",
+      "url": "https://www.youtube.com/watch?v=8KwyJI_-4rE",
+      "description": "Können Quantencomputer das weltweite Finanzsystem aushebeln? Die rasante Entwicklung der Superrechner stellt Banken, Regierungen und die gesamte globale IT-Sicherheit vor eine historische Zerreißprobe.\n\n#quantencomputer #cybersecurity #hacking \n\nTäglich werden im Londoner Bankenviertel Canary Wharf Devisengeschäfte im Wert von 3,8 Billionen US-Dollar abgewickelt – mehr als ein Drittel des globalen Handelsvolumens. Doch das gesamte System beruht auf Verschlüsselungscodes, die durch Quantenrechner",
+      "date": "2026-08-06",
+      "thumbnail": "https://i1.ytimg.com/vi/8KwyJI_-4rE/hqdefault.jpg",
+      "videoId": "8KwyJI_-4rE",
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Bald weniger Mitbestimmung für Studierende?",
-      "url": "https://www.youtube.com/shorts/kOKd9TFm1LQ",
-      "description": "Die AfD in Sachsen-Anhalt plant unter anderem, die Mitbestimmungsrechte der Studierenden an Unis einzuschränken. Was Experten dazu sagen seht ihr in diesem Video 👉  https://youtu.be/tDmaun8tWXM\n#shorts #afd #landtagswahlen #sachsen-anhalt #demokratie #universitäten",
-      "date": "2026-07-10",
-      "thumbnail": "https://i4.ytimg.com/vi/kOKd9TFm1LQ/hqdefault.jpg",
-      "videoId": "kOKd9TFm1LQ",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

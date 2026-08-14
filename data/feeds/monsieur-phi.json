@@ -1,7 +1,7 @@
 {
   "sourceId": "monsieur-phi",
   "sourceName": "Monsieur Phi",
-  "fetchedAt": "2026-08-02T18:09:17.195730+00:00",
+  "fetchedAt": "2026-08-14T19:32:58.678482+00:00",
   "items": [
     {
       "title": "Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline",
@@ -180,19 +180,19 @@
       }
     },
     {
-      "title": "Sommes-nous prêts à vivre parmi des robots ?",
-      "url": "https://www.youtube.com/watch?v=fJv7-Ya_H5s",
-      "description": "Merci à toute l'équipe du Broca Living Lab et à Inria ! \nL'article de synthèse sur le projet spring : https://arxiv.org/abs/2404.07560\n\nSommaire\n0:00 - Intro : Hitchbot, le robot-autostoppeur\n2:50 - La robotique sociale\n5:01 - Le projet SPRING - présentation générale\n12:29 - Tests et résultats \n16:40 - Comparaison avec le mode vocal de ChatGPT\n20:23 - Des chatbots face aux utilisateurs suicidaires\n22:51 - Liens affectifs envers les robots sociaux\n26:06 - La fin de Hitchbot\n28:19 - Outro\n29:20 - ",
-      "date": "2025-02-16",
-      "thumbnail": "https://i3.ytimg.com/vi/fJv7-Ya_H5s/hqdefault.jpg",
-      "videoId": "fJv7-Ya_H5s",
-      "priority": 9,
+      "title": "Que cachent les rouleaux carbonisés d'Herculanum ?",
+      "url": "https://www.youtube.com/watch?v=cHmLvkvLKKI",
+      "description": "Pour essayer Incogni avec 60% de réduction sur les offres annuelles grâce au code MONSIEURPHI → https://incogni.com/monsieurphi\n\nSommaire\n\n0:00 - Intro : du nouveau du côté des rouleaux d'Herculanum !\n0:38 - Sponso Incogni\n2:47 - La découverte des papyrus d'Herculanum\n5:17 - Premières tentatives de lecture : une bibliothèque épicurienne\n8:19 - Les rouleaux passés au scanner\n11:03 - Vesuvius Challenge : quand des concours font avancer la science\n13:36 - Il n'est pas question de LLM : des papyrolo",
+      "date": "2026-08-14",
+      "thumbnail": "https://i4.ytimg.com/vi/cHmLvkvLKKI/hqdefault.jpg",
+      "videoId": "cHmLvkvLKKI",
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {

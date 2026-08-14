@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-07T05:31:52.250592+00:00",
+  "fetchedAt": "2026-08-14T19:33:02.925491+00:00",
   "items": [
     {
       "title": "Politische Philosophie - Vom Empfinden zum politischen Handeln",
@@ -84,18 +84,18 @@
       }
     },
     {
-      "title": "Dipesh Chakrabarty - Vom Globus zum Planeten",
-      "url": "https://www.deutschlandfunkkultur.de/historiker-dipesh-chakrabarty-vom-globus-zum-planeten-100.html",
-      "description": "In seinem Buch „Europa als Provinz\" beschrieb der indische Historiker Dipesh Chakrabarty schon im Jahr 2000, wie europäische Konzepte in anderen Ländern postkolonial angeeignet wurden. Er beobachtet heute einen zweiten Niedergang des Westens. Chakrabarty, Dipesh; Aguigah, René www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 21 Jun 2026",
+      "title": "Tourismus - Die koloniale Kehrseite des Reisens",
+      "url": "https://www.deutschlandfunkkultur.de/tourismus-die-koloniale-kehrseite-der-reisewut-100.html",
+      "description": "Sommer bedeutet für viele Menschen in Deutschland: verreisen. Aber wer darf sich auf der Welt eigentlich bewegen und wer nicht? Für Sinthujan Varatharajah ist Tourismus keine harmlose Freizeitbeschäftigung, sondern Teil einer kolonialen Gegenwart. Rohde, Stephanie; Varatharajah, Sinthujan www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 15
       }
     },
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Lebenszeiten 2: Jugend - Zwischen Lust und Lähmung",
+      "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-2-jugend-zwischen-lust-und-laehmung-100.html",
+      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 09 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Lebenszeiten 1: Kindheit - Zwischen Entfaltung und Entfremdung",
       "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-1-kindheit-zwischen-entfaltung-und-entfremdung-100.html",
       "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
@@ -215,22 +231,6 @@
       "title": "Weltyogatag: Philosophische Einheit von Körper und Geist",
       "url": "https://www.deutschlandfunkkultur.de/weltyogatag-philosophische-einheit-von-koerper-und-geist-100.html",
       "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 21 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Dipesh Chakrabarty: From the globe to the planet (english)",
-      "url": "https://www.deutschlandfunkkultur.de/dipesh-chakrabarty-from-the-globe-to-the-planet-english-100.html",
-      "description": "Chakrabarty, Dipesh; Aguigah, René www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 21 Jun 2026",
       "thumbnail": "",
       "videoId": "",

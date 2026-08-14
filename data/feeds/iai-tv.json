@@ -1,8 +1,40 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-08-02T18:11:25.035056+00:00",
+  "fetchedAt": "2026-08-14T19:34:08.323182+00:00",
   "items": [
+    {
+      "title": "We need to change how we view autism | Simon Baron-Cohen",
+      "url": "https://www.youtube.com/watch?v=phqIVUoy70k",
+      "description": "Simon Baron-Cohen argues that pattern-seeking, or \"if-and-then\" thinking, fuelled human invention, and is markedly stronger in autistic minds.\n\nHow can we celebrate autism without creating new, reductive stereotypes?\n\nWith a free trial, you can watch Simon debate the significance of evolutionary psychology with Subrena Smith and Keith Frankish NOW at https://iai.tv/video/overcoming-evolution?utm_source=YouTube&utm_medium=description\n\nSociety has tended to define autism in terms of capacities peo",
+      "date": "2026-08-13",
+      "thumbnail": "https://i1.ytimg.com/vi/phqIVUoy70k/hqdefault.jpg",
+      "videoId": "phqIVUoy70k",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "The James Webb Telescope is making cosmologists question the Big Bang | Bjørn Ekeberg",
+      "url": "https://www.youtube.com/watch?v=J0yE4rzkAkg",
+      "description": "Bjørn Ekeberg examines new observations from the James Webb Space Telescope that challenge the standard cosmic story.\n\nDo you agree that cosmologists should be more humble about what they actually know?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-james-webb-telescopes-threat-to-the-big-bang?utm_source=YouTube&utm_medium=description\n\nWe think that our theories of cosmology are getting better at explaining the origins of the universe. But what if they're inheren",
+      "date": "2026-08-04",
+      "thumbnail": "https://i3.ytimg.com/vi/J0yE4rzkAkg/hqdefault.jpg",
+      "videoId": "J0yE4rzkAkg",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 40
+      }
+    },
     {
       "title": "Alain de Botton on love, perversion and suffering",
       "url": "https://www.youtube.com/watch?v=HlqGBKAmsZ0",
@@ -20,51 +52,51 @@
       }
     },
     {
-      "title": "Roger Penrose and Brian Cox on the Big Bang, the multiverse and physics' greatest lesson | Q&A",
-      "url": "https://www.youtube.com/watch?v=Ip-bYpCb_vo",
-      "description": "Roger Penrose answers audience questions on Conformal Cyclic Cosmology, the multiverse and the most important thing he has learnt in physics.\n\nWhat would you ask Roger if you had the chance?\n\nWith a free trial, you can watch Roger and Brian in conversation NOW at https://iai.tv/video/our-future-theories-of-the-universe?utm_source=YouTube&utm_medium=description\n\nFrom the Big Bang to the fabric of spacetime and the nature of consciousness, our core scientific assumptions frame how we understand an",
-      "date": "2026-07-18",
-      "thumbnail": "https://i2.ytimg.com/vi/Ip-bYpCb_vo/hqdefault.jpg",
-      "videoId": "Ip-bYpCb_vo",
+      "title": "How memory treats life like a movie | Charan Ranganath",
+      "url": "https://www.youtube.com/watch?v=prcIAGDKDIo",
+      "description": "Charan Ranganath discusses how and why we remember.\n\nDoes this match with your personal experience of memory?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/memory-is-a-construction?utm_source=YouTube&utm_medium=description\n\nOur understanding of memory often focuses on its failures: the names we cannot recall, the reasons we walked into a room, the experiences that seem to vanish within hours. But what if forgetting is not a flaw, and memory is far more powerful and ",
+      "date": "2026-08-06",
+      "thumbnail": "https://i1.ytimg.com/vi/prcIAGDKDIo/hqdefault.jpg",
+      "videoId": "prcIAGDKDIo",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
+    {
+      "title": "Why Malcolm X is as relevant today as ever | Kehinde Andrews",
+      "url": "https://www.youtube.com/watch?v=PYtfO4dS-pw",
+      "description": "Kehinde Andrews breaks down the myths around Malcolm X and what he stood for.\n\nHow different do you think things would look today if Malcolm X's views had been more widely accepted?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-return-of-malcolm-x?utm_source=YouTube&utm_medium=description\n\nMalcolm X is often written off as a slogan or a threat. Join the first Black studies professor in the UK, Kehinde Andrews, as he restores Malcolm X's radical clarity. Andrews ",
+      "date": "2026-08-11",
+      "thumbnail": "https://i1.ytimg.com/vi/PYtfO4dS-pw/hqdefault.jpg",
+      "videoId": "PYtfO4dS-pw",
       "priority": 35,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
+        "daily": 30,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
       }
     },
     {
-      "title": "Economists are missing the point | Cahal Moran",
-      "url": "https://www.youtube.com/shorts/kqX7yDBz0nQ",
-      "description": "With a free trial, you can watch the full conversation NOW at https://iai.tv/video/why-you-should-ignore-the-economics-nobel-prize-with-cahal-moran?utm_source=YouTube&utm_medium=short2\n\n#economics #costofliving #greatdepression",
-      "date": "2026-07-25",
-      "thumbnail": "https://i4.ytimg.com/vi/kqX7yDBz0nQ/hqdefault.jpg",
-      "videoId": "kqX7yDBz0nQ",
-      "priority": 30,
+      "title": "Why pilgrimage is like a time machine | Rupert Sheldrake",
+      "url": "https://www.youtube.com/shorts/oxoSUiniFmw",
+      "description": "#spirituality    #consciousness   #god    #philosophy    #pilgrimage  #soul   #religion \n\nTo watch the full talk: https://iai.tv/video/discovering-the-world-beyond-science-rupert-sheldrake?utm_source=YouTube&utm_medium=short3\n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
+      "date": "2026-08-09",
+      "thumbnail": "https://i4.ytimg.com/vi/oxoSUiniFmw/hqdefault.jpg",
+      "videoId": "oxoSUiniFmw",
+      "priority": 34,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Economists are completely detached from reality | Cahal Moran",
-      "url": "https://www.youtube.com/shorts/bJjvNbWW9eQ",
-      "description": "With a free trial, you can watch the full conversation NOW at https://iai.tv/video/why-you-should-ignore-the-economics-nobel-prize-with-cahal-moran?utm_source=YouTube&utm_medium=short1\n\n#economics #costofliving #greatdepression",
-      "date": "2026-07-22",
-      "thumbnail": "https://i3.ytimg.com/vi/bJjvNbWW9eQ/hqdefault.jpg",
-      "videoId": "bJjvNbWW9eQ",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
+        "total": 34
       }
     },
     {
@@ -84,51 +116,35 @@
       }
     },
     {
-      "title": "What the Buddha can teach us about the mind-body problem | Zizek, Chadha, Faggin, Nida-Rümelin",
-      "url": "https://www.youtube.com/watch?v=TKqJvxke6tA",
-      "description": "Slavoj Žižek, Monima Chadha, Martine Nida-Rümelin and Federico Faggin discuss whether the mind and body could be viewed as part of a single substance which makes up the universe.\n\nShould we adopt a Buddhist stance of abandoning all categories in favour of flux and process?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-mystery-of-the-self-and-the-body?utm_source=YouTube&utm_medium=description\n\nModern Western thought is often seen as beginning with Descartes, an",
-      "date": "2026-07-25",
-      "thumbnail": "https://i1.ytimg.com/vi/TKqJvxke6tA/hqdefault.jpg",
-      "videoId": "TKqJvxke6tA",
-      "priority": 25,
+      "title": "Can we ever separate language and thought? | Steven Pinker, Barbara Tversky, Hilary Lawson",
+      "url": "https://www.youtube.com/watch?v=Wue5aQ5qf1Y",
+      "description": "Steven Pinker, Barbara Tversky and Hilary Lawson discuss the complex relationship between language and thought.\n\nCan we ever separate language and thought?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/lost-in-thought?utm_source=YouTube&utm_medium=description\n\nWe see language as the primary means we have to convey our ideas. And hugely powerful it is. Often cited as the central reason humans became the most dominant species on earth. But the relationship of langua",
+      "date": "2026-08-08",
+      "thumbnail": "https://i4.ytimg.com/vi/Wue5aQ5qf1Y/hqdefault.jpg",
+      "videoId": "Wue5aQ5qf1Y",
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
-      "title": "How has consciousness shaped evolution? | Eva Jablonka",
-      "url": "https://www.youtube.com/watch?v=qxp54vOHhzQ",
-      "description": "Eva Jablonka discusses goal-directedness in animals and its relationship with evolution.\n\nWhat does this mean for how we understand evolution itself?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/eva-jablonka-evolution-beyond-genes?utm_source=YouTube&utm_medium=description\n\nFor decades, evolution has been told as a simple story: random genes change, natural selection does the rest. But what if that story has been missing something fundamental, something that looks, ",
-      "date": "2026-07-23",
-      "thumbnail": "https://i2.ytimg.com/vi/qxp54vOHhzQ/hqdefault.jpg",
-      "videoId": "qxp54vOHhzQ",
-      "priority": 25,
+      "title": "Why working-class financial traders excel | Gary Stevenson",
+      "url": "https://www.youtube.com/shorts/D9SRnkXpSso",
+      "description": "",
+      "date": "2026-08-08",
+      "thumbnail": "https://i1.ytimg.com/vi/D9SRnkXpSso/hqdefault.jpg",
+      "videoId": "D9SRnkXpSso",
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "The cost of living crisis shows that economists are out of touch with reality | Cahal Moran",
-      "url": "https://www.youtube.com/watch?v=BwzI4C2158U",
-      "description": "Cahal Moran discusses how we are approaching the cost of living crisis all wrong.\n\nDo you agree with Cahal that many economists are out of touch with reality?\n\nWith a free trial, you can watch Cahal in a debate on economic growth NOW at https://iai.tv/video/the-holy-grail-of-economics?utm_source=YouTube&utm_medium=description\n\nWe think economics is a science best left to experts speaking in equations and jargon. But Cahal Moran argues the profession suffers from \"physics envy\"—chasing mathematic",
-      "date": "2026-07-21",
-      "thumbnail": "https://i3.ytimg.com/vi/BwzI4C2158U/hqdefault.jpg",
-      "videoId": "BwzI4C2158U",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -148,28 +164,28 @@
       }
     },
     {
-      "title": "The medicalisation of sadness is making us ill | Joanna Moncrieff, Sarah Wilson, Anna Lembke",
-      "url": "https://www.youtube.com/watch?v=Q1fy7TaiLaE",
-      "description": "Anna Lembke, Sarah Wilson and Joanna Moncrieff discuss whether bringing mental health into the open may be making us more fragile.\n\nDo you think that we are over-medicalising ordinary aspects of daily life?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-pathology-of-everyday-life?utm_source=YouTube&utm_medium=description\n\nBringing mental illness into the open was hailed as a breakthrough. Today, over half of Americans are comfortable discussing their emotional ",
-      "date": "2026-07-28",
-      "thumbnail": "https://i2.ytimg.com/vi/Q1fy7TaiLaE/hqdefault.jpg",
-      "videoId": "Q1fy7TaiLaE",
-      "priority": 19,
+      "title": "Are chimpanzees evil? And what about humans? | Richard Wrangham",
+      "url": "https://www.youtube.com/shorts/n5XSSd_vrLk",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-goodness-paradox-richard-wrangham?utm_source=YouTube&utm_medium=short4\n\n#evolution #history #interestingfacts #animals #biology #science",
+      "date": "2026-08-07",
+      "thumbnail": "https://i3.ytimg.com/vi/n5XSSd_vrLk/hqdefault.jpg",
+      "videoId": "n5XSSd_vrLk",
+      "priority": 15,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
       }
     },
     {
-      "title": "The West fell asleep when the rest of the world was waking up | Kishore Mahbubani",
-      "url": "https://www.youtube.com/shorts/iAz2K5sM_OE",
-      "description": "#politics #china #worldpolitics \n\nTo watch the full talk, visit: https://iai.tv/video/rebalancing-the-global-order?utm_source=YouTube&utm_medium=short3\n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
-      "date": "2026-07-29",
-      "thumbnail": "https://i2.ytimg.com/vi/iAz2K5sM_OE/hqdefault.jpg",
-      "videoId": "iAz2K5sM_OE",
+      "title": "Why everyone else is an idiot | Lera Boroditsky",
+      "url": "https://www.youtube.com/shorts/-EQHB5hqIQE",
+      "description": "",
+      "date": "2026-08-05",
+      "thumbnail": "https://i2.ytimg.com/vi/-EQHB5hqIQE/hqdefault.jpg",
+      "videoId": "-EQHB5hqIQE",
       "priority": 15,
       "scoreDetail": {
         "daily": 15,
@@ -196,38 +212,6 @@
       }
     },
     {
-      "title": "Princess Diana is dead and you probably can't draw a bicycle | Michael Shermer",
-      "url": "https://www.youtube.com/shorts/feCGb_snOv0",
-      "description": "With a free trial, you can watch Michael's full talk at https://iai.tv/video/michael-shermer-reality-doesnt-care-what-you-think?utm_source=YouTube&utm_medium=short\n\n#conspiracytheories #coolfacts  #interestingfacts #skeptic",
-      "date": "2026-07-24",
-      "thumbnail": "https://i3.ytimg.com/vi/feCGb_snOv0/hqdefault.jpg",
-      "videoId": "feCGb_snOv0",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "This astronomer thought he'd discovered a 9th planet in our solar system | Matt O'Dowd",
-      "url": "https://www.youtube.com/shorts/_FvKnUqYPtA",
-      "description": "With a free trial, you can watch the full debate at https://iai.tv/video/adventures-in-space?utm_source=YouTube&utm_medium=short3\n\n#space #astronomy #science #coolscience #sciencefacts  #einstein  @pbsspacetime",
-      "date": "2026-07-26",
-      "thumbnail": "https://i4.ytimg.com/vi/_FvKnUqYPtA/hqdefault.jpg",
-      "videoId": "_FvKnUqYPtA",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "Science and the unknowable universe | Avshalom Elitzur and Lera Boroditsky",
       "url": "https://www.youtube.com/watch?v=VDifVg4Chxc",
       "description": "Avshalom Elitzur and Lera Boroditsky discuss whether science is limited by human perception. \n\nScience has long been considered the most powerful tool for understanding reality. But can it ever fully grasp the things it seeks? \n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/science-and-the-unknowable-universe?utm_source=YouTube&utm_medium=description\n\nPhysicist and philosopher Avshalom Elitzur has spent his career probing the foundations of quantum mechanics and conf",
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "'They're so bad that they're unable to know that they're bad' | Gary Stevenson",
+      "url": "https://www.youtube.com/shorts/xw4iKeGELqs",
+      "description": "",
+      "date": "2026-08-12",
+      "thumbnail": "https://i1.ytimg.com/vi/xw4iKeGELqs/hqdefault.jpg",
+      "videoId": "xw4iKeGELqs",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

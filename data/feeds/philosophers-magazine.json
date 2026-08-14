@@ -1,22 +1,22 @@
 {
   "sourceId": "philosophers-magazine",
   "sourceName": "The Philosophers' Magazine (TPM)",
-  "fetchedAt": "2026-08-07T05:33:27.827692+00:00",
+  "fetchedAt": "2026-08-14T19:34:08.302565+00:00",
   "items": [
     {
-      "title": "The Ethics of Sex Verification",
-      "url": "https://philosophersmag.com/the-ethics-of-sex-verification/",
-      "description": "Miroslav Imbrišević and Jon Pike argue that it is justified to treat different cases differently in sports. \n The post  The Ethics of Sex Verification  first appeared on  The Philosophers' Magazine .",
-      "date": "Tue, 31 Mar 2026",
+      "title": "The Commentator Vanishes",
+      "url": "https://philosophersmag.com/the-commentator-vanishes/",
+      "description": "Michael Bonner reviews a study of the disappearance of Averroes from the history of Western philosophy. \n The post  The Commentator Vanishes  first appeared on  The Philosophers' Magazine .",
+      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 15
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -30,22 +30,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "The Problem with Everything",
-      "url": "https://philosophersmag.com/the-problem-with-everything/",
-      "description": "Daniel Kodsi and John Maier argue that all battles in the culture wars depend on the same philosophical mistake. \n The post  The Problem with Everything  first appeared on  The Philosophers' Magazine .",
-      "date": "Mon, 30 Mar 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Spinoza, Atheist?",
+      "url": "https://philosophersmag.com/spinoza-atheist/",
+      "description": "Stephen Harrop is not persuaded by Steven Nadler’s argument that Spinoza was an atheist. \n The post  Spinoza, Atheist?  first appeared on  The Philosophers' Magazine .",
+      "date": "Wed, 12 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
