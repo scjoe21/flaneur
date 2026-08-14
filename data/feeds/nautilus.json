@@ -1,24 +1,8 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-08-14T05:29:15.755379+00:00",
+  "fetchedAt": "2026-08-14T16:00:52.527591+00:00",
   "items": [
-    {
-      "title": "Extraordinary Experiences Are More Common Than You Think",
-      "url": "https://nautil.us/extraordinary-experiences-are-more-common-than-you-think-1283718/",
-      "description": "How you make sense of the experience shapes its impact your well-being \n The post  Extraordinary Experiences Are More Common Than You Think  appeared first on  Nautilus .",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_866ee9.png?w=564",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "The Trouble with Cancer Screening",
       "url": "https://nautil.us/the-trouble-with-cancer-screening-1283638/",
@@ -36,19 +20,35 @@
       }
     },
     {
-      "title": "Is It Better to Have a Lot of Casual Friends or a Few Close Ones?",
-      "url": "https://nautil.us/is-it-better-to-have-a-lot-of-casual-friends-or-a-few-close-ones-1283691/",
-      "description": "Friendships are integral to human health and well being, yet researchers know very little about how people make friends. A new study investigated what people prioritize for new friendships. \n The post  Is It Better to Have a Lot of Casual Friends or a Few Close Ones?  appeared first on  Nautilus .",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/hero_02ecc8.png?w=564",
+      "title": "Extreme Space Weather Could Delay Your Next Flight",
+      "url": "https://nautil.us/extreme-space-weather-could-delay-your-next-flight-1283780/",
+      "description": "Researchers say surges in solar activity can wreak havoc on aircraft \n The post  Extreme Space Weather Could Delay Your Next Flight  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_93ef95.png?w=564",
       "videoId": "",
-      "priority": 20,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 5
+      }
+    },
+    {
+      "title": "In Stunning Color, a Celestial “Treasure Chest” Full of Stars",
+      "url": "https://nautil.us/in-stunning-color-a-celestial-treasure-chest-full-of-stars-1283773/",
+      "description": "A majestic cometary globule some 7,500 light-years away \n The post  In Stunning Color, a Celestial “Treasure Chest” Full of Stars  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_fb3ed8.png?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -70,7 +70,7 @@
     {
       "title": "The Quest to Understand the Forgotten Psychedelic",
       "url": "https://nautil.us/the-quest-to-understand-the-forgotten-psychedelic-1283763/",
-      "description": "One of the first brain scans of mescaline suggests it travels a different path \n The post  The Quest to Understand the Forgotten Psychedelic  appeared first on  Nautilus .",
+      "description": "One of the first scans of mescaline in the brain suggests it travels a different path \n The post  The Quest to Understand the Forgotten Psychedelic  appeared first on  Nautilus .",
       "date": "Thu, 13 Aug 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_2b2f80.png?w=564",
       "videoId": "",
@@ -116,19 +116,19 @@
       }
     },
     {
-      "title": "Is Cannabis Good for Your Heart?",
-      "url": "https://nautil.us/is-cannabis-good-for-your-heart-1283715/",
-      "description": "You might be surprised. (Scientists were.) \n The post  Is Cannabis Good for Your Heart?  appeared first on  Nautilus .",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_44be2c.png?w=564",
+      "title": "The Extraterrestrial Rings of Bronze Age Greece",
+      "url": "https://nautil.us/the-extraterrestrial-rings-of-bronze-age-greece-1283789/",
+      "description": "Meteorites were hot fashion accessories back then \n The post  The Extraterrestrial Rings of Bronze Age Greece  appeared first on  Nautilus .",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_6f56dc.png?w=564",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

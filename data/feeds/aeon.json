@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-08-14T05:29:02.665792+00:00",
+  "fetchedAt": "2026-08-14T16:00:34.783769+00:00",
   "items": [
     {
       "title": "Ani Liu: eye heart womb",
@@ -116,22 +116,6 @@
       }
     },
     {
-      "title": "Mud below, sun above",
-      "url": "https://aeon.co/videos/the-workforce-of-elderly-women-recycling-what-vietnam-throws-away",
-      "description": "Meet Bể, part of Vietnam’s vital but overlooked network of recyclers – a workforce predominantly made up of elderly women - by Aeon Video Watch on Aeon",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
       "title": "Bouncy brothers",
       "url": "https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream",
       "description": "Two brothers struggle to keep a bouncy house business afloat in this nuanced portrait of family and the pursuit of success - by Aeon Video Watch on Aeon",
@@ -177,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "The neverending house",
+      "url": "https://aeon.co/essays/the-art-of-dwelling-in-santiagos-self-built-homes",
+      "description": "The self-built homes of Santiago are precarious and ever changing. They are, always and at once, being and becoming - by Consuelo Araos Read on Aeon",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

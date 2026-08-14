@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-14T05:26:57.674641+00:00",
+  "fetchedAt": "2026-08-14T15:59:12.192974+00:00",
   "items": [
+    {
+      "title": "“Eurêka !” : comment découvre-t-on des vérités mathématiques ?",
+      "url": "https://www.philomag.com/articles/eureka-comment-decouvre-t-des-verites-mathematiques",
+      "description": "",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "À la reconquête de notre temps libre : comment retrouver un véritable temps à soi",
       "url": "https://www.philomag.com/articles/la-reconquete-de-notre-temps-libre-comment-retrouver-un-veritable-temps-soi",
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/calypso-nausicaa-circe-penelope-les-femmes-puissantes-de-lodyssee",
       "description": "",
       "date": "Sat, 08 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Le yoga permet une forme de connexion au cosmos” : le “sentiment océanique” par Jeanne Burgart Goutal",
-      "url": "https://www.philomag.com/articles/le-yoga-permet-une-forme-de-connexion-au-cosmos-le-sentiment-oceanique-par-jeanne",
-      "description": "",
-      "date": "Fri, 07 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

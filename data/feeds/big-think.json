@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-08-14T05:29:06.096600+00:00",
+  "fetchedAt": "2026-08-14T16:00:37.288010+00:00",
   "items": [
     {
       "title": "These 4 behaviors predict divorce with startling accuracy",
@@ -36,19 +36,35 @@
       }
     },
     {
-      "title": "The hidden mathematics behind why you find things beautiful",
-      "url": "https://bigthink.com/mini-philosophy/the-hidden-mathematics-behind-why-you-find-things-beautiful/",
-      "description": "“Some people will hate what I say,” the mathematician Marcus du Sautoy tells me, “because it’s all about unweaving the rainbow. Some people want to retain the magic and don’t want to know why something’s working. That’s fine. But actually, for me, you know, the rainbow becomes much more interesting when you understand what is happening to the light that makes the rainbow like that.” \n Du Sautoy , the Simonyi Professor for the Public Understanding of Science and Professor of Mathematics at the Un",
-      "date": "Mon, 10 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/02/mathematics-of-beauty_compressed.jpg?quality=85&w=640",
+      "title": "Psychologist: The blueprint for developing a healthy relationship with your emotions",
+      "url": "https://bigthink.com/series/full-interview/healthy-emotional-regulation/",
+      "description": "Stress has a branding problem. Clinical psychologist Dr. Lisa Damour argues that most of us have the wrong relationship with discomfort entirely, treating stress like a malfunction instead of what it actually is: a signal that we’re growing. \n \n This video  Psychologist: The blueprint for developing a healthy relationship with your emotions  is featured on  Big Think .",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/B1-Web-Damour.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 10,
         "total": 35
+      }
+    },
+    {
+      "title": "Ask Ethan: Why are astronauts weightless while still in Earth’s gravity?",
+      "url": "https://bigthink.com/starts-with-a-bang/astronauts-weightless-earth-gravity/",
+      "description": "If you stand here on the surface of the Earth, whether at the north pole where the acceleration is greatest or at the summit of Huascarán where it’s the smallest, you’ll be pulled toward the center of the Earth with an acceleration of  9.8 m/s² : the acceleration due to gravity, or “ 1 g ” on the surface of the Earth. Sure, there are tiny variations that will ensue, as your distance from Earth’s center, the speed of the planet’s rotation beneath your feet, and the density and composition of Eart",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5bbd136e4bbe6f7684a6685f_Angular-momentum-is-conserved-but-may-be-exchanged-between-systems-via-torques-_960x0.gif?w=640",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
       }
     },
     {
@@ -97,22 +113,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 15
-      }
-    },
-    {
-      "title": "The community healthcare model transforming lives across West Africa",
-      "url": "https://bigthink.com/sponsored/the-community-healthcare-model-transforming-lives-across-west-africa/",
-      "description": "In parts of West Africa, getting sick used to mean navigating a maze of barriers — distance, cost, time spent away from work — before ever seeing a health worker. Muso set out to change that. \n Working hand-in-hand with governments, they built a model where professional community health workers bring care directly to patients’ doors within 24 hours, at no cost. And because these health workers are from the communities they serve, trust in the new process is already built in; they’re not stranger",
-      "date": "Mon, 10 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Skoll-Muso-Web.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
       }
     },
     {

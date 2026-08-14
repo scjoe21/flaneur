@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-14T05:27:02.253607+00:00",
+  "fetchedAt": "2026-08-14T15:59:18.915631+00:00",
   "items": [
     {
       "title": "Von der Kunst, Ochsen zu zerteilen",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Jan-Philipp Kruse: „Demokratien sind angewiesen auf eine deliberative Qualität“",
+      "url": "https://www.philomag.de/artikel/jan-philipp-kruse-demokratien-sind-angewiesen-auf-eine-deliberative-qualitaet",
+      "description": "Angesichts der Digitalisierung diagnostiziert Habermas einen erneuten Strukturwandel der Öffentlichkeit. Der Philosoph Jan-Philipp Kruse erklärt, wie Plattformen die Öffentlichkeit verändern und welche Gefahren für die Demokratie mit KI und sozialen Medien einhergehen.",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -52,19 +68,19 @@
       }
     },
     {
-      "title": "Wie viel Faschismus steckt im Kulturkampf?",
-      "url": "https://www.philomag.de/artikel/wie-viel-faschismus-steckt-im-kulturkampf",
-      "description": "Jason Stanley warnt, dass Angriffe auf Universitäten und Museen den Faschismus vorbereiten. Seine Analyse springt oft zu kühn von Trump zum Nationalsozialismus. Dennoch macht sie wichtige Techniken rechtsautoritärer Kulturpolitik sichtbar.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Konservatives Opferritual",
+      "url": "https://www.philomag.de/artikel/konservatives-opferritual",
+      "description": "Jens Spahns Inanspruchnahme einer Leihmutterschaft brachte ihm den Vorwurf der Doppelmoral ein und löste eine Debatte über Leihmutterschaft aus. Gesprochen wurde hingegen nicht über die Bedeutung der erodierten Glaubwürdigkeit der Union gerade in ethischen Fragen und die postmoderne Herrschaftspolitik der Konservativen hinter dem erzwungenen Rücktritt Spahns, die weitaus schwerer wiegt als sein persönliches Fehlverhalten.",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
+        "daily": 10,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.de/artikel/globale-theorie",
       "description": "Habermas lebte und lehrte vor allem in Deutschland, aber sein Werk besitzt weltweite Wirkkraft. Drei Beispiele.",
       "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Der Köttbullar-Lolli",
-      "url": "https://www.philomag.de/artikel/der-koettbullar-lolli",
-      "description": "Ein Lolli, der nach Fleisch schmecken soll?",
-      "date": "Tue, 04 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-08-09T17:45:14.994817+00:00",
+  "fetchedAt": "2026-08-14T15:59:15.365110+00:00",
   "items": [
     {
       "title": "Wie sicher sind unsere Banken und Daten noch?",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 30
+      }
+    },
+    {
+      "title": "KI-Training im Labor: Wie weit ist die Forschung wirklich? | NANO",
+      "url": "https://www.youtube.com/watch?v=IzDvyEDXRkA",
+      "description": "Können humanoide Roboter dank künstlicher Intelligenz bald unseren Alltag und Haushalt übernehmen? Die Forschung macht rasante Fortschritte, aber der Weg zur autonomen Menschmaschine birgt riesige Hürden.\n\n#robotik #künstlicheintelligenz #reinforcementlearning \n\nVom fehlerfreien Balancieren über das Heben schwerer Lasten bis hin zur autonomen Alltagsbewältigung: Wie bringt man Maschinen bei, sich in der komplexen menschlichen Welt zurechtzufinden? NANO-Reporter Eric Mayer macht an der TU Darmsta",
+      "date": "2026-08-13",
+      "thumbnail": "https://i2.ytimg.com/vi/IzDvyEDXRkA/hqdefault.jpg",
+      "videoId": "IzDvyEDXRkA",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 29
       }
     },
     {
@@ -100,6 +116,22 @@
       }
     },
     {
+      "title": "Welchen Dialekt würdet ihr eurem Roboter geben?",
+      "url": "https://www.youtube.com/shorts/GGZUYzZ3830",
+      "description": "Ein Forschungsroboter, der nicht nur das Alter schätzen kann, sondern auch noch auf Hessisch babbelt? “Hainer” zeigt, wie KI und Robotik menschlicher und nahbarer werden sollen. Wie der humanoide Roboter im Forschungsalltag eingesetzt wird und was er noch kann, seht ihr im Video 👉 https://youtu.be/IzDvyEDXRkA\n#roboter #ki #hessisch #robotik #3sat #nano",
+      "date": "2026-08-14",
+      "thumbnail": "https://i4.ytimg.com/vi/GGZUYzZ3830/hqdefault.jpg",
+      "videoId": "GGZUYzZ3830",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "Würdet ihr für Informationen im Internet zahlen?",
       "url": "https://www.youtube.com/shorts/XRPZa_9yJvc",
       "description": "Über die Hälfte des weltweiten Web-Traffics stammt von Bots. Steuern wir auf ein Netz zu, in dem wir für echte Informationen bezahlen müssen? 🤖Wie nah wir der \"Dead Internet Theory\" schon sind, erfahrt ihr im Video 👉  https://youtu.be/ueEYWiJsUyg\n#deadinternettheory #ki #bots #internet #socialmedia #NANO #3sat",
@@ -164,22 +196,6 @@
       }
     },
     {
-      "title": "Ist das für euch “Schummeln”?",
-      "url": "https://www.youtube.com/shorts/p3U04_JvYXA",
-      "description": "Wo hört Hilfe auf und wo fängt Schummeln mit ChatGPT an? Gehört die KI-Nutzung an der Uni mittlerweile einfach dazu?  Wie wir den richtigen Umgang mit KI lernen und wie sie unser Bildungssystem verändern wird, erfahrt ihr im Video 👉 https://youtu.be/K0oUQO4pVyA\n#shorts #ki #schummeln #uni #bildung #chatgpt",
-      "date": "2026-07-17",
-      "thumbnail": "https://i1.ytimg.com/vi/p3U04_JvYXA/hqdefault.jpg",
-      "videoId": "p3U04_JvYXA",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Was im Netz ist eigentlich noch echt?",
       "url": "https://www.youtube.com/shorts/K0dwKYggOTM",
       "description": "Täglich werden Millionen Fake-Accounts gelöscht, KI-Songs fluten Streamingdienste und ein Großteil neuer Social-Media-Inhalte stammt von Maschinen. Verliert das Netz gerade seine Menschlichkeit? Mehr über die \"Dead Internet Theory\" und was das für uns alle bedeutet, seht ihr im Video 👉  https://youtu.be/ueEYWiJsUyg\n#deadinternettheory #ki #internet #socialmedia #NANO #3sat",
@@ -193,22 +209,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 10
-      }
-    },
-    {
-      "title": "Hättet ihr's gemerkt?",
-      "url": "https://www.youtube.com/shorts/4lO_e0xe0Uo",
-      "description": "Kann ChatGPT einen ganzen Uni-Vortrag unbemerkt fälschen? Die Nutzung von KI gehört auch für viele Studierende schon zum Alltag. Aber ein ganzer Vortrag nur von KI? Da werden selbst  Informatikstudis skeptisch. Das ganze Hörsaal-Experiment von Eric findet ihr hier 👉 https://youtu.be/K0oUQO4pVyA \n#shorts #ki #ki-vortrag #blamage #informatik #chatgpt",
-      "date": "2026-07-19",
-      "thumbnail": "https://i1.ytimg.com/vi/4lO_e0xe0Uo/hqdefault.jpg",
-      "videoId": "4lO_e0xe0Uo",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {

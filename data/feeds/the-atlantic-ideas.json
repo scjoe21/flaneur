@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-14T05:29:06.487121+00:00",
+  "fetchedAt": "2026-08-14T16:00:37.941581+00:00",
   "items": [
     {
       "title": "Why I Quit the Tenure Track",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "A Cold War Movie That Gives Too Much Credit to Ronald Reagan",
+      "url": "https://www.theatlantic.com/ideas/2026/08/brink-of-war-reykjavik-summit/688279/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "France’s Best Argument Against Racism Isn’t Working",
       "url": "https://www.theatlantic.com/ideas/2026/08/france-soccer-far-right-racism/688235/?utm_source=feed",
       "description": "",
@@ -49,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "A Green Light for Crooks",
+      "url": "https://www.theatlantic.com/ideas/2026/08/corrupt-administration-shell-company-business-transparency/688274/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/08/mitch-mcconnell-gop-legacy/688221/?utm_source=feed",
       "description": "",
       "date": "2026-08-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Color Recession May Be Permanent",
-      "url": "https://www.theatlantic.com/ideas/2026/08/colorless-gray-products-houses/688174/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sadism and a Blue Bunny",
-      "url": "https://www.theatlantic.com/ideas/2026/08/max-miller-emily-moreno-abuse-allegations/688218/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-07",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

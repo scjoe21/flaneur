@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-08-09T17:45:21.715073+00:00",
+  "fetchedAt": "2026-08-14T15:59:21.678752+00:00",
   "items": [
     {
       "title": "Ivan Krastev, how sustainable is Europe? | Sternstunde Philosophie | SRF Kultur",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 50
-      }
-    },
-    {
-      "title": "Declining birth rates – Will there soon be too few people? | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=ITiShz0_G8M",
-      "description": "Paul Morland is one of the world’s most influential demographers. Yet he has an alarming message: it is no longer population growth that poses the greatest threat to the world, but the opposite — we may soon find ourselves with too few people. How did this come about, and what can be done about it?\n\nTopics in this episode:\n00:00 Why is the situation so dire? \n17:34 The demographic trilemma \n30:00 The problem of an ageing population \n34:00 How can we encourage people to have more children again? ",
-      "date": "2026-05-26",
-      "thumbnail": "https://i2.ytimg.com/vi/ITiShz0_G8M/hqdefault.jpg",
-      "videoId": "ITiShz0_G8M",
-      "priority": 50,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 50
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Best of Zimmer 42: Liebe ohne Besitzanspruch",
+      "url": "https://www.youtube.com/watch?v=sv2SZ0B-DXI",
+      "description": "Wie viele Menschen liebt ihr? Klar, viele lieben gleichzeitig ihre Freundinnen und eigenen Kinder, vielleicht die Tante und die Eltern. Aber romantisch? Scheitert die Idee von mehreren Liebesbeziehungen nicht an den Ressourcen – ganz zu schweigen von der Eifersucht?\n\nEifersucht, Besitzansprüche oder Kontrolle – in vielen Zweierbeziehungen werden sie zu Fallen. Toni Loh, Professur für Angewandte Ethik an der Hochschule Bonn-Rhein-Siegen, plädiert im Zimmer 42 für eine offenere Form der Liebe, die",
+      "date": "2026-08-11",
+      "thumbnail": "https://i4.ytimg.com/vi/sv2SZ0B-DXI/hqdefault.jpg",
+      "videoId": "sv2SZ0B-DXI",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {

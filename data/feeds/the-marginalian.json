@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-14T05:29:07.091802+00:00",
+  "fetchedAt": "2026-08-14T16:00:38.583292+00:00",
   "items": [
     {
       "title": "The Wisdom of Water: Alan Watts on the Ocean and the Meaning of Life",
@@ -20,6 +20,22 @@
       }
     },
     {
+      "title": "The Kiln and the Quantum of Relationships",
+      "url": "https://www.themarginalian.org/2026/08/13/kiln-quantum/",
+      "description": "Anything you give your time to and polish with attention will become a lens on your search for meaning, will lavish you with metaphors that become backdoors into the locked room of your most urgent reckonings. In my nascent adventures in pottery, I have observed with great fascination how two different glazes, when combined, produce an entirely unpredictable result — something not greater than the sum of its parts but of a wholly different order. In the extreme conditions of the kiln, which can ",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
+      }
+    },
+    {
       "title": "Anaïs Nin on Why Emotional Excess is Essential to Creativity",
       "url": "https://www.themarginalian.org/2026/08/10/anais-nin-on-emotion-and-writing/",
       "description": "\"Something is always born of excess: great art was born of great terrors, great loneliness, great inhibitions, instabilities, and it always balances them.\"",
@@ -33,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
-      "url": "https://www.themarginalian.org/2026/08/07/yes-to-life-in-spite-of-everything-viktor-frankl/",
-      "description": "\"Everything depends on the individual human being, regardless of how small a number of like-minded people there is... on each person... creatively making the meaning of life a reality in his or her own being.\"",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "How to Hold What Harrows You",
-      "url": "https://www.themarginalian.org/2026/08/06/maggie-smith-harrowing/",
-      "description": "We are shaped by all we have suffered — by what harrows us — and in turn shape our lives by how we hold our harrowing. Harrow shares its Middle English root with harvest. It is by suffering, and by what we make of our suffering, that our personhood ripens in us, that we come to reap what evolution sowed long ago when mitochondria first set out to become mind — our capacity for empathy, for doubt, for art. Harrowing may be the hallmark of our humanity — an AI cannot be harrowed because it does no",
-      "date": "Fri, 07 Aug 2026",
+      "title": "The Measure of a Life Well Lived: Henry Miller on How to Grow Old and the Secret of Remaining Young at Heart",
+      "url": "https://www.themarginalian.org/2026/08/13/henry-miller-on-turning-eighty/",
+      "description": "\"If you can fall in love again and again ... if you can forgive as well as forget, if you can keep from growing sour, surly, bitter and cynical, man you've got it half licked.\"",
+      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 20
       }
     },
     {
@@ -145,6 +145,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 18
+      }
+    },
+    {
+      "title": "How Humanity Saved the Ginkgo",
+      "url": "https://www.themarginalian.org/2026/08/13/ginkgo/",
+      "description": "Pressed between the pages of Alice’s Adventures in Wonderland — a favorite book of my childhood, which my grandmother used to read to me and which still dwells in her immense library — is a single yellow leaf, its curved fan almost glowing against a faded illustration of the White Rabbit gazing anxiously at his pocket watch. I still remember the afternoon I picked it up from under the four majestic ginkgo trees standing sentinel at the northern entrance of Varna’s Sea Garden — the iconic park pe",
+      "date": "Thu, 13 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "A Spell Against Stagnation: John O’Donohue on Beginnings",
-      "url": "https://www.themarginalian.org/2026/08/06/john-odonohue-blessings-beginnings/",
-      "description": "\"Our very life here depends directly on continuous acts of beginning.\"",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-14T05:29:12.515832+00:00",
+  "fetchedAt": "2026-08-14T16:00:47.385080+00:00",
   "items": [
     {
       "title": "Der Kuss – Warum es ihn gibt",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "Hitze – Wann sie gefährlich wird und wie wir uns anpassen",
-      "url": "https://www.swr.de/swrkultur/wissen/hitze-wann-sie-gefaehrlich-wird-und-wie-wir-uns-anpassen-108.html",
-      "description": "Hitzewellen sind belastend, doch mit der richtigen Anpassung lassen sie sich gut überstehen. Dazu gehört, sich nicht ausschließlich in klimatisierten Räumen zu schonen, sondern den Körper an Hitze zu gewöhnen.",
-      "date": "Fri, 31 Jul 2026",
+      "title": "Wie KI die Schule und das Lernen beeinflusst",
+      "url": "https://www.swr.de/swrkultur/wissen/wie-ki-die-schule-und-das-lernen-beeinflusst-102.html",
+      "description": "KI kann Schülern die Hausaufgaben abnehmen – oder sinnvoll eingesetzt werden. Dafür muss der Umgang mit ihnen auch in der Schule geübt werden.",
+      "date": "Sat, 15 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 20
       }
     },
     {

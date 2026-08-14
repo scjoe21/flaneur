@@ -1,8 +1,24 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-08-14T05:29:19.827663+00:00",
+  "fetchedAt": "2026-08-14T16:00:55.363029+00:00",
   "items": [
+    {
+      "title": "17世紀―消費社会の誕生",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/idonotlikework/36410",
+      "description": "前回は、近代初期において、労働が宗教的・道徳的な価値を持ち始めたことを確認しました。しかし、道徳的に望ましいと言われただけでは、ひとが労働に一生懸命に取り組むわけではありません。人々が労働に主体的に励むためには、自分の […]",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "私たちは決めてほしい―調停者としての「公式」",
       "url": "https://shinsho-plus.shueisha.co.jp/column/inadashinshoplusofficial/36266",
@@ -136,22 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36239",
       "description": "高額療養費制度の〈見直し〉そのものに話を戻そう。政府が「２年間のパッケージで実施する」と主張している引き上げのうち、２年目の2027年８月1日からの自己負担上限額と引き上げ幅は以下のとおりだ。 ［表１：2027年８月か […]",
       "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "野球黄金期の終焉、巨人の再建―2006年編",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/hara_giants/36263",
-      "description": "「06年、再就任してからの目標は当然『優勝』だったが、その前に『再建』の二文字が立ちはだかっていた。驚いたことに、とにかく選手がいなかった。先にも書いたが、主力選手が開幕直後から相次いで故障し、それは年間を通じて絶えなか […]",
-      "date": "Thu, 30 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

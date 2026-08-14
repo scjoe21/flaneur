@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-08-14T05:29:06.706016+00:00",
+  "fetchedAt": "2026-08-14T16:00:38.375344+00:00",
   "items": [
     {
       "title": "How To Give Everyday People A Say In AI Governance",
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "The Real Problem Underlying India-China Tensions",
-      "url": "https://www.noemamag.com/the-real-problem-plaguing-asias-most-important-relationship",
-      "description": "The post  The Real Problem Underlying India-China Tensions  appeared first on  NOEMA .",
-      "date": "Thu, 23 Jul 2026",
+      "title": "AI Needs Public Feedback at Scale Before It’s Too Late",
+      "url": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
+      "description": "The post  AI Needs Public Feedback at Scale Before It’s Too Late  appeared first on  NOEMA .",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
