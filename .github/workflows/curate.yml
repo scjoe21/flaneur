@@ -96,12 +96,24 @@ jobs:
           if under:
               print("::warning::요일당 3개 미달: " + ", ".join(under))
 
-          # 일본(토요일) '그 나라 맥락'이 한국어인지 — 일본어 문자가 섞이면 경고
+          # 토요일(일본) '그 나라 맥락' — 프랑스어/이탈리아어/프랑스어로 써야 한다.
+          # 일본어 문자가 있으면 오류, 그 단락에 한글이 남아 있으면 경고(번역 누락).
           JP = re.compile("[ぁ-ゟ゠-ヿ]")
-          jp_bad = [it.get("title") for it in items
-                    if it.get("day") == "saturday" and JP.search(it.get("detail",""))]
+          HANGUL = re.compile("[가-힣]")
+          jp_bad, ko_bad = [], []
+          for it in items:
+              if it.get("day") != "saturday":
+                  continue
+              detail = it.get("detail", "")
+              if JP.search(detail):
+                  jp_bad.append(it.get("title"))
+              idx = detail.find("[그 나라 맥락]")
+              if idx >= 0 and HANGUL.search(detail[idx + len("[그 나라 맥락]"):]):
+                  ko_bad.append(it.get("title"))
           if jp_bad:
-              print("::warning::토요일 본문에 일본어 문자 발견(한국어로 써야 함): " + ", ".join(map(str, jp_bad)))
+              print("::error::토요일 본문에 일본어 문자 발견(프랑스어·이탈리아어로 써야 함): " + ", ".join(map(str, jp_bad)))
+          if ko_bad:
+              print("::warning::토요일 '그 나라 맥락'에 한글 발견(프랑스어·이탈리아어로 써야 함): " + ", ".join(map(str, ko_bad)))
 
           # 철학자 유일성 검사 (성 기준 정규화)
           STOP = {"the","von","van","der","den","de","del","della","di","le","la","of","el","dos","da","san","saint"}

@@ -37,12 +37,20 @@ DAY_PREFIX = {
 
 # '그 나라 맥락' 단락을 작성할 언어 (출처 국가 기준).
 # 프랑스→프랑스어, 이탈리아→이탈리아어, 영국·미국→영어.
-# 독일(화)·일본(토)은 제외 → 한국어 유지. (일본어는 2026-08-14 발행분부터 한국어로 되돌림)
+# 독일(화)은 제외 → 한국어 유지.
 CONTEXT_LANG = {
     "monday":    "프랑스어(français)",
     "wednesday": "이탈리아어(italiano)",
     "thursday":  "영어(English)",
     "friday":    "영어(English)",
+}
+
+# 출처 국가의 언어를 쓰지 않고, 요일 안에서 글 순서대로 언어를 돌려 쓰는 요일.
+# 토요일(일본)은 독자가 일본어를 읽지 못해 어학 학습 목적에 맞지 않으므로
+# 일본어를 쓰지 않고 1번째 글→프랑스어, 2번째→이탈리아어, 3번째→프랑스어로 쓴다.
+# (2026-08-15 사용자 요청. 그 이전: 일본어 → 한국어 → 현재 규칙)
+CONTEXT_LANG_SEQ = {
+    "saturday": ["프랑스어(français)", "이탈리아어(italiano)", "프랑스어(français)"],
 }
 
 # 중복 필터가 과거 글과 대조할 때 거슬러 보는 주차 수.
@@ -288,7 +296,7 @@ SYSTEM_PROMPT = """당신은 철학 큐레이션 사이트 '플라뇌르(Flâneu
 
 def build_user_prompt(day: str, items: list, recent_articles: list = None,
                       need: int = PER_DAY, banned_names: list = None,
-                      recent_names: list = None) -> str:
+                      recent_names: list = None, lang_offset: int = 0) -> str:
     items_block = ""
     for i, item in enumerate(items):
         items_block += (
@@ -333,8 +341,31 @@ def build_user_prompt(day: str, items: list, recent_articles: list = None,
             f"   과거에 다루지 않은 새로운 현상·관점을 우선하세요.\n"
         )
 
-    lang = CONTEXT_LANG.get(day)
-    if lang:
+    lang     = CONTEXT_LANG.get(day)
+    lang_seq = CONTEXT_LANG_SEQ.get(day)
+    if lang_seq:
+        # 요일 안에서 글 순서대로 언어를 배정한다(토요일: 프랑스어→이탈리아어→프랑스어).
+        # lang_offset은 이 요일에 이미 확정된 편수 → 보충 큐레이션에서도 순서가 이어진다.
+        order = [lang_seq[(lang_offset + i) % len(lang_seq)] for i in range(need)]
+        per_item = "\n".join(
+            f"      - 선택한 {i+1}번째 항목: **{L}**" for i, L in enumerate(order)
+        )
+        context_instruction = (
+            f"[그 나라 맥락] **이 단락만은 반드시 아래에 지정된 외국어로 작성합니다.**\n"
+            f"{per_item}\n"
+            f"      (이 요일의 출처는 일본이지만 **일본어로는 절대 쓰지 마세요.** "
+            f"히라가나·가타카나·일본어 한자 문장을 한 문장도 쓰지 말고, 한국어도 한 글자도 섞지 말고, "
+            f"위에 지정된 언어의 원문으로만 쓰세요.) "
+            f"A2(초급) 수준의 짧고 쉬운 문장만 사용한다. "
+            f"해당 철학이 나온 나라에서 이 현상이 어떻게 나타나는지, "
+            f"그 나라 문화·사회가 이 질문을 어떻게 다루는지 4~5문장으로 서술하고, "
+            f"구체적 사례나 문화적 태도를 담는다. "
+            f"맨 앞에 그 언어로 된 짧은 헤더 라벨을 붙이되, 라벨의 나라 이름은 **그 맥락이 실제로 다루는 나라**로 한다"
+            f"(예: 일본을 다루면 프랑스어 Au Japon / 이탈리아어 In Giappone, "
+            f"프랑스를 다루면 In Francia, 영국을 다루면 En Grande-Bretagne). "
+            f"JSON 이스케이프 오류를 피하기 위해 큰따옴표(\") 대신 작은따옴표나 기예메(« »)를 사용한다."
+        )
+    elif lang:
         context_instruction = (
             f"[그 나라 맥락] **이 단락만은 반드시 {lang}로 작성합니다.** "
             f"한국어를 한 글자도 섞지 말고 전체를 {lang} 원문으로 쓰되, "
@@ -346,12 +377,11 @@ def build_user_prompt(day: str, items: list, recent_articles: list = None,
             f"JSON 이스케이프 오류를 피하기 위해 큰따옴표(\") 대신 작은따옴표나 기예메(« »)를 사용한다."
         )
     else:
-        # 독일(화)·일본(토)은 외국어 표기 대상에서 제외 → 반드시 한국어로.
+        # 독일(화)은 외국어 표기 대상에서 제외 → 반드시 한국어로.
         # (출처·주제가 그 나라 언어권이면 모델이 그 언어로 쓰려는 경향이 있어 명시적으로 금지한다.)
         context_instruction = (
             "[그 나라 맥락] **이 단락은 반드시 한국어로만 작성합니다.** "
-            "독일어·일본어를 비롯한 어떤 외국어도 한 문장·한 단어도 섞지 마세요. "
-            "일본 관련 글이라도 일본어(히라가나·가타카나·한자)로 문장을 쓰지 말고 한국어로 쓰세요. "
+            "독일어를 비롯한 어떤 외국어도 한 문장·한 단어도 섞지 마세요. "
             "해당 철학이 나온 나라에서 이 현상이 어떻게 나타나는지, "
             "그 나라 문화·사회가 이 질문을 어떻게 다루는지 4~5문장으로 한국어로 서술한다. "
             "한국과 다른 결을 보여주는 구체적 사례나 문화적 태도를 담는다. "
@@ -460,10 +490,16 @@ def extract_json(text: str) -> dict:
 
 def curate_day(client: anthropic.Anthropic, day: str, items: list,
                recent_articles: list = None, need: int = PER_DAY,
-               banned_names: list = None, recent_names: list = None) -> list:
-    """Claude API로 해당 요일 상위 need개 선택 + 한국어 요약 반환. JSON 파싱 실패 시 1회 재시도."""
+               banned_names: list = None, recent_names: list = None,
+               lang_offset: int = 0) -> list:
+    """Claude API로 해당 요일 상위 need개 선택 + 한국어 요약 반환. JSON 파싱 실패 시 1회 재시도.
+
+    lang_offset은 CONTEXT_LANG_SEQ 요일(토)에서 '이 요일에 이미 확정된 편수' —
+    보충 큐레이션에서도 언어 순서(프→이→프)가 이어지게 한다.
+    """
     messages = [{"role": "user", "content": build_user_prompt(
-        day, items, recent_articles, need, banned_names, recent_names)}]
+        day, items, recent_articles, need, banned_names, recent_names,
+        lang_offset=lang_offset)}]
 
     for attempt in range(2):
         response = client.messages.create(
@@ -608,7 +644,8 @@ def filter_duplicates(client: anthropic.Anthropic, candidates: list, past: list)
 def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
                         recent_articles: list, target: int = PER_DAY,
                         exclude_urls: set = None, banned_names: list = None,
-                        recent_names: list = None, avoid_keys: set = None) -> list:
+                        recent_names: list = None, avoid_keys: set = None,
+                        lang_offset: int = 0) -> list:
     """해당 요일에서 과거 글과 중복되지 않는 글 target개를 확보해 반환.
 
     target은 '이번에 새로 더 채워야 할 편수'다(부분 보충 시 PER_DAY보다 작을 수 있다).
@@ -635,7 +672,8 @@ def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
             break
 
         picked = curate_day(client, day, pool, recent_articles, need=need,
-                            banned_names=round_banned, recent_names=recent_names)
+                            banned_names=round_banned, recent_names=recent_names,
+                            lang_offset=lang_offset + len(chosen))
         if not picked:
             break
         for p in picked:
@@ -817,7 +855,8 @@ def main():
                                          target=n, exclude_urls=chosen_urls(day),
                                          banned_names=used_phil_names,
                                          recent_names=recent_phil_names,
-                                         avoid_keys=recent_phil_keys)
+                                         avoid_keys=recent_phil_keys,
+                                         lang_offset=day_count(day))
         except Exception as e:
             print(f"  → 큐레이션 실패: {e}")
             return 0
@@ -839,7 +878,8 @@ def main():
         try:
             picked = curate_day(client, day, items, recent_articles, need=n,
                                 banned_names=used_phil_names,
-                                recent_names=recent_phil_names)
+                                recent_names=recent_phil_names,
+                                lang_offset=day_count(day))
         except Exception as e:
             print(f"  → 최후 보충 실패: {e}")
             return 0
