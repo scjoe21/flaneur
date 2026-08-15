@@ -1,8 +1,24 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-14T19:33:59.468646+00:00",
+  "fetchedAt": "2026-08-15T16:46:46.306324+00:00",
   "items": [
+    {
+      "title": "How Love Comes to You",
+      "url": "https://www.themarginalian.org/2026/08/14/how-love-comes-to-you/",
+      "description": "We spend our days making plans, making promises, making predictions about the possible, and yet the most bewildering thing about life is that its imagination is always greater than that of the living — life keeps surprising us, keeps reminding us that all too often the wildest bet is the winning bet. And all the while, we, living mysteries, keep surprising ourselves. To give up on anything — a dream, a loved one, love itself — is to deny this most irrepressible pulse-beat of being alive. These t",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
+      }
+    },
     {
       "title": "The Wisdom of Water: Alan Watts on the Ocean and the Meaning of Life",
       "url": "https://www.themarginalian.org/2026/08/10/alan-watts-love-of-waters/",
@@ -68,22 +84,6 @@
       }
     },
     {
-      "title": "Hannah Arendt on Love and How to Live with the Fundamental Fear of Loss",
-      "url": "https://www.themarginalian.org/2026/08/08/love-and-saint-augustine-hannah-arendt/",
-      "description": "“Fearlessness is what love seeks… Such fearlessness exists only in the complete calm that can no longer be shaken by events expected of the future… Hence the only valid tense is the present, the Now.”",
-      "date": "Sat, 08 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "The Measure of a Life Well Lived: Henry Miller on How to Grow Old and the Secret of Remaining Young at Heart",
       "url": "https://www.themarginalian.org/2026/08/13/henry-miller-on-turning-eighty/",
       "description": "\"If you can fall in love again and again ... if you can forgive as well as forget, if you can keep from growing sour, surly, bitter and cynical, man you've got it half licked.\"",
@@ -132,22 +132,6 @@
       }
     },
     {
-      "title": "Swimming and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/08/08/roger-deakin-waterlog/",
-      "description": "One of my earliest and most vivid childhood memories is of swimming in a cool pool bounded by boulders in the middle of a river in the mountains of Bulgaria, the late-afternoon sun casting komorebi on the water through the rustling leaves. I can still hear the feeling-tone in my body, the strange and lovely simultaneity of absolute presence and absolute peace. I didn’t yet know the word for transcendence. Not long after that, I began swimming competitively in a chlorinated Olympic pool, investin",
-      "date": "Sat, 08 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 18,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 18
-      }
-    },
-    {
       "title": "How Humanity Saved the Ginkgo",
       "url": "https://www.themarginalian.org/2026/08/13/ginkgo/",
       "description": "Pressed between the pages of Alice’s Adventures in Wonderland — a favorite book of my childhood, which my grandmother used to read to me and which still dwells in her immense library — is a single yellow leaf, its curved fan almost glowing against a faded illustration of the White Rabbit gazing anxiously at his pocket watch. I still remember the afternoon I picked it up from under the four majestic ginkgo trees standing sentinel at the northern entrance of Varna’s Sea Garden — the iconic park pe",
@@ -164,19 +148,19 @@
       }
     },
     {
-      "title": "Thank You, Everything: An Illustrated Love Letter to the World",
-      "url": "https://www.themarginalian.org/2026/08/07/thank-you-everything-icinori/",
-      "description": "We forget that none of this had to exist — that we weren’t owed mountains and music by the universe. And maybe we have to forget — or we would be too stupefied with gratitude for every raindrop and every eyelash to get through the daily tasks punctuating the unbidden wonder of our lives. But it is good, every once in a while, to let ourselves be stupefied by gratitude, to cast upon ourselves a spell against indifference by moving through the world with an inner bow at every littlest thing that p",
-      "date": "Fri, 07 Aug 2026",
+      "title": "Constellating Wonder: Celebrating 20 Years of The Marginalian (October 23, 2026)",
+      "url": "https://www.themarginalian.org/2026/08/14/marginalian-20/",
+      "description": "At the dawn of my twenties, lonely, destitute, and disoriented by the demands of making a new life in an alien world, I started keeping notes on my search for meaning while working four jobs to pay my way through college. On October 23, 2006, I began sharing my discoveries — passages from books, links to neuroscience studies, reproductions of 16th-century Japanese woodcuts — in an office email to seven colleagues. They in turn began sharing it with friends, who began sharing it with friends. The",
+      "date": "Fri, 14 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 14,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
+        "total": 14
       }
     },
     {
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Arundhati Roy on the Deepest Measure of Success",
+      "url": "https://www.themarginalian.org/2026/08/14/arundhati-roy-success/",
+      "description": "\"To love. To be loved. To never forget your own insignificance... To seek joy in the saddest places. To pursue beauty to its lair. To never simplify what is complicated or complicate what is simple.\"",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

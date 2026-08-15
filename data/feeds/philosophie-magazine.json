@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-14T19:32:59.727110+00:00",
+  "fetchedAt": "2026-08-15T16:44:50.533107+00:00",
   "items": [
     {
       "title": "“Eurêka !” : comment découvre-t-on des vérités mathématiques ?",
@@ -36,19 +36,35 @@
       }
     },
     {
-      "title": "Qui aime bien s’engueule bien ? Une plongée dans l’intimité des disputes",
-      "url": "https://www.philomag.com/articles/qui-aime-bien-sengueule-bien-une-plongee-dans-lintimite-des-disputes",
+      "title": "“Mon enfant, ce génie” : que répondre à ces parents agaçants ?",
+      "url": "https://www.philomag.com/articles/mon-enfant-ce-genie-que-repondre-ces-parents-agacants",
       "description": "",
-      "date": "Fri, 07 Aug 2026",
+      "date": "Sat, 15 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "“O’Brother” des frères Coen : un pastiche homérique sinon rien !",
+      "url": "https://www.philomag.com/articles/obrother-des-freres-coen-un-pastiche-homerique-sinon-rien",
+      "description": "",
+      "date": "Sat, 15 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Points de suspension sur nos messageries : attendre… toujours attendre ?",
       "url": "https://www.philomag.com/articles/points-de-suspension-sur-nos-messageries-attendre-toujours-attendre",
-      "description": "",
-      "date": "Sat, 08 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Calypso, Nausicaa, Circé, Pénélope… Les femmes puissantes de l’Odyssée",
-      "url": "https://www.philomag.com/articles/calypso-nausicaa-circe-penelope-les-femmes-puissantes-de-lodyssee",
       "description": "",
       "date": "Sat, 08 Aug 2026",
       "thumbnail": "",

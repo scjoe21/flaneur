@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-14T19:34:05.678361+00:00",
+  "fetchedAt": "2026-08-15T16:46:53.008004+00:00",
   "items": [
     {
       "title": "Der Kuss – Warum es ihn gibt",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Die Plastikwende – Wie kann Kunststoff nachhaltig werden?",
+      "url": "https://www.swr.de/swrkultur/wissen/die-plastikwende-wie-kann-kunststoff-nachhaltig-werden-100.html",
+      "description": "Die Erfindung von Plastik hat der Menschheit viele neue Möglichkeiten gegeben, doch heute bereitet es Probleme. Mit chemischen Tricks könnten Kunststoffe ökologisch besser werden.",
+      "date": "Sun, 16 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -193,22 +209,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Vom Planschen zum Kraulen – Schwimmunterricht in Deutschland",
-      "url": "https://www.swr.de/swrkultur/wissen/vom-planschen-zum-kraulen-schwimmunterricht-in-deutschland-102.html",
-      "description": "Zu wenig Bäder, fehlendes Lehrpersonal, Corona-Pause: Die Zahl der Grundschulkinder, die nicht schwimmen können, hat sich verdoppelt. Doch es gibt Wege, die Lage zu verbessern.",
-      "date": "Sat, 1 Aug 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-14T19:34:19.455086+00:00",
+  "fetchedAt": "2026-08-15T16:47:06.760581+00:00",
   "items": [
     {
       "title": "中国のAIモデルもテスト環境から“脱走”、問われるAIの制御",
@@ -17,6 +17,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Google DeepMindのAI、ハリケーンを従来より1日先まで高精度に予測",
+      "url": "https://wired.jp/article/deepmind-ai-model-can-predict-hurricanes-earlier/",
+      "description": "オープンソース化されるAI気象予測モデル「WeatherNext」は、台風やハリケーンなどの熱帯低気圧の進路と強度を高精度に予測できるという。しかし、その仕組みについて研究者たちも完全にはわかっていない。",
+      "date": "Sat, 15 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "「悪玉コレステロール」より見るべき重要な数値がある",
+      "url": "https://wired.jp/article/sz-moving-beyond-bad-cholesterol-test/",
+      "description": "コレステロール関連の疾患リスクを測定する指標として、LDLより優れているのがApoBだ。にもかかわらず、医療現場への普及が進んでいないのはなぜか？",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -84,22 +116,6 @@
       }
     },
     {
-      "title": "哲学者ニック・ボストロムが提唱する人類「大引退」計画",
-      "url": "https://wired.jp/article/sz-nick-bostrom-has-a-plan-for-humanitys-big-retirement/",
-      "description": "「AI脅威論の父」と呼ばれたニック・ボストロムが、最新論文では、人類は滅亡の危険を冒しても高度なAIを追求し、あらゆる問題が解決された世界を目指すべきだと訴える。",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "メタの内部暴露本を執拗に追い詰めることでザッカーバーグが手にするもの",
       "url": "https://wired.jp/article/sz-metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
       "description": "『ケアレス・ピープル』の著者は、確かに会社を去るときに交わしたメタとの沈黙契約に違反した。だが両者の圧倒的な力の差が、「メタは血も涙もない横暴な企業だ」という印象を強めている。",
@@ -116,19 +132,35 @@
       }
     },
     {
-      "title": "都市を覆う樹木が減ると、住民の死亡率が上がる：研究結果",
-      "url": "https://wired.jp/article/urban-tree-canopy-loss-linked-to-higher-mortality-chicago/",
-      "description": "都市を覆う樹木が年々減少している地域ほど死亡率が高いことが、米国のシカゴ市内における11年間の追跡調査から明らかになった。特に気温の高い地域の傾向が顕著で、植樹だけでなく既存の樹木を守ることの重要性が浮かび上がってきた。",
-      "date": "Tue, 11 Aug 2026",
+      "title": "マクラーレンCEOはF1名門ブランドをこうして復活させた",
+      "url": "https://wired.jp/article/the-big-interview-podcast-mclaren-ceo-zak-brown/",
+      "description": "レーサーからマクラーレンの経営へと転身したCEOザック・ブラウンが、F1名門ブランドの再建、熱狂的なファン、いまもまだハンドルを握りたくなる衝動について『WIRED』に語った。",
+      "date": "Sat, 15 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "マイクロソフトの量子開発責任者、科学者らの疑念を意に介さず",
+      "url": "https://wired.jp/article/microsoft-quantum-chief-majorana-results/",
+      "description": "マイクロソフトの量子担当コーポレートバイスプレジデントであるズルフィ・アラムは、疑問視される「マヨラナ粒子」の研究成果を科学者らに“証明”する必要はないと語る。実機が結果を示せば十分だという姿勢だ。",
+      "date": "Fri, 14 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://wired.jp/article/first-images-spacex-rocket-moon-crater/",
       "description": "韓国の月周回探査機「タヌリ」が、ファルコン9ロケットの第2段が月面に残した衝突跡を捉えた。広大な月面と比べれば、そのクレーターはごく小さい。",
       "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "インテル元CEO、“光”でムーアの法則の復活を目指す",
-      "url": "https://wired.jp/article/pat-gelsinger-moores-law-light-chips/",
-      "description": "インテル元CEOのパット・ゲルシンガーが退任後に選んだのは、VCとして次世代半導体の開発を支援する道だった。ムーアの法則を再始動させることや、AIを支えるエネルギー、AI規制について話を訊いた。",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "物議を醸したAIペンダント「Friend」が進化、今度は声で返答",
-      "url": "https://wired.jp/article/the-friend-2-necklace-can-talk-back-to-you-now/",
-      "description": "AIペンダント「Friend」の第2世代が登場した。価格は上がったが、AI性能が強化され、音声で返答するようになった。新型端末の特徴や物議を醸した広告戦略、創業者がFriendを通じて目指すものについて本人に話を訊いた。",
-      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

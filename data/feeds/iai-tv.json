@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-08-14T19:34:08.323182+00:00",
+  "fetchedAt": "2026-08-15T16:46:56.465638+00:00",
   "items": [
     {
       "title": "We need to change how we view autism | Simon Baron-Cohen",
@@ -32,22 +32,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 10,
-        "total": 40
-      }
-    },
-    {
-      "title": "Alain de Botton on love, perversion and suffering",
-      "url": "https://www.youtube.com/watch?v=HlqGBKAmsZ0",
-      "description": "Alain de Botton discusses how voyeurism stems from a fear of intimacy, and why we love who we love.\n\nDo you think love can be broken down and explained so easily?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/love-is-more-than-magic?utm_source=YouTube&utm_medium=description\n\nDespite our longing for lasting connection, love often falters on the rocks of misunderstanding and unmet expectations. Philosopher and founder of The School of Life, Alain de Botton, explores h",
-      "date": "2026-07-30",
-      "thumbnail": "https://i1.ytimg.com/vi/HlqGBKAmsZ0/hqdefault.jpg",
-      "videoId": "HlqGBKAmsZ0",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 40
       }
     },
@@ -161,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Are the US and Europe still allies? | Gillian Tett, Jeremy Corbyn, Michael Ignatieff",
+      "url": "https://www.youtube.com/watch?v=cf4YcpI-st8",
+      "description": "Gillian Tett, Jeremy Corbyn, and Michael Ignatieff discuss the end of the US-Europe alliance and the future of geopolitics. \n\nIs NATO on the brink of extinction? \n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-end-of-the-great-alliance?utm_source=YouTube&utm_medium=description\n\nCentral to the West has been the allegiance of the US and Europe. But Trump's December 2025 Strategic Review outlined a very different world order in which the US is not necessarily alli",
+      "date": "2026-08-15",
+      "thumbnail": "https://i4.ytimg.com/vi/cf4YcpI-st8/hqdefault.jpg",
+      "videoId": "cf4YcpI-st8",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

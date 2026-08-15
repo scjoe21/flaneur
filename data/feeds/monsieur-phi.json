@@ -1,8 +1,24 @@
 {
   "sourceId": "monsieur-phi",
   "sourceName": "Monsieur Phi",
-  "fetchedAt": "2026-08-14T19:32:58.678482+00:00",
+  "fetchedAt": "2026-08-15T16:44:48.916328+00:00",
   "items": [
+    {
+      "title": "Ce qu'on sait de la philosophie antique pourrait bientôt radicalement changer",
+      "url": "https://www.youtube.com/watch?v=cHmLvkvLKKI",
+      "description": "Pour essayer Incogni avec 60% de réduction sur les offres annuelles grâce au code MONSIEURPHI → https://incogni.com/monsieurphi\n\nSur le rouleau PHerc Paris 4 (le texte épicurien) : https://www.iris.unina.it/retrieve/f31997bd-f357-4043-b7ec-f70fae920d3b/2024_CErc_Nicolardi%20et%20alii.pdf\n\nSur le rouleau PHerc 1667 (le texte probablement stoïcien) : https://arxiv.org/abs/2606.29085\n\nSommaire\n\n0:00 - Intro : du nouveau du côté des rouleaux d'Herculanum !\n0:38 - Sponso Incogni\n2:47 - La découverte ",
+      "date": "2026-08-14",
+      "thumbnail": "https://i4.ytimg.com/vi/cHmLvkvLKKI/hqdefault.jpg",
+      "videoId": "cHmLvkvLKKI",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "Pourquoi les mathématiciens s'inquiètent de l'avenir de leur discipline",
       "url": "https://www.youtube.com/watch?v=AYPQIntoJeE",
@@ -177,22 +193,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
-      }
-    },
-    {
-      "title": "Que cachent les rouleaux carbonisés d'Herculanum ?",
-      "url": "https://www.youtube.com/watch?v=cHmLvkvLKKI",
-      "description": "Pour essayer Incogni avec 60% de réduction sur les offres annuelles grâce au code MONSIEURPHI → https://incogni.com/monsieurphi\n\nSommaire\n\n0:00 - Intro : du nouveau du côté des rouleaux d'Herculanum !\n0:38 - Sponso Incogni\n2:47 - La découverte des papyrus d'Herculanum\n5:17 - Premières tentatives de lecture : une bibliothèque épicurienne\n8:19 - Les rouleaux passés au scanner\n11:03 - Vesuvius Challenge : quand des concours font avancer la science\n13:36 - Il n'est pas question de LLM : des papyrolo",
-      "date": "2026-08-14",
-      "thumbnail": "https://i4.ytimg.com/vi/cHmLvkvLKKI/hqdefault.jpg",
-      "videoId": "cHmLvkvLKKI",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

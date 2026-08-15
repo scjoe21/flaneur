@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-08-14T19:33:02.193384+00:00",
+  "fetchedAt": "2026-08-15T16:44:52.481221+00:00",
   "items": [
     {
       "title": "Wie sicher sind unsere Banken und Daten noch?",
@@ -164,12 +164,12 @@
       }
     },
     {
-      "title": "Habt ihr Angst, dass eure Daten in Zukunft gehackt werden?",
-      "url": "https://www.youtube.com/shorts/UUzl0j5EXdI",
-      "description": "Hacker fangen deine Daten schon heute ab – und warten einfach ab, bis Quantencomputer stark genug sind, um sie in ein paar Jahren mühelos zu entschlüsseln. Dieses Phänomen nennt sich „Store now, decrypt later“ und betrifft uns alle. Mehr zu den Gefahren von Quantencomputern erfahrt ihr hier 👉 https://youtu.be/8KwyJI_-4rE\n#quantencomputer #cybersecurity #datenschutz  #hacking #nano  #3sat",
-      "date": "2026-08-07",
-      "thumbnail": "https://i2.ytimg.com/vi/UUzl0j5EXdI/hqdefault.jpg",
-      "videoId": "UUzl0j5EXdI",
+      "title": "Würdet ihr so einen Roboter mal steuern wollen?",
+      "url": "https://www.youtube.com/shorts/yLy9_6fmAXA",
+      "description": "Wie bringt man Robotern menschliche Bewegungen bei? Ganz einfach: Man zieht sich ein Exoskelett an und benutzt es wie eine Art Ganzkörper-Joystick. Wie diese Steuerung genau funktioniert, erfahrt ihr im Video 👉 https://youtu.be/IzDvyEDXRkA\n#robotik #ki #exoskelett #technologie #NANO #3sat",
+      "date": "2026-08-15",
+      "thumbnail": "https://i2.ytimg.com/vi/yLy9_6fmAXA/hqdefault.jpg",
+      "videoId": "yLy9_6fmAXA",
       "priority": 15,
       "scoreDetail": {
         "daily": 15,
@@ -180,16 +180,16 @@
       }
     },
     {
-      "title": "Gibt es uns unendlich oft?",
-      "url": "https://www.youtube.com/shorts/OCYMFb2np2M",
-      "description": "“Das Multiversum” ist fast schon ein Trendbegriff, der auch in der Popkultur immer wieder aufgegriffen wird. Aber was sagen Physik und Philosophie dazu? Darum geht es in unserer neuen NANO Talk-Folge 👉\nhttps://youtu.be/YyPNupyxGiY\n#multiversum #physik #philosophie #nanotalk",
-      "date": "2026-07-22",
-      "thumbnail": "https://i4.ytimg.com/vi/OCYMFb2np2M/hqdefault.jpg",
-      "videoId": "OCYMFb2np2M",
+      "title": "Habt ihr Angst, dass eure Daten in Zukunft gehackt werden?",
+      "url": "https://www.youtube.com/shorts/UUzl0j5EXdI",
+      "description": "Hacker fangen deine Daten schon heute ab – und warten einfach ab, bis Quantencomputer stark genug sind, um sie in ein paar Jahren mühelos zu entschlüsseln. Dieses Phänomen nennt sich „Store now, decrypt later“ und betrifft uns alle. Mehr zu den Gefahren von Quantencomputern erfahrt ihr hier 👉 https://youtu.be/8KwyJI_-4rE\n#quantencomputer #cybersecurity #datenschutz  #hacking #nano  #3sat",
+      "date": "2026-08-07",
+      "thumbnail": "https://i2.ytimg.com/vi/UUzl0j5EXdI/hqdefault.jpg",
+      "videoId": "UUzl0j5EXdI",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
