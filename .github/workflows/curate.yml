@@ -167,3 +167,13 @@ jobs:
               sys.exit(1)
           print("✓ 18개(6일 × 3개) 발행 확인")
           PY
+
+      # 중복 발행 검증: 큐레이션 단계의 게이트가 뚫려도 여기서 드러난다(사후 안전망).
+      # 1) --selftest — 게이트 임계값 회귀 검사(고정 케이스: 실제 중복 8쌍 적발 / 남남 7쌍 통과)
+      # 2) 이번 주 발행분 vs 과거 26주 이력·같은 주 글 — URL·원제·제목·요약 대조
+      # API 호출이 없어 항상 돌 수 있다. 편수 검증이 실패해도 실행되도록 always().
+      - name: 중복 발행 검증 (URL·원제·제목·요약)
+        if: always()
+        run: |
+          python scripts/check_duplicates.py --selftest
+          python scripts/check_duplicates.py

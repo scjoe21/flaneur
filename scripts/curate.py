@@ -60,6 +60,20 @@ CONTEXT_LANG_SEQ = {
 HISTORY_LOOKBACK = 26
 # 철학자 크로스위크 배제 창(주). 이 기간에 이미 중심으로 다룬 철학자는 1·2차에서 하드 배제한다.
 PHIL_LOOKBACK = 10
+
+# ── 로컬(무API) 중복 게이트 임계값 ──
+# data/published_history.json의 글 285개(40,470쌍)로 보정(2026-08-16).
+# 텍스트 신호만으로 걸리는 5쌍은 모두 실제 중복이었고 오탐은 0쌍이었다.
+# (매트릭스 빨간약 W18/W20, 카리스마 추종 W17/W20, 나탈리 드세이 기교 W32/W34,
+#  클레르 마랭 불완전함 W19/W21, 장자 포정해우 W28/W33)
+# 경계 구간(제목 0.75, 요약 0.50)에는 무관한 글만 있어 여유가 충분하다.
+# 임계값을 바꾸면 `python scripts/check_duplicates.py --selftest`로 회귀 검사를 돌린다.
+DUP_TITLE_SIM    = 0.80   # 제목만으로 확정 (한국어 제목은 '우리는 왜 ~하는가' 틀을 공유해 높게 잡는다)
+DUP_SUMMARY_SIM  = 0.62   # 요약(한 줄 질문)만으로 확정 — 실제로는 이 신호가 가장 정확했다
+DUP_BOTH_TITLE   = 0.62   # 제목·요약 동시 신호
+DUP_BOTH_SUMMARY = 0.45
+DUP_ORIGINAL_SIM = 0.85   # 원제(소스 기사 제목) 일치 → URL이 달라도 같은 소스 글
+DEDUP_TOP_K      = 40     # LLM 중복 게이트에 보여줄 '가장 비슷한 과거 글' 개수
 PER_DAY = 3        # 요일당 발행 편수 (나라별 정확히 3개)
 WEEKLY_TARGET = 18 # 주간 총 발행 편수 (월~토 6일 × 3개, 반드시 채운다)
 MAX_PER_DAY = 3    # 한 요일에 허용하는 최대 편수 = PER_DAY.
@@ -86,7 +100,171 @@ def get_week_info():
     return f"{year}-W{week:02d}", label
 
 
+import difflib
 import re
+from urllib.parse import urlsplit, urlunsplit, parse_qsl, urlencode
+
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+# 중복 탐지 — URL 정규화 + 로컬 텍스트 유사도 (API 호출 없음)
+# ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 같은 글인데 URL만 달라지게 만드는 추적 파라미터
+_TRACKING_PARAMS = {
+    "utm_source", "utm_medium", "utm_campaign", "utm_term", "utm_content",
+    "fbclid", "gclid", "igshid", "mc_cid", "mc_eid", "ref", "ref_src",
+    "cmp", "at_medium", "at_campaign", "xtor", "spm", "share", "si", "feature",
+}
+
+
+def normalize_url(url: str) -> str:
+    """비교용 URL 정규화. 스킴·www·추적 파라미터·후행 슬래시 차이를 지운다.
+
+    같은 소스 글이 'http/https', 'www 유무', '?utm_source=...' 차이로 다른 URL처럼
+    보여 중복 게이트를 통과하는 것을 막는다.
+    """
+    url = (url or "").strip()
+    if not url:
+        return ""
+    try:
+        parts = urlsplit(url)
+    except ValueError:
+        return url.lower()
+    host = (parts.netloc or "").lower()
+    for prefix in ("www.", "m.", "amp."):
+        if host.startswith(prefix):
+            host = host[len(prefix):]
+    path = (parts.path or "").rstrip("/")
+    query = urlencode(sorted(
+        (k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True)
+        if k.lower() not in _TRACKING_PARAMS
+    ))
+    return urlunsplit(("", host, path.lower(), query, "")).lstrip("/")
+
+
+_CHANNEL_PATH = re.compile(r"^(@|channel/|c/|user/)")
+_channel_urls_cache = None
+
+
+def _channel_urls() -> set:
+    """sources.json에 등록된 채널/사이트 URL의 정규화 집합 (지연 로딩)."""
+    global _channel_urls_cache
+    if _channel_urls_cache is None:
+        urls = set()
+        try:
+            with open(SOURCES_PATH, encoding="utf-8") as f:
+                for src in json.load(f).get("sources", []):
+                    u = normalize_url(src.get("url", ""))
+                    if u:
+                        urls.add(u)
+        except (OSError, json.JSONDecodeError):
+            pass
+        _channel_urls_cache = urls
+    return _channel_urls_cache
+
+
+def is_identifying_url(url: str) -> bool:
+    """이 URL이 '개별 글 하나'를 가리키는지 판정 (URL 동일성 게이트 적용 여부).
+
+    피드에 항목 URL이 없을 때 채널/사이트 URL이 그대로 sourceUrl에 들어간 이력이 있다.
+    실제로 서로 다른 글 4편이 'https://www.radiofrance.fr'를, 2편이
+    'youtube.com/@LePrecepteur'를 공유한다 — 이런 URL로 동일성을 판정하면 무관한 글을
+    중복으로 잘못 막는다. 그래서 (a) 도메인만 있는 URL, (b) 유튜브 채널 경로,
+    (c) sources.json에 등록된 채널 URL은 URL 게이트에서 제외한다(텍스트 게이트는 계속 적용).
+    """
+    u = normalize_url(url)
+    if not u:
+        return False
+    path = u.partition("/")[2]
+    if not path:                        # 도메인만 (예: radiofrance.fr)
+        return False
+    if _CHANNEL_PATH.match(path):       # @handle · channel/ · c/ · user/
+        return False
+    return u not in _channel_urls()
+
+
+_TEXT_NOISE = re.compile(r"[^0-9A-Za-z가-힣ぁ-ヿ一-鿿]+")
+
+
+def _norm_text(s: str) -> str:
+    """비교용 텍스트 정규화 — 공백·문장부호·대소문자 차이를 제거."""
+    return _TEXT_NOISE.sub("", (s or "").lower())
+
+
+def _bigrams(s: str) -> set:
+    return {s[i:i + 2] for i in range(len(s) - 1)} or {s}
+
+
+MIN_SIM_LEN = 6   # 이보다 짧은 문자열은 유사도가 부풀려져 신뢰하지 않는다
+
+
+def text_similarity(a: str, b: str) -> float:
+    """0~1 유사도. 문자 bigram 자카드와 시퀀스 일치율 중 큰 값.
+
+    한국어는 어절 단위 토큰화가 어려워(조사·어미 변화) 문자 bigram이 잘 맞고,
+    '기술을 넘어설 때 비로소 예술이 된다' ↔ '기교를 버릴 때 비로소 예술이 된다'처럼
+    일부 어절만 바뀐 재작성을 잡아낸다.
+    아주 짧은 문자열(정규화 후 MIN_SIM_LEN 미만)은 한두 글자 차이로 0.6~0.7이 나오므로
+    비교하지 않는다 — 실제 제목·요약은 8자 이상이라 영향이 없다.
+    """
+    a, b = _norm_text(a), _norm_text(b)
+    if len(a) < MIN_SIM_LEN or len(b) < MIN_SIM_LEN:
+        return 0.0
+    A, B = _bigrams(a), _bigrams(b)
+    jaccard = len(A & B) / len(A | B)
+    return max(jaccard, difflib.SequenceMatcher(None, a, b).ratio())
+
+
+def dup_score(cand: dict, past: dict) -> tuple:
+    """(확정 사유 or '', 제목 유사도, 요약 유사도, 원제 유사도) 반환."""
+    ts = text_similarity(cand.get("title", ""),   past.get("title", ""))
+    ss = text_similarity(cand.get("summary", ""), past.get("summary", ""))
+    os_ = text_similarity(cand.get("originalTitle", ""), past.get("originalTitle", ""))
+
+    cand_raw = cand.get("sourceUrl") or cand.get("url", "")
+    past_raw = past.get("sourceUrl") or past.get("url", "")
+    if (normalize_url(cand_raw) == normalize_url(past_raw)
+            and is_identifying_url(cand_raw)):
+        return ("같은 소스 URL", ts, ss, os_)
+    if os_ >= DUP_ORIGINAL_SIM:
+        return (f"원제 동일({os_:.2f})", ts, ss, os_)
+    if ts >= DUP_TITLE_SIM:
+        return (f"제목 유사({ts:.2f})", ts, ss, os_)
+    if ss >= DUP_SUMMARY_SIM:
+        return (f"요약 유사({ss:.2f})", ts, ss, os_)
+    if ts >= DUP_BOTH_TITLE and ss >= DUP_BOTH_SUMMARY:
+        return (f"제목+요약 유사({ts:.2f}/{ss:.2f})", ts, ss, os_)
+    return ("", ts, ss, os_)
+
+
+def local_duplicate_match(cand: dict, past_list: list) -> tuple:
+    """cand가 과거 글 중 하나와 사실상 같은 글인지 로컬 판정.
+
+    반환: (matched_title, reason). 중복이 아니면 ("", "").
+    LLM 게이트보다 앞서 돌고 API 실패에 영향받지 않는 결정적(deterministic) 게이트다.
+    """
+    for p in past_list:
+        reason, _, _, _ = dup_score(cand, p)
+        if reason:
+            return ((p.get("title") or "").strip(), reason)
+    return ("", "")
+
+
+def most_similar_past(cands: list, past_list: list, k: int = DEDUP_TOP_K) -> list:
+    """후보들과 가장 비슷한 과거 글 상위 k개를 반환 (LLM 프롬프트 집중용).
+
+    과거 글 400여 개를 한 프롬프트에 모두 넣으면 판정이 희석되므로,
+    로컬 유사도로 미리 좁혀 '비교해야 할 것'만 보여준다.
+    """
+    scored = []
+    for p in past_list:
+        best = 0.0
+        for c in cands:
+            _, ts, ss, os_ = dup_score(c, p)
+            best = max(best, ts, ss, os_)
+        scored.append((best, p))
+    scored.sort(key=lambda x: -x[0])
+    return [p for _, p in scored[:k]]
+
 
 # 철학자 성(姓) 추출 시 무시할 관사·전치사 토큰
 _PHIL_STOP = {"the", "von", "van", "der", "den", "de", "del", "della",
@@ -121,19 +299,44 @@ def philosopher_keys(field: str) -> set:
 
 
 def load_published_urls() -> set:
-    """기존 news.json에서 이미 발행된 URL 목록 반환 (중복 방지)"""
-    if not os.path.exists(NEWS_PATH):
-        return set()
-    with open(NEWS_PATH, encoding="utf-8") as f:
-        data = json.load(f)
-    return {item["sourceUrl"] for item in data.get("items", []) if item.get("sourceUrl")}
+    """이미 발행된 글의 정규화 URL 집합 (news.json + published_history.json 전체 이력).
+
+    news.json은 현재 주차 18개만 남으므로 여기에만 의존하면 '직전 1주'만 기억한다.
+    실제로 2026-W32에 발행한 라디오프랑스 글이 완전히 같은 URL로 2026-W34에 다시
+    발행됐다(피드에 그 에피소드가 계속 남아 있어 후보 풀에 재등장). 보관 중인 26주
+    이력의 URL까지 모두 합쳐 하드 배제한다.
+
+    채널·사이트 URL(개별 글을 가리키지 않는 것)은 넣지 않는다 — 넣으면 그 소스의
+    'URL 없는 항목' 전체가 통째로 배제된다.
+    """
+    urls = set()
+
+    def add(raw):
+        if is_identifying_url(raw):
+            urls.add(normalize_url(raw))
+
+    if os.path.exists(NEWS_PATH):
+        with open(NEWS_PATH, encoding="utf-8") as f:
+            data = json.load(f)
+        for item in data.get("items", []):
+            add(item.get("sourceUrl", ""))
+
+    if os.path.exists(HISTORY_PATH):
+        with open(HISTORY_PATH, encoding="utf-8") as f:
+            history = json.load(f)
+        for entry in history.get("weeks", []):
+            for art in entry.get("articles", []):
+                add(art.get("sourceUrl", ""))
+
+    return urls
 
 
 def load_recent_articles(weeks: int = HISTORY_LOOKBACK) -> list:
     """최근 N주 발행된 글 목록 반환 (중복 필터·프롬프트용).
 
-    반환: [{"week", "title", "summary", "tags"}] (과거→최신 순).
-    구버전(tags만 있는) 항목도 안전하게 읽는다.
+    반환: [{"week", "title", "summary", "tags", "sourceUrl", "originalTitle"}] (과거→최신 순).
+    sourceUrl·originalTitle은 로컬 중복 게이트가 URL·원제 대조에 쓴다
+    (구버전 이력에는 없을 수 있으므로 빈 문자열로 채운다).
     """
     if not os.path.exists(HISTORY_PATH):
         return []
@@ -149,10 +352,12 @@ def load_recent_articles(weeks: int = HISTORY_LOOKBACK) -> list:
             if not title:
                 continue
             articles.append({
-                "week":    wk,
-                "title":   title,
-                "summary": (art.get("summary") or "").strip(),
-                "tags":    art.get("tags", []),
+                "week":          wk,
+                "title":         title,
+                "summary":       (art.get("summary") or "").strip(),
+                "tags":          art.get("tags", []),
+                "sourceUrl":     (art.get("sourceUrl") or "").strip(),
+                "originalTitle": (art.get("originalTitle") or "").strip(),
             })
     return articles
 
@@ -199,10 +404,13 @@ def save_history(week_id: str, items: list):
 
     articles = [
         {
-            "title":       (item.get("title") or "").strip(),
-            "summary":     (item.get("summary") or "").strip(),
-            "philosopher": (item.get("philosopher") or "").strip(),
-            "tags":        item.get("tags", []),
+            "title":         (item.get("title") or "").strip(),
+            "summary":       (item.get("summary") or "").strip(),
+            "philosopher":   (item.get("philosopher") or "").strip(),
+            "tags":          item.get("tags", []),
+            # 다음 주 중복 게이트가 URL·원제로 하드 대조할 수 있게 함께 남긴다
+            "sourceUrl":     (item.get("sourceUrl") or "").strip(),
+            "originalTitle": (item.get("originalTitle") or "").strip(),
         }
         for item in items
         if (item.get("title") or "").strip()
@@ -229,10 +437,11 @@ def save_history(week_id: str, items: list):
 # ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 def load_feeds_for_day(sources: list, day: str, published_urls: set = None) -> list:
-    """해당 요일 소스의 피드 항목 전체를 반환. published_urls에 있는 항목은 제외."""
+    """해당 요일 소스의 피드 항목 전체를 반환. published_urls(정규화 URL)에 있는 항목은 제외."""
     if published_urls is None:
         published_urls = set()
     items = []
+    skipped = 0
     for src in sources:
         if src["day"] != day:
             continue
@@ -243,7 +452,8 @@ def load_feeds_for_day(sources: list, day: str, published_urls: set = None) -> l
         with open(feed_path, encoding="utf-8") as f:
             data = json.load(f)
         for item in data.get("items", [])[:8]:    # 소스당 최대 8개 (주간 18개 보충용 후보 풀 확대)
-            if item.get("url") in published_urls:
+            if normalize_url(item.get("url", "")) in published_urls:
+                skipped += 1
                 continue
             items.append({
                 "source":       src["name"],
@@ -258,6 +468,8 @@ def load_feeds_for_day(sources: list, day: str, published_urls: set = None) -> l
                 "date":         item.get("date", ""),
                 "thumbnail":    item.get("thumbnail", ""),
             })
+    if skipped:
+        print(f"    [{DAY_LABELS[day]}] 이미 발행된 URL {skipped}개 제외 → 후보 {len(items)}개")
     return items
 
 
@@ -561,6 +773,9 @@ DEDUP_SYSTEM = """당신은 철학 큐레이션 사이트 '플라뇌르'의 중�
 새로 큐레이션한 글이 과거에 발행한 글과 본질적으로 같거나 유사한 내용인지 엄격하게 판정합니다.
 
 ## 중복 판정 기준 (하나라도 겹치면 중복 — 제목·표현·소재가 달라도)
+- **같은 소스 글이다** — 원제(소스 기사·영상 제목)가 사실상 같거나, 같은 인물·같은 사건·
+  같은 에피소드를 다룬다. 한국어 제목과 요약을 새로 썼을 뿐인 경우가 실제로 있었다.
+  (예: 같은 라디오 방송분을 2주 뒤 다른 제목으로 다시 큐레이션)
 - 같은 사회현상·일상 장면을 다룬다 (예: 남성의 외모 관리, 디지털 환경 속 신체)
 - 같은 핵심 질문·문제의식을 던진다 (예: 완벽주의/불완전함, 조직의 실수 은폐와 침묵)
 - 같은 철학자·핵심개념이 글의 중심이다 (예: 클레르 마랭의 불완전함, 드 케르코브의 디지털 신체)
@@ -579,31 +794,58 @@ DEDUP_SYSTEM = """당신은 철학 큐레이션 사이트 '플라뇌르'의 중�
 def filter_duplicates(client: anthropic.Anthropic, candidates: list, past: list) -> list:
     """candidates 각각이 past(과거 발행 글 + 같은 주 이미 채택된 글)와 중복인지 판정.
 
+    2단 게이트:
+      1) 로컬 게이트 — URL·원제·제목·요약 유사도로 결정적 판정. API를 쓰지 않으므로
+         네트워크 오류에 영향받지 않고, 여기서 걸린 후보는 LLM에 물어보지도 않는다.
+      2) LLM 게이트 — 1)을 통과한 후보만, '가장 비슷한 과거 글 DEDUP_TOP_K개'와 대조해
+         의미 중복(같은 논지·문제의식)을 판정한다. 과거 글 400여 개를 통째로 넣으면
+         판정이 희석되므로 로컬 유사도로 비교 대상을 미리 좁힌다.
+
     반환: candidates와 같은 길이의 verdict 리스트.
           [{"is_duplicate": bool, "matched": "과거 제목 또는 ''", "reason": "..."}]
-    API 실패 시 모두 비중복으로 간주(게이트가 발행을 막지 않도록 — fail-open).
+    LLM 호출이 실패하면 1회 재시도하고, 그래도 실패하면 로컬 게이트 결과만 적용한다
+    (로컬 게이트가 남아 있으므로 완전한 fail-open은 아니다).
     """
     if not candidates:
         return []
-    if not past:
-        return [{"is_duplicate": False, "matched": "", "reason": ""} for _ in candidates]
 
+    verdicts = [{"is_duplicate": False, "matched": "", "reason": ""} for _ in candidates]
+    if not past:
+        return verdicts
+
+    # ── 1단: 로컬 게이트 ──
+    remaining = []          # (원래 index, 후보) — LLM에 물어볼 것만
+    for i, c in enumerate(candidates):
+        matched, reason = local_duplicate_match(c, past)
+        if matched:
+            verdicts[i] = {"is_duplicate": True, "matched": matched,
+                           "reason": f"로컬 게이트: {reason}"}
+        else:
+            remaining.append((i, c))
+    if not remaining:
+        return verdicts
+
+    # ── 2단: LLM 게이트 (남은 후보와 가장 비슷한 과거 글만 대조) ──
+    subset = [c for _, c in remaining]
+    focus = most_similar_past(subset, past)
     past_block = "\n".join(
         f"- {a['title']}" + (f" — {a['summary']}" if a.get('summary') else "")
-        for a in past
+        + (f" [원제: {a['originalTitle']}]" if a.get('originalTitle') else "")
+        for a in focus
     )
     cand_block = ""
-    for i, c in enumerate(candidates):
+    for n, (_, c) in enumerate(remaining):
         cand_block += (
-            f"\n[{i+1}] 제목: {c['title']}\n"
+            f"\n[{n+1}] 제목: {c['title']}\n"
             f"요약: {c.get('summary','')}\n"
+            f"원제: {c.get('originalTitle','')}\n"
             f"태그: {', '.join(c.get('tags', []))}\n---"
         )
 
-    prompt = f"""## 과거에 이미 발행한 글
+    prompt = f"""## 과거에 이미 발행한 글 (새 글과 가장 비슷한 것부터 정렬)
 {past_block}
 
-## 이번에 새로 큐레이션한 글 ({len(candidates)}개) — 각각 위 과거 글과 중복인지 판정
+## 이번에 새로 큐레이션한 글 ({len(remaining)}개) — 각각 위 과거 글과 중복인지 판정
 {cand_block}
 
 ## 응답 형식 (JSON만, verdicts 길이는 새 글 개수와 동일)
@@ -614,25 +856,30 @@ def filter_duplicates(client: anthropic.Anthropic, candidates: list, past: list)
   ]
 }}"""
 
-    try:
-        response = client.messages.create(
-            model="claude-sonnet-4-6",
-            max_tokens=2048,
-            system=DEDUP_SYSTEM,
-            messages=[{"role": "user", "content": prompt}],
-        )
-        result = extract_json(response.content[0].text)
-    except Exception as e:
-        print(f"    [중복필터 오류] {e} — 이번 판정은 건너뜀(비중복 처리)")
-        return [{"is_duplicate": False, "matched": "", "reason": ""} for _ in candidates]
+    result = None
+    for attempt in (1, 2):     # 일시적 API 오류로 게이트가 뚫리지 않게 1회 재시도
+        try:
+            response = client.messages.create(
+                model="claude-sonnet-4-6",
+                max_tokens=4096,
+                system=DEDUP_SYSTEM,
+                messages=[{"role": "user", "content": prompt}],
+            )
+            result = extract_json(response.content[0].text)
+            break
+        except Exception as e:
+            print(f"    [중복필터 오류 {attempt}/2] {e}")
+    if result is None:
+        print("    → LLM 판정 실패, 로컬 게이트 결과만 적용")
+        return verdicts
 
-    verdicts = [{"is_duplicate": False, "matched": "", "reason": ""} for _ in candidates]
     for v in result.get("verdicts", []):
         try:
-            i = int(v["index"]) - 1
+            n = int(v["index"]) - 1
         except (KeyError, ValueError, TypeError):
             continue
-        if 0 <= i < len(candidates):
+        if 0 <= n < len(remaining):
+            i = remaining[n][0]        # LLM에 보낸 순번 → 원래 candidates 인덱스
             verdicts[i] = {
                 "is_duplicate": bool(v.get("is_duplicate")),
                 "matched":      (v.get("matched") or "").strip(),
@@ -691,9 +938,10 @@ def curate_day_filtered(client: anthropic.Anthropic, day: str, day_items: list,
             if not picked:
                 continue
 
-        # 과거 글 + 이번 주 이미 채택한 글과 대조
+        # 과거 글 + 이번 주 이미 채택한 글과 대조 (URL·원제도 함께 넘겨 로컬 게이트가 쓰게 한다)
         compare_against = recent_articles + [
-            {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", [])}
+            {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", []),
+             "sourceUrl": c.get("sourceUrl", ""), "originalTitle": c.get("originalTitle", "")}
             for c in chosen
         ]
         verdicts = filter_duplicates(client, picked, compare_against)
@@ -797,7 +1045,9 @@ def main():
     # 보충 모드: 이번 주 이미 발행된 다른 요일 글과도 겹치지 않도록 비교 대상에 포함
     if existing_items:
         recent_articles = recent_articles + [
-            {"title": it.get("title", ""), "summary": it.get("summary", ""), "tags": it.get("tags", [])}
+            {"title": it.get("title", ""), "summary": it.get("summary", ""),
+             "tags": it.get("tags", []), "sourceUrl": it.get("sourceUrl", ""),
+             "originalTitle": it.get("originalTitle", "")}
             for it in existing_items
         ]
 
@@ -890,6 +1140,8 @@ def main():
 
         strict=True면 최근 PHIL_LOOKBACK주에 다룬 철학자도 배제한다(1·2차).
         strict=False(3차)면 이번 주 유일성만 지키고 크로스위크 배제는 건너뛴다.
+        단, 로컬 중복 게이트(URL·원제·제목·요약 유사도)는 3차에서도 적용한다 —
+        의미가 비슷한 글은 편수를 채우려 허용할 수 있지만, 사실상 같은 글은 안 된다.
         """
         nonlocal recent_articles
         added = 0
@@ -897,7 +1149,12 @@ def main():
             # 나라별 편수 상한(3개) — 특정 요일이 4~5개가 되지 않게 한다
             if day_count(day) >= MAX_PER_DAY:
                 break
-            if c["sourceUrl"] in chosen_urls(day):
+            if normalize_url(c["sourceUrl"]) in {normalize_url(u) for u in chosen_urls(day)}:
+                continue
+            # 최종 관문: 과거 글·이번 주 채택분과 사실상 같은 글이면 어떤 단계에서도 막는다
+            matched, reason = local_duplicate_match(c, recent_articles)
+            if matched:
+                print(f"    [로컬 중복 제외] '{c['title']}' ↔ '{matched}' ({reason})")
                 continue
             # 이번 주 이미 다룬 철학자면 제외 (월~토 철학자 유일성 하드 게이트)
             keys = philosopher_keys(c.get("philosopher", ""))
@@ -916,7 +1173,8 @@ def main():
                 used_phil_keys.update(keys)
                 used_phil_names.append(c.get("philosopher", ""))
             recent_articles = recent_articles + [
-                {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", [])}
+                {"title": c["title"], "summary": c.get("summary", ""), "tags": c.get("tags", []),
+                 "sourceUrl": c.get("sourceUrl", ""), "originalTitle": c.get("originalTitle", "")}
             ]
             added += 1
         if added:

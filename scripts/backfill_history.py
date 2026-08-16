@@ -5,8 +5,12 @@ git에 커밋된 모든 과거 data/news.json 버전에서 글 제목·요약·�
 data/published_history.json 을 풍부한 형태로 재구성한다.
 
 중복 필터(curate.py)가 과거 글과 대조할 수 있도록, 각 주차에
-  { "week", "tags": [...], "articles": [{"title","summary","philosopher","philosophers","tags"}] }
+  { "week", "tags": [...],
+    "articles": [{"title","summary","philosopher","philosophers","tags","sourceUrl","originalTitle"}] }
 구조로 저장한다. (기존 tags-only 항목과 하위 호환)
+
+sourceUrl·originalTitle은 curate.py의 하드 중복 게이트가 쓴다. news.json에는 현재 주차만
+남으므로, 2주 이상 지난 글의 URL을 기억하는 곳은 이 이력 파일뿐이다.
 
 `philosopher` 필드는 2026-08-07 이후 발행분에만 들어 있으므로, 그 이전 글은
 본문(detail)에서 철학자 이름을 사전 매칭으로 추출해 채운다. 이 목록이 curate.py의
@@ -255,11 +259,14 @@ def main():
             # 대표 철학자: 발행 당시 기록된 값 우선, 없으면 가장 많이 언급된 인물
             primary = (it.get("philosopher") or "").strip() or (mentioned[0] if mentioned else "")
             articles.append({
-                "title":        title,
-                "summary":      (it.get("summary") or "").strip(),
-                "philosopher":  primary,
-                "philosophers": mentioned,
-                "tags":         it.get("tags", []),
+                "title":         title,
+                "summary":       (it.get("summary") or "").strip(),
+                "philosopher":   primary,
+                "philosophers":  mentioned,
+                "tags":          it.get("tags", []),
+                # curate.py의 URL·원제 하드 게이트용 (news.json은 1주분만 남아 이력이 유일한 기억이다)
+                "sourceUrl":     (it.get("sourceUrl") or "").strip(),
+                "originalTitle": (it.get("originalTitle") or "").strip(),
             })
         flat_tags = list(dict.fromkeys(t for a in articles for t in a["tags"]))
         weeks[wk] = {"week": wk, "tags": flat_tags, "articles": articles}
@@ -272,8 +279,10 @@ def main():
 
     total_articles = sum(len(e["articles"]) for e in ordered)
     no_phil = sum(1 for e in ordered for a in e["articles"] if not a["philosopher"])
+    with_url = sum(1 for e in ordered for a in e["articles"] if a["sourceUrl"])
     print(f"백필 완료: {len(ordered)}개 주차 / 글 {total_articles}개 → data/published_history.json")
     print(f"  철학자 식별: {total_articles - no_phil}개 / 미식별 {no_phil}개")
+    print(f"  URL 기록: {with_url}개 / 누락 {total_articles - with_url}개 (URL 하드 게이트 대상)")
     for e in ordered:
         phs = [a["philosopher"] for a in e["articles"] if a["philosopher"]]
         print(f"  {e['week']}: 글 {len(e['articles'])}개, 태그 {len(e['tags'])}개, 철학자 {len(set(phs))}명")
