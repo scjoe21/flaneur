@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-15T16:46:46.306324+00:00",
+  "fetchedAt": "2026-08-16T17:34:06.832818+00:00",
   "items": [
     {
       "title": "How Love Comes to You",
@@ -52,35 +52,19 @@
       }
     },
     {
-      "title": "Anaïs Nin on Why Emotional Excess is Essential to Creativity",
-      "url": "https://www.themarginalian.org/2026/08/10/anais-nin-on-emotion-and-writing/",
-      "description": "\"Something is always born of excess: great art was born of great terrors, great loneliness, great inhibitions, instabilities, and it always balances them.\"",
-      "date": "Mon, 10 Aug 2026",
+      "title": "How to Read the Signal of Your Life",
+      "url": "https://www.themarginalian.org/2026/08/15/george-kubler-actuality/",
+      "description": "Sitting atop a Spanish mesa one sweltering August night, watching the Perseid meteor showers streak the sky with the debris of a comet burning through the atmosphere against the backdrop of a billion dead stars whose signal light is only now reaching us, I found myself trembling with the parallel to life itself: The great paradox is that we are aflame with aliveness only as we burn through the atmosphere of now, and yet our lives are the story we constellate from the signals of bygone experience",
+      "date": "Sat, 15 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
-        "daily": 30,
+        "daily": 25,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 30
-      }
-    },
-    {
-      "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
-      "url": "https://www.themarginalian.org/2026/08/09/pessoa-explorer/",
-      "description": "Life is an ongoing expedition into the brambled tendrilled wilderness of ourselves, continually stymied by all we mistake for a final destination — success, superhuman strength, the love of another. Along the way, we keep confusing experiment and exploration. An experiment proves or disproves an existing theory; its payoff is data, fixed and binary. An exploration is a traversal of the unknown, of landscapes you didn’t even know existed, with all the courage and vulnerability and openness to exp",
-      "date": "Sun, 09 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
       }
     },
     {
@@ -116,19 +100,19 @@
       }
     },
     {
-      "title": "The Stoic Antidote to Frustration: Marcus Aurelius on How to Keep Your Mental Composure and Emotional Equanimity When People Let You Down",
-      "url": "https://www.themarginalian.org/2026/08/09/marcus-aurelius-meditations-robin-waterfield/",
-      "description": "The art of tempering your fury with an infuriating existential truth.",
-      "date": "Sun, 09 Aug 2026",
+      "title": "The Ocean and the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/08/15/rachel-carson-the-edge-of-the-sea/",
+      "description": "\"Contemplating the teeming life of the shore, we have an uneasy sense of the communication of some universal truth that lies just beyond our grasp... the ultimate mystery of Life itself.\"",
+      "date": "Sat, 15 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The Gentle Giant: Oliver Sacks and the Art of Choosing Empathy Over Vengeance",
+      "url": "https://www.themarginalian.org/2026/08/15/oliver-sacks-on-the-move-empathy/",
+      "description": "An existential lesson gleaned from a brush with death and foolishness.",
+      "date": "Sat, 15 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

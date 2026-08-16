@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-08-15T16:44:50.894528+00:00",
+  "fetchedAt": "2026-08-16T17:31:35.693692+00:00",
   "items": [
     {
       "title": "Peter Thiel ou le (més)usage de la philosophie",
@@ -32,22 +32,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "« Celui qui inventera les matériaux de demain façonnera les industries du futur »",
-      "url": "https://usbeketrica.com/fr/article/celui-qui-inventera-les-materiaux-de-demain-faconnera-les-industries-du-futur",
-      "description": "Alors que l’Europe cherche à s’affranchir de ses dépendances géopolitiques, l’intelligence artificielle s’impose comme le nouvel architecte de l’innovation moléculaire. En inversant les processus de recherche traditionnels, elle promet d’accélérer la découverte de matériaux d’avenir. C'est l'une des idées fortes qui ressort de l'échange entre Karima Benelhadj, responsable sectorielle Chimie et Environnement chez Bpifrance, et Mathieu Pucheault, cofondateur de Synboli, une start-up spécialisée da",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Et si les États-Unis avaient gagné la guerre du Vietnam ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-les-etats-unis-avaient-gagne-la-guerre-du-vietnam",
+      "description": "Le 31 janvier 1968 est une date clé dans l’histoire américaine comme dans celle du Vietnam. L’« offensive du Têt », menée ce jour-là par le Vietcong communiste, apparaît comme le tournant majeur d’un conflit que les États-Unis ne seront jamais capables de remporter. Et si l’issue de cette bataille avait été différente ? Et si l’US Army était sortie vainqueur de ce conflit ? Dans cette uchronie, FUTUR imagine le destin du Vietnam si le pays était devenu une simple colonie de l’empire américain. U",
+      "date": "Sun, 16 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

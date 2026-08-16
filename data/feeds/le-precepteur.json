@@ -1,24 +1,8 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-08-15T16:44:49.089220+00:00",
+  "fetchedAt": "2026-08-16T17:31:34.478664+00:00",
   "items": [
-    {
-      "title": "La mort n’est rien",
-      "url": "https://www.youtube.com/shorts/esnekOciGAs",
-      "description": "Au IIIe siècle avant notre ère, le philosophe grec Épicure développe une idée aussi radicale que rassurante : la mort n’est rien pour nous. Dans cette vidéo, je vous explique pourquoi, selon lui, nous ne rencontrons jamais réellement la mort… et comment la peur de mourir peut nous empêcher d’être heureux tant que nous sommes encore vivants.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #épicure #mort #peur #bonheur #existence",
-      "date": "2026-07-05",
-      "thumbnail": "https://i2.ytimg.com/vi/esnekOciGAs/hqdefault.jpg",
-      "videoId": "esnekOciGAs",
-      "priority": 50,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 50
-      }
-    },
     {
       "title": "Savez-vous qui vous êtes ?",
       "url": "https://www.youtube.com/shorts/B4iFaVd8asM",
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "La technologie vous contrôle",
+      "url": "https://www.youtube.com/shorts/LU6pSZCQSTw",
+      "description": "Au XXe siècle, le philosophe Ivan Illich développe une critique radicale de la technologie : et si les outils que nous croyons utiliser finissaient par nous utiliser ? Dans cette vidéo, je vous explique pourquoi, selon lui, la technologie nous promet une vie plus libre alors qu’elle peut parfois nous rendre plus dépendants, plus distraits et moins maîtres de notre temps.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #ivanillich #technologie #dépendance #société",
+      "date": "2026-08-16",
+      "thumbnail": "https://i1.ytimg.com/vi/LU6pSZCQSTw/hqdefault.jpg",
+      "videoId": "LU6pSZCQSTw",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "N'attendez rien des autres",
+      "url": "https://www.youtube.com/shorts/PeSbHaMBaJM",
+      "description": "Selon les stoïciens, la plupart de nos souffrances ne viennent pas des événements, mais de nos attentes. En projetant mentalement nos désirs sur la réalité, nous nous condamnons à la déception. Ce n'est qu'en étant lucide sur le monde et sur l'imperfection humaine que nous pourrons nous libérer du malheur.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n \n#stoicisme #attentes #deception #lucidite #bienetre #philosophie",
+      "date": "2026-08-16",
+      "thumbnail": "https://i1.ytimg.com/vi/PeSbHaMBaJM/hqdefault.jpg",
+      "videoId": "PeSbHaMBaJM",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "La colère ne résout rien",
       "url": "https://www.youtube.com/shorts/UkKLouOc8Z0",
       "description": "Les stoïciens le disent clairement : la colère n'apporte que des problèmes et des regrets. Elle aggrave les situations au lieu de les améliorer. Pour les stoïciens, la colère est un signe d'attachement à une vision idéalisée du monde. Bien que nous ne décidions pas consciemment de nous mettre en colère, nous lui donnons notre assentiment en nourrissant cette émotion par nos pensées.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd\n \n#stoicisme #colère #gestiondesémotions ",
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Le piège des attentes",
-      "url": "https://www.youtube.com/shorts/IzzHr7Bn8V4",
-      "description": "Selon les stoïciens, la plupart de nos souffrances ne viennent pas des événements, mais de nos attentes. En projetant mentalement nos désirs sur la réalité, nous nous condamnons à la déception. Ce n'est qu'en étant lucide sur le monde et sur l'imperfection humaine que nous pourrons nous libérer du malheur.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n \n#stoicisme #attentes #deception #lucidite #bienetre #philosophie",
-      "date": "2026-07-11",
-      "thumbnail": "https://i2.ytimg.com/vi/IzzHr7Bn8V4/hqdefault.jpg",
-      "videoId": "IzzHr7Bn8V4",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

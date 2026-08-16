@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-08-15T16:46:49.707590+00:00",
+  "fetchedAt": "2026-08-16T17:34:10.870650+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Erzählen gegen den Untergang - Scheherazades Kunst und die Kraft der Fiktionen in Zeiten der Bedrohung",
+      "url": "https://www.deutschlandfunk.de/erzaehlen-gegen-den-untergang-100.html",
+      "description": "Wie hilft Erzählen in autoritären Zeiten, in Gewaltszenarien und Multikrisen? Von Scheherazade bis heute erweisen sich Fiktionen als Überlebensstrategie: Sie verwandelt Ohnmacht in Handlung und Chaos in Sinn. Von Samira El Ouassil www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 16 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -193,22 +209,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 10
-      }
-    },
-    {
-      "title": "Zukunft des Urbanen - Aus Bestehendem schöpfen: Das Potenzial obsoleter Stadträume",
-      "url": "https://www.deutschlandfunk.de/aus-bestehendem-schoepfen-das-potenzial-obsoleter-stadtraeume-100.html",
-      "description": "Unsere Großstädte stehen unter enormem Druck. Es werden Flächen benötigt – für neue und bezahlbare Wohnungen, Grünräume, soziale Infrastrukturen und eine nachhaltige Mobilität. Doch wo sind diese zu finden? Von Sabine Tastel www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Thu, 14 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {

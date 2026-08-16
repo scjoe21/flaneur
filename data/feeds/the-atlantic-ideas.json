@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-15T16:46:45.429905+00:00",
+  "fetchedAt": "2026-08-16T17:34:06.204408+00:00",
   "items": [
     {
       "title": "Why I Quit the Tenure Track",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Why MAGA Is So Obsessed With Fauci",
-      "url": "https://www.theatlantic.com/ideas/2026/08/fauci-paul-covid-wuhan/688233/?utm_source=feed",
+      "title": "Enes Kanter Freedom Obviously Doesn’t Belong in the WNBA",
+      "url": "https://www.theatlantic.com/ideas/2026/08/enes-kanter-royce-white-wnba-trans/688300/?utm_source=feed",
       "description": "",
-      "date": "2026-08-08",
+      "date": "2026-08-16",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Trump’s Last Loyal Constituency",
+      "url": "https://www.theatlantic.com/ideas/2026/08/trump-business-dark-money/688290/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -132,8 +148,8 @@
       }
     },
     {
-      "title": "Are Men to Blame for the Birth-Rate Collapse?",
-      "url": "https://www.theatlantic.com/ideas/2026/08/fertility-men-housework-goldin/688238/?utm_source=feed",
+      "title": "The Man Who Refused to Sit on the Sidelines",
+      "url": "https://www.theatlantic.com/magazine/2026/09/fallen-september-11-firefighter-family/687964/?utm_source=feed",
       "description": "",
       "date": "2026-08-11",
       "thumbnail": "",
@@ -148,8 +164,8 @@
       }
     },
     {
-      "title": "The Man Who Refused to Sit on the Sidelines",
-      "url": "https://www.theatlantic.com/magazine/2026/09/fallen-september-11-firefighter-family/687964/?utm_source=feed",
+      "title": "Are Men to Blame for the Birth-Rate Collapse?",
+      "url": "https://www.theatlantic.com/ideas/2026/08/fertility-men-housework-goldin/688238/?utm_source=feed",
       "description": "",
       "date": "2026-08-11",
       "thumbnail": "",
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/08/are-raccoons-evolving-pets/688231/?utm_source=feed",
       "description": "",
       "date": "2026-08-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What Mitch McConnell Did",
-      "url": "https://www.theatlantic.com/ideas/2026/08/mitch-mcconnell-gop-legacy/688221/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

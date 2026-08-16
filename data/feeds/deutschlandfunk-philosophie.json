@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-15T16:44:53.480723+00:00",
+  "fetchedAt": "2026-08-16T17:31:39.686292+00:00",
   "items": [
     {
       "title": "Politische Philosophie - Vom Empfinden zum politischen Handeln",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
+      "url": "https://www.deutschlandfunkkultur.de/philosophie-in-china-die-rolle-der-intellektuellen-100.html",
+      "description": "Das Interesse für chinesische Philosophie wird hierzulande immer größer, wie zahlreiche neue Übersetzungen zeigen. Der deutsch-chinesische Publizist Shi Ming erklärt, was die großen Themen der aktuellen intellektuellen Debatten in China sind. Shi, Ming; Newmark, Catherine www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 16 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -116,6 +132,22 @@
       }
     },
     {
+      "title": "Lebenszeiten 3: Erwachsensein - Zwischen Aufstieg und Absturz",
+      "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-3-erwachsensein-zwischen-aufstieg-und-absturz-100.html",
+      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 16 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "KI vs. Mensch: Eine Frage des Geschmacks",
       "url": "https://www.deutschlandfunkkultur.de/ki-vs-mensch-eine-frage-des-geschmacks-100.html",
       "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
@@ -142,22 +174,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "250 Jahre USA - Ideale und Realitäten der amerikanischen Staatsgründung",
-      "url": "https://www.deutschlandfunkkultur.de/250-jahre-usa-ideale-und-realitaeten-der-amerikanischen-staatsgruendung-100.html",
-      "description": "Am 4. Juli feiern die USA ihren 250. Geburtstag. Die Historikerin Britta Waldschmidt-Nelson und der Politologe Philipp Lepenies diskutieren über die philosophischen Ideale der US-Gründerväter und beleuchten, was für ein Experiment die Revolution war. Lepenies, Philipp; Waldschmidt-Nelson, Britta; Newmark, Catherine www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 28 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/internationaler-tag-des-kusses-bedrohte-intimitaet-100.html",
       "description": "Schniederjann, Nils www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 05 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Weltyogatag: Philosophische Einheit von Körper und Geist",
-      "url": "https://www.deutschlandfunkkultur.de/weltyogatag-philosophische-einheit-von-koerper-und-geist-100.html",
-      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 21 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

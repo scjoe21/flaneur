@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-15T16:46:53.008004+00:00",
+  "fetchedAt": "2026-08-16T17:34:14.204170+00:00",
   "items": [
     {
       "title": "Der Kuss – Warum es ihn gibt",
@@ -196,19 +196,19 @@
       }
     },
     {
-      "title": "Geoengineering im Meer – Mit Mineralien gegen den Klimawandel?",
-      "url": "https://www.swr.de/swrkultur/wissen/geoengineering-im-meer-mit-mineralien-gegen-den-klimawandel-100.html",
-      "description": "Könnte man das Meer dazu bringen, mehr CO2 aus der Atmosphäre aufzunehmen, um so die globale Erwärmung zu bremsen? An einem solchen Verfahren wird weltweit geforscht.",
-      "date": "Sun, 2 Aug 2026 ",
+      "title": "Vom Häftling zum Diktator – Adolf Hitler von 1925 bis 1933",
+      "url": "https://www.swr.de/swrkultur/wissen/adolf-hitler-von-1925-bis-1933-vom-haeftling-zum-diktator-102.html",
+      "description": "Kurz vor Weihnachten 1924 kommt der gescheiterte Putschist Adolf Hitler aus der Haft frei. Für seinen zweiten Anlauf zur Macht findet er entscheidende Unterstützer.",
+      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
