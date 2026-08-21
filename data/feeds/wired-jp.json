@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-21T04:33:32.354205+00:00",
+  "fetchedAt": "2026-08-21T15:42:55.742519+00:00",
   "items": [
     {
       "title": "高級食品スーパーはなぜ分断を加速させるのか｜FOOD Lab",
@@ -17,22 +17,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "イーロン・マスクがついにX Moneyをローンチ、立ちはだかる不安材料とは",
-      "url": "https://wired.jp/article/sz-elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
-      "description": "米国の主要な金融拠点の一部が対象外であることは、X Moneyの今後の展開への不安材料のひとつだが、それ以外にも解決すべき問題がある。",
-      "date": "Mon, 17 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "TCL「Note A1 NXTPAPER」レビュー：紙に近い感覚で書け、動画も楽しめる",
+      "url": "https://wired.jp/review/tcl-note-a1-nxtpaper-tablet/",
+      "description": "TCLの「Note A1 NXTPAPER」は、E Ink端末と一般的なタブレットのいいとこどりを目指した製品である。実際、両者の長所をかなりうまく両立している。",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

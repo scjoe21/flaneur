@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-08-21T04:33:12.600798+00:00",
+  "fetchedAt": "2026-08-21T15:42:33.243467+00:00",
   "items": [
     {
       "title": "How To Give Everyday People A Say In AI Governance",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’",
-      "url": "https://www.noemamag.com/the-2026-berggruen-prize-essay-competition-topic-a-new-axial-age",
-      "description": "The post  The 2026 Berggruen Prize Essay Competition Topic: ‘A New Axial Age?’  appeared first on  NOEMA .",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 8,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 8
-      }
-    },
-    {
       "title": "The Tantalizing Possibility Of Locating Consciousness In The Brain",
       "url": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain",
       "description": "The post  The Tantalizing Possibility Of Locating Consciousness In The Brain  appeared first on  NOEMA .",
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Introducing Noema Issue VII: The Next Axial Age",
+      "url": "https://www.noemamag.com/introducing-noema-issue-vii-the-next-axial-age",
+      "description": "The post  Introducing Noema Issue VII: The Next Axial Age  appeared first on  NOEMA .",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

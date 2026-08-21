@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-21T04:31:30.511567+00:00",
+  "fetchedAt": "2026-08-21T15:41:44.988172+00:00",
   "items": [
     {
       "title": "Warum können wir nicht allein sein?",
@@ -212,19 +212,19 @@
       }
     },
     {
-      "title": "Daniel Mendelsohn: „Odysseus verkörpert ein Heldentum des Geistes“",
-      "url": "https://www.philomag.de/artikel/daniel-mendelsohn-odysseus-verkoerpert-ein-heldentum-des-geistes",
-      "description": "Die Prüfungen, die Odysseus durchlebt, lassen ihn verschiedene Facetten seiner selbst erkunden, bis er seine Identität verliert, um sie anschließend wiederzufinden. Homer schafft so ein neues Modell des Heldentums, meint der Autor Daniel Mendelsohn.",
-      "date": "Mon, 10 Aug 2026",
+      "title": "Alles hyper",
+      "url": "https://www.philomag.de/artikel/alles-hyper",
+      "description": "Technologie als Herrschaftsmittel, Politik als Ablenkung – laut Asma Mhalla sieht so unsere Zukunft aus. In den USA wird sie vorbereitet. Können wir sie noch abwenden?",
+      "date": "Fri, 21 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {

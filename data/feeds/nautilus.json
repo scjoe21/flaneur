@@ -1,24 +1,8 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-08-21T04:33:24.953501+00:00",
+  "fetchedAt": "2026-08-21T15:42:45.613026+00:00",
   "items": [
-    {
-      "title": "Why It Might Be Time to Rethink the Human Family Tree",
-      "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985/",
-      "description": "The way we classify humanity’s ancient relatives is a mess. But there’s a simple fix. \n The post  Why It Might Be Time to Rethink the Human Family Tree  appeared first on  Nautilus .",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Ian_HERO.png?w=564",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
-      }
-    },
     {
       "title": "No One Knows How Whale Sharks Give Birth—But This Neonatal Shark Discovery Provides Some Clues",
       "url": "https://nautil.us/no-one-knows-how-whale-sharks-give-birth-but-this-neonatal-shark-discovery-provides-some-clues-1284017/",
@@ -33,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Why Human Giants Defy the Laws of Physics",
+      "url": "https://nautil.us/why-human-giants-defy-the-laws-of-physics-1284028/",
+      "description": "Without different anatomical proportions, a scaled-up body would collapse under its own weight. \n The post  Why Human Giants Defy the Laws of Physics  appeared first on  Nautilus .",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/foot-hero.png?w=564",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "AI Can See Optical Illusions",
+      "url": "https://nautil.us/ai-can-see-optical-illusions-1284064/",
+      "description": "And it might teach us about our own brains \n The post  AI Can See Optical Illusions  appeared first on  Nautilus .",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_8f7146.png?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Even Mussels Get Scared",
       "url": "https://nautil.us/even-mussels-get-scared-1284061/",
       "description": "And it could have dramatic consequences \n The post  Even Mussels Get Scared  appeared first on  Nautilus .",
@@ -137,22 +153,6 @@
       "description": "Shrines and temples are urban amphibian hot spots \n The post  The Secret Lives of Japanese Temple Frogs  appeared first on  Nautilus .",
       "date": "Thu, 20 Aug 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_07c29f.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The “Kerry Cow” Wasn’t a Cow at All—And It Upends Stone Age Irish History",
-      "url": "https://nautil.us/the-kerry-cow-wasnt-a-cow-at-all-and-it-upends-stone-age-irish-history-1283999/",
-      "description": "R.I.P. “Kerry cow” \n The post  The “Kerry Cow” Wasn’t a Cow at All—And It Upends Stone Age Irish History  appeared first on  Nautilus .",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_c14228.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-21T04:31:23.019566+00:00",
+  "fetchedAt": "2026-08-21T15:41:37.417436+00:00",
   "items": [
     {
       "title": "“Comment trouver les mots justes ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "“Eurêka !” : comment découvre-t-on des vérités mathématiques ?",
-      "url": "https://www.philomag.com/articles/eureka-comment-decouvre-t-des-verites-mathematiques",
-      "description": "",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -129,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Comprendre la “pensée indienne” avec Isabelle Ratié",
+      "url": "https://www.philomag.com/articles/comprendre-la-pensee-indienne-avec-isabelle-ratie",
+      "description": "",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-08-16T17:34:18.360362+00:00",
+  "fetchedAt": "2026-08-21T15:42:44.733515+00:00",
   "items": [
     {
       "title": "We need to change how we view autism | Simon Baron-Cohen",
@@ -84,12 +84,28 @@
       }
     },
     {
-      "title": "How meth powered Hitler's military | Norman Ohler",
-      "url": "https://www.youtube.com/shorts/JHGYXynpz2o",
-      "description": "With a free trial, you can watch Norman's full talk at https://iai.tv/video/psychedelics-nazi-germany-and-the-cia?utm_source=YouTube&utm_medium=short3\n\n#hitler #history #interestingfacts #worldwar2",
-      "date": "2026-07-31",
-      "thumbnail": "https://i3.ytimg.com/vi/JHGYXynpz2o/hqdefault.jpg",
-      "videoId": "JHGYXynpz2o",
+      "title": "Is Donald Trump a Russian asset? | Christopher Steele",
+      "url": "https://www.youtube.com/watch?v=kGXoUyhnmL8",
+      "description": "Christopher Steele and Roger Hearing discuss Donald Trump's relationship with Russia and Vladimir Putin.\n\nHas the Kremlin taken control of the White House?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/intelligence-and-the-new-world-order?utm_source=YouTube&utm_medium=description\n\nFormer MI6 intelligence officer Christopher Steele reveals just how drastically the world has changed in Trump's second term as President. Alliances have weakened, great-power competition ",
+      "date": "2026-08-20",
+      "thumbnail": "https://i4.ytimg.com/vi/kGXoUyhnmL8/hqdefault.jpg",
+      "videoId": "kGXoUyhnmL8",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "Why the West is running a smear campaign against China | Kishore Mahbubani",
+      "url": "https://www.youtube.com/watch?v=Vp5vfnPc5b0",
+      "description": "Kishore Mahbubani interrogates the hypocritical and arrogant ideology of the Western powers.\n\nWill China ever need democracy, or can the nation and its people thrive without importing Western political models?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/rebalancing-the-global-order?utm_source=YouTube&utm_medium=description\n\nFor centuries, Western powers dominated the global order and mistook that moment for permanence. Join Former President of the UN Security Coun",
+      "date": "2026-08-18",
+      "thumbnail": "https://i3.ytimg.com/vi/Vp5vfnPc5b0/hqdefault.jpg",
+      "videoId": "Vp5vfnPc5b0",
       "priority": 25,
       "scoreDetail": {
         "daily": 25,
@@ -148,7 +164,7 @@
       }
     },
     {
-      "title": "Are the US and Europe still allies? | Gillian Tett, Jeremy Corbyn, Michael Ignatieff",
+      "title": "Are the US and Europe becoming enemies? | Gillian Tett, Jeremy Corbyn, Michael Ignatieff",
       "url": "https://www.youtube.com/watch?v=cf4YcpI-st8",
       "description": "Gillian Tett, Jeremy Corbyn, and Michael Ignatieff discuss the end of the US-Europe alliance and the future of geopolitics. \n\nIs NATO on the brink of extinction? \n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-end-of-the-great-alliance?utm_source=YouTube&utm_medium=description\n\nCentral to the West has been the allegiance of the US and Europe. But Trump's December 2025 Strategic Review outlined a very different world order in which the US is not necessarily alli",
       "date": "2026-08-15",
@@ -193,22 +209,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "What the Ancient Greeks can teach us about love | Alain de Botton",
-      "url": "https://www.youtube.com/shorts/5HIBxwepyW8",
-      "description": "With a free trial, you can watch the full talk at https://iai.tv/video/love-is-more-than-magic?utm_source=YouTube&utm_medium=short-2\n\n#ancientgreece #schooloflife #love #relationships",
-      "date": "2026-08-01",
-      "thumbnail": "https://i2.ytimg.com/vi/5HIBxwepyW8/hqdefault.jpg",
-      "videoId": "5HIBxwepyW8",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
