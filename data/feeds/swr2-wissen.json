@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-16T17:34:14.204170+00:00",
+  "fetchedAt": "2026-08-21T04:33:20.638444+00:00",
   "items": [
     {
       "title": "Der Kuss – Warum es ihn gibt",
@@ -33,6 +33,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Oktopusse – Wie intelligent und sozial sind Kraken wirklich?",
+      "url": "https://www.swr.de/swrkultur/wissen/oktopusse-wie-intelligent-und-sozial-sind-kraken-wirklich-100.html",
+      "description": "Acht Arme, übersät mit Saugnäpfen und Millionen Nervenzellen. Drei Herzen. Ein weicher, gummiartiger Körper. Oktopusse verfügen über erstaunliche Talente, die zunehmend erforscht werden.",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
+    {
+      "title": "Die teure Epidemie – Wie Long COVID und ME/CFS die Gesellschaft belasten",
+      "url": "https://www.swr.de/swrkultur/wissen/die-teure-epidemie-wie-long-covid-und-mecfs-die-gesellschaft-belasten-104.html",
+      "description": "1,5 Mio. Menschen in Deutschland haben Long Covid oder ME/CFS. Das erzeugt nicht nur Leiden, sondern auch hohe Kosten für die Gesellschaft.",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -100,38 +132,6 @@
       }
     },
     {
-      "title": "Gut altern beginnt im Kopf – Wie uns positive Altersbilder stärken",
-      "url": "https://www.swr.de/swrkultur/wissen/gut-altern-beginnt-im-kopf-wie-uns-positive-altersbilder-staerken-100.html",
-      "description": "Zu Longevity gehört neben Genen und Lebensstil auch die Einstellung. Studien der Alterspsychologie zeigen: Menschen, die positiv aufs Altwerden blicken, leben länger.",
-      "date": "Thu, 6 Aug 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Neue Biowaffen – Wie gefährlich sind Viren, Bakterien und Pflanzensamen?",
-      "url": "https://www.swr.de/swrkultur/wissen/neue-biowaffen-wie-gefaehrlich-sind-viren-bakterien-und-pflanzensamen-106.html",
-      "description": "Die Biowaffen-Konvention der UN von 1975 ist offiziell bislang nicht gebrochen worden. Doch die Bedrohung durch die B-Waffen ist groß. Und mit KI entstehen neue Gefahren.",
-      "date": "Mon, 3 Aug 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Tierschutz im Reitsport – Was Pferde leisten und wann sie leiden",
       "url": "https://www.swr.de/swrkultur/wissen/tierschutz-im-reitsport-was-pferde-leisten-und-wann-sie-leiden-100.html",
       "description": "Am 11. August 2026 startet in Aachen die Reit-WM. Nach einer Regellockerung wird über das Tierwohl im Pferdesport diskutiert: Wie viel Leistungsdruck darf sein?",
@@ -148,19 +148,19 @@
       }
     },
     {
-      "title": "Japans erfolgreicher Kampf gegen den Suizid",
-      "url": "https://www.swr.de/swrkultur/wissen/japans-erfolgreicher-kampf-gegen-den-suizid-102.html",
-      "description": "Ein Gesetz machte das Verhindern von Selbsttötungen in Japan zur gesamtgesellschaftlichen Aufgabe. Aktivisten, Beamte, Priester, Journalisten und Familienangehörige kooperieren.",
-      "date": "Tue, 4 Aug 2026 ",
+      "title": "Psychiatrie in Deutschland heute – Ambulant, vernetzt, herausgefordert (2/2)",
+      "url": "https://www.swr.de/swrkultur/wissen/psychiatrie-in-deutschland-heute-ambulant-vernetzt-herausgefordert-104.html",
+      "description": "Heute können psychisch kranke Menschen mehr denn je am Leben teilhaben. Es gibt betreute Wohneinrichtungen, inklusive Arbeitsstätten und Selbsthilfegruppen.",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -196,6 +196,22 @@
       }
     },
     {
+      "title": "Psychiatrie in Deutschland 1975 – Revolte gegen das Wegsperren (1/2)",
+      "url": "https://www.swr.de/swrkultur/wissen/psychiatrie-in-deutschland-1975-revolte-gegen-das-wegsperren-100.html",
+      "description": "Bis in die 1970er glichen Psychiatrien elenden Verwahranstalten: Patienten wurden ruhiggestellt, weggesperrt und menschenunwürdig untergebracht. 1975 kam eine Psychiatriereform.",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Vom Häftling zum Diktator – Adolf Hitler von 1925 bis 1933",
       "url": "https://www.swr.de/swrkultur/wissen/adolf-hitler-von-1925-bis-1933-vom-haeftling-zum-diktator-102.html",
       "description": "Kurz vor Weihnachten 1924 kommt der gescheiterte Putschist Adolf Hitler aus der Haft frei. Für seinen zweiten Anlauf zur Macht findet er entscheidende Unterstützer.",
@@ -216,22 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/die-sonne-stern-des-lebens-der-energie-und-der-zerstoerung-112.html",
       "description": "Ohne die Sonne könnten wir nicht leben, sie spendet Wärme und Licht. Doch die Erde ist auch eine Art Insel – rund um die Uhr der Brandung des bedrohlichen Sonnenwinds ausgesetzt.",
       "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Eisenmangel und seine Folgen – Müde, unkonzentriert, kurzatmig",
-      "url": "https://www.swr.de/swrkultur/wissen/eisenmangel-und-seine-folgen-muede-unkonzentriert-kurzatmig-100.html",
-      "description": "Bei Eisenmangel leidet der Sauerstofftransport im Blut, in der Folge ist der Körper weniger leistungsfähig. Und das gilt auch für das Gehirn. Wichtiger Marker: das Ferritin im Blutserum.",
-      "date": "Wed, 5 Aug 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

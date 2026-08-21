@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-08-16T17:34:22.146079+00:00",
+  "fetchedAt": "2026-08-21T04:33:28.142025+00:00",
   "items": [
     {
       "title": "17世紀―消費社会の誕生",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "【9月9日（水）】『大江健三郎を読む』の刊行記念トークイベントを開催",
-      "url": "https://shinsho-plus.shueisha.co.jp/information/36304",
-      "description": "大江健三郎は「戦時」と「戦後」のつながりを問い直し、日本社会の閉塞的な状況を文学的な想像力で捉え続けてきた作家でした。1973年には「新しい戦前」という言葉で核時代の危機を指摘しました。そんな大江の初期小説から最晩年の […]",
-      "date": "Mon, 03 Aug 2026",
+      "title": "子どもスコープがつなぐ世界",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/bunkaisan_kodure/36459",
+      "description": "子どもは大人にはないセンサーを持っている。知識も経験もなく、背は低いし視界はせまいのに、大人が見過ごすものを、なぜか100%の確率で見つけてくることがある。 たとえば、「ゆりかご」。 伝統的な農家から、職人や商工業者の住 […]",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "あの2010年代の生き残りは、こうして大人になった―文芸評論家・宮崎智之インタビュー―",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/sato_humanities/36416",
+      "description": "―1990年代生まれ、30代の若手を中心とした「令和人文主義」の世代に勢いがありますね。出版業界を潤してくれてありがたい限りで、せめて足を引っ張らないようにしたいのですが、翻って、1980年代前半生まれの僕たちの世代はど […]",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "注意の宛先—コーラと麦茶の取り違えから始まる美学",
       "url": "https://shinsho-plus.shueisha.co.jp/column/tadashi_tamura/36413",
       "description": "英国秘密情報部に所属するスパイのジェームズ・ボンドが活躍する映画シリーズに、『007／ゴールドフィンガー』というタイトルがある。公開されたのは一九六四年だが、いま観返してみると、悪役のゴールドフィンガーは現アメリカ大統 […]",
@@ -136,22 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/interview/harada_tanaka/36283",
       "description": "原田　田中さんは、今おいくつになられましたか。 田中　私は1982年生まれなので、今年で44歳になります。 原田　僕が1977年生まれの49歳なので、ちょうど5歳違いですね。今、日本の現役世代における最大のボリュームゾー […]",
       "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "特定疾病患者にも負担増を強いるのか？　資料を読み解き財務省の思惑を探る",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36239",
-      "description": "高額療養費制度の〈見直し〉そのものに話を戻そう。政府が「２年間のパッケージで実施する」と主張している引き上げのうち、２年目の2027年８月1日からの自己負担上限額と引き上げ幅は以下のとおりだ。 ［表１：2027年８月か […]",
-      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

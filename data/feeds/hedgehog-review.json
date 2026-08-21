@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-08-16T17:34:18.898561+00:00",
+  "fetchedAt": "2026-08-21T04:33:24.677810+00:00",
   "items": [
     {
       "title": "Birthright and Belonging",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Growing Old in Academe",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/growing-old-in-academe",
+      "description": "When my gossip cohort disappeared, I knew I had been hanging on to teaching too long.",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/where-have-all-the-protestants-gone",
       "description": "",
       "date": "Wed, 24 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Will Soccer Finally Get the US Seal of Approval?",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/can-soccer-be-normal-in-america",
-      "description": "",
-      "date": "Thu, 18 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

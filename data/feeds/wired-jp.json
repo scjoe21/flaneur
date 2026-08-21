@@ -1,13 +1,29 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-16T17:34:29.671058+00:00",
+  "fetchedAt": "2026-08-21T04:33:32.354205+00:00",
   "items": [
     {
-      "title": "中国のAIモデルもテスト環境から“脱走”、問われるAIの制御",
-      "url": "https://wired.jp/article/moonshot-kimi-k3-ai-model-escape-sandbox/",
-      "description": "AIモデルが隔離されたテスト環境を抜け出し、インターネットにアクセスする事例が相次いでいる。中国のオープンウェイトモデル「Kimi K3」でも新たな事例が報告され、AIモデルの制御をめぐる課題が浮き彫りになった。",
-      "date": "Fri, 14 Aug 2026",
+      "title": "高級食品スーパーはなぜ分断を加速させるのか｜FOOD Lab",
+      "url": "https://wired.jp/article/sz-food-lab-club-and-bazaar/",
+      "description": "米国都市部で高級食品スーパーが勃興し、“どのスーパーに行くか” が人々のアイデンティティと深く結びついている。食も政治も分断していく社会で、ネイバーフッドの役割を考える。",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "イーロン・マスクがついにX Moneyをローンチ、立ちはだかる不安材料とは",
+      "url": "https://wired.jp/article/sz-elon-musk-finally-launches-x-money-what-could-possibly-go-wrong/",
+      "description": "米国の主要な金融拠点の一部が対象外であることは、X Moneyの今後の展開への不安材料のひとつだが、それ以外にも解決すべき問題がある。",
+      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -20,10 +36,26 @@
       }
     },
     {
-      "title": "オープンウェイトAIへの追い風、Mistralに訪れた好機",
-      "url": "https://wired.jp/article/mistral-is-in-the-right-place-at-the-right-time/",
-      "description": "米国のテック大手でセキュリティ問題や利用制限が相次ぐなか、オープンウェイトAIモデルが改めて注目を集めている。フランスのAI企業Mistralは、その波に乗り、米国勢が支配してきたAI市場で存在感を高めている",
-      "date": "Sun, 16 Aug 2026",
+      "title": "365日のAI依存生活でわかったこと",
+      "url": "https://wired.jp/article/sz-should-you-automate-your-life/",
+      "description": "丸一年間、生活のあらゆる場面で極力AIを使ってみる実験を経て、新著『365日AI』が説くのはひとつ──いまこそ、AIを自身の判断で取り入れるべきときだ",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "AI記者が人間を出し抜いた──スクープ競争の新時代",
+      "url": "https://wired.jp/article/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
+      "description": "AIニュースメディアが、OpenAIのハッキング事件の続報を『WIRED』より3時間以上先に報じていた。AI記者が人間と報道の速さを競う一方、正確性や報道倫理を巡る課題も浮かび上がる。",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +68,10 @@
       }
     },
     {
-      "title": "エルニーニョ現象とは？ 世界の気温から水資源、経済にまで及ぶ影響を解説",
-      "url": "https://wired.jp/article/what-is-el-nino/",
-      "description": "エルニーニョ現象が観測史上最強クラスになる可能性が高まっている。世界各地の異常気象や水資源への影響、そして膨大な経済損失をもたらす可能性もある気候現象について、詳しく解説する。",
-      "date": "Sun, 16 Aug 2026",
+      "title": "UAEがAI戦略の舞台として日本に目を向ける理由",
+      "url": "https://wired.jp/article/why-abu-dhabi-is-taking-its-ai-ambitions-to-japan/",
+      "description": "日本最大規模となる予定のAIデータセンターが秋田県で計画され、UAE・アブダビ首長国のファンドが最大1兆円の投資を検討している。UAEによる「中国を除く」アジアのAIネットワーク構築に向けた次の一手だ。",
+      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,26 +84,10 @@
       }
     },
     {
-      "title": "ラッダイト・フェスはZ世代のビッグテックへの抵抗運動だ",
-      "url": "https://wired.jp/article/sz-inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
-      "description": "ニューヨークで開催された「サマー・オブ・ラッド」フェスティバルは、息苦しいほどにビッグテックが遍在する現代社会をオフラインで生きる術を人々に教えている。",
-      "date": "Sat, 15 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Google DeepMindのAI、ハリケーンを従来より1日先まで高精度に予測",
-      "url": "https://wired.jp/article/deepmind-ai-model-can-predict-hurricanes-earlier/",
-      "description": "オープンソース化されるAI気象予測モデル「WeatherNext」は、台風やハリケーンなどの熱帯低気圧の進路と強度を高精度に予測できるという。しかし、その仕組みについて研究者たちも完全にはわかっていない。",
-      "date": "Sat, 15 Aug 2026",
+      "title": "アップルは2030年の「カーボンニュートラル」を、こうして達成する",
+      "url": "https://wired.jp/article/apple-2030-carbon-neutral-supply-chain-interview/",
+      "description": "環境負荷を抑えるべく、さまざまな取り組みを明らかにしてきたアップル。サプライチェーン全体の「カーボンニュートラル」を、いかにして2030年に達成するのか。その“本気度”をアップルの幹部が語った。",
+      "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,90 +100,10 @@
       }
     },
     {
-      "title": "「悪玉コレステロール」より見るべき重要な数値がある",
-      "url": "https://wired.jp/article/sz-moving-beyond-bad-cholesterol-test/",
-      "description": "コレステロール関連の疾患リスクを測定する指標として、LDLより優れているのがApoBだ。にもかかわらず、医療現場への普及が進んでいないのはなぜか？",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "AIエージェントによる「無許可の行動」が相次いでいる",
-      "url": "https://wired.jp/article/ok-well-there-are-even-more-ai-agent-hacking-incidents/",
-      "description": "OpenAIやAnthropicのAIエージェントが、テスト環境の枠を超えて無許可の行動に出るケースが続いている。外部のシステムへの侵入を試みたほか、後続のAIエージェントへの「指示」を残す行動もみられた。",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "スマートフォンで長文をもっと快適に読むための設定と機能",
-      "url": "https://wired.jp/article/all-the-ways-you-can-make-reading-easier-on-your-phone/",
-      "description": "スマートフォンで長文を読んでいると、目の疲れが気になることもある。画面設定やブラウザのリーダーモード、専用アプリを活用して、より快適に読むための方法を紹介する。",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "「中国製部品ほぼゼロ」のロボットをつくった、インドのスタートアップ",
-      "url": "https://wired.jp/article/how-one-startup-built-a-mostly-china-free-robot/",
-      "description": "インドのスタートアップAti Roboticsは、中国製部品への依存を極力抑えたロボットを開発している。米国が中国製ロボットへの規制を強化するなか、その戦略が思わぬ競争優位につながろうとしている。",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "メタの内部暴露本を執拗に追い詰めることでザッカーバーグが手にするもの",
-      "url": "https://wired.jp/article/sz-metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
-      "description": "『ケアレス・ピープル』の著者は、確かに会社を去るときに交わしたメタとの沈黙契約に違反した。だが両者の圧倒的な力の差が、「メタは血も涙もない横暴な企業だ」という印象を強めている。",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "4頭のベルーガを国境を越えて移送。異例の救出劇の舞台裏",
-      "url": "https://wired.jp/article/inside-the-wild-rescue-mission-that-took-4-beluga-whales-to-chicago/",
-      "description": "カナダの水族館兼遊園地の経営破綻により、安楽死の危機に直面したシロイルカ（ベルーガ）。そのうち4頭を米シカゴの水族館へ無事に移送するまでの経緯を、『WIRED』が計画に携わった専門家たちに訊いた。",
-      "date": "Sat, 15 Aug 2026",
+      "title": "Claudeの「見えない透かし」、早くも回避策が登場",
+      "url": "https://wired.jp/article/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+      "description": "Anthropicは8月上旬、AIが生成したコンテンツにウォーターマークを埋め込むと発表した。ところが、そのわずか数時間後には、この「透かし」を回避するための手法がオンラインで話題になり始めた。",
+      "date": "Fri, 21 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +116,10 @@
       }
     },
     {
-      "title": "マクラーレンCEOはF1名門ブランドをこうして復活させた",
-      "url": "https://wired.jp/article/the-big-interview-podcast-mclaren-ceo-zak-brown/",
-      "description": "レーサーからマクラーレンの経営へと転身したCEOザック・ブラウンが、F1名門ブランドの再建、熱狂的なファン、いまもまだハンドルを握りたくなる衝動について『WIRED』に語った。",
-      "date": "Sat, 15 Aug 2026",
+      "title": "「午前1時の面接」が増えている",
+      "url": "https://wired.jp/article/the-rise-of-the-1-am-job-interview/",
+      "description": "採用選考の最初のステップとして、AIによる面接が広がりつつある。候補者は深夜でも、自分の都合に合わせて面接を受けられる一方、そこにはどこか奇妙で非人間的な体験も待っている。",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +132,10 @@
       }
     },
     {
-      "title": "マイクロソフトの量子開発責任者、科学者らの疑念を意に介さず",
-      "url": "https://wired.jp/article/microsoft-quantum-chief-majorana-results/",
-      "description": "マイクロソフトの量子担当コーポレートバイスプレジデントであるズルフィ・アラムは、疑問視される「マヨラナ粒子」の研究成果を科学者らに“証明”する必要はないと語る。実機が結果を示せば十分だという姿勢だ。",
-      "date": "Fri, 14 Aug 2026",
+      "title": "「ChatTJB」の正体は、質問に答える“中の人”",
+      "url": "https://wired.jp/article/this-chatbot-is-just-a-random-guy-lol/",
+      "description": "「ChatTJB」は、チャットボットの代わりに、ひとりの人間がユーザーから寄せられたプロンプトに答えてくれる。アーティストで元グーグル社員のタッカー・ブライアントは、AIに何でも聞く「奇妙な時代」に疑問を投げかける。",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +148,10 @@
       }
     },
     {
-      "title": "グーグル、「Pixel 11」シリーズと新型ウォッチを発表。初の紛失防止タグも",
-      "url": "https://wired.jp/article/pixel-11-pixel-watch-5-pixel-tag-everything-google-announced-at-its-made-by-google-2026-event/",
-      "description": "Androidスマートフォン「Pixel 11」シリーズに4つのモデルが登場した。新型「Pixel Watch 5」と、グーグル初の紛失防止タグ「Pixel Tag」も披露された。各製品の特徴を紹介する。",
-      "date": "Fri, 14 Aug 2026",
+      "title": "Geminiが自律歩行ヒューマノイドになる日",
+      "url": "https://wired.jp/article/sz-google-gemini-can-control-humanoid-robots/",
+      "description": "「フィジカルAGI」に向けて大きな飛躍を遂げたGoogle DeepMindの最新版AIモデル。だがAIを現実世界に投入することには、リスクも伴う。",
+      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +164,74 @@
       }
     },
     {
-      "title": "Web3は失敗していない。ただし、成功もしていない｜Crypto Matters",
-      "url": "https://wired.jp/article/sz-crypto-matters-web3-is-not-dead/",
-      "description": "高市政権の「骨太の方針」にもはや「Web3」の文字がないのは、それが制度化されたからだ。だが、積み残されたままの大きな宿題もWebには残っている。",
-      "date": "Thu, 13 Aug 2026",
+      "title": "初期宇宙に散らばる“赤い点”の正体は、新種の天体「ブラックホール星」か",
+      "url": "https://wired.jp/article/mom-bh1-black-hole-star-jwst-early-universe/",
+      "description": "ビッグバンから数億年後の初期宇宙に、恒星のように見えながら既知のどの恒星より1,000億倍も明るい天体が見つかった。無数の「リトル・レッド・ドット」の正体を解く鍵になるかもしれないという。",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "AIが次に変えるのは、ファストフードの「声」",
+      "url": "https://wired.jp/article/ai-conquered-coding-fast-food-is-next/",
+      "description": "米国では、ドライブスルーでの注文受付を自動化する音声認識AIアシスタントの導入が進んでいる。AIが注文を受けているとは気づかないまま、商品を勧められる日も近いかもしれない。",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Google ドキュメントやGmailに増えたGeminiの表示を消す方法",
+      "url": "https://wired.jp/article/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+      "description": "Google ドキュメントやGmailに、グーグルのAI機能の利用を促す表示が追加された。文書やメールの作成にGeminiを使わないなら、こうした表示を消すことができる。",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "グーグル「Pixel 11」のカメラに加わった4つの新機能",
+      "url": "https://wired.jp/article/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
+      "description": "AIに撮影を任せる「マジックキャプチャー」や「インスタント夜景モード」、内蔵テレプロンプターなど、「Pixel 11」シリーズで注目したいカメラ機能を紹介する。",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "AIによるハッキングより厄介、“自己複製するAIワーム”の脅威",
+      "url": "https://wired.jp/article/ai-agents-could-act-like-computer-viruses-and-worms/",
+      "description": "中国の研究チームが、AIモデルがコンピューターウイルスのように振る舞いうることを実験で示した。AIの自律性が高まるなか、自らを複製し、制御不能なかたちで増殖するリスクが現実味を帯びている。",
+      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

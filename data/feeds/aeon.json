@@ -1,22 +1,38 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-08-16T17:34:02.692198+00:00",
+  "fetchedAt": "2026-08-21T04:33:08.544801+00:00",
   "items": [
     {
-      "title": "Ani Liu: eye heart womb",
-      "url": "https://aeon.co/videos/transforming-scientific-enquiry-and-human-bodies-into-visceral-art",
-      "description": "A scientist, artist and mother, Ani Liu contemplates how power and control shape the body in her taboo-breaking artworks - by Aeon Video Watch on Aeon",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Dolphins and other lovers",
+      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+      "description": "The Andoque of the Amazon know what we have forgotten: the forest’s most beautiful creatures are also its most dangerous - by Eliran Arazi Read on Aeon",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
+    {
+      "title": "In praise of zealotry",
+      "url": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
+      "description": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers’ advice to remain polite in debate. Why? - by Geertje Bol Read on Aeon",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -30,38 +46,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "The last ice age",
-      "url": "https://aeon.co/videos/as-glaciers-melt-a-writer-considers-what-stories-can-do-that-data-cannot",
-      "description": "Retracing his grandparents’ journey to Iceland’s Vatnajökull glacier, a writer draws on storytelling to grasp climate change - by Aeon Video Watch on Aeon",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Thucydides the perspicacious",
-      "url": "https://aeon.co/essays/thucydides-account-of-war-is-as-timely-as-it-is-misunderstood",
-      "description": "Far from thinking that ‘might makes right’, the great historian’s analysis of war identifies a vice common to all states - by David Polansky & Daniel Schillinger Read on Aeon",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -84,6 +68,38 @@
       }
     },
     {
+      "title": "A vocabulary for the future: touch",
+      "url": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
+      "description": "A mesmerising blend of words and images make touch a doorway into the deepest questions in physics and philosophy - by Aeon Video Watch on Aeon",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Worm munch matters",
+      "url": "https://aeon.co/essays/worm-munch-matters-the-new-acoustic-ecology-of-the-soil",
+      "description": "The lives that slither and scurry beneath the soil’s surface are vital for ecological health: now we can listen in to them - by Ella Browning Read on Aeon",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Sasquatch science",
       "url": "https://aeon.co/essays/the-surprisingly-scientific-methods-of-bigfooters",
       "description": "The hunt for Bigfoot sounds like the opposite of good science, but those pursuing the creature are often serious empiricists - by Andrew Bartlett & Jamie Lewis Read on Aeon",
@@ -100,19 +116,19 @@
       }
     },
     {
-      "title": "Towards an AI for Africa",
-      "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics",
-      "description": "Western-developed AI rides roughshod over Ubuntu values of connection and community that animate African ethical life - by Fainos Mangena Read on Aeon",
-      "date": "Tue, 04 Aug 2026",
+      "title": "The conscience files",
+      "url": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park",
+      "description": "The sorrows and redemptions of visitors who mailed their ‘souvenirs’ back to Arizona’s Petrified Forest National Park - by Aeon Video Watch on Aeon",
+      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -120,22 +136,6 @@
       "url": "https://aeon.co/videos/a-tale-of-brotherhood-bouncy-castles-and-the-american-dream",
       "description": "Two brothers struggle to keep a bouncy house business afloat in this nuanced portrait of family and the pursuit of success - by Aeon Video Watch on Aeon",
       "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Resist the technocrats",
-      "url": "https://aeon.co/essays/are-we-witnessing-the-end-of-the-technocratic-international",
-      "description": "Through international organisations, they wield power under the pretence of simply following the experts. Don’t believe them - by Jan Eijking Read on Aeon",
-      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -161,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "The World Famous Gopher Hole Museum",
+      "url": "https://aeon.co/videos/torrington-has-some-240-residents-and-one-unusual-tourist-attraction",
+      "description": "In this bittersweet portrait of a farm town in Canada, taxidermied gophers preserve a place that no longer exists - by Aeon Video Watch on Aeon",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/videos/the-strange-circuitous-history-of-europes-oldest-buddhist-temple",
       "description": "The oldest Buddhist temple in Europe is an architectural anomaly, built in memory of the Kalmyk regiment that fought Napoleon - by Aeon Video Watch on Aeon",
       "date": "Mon, 10 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Culture clash",
-      "url": "https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash",
-      "description": "C P Snow’s ‘Two Cultures’ lecture provoked a savage response from fellow critic F R Leavis. What was at the heart of it all? - by Sam Dresser Read on Aeon",
-      "date": "Thu, 06 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,24 +1,8 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-08-16T17:34:23.317302+00:00",
+  "fetchedAt": "2026-08-21T04:33:29.637843+00:00",
   "items": [
-    {
-      "title": "コヨーテ歩き撮り#254",
-      "url": "https://keisobiblio.com/2026/07/21/coyote254/",
-      "description": "ちょうど提灯祭りの時期だった。街路におびただしい提灯が飾られ、夢のような夜道。しずけさそのものが音楽。台南にて。\n\nIt was the time of the Lantern Festival. Countless lanterns floating above  the streets, creating a dreamlike night... The silence plays its own music. In Tainan.",
-      "date": "Tue, 21 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 17,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 12,
-        "novelty": 0,
-        "total": 17
-      }
-    },
     {
       "title": "コヨーテ歩き撮り#255",
       "url": "https://keisobiblio.com/2026/08/10/coyote255/",
@@ -52,22 +36,6 @@
       }
     },
     {
-      "title": "《ジェンダー対話シリーズ》第10回「ケアの倫理」は「ケアする私」を救うのか？（前編）――『ケアする私の「しんどい」は、どこからくるのか』トークイベント",
-      "url": "https://keisobiblio.com/2026/07/17/gendertalk10/",
-      "description": "昨年6月刊行以来ご好評いただいている『ケアする私の「しんどい」は、どこからくるのか』。刊行から１年を記念し、2026年１月28日夜に紀伊國屋アカデミック・ラウンジで行われた同書著者2人によるトークイベントを採録します。ケアをめぐる語りがあふれる一方で、ケアの現実はなぜこんなにも理解されないのか。どうしたらケアすることはもう少し楽になるのか。ケアをめぐる議論で盛んな「ケアの倫理」を参照しつつ、ケアを倫理と結び付けて論じることの危険性といまケアについて問われるべき論点について突っ込んだ議論を展開します。机上のケア論議でなく、現実にケアに翻弄され苦しい状況にある人々に研究者は何ができるのか。ケア研究の先頭を走るお二人による刺激的な対談の様子を前後編でお送りします。ぜひご堪能ください。［編集部］",
-      "date": "Fri, 17 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 15
-      }
-    },
-    {
       "title": "あとがきたちよみ『調査票のなかの「戦争」――京浜工業地帯の労働者一万四千人の記録から』",
       "url": "https://keisobiblio.com/2026/08/05/atogakitachiyomi_chousahyounonakanosensou/",
       "description": "「序章　過去の戦争を語ること」を公開しました。",
@@ -81,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "コヨーテ歩き撮り#253",
-      "url": "https://keisobiblio.com/2026/07/06/coyote253/",
-      "description": "どういう物語なのだろう。あざやかな色の浮き彫りが心をくすぐる。謎めいて、楽しい。むかしの中国を知りたくなる。台南の街角で。右の女性は民間信仰の対象、陳靖姑。\n\nWhat kind of story is it telling? The vividly colored reliefs tickle my imagination. At the same time mysterious and delightful, it makes me want to learn more about ancient China. Found on a street corner in Tainan. The lady on the right is the Chinese deity Chen Jinggu.",
-      "date": "Mon, 06 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 8,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 8
       }
     },
     {
@@ -129,6 +81,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "あとがきたちよみ『狂熱のパレット――激闘するゴッホとゴーギャン』",
+      "url": "https://keisobiblio.com/2026/08/19/atogakitachiyomi_kyonetsunopalette/",
+      "description": "「著者後記」を公開しました。",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "あとがきたちよみ『ドイツ世襲財産問題の考察――プロイセンを中心に』",
+      "url": "https://keisobiblio.com/2026/08/18/atogakitachiyomi_doitsuseshuzaisan/",
+      "description": "「訳者まえがき」「訳者解説」を公開しました。",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "あとがきたちよみ『最新解説　知識資源のメタデータ』",
+      "url": "https://keisobiblio.com/2026/08/17/atogakitachiyomi_saishinchishikishigennometadata/",
+      "description": "「はしがき」を公開しました。",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

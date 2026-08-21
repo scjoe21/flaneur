@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-fr-philo",
   "sourceName": "The Conversation France — Philosophie",
-  "fetchedAt": "2026-08-16T17:34:07.801164+00:00",
+  "fetchedAt": "2026-08-21T04:33:14.576394+00:00",
   "items": [
     {
       "title": "IA : pourquoi former une « tête bien faite » n’a jamais été aussi crucial",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "À la base du bonheur finlandais, le « sisu », une philosophie du froid",
-      "url": "https://theconversation.com/a-la-base-du-bonheur-finlandais-le-sisu-une-philosophie-du-froid-277312",
-      "description": "",
-      "date": "2026-03-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Relire Edgar Morin pour comprendre la complexe expérience canadienne",
+      "url": "https://theconversation.com/relire-edgar-morin-pour-comprendre-la-complexe-experience-canadienne-284252",
+      "description": "",
+      "date": "2026-08-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

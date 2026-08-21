@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-16T17:31:35.353612+00:00",
+  "fetchedAt": "2026-08-21T04:31:23.019566+00:00",
   "items": [
+    {
+      "title": "“Comment trouver les mots justes ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
+      "url": "https://www.philomag.com/articles/comment-trouver-les-mots-justes-le-nouveau-numero-de-philosophie-magazine-sort-ce-jeudi",
+      "description": "",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "“Eurêka !” : comment découvre-t-on des vérités mathématiques ?",
       "url": "https://www.philomag.com/articles/eureka-comment-decouvre-t-des-verites-mathematiques",
@@ -20,10 +36,10 @@
       }
     },
     {
-      "title": "À la reconquête de notre temps libre : comment retrouver un véritable temps à soi",
-      "url": "https://www.philomag.com/articles/la-reconquete-de-notre-temps-libre-comment-retrouver-un-veritable-temps-soi",
+      "title": "Pourquoi n’avons-nous aucun souvenir avant l’âge de 2 ou 3 ans ?",
+      "url": "https://www.philomag.com/articles/pourquoi-navons-nous-aucun-souvenir-avant-lage-de-2-ou-3-ans",
       "description": "",
-      "date": "Sun, 09 Aug 2026",
+      "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -33,6 +49,70 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "“Tableaux des petites et grandes choses de l’existence”, de José Ortega y Gasset : métaphysique d’un dandy",
+      "url": "https://www.philomag.com/articles/tableaux-des-petites-et-grandes-choses-de-lexistence-de-jose-ortega-y-gasset",
+      "description": "",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "“La conscience n’est pas dans le cerveau” : quand Antonio Damasio bat en brèche nos idées reçues sur la conscience",
+      "url": "https://www.philomag.com/articles/la-conscience-nest-pas-dans-le-cerveau-quand-antonio-damasio-bat-en-breche-nos-idees",
+      "description": "",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Bientôt, tous illettrés ? Le constat nuancé de Lionel Naccache",
+      "url": "https://www.philomag.com/articles/bientot-tous-illettres-le-constat-nuance-de-lionel-naccache",
+      "description": "",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "“C'est pas bien d'être paresseux ?” Les enfants répondent… comme des grands !",
+      "url": "https://www.philomag.com/articles/cest-pas-bien-detre-paresseux-les-enfants-repondent-comme-des-grands",
+      "description": "",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -49,6 +129,70 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "L’art et les manières de trouver le mot juste : l'édito d’Alexandre Lacroix",
+      "url": "https://www.philomag.com/articles/lart-et-les-manieres-de-trouver-le-mot-juste-ledito-dalexandre-lacroix",
+      "description": "",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Face aux conflits, aux polémiques et aux querelles… 3 voies pour choisir ses mots",
+      "url": "https://www.philomag.com/articles/face-aux-conflits-aux-polemiques-et-aux-querelles-3-voies-pour-choisir-ses-mots",
+      "description": "",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Qui était Edgar Morin ? Portrait philosophique en 5 grandes idées",
+      "url": "https://www.philomag.com/articles/qui-etait-edgar-morin-portrait-philosophique-en-5-grandes-idees",
+      "description": "",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Balance tes porcs ! Quand la romancière Madeline Miller fait de Circé une icône féministe",
+      "url": "https://www.philomag.com/articles/balance-tes-porcs-quand-la-romanciere-madeline-miller-fait-de-circe-une-icone-feministe",
+      "description": "",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -88,150 +232,6 @@
       "url": "https://www.philomag.com/articles/obrother-des-freres-coen-un-pastiche-homerique-sinon-rien",
       "description": "",
       "date": "Sat, 15 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Barbara Cassin sur les traces d’Ulysse au Louvre",
-      "url": "https://www.philomag.com/articles/barbara-cassin-sur-les-traces-dulysse-au-louvre",
-      "description": "",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La domestication du feu, une affaire humaine… et animale ?",
-      "url": "https://www.philomag.com/articles/la-domestication-du-feu-une-affaire-humaine-et-animale",
-      "description": "",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“L’Esprit du surf” : chevauchez la vague avec Guillaume Durand",
-      "url": "https://www.philomag.com/articles/lesprit-du-surf-chevauchez-la-vague-avec-guillaume-durand",
-      "description": "",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Retrouver notre attention perdue : oui, mais sans la discipliner !",
-      "url": "https://www.philomag.com/articles/retrouver-notre-attention-perdue-oui-mais-sans-la-discipliner",
-      "description": "",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“L’Odyssée, c’est de la vie mise en récit” : entretien avec Christophe Ono-dit-Biot",
-      "url": "https://www.philomag.com/articles/lodyssee-cest-de-la-vie-mise-en-recit-entretien-avec-christophe-ono-dit-biot",
-      "description": "",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’imagination fait-elle tourner le monde ?",
-      "url": "https://www.philomag.com/articles/limagination-fait-elle-tourner-le-monde",
-      "description": "",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Poutine vers la fuite en avant ? La chronique de Michel Eltchaninoff",
-      "url": "https://www.philomag.com/articles/poutine-vers-la-fuite-en-avant-la-chronique-de-michel-eltchaninoff",
-      "description": "",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sartre, Beauvoir et l’Occupation : les deux philosophes étaient-ils des “salauds” ?",
-      "url": "https://www.philomag.com/articles/sartre-beauvoir-et-loccupation-les-deux-philosophes-etaient-ils-des-salauds",
-      "description": "",
-      "date": "Mon, 10 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Troie continue d’être le lieu que nous habitons” : entretien avec Alberto Manguel",
-      "url": "https://www.philomag.com/articles/troie-continue-detre-le-lieu-que-nous-habitons-entretien-avec-alberto-manguel",
-      "description": "",
-      "date": "Mon, 10 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

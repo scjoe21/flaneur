@@ -1,54 +1,86 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-16T17:34:06.832818+00:00",
+  "fetchedAt": "2026-08-21T04:33:13.283412+00:00",
   "items": [
     {
-      "title": "How Love Comes to You",
-      "url": "https://www.themarginalian.org/2026/08/14/how-love-comes-to-you/",
-      "description": "We spend our days making plans, making promises, making predictions about the possible, and yet the most bewildering thing about life is that its imagination is always greater than that of the living — life keeps surprising us, keeps reminding us that all too often the wildest bet is the winning bet. And all the while, we, living mysteries, keep surprising ourselves. To give up on anything — a dream, a loved one, love itself — is to deny this most irrepressible pulse-beat of being alive. These t",
-      "date": "Fri, 14 Aug 2026",
+      "title": "The Resilience of Uncertainty: How to Hold the Universe in You",
+      "url": "https://www.themarginalian.org/2026/08/20/weeds-and-stars-lisa-rosenberg/",
+      "description": "The great mercy of life is that we can change, we can reroute, we can surprise ourselves. The great pitfall of prediction is that, mercifully, we are unpredictable. — “All things are so very uncertain, and that’s exactly what makes me feel reassured,” Tove Jansson wrote in one of our civilization’s great works of philosophy disguised as a children’s book. This is the paradox we live with: We crave certainty, only to discover over and over that it is a mirage, that the love of life is rooted in t",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 44
+      }
+    },
+    {
+      "title": "How to Be a Sea: Albert Camus on Learning to Die and Learning to Live",
+      "url": "https://www.themarginalian.org/2026/08/18/camus-sea/",
+      "description": "The summer I turned sixteen, I took a bus across Bulgaria — I suppose you could call it running away, though my parents were aware and unconcerned — to go sit on the edge of the Black Sea and watch the blue horizon, to touch its infinite loneliness and infinite happiness. I have watched many horizons in the lifetime since, and always they shimmer with the same strange duality, the same absolute awareness of mortality and of aliveness — the crest and trough of the same wave lapping at the essence",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "Nature’s Oldest Mandolin: The Poetic Science of How Cicadas Sing",
+      "url": "https://www.themarginalian.org/2026/08/17/cicadas/",
+      "description": "“The use of music,” Richard Powers wrote, “is to remind us how short a time we have a body” — a truth nowhere more bittersweet than in the creature whose body is the oldest unchanged musical instrument on Earth: a tiny mandolin silent for most of its existence, then sonorous with a fleeting symphony of life before the final silence. Each summer, cicadas arrive by the billions with their strange red eyes, their mysterious prime-shaped periodic cycles, and their haunting nocturnal emergence, sudde",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 38,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 38
+      }
+    },
+    {
+      "title": "How Do You Know That You Love Somebody? Philosopher Martha Nussbaum’s Incompleteness Theorem of the Heart’s Truth, from Plato to Proust",
+      "url": "https://www.themarginalian.org/2026/08/20/martha-nussbaum-loves-knowledge/",
+      "description": "\"The alternations between love and its denial, suffering and denial of suffering … constitute the most essential and ubiquitous structural feature of the human heart.\"",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
         "daily": 30,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
         "total": 35
       }
     },
     {
-      "title": "The Wisdom of Water: Alan Watts on the Ocean and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/08/10/alan-watts-love-of-waters/",
-      "description": "Four billion years ago, in the hydrothermal vents at the bottom of the world where serpentine is forged, chemistry trembled with the promise of consciousness and matter began its long metabolic pilgrimage toward mind. Perhaps our saline cells remember it: how we, pilgrims of the possible, crawled out of the tide pools to climb the trees, then came down from the trees to live under a canopy of one hundred trillion synapses animated by the oceanic yearning to make meaning of our mortality. Perhaps",
-      "date": "Mon, 10 Aug 2026",
+      "title": "How to Hold Death and Carry Life: A Zen Master Explains Existence to a Child and Outlines the Three Essential Principles of Zen Mind",
+      "url": "https://www.themarginalian.org/2026/08/19/dropping-ashes-on-the-buddha-death/",
+      "description": "\"Zen practice ... requires great faith, great courage, and great questioning.\"",
+      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 25,
         "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 35
-      }
-    },
-    {
-      "title": "The Kiln and the Quantum of Relationships",
-      "url": "https://www.themarginalian.org/2026/08/13/kiln-quantum/",
-      "description": "Anything you give your time to and polish with attention will become a lens on your search for meaning, will lavish you with metaphors that become backdoors into the locked room of your most urgent reckonings. In my nascent adventures in pottery, I have observed with great fascination how two different glazes, when combined, produce an entirely unpredictable result — something not greater than the sum of its parts but of a wholly different order. In the extreme conditions of the kiln, which can ",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
         "novelty": 0,
-        "total": 34
+        "total": 35
       }
     },
     {
@@ -68,58 +100,90 @@
       }
     },
     {
-      "title": "The Measure of a Life Well Lived: Henry Miller on How to Grow Old and the Secret of Remaining Young at Heart",
-      "url": "https://www.themarginalian.org/2026/08/13/henry-miller-on-turning-eighty/",
-      "description": "\"If you can fall in love again and again ... if you can forgive as well as forget, if you can keep from growing sour, surly, bitter and cynical, man you've got it half licked.\"",
-      "date": "Thu, 13 Aug 2026",
+      "title": "How to Bear Your Loneliness",
+      "url": "https://www.themarginalian.org/2026/08/20/pema-chodron-loneliness/",
+      "description": "\"We are cheating ourselves when we run away from the ambiguity of loneliness.\"",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "The Bird in the Heart: Terry Tempest Williams on the Paradox of Transformation and How to Live with Uncertainty",
+      "url": "https://www.themarginalian.org/2026/08/18/when-women-were-birds/",
+      "description": "\"We can change, evolve, and transform our own conditioning. We can choose to move like water rather than be molded like clay.\"",
+      "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
+    {
+      "title": "Wholeness and the Implicate Order: Physicist David Bohm on Bridging Consciousness and Reality",
+      "url": "https://www.themarginalian.org/2026/08/17/wholeness-and-the-implicate-order-david-bohm/",
+      "description": "How to \"include everything coherently and harmoniously in an overall whole that is undivided, unbroken, and without a border.\"",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
       }
     },
     {
-      "title": "J.R.R. Tolkien on Fairy Tales, Language, the Psychology of Fantasy, and Why There’s No Such Thing as Writing “For Children”",
-      "url": "https://www.themarginalian.org/2026/08/11/j-r-r-tolkien-on-fairy-stories/",
-      "description": "\"Creative fantasy, because it is mainly trying to do something else (make something new), may open your hoard and let all the locked things fly away like cage-birds.\"",
-      "date": "Tue, 11 Aug 2026",
+      "title": "Moonlight and the Magic of the Unnecessary",
+      "url": "https://www.themarginalian.org/2026/08/18/moonlight/",
+      "description": "Every night, for every human being that ever was and ever will be, the Moon rises to remind us how improbably lucky we are, each of its craters a monument of the odds we prevailed against to exist, a reliquary of the violent collisions that forged our rocky planet lush with life and tore from its body our only satellite with its miraculous proportions that render randomness too small a word — exactly 400 times smaller than the Sun and exactly 400 times closer to Earth, so that each time it passe",
+      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 19
       }
     },
     {
-      "title": "The Ocean and the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/08/15/rachel-carson-the-edge-of-the-sea/",
-      "description": "\"Contemplating the teeming life of the shore, we have an uneasy sense of the communication of some universal truth that lies just beyond our grasp... the ultimate mystery of Life itself.\"",
-      "date": "Sat, 15 Aug 2026",
+      "title": "Wilderness, Solitude, and Creativity: Artist and Philosopher Rockwell Kent’s Century-Old Meditations on Art and Life During Seven Months on a Small Alaskan Island",
+      "url": "https://www.themarginalian.org/2026/08/19/rockwell-kent-wilderness/",
+      "description": "\"These are the times in life — when nothing happens — but in quietness the soul expands.\"",
+      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 18,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 8,
         "novelty": 0,
-        "total": 15
+        "total": 18
       }
     },
     {
-      "title": "How Humanity Saved the Ginkgo",
-      "url": "https://www.themarginalian.org/2026/08/13/ginkgo/",
-      "description": "Pressed between the pages of Alice’s Adventures in Wonderland — a favorite book of my childhood, which my grandmother used to read to me and which still dwells in her immense library — is a single yellow leaf, its curved fan almost glowing against a faded illustration of the White Rabbit gazing anxiously at his pocket watch. I still remember the afternoon I picked it up from under the four majestic ginkgo trees standing sentinel at the northern entrance of Varna’s Sea Garden — the iconic park pe",
-      "date": "Thu, 13 Aug 2026",
+      "title": "How to Bear Your Desolations",
+      "url": "https://www.themarginalian.org/2026/08/20/any-common-desolation-ellen-bass/",
+      "description": "\"You may have to break your heart, but it isn’t nothing to know even one moment alive.\"",
+      "date": "Fri, 21 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -132,42 +196,10 @@
       }
     },
     {
-      "title": "Constellating Wonder: Celebrating 20 Years of The Marginalian (October 23, 2026)",
-      "url": "https://www.themarginalian.org/2026/08/14/marginalian-20/",
-      "description": "At the dawn of my twenties, lonely, destitute, and disoriented by the demands of making a new life in an alien world, I started keeping notes on my search for meaning while working four jobs to pay my way through college. On October 23, 2006, I began sharing my discoveries — passages from books, links to neuroscience studies, reproductions of 16th-century Japanese woodcuts — in an office email to seven colleagues. They in turn began sharing it with friends, who began sharing it with friends. The",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "Your Brain on Grief, Your Heart on Healing",
-      "url": "https://www.themarginalian.org/2026/08/10/the-grieving-brain-mary-frances-o-connor/",
-      "description": "\"Grief is a heart-wrenchingly painful problem for the brain to solve… to live in the world with the absence of someone… ingrained in your understanding of the world… For the brain, [they are] simultaneously gone and also everlasting, and you are walking through two worlds at the same time.\"",
-      "date": "Mon, 10 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "Kurt Vonnegut’s 8 Tenets of Storytelling",
-      "url": "https://www.themarginalian.org/2026/08/12/kurt-vonnegut-on-writing-stories/",
-      "description": "\"Write to please just one person. If you open a window and make love to the world, so to speak, your story will get pneumonia.\"",
-      "date": "Wed, 12 Aug 2026",
+      "title": "Where Love Goes When It Goes",
+      "url": "https://www.themarginalian.org/2026/08/20/traversal-love/",
+      "description": "This is an excerpt from Traversal. Where does love go when it goes? It is a common question, contrived in its commonness yet savagely sincere, bellowing in the bosom of every brokenhearted lover, reverberating through the body of every civilization’s love songs and sonnets, radiating from cave drawings and dive bar graffiti. It is also a peculiar question, lexically and syntactically, for it presupposes two things about the life of the heart: a movement and a destination, as if love rose to its ",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -180,67 +212,35 @@
       }
     },
     {
-      "title": "Nick Cave on the Two Pillars of a Meaningful Life",
-      "url": "https://www.themarginalian.org/2026/08/10/nick-cave-humility-curiosity/",
-      "description": "\"Cultivating a questioning mind, of which conversation is the chief instrument, enriches our relationship with the world.\"",
-      "date": "Mon, 10 Aug 2026",
+      "title": "The Art of Looking: Eleven Ways of Viewing the Multiple Realities of Our Everyday Wonderland",
+      "url": "https://www.themarginalian.org/2026/08/16/on-looking-eleven-walks-with-expert-eyes/",
+      "description": "\"Right now, you are missing the vast majority of what is happening around you. You are missing the events unfolding in your body, in the distance, and right in front of you.\"",
+      "date": "Sun, 16 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 4
       }
     },
     {
-      "title": "The Gentle Giant: Oliver Sacks and the Art of Choosing Empathy Over Vengeance",
-      "url": "https://www.themarginalian.org/2026/08/15/oliver-sacks-on-the-move-empathy/",
-      "description": "An existential lesson gleaned from a brush with death and foolishness.",
-      "date": "Sat, 15 Aug 2026",
+      "title": "Georgia O’Keeffe on the Art of Seeing",
+      "url": "https://www.themarginalian.org/2026/08/18/georgia-okeeffe-flower/",
+      "description": "\"To see takes time, like to have a friend takes time.\"",
+      "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Arundhati Roy on the Deepest Measure of Success",
-      "url": "https://www.themarginalian.org/2026/08/14/arundhati-roy-success/",
-      "description": "\"To love. To be loved. To never forget your own insignificance... To seek joy in the saddest places. To pursue beauty to its lair. To never simplify what is complicated or complicate what is simple.\"",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Story Behind Dylan Thomas’s “Do Not Go Gentle Into That Good Night” and the Poet’s Own Stirring Reading of His Masterpiece",
-      "url": "https://www.themarginalian.org/2026/08/11/dylan-thomas-do-not-go-gentle-into-that-good-night/",
-      "description": "\"Rage, rage against the dying of the light.\"",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "total": 0
       }
     }
   ]

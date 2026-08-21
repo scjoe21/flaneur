@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-08-16T17:31:35.693692+00:00",
+  "fetchedAt": "2026-08-21T04:31:24.836609+00:00",
   "items": [
     {
       "title": "Peter Thiel ou le (més)usage de la philosophie",
@@ -20,51 +20,35 @@
       }
     },
     {
-      "title": "Climat : et si on avait écouté la science ?",
-      "url": "https://usbeketrica.com/fr/article/climat-et-si-on-avait-ecoute-la-science",
-      "description": "Publié en 1972, le « rapport Meadows » démontre qu'une croissance infinie dans un monde aux ressources limitées n'est pas tenable. Mais malgré sa médiatisation et son succès en librairie, ce texte n'a jamais été pris au sérieux par les décideurs politiques. Et si les États-Unis avaient empêché sa publication, que serait-il advenu ? Le message du « lanceur d'alerte » Dennis Meadows, paradoxalement, n'aurait-il pas fini par être entendu et mis en œuvre par son pays ? C’est l’hypothèse explorée dan",
-      "date": "Sun, 26 Jul 2026",
+      "title": "L’Internet par satellite Starlink prend son envol dans les avions",
+      "url": "https://usbeketrica.com/fr/article/l-internet-par-satellite-starlink-prend-son-envol-dans-les-avions",
+      "description": "Depuis le début de l’année, le service d’Internet par satellite Starlink, porté par Elon Musk, se propage comme une traînée de poudre chez plusieurs transporteurs. Un moyen de démocratiser la connexion gratuite et haut-débit à bord, au détriment de l’un des rares endroits qui restait jusqu’alors inaccessible aux algorithmes et au doomscrolling, observe un papier de The Atlantic.",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Cinéma : ce que l'IA efface, l'archive devra le sauver",
+      "url": "https://usbeketrica.com/fr/article/cinema-ce-que-l-ia-efface-l-archive-devra-le-sauver",
+      "description": "TRIBUNE // Et si face aux images de synthèses qui inondent nos écrans, le geste le plus urgent n’était pas de générer des images, mais de retrouver celles qui existent déjà ? C’est la question qu’explorait la 40e édition du festival Il Cinema Ritrovato, « le cinéma retrouvé », qui réunissait à Bologne fin juin archivistes, programmateurs et cinéphiles. Un propos incarné dans cette tribune par Quentin Bitran, réalisateur et fondateur de Refractio, un moteur de recherche et d’achats d’extraits de ",
+      "date": "Mon, 17 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Réseaux sociaux : et si c'était le début de la fin ?",
-      "url": "https://usbeketrica.com/fr/article/reseaux-sociaux-et-si-c-etait-le-debut-de-la-fin",
-      "description": "En janvier 2026, le Financial Times lâchait une petite bombe statistique : nous aurions collectivement passé le pic de temps consacré aux réseaux sociaux en 2022. Depuis, la courbe s'inverserait, doucement mais sûrement - même si notre temps d'écran, lui, continuerait d'augmenter. Le temps du scroll infini est-il bel et bien révolu ? Sommes-nous en train d'inventer de nouvelles manières d'habiter ces plateformes ? Ou bien cette reprise de contrôle n'est-elle qu'un mirage ?",
-      "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 4,
         "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "En Chine, on peut louer son visage à des IA",
-      "url": "https://usbeketrica.com/fr/article/en-chine-on-peut-louer-son-visage-a-des-ia",
-      "description": "En Chine, l'essor de l'industrie des micro-dramas, des fictions ultra-courtes, alimente un tout nouveau business : la location de visages. Selon une enquête du média en ligne Rest of World, il est désormais possible, pour une poignée de yuans, de fournir des images de son faciès et de céder ses droits à l'image afin d'alimenter les algorithmes des sociétés de production spécialisées dans ce format à la mode. Un modèle lucratif qui pourrait, à terme, faire émerger « un nouveau marché de l'identit",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
+        "total": 15
       }
     },
     {
@@ -81,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "Nos vies numériques en 2016 : quand le futur se résumait à Snapchat, Facebook et Pokémon Go",
+      "url": "https://usbeketrica.com/fr/article/nos-vies-numeriques-en-2016-quand-le-futur-se-resumait-a-snapchat-facebook-et-pokemon-go",
+      "description": "[SÉRIE D’ÉTÉ] Cet été, Usbek & Rica retourne dans le passé. Sites Internet, réseaux sociaux, jeux vidéo : on vous dresse la liste de ce qui fait le sel de nos vies numériques depuis trois décennies. Après l’année 1996, marquée par AOL, Mario et l’USB, et 2006, placée sous le signe de MySpace, de la Nintendo DS et des lolcats, cap sur 2016.",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-08-16T17:34:04.621915+00:00",
+  "fetchedAt": "2026-08-21T04:33:10.093440+00:00",
   "items": [
     {
       "title": "How to think like a Hegelian",
@@ -36,10 +36,26 @@
       }
     },
     {
-      "title": "Mother Teresa was virtuous, but she was wrong about virtue",
-      "url": "https://psyche.co/ideas/mother-teresa-was-virtuous-but-she-was-wrong-about-virtue",
-      "description": "There’s more to virtue than how we treat other individuals. ‘Structure-facing virtues’ tie the personal to the big picture - by Michael Brownstein & Alex Madva Read on Psyche",
-      "date": "Thu, 06 Aug 2026",
+      "title": "Arabic has four words for sadness. Philosophy explains why",
+      "url": "https://psyche.co/ideas/arabic-has-four-words-for-sadness-philosophy-explains-why",
+      "description": "More subtly nuanced than standard diagnostic categories, Arabic lets speakers articulate a world of emotional experiences - by Chereen Shurafa Read on Psyche",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Why do crowds make our emotional experiences more intense?",
+      "url": "https://psyche.co/ideas/being-in-a-crowd-doesnt-make-you-part-of-a-mindless-mob",
+      "description": "Being in a crowd amps up excitement, fear and other feelings. But there’s more to the phenomenon than ‘mob mentality’ - by John Drury Read on Psyche",
+      "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -52,26 +68,10 @@
       }
     },
     {
-      "title": "Why we should learn to embrace the middlebrow",
-      "url": "https://psyche.co/ideas/why-we-should-learn-to-embrace-the-middlebrow",
-      "description": "Stranded between ‘low’ and ‘high’ art, the middlebrow is unfairly condemned. It’s a ‘both/and’ mode capable of greatness - by Aaron Meskin & Jonathan Weinberg Read on Psyche",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Hoarding: how it impacted my life",
-      "url": "https://psyche.co/videos/why-people-hoard-and-how-you-can-help-them",
-      "description": "‘All this stuff is my trauma’: one woman’s experience of hoarding disorder, a much misunderstood and stigmatised condition - Video by BBC Ideas, The Open University Watch on Psyche",
-      "date": "Fri, 31 Jul 2026",
+      "title": "How to rediscover your purpose later in life",
+      "url": "https://psyche.co/guides/how-to-rediscover-your-purpose-later-in-life",
+      "description": "You don’t have to ‘reinvent’ yourself to live happily after 60. There’s a better approach grounded in lifespan psychology - by Denise Taylor Read on Psyche",
+      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 19,
@@ -84,10 +84,10 @@
       }
     },
     {
-      "title": "How to enter a state of flow",
-      "url": "https://psyche.co/guides/how-to-enter-a-state-of-flow",
-      "description": "That moment of sweet immersion in the task at hand: that’s flow. With some strategy, you can experience it more often - by Susan A Jackson Read on Psyche",
-      "date": "Wed, 05 Aug 2026",
+      "title": "The peak-end rule",
+      "url": "https://psyche.co/videos/to-make-better-memories-prioritise-high-peaks-and-happy-endings",
+      "description": "Landmark experiments explore why people sometimes prefer more pain to less, and what this says about the shaping of memory - Video by Veritasium Watch on Psyche",
+      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -100,10 +100,10 @@
       }
     },
     {
-      "title": "Free-range fraud",
-      "url": "https://psyche.co/turning-points/my-double-life-came-to-a-head-when-i-pretended-to-be-vegan",
-      "description": "An animal rights group offered a rare job opportunity. How hard could it be to play along? - by Evan E Lambert Read on Psyche",
-      "date": "Tue, 04 Aug 2026",
+      "title": "Sometimes, the road to virtue comes by way of vice",
+      "url": "https://psyche.co/ideas/sometimes-the-road-to-virtue-comes-by-way-of-vice",
+      "description": "To work your character into better shape, be like a carpenter who fixes warped wood by bending it the opposite way - by Sabrina B Little Read on Psyche",
+      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -148,6 +148,54 @@
       }
     },
     {
+      "title": "Everything is going to be fine",
+      "url": "https://psyche.co/videos/youre-sure-that-society-is-spiralling-and-were-all-doomed-now-what",
+      "description": "What a classist, a psychologist and preppers have to say about the end of the world, and what you might do about it - Directed by Ryan Malloy Watch on Psyche",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Glass eggs",
+      "url": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs",
+      "description": "When the future I’d been planning lay shattered at my feet, freezing my eggs offered a fragile hope - by Matilda Hay Read on Psyche",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Don’t let nature slip out of reach",
+      "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
+      "description": "Research on the ‘extinction of experience’ suggests many of us are losing vital connections to the natural world - by Hannah Seo Read on Psyche",
+      "date": "Tue, 18 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "The impact of self-talk",
       "url": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial",
       "description": "Is your inner voice helping you or holding you back? Dig into the science on the real-life impacts of self-talk - Video by TED-Ed Watch on Psyche",
@@ -184,54 +232,6 @@
       "url": "https://psyche.co/turning-points/how-acting-in-a-surreal-play-in-my-pyjamas-healed-my-heartache",
       "description": "After a painful breakup, I found myself agreeing to perform in a surreal play, dressed in my pyjamas - by Melissa Matthewson Read on Psyche",
       "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Being in a crowd doesn’t make you part of a mindless mob",
-      "url": "https://psyche.co/ideas/being-in-a-crowd-doesnt-make-you-part-of-a-mindless-mob",
-      "description": "It’s often assumed people lose their minds in a crowd. Research on riots, festivals and sports tells a more uplifting story - by John Drury Read on Psyche",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Climbing gives me a break from my brain",
-      "url": "https://psyche.co/notes-to-self/climbing-gives-me-a-much-needed-break-from-my-brain",
-      "description": "When I took up indoor climbing, I didn’t anticipate the special appeal it held for someone with ADHD - by Alizeh Kohari Read on Psyche",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Teddy",
-      "url": "https://psyche.co/videos/birth-doulas-are-almost-exclusively-female-enter-teddy",
-      "description": "As a security guard and childbirth doula, Teddy challenges stereotypes of masculinity with knowledge, calm and care - Directed by Lauren Santucci Watch on Psyche",
-      "date": "Mon, 03 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-16T17:34:11.731929+00:00",
+  "fetchedAt": "2026-08-21T04:33:18.197217+00:00",
   "items": [
     {
       "title": "Finanzbildung - Jung sein und clever mit Geld umgehen",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Das Gegenteil vom Nichts - Auf der Spur der Schwarzen Löcher",
+      "url": "https://www.deutschlandfunkkultur.de/das-gegenteil-vom-nichts-auf-der-spur-der-schwarzen-loecher-100.html",
+      "description": "Schwarze Löcher sind die Leichen riesiger Sterne. Sie lassen Raum und Zeit erzittern. Womöglich sind sie schon beim Urknall entstanden. Ihr Inneres verbergen sie – doch allmählich gelingt es der Wissenschaft, ihnen ihre Geheimnisse zu entreißen. (Erstsendung am 26.02.26) Lorenzen, Dirk www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
@@ -132,35 +148,19 @@
       }
     },
     {
-      "title": "Beton - Ein Baustoffwunder im Wandel",
-      "url": "https://www.deutschlandfunkkultur.de/beton-was-man-draus-macht-und-wie-man-ihn-machen-kann-100.html",
-      "description": "Die Erfindung des Betons hat massenhaftes Bauen günstig gemacht. Aber: Acht Prozent aller CO2-Emissionen gehen auf die Produktion von Zement zurück. Kann der Baustoff bis zur Mitte des Jahrhunderts klimaneutral werden? (Erstsendedatum: 31.03.2025) Wessel, Günther www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 27 Jul 2026",
+      "title": "Digitaler Staat - Probleme erkannt, aber noch nicht gebannt",
+      "url": "https://www.deutschlandfunkkultur.de/ein-jahr-digitalministerium-probleme-erkannt-aber-nicht-gebannt-100.html",
+      "description": "Das Digitalministerium wurde vor einem Jahr gegründet. Die Ziele: Deutschlands Verwaltung schneller und effizienter zu machen und den Ausbau der digitalen Infrastruktur voranzutreiben. Experten loben die ersten Schritte, doch es gibt auch Kritik. Marie Zinkann, Johannes Zuber www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 10,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Doping im Hobbysport - Wenn die Jagd nach dem perfekten Körper zur Sucht wird",
-      "url": "https://www.deutschlandfunkkultur.de/doping-fitness-gesundheitsrisiko-100.html",
-      "description": "Jeder fünfte Nutzer von Fitnessstudios hat schon einmal gedopt. Aber es gibt Risiken: Die Libido kann verloren gehen, die Haut sich verändern. Auch Gepanschtes ist im Umlauf. In der Schweiz gibt es eine Anlaufstelle für Abhängige. (Erstsendung am 30.05.2024) Carolin Riethmüller www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 23 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -212,35 +212,35 @@
       }
     },
     {
-      "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (2/4) - Lernen vom Gegner",
-      "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-rechte-intellektuelle-der-bundesrepublik-2-4-100.html",
-      "description": "1968 bedeutete auch für rechte Denker eine Zäsur: Einer welthistorischen Liberalisierung hatten sie nichts entgegenzusetzen. Also versuchten sie, den Geist der 68er für ihre Zwecke zu nutzen. (Erstsendung am 17.09.2025) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 22 Jul 2026",
+      "title": "Vietnamesisch altern - Die Community hilft sich vor allem selbst",
+      "url": "https://www.deutschlandfunkkultur.de/altern-auf-vietnamesisch-die-community-hilft-sich-vor-allem-selbst-100.html",
+      "description": "In Deutschland leben rund 200.000 Menschen mit vietnamesischen Wurzeln. Wenn ältere Angehörige der \"ersten Generation\" kultursensible Pflege benötigen, finden sie vor allem in der Community Unterstützung: für ihre Kinder oft keine einfache Situation. Rubarth, Christina www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "Migration - Freiwillige Rückkehr von Syrern als Angebot",
-      "url": "https://www.deutschlandfunkkultur.de/freiwillige-rueckkehr-von-syrern-sinnvolles-instrument-der-migrationssteuerung-100.html",
-      "description": "Mehr als 1,5 Millionen Syrer sind seit dem Machtwechsel 2024 in ihre Heimat zurückgekehrt. Deutschland verließen bisher nur wenige Tausend. Die Bundesregierung will das ändern: Sie setzt verstärkt auf freiwillige Ausreise und übernimmt Reisekosten. Börner, Moritz www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 21 Jul 2026",
+      "title": "Hippietrail - Die Konzertreise der Band Embryo von München nach Kalkutta",
+      "url": "https://www.deutschlandfunkkultur.de/auf-dem-hippietrail-von-muenchen-nach-kalkutta-die-konzertreise-der-band-embryo-100.html",
+      "description": "Mit Bussen machte sich 1978 die Band Embryo aus München auf den Weg nach Indien. Entlang der Straßen hatte das Kollektiv dutzende Auftritte und musikalische Begegnungen. Am Ende der Reise steht etwas, was etwas später als Weltmusik bezeichnet wurde. Bei der Kellen, Ralf www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 14,
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 14
       }
     }
   ]

@@ -1,46 +1,78 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-08-16T17:34:18.989766+00:00",
+  "fetchedAt": "2026-08-21T04:33:24.953501+00:00",
   "items": [
     {
-      "title": "Where Human Sleep Went Wrong",
-      "url": "https://nautil.us/where-human-sleep-went-wrong-1283797/",
-      "description": "A conversation with David Samson, evolutionary anthropologist and author of  The Sleepless Ape , about how to sleep \n The post  Where Human Sleep Went Wrong  appeared first on  Nautilus .",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_5715e7.png?w=564",
+      "title": "Why It Might Be Time to Rethink the Human Family Tree",
+      "url": "https://nautil.us/why-it-might-be-time-to-rethink-the-human-family-tree-1283985/",
+      "description": "The way we classify humanity’s ancient relatives is a mess. But there’s a simple fix. \n The post  Why It Might Be Time to Rethink the Human Family Tree  appeared first on  Nautilus .",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Ian_HERO.png?w=564",
       "videoId": "",
-      "priority": 20,
+      "priority": 30,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 20
+        "novelty": 5,
+        "total": 30
       }
     },
     {
-      "title": "How Vipers Got Their Venom",
-      "url": "https://nautil.us/how-vipers-got-their-venom-1283792/",
-      "description": "Although it serves as a defense, it’s really all about securing a meal \n The post  How Vipers Got Their Venom  appeared first on  Nautilus .",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese_HERO_24a24c.png?w=564",
+      "title": "No One Knows How Whale Sharks Give Birth—But This Neonatal Shark Discovery Provides Some Clues",
+      "url": "https://nautil.us/no-one-knows-how-whale-sharks-give-birth-but-this-neonatal-shark-discovery-provides-some-clues-1284017/",
+      "description": "A rare find on a fishing expedition \n The post  No One Knows How Whale Sharks Give Birth—But This Neonatal Shark Discovery Provides Some Clues  appeared first on  Nautilus .",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_ab077a.png?w=564",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "How the Ancient Greeks Interpreted Their Dreams",
+      "url": "https://nautil.us/how-the-ancient-greeks-interpreted-their-dreams-1284046/",
+      "description": "Certain concepts such as metaphor may derive from early dream interpretation \n The post  How the Ancient Greeks Interpreted Their Dreams  appeared first on  Nautilus .",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/French_HERO_173669.png?w=564",
+      "videoId": "",
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 20
+        "novelty": 0,
+        "total": 15
       }
     },
     {
-      "title": "The Conditions on a US Aircraft Carrier Sound Concerning",
-      "url": "https://nautil.us/the-conditions-on-a-us-aircraft-carrier-sound-concerning-1283806/",
-      "description": "Can science point the way toward designing environments to maximize mental health in such situations? \n The post  The Conditions on a US Aircraft Carrier Sound Concerning  appeared first on  Nautilus .",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Grant_HERO.png?w=564",
+      "title": "How Listening to Ocean Waves Can Predict Volcanic Eruptions",
+      "url": "https://nautil.us/how-listening-to-ocean-waves-can-predict-volcanic-eruptions-1284014/",
+      "description": "The speed of the soothing sounds could spell disaster  \n The post  How Listening to Ocean Waves Can Predict Volcanic Eruptions  appeared first on  Nautilus .",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_13849b.png?w=564",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The Return of a Discredited Pseudoscience",
+      "url": "https://nautil.us/the-return-of-a-discredited-pseudoscience-1283873/",
+      "description": "Eugenics is rearing its ugly head again in today’s crucible of politics and culture \n The post  The Return of a Discredited Pseudoscience  appeared first on  Nautilus .",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Falk_HERO.png?w=564",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -52,11 +84,11 @@
       }
     },
     {
-      "title": "Extreme Space Weather Could Delay Your Next Flight",
-      "url": "https://nautil.us/extreme-space-weather-could-delay-your-next-flight-1283780/",
-      "description": "Researchers say surges in solar activity can wreak havoc on aircraft \n The post  Extreme Space Weather Could Delay Your Next Flight  appeared first on  Nautilus .",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_93ef95.png?w=564",
+      "title": "Do Zoo Otters Love People Watching?",
+      "url": "https://nautil.us/do-zoo-otters-love-people-watching-1284025/",
+      "description": "They tolerate the paparazzi regardless \n The post  Do Zoo Otters Love People Watching?  appeared first on  Nautilus .",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese_HERO_626c08.png?w=564",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -68,59 +100,11 @@
       }
     },
     {
-      "title": "In Stunning Color, a Celestial “Treasure Chest” Full of Stars",
-      "url": "https://nautil.us/in-stunning-color-a-celestial-treasure-chest-full-of-stars-1283773/",
-      "description": "A majestic cometary globule some 7,500 light-years away \n The post  In Stunning Color, a Celestial “Treasure Chest” Full of Stars  appeared first on  Nautilus .",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Nield_HERO_fb3ed8.png?w=564",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Sprinting vs. Jogging: The Benefit Is in the Blood",
-      "url": "https://nautil.us/sprinting-vs-jogging-the-benefit-is-in-the-blood-1283767/",
-      "description": "Live fast, die old \n The post  Sprinting vs. Jogging: The Benefit Is in the Blood  appeared first on  Nautilus .",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_669267.png?w=564",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Real “Mummy’s Curse” Lurks Online",
-      "url": "https://nautil.us/the-real-mummys-curse-lurks-online-1283802/",
-      "description": "A booming market for mummified remains poses health risks \n The post  The Real “Mummy’s Curse” Lurks Online  appeared first on  Nautilus .",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_7aeb5b.png?w=564",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors",
-      "url": "https://nautil.us/female-treefrogs-get-overwhelmed-by-too-many-noisy-male-suitors-1283821/",
-      "description": "Take it easy on the croaking, boys \n The post  Female Treefrogs Get Overwhelmed by Too Many Noisy Male Suitors  appeared first on  Nautilus .",
-      "date": "Sun, 16 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Reese-HERO_597bb1.png?w=564",
+      "title": "Even Mussels Get Scared",
+      "url": "https://nautil.us/even-mussels-get-scared-1284061/",
+      "description": "And it could have dramatic consequences \n The post  Even Mussels Get Scared  appeared first on  Nautilus .",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_2811d3.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -132,11 +116,11 @@
       }
     },
     {
-      "title": "Is This the World’s Oldest Image of a Mind‑altering Plant?",
-      "url": "https://nautil.us/is-this-the-worlds-oldest-image-of-a-mind%e2%80%91altering-plant-1283811/",
-      "description": "A painted panel deep in a Spanish cave may push the human relationship with mind-altering plants back thousands of years, earlier than anything previously known \n The post  Is This the World’s Oldest Image of a Mind‑altering Plant?  appeared first on  Nautilus .",
-      "date": "Sat, 15 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Pothier_HERO.png?w=564",
+      "title": "You’re Not a Universal Mosquito Magnet",
+      "url": "https://nautil.us/youre-not-a-universal-mosquito-magnet-1284049/",
+      "description": "But you might be particularly enticing to different species \n The post  You’re Not a Universal Mosquito Magnet  appeared first on  Nautilus .",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_708cf6.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -148,11 +132,27 @@
       }
     },
     {
-      "title": "The Extraterrestrial Rings of Bronze Age Greece",
-      "url": "https://nautil.us/the-extraterrestrial-rings-of-bronze-age-greece-1283789/",
-      "description": "Meteorites were hot fashion accessories back then \n The post  The Extraterrestrial Rings of Bronze Age Greece  appeared first on  Nautilus .",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_6f56dc.png?w=564",
+      "title": "The Secret Lives of Japanese Temple Frogs",
+      "url": "https://nautil.us/the-secret-lives-of-japanese-temple-frogs-1284039/",
+      "description": "Shrines and temples are urban amphibian hot spots \n The post  The Secret Lives of Japanese Temple Frogs  appeared first on  Nautilus .",
+      "date": "Thu, 20 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_07c29f.png?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The “Kerry Cow” Wasn’t a Cow at All—And It Upends Stone Age Irish History",
+      "url": "https://nautil.us/the-kerry-cow-wasnt-a-cow-at-all-and-it-upends-stone-age-irish-history-1283999/",
+      "description": "R.I.P. “Kerry cow” \n The post  The “Kerry Cow” Wasn’t a Cow at All—And It Upends Stone Age Irish History  appeared first on  Nautilus .",
+      "date": "Wed, 19 Aug 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Currie_HERO_c14228.png?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
