@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-21T04:33:20.638444+00:00",
+  "fetchedAt": "2026-08-21T19:09:23.723184+00:00",
   "items": [
     {
       "title": "Der Kuss – Warum es ihn gibt",
@@ -116,19 +116,19 @@
       }
     },
     {
-      "title": "Innovative Batteriezellen – Wie wird Deutschland wettbewerbsfähig?",
-      "url": "https://www.swr.de/swrkultur/wissen/innovative-batteriezellen-wie-wird-deutschland-wettbewerbsfaehig-100.html",
-      "description": "Bei der Erforschung und Entwicklung neuer Batterietypen gehört Deutschland zur internationalen Spitzengruppe. Noch. Um weiter mithalten zu können, braucht es aber mehr Geld, Zeit und Forschung.",
-      "date": "Fri, 7 Aug 2026 ",
+      "title": "Nachgefragt",
+      "url": "https://www.swr.de/swrkultur/wissen/nachgefragt-106.html",
+      "description": "Update zu diesen Das-Wissen-Folgen: \"Rechtsextreme im Kampfsport\", \"Embryonenforschung\", \"Ganztagsbetreuung – Wie sich Grundschulen vorbereiten\" und \" Verlieren wir die Fähigkeit zur Konzentration?\"",
+      "date": "Sat, 22 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {

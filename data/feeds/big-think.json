@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-08-21T15:42:31.935022+00:00",
+  "fetchedAt": "2026-08-21T19:09:16.030067+00:00",
   "items": [
+    {
+      "title": "A field guide to seeing through false expertise",
+      "url": "https://bigthink.com/business/a-field-guide-to-seeing-through-false-expertise/",
+      "description": "Information overload is causing a credibility crisis. Paradoxically, reliable information has never been easier to access, but harder to  find . With everyone from qualified experts to politicians, celebrities, and influencers entering their opinions into the chat, separating good information from bad feels like finding a needle in a haystack. \n So in a world where social media has “democratized” information and opinion-sharing, who should we trust, and why? And what’s actually impacting our dec",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/credibility-crisis_compressed.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 15,
+        "total": 45
+      }
+    },
     {
       "title": "Earth’s oldest trees reveal history’s strongest solar storms",
       "url": "https://bigthink.com/starts-with-a-bang/oldest-trees-solar-storm/",
@@ -94,22 +110,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "For women and children in West Africa, medical treatment often came too late. Then one model changed where care begins.",
-      "url": "https://bigthink.com/sponsored/the-women-behind-a-new-model-of-healthcare/",
-      "description": "In 2009, a community health worker in the bustling capital of Bamako, Mali, found a young boy at home who had become dangerously ill within a matter of hours. Recognizing he needed urgent medical care, she arranged for him to be taken to a health facility. \n The journey was five kilometers, but distance was only part of the challenge. The boy’s father carried him on foot, then into an ambulance, then back on foot to cross a river, then into another ambulance. \n “At that time, it was very difficu",
-      "date": "Mon, 17 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/06/Skoll-Muso-Article-Header-Art-Draft.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20

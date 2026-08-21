@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-21T15:42:32.504087+00:00",
+  "fetchedAt": "2026-08-21T19:09:16.423960+00:00",
   "items": [
     {
       "title": "Why Lindsay Clancy’s Insanity Defense Might Fail",
@@ -56,22 +56,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/08/muslim-experience-islamaphobia-united-states/688277/?utm_source=feed",
       "description": "",
       "date": "2026-08-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Enes Kanter Freedom Obviously Doesn’t Belong in the WNBA",
-      "url": "https://www.theatlantic.com/ideas/2026/08/enes-kanter-royce-white-wnba-trans/688300/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-16",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -148,8 +132,8 @@
       }
     },
     {
-      "title": "The Case for Chilling Out About Birth Rates",
-      "url": "https://www.theatlantic.com/ideas/2026/08/birth-rate-panic-overblown/688320/?utm_source=feed",
+      "title": "Democrats Are Failing the Waymo Test",
+      "url": "https://www.theatlantic.com/ideas/2026/08/democrats-waymo-safety-jobs/688324/?utm_source=feed",
       "description": "",
       "date": "2026-08-19",
       "thumbnail": "",
@@ -164,8 +148,8 @@
       }
     },
     {
-      "title": "Democrats Are Failing the Waymo Test",
-      "url": "https://www.theatlantic.com/ideas/2026/08/democrats-waymo-safety-jobs/688324/?utm_source=feed",
+      "title": "The Case for Chilling Out About Birth Rates",
+      "url": "https://www.theatlantic.com/ideas/2026/08/birth-rate-panic-overblown/688320/?utm_source=feed",
       "description": "",
       "date": "2026-08-19",
       "thumbnail": "",
@@ -230,6 +214,22 @@
     {
       "title": "Trump Will Make South Korea Pay for His Iran Humiliation",
       "url": "https://www.theatlantic.com/ideas/2026/08/trump-iran-korea/688306/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump’s Last Loyal Constituency",
+      "url": "https://www.theatlantic.com/ideas/2026/08/trump-business-dark-money/688290/?utm_source=feed",
       "description": "",
       "date": "2026-08-16",
       "thumbnail": "",

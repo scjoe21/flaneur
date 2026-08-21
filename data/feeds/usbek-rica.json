@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-08-21T15:41:37.906310+00:00",
+  "fetchedAt": "2026-08-21T19:08:08.683776+00:00",
   "items": [
     {
       "title": "Peter Thiel ou le (més)usage de la philosophie",
@@ -49,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "« L’invention du futur », roman d’une jeunesse qui refuse le contrôle social",
-      "url": "https://usbeketrica.com/fr/article/l-invention-du-futur-roman-d-une-jeunesse-qui-refuse-le-controle-social",
-      "description": "Avec L’invention du futur (in8 éditions, 2026), le journaliste et romancier Cédric Fabre, contributeur régulier d’Usbek & Rica, propose un récit d’anticipation déroutant et étrangement crédible. Un roman pour adolescents en forme d’éloge de la résistance, de la différence, et de la politique au sens le plus noble du terme.",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
       }
     },
     {
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "« Il faudrait que l’IA nous pousse vers le monde réel, au lieu de s'y substituer »",
+      "url": "https://usbeketrica.com/fr/article/il-faudrait-que-l-ia-nous-pousse-vers-le-monde-reel-au-lieu-de-s-y-substituer",
+      "description": "Plus les IA conversationnelles s’installent dans notre intimité, plus elles affaiblissent nos relations et notre santé mentale. Daniel Barcay en est convaincu, mais cet ancien ingénieur chez Google et ex-dirigeant du Center for Humane Technology n’y voit aucune fatalité : il est encore temps de penser une intelligence artificielle qui renforcent nos liens, et reste à sa place de machine. De passage à Paris, on l’a rencontré.",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
