@@ -1,7 +1,7 @@
 {
   "sourceId": "leparoleelecose",
   "sourceName": "Le parole e le cose",
-  "fetchedAt": "2026-08-08T16:56:40.213564+00:00",
+  "fetchedAt": "2026-08-22T16:44:24.942202+00:00",
   "items": [
     {
       "title": "Ridere dell’IA. Corpo a corpo con il sé digitale",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Twenty Days of Summer. Cinque+cinque canzoni per sopravvivere al caldo",
+      "url": "https://www.leparoleelecose.it/20-days-of-summer-cinquecinque-canzoni-per-sopravvivere-al-caldo/",
+      "description": "Come ogni anno, LPLC si prende qualche settimana di vacanza e saluta lettrici e lettori con una doppia playlist estiva (cinque canzoni italiane scelte da Massimo Gezzi più cinque internazionali scelte da Italo Testa, tutte uscite nei primi mesi del 2026). Buone vacanze e buona vita. Ci ritroviamo, come sempre, alla fine di agosto. Playlist …  read more  \"Twenty Days of Summer. Cinque+cinque canzoni per sopravvivere al caldo\"",
+      "date": "Mon, 10 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "C’è o ce fa? Roma illustrata ai lettori tedeschi",
-      "url": "https://www.leparoleelecose.it/ce-o-ce-fa-roma-illustrata-ai-lettori-tedeschi/",
-      "description": "di Sergio Bevenuto    [Quella che segue è la versione italiana di un articolo scritto per la rivista tedesca «Lettre international» (“Ist es so oder tut es nur so?”, 153, Sommer 2026)].   1. Roma, un capitolo chiuso  Da decenni questa rivista [Lettre International] mi chiede di scrivere su Roma, la città dove vivo da 45 anni. Ho sempre declinato l’invito dato che ci vivo, quindi non …  read more  \"C’è o ce fa? Roma illustrata ai lettori tedeschi \"",
-      "date": "Thu, 30 Jul 2026",
+      "title": "Sul filo dell’atomo. Una storia degli equilibri nucleari dal 1945 ai giorni nostri",
+      "url": "https://www.leparoleelecose.it/sul-filo-dellatomo-una-storia-degli-equilibri-nucleari-dal-1945-ai-giorni-nostri/",
+      "description": "di Marco Rizzo   Francesco Dall’Aglio e Carlo Ziviello, Oppenheimer, Putin e altre storie sulla bomba, Ad est dell’equatore 2023, 14 euro   “Il discorso pubblico sull’atomica dal 1991 è, sostanzialmente, la storia di una grande rimozione. Dopo aver vissuto per più di quarant’anni con la paura concreta dell’estinzione dell’umanità a causa di un conflitto …  read more  \"Sul filo dell’atomo. Una storia degli equilibri nucleari dal 1945 ai giorni nostri\"",
+      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -110,22 +126,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Il coraggio della verità. Giordano Bruno e Galileo Galilei",
-      "url": "https://www.leparoleelecose.it/il-coraggio-della-verita-giordano-bruno-e-galileo-galilei/",
-      "description": "di Tiziano Gorini   I   Costretto all’abiura dal tribunale dell’Inquisizione romana nel1633 Galileo Galilei dovette pronunciare e sottoscrivere queste fatidiche parole: “sono stato giudicato veementemente sospetto d’eresia, cioè d’aver tenuto e creduto che il sole sia centro del mondo e imobile e che la terra non sia centro e che si muova; pertanto volendo …  read more  \"Il coraggio della verità. Giordano Bruno e Galileo Galilei \"",
-      "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

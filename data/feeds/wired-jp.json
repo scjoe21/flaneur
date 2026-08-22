@@ -1,22 +1,38 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-21T19:09:37.725170+00:00",
+  "fetchedAt": "2026-08-22T16:45:00.651410+00:00",
   "items": [
     {
-      "title": "高級食品スーパーはなぜ分断を加速させるのか｜FOOD Lab",
-      "url": "https://wired.jp/article/sz-food-lab-club-and-bazaar/",
-      "description": "米国都市部で高級食品スーパーが勃興し、“どのスーパーに行くか” が人々のアイデンティティと深く結びついている。食も政治も分断していく社会で、ネイバーフッドの役割を考える。",
-      "date": "Tue, 18 Aug 2026",
+      "title": "最新デスクガジェットおすすめ16選：WIRED SHOPPING GUIDE",
+      "url": "https://wired.jp/article/desk-gadgets-productivity-shopping-guide/",
+      "description": "デスクワークをより快適にしてくれる、ガジェットセレクション。効率も意欲も高まるあろうこれらのアイテムとともに、仕事や勉強に励んでほしい。",
+      "date": "Sat, 22 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 10,
       "scoreDetail": {
         "daily": 10,
-        "phil": 10,
-        "flaneur": 4,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 10
+      }
+    },
+    {
+      "title": "サルモネラ菌はいたるところに──米国で食品の自主回収が相次ぐ",
+      "url": "https://wired.jp/article/salmonella-is-everywhere/",
+      "description": "米国ではグラノーラやワカモレ、さらにはドッグフードまで、サルモネラ菌に汚染されている恐れがあるとして自主回収されている。専門家によると、手洗いや加熱、速やかな冷蔵といった基本的な対策が感染予防につながるという。",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -81,6 +97,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "AIスロップへの反発を、企業も無視できなくなっている",
+      "url": "https://wired.jp/article/the-ai-slop-backlash-is-actually-having-an-impact/",
+      "description": "プラットフォーム側も、人々がAI時代にあふれる低品質なコンテンツを望んでいないことに、ようやく気づき始めている。データセンターへの抗議が広がるなか、AI生成コンテンツの報告・検出や利用制限に乗り出す企業も増えている。",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "イヴ・サンローラン、その完璧すぎる「表層」",
+      "url": "https://wired.jp/article/the-flawless-surface-of-yves-saint-laurent/",
+      "description": "伝説のデザイナーは自身の人生そのものも完全無比にデザインしていた。ニューヨークの国際写真センター（ICP）で開催中の「イヴ・サンローランと写真」展レビュー。",
+      "date": "Fri, 21 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/ai-conquered-coding-fast-food-is-next/",
       "description": "米国では、ドライブスルーでの注文受付を自動化する音声認識AIアシスタントの導入が進んでいる。AIが注文を受けているとは気づかないまま、商品を勧められる日も近いかもしれない。",
       "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Google ドキュメントやGmailに増えたGeminiの表示を消す方法",
-      "url": "https://wired.jp/article/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
-      "description": "Google ドキュメントやGmailに、グーグルのAI機能の利用を促す表示が追加された。文書やメールの作成にGeminiを使わないなら、こうした表示を消すことができる。",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "グーグル「Pixel 11」のカメラに加わった4つの新機能",
-      "url": "https://wired.jp/article/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-      "description": "AIに撮影を任せる「マジックキャプチャー」や「インスタント夜景モード」、内蔵テレプロンプターなど、「Pixel 11」シリーズで注目したいカメラ機能を紹介する。",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AIによるハッキングより厄介、“自己複製するAIワーム”の脅威",
-      "url": "https://wired.jp/article/ai-agents-could-act-like-computer-viruses-and-worms/",
-      "description": "中国の研究チームが、AIモデルがコンピューターウイルスのように振る舞いうることを実験で示した。AIの自律性が高まるなか、自らを複製し、制御不能なかたちで増殖するリスクが現実味を帯びている。",
-      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

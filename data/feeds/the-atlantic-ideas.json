@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-21T19:09:16.423960+00:00",
+  "fetchedAt": "2026-08-22T16:44:41.478608+00:00",
   "items": [
+    {
+      "title": "How to Lose a Trade War",
+      "url": "https://www.theatlantic.com/ideas/2026/08/why-us-canada-trade-talks-fell-apart/688386/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "Why Lindsay Clancy’s Insanity Defense Might Fail",
       "url": "https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-murder-trial-insanity/688286/?utm_source=feed",
@@ -214,22 +230,6 @@
     {
       "title": "Trump Will Make South Korea Pay for His Iran Humiliation",
       "url": "https://www.theatlantic.com/ideas/2026/08/trump-iran-korea/688306/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump’s Last Loyal Constituency",
-      "url": "https://www.theatlantic.com/ideas/2026/08/trump-business-dark-money/688290/?utm_source=feed",
       "description": "",
       "date": "2026-08-16",
       "thumbnail": "",

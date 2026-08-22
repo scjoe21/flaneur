@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-21T19:09:23.723184+00:00",
+  "fetchedAt": "2026-08-22T16:44:47.465103+00:00",
   "items": [
     {
       "title": "Der Kuss – Warum es ihn gibt",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Inklusion an Schulen ‒ Woran sie scheitert und wie sie gelingt",
-      "url": "https://www.swr.de/swrkultur/wissen/inklusion-an-schulen-woran-sie-scheitert-und-wie-sie-gelingt-100.html",
-      "description": "Eltern haben die Wahl, wo ihr Kind mit Förderbedarf zur Schule gehen soll. Doch Inklusion an Schulen hapert immer noch an baulichen Einschränkungen, fehlendem Personal, am Geld.",
-      "date": "Sat, 8 Aug 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Podcast-Tipp: Ready for Liftoff! Der Raumfahrt-Podcast",
+      "url": "https://www.swr.de/swrkultur/wissen/podcast-tipp-ready-for-liftoff-der-raumfahrt-podcast-100.html",
+      "description": "Immer mehr Raketen, immer abgefahrenere Missionen! In der Raumfahrt geht's gerade richtig ab. Das Wettrennen zu Mond und Mars hat längst begonnen. Bereit für den Start?",
+      "date": "Sun, 23 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-08-21T19:09:16.030067+00:00",
+  "fetchedAt": "2026-08-22T16:44:41.079694+00:00",
   "items": [
     {
       "title": "A field guide to seeing through false expertise",
@@ -100,9 +100,9 @@
       }
     },
     {
-      "title": "Terance Tao: Understanding 6 essential mathematical concepts",
+      "title": "Terence Tao: Understanding 6 essential mathematical concepts",
       "url": "https://bigthink.com/series/full-interview/6-essential-mathematical-concepts/",
-      "description": "Terence Tao has spent decades solving problems most people can’t even state, and he says he’s never had a single eureka moment. In this conversation, the UCLA mathematician and Fields Medalist breaks math down to six essential ideas: numbers, algebra, geometry, probability, analysis, and dynamics. \n \n This video  Terance Tao: Understanding 6 essential mathematical concepts  is featured on  Big Think .",
+      "description": "Terence Tao has spent decades solving problems most people can’t even state, and he says he’s never had a single eureka moment. In this conversation, the UCLA mathematician and Fields Medalist breaks math down to six essential ideas: numbers, algebra, geometry, probability, analysis, and dynamics. \n \n This video  Terence Tao: Understanding 6 essential mathematical concepts  is featured on  Big Think .",
       "date": "Fri, 21 Aug 2026",
       "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Screenshot-2026-08-20-at-11.32.12-AM.png?quality=80&w=640",
       "videoId": "",
@@ -113,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "The outsized power of a great short story",
+      "url": "https://bigthink.com/books/power-of-the-short-story/",
+      "description": "In ninth grade, Ms. Hayes, my enthusiastic, whip-smart English teacher with expectations to match, handed out an unassuming packet a few pages long: “ The Lottery ” by Shirley Jackson. We read the short story aloud, one student picking up where the last left off, all of us relieved by the simple language and unconvoluted plot. Normally, she handed out a sonnet or free-verse poem that most of us couldn’t understand, let alone analyze its deeper meaning. \n The story began innocuously: Residents of",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/power-of-the-short-story.gif?w=640",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -145,22 +161,6 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 8
-      }
-    },
-    {
-      "title": "Cosmic birefringence: the signal that could upend cosmology",
-      "url": "https://bigthink.com/starts-with-a-bang/cosmic-birefringence-signal-cosmology/",
-      "description": "One of the most enduring principles in the entire Universe is the cosmological principle: an outgrowth of the Copernican revolution. Copernicus, nearly 500 years ago now, hypothesized that the Earth occupied no special place in the Universe when he put forth the heliocentric picture, instead recognizing that Earth might be just an ordinary planet like all the others: revolving around the Sun. We’ve since expanded our view of the Universe substantially, and with it, our view of the cosmological p",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/researchers-uncover-cl.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

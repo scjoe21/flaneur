@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-08-21T19:09:13.473163+00:00",
+  "fetchedAt": "2026-08-22T16:44:39.053341+00:00",
   "items": [
+    {
+      "title": "Lani Watson on the Power of Questions",
+      "url": "https://philosophybites.libsyn.com/lani-watson-on-the-power-of-questions",
+      "description": "What is a question? It seems obvious, but perhaps it isn't. Lani Watson has just published a book on the topic. She thinks that true questions can be identified by their function, not by their form. She explains what she means by this and why questions matter so much in philosophy and elsehwere.",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 39
+      }
+    },
     {
       "title": "Monima Chadha on Responsibility Without Selves",
       "url": "https://philosophybites.libsyn.com/monima-chadha-on-responsibility-without-selves",
@@ -112,22 +128,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "David Edmonds on Peter Singer's Shallow Pond Thought Experiment",
-      "url": "https://philosophybites.libsyn.com/david-edmonds-on-peter-singers-shallow-pond-thought-experiment",
-      "description": "In this interview of the Philosophy Bites podcast Nigel Warburton interviews David Edmonds about Peter Singer's famous thought experient about what you would do if you saw a child at risk of drowning in a shallow pond, and what the moral implications of that. David has recently published a book about this thought experiment called  Death in a Shallow Pond .",
-      "date": "Sun, 05 Oct 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },

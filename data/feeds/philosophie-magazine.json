@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-21T19:08:08.401156+00:00",
+  "fetchedAt": "2026-08-22T16:44:14.347050+00:00",
   "items": [
     {
       "title": "“Comment trouver les mots justes ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
@@ -17,6 +17,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Comment nous évoluons vers une sensibilité exacerbée… au risque de la fragilité",
+      "url": "https://www.philomag.com/articles/comment-nous-evoluons-vers-une-sensibilite-exacerbee-au-risque-de-la-fragilite",
+      "description": "",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Pourquoi vivons-nous dans des capsules ? Entretien avec Pascal Chabot",
+      "url": "https://www.philomag.com/articles/pourquoi-vivons-nous-dans-des-capsules-entretien-avec-pascal-chabot",
+      "description": "",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/durcissement-des-relations-internationales-le-retour-en-force-de-carl-schmitt",
       "description": "",
       "date": "Sun, 16 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Mon enfant, ce génie” : que répondre à ces parents agaçants ?",
-      "url": "https://www.philomag.com/articles/mon-enfant-ce-genie-que-repondre-ces-parents-agacants",
-      "description": "",
-      "date": "Sat, 15 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“O’Brother” des frères Coen : un pastiche homérique sinon rien !",
-      "url": "https://www.philomag.com/articles/obrother-des-freres-coen-un-pastiche-homerique-sinon-rien",
-      "description": "",
-      "date": "Sat, 15 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

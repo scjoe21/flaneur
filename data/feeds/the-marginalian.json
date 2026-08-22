@@ -1,12 +1,12 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-21T19:09:17.488314+00:00",
+  "fetchedAt": "2026-08-22T16:44:42.099710+00:00",
   "items": [
     {
       "title": "The Resilience of Uncertainty: How to Hold the Universe in You",
       "url": "https://www.themarginalian.org/2026/08/20/weeds-and-stars-lisa-rosenberg/",
-      "description": "The great mercy of life is that we can change, we can reroute, we can surprise ourselves. The great pitfall of prediction is that, mercifully, we are unpredictable. — “All things are so very uncertain, and that’s exactly what makes me feel reassured,” Tove Jansson wrote in one of our civilization’s great works of philosophy disguised as a children’s book. This is the paradox we live with: We crave certainty, only to discover over and over that it is a mirage, that the love of life is rooted in t",
+      "description": "“All things are so very uncertain, and that’s exactly what makes me feel reassured,” Tove Jansson wrote in one of our civilization’s great works of philosophy disguised as a children’s book. This is the paradox we live with: We crave certainty, only to discover over and over that it is a mirage, that the love of life is rooted in the courage of uncertainty — because certainty doesn’t allow for surprise, but everything we know of life is the product of the wildest bet that prevailed against the o",
       "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -33,22 +33,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 44
-      }
-    },
-    {
-      "title": "Nature’s Oldest Mandolin: The Poetic Science of How Cicadas Sing",
-      "url": "https://www.themarginalian.org/2026/08/17/cicadas/",
-      "description": "“The use of music,” Richard Powers wrote, “is to remind us how short a time we have a body” — a truth nowhere more bittersweet than in the creature whose body is the oldest unchanged musical instrument on Earth: a tiny mandolin silent for most of its existence, then sonorous with a fleeting symphony of life before the final silence. Each summer, cicadas arrive by the billions with their strange red eyes, their mysterious prime-shaped periodic cycles, and their haunting nocturnal emergence, sudde",
-      "date": "Mon, 17 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 38,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 38
       }
     },
     {
@@ -116,6 +100,38 @@
       }
     },
     {
+      "title": "The Loveliness of Letting Go: An Illustrated Ode to Life’s Lasts",
+      "url": "https://www.themarginalian.org/2026/08/21/odds-and-ends-maija-hurme/",
+      "description": "The great cruelty of life, and also its great mercy, is that only hindsight ever knows each last — the last time your lover put their hand on the small of your back, the last sip of the last cup at your favorite coffee shop before it vanished overnight, the last living note of your mother’s voice. Bittersweet or downright devastating, lasts are the currency of loss with which we pay the price for loving. They are the necessary losses that make us who we are, our training ground for mastering the",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 23,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 23
+      }
+    },
+    {
+      "title": "How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living",
+      "url": "https://www.themarginalian.org/2026/08/21/anais-nin-d-h-lawrence/",
+      "description": "\"Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death.\"",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "The Bird in the Heart: Terry Tempest Williams on the Paradox of Transformation and How to Live with Uncertainty",
       "url": "https://www.themarginalian.org/2026/08/18/when-women-were-birds/",
       "description": "\"We can change, evolve, and transform our own conditioning. We can choose to move like water rather than be molded like clay.\"",
@@ -128,22 +144,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Wholeness and the Implicate Order: Physicist David Bohm on Bridging Consciousness and Reality",
-      "url": "https://www.themarginalian.org/2026/08/17/wholeness-and-the-implicate-order-david-bohm/",
-      "description": "How to \"include everything coherently and harmoniously in an overall whole that is undivided, unbroken, and without a border.\"",
-      "date": "Mon, 17 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
@@ -212,19 +212,19 @@
       }
     },
     {
-      "title": "The Art of Looking: Eleven Ways of Viewing the Multiple Realities of Our Everyday Wonderland",
-      "url": "https://www.themarginalian.org/2026/08/16/on-looking-eleven-walks-with-expert-eyes/",
-      "description": "\"Right now, you are missing the vast majority of what is happening around you. You are missing the events unfolding in your body, in the distance, and right in front of you.\"",
-      "date": "Sun, 16 Aug 2026",
+      "title": "The Other Significant Others: Living and Loving Outside the Confines of Conventional Friendship and Compulsory Coupledom",
+      "url": "https://www.themarginalian.org/2026/08/21/the-other-significant-others/",
+      "description": "\"While we weaken friendships by expecting too little of them, we undermine romantic relationships by expecting too much of them.\"",
+      "date": "Fri, 21 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     },
     {
