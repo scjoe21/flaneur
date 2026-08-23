@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-22T16:44:16.548766+00:00",
+  "fetchedAt": "2026-08-23T17:32:08.351985+00:00",
   "items": [
     {
       "title": "Politische Philosophie - Vom Empfinden zum politischen Handeln",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "Geschlechterrollen - Was tun gegen toxische Männlichkeit?",
-      "url": "https://www.deutschlandfunkkultur.de/das-comeback-der-starken-maenner-was-tun-gegen-toxische-maennlichlichkeit-100.html",
-      "description": "Die starken Männer sind zurück. Ob als lästige Start-Up-Gründer auf YouTube oder als dringend gesuchte Soldaten. Sie geben sich hart, dominant und überlegen. Wie kann dieses Revival erklärt werden? Und wo bleibt die Gegenoffensive der „neuen“ Männer? Miller, Simone; Villa, Paula; Theunert, Markus www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 05 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Narrative Therapie - Satz für Satz den Kreislauf des Traumas durchbrechen",
       "url": "https://www.deutschlandfunkkultur.de/psychische-gesundheit-trauma-ist-das-neue-cholesterin-100.html",
       "description": "Trauma ist zu einem Schlüsselwort unserer Zeit geworden. Zu Recht, meint Maggie Schauer, denn psychische wie körperliche Auswirkungen von Gewalt prägen ganze Gesellschaften. Die Psychologin erklärt, wie Erzählen bei der Heilung helfen kann. Schauer, Maggie; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
@@ -113,22 +97,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 15
-      }
-    },
-    {
-      "title": "Kommentar zur Namensrechtsreform - Patriarchaler Zwang zum Namen des Ehemannes fällt weg",
-      "url": "https://www.deutschlandfunkkultur.de/namensrecht-reform-ehefrau-gleichberechtigt-identitaet-kommentar-100.html",
-      "description": "Am 1. Juli 1976 trat in Westdeutschland ein neues Namensrecht in Kraft: Seither müssen Ehefrauen nicht mehr automatisch den Namen ihres Mannes annehmen. Eine kleine bürokratische Anpassung - aber mit sehr hohem Symbolgehalt. Von David Lauer www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 28 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {
@@ -177,6 +145,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Lebenszeiten 4: Lebensabend – Zwischen Leiden und Loslassen",
+      "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-4-lebensabend-zwischen-leiden-und-loslassen-100.html",
+      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 23 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ultra-Running - Von der Fitness zum Extremsport",
+      "url": "https://www.deutschlandfunkkultur.de/von-der-fitness-zum-extremsport-der-luxus-des-ultra-runnings-100.html",
+      "description": "Vom Marathon zum Ultra-Running: auch im Breitensport gibt es einen Trend zu immer extremeren Leistungen. Was treibt die modernen Selbstoptimierer hier an? Nachdenkliches zum Sport mit dem Philosophen Björn Vedder. Newmark, Catherine; Vedder, Björn www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 23 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

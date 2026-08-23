@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-22T16:44:14.347050+00:00",
+  "fetchedAt": "2026-08-23T17:32:06.396960+00:00",
   "items": [
     {
       "title": "“Comment trouver les mots justes ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "“La Peur de la liberté”, un guide pour résister à l’autoritarisme",
+      "url": "https://www.philomag.com/articles/la-peur-de-la-liberte-un-guide-pour-resister-lautoritarisme",
+      "description": "",
+      "date": "Sun, 23 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "“Tableaux des petites et grandes choses de l’existence”, de José Ortega y Gasset : métaphysique d’un dandy",
       "url": "https://www.philomag.com/articles/tableaux-des-petites-et-grandes-choses-de-lexistence-de-jose-ortega-y-gasset",
       "description": "",
@@ -81,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "“Fjord”, de Cristian Mungiu : une Palme d’or entre frictions et vérité",
+      "url": "https://www.philomag.com/articles/fjord-de-cristian-mungiu-une-palme-dor-entre-frictions-et-verite",
+      "description": "",
+      "date": "Sun, 23 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -129,22 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "“Le Petit Homme dans ma tête qui m'empêcha de m’y mettre”, d’Olivier Haralambon : desserrer l’étau du labeur !",
-      "url": "https://www.philomag.com/articles/le-petit-homme-dans-ma-tete-qui-mempecha-de-my-mettre-dolivier-haralambon-desserrer",
-      "description": "",
-      "date": "Sun, 16 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/balance-tes-porcs-quand-la-romanciere-madeline-miller-fait-de-circe-une-icone-feministe",
       "description": "",
       "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Durcissement des relations internationales : le retour en force de Carl Schmitt",
-      "url": "https://www.philomag.com/articles/durcissement-des-relations-internationales-le-retour-en-force-de-carl-schmitt",
-      "description": "",
-      "date": "Sun, 16 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

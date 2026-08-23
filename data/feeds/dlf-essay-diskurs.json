@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-08-22T16:44:45.391498+00:00",
+  "fetchedAt": "2026-08-23T17:33:19.360473+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Im Reinen sein - Gefiltertes Leben: Wie viel Gutes ist zu viel?",
+      "url": "https://www.deutschlandfunk.de/gefiltertes-leben-wie-viel-gutes-ist-zu-viel-100.html",
+      "description": "Je dicker die Luft, desto mehr filtern wir. Doch je mehr wir filtern, desto dünnhäutiger werden wir. Sind die Filter der Neuzeit die Lösung unserer Probleme? Oder verlieren wir durch ein möglichst störungsfreies Dasein die Fähigkeit zum Überleben? Von Liv Apollonia Scharbatke www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 23 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "Erzählen gegen den Untergang - Scheherazades Kunst und die Kraft der Fiktionen in Zeiten der Bedrohung",
       "url": "https://www.deutschlandfunk.de/erzaehlen-gegen-den-untergang-100.html",
       "description": "Wie hilft Erzählen in autoritären Zeiten, in Gewaltszenarien und Multikrisen? Von Scheherazade bis heute erweisen sich Fiktionen als Überlebensstrategie: Sie verwandelt Ohnmacht in Handlung und Chaos in Sinn. Von Samira El Ouassil www.deutschlandfunk.de, Essay und Diskurs",
@@ -94,22 +110,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Leben in Multikrisen - Konjunktur eines Gefühls: Angst made in Germany",
-      "url": "https://www.deutschlandfunk.de/angst-made-in-germany-die-konjunktur-eines-ungeliebten-gefuehls-100.html",
-      "description": "Kriege vor der Haustür, steigende Preise, stagnierende Wirtschaft, von den Klimawandelfolgen ganz zu schweigen – wir blicken in eine unsichere Zukunft. Wo Krisen sich überlagern, entsteht das vielleicht unbeliebteste Gefühl: Angst. Von Charlie Stein www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 17 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25

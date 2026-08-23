@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-22T16:45:00.651410+00:00",
+  "fetchedAt": "2026-08-23T17:33:41.939873+00:00",
   "items": [
     {
       "title": "最新デスクガジェットおすすめ16選：WIRED SHOPPING GUIDE",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "マクドナルドはわたしのデータを集めている。通わなくなる可能性は「ゼロ」だった",
+      "url": "https://wired.jp/article/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
+      "description": "I requested a copy of my data from McDonald’s loyalty program and received an extensive, personalized report that algorithmically predicts my next purchase.",
+      "date": "Sun, 23 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -84,19 +100,35 @@
       }
     },
     {
-      "title": "アップルは2030年の「カーボンニュートラル」を、こうして達成する",
-      "url": "https://wired.jp/article/apple-2030-carbon-neutral-supply-chain-interview/",
-      "description": "環境負荷を抑えるべく、さまざまな取り組みを明らかにしてきたアップル。サプライチェーン全体の「カーボンニュートラル」を、いかにして2030年に達成するのか。その“本気度”をアップルの幹部が語った。",
-      "date": "Tue, 18 Aug 2026",
+      "title": "宇宙飛行士が経験する眼の異変。ESAが挑む“宇宙の眼科検査”",
+      "url": "https://wired.jp/article/space-agencies-trying-stop-astronauts-losing-sight/",
+      "description": "宇宙での長期滞在では、宇宙飛行士の視力が低下するリスクが高まる。欧州宇宙機関（ESA）は、英スタートアップSilotonが開発する自宅向けの眼底検査技術を応用し、変化の解明や早期発見、予防につなげようとしている。",
+      "date": "Sat, 22 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "世界初の「AIアート美術館」が変える人間と芸術の“生態系”",
+      "url": "https://wired.jp/article/sz-a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
+      "description": "アーティストのレフィク・アナドルがロサンゼルスに共同設立した体験型ギャラリー「Dataland」は、ウェアラブル端末とアマゾンの熱帯雨林で集めた膨大な素材を用いて、自然、生体情報、そして芸術を融合させる。",
+      "date": "Sat, 22 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -199,38 +231,6 @@
       "title": "Geminiが自律歩行ヒューマノイドになる日",
       "url": "https://wired.jp/article/sz-google-gemini-can-control-humanoid-robots/",
       "description": "「フィジカルAGI」に向けて大きな飛躍を遂げたGoogle DeepMindの最新版AIモデル。だがAIを現実世界に投入することには、リスクも伴う。",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "初期宇宙に散らばる“赤い点”の正体は、新種の天体「ブラックホール星」か",
-      "url": "https://wired.jp/article/mom-bh1-black-hole-star-jwst-early-universe/",
-      "description": "ビッグバンから数億年後の初期宇宙に、恒星のように見えながら既知のどの恒星より1,000億倍も明るい天体が見つかった。無数の「リトル・レッド・ドット」の正体を解く鍵になるかもしれないという。",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AIが次に変えるのは、ファストフードの「声」",
-      "url": "https://wired.jp/article/ai-conquered-coding-fast-food-is-next/",
-      "description": "米国では、ドライブスルーでの注文受付を自動化する音声認識AIアシスタントの導入が進んでいる。AIが注文を受けているとは気づかないまま、商品を勧められる日も近いかもしれない。",
       "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",

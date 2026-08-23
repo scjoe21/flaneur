@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-22T16:44:47.465103+00:00",
+  "fetchedAt": "2026-08-23T17:33:27.541032+00:00",
   "items": [
     {
       "title": "Der Kuss – Warum es ihn gibt",
@@ -116,19 +116,19 @@
       }
     },
     {
-      "title": "Tierschutz im Reitsport – Was Pferde leisten und wann sie leiden",
-      "url": "https://www.swr.de/swrkultur/wissen/tierschutz-im-reitsport-was-pferde-leisten-und-wann-sie-leiden-100.html",
-      "description": "Am 11. August 2026 startet in Aachen die Reit-WM. Nach einer Regellockerung wird über das Tierwohl im Pferdesport diskutiert: Wie viel Leistungsdruck darf sein?",
-      "date": "Mon, 10 Aug 2026",
+      "title": "Made in Germany – Exportweltmeister unter Druck",
+      "url": "https://www.swr.de/swrkultur/wissen/made-in-germany-exportweltmeister-unter-druck-100.html",
+      "description": "Deutschland galt lange als Exportweltmeister. Doch die Abhängigkeit von den Märkten in China und den USA ist riskant. Woher kommt unsere Vorliebe fürs Exportmodell?",
+      "date": "Mon, 24 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
