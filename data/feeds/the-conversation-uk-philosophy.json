@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-08-23T17:33:28.365132+00:00",
+  "fetchedAt": "2026-08-28T15:51:50.732133+00:00",
   "items": [
     {
       "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "How a ‘psychic’ horse named Clever Hans changed the way we do science",
+      "url": "https://theconversation.com/how-a-psychic-horse-named-clever-hans-changed-the-way-we-do-science-288745",
+      "description": "",
+      "date": "2026-08-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -116,22 +132,6 @@
       }
     },
     {
-      "title": "As an American, should you feel guilty about rooting against the US in the World Cup?",
-      "url": "https://theconversation.com/as-an-american-should-you-feel-guilty-about-rooting-against-the-us-in-the-world-cup-279719",
-      "description": "",
-      "date": "2026-06-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "What do human relationships with chatbots say about friendship? A philosopher considers",
       "url": "https://theconversation.com/what-do-human-relationships-with-chatbots-say-about-friendship-a-philosopher-considers-284188",
       "description": "",
@@ -180,35 +180,35 @@
       }
     },
     {
-      "title": "People are using AI to communicate without disclosing it. Is this morally wrong?",
-      "url": "https://theconversation.com/people-are-using-ai-to-communicate-without-disclosing-it-is-this-morally-wrong-283773",
+      "title": "Brain-reading wearables will soon be ordinary. What will this mean for the new generation of ‘neurotechnological natives’?",
+      "url": "https://theconversation.com/brain-reading-wearables-will-soon-be-ordinary-what-will-this-mean-for-the-new-generation-of-neurotechnological-natives-289923",
       "description": "",
-      "date": "2026-06-04",
+      "date": "2026-08-28",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "‘Poverty porn’: the moral dilemma behind MrBeast’s billion-dollar empire",
-      "url": "https://theconversation.com/poverty-porn-the-moral-dilemma-behind-mrbeasts-billion-dollar-empire-282050",
+      "title": "Star Trek at 60: the secret of this pioneering series was its exploration of humanity, not aliens",
+      "url": "https://theconversation.com/star-trek-at-60-the-secret-of-this-pioneering-series-was-its-exploration-of-humanity-not-aliens-290646",
       "description": "",
-      "date": "2026-05-12",
+      "date": "2026-08-27",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

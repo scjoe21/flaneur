@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-23T17:33:14.664946+00:00",
+  "fetchedAt": "2026-08-28T15:51:33.545090+00:00",
   "items": [
     {
       "title": "How to Lose a Trade War",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "Why Lindsay Clancy’s Insanity Defense Might Fail",
-      "url": "https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-murder-trial-insanity/688286/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -52,6 +36,38 @@
       }
     },
     {
+      "title": "Abdul El-Sayed’s Hasan Piker Problem",
+      "url": "https://www.theatlantic.com/ideas/2026/08/sayed-piker-israel-antisemitism/688448/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Jason Arday Truthers",
+      "url": "https://www.theatlantic.com/ideas/2026/08/jason-arday-innocence-racism/688408/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The Hatred That Broke American Politics",
       "url": "https://www.theatlantic.com/ideas/2026/08/charlottesville-antisemitism-race-legacy/688325/?utm_source=feed",
       "description": "",
@@ -68,74 +84,10 @@
       }
     },
     {
-      "title": "Liberal Families Are Looking Pretty Traditional",
-      "url": "https://www.theatlantic.com/ideas/2026/08/democrat-liberal-conservative-traditional-family/688369/?utm_source=feed",
+      "title": "The Sailors on the USS Abraham Lincoln Deserve Better",
+      "url": "https://www.theatlantic.com/ideas/2026/08/uss-abraham-lincoln-navy-ship/688423/?utm_source=feed",
       "description": "",
-      "date": "2026-08-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Alan Dershowitz Won’t Forget What Larry David Did to Him",
-      "url": "https://www.theatlantic.com/ideas/2026/08/alan-dershowitz-larry-david-vineyard/688293/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Islamophobia Has Corroded American Values",
-      "url": "https://www.theatlantic.com/ideas/2026/08/muslim-experience-islamaphobia-united-states/688277/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Even College Students Have Stopped Hanging Out",
-      "url": "https://www.theatlantic.com/ideas/2026/08/college-loneliness-socializing/688307/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "The ‘Resistance’ Won",
-      "url": "https://www.theatlantic.com/ideas/2026/08/resistance-10-was-not-crazy/688340/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-20",
+      "date": "2026-08-28",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +100,10 @@
       }
     },
     {
-      "title": "Donald Trump Effectively Just Told Iran to Get a Nuclear Weapon",
-      "url": "https://www.theatlantic.com/ideas/2026/08/trump-north-korean-iran-nuclear-weapons/688339/?utm_source=feed",
+      "title": "The Wrath of MAGA",
+      "url": "https://www.theatlantic.com/ideas/2026/08/ossoff-harp-trump-maga/688427/?utm_source=feed",
       "description": "",
-      "date": "2026-08-20",
+      "date": "2026-08-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +116,10 @@
       }
     },
     {
-      "title": "The ‘Resistance’ Is Over",
-      "url": "https://www.theatlantic.com/ideas/2026/08/democratic-primaries-left-dsa-trump/688327/?utm_source=feed",
+      "title": "The Supreme Court Isn’t Interested in Facts",
+      "url": "https://www.theatlantic.com/ideas/2026/08/supreme-court-mail-in-voting-decision/688428/?utm_source=feed",
       "description": "",
-      "date": "2026-08-19",
+      "date": "2026-08-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +132,10 @@
       }
     },
     {
-      "title": "The Case for Chilling Out About Birth Rates",
-      "url": "https://www.theatlantic.com/ideas/2026/08/birth-rate-panic-overblown/688320/?utm_source=feed",
+      "title": "Spencer Cox’s Crusade",
+      "url": "https://www.theatlantic.com/ideas/2026/08/spencer-cox-book-off-ramp/688419/?utm_source=feed",
       "description": "",
-      "date": "2026-08-19",
+      "date": "2026-08-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +148,10 @@
       }
     },
     {
-      "title": "Democrats Are Failing the Waymo Test",
-      "url": "https://www.theatlantic.com/ideas/2026/08/democrats-waymo-safety-jobs/688324/?utm_source=feed",
+      "title": "Data Centers Are a Distraction",
+      "url": "https://www.theatlantic.com/ideas/2026/08/ai-nonproliferation-usa-china/688421/?utm_source=feed",
       "description": "",
-      "date": "2026-08-19",
+      "date": "2026-08-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +164,10 @@
       }
     },
     {
-      "title": "Jason Arday’s Final Self-Delusion",
-      "url": "https://www.theatlantic.com/ideas/2026/08/jason-arday-death-lies-delusion/688311/?utm_source=feed",
+      "title": "Americans Are Spending Luxury Dollars for Dive-Bar Service",
+      "url": "https://www.theatlantic.com/ideas/2026/08/time-tax-administrative-bureaucracy/688322/?utm_source=feed",
       "description": "",
-      "date": "2026-08-18",
+      "date": "2026-08-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +180,58 @@
       }
     },
     {
-      "title": "What Trump Officials Mean by ‘Never’",
-      "url": "https://www.theatlantic.com/ideas/2026/08/todd-blanche-trump-power-abuse/688310/?utm_source=feed",
+      "title": "The Absolute Pleasure of Tim Curry",
+      "url": "https://www.theatlantic.com/ideas/2026/08/tim-curry-tribute/688422/?utm_source=feed",
       "description": "",
-      "date": "2026-08-17",
+      "date": "2026-08-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Most Beautiful Woman",
+      "url": "https://www.theatlantic.com/ideas/2026/08/dolly-parton-southern-influence/688414/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Jews Who Voted for Hitler",
+      "url": "https://www.theatlantic.com/magazine/2026/10/nationalist-german-jews-max-naumann-hitler/688343/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-25",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Gun Lobby’s Most Cynical Move Yet",
+      "url": "https://www.theatlantic.com/ideas/2026/08/school-shootings-campaign-spending-study/688377/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

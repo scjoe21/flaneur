@@ -1,7 +1,7 @@
 {
   "sourceId": "pursuit-of-wonder",
   "sourceName": "Pursuit of Wonder",
-  "fetchedAt": "2026-08-23T17:33:16.351633+00:00",
+  "fetchedAt": "2026-08-28T15:51:35.200805+00:00",
   "items": [
     {
       "title": "Creativity in the Age of Al Slop - Why I'm No Longer Working Anonymously",
@@ -33,22 +33,6 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 33
-      }
-    },
-    {
-      "title": "Abjection: The Scariest Existential Philosophy Theory You've Never Heard Of",
-      "url": "https://www.youtube.com/watch?v=AVpnloS-aWU",
-      "description": "Check out Shortform and get a free trial and $50 off at https://shortform.com/pursuit. Thank you to Shortform for sponsoring this video.\n\nIn this video, we explore three of the darkest-seeming philosophical concepts in history. These views are the apparent byproducts of what happens when we discover that we aren't who we think or hope we are—as a species and as individuals. What do we do (or what can we do) when we loathe the condition of our nature? \n\nPre-order my new book (out March 10, 2026):",
-      "date": "2026-01-28",
-      "thumbnail": "https://i2.ytimg.com/vi/AVpnloS-aWU/hqdefault.jpg",
-      "videoId": "AVpnloS-aWU",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -180,7 +164,7 @@
       }
     },
     {
-      "title": "What Most People Don't Understand About Evolution",
+      "title": "Something Weird Happens When You See How Connected Everything Is",
       "url": "https://www.youtube.com/watch?v=two4InjFSLs",
       "description": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code PURSUIT8 will get the first month paid for by me: https://planetwild.com/r/pursuitofwonder/join\nIf you want to get to know them better first, check out their Lake Victoria mission: https://planetwild.com/r/pursuitofwonder/m39\n\nIn this video, we explore how a simple toaster can reveal how interconnected and absurd modern civilization truly is. How have we arrived at",
       "date": "2026-08-12",
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "This AI Minecraft Simulation Is Terrifying Scientists",
+      "url": "https://www.youtube.com/watch?v=u7U6nIsJrHM",
+      "description": "My free newsletter here: https://pursuitofwonder.ck.page/newsletter\nMy second YouTube channel: https://www.youtube.com/@UCKJo_KPj6J4XM8DhN6VIq6Q \n\nCheck out the Center for AI Safety here: https://safe.ai/\n\nInstagram: https://www.instagram.com/pursuitofwonder\nFacebook: https://www.facebook.com/PursuitOfWonder\n\nIn this video, we look into one of the strangest and most unsettling research projects on AI. What happens when you trap 1,000 AI agents in a Minecraft server? The scientists at Altera want",
+      "date": "2026-08-26",
+      "thumbnail": "https://i2.ytimg.com/vi/u7U6nIsJrHM/hqdefault.jpg",
+      "videoId": "u7U6nIsJrHM",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
       }
     },
     {

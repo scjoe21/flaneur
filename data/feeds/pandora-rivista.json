@@ -1,7 +1,7 @@
 {
   "sourceId": "pandora-rivista",
   "sourceName": "Pandora Rivista",
-  "fetchedAt": "2026-08-23T17:33:27.741224+00:00",
+  "fetchedAt": "2026-08-28T15:51:50.000056+00:00",
   "items": [
     {
       "title": "Mario De Caro - La Superintelligenza artificiale è possibile?",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Lucio Caracciolo - Medioceania, il nome segreto dell'Italia",
+      "url": "https://www.youtube.com/watch?v=WJ25pVOzc00",
+      "description": "In questo video Lucio Caracciolo interviene alla prima edizione del Festival “Atlanti del Presente\", che si è svolta a Ravenna dal 24 al 26 luglio 2026.\n\nIl Festival è promosso da Pandora Rivista e Fondazione Casa di Oriani, in collaborazione con il Comune di Ravenna, la Regione Emilia-Romagna, la Fondazione del Monte di Bologna e Ravenna e Curti.\n\nPer abbonarsi alla rivista: https://www.pandorarivista.it/abbonati/",
+      "date": "2026-08-27",
+      "thumbnail": "https://i4.ytimg.com/vi/WJ25pVOzc00/hqdefault.jpg",
+      "videoId": "WJ25pVOzc00",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-04-18",
       "thumbnail": "https://i2.ytimg.com/vi/YPJZ2_jNOx8/hqdefault.jpg",
       "videoId": "YPJZ2_jNOx8",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Luca Misculin e Alessandro Vanoli - Mare aperto",
-      "url": "https://www.youtube.com/watch?v=0W15n9OsnDk",
-      "description": "Luca Misculin e Alessandro Vanoli - Mare aperto\n\nL'incontro si è svolto sabato 26 aprile 2025 al Chiostro del Carmine di Lugo nell’ambito del Festival Fratture, a partire dal libro “Mare aperto. Storia umana del Mediterraneo centrale” di Luca Misculin (Einaudi).\n\nPer abbonarsi alla rivista: https://www.pandorarivista.it/abbonati/",
-      "date": "2026-04-17",
-      "thumbnail": "https://i1.ytimg.com/vi/0W15n9OsnDk/hqdefault.jpg",
-      "videoId": "0W15n9OsnDk",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

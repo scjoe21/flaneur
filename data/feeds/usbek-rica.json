@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-08-23T17:32:06.596048+00:00",
+  "fetchedAt": "2026-08-28T15:50:13.025338+00:00",
   "items": [
     {
       "title": "Peter Thiel ou le (més)usage de la philosophie",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "L’amitié est-elle le meilleur remède à la solitude ?",
+      "url": "https://usbeketrica.com/fr/article/l-amitie-est-elle-le-meilleur-remede-a-la-solitude",
+      "description": "Et si l’amitié devenait la pierre angulaire du vivre-ensemble ? Éclipsée au profit de la famille et du couple, elle gagnerait à être revalorisée socialement et financièrement. C’est en tout cas ce que défendent de plus en plus d’artistes, de chercheurs et d’intellectuels, qui y voient un remède à l’isolement social. Alors que le sujet s'impose dans l'actualité, nous republions en intégralité l'enquête initialement parue à l'automne 2025 dans les pages de notre magazine FUTUR.",
+      "date": "Thu, 27 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
       }
     },
     {
@@ -100,35 +116,19 @@
       }
     },
     {
-      "title": "L'IA va-t-elle refermer la révolution amoureuse ouverte par les applications de rencontre ?",
-      "url": "https://usbeketrica.com/fr/article/l-ia-va-t-elle-refermer-la-revolution-amoureuse-ouverte-par-les-applications-de-rencontre",
-      "description": "TRIBUNE // Les applications de rencontre ont élargi nos horizons amoureux. L'intelligence artificielle risque-t-elle, paradoxalement, de les rétrécir ? C'est l'interrogation que développe Martin Pavanello, CEO du cabinet de conseil Mister IA.",
-      "date": "Wed, 05 Aug 2026",
+      "title": "3 œuvres de science-fiction qui reflètent l’évolution de notre vision de l’avenir",
+      "url": "https://usbeketrica.com/fr/article/3-oeuvres-de-science-fiction-qui-refletent-l-evolution-de-notre-vision-de-l-avenir",
+      "description": "La science-fiction n’échappe pas aux pesanteurs historiques. Les visions de l’avenir qu’elle met en scène racontent autant son pouvoir de projection que son contexte de création. La preuve à travers trois livres essentiels, qui permettent de mieux cerner l’évolution de notre perception du futur au cours des dernières décennies.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Nos vies numériques en 1996 : quand le futur se résumait à AOL, Mario et l’USB",
-      "url": "https://usbeketrica.com/fr/article/internet-en-1996-quand-le-futur-se-resumait-a-aol-et-a-l-usb",
-      "description": "[SÉRIE D’ÉTÉ] Cet été, Usbek & Rica retourne dans le passé. Sites Internet, réseaux sociaux, jeux vidéo : on vous raconte ce qui fait le sel de nos vies numériques depuis trois décennies. Pour ce premier épisode, direction 1996.",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -150,7 +150,7 @@
     {
       "title": "« Il faudrait que l’IA nous pousse vers le monde réel, au lieu de s'y substituer »",
       "url": "https://usbeketrica.com/fr/article/il-faudrait-que-l-ia-nous-pousse-vers-le-monde-reel-au-lieu-de-s-y-substituer",
-      "description": "Plus les IA conversationnelles s’installent dans notre intimité, plus elles affaiblissent nos relations et notre santé mentale. Daniel Barcay en est convaincu, mais cet ancien ingénieur chez Google et ex-dirigeant du Center for Humane Technology n’y voit aucune fatalité : il est encore temps de penser une intelligence artificielle qui renforcent nos liens, et reste à sa place de machine. De passage à Paris, on l’a rencontré.",
+      "description": "Plus les IA conversationnelles s’installent dans notre intimité, plus elles affaiblissent nos relations et notre santé mentale. Daniel Barcay en est convaincu, mais cet ancien ingénieur chez Google et ex-dirigeant du Center for Humane Technology n’y voit aucune fatalité : il est encore temps de penser une intelligence artificielle qui renforce nos liens, et reste à sa place de machine. De passage à Paris, on l’a rencontré.",
       "date": "Fri, 21 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -196,26 +196,10 @@
       }
     },
     {
-      "title": "Aux Philippines, une armée d'infirmiers surveille des patients d'hôpitaux américains à distance",
-      "url": "https://usbeketrica.com/fr/article/aux-philippines-une-armee-d-infirmiers-virtuels-surveille-des-patients-americains-a-distance",
-      "description": "Pour faire face à un déficit d’infirmiers, une partie croissante d'hôpitaux américains délègue la surveillance de ses patients et certaines tâches administratives à des travailleurs basés aux Philippines, raconte le média Rest of World. Payés cinq à neuf fois moins que leurs homologues américains, ces « assistants de soins virtuels » aggravent la pénurie de personnel soignant dans leur propre pays.",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "10 chiffres clés sur l’électrification de l'industrie",
-      "url": "https://usbeketrica.com/fr/article/10-chiffres-cles-sur-l-electrification-de-l-industrie",
-      "description": "L’électrification des usages industriels est un levier indispensable pour atteindre les objectifs de transition écologique, alors que la France vise la neutralité carbone pour 2050. Où en est-on aujourd’hui ? La réponse au travers de 10 chiffres pour explorer les perspectives, les contraintes et les opportunités de l’électrification.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Un tiers des pages web publiées depuis le lancement de ChatGPT ont été écrites avec l'aide de I'IA",
+      "url": "https://usbeketrica.com/fr/article/un-tiers-des-pages-web-publiees-depuis-le-lancement-de-chatgpt-ont-ete-ecrites-par-ia",
+      "description": "Depuis le lancement de ChatGPT fin 2022, les contenus générés par IA ont gagné du terrain sur le Web. À rebours des estimations les plus alarmistes, une nouvelle analyse du centre de statistiques américain Pew Research permet, pour la première fois, d'en mesure l’ampleur, tout en nuance. Voici cinq chiffres-clés à retenir de cette étude.",
+      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +212,26 @@
       }
     },
     {
-      "title": "Et si l’on avait délaissé le nucléaire pour la « bombe temporelle » ?",
-      "url": "https://usbeketrica.com/fr/article/et-si-l-on-avait-delaisse-le-nucleaire-pour-la-bombe-temporelle",
-      "description": "En 1946, après les attaques de Nagasaki et Hiroshima, les États-Unis ont proposé de transférer progressivement la possession de l’arme nucléaire aux Nations unies pour en limiter la prolifération. Un plan rejeté par l’Union soviétique. Et si les deux blocs s’étaient finalement entendus ? Et si l’abandon du nucléaire militaire avait poussé les nations à chercher un autre avantage stratégique : la maîtrise du temps ? C’est l’hypothèse creusée dans cette uchronie, publiée initialement dans les page",
-      "date": "Sun, 02 Aug 2026",
+      "title": "« L’inconnue », un thriller fantastique aussi sublime que tourmenté",
+      "url": "https://usbeketrica.com/fr/article/l-inconnue-un-thriller-fantastique-aussi-sublime-que-tourmente",
+      "description": "En adaptant au cinéma la BD qu’il avait co-signée avec son frère Lucas en 2024 (Le cas David Zimmermann, éditions Sarbacane), le cinéaste Arthur Harari explore une réalité déréglée, où des personnages échangent, malgré eux, leur corps avec d’autres. En salles ce mercredi 26 août.",
+      "date": "Tue, 25 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "IA, parentalité, simulation du réel… Trois podcasts à écouter avant la rentrée",
+      "url": "https://usbeketrica.com/fr/article/ia-parentalite-simulation-du-reel-trois-podcasts-a-ecouter-avant-la-rentree",
+      "description": "Après sa sélection estivale de romans, BD et mangas, la rédaction d’Usbek & Rica vous présente ses podcasts préférés du moment. Au programme : des entretiens pour tout comprendre sur l’IA, une enquête sur la difficulté d’être à la fois un bon parent et un bon ami, et l’exploration d’une hypothèse vertigineuse digne du film Matrix.",
+      "date": "Mon, 24 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

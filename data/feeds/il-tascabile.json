@@ -1,8 +1,24 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-08-23T17:32:14.478744+00:00",
+  "fetchedAt": "2026-08-28T15:50:20.620744+00:00",
   "items": [
+    {
+      "title": "Un allarmante fetore di plastica",
+      "url": "https://www.iltascabile.com/societa/allarmante-fetore-plastica/",
+      "description": "Anatomia del gadget: come il mercato neutralizza i simboli di lotta riducendo l’appartenenza politica a semplice consumo. \n L'articolo  Un allarmante fetore di plastica  proviene da  Il Tascabile .",
+      "date": "Tue, 25 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
     {
       "title": "La rivincita del piccione",
       "url": "https://www.iltascabile.com/scienze/rivincita-piccione/",
@@ -36,26 +52,10 @@
       }
     },
     {
-      "title": "Sacro o sacrificabile",
-      "url": "https://www.iltascabile.com/scienze/sacro-sacrificabile/",
-      "description": "Trattiamo i nostri territori come opera d’arte intoccabile e come materia da sfruttare. Riconoscere questo doppio sguardo, al di là di ogni questione estetica, permette di capire chi vince e chi perde nella transizione energetica. \n L'articolo  Sacro o sacrificabile  proviene da  Il Tascabile .",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Un gruista in paradiso spiega l’essenza del Cristianesimo",
-      "url": "https://www.iltascabile.com/letterature/gruista-paradiso-essenza-cristianesimo/",
-      "description": "Il romanzo di Arto Paasilinna con ironia e leggerezza ripercorre la teoria filosofica di Ludwig Feuerbach e spiega perché l’epoca contemporanea è così sconvolta e affascinata dal sacro. \n L'articolo  Un gruista in paradiso spiega l’essenza del Cristianesimo  proviene da  Il Tascabile .",
-      "date": "Wed, 29 Jul 2026",
+      "title": "Scheherazade in carcere a Baabda",
+      "url": "https://www.iltascabile.com/linguaggi/scheherazade-carcere-baabda/",
+      "description": "La drammaterapia di Zeina Daccache ( Scheherazade’s Diary ) come manifesto contro l'indifferenza delle istituzioni totali italiane. \n L'articolo  Scheherazade in carcere a Baabda  proviene da  Il Tascabile .",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -68,10 +68,10 @@
       }
     },
     {
-      "title": "Il concorso di Venezia è un affare da uomini",
-      "url": "https://www.iltascabile.com/linguaggi/concorso-venezia-affare-uomini/",
-      "description": "Tra un concorso “del presente” quasi solo maschile e classificazioni ancora binarie, perché contare le registe non basta più per capire il cinema di oggi. \n L'articolo  Il concorso di Venezia è un affare da uomini  proviene da  Il Tascabile .",
-      "date": "Thu, 30 Jul 2026",
+      "title": "Come sono, suona di Susan Rogers e Ogi Ogas",
+      "url": "https://www.iltascabile.com/recensioni/come-sono-suona-susan-rogers-ogi-ogas/",
+      "description": "L'articolo  Come sono, suona di Susan Rogers e Ogi Ogas  proviene da  Il Tascabile .",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Il corpo vivo del Sé digitale",
+      "url": "https://www.iltascabile.com/scienze/corpo-vivo-se-digitale/",
+      "description": "Che cosa accade al corpo quando l’esperienza del mondo passa sempre più spesso attraverso schermi, interfacce, e conversazioni con sistemi artificiali? Una riflessione attorno all’opera del neuroscienziato Vittorio Gallese. \n L'articolo  Il corpo vivo del Sé digitale  proviene da  Il Tascabile .",
+      "date": "Mon, 24 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -97,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Vivi al mondo",
+      "url": "https://www.iltascabile.com/letterature/vivi-mondo/",
+      "description": "Leggere Daniela Attanasio tra le onde dello Jonio e il ricordo di Amelia Rosselli. \n L'articolo  Vivi al mondo  proviene da  Il Tascabile .",
+      "date": "Wed, 26 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/societa/mediterraneo/",
       "description": "Un percorso tra letture per chiedersi, al di là delle cartoline e degli hashtag #vitalenta, cosa resta della complessità territoriale di questa regione, tra migrazioni e turistificazione dei territori costieri. \n L'articolo  Mediterraneo  proviene da  Il Tascabile .",
       "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Un pubblico meraviglioso di Andrea Lai",
-      "url": "https://www.iltascabile.com/recensioni/pubblico-meraviglioso-andrea-lai/",
-      "description": "L'articolo  Un pubblico meraviglioso di Andrea Lai  proviene da  Il Tascabile .",
-      "date": "Fri, 31 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "I dubbi sul biocarburante del Kenya",
-      "url": "https://www.iltascabile.com/societa/dubbi-biocarburante-kenya/",
-      "description": "Si sommano inchieste e domande critiche sulla filiera dell’agri- feedstock  di Eni nel Piano Mattei. \n L'articolo  I dubbi sul biocarburante del Kenya  proviene da  Il Tascabile .",
-      "date": "Tue, 28 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

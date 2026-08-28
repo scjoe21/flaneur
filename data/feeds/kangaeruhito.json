@@ -1,8 +1,24 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-08-23T17:33:31.651290+00:00",
+  "fetchedAt": "2026-08-28T15:51:54.094254+00:00",
   "items": [
+    {
+      "title": "第1回　天皇への“ねじれ”",
+      "url": "https://kangaeruhito.jp/interview/764224",
+      "description": "「ややこしい世界へようこそ」 中島　國分さんの新刊『天皇への敗北　シリーズ哲学講話』をとても興味深く拝読しました。そこで論じている分野は、哲学の研究者である國分さんの専門ではなく、むしろ近代日本の思想や政治を専門とする私 […]",
+      "date": "Tue, 25 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
     {
       "title": "第２回　戦争のリアルはどこにあるのか：銀幕、YouTube、ドローン",
       "url": "https://kangaeruhito.jp/article/764209",
@@ -36,22 +52,6 @@
       }
     },
     {
-      "title": "13．感覚に言葉を接地させる",
-      "url": "https://kangaeruhito.jp/article/764160",
-      "description": "ジャーナリングを支援するＷｅｂサービス「Oryzae（オリゼー）」の設計について書いた前回の終わりに、わたしは「移動」の比喩を持ち出した。世界を上空から俯瞰して地図として把握することと、その地形のただなかを一歩ずつ歩く […]",
-      "date": "Thu, 23 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "4．ミソフォニア――周囲の音が気になる",
       "url": "https://kangaeruhito.jp/article/764218",
       "description": "音嫌悪症 　夕食の席で、向かいに座る家族がスープをすすっています。ごく当たり前の光景です。ところが、あなたの脳はそうは受け取りません。その「ズズッ」という音が耳に入った瞬間、心臓が激しく鼓動し、全身の筋肉がこわばり、抑え […]",
@@ -81,6 +81,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "第25回（2026年度）小林秀雄賞 受賞作決定のお知らせ",
+      "url": "https://kangaeruhito.jp/article/764261",
+      "description": "2026年8月27日午後、一般財団法人 新潮文芸振興会と新潮社の主催による「小林秀雄賞」「新潮ドキュメント賞」選考会がオークラ東京にて行なわれ、受賞作品が決定しましたので、ここにお知らせいたします（新潮ドキュメント賞に […]",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "第10回　1965年の北島三郎　（4）「兄弟仁義」と任侠映画",
+      "url": "https://kangaeruhito.jp/article/764236",
+      "description": "任侠映画の象徴として 「帰ろかな」が「最後の望郷歌謡」にしてNHKとの密接な関係の始まりを画する曲で、「函館の女」が「ご当地ソング」の雛形となる大ヒット曲だったとすれば、「兄弟仁義」は、サブちゃんの任侠路線の決定版である […]",
+      "date": "Thu, 27 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://kangaeruhito.jp/article/764163",
       "description": "「〇〇の女」――「ご当地ソング」の先駆け 　昭和30年代最後の月にNHKテレビ「夢であいましょう」で放送された「帰ろかな」が、この時代を席巻した「望郷歌謡」の最後だったといえるとすれば、「函館の女(ひと)」は、昭和40年 […]",
       "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "義母の「助けて」が離れない",
-      "url": "https://kangaeruhito.jp/article/764178",
-      "description": "先日、義母に受診が必要になり、付き添ってきた。ものすごく大変だったので（受診後二日ぐらい使い物にならなかった）、可能な範囲で報告したい。 　ここ数か月、義母は婦人科系のトラブルで通院している。プライバシーもあるので、詳 […]",
-      "date": "Mon, 27 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "12．見世物小屋の奇人",
-      "url": "https://kangaeruhito.jp/article/764169",
-      "description": "世界最古の屋内劇場 　世界最古の屋内劇場とされるテアトロ・オリンピコは、今でこそ世界遺産に登録されて知名度も上がったが、私がフレッド・パイに初めて連れて行かれた1984年は、夏休みの最中であるにもかかわらず観光客の姿もま […]",
-      "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

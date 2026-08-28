@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-08-23T17:32:13.034054+00:00",
+  "fetchedAt": "2026-08-28T15:50:19.333085+00:00",
   "items": [
     {
       "title": "Festival del Pensare Contemporaneo 2025 | LA NOSTRA IMPERFEZIONE NEL MONDO",
@@ -132,19 +132,19 @@
       }
     },
     {
-      "title": "Festival del Pensare Contemporaneo 2025 | VITE SVELATE. ESPORSI / SCOPRIRSI",
-      "url": "https://www.youtube.com/watch?v=6It_mYTPiF8",
-      "description": "Il Festival si apre con una serata in cui musica e filosofia si fondono per dare voce alle vite svelate.\n\nSul palco di Piazza Cavalli si alternano artisti capaci di raccontare il presente con suoni e parole intense. Anna Castiglia mescola ironia e malinconia in brani che parlano di vulnerabilità quotidiane; Emma Nolde trasforma rabbia e delicatezza in canzoni che scavano nell’animo; Francesco Bianconi, anima dei Baustelle, porta il suo sguardo poetico e disincantato sul vivere contemporaneo; Giu",
-      "date": "2025-09-11",
-      "thumbnail": "https://i3.ytimg.com/vi/6It_mYTPiF8/hqdefault.jpg",
-      "videoId": "6It_mYTPiF8",
-      "priority": 15,
+      "title": "Tlonletter #1 Possiamo davvero fregarcene del giudizio degli altri?",
+      "url": "https://www.youtube.com/watch?v=fGZoFM74xss",
+      "description": "Essere cringe, sentirsi osservati, avere bisogno dello sguardo altrui. E scoprire che una comunità può darci un posto e, nello stesso momento, impedirci di diventare altro.\n\nhttps://www.tlonletter.it/p/possiamo-davvero-fregarcene-del-giudizio?utm_source=youtube",
+      "date": "2026-08-24",
+      "thumbnail": "https://i3.ytimg.com/vi/fGZoFM74xss/hqdefault.jpg",
+      "videoId": "fGZoFM74xss",
+      "priority": 14,
       "scoreDetail": {
         "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 14
       }
     },
     {

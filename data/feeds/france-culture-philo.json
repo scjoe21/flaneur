@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-08-23T17:32:06.051950+00:00",
+  "fetchedAt": "2026-08-28T15:50:12.409463+00:00",
   "items": [
     {
       "title": "Averroès, passeur de savoirs : La raison et la foi selon Averroès",
@@ -228,19 +228,19 @@
       }
     },
     {
-      "title": "Plonger dans sa psyché 1/5 : \"Fragments d’un discours amoureux\" de Roland Barthes par la psychanalyste Laurence Joseph",
+      "title": "Pierre Bayard : \"L'enseignement de Romain Gary, c'est qu'il ne faut pas avoir d'idoles\"",
       "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:11  - Avec philosophie - par : Géraldine Mosna-Savoye - Avec la psychanalyste Laurence Joseph ouvrons les \"Fragments d'un discours amoureux\" de Roland Barthes pour un retour sur un texte intemporel de 1977 et une chorégraphie du sentiment amoureux décliné en figures de l'alphabet.    - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Fri, 07 Aug 2026",
+      "description": "durée : 00:58:58  - Avec philosophie - par : Géraldine Mosna-Savoye - Le professeur émérite de littérature et psychanalyste Pierre Bayard, qui pratique depuis plusieurs années l'exploration de vies alternatives, celles, notamment, de nos héros et de leurs auteurs, nous parle de celui qui, avec \"La Promesse de l'aube\", a lui-même réinventé sa propre vie : Romain Gary.   - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite,",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     }
   ]

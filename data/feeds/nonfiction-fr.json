@@ -1,22 +1,38 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-08-23T17:33:17.766607+00:00",
+  "fetchedAt": "2026-08-28T15:51:36.569078+00:00",
   "items": [
     {
-      "title": "Saint-Nazaire au travail : si près et si loin de l’emploi…",
-      "url": "https://www.nonfiction.fr/article-12787-saint-nazaire-au-travail-si-pres-et-si-loin-de-lemploi.htm",
-      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
-      "date": "Sat, 04 Jul 2026",
+      "title": "Louise Glück : les recettes de l’hiver",
+      "url": "https://www.nonfiction.fr/article-12822-louise-gluck-les-recettes-de-lhiver.htm",
+      "description": "Il y a quelque chose de profondément ironique dans le titre du dernier recueil publié par Louise Glück de son vivant.  Winter Recipes from the Collective  laisse imaginer un livre domestique, presque prosaïque, alors qu’il s’agit d’une méditation sur la vieillesse, la mort, mais aussi la mémoire et les transformations qu’elle opère. Fidèle à son art du décalage, Glück choisit une forme apparemment modeste pour y déposer les questions les plus essentielles. \r\n\r\n Comme souvent chez elle, la simpli",
+      "date": "Mon, 24 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "Louise Glück, avec Marie Olivier : chaque poème vous est adressé",
+      "url": "https://www.nonfiction.fr/article-12802-louise-gluck-avec-marie-olivier-chaque-poeme-vous-est-adresse.htm",
+      "description": "Depuis le prix Nobel de littérature décerné à Louise Glück en 2020, son œuvre est découverte par un nombre croissant de lecteurs français. Sa réception en France doit beaucoup au travail de traduction mené depuis de nombreuses années par Marie Olivier. Traductrice de plusieurs de ses recueils, elle vient de publier  Le Chant suspendu  (Gallimard, 2026), un essai consacré à cette œuvre exigeante et profondément accueillante. Elle évoque dans cet entretien la singularité de cette poésie, les enjeu",
+      "date": "Mon, 24 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -33,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "Inam Bioud : les voix d’Oran dans la nuit",
+      "url": "https://www.nonfiction.fr/article-12803-inam-bioud-les-voix-doran-dans-la-nuit.htm",
+      "description": "Dans un roman polyphonique où des fragments de voix gravitent autour du destin d’une femme singulière, l’écrivaine et traductrice Inam Bioud, dans une langue arabe virtuose magnifiquement rendue par la traduction de Lotfi Nia, plonge le lecteur au cœur des violences démesurées de la guerre fratricide qui a failli ruiner la société et l’État algériens durant les années 1990. \r\n\r\n Cette femme, dont le prénom donne son titre au roman,  Houaria , est l’être qui réunit toute sorte d’irrationalités au",
+      "date": "Tue, 25 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -113,38 +145,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Hellfest 2026 (pt. I) : canicule, être-pour-la-mort et black metal",
-      "url": "https://www.nonfiction.fr/article-12790-hellfest-2026-pt-i-canicule-etre-pour-la-mort-et-black-metal.htm",
-      "description": "De retour sur le site grandiose et kitsch du Hellfest, l’équipe de Nonfiction, légèrement remaniée pour l’occasion, y retrouve : un public massif (60 000 personnes / jour), majoritairement passionné et connaisseur ; une canicule de juin qui rappelle la mémorable édition à 40° C de 2022 (la seule où la consommation d’eau a dépassé celle de bière chez les festivaliers) ; et enfin une programmation à la fois pléthorique et cohérente, au sein de laquelle on pouvait notamment repérer quelques circuit",
-      "date": "Sat, 04 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Les vacances de Nonfiction",
-      "url": "https://www.nonfiction.fr/article-12806-les-vacances-de-nonfiction.htm",
-      "description": "Nonfiction fait une pause dans ses publications et vous donne rendez-vous le 24 août. Bonnes lectures en attendant !",
-      "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {

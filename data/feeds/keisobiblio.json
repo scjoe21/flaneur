@@ -1,8 +1,24 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-08-23T17:33:37.139491+00:00",
+  "fetchedAt": "2026-08-28T15:51:59.301865+00:00",
   "items": [
+    {
+      "title": "コヨーテ歩き撮り#256",
+      "url": "https://keisobiblio.com/2026/08/24/coyote256/",
+      "description": "夜明けとともに目覚めて湖畔を歩く。阿寒湖、ひたすら神々しい。\n\nWoke up at dawn and took a walk along the lakeshore. Lake Akan. Divine beyond measure.",
+      "date": "Mon, 24 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 18,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 18
+      }
+    },
     {
       "title": "コヨーテ歩き撮り#255",
       "url": "https://keisobiblio.com/2026/08/10/coyote255/",
@@ -20,19 +36,19 @@
       }
     },
     {
-      "title": "《ジェンダー対話シリーズ》第11回「ケアの倫理」は「ケアする私」を救うのか？（後編）――『ケアする私の「しんどい」は、どこからくるのか』トークイベント",
-      "url": "https://keisobiblio.com/2026/07/23/gendertalk11/",
-      "description": "昨年6月刊行以来ご好評いただいている『ケアする私の「しんどい」は、どこからくるのか』。刊行から１年を記念し、2026年１月28日夜に紀伊國屋アカデミック・ラウンジで行われた同書著者2人によるトークイベントを採録します。ケアをめぐる語りがあふれる一方で、ケアの現実はなぜこんなにも理解されないのか。どうしたらケアすることはもう少し楽になるのか。ケアをめぐる議論で盛んな「ケアの倫理」を参照しつつ、ケアを倫理と結び付けて論じることの危険性といまケアについて問われるべき論点について突っ込んだ議論を展開します。机上のケア論議でなく、現実にケアに翻弄され苦しい状況にある人々に研究者は何ができるのか。ケア研究の先頭を走るお二人による刺激的な対談後編です。ぜひご堪能ください。［編集部］",
-      "date": "Thu, 23 Jul 2026",
+      "title": "Book Review『フェミニスト研究ガイド――理論と実践をつなぐツールボックス』",
+      "url": "https://keisobiblio.com/2026/08/27/book-review-feministkenkyuguide/",
+      "description": "本書はフェミニスト研究とはどのようなもので、どのように進めるべきかを体系的に教えるマニュアルというよりも、ジェンダーをめぐる差別や不平等に問題意識をもって研究／実践に取り組むための豊かな道具箱のような一書である。その道具箱のなかから、社会学者としてジェンダー・マイノリティに関する経験的研究をおこなう私にとって、とくに役立つと思われた道具立てをいくつか取り出しながら本書を紹介したい。……",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 15
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -49,22 +65,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "《ジェンダー対話シリーズ》第12回「ケアの倫理」は「ケアする私」を救うのか？――対談後記",
-      "url": "https://keisobiblio.com/2026/07/28/gendertalk12/",
-      "description": "前回の対談を受け、今回はお二人による対談後記をお届けします。ケアの現実から目をそらさず、その「しんどさ」を解くために私たちが向きあうべき課題とは？　対談では語りきれなかった論点について、存分に展開していただきました。［編集部］",
-      "date": "Tue, 28 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

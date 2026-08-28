@@ -1,8 +1,24 @@
 {
   "sourceId": "overthink",
   "sourceName": "Overthink Podcast",
-  "fetchedAt": "2026-08-23T17:33:09.297907+00:00",
+  "fetchedAt": "2026-08-28T15:51:29.839532+00:00",
   "items": [
+    {
+      "title": "Reflection",
+      "url": "",
+      "description": "As Overthink comes to a close, why not take a look back? In Episode 182, Ellie and David tackle the concept of reflection and explain why it is so central to philosophy. What is the value of reflection, and what are its drawbacks? How does philosophy go astray when it treats the self as a product of reflection, and how can phenomenology and existentialism shed light on the proper role of reflection in our lives? Your hosts analyze the myth of Narcissus, discuss studies on reflection among animal",
+      "date": "Tue, 25 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 49,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 49
+      }
+    },
     {
       "title": "Climate Action with Kyle Whyte",
       "url": "",
@@ -94,22 +110,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Evil",
-      "url": "",
-      "description": "Are some people born evil, or are we all capable of evil acts? In episode 167 of Overthink, Ellie and David talk about all things evil. They think through the characterization of evil in Disney films, Leibniz’s best of all possible worlds theory, the conflation of evil with badness, and Hannah Arendt’s concept of the banality of evil. How does Manichaeism attempt to resolve the problem of evil? Is evil simply the lack of good in the world? And does the concept of evil still have relevance in an ",
-      "date": "Tue, 31 Mar 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 30

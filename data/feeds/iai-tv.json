@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-08-23T17:33:30.510598+00:00",
+  "fetchedAt": "2026-08-28T15:51:52.768465+00:00",
   "items": [
     {
       "title": "We need to change how we view autism | Simon Baron-Cohen",
@@ -16,22 +16,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "The James Webb Telescope is making cosmologists question the Big Bang | Bjørn Ekeberg",
-      "url": "https://www.youtube.com/watch?v=J0yE4rzkAkg",
-      "description": "Bjørn Ekeberg examines new observations from the James Webb Space Telescope that challenge the standard cosmic story.\n\nDo you agree that cosmologists should be more humble about what they actually know?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-james-webb-telescopes-threat-to-the-big-bang?utm_source=YouTube&utm_medium=description\n\nWe think that our theories of cosmology are getting better at explaining the origins of the universe. But what if they're inheren",
-      "date": "2026-08-04",
-      "thumbnail": "https://i3.ytimg.com/vi/J0yE4rzkAkg/hqdefault.jpg",
-      "videoId": "J0yE4rzkAkg",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 10,
         "total": 40
       }
     },
@@ -84,6 +68,22 @@
       }
     },
     {
+      "title": "To the ends of the Earth | Erling Kagge on polar bears, inner peace, and difficult fathers",
+      "url": "https://www.youtube.com/watch?v=Woe8pqJh9E4",
+      "description": "Erling Kagge discusses his expeditions to the North Pole, the South Pole, and the top of Mount Everest, and what these adventures taught him about living a good life.\n\nDo we all need a bit more silence in our daily lives?\n\nWe tend to look for ways to make our lives easier. But explorer and philosopher Erling Kagge argues one way to find meaning is to deliberately make your life harder. He has lived out this philosophy by being the first to walk alone and unsupported to the South Pole, the first ",
+      "date": "2026-08-25",
+      "thumbnail": "https://i4.ytimg.com/vi/Woe8pqJh9E4/hqdefault.jpg",
+      "videoId": "Woe8pqJh9E4",
+      "priority": 33,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 15,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 33
+      }
+    },
+    {
       "title": "Is Donald Trump a Russian asset? | Christopher Steele",
       "url": "https://www.youtube.com/watch?v=kGXoUyhnmL8",
       "description": "Christopher Steele and Roger Hearing discuss Donald Trump's relationship with Russia and Vladimir Putin.\n\nHas the Kremlin taken control of the White House?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/intelligence-and-the-new-world-order?utm_source=YouTube&utm_medium=description\n\nFormer MI6 intelligence officer Christopher Steele reveals just how drastically the world has changed in Trump's second term as President. Alliances have weakened, great-power competition ",
@@ -113,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "The Nuremberg trials and capturing Pinochet | Philippe Sands on international law",
+      "url": "https://www.youtube.com/watch?v=hf9agTJ4x-U",
+      "description": "Philippe Sands dives into the history of justice and war crimes, covering the Nuremberg trials, Augusto Pinochet's arrest in London, and the current conflicts in Ukraine and Gaza.\n\nDo we really hold the powerful to account?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/immunity-and-impunity-in-a-lawless-world?utm_source=YouTube&utm_medium=description\n\nIn a world in which Trump is kidnapping and assassinating heads of state, many now see international law as weak and",
+      "date": "2026-08-27",
+      "thumbnail": "https://i1.ytimg.com/vi/hf9agTJ4x-U/hqdefault.jpg",
+      "videoId": "hf9agTJ4x-U",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
       }
     },
     {
@@ -148,22 +164,6 @@
       }
     },
     {
-      "title": "The stars and the planets used to be living organisms | Rupert Sheldrake",
-      "url": "https://www.youtube.com/shorts/Yosyd_gIy_w",
-      "description": "#spirituality    #consciousness   #god    #philosophy    #buddhism  #hinduism #soul   #religion \n\nTo watch the full talk: https://iai.tv/video/discovering-the-world-beyond-science-rupert-sheldrake?utm_source=YouTube&utm_medium=short\n\nFor debates and talks: https://iai.tv \nFor articles: https://iai.tv/articles \nFor courses: https://iai.tv/iai-academy/courses",
-      "date": "2026-08-02",
-      "thumbnail": "https://i2.ytimg.com/vi/Yosyd_gIy_w/hqdefault.jpg",
-      "videoId": "Yosyd_gIy_w",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
       "title": "Are the US and Europe becoming enemies? | Gillian Tett, Jeremy Corbyn, Michael Ignatieff",
       "url": "https://www.youtube.com/watch?v=cf4YcpI-st8",
       "description": "Gillian Tett, Jeremy Corbyn, and Michael Ignatieff discuss the end of the US-Europe alliance and the future of geopolitics. \n\nIs NATO on the brink of extinction? \n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-end-of-the-great-alliance?utm_source=YouTube&utm_medium=description\n\nCentral to the West has been the allegiance of the US and Europe. But Trump's December 2025 Strategic Review outlined a very different world order in which the US is not necessarily alli",
@@ -196,22 +196,6 @@
       }
     },
     {
-      "title": "Why everyone else is an idiot | Lera Boroditsky",
-      "url": "https://www.youtube.com/shorts/-EQHB5hqIQE",
-      "description": "",
-      "date": "2026-08-05",
-      "thumbnail": "https://i2.ytimg.com/vi/-EQHB5hqIQE/hqdefault.jpg",
-      "videoId": "-EQHB5hqIQE",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "What neuroscience reveals about free will and psychopaths | Sam Harris, Roger Penrose, Sophie Scott",
       "url": "https://www.youtube.com/watch?v=JmEl2KlgEFo",
       "description": "Sam Harris, Roger Penrose, and Sophie Scott discuss consciousness, free will, multiples selves, and the collapse of the wave function.\n\nAre we the same thing as our minds, or just the consciousness which witnesses mental activity?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-divided-self-sam-harris-roger-penrose?utm_source=YouTube&utm_medium=description\n\nMany have sought to divide the self into separate parts. From Aristotle's distinction between the rational",
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Is Trump a Russian asset? | Christopher Steele?",
+      "url": "https://www.youtube.com/shorts/ZChVI0i528E",
+      "description": "",
+      "date": "2026-08-26",
+      "thumbnail": "https://i3.ytimg.com/vi/ZChVI0i528E/hqdefault.jpg",
+      "videoId": "ZChVI0i528E",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

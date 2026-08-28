@@ -1,13 +1,13 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-23T17:33:41.939873+00:00",
+  "fetchedAt": "2026-08-28T15:52:02.514341+00:00",
   "items": [
     {
-      "title": "最新デスクガジェットおすすめ16選：WIRED SHOPPING GUIDE",
-      "url": "https://wired.jp/article/desk-gadgets-productivity-shopping-guide/",
-      "description": "デスクワークをより快適にしてくれる、ガジェットセレクション。効率も意欲も高まるあろうこれらのアイテムとともに、仕事や勉強に励んでほしい。",
-      "date": "Sat, 22 Aug 2026",
+      "title": "ネパールの壊滅的な洪水に、気候変動はどう関係しているのか",
+      "url": "https://wired.jp/article/rising-temperatures-contributed-nepals-deadly-flood/",
+      "description": "気温上昇が続くなかで氷河の後退と不安定化が進み、大規模に崩壊するリスクが高まっている。",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -20,10 +20,42 @@
       }
     },
     {
-      "title": "マクドナルドはわたしのデータを集めている。通わなくなる可能性は「ゼロ」だった",
-      "url": "https://wired.jp/article/mcdonalds-built-a-515-page-dossier-on-me-it-says-ill-never-leave/",
-      "description": "I requested a copy of my data from McDonald’s loyalty program and received an extensive, personalized report that algorithmically predicts my next purchase.",
-      "date": "Sun, 23 Aug 2026",
+      "title": "メタに“審判の時”──FacebookとInstagramを揺るがす訴訟",
+      "url": "https://wired.jp/article/metas-big-reckoning-is-here/",
+      "description": "子どもの個人情報の収集や、アプリへの依存を促す設計を巡り、米29州の司法長官がメタ・プラットフォームズを訴えている。判決次第では、若年層が「いいね」や無限スクロールを利用できなくなる可能性もある。",
+      "date": "Wed, 26 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "そのときその場所にいる人をどう守るのか？ 渋谷区から考える最新型の都市防災",
+      "url": "https://wired.jp/article/shibuya-disaster-prevention/",
+      "description": "渋谷区の防災が守るのは、住民だけではない。121言語対応や官民連携、AI活用など、「そのときその場所にいる人」を守る都市防災の現在地を防災課長に訊いた。",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "気候災害にどう備えるか ──トランプ政権下の米国の場合",
+      "url": "https://wired.jp/article/how-to-survive-a-disaster-in-the-age-of-trump-emergency-fema-wild-fire-hurricane/",
+      "description": "猛暑やハリケーンなど、増え続ける異常気象による激甚災害に備え、信頼できる情報を探し身の安全を守る方法とは？ 自分たちがすべきことをリストアップした。",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,42 +68,10 @@
       }
     },
     {
-      "title": "サルモネラ菌はいたるところに──米国で食品の自主回収が相次ぐ",
-      "url": "https://wired.jp/article/salmonella-is-everywhere/",
-      "description": "米国ではグラノーラやワカモレ、さらにはドッグフードまで、サルモネラ菌に汚染されている恐れがあるとして自主回収されている。専門家によると、手洗いや加熱、速やかな冷蔵といった基本的な対策が感染予防につながるという。",
-      "date": "Sat, 22 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "365日のAI依存生活でわかったこと",
-      "url": "https://wired.jp/article/sz-should-you-automate-your-life/",
-      "description": "丸一年間、生活のあらゆる場面で極力AIを使ってみる実験を経て、新著『365日AI』が説くのはひとつ──いまこそ、AIを自身の判断で取り入れるべきときだ",
-      "date": "Thu, 20 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "AI記者が人間を出し抜いた──スクープ競争の新時代",
-      "url": "https://wired.jp/article/ai-newsrooms-are-breaking-news-now-haha-im-in-danger/",
-      "description": "AIニュースメディアが、OpenAIのハッキング事件の続報を『WIRED』より3時間以上先に報じていた。AI記者が人間と報道の速さを競う一方、正確性や報道倫理を巡る課題も浮かび上がる。",
-      "date": "Thu, 20 Aug 2026",
+      "title": "成人向け映像に特化した生成AIプラットフォーム「Rogue Studio」、映画並みのクオリティを目指す",
+      "url": "https://wired.jp/article/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
+      "description": "「Rogue Studio」は、“洗練された”アダルトコンテンツの生成に賭けている。ハリウッドでのAIへの反発を意識しながら、独自のモデレーション体制を整え、成人向け映像の新たな制作手法を模索している。",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,10 +84,10 @@
       }
     },
     {
-      "title": "UAEがAI戦略の舞台として日本に目を向ける理由",
-      "url": "https://wired.jp/article/why-abu-dhabi-is-taking-its-ai-ambitions-to-japan/",
-      "description": "日本最大規模となる予定のAIデータセンターが秋田県で計画され、UAE・アブダビ首長国のファンドが最大1兆円の投資を検討している。UAEによる「中国を除く」アジアのAIネットワーク構築に向けた次の一手だ。",
-      "date": "Wed, 19 Aug 2026",
+      "title": "グーグル「Pixel 11」レビュー：この価格帯では非常に魅力的な選択肢",
+      "url": "https://wired.jp/review/google-pixel-11/",
+      "description": "昨年の「Pixel 10」から大きく変わったわけではない。それでも「Pixel 11」は、優れたカメラやバッテリー、自然なAI機能を備え、日常使いに適したAndroidスマートフォンに仕上がっている。",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +100,26 @@
       }
     },
     {
-      "title": "宇宙飛行士が経験する眼の異変。ESAが挑む“宇宙の眼科検査”",
-      "url": "https://wired.jp/article/space-agencies-trying-stop-astronauts-losing-sight/",
-      "description": "宇宙での長期滞在では、宇宙飛行士の視力が低下するリスクが高まる。欧州宇宙機関（ESA）は、英スタートアップSilotonが開発する自宅向けの眼底検査技術を応用し、変化の解明や早期発見、予防につなげようとしている。",
-      "date": "Sat, 22 Aug 2026",
+      "title": "政府AI「源内」とは？ その“中身”から仕組み、用途まで徹底解説",
+      "url": "https://wired.jp/article/what-is-government-ai-gennai/",
+      "description": "日本政府の職員向け生成AI利用環境「源内」が、全府省庁18万人を対象に大規模実証の段階に入った。近年よく話題に上るガバメントAIについて、その中身から仕組み、用途まで解説する。",
+      "date": "Wed, 26 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "グーグル「Pixel 11 Pro／11 Pro XL」レビュー：驚異の音声入力と進化したカメラ",
+      "url": "https://wired.jp/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
+      "description": "グーグルの新しい音声入力はまさに魔法のようだ。進化したカメラやスマートなAI機能も魅力だが、物足りないゲーム性能とそれほど役に立たない背面LEDが、このフラッグシップ機を真の名機から遠ざけている。",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +132,10 @@
       }
     },
     {
-      "title": "世界初の「AIアート美術館」が変える人間と芸術の“生態系”",
-      "url": "https://wired.jp/article/sz-a-new-experiential-gallery-just-might-change-your-mind-about-ai-art/",
-      "description": "アーティストのレフィク・アナドルがロサンゼルスに共同設立した体験型ギャラリー「Dataland」は、ウェアラブル端末とアマゾンの熱帯雨林で集めた膨大な素材を用いて、自然、生体情報、そして芸術を融合させる。",
-      "date": "Sat, 22 Aug 2026",
+      "title": "メタが若年ユーザーの保護を巡る訴訟で和解。プロダクト変更も",
+      "url": "https://wired.jp/article/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
+      "description": "メタは歴史的な和解の一環として、米国の州・地域に巨額を支払うだけでなく、自社プラットフォームに実質的な変更を加える。",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +148,10 @@
       }
     },
     {
-      "title": "AIスロップへの反発を、企業も無視できなくなっている",
-      "url": "https://wired.jp/article/the-ai-slop-backlash-is-actually-having-an-impact/",
-      "description": "プラットフォーム側も、人々がAI時代にあふれる低品質なコンテンツを望んでいないことに、ようやく気づき始めている。データセンターへの抗議が広がるなか、AI生成コンテンツの報告・検出や利用制限に乗り出す企業も増えている。",
-      "date": "Fri, 21 Aug 2026",
+      "title": "専門家が期待と警戒を寄せる強力な中国製AI、Z.aiの新モデルが登場",
+      "url": "https://wired.jp/article/zai-open-weight-ai-models-release-cybersecurity-hacking/",
+      "description": "中国のAI企業Z.aiが、高性能なオープンウェイトモデル「GLM-5.3」を発表した。脆弱性の発見や防御に役立つ一方、悪用の危険もあるため、慎重なリリースを進めている。",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "イヴ・サンローラン、その完璧すぎる「表層」",
-      "url": "https://wired.jp/article/the-flawless-surface-of-yves-saint-laurent/",
-      "description": "伝説のデザイナーは自身の人生そのものも完全無比にデザインしていた。ニューヨークの国際写真センター（ICP）で開催中の「イヴ・サンローランと写真」展レビュー。",
-      "date": "Fri, 21 Aug 2026",
+      "title": "未来について、わたしたちは考えすぎなのだろうか？",
+      "url": "https://wired.jp/article/sz-do-we-think-too-much-about-the-future/",
+      "description": "人は、その歴史のほとんどを通じて遠い未来を予測しようとはしなかった。それは、賢明なことだったのかもしれない。",
+      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +180,10 @@
       }
     },
     {
-      "title": "TCL「Note A1 NXTPAPER」レビュー：紙に近い感覚で書け、動画も楽しめる",
-      "url": "https://wired.jp/review/tcl-note-a1-nxtpaper-tablet/",
-      "description": "TCLの「Note A1 NXTPAPER」は、E Ink端末と一般的なタブレットのいいとこどりを目指した製品である。実際、両者の長所をかなりうまく両立している。",
-      "date": "Fri, 21 Aug 2026",
+      "title": "自然を観測し、再生する次世代のAIスタートアップ15選──AI for Nature",
+      "url": "https://wired.jp/article/ai-for-nature/",
+      "description": "わたしたちはAI（人工知能）を活用することで、自然をより深く理解し、再生していけるのだろうか。勃興しつつある「AI for Nature」分野におけるスタートアップ及び非営利組織の取り組みから、その未来像を問う。",
+      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "Claudeの「見えない透かし」、早くも回避策が登場",
-      "url": "https://wired.jp/article/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
-      "description": "Anthropicは8月上旬、AIが生成したコンテンツにウォーターマークを埋め込むと発表した。ところが、そのわずか数時間後には、この「透かし」を回避するための手法がオンラインで話題になり始めた。",
-      "date": "Fri, 21 Aug 2026",
+      "title": "我慢は美徳ではない──建築家・坂 茂が問う、避難所の尊厳と国のかたち",
+      "url": "https://wired.jp/article/shigeru-ban-disaster-relief-architecture/",
+      "description": "30年以上にわたり世界各地の被災地で活動してきた建築家・坂茂。避難所、防災行政、そして国家のあり方まで、日本が災害から学ぶための条件を訊いた。",
+      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +212,10 @@
       }
     },
     {
-      "title": "「午前1時の面接」が増えている",
-      "url": "https://wired.jp/article/the-rise-of-the-1-am-job-interview/",
-      "description": "採用選考の最初のステップとして、AIによる面接が広がりつつある。候補者は深夜でも、自分の都合に合わせて面接を受けられる一方、そこにはどこか奇妙で非人間的な体験も待っている。",
-      "date": "Thu, 20 Aug 2026",
+      "title": "マラリア原虫に薬が効きにくくなる新変異、ウガンダで急拡大",
+      "url": "https://wired.jp/article/uganda-malaria-px1-drug-resistance-mutation/",
+      "description": "ウガンダで採取されたマラリア原虫から、長年にわたって広く使われているマラリア治療薬への感受性を低下させるとみられる新たな遺伝子変異が見つかった。2008年以降に急速に広がったこの変異は、既存の治療体制を揺るがしかねない。",
+      "date": "Tue, 25 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "「ChatTJB」の正体は、質問に答える“中の人”",
-      "url": "https://wired.jp/article/this-chatbot-is-just-a-random-guy-lol/",
-      "description": "「ChatTJB」は、チャットボットの代わりに、ひとりの人間がユーザーから寄せられたプロンプトに答えてくれる。アーティストで元グーグル社員のタッカー・ブライアントは、AIに何でも聞く「奇妙な時代」に疑問を投げかける。",
-      "date": "Thu, 20 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Geminiが自律歩行ヒューマノイドになる日",
-      "url": "https://wired.jp/article/sz-google-gemini-can-control-humanoid-robots/",
-      "description": "「フィジカルAGI」に向けて大きな飛躍を遂げたGoogle DeepMindの最新版AIモデル。だがAIを現実世界に投入することには、リスクも伴う。",
-      "date": "Wed, 19 Aug 2026",
+      "title": "終末に備えたいあなたへ",
+      "url": "https://wired.jp/article/prepare-for-doomsday/",
+      "description": "プレッパー（終末に備える人々）が持っている装備は、最高にかっこいい。でも、パンデミックの渦中に見つけたぼくだけのスタイルがある。",
+      "date": "Tue, 25 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

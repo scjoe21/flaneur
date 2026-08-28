@@ -1,77 +1,13 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-23T17:32:09.929811+00:00",
+  "fetchedAt": "2026-08-28T15:50:16.736532+00:00",
   "items": [
     {
-      "title": "Warum können wir nicht allein sein?",
-      "url": "https://www.philomag.de/artikel/warum-koennen-wir-nicht-allein-sein",
-      "description": "Allein sein – das wünscht sich auf lange Sicht kaum einer. Doch warum löst die Einsamkeit in uns Unbehagen aus? Drei Perspektiven aus der Philosophiegeschichte.",
-      "date": "Fri, 21 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Jochen Gimmel: „Mußemomente ermöglichen uns, Dinge anders wahrzunehmen“",
-      "url": "https://www.philomag.de/artikel/jochen-gimmel-mussemomente-ermoeglichen-uns-dinge-anders-wahrzunehmen",
-      "description": "Gelassenheit, Muße, Genuss – all das kommt in unserem Alltag oft zu kurz. Dabei bieten solche Momente nicht bloß Glückserfahrungen, sondern ermöglichen gar neue Selbstverständnisse und Weltbezüge. Ein Gespräch über unsere Arbeitswelt als Produzent der Unmuße, über Freizeit und den Wert von Langeweile und Vergänglichkeit.",
-      "date": "Mon, 17 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
-      }
-    },
-    {
-      "title": "Jan-Philipp Kruse: „Demokratien sind angewiesen auf eine deliberative Qualität“",
-      "url": "https://www.philomag.de/artikel/jan-philipp-kruse-demokratien-sind-angewiesen-auf-eine-deliberative-qualitaet",
-      "description": "Angesichts der Digitalisierung diagnostiziert Habermas einen erneuten Strukturwandel der Öffentlichkeit. Der Philosoph Jan-Philipp Kruse erklärt, wie Plattformen die Öffentlichkeit verändern und welche Gefahren für die Demokratie mit KI und sozialen Medien einhergehen.",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Thomas Biebricher: „Ein reinigendes Gewitter gibt es relativ selten in der Politik“",
-      "url": "https://www.philomag.de/artikel/thomas-biebricher-ein-reinigendes-gewitter-gibt-es-relativ-selten-der-politik",
-      "description": "Der Mann, der antrat, die AfD zu halbieren, sieht nun sich selbst und seine Partei im Sinkflug. Wie könnte es für die CDU weitergehen?",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Wie heilt man Narzissten?",
-      "url": "https://www.philomag.de/artikel/wie-heilt-man-narzissten",
-      "description": "Corine Pelluchon fragt, wie kollektiver Narzissmus und die Zerstörung von Demokratien zusammenhängen – und schlägt mit der  Macht des Weiblichen  ein Gegenmittel vor: eine Politik der Wertschätzung, die um die eigene Verwundbarkeit weiß.",
-      "date": "Mon, 17 Aug 2026",
+      "title": "Gefährdet oder belebt – wie steht es um unsere Demokratie?",
+      "url": "https://www.philomag.de/artikel/gefaehrdet-oder-belebt-wie-steht-es-um-unsere-demokratie",
+      "description": "Unser Regierungs- und Gesellschaftsmodell steht unter Druck. Doch woher rührt die Krise? Hat die Politik den Kontakt zu ihren Bürgern verloren oder erklären ganz andere Faktoren die wachsende Verdrossenheit? Und welcher Weg führt aus der gegenwärtigen Lage heraus? Über legitimes Aufbegehren und falsche Opfernarrative diskutieren der Historiker Jörg Baberowski und der Soziologe Detlef Pollack.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -84,10 +20,42 @@
       }
     },
     {
-      "title": "Das Horrorkino: Ein Spiegel der Gegenwartsängste?",
-      "url": "https://www.philomag.de/artikel/das-horrorkino-ein-spiegel-der-gegenwartsaengste",
-      "description": "Horrorfilme wie „Backrooms“ erfreuten sich jüngst großer Beliebtheit. Liegt das daran, dass sie unseren diffusen Ängsten greifbare Gestalt verleihen? Ein Blick auf die Horror-Erfolge der letzten Jahre.",
-      "date": "Thu, 20 Aug 2026",
+      "title": "Peter Abaelard und das Wissen",
+      "url": "https://www.philomag.de/artikel/peter-abaelard-und-das-wissen",
+      "description": "Wissen über das Übel ist nicht selbst übel, schreibt Peter Abaelard. Warum kann es für ein gutes Leben sogar notwendig sein?",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Ivan Krastev: „Man erwartet eine Politik, die so schnell liefert wie Amazon“",
+      "url": "https://www.philomag.de/artikel/ivan-krastev-man-erwartet-eine-politik-die-so-schnell-liefert-wie-amazon",
+      "description": "Wie blicken wir auf die Zukunft? Und was bedeutet die Beschleunigung für die Demokratie? Ein Gespräch mit Ivan Krastev über Politik und Zeit.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Wir Intelligenzbestien",
+      "url": "https://www.philomag.de/artikel/wir-intelligenzbestien",
+      "description": "Der Boom der künstlichen Intelligenz führt dazu, dass auch die menschliche Intelligenz neu und kritisch verhandelt wird. Drei Bücher erforschen aus unterschiedlicher Perspektive, was wir wissen können – und wie wir unsere Klugheit messen wollen.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -100,122 +68,74 @@
       }
     },
     {
-      "title": "Hildegard von Bingen und die Grünkraft",
-      "url": "https://www.philomag.de/artikel/hildegard-von-bingen-und-die-gruenkraft",
-      "description": "Dieselbe Kraft, die Bäume wachsen und Blumen erblühen lässt, zeigt sich auch in unseren moralischen Handlungen. Davon war die Philosophin Hildegard von Bingen überzeugt. Ihr Denken verbindet ökologisches Bewusstsein mit feministischen Impulsen – und erkennt, was es heißt, über die Natur zu herrschen und zugleich ein Teil von ihr zu sein.",
-      "date": "Thu, 20 Aug 2026",
+      "title": "Der Weltgeist und die Geopolitik",
+      "url": "https://www.philomag.de/artikel/der-weltgeist-und-die-geopolitik",
+      "description": "Vor über 60 Jahren diskutierten der französische Philosoph Alexandre Kojève und der deutsche Staatsrechtler Carl Schmitt über die heraufziehende Weltordnung. Die Berührungspunkte beider Denker, die sich in zentralen Fragen uneins waren, könnten für unsere heutige geopolitische Situation wegweisend sein.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Alejandro Jodorowsky – Der letzte lebende Surrealist",
-      "url": "https://www.philomag.de/artikel/alejandro-jodorowsky-der-letzte-lebende-surrealist",
-      "description": "In seiner Pariser Wohnung blickt der 97-jährige Alejandro Jodorowsky auf ein Jahrhundert zwischen Pantomime, Kultkino und gescheiterten Visionen zurück – und erklärt, warum wahre Kunst einen Anfang kennt, aber kein Ende. Dieser Text ist zuerst bei  Monopol  erschienen.",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Konservatives Opferritual",
-      "url": "https://www.philomag.de/artikel/konservatives-opferritual",
-      "description": "Jens Spahns Inanspruchnahme einer Leihmutterschaft brachte ihm den Vorwurf der Doppelmoral ein und löste eine Debatte über Leihmutterschaft aus. Gesprochen wurde hingegen nicht über die Bedeutung der erodierten Glaubwürdigkeit der Union gerade in ethischen Fragen und die postmoderne Herrschaftspolitik der Konservativen hinter dem erzwungenen Rücktritt Spahns, die weitaus schwerer wiegt als sein persönliches Fehlverhalten.",
-      "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Lukrez",
-      "url": "https://www.philomag.de/artikel/lukrez",
-      "description": "Was die Menschen nicht „erkennen können“, führen sie auf „göttliches Walten“ zurück, erklärt Lukrez. Warum geht das mit Gefahren einher?",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Odysseus in der Sauna",
-      "url": "https://www.philomag.de/artikel/odysseus-der-sauna",
-      "description": "An dem Helden der Odyssee, den Adorno und Horkheimer den „gefesselt Hörenden“ tauften, zeigt sich, wie aus der Wollust die Wohllust wird: Genuss soll heute gezügelt und unschädlich, im besten Fall gesundheitsfördernd sein. Doch was bleibt dann noch von ihm übrig?",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
       "scoreDetail": {
         "daily": 15,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
-      "title": "Der Sprung ins Wissen",
-      "url": "https://www.philomag.de/artikel/der-sprung-ins-wissen",
-      "description": "Der vereitelte Drohnenanschlag am Leipziger Flughafen bringt uns in eine sicherheitspolitische Bredouille: Wie reagieren, wenn wir nie ganz sicher sein können, wer dahintersteckt?",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Mein Wille, das unbekannte Wesen",
-      "url": "https://www.philomag.de/artikel/mein-wille-das-unbekannte-wesen",
-      "description": "Unser Wille, was soll er nicht alles sein: innerer Kompass und ewiger Antrieb, Garant des Erfolgs und Quelle der Lust. Doch gerade in entscheidenden Situationen erweist er sich oft als schwach und desorientiert. Woher weiß ich also, was ich wirklich will? Durch rationale Abwägung und Kontrolle meiner Begierden? Oder offenbart sich mein wahrer Wille gerade im dunklen, irrationalen Drängen tief im Innern? Womöglich gäbe es sogar eine dritte Option: Was, wenn die wahre Freiheit des Menschen gerade ",
-      "date": "Thu, 13 Aug 2026",
+      "title": "Die Lust am guten Argument",
+      "url": "https://www.philomag.de/artikel/die-lust-am-guten-argument",
+      "description": "Der Podcast  Philosophie für Alle! Auf ein Argument mit …  nimmt sich mit philosophischen Mitteln öffentlich relevanter Themen an.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 15,
         "flaneur": 0,
-        "novelty": 10,
+        "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "Alles hyper",
-      "url": "https://www.philomag.de/artikel/alles-hyper",
-      "description": "Technologie als Herrschaftsmittel, Politik als Ablenkung – laut Asma Mhalla sieht so unsere Zukunft aus. In den USA wird sie vorbereitet. Können wir sie noch abwenden?",
-      "date": "Fri, 21 Aug 2026",
+      "title": "Rund und bunt gegen das Patriarchat",
+      "url": "https://www.philomag.de/artikel/rund-und-bunt-gegen-das-patriarchat",
+      "description": "Aus den Trümmern der männlichen Kunst erschuf Niki de Saint Phalle weibliche Traumwelten. Eine Ausstellung in Düsseldorf würdigt ihr Schaffen.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "Macht der Masse",
+      "url": "https://www.philomag.de/artikel/macht-der-masse",
+      "description": "Dass die Demokratie auf der Souveränität des Volkes fußt, scheint eine Binsenweisheit zu sein. Doch worum handelt es sich eigentlich bei dem vielbeschworenen Volk?",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "Bürgerliche Wikinger",
+      "url": "https://www.philomag.de/artikel/buergerliche-wikinger",
+      "description": "Die Wikinger gelten gemeinhin als kriegerisches Volk, das plündernd durch Europa zog. Doch ein archäologischer Fund dürfte diese Vorstellung nun irritieren.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -228,10 +148,90 @@
       }
     },
     {
-      "title": "Globale Theorie",
-      "url": "https://www.philomag.de/artikel/globale-theorie",
-      "description": "Habermas lebte und lehrte vor allem in Deutschland, aber sein Werk besitzt weltweite Wirkkraft. Drei Beispiele.",
-      "date": "Tue, 11 Aug 2026",
+      "title": "Über das Unpolitische",
+      "url": "https://www.philomag.de/artikel/ueber-das-unpolitische",
+      "description": "Lange glaubte man, Konflikte dadurch zu entschärfen, dass man sie austrägt. Unsere aufgepeitschte Gegenwart legt jedoch den Verdacht nahe, dass sich Konflikte hochschaukeln, sobald man damit anfängt. Ein Plädoyer für Desengagement.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Schall und Wahn",
+      "url": "https://www.philomag.de/artikel/schall-und-wahn",
+      "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Verzweifelter Spaß",
+      "url": "https://www.philomag.de/artikel/verzweifelter-spass",
+      "description": "Im Bärenkostüm gegen die Unordnung der Welt: Das Werk der Schriftstellerin Heike Geißler wimmelt von Figuren, die das große Ganze infrage stellen. In ihrem jüngsten Roman  Michaela Kohlhaas  hilft nicht zuletzt die Ironie.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Sollten wir Freunde vor Fehlern bewahren?",
+      "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
+      "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Diskrete Verdinglichung",
+      "url": "https://www.philomag.de/artikel/diskrete-verdinglichung",
+      "description": "Mit den „Meta AI Glasses“ kann man Abbilder anderer einfangen – und das teilweise unbemerkt.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Was heißt hier Volkssouveränität?",
+      "url": "https://www.philomag.de/artikel/was-heisst-hier-volkssouveraenitaet",
+      "description": "Das Fundament der Demokratie ist der Demos – das Volk. Ob es aber überhaupt in der Lage ist, seine Macht souverän auszuüben, ist unter Philosophen bis heute umstritten. Hier acht Positionen.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

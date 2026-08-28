@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-23T17:33:20.028107+00:00",
+  "fetchedAt": "2026-08-28T15:51:37.687623+00:00",
   "items": [
     {
       "title": "Finanzbildung - Jung sein und clever mit Geld umgehen",
@@ -20,10 +20,10 @@
       }
     },
     {
-      "title": "Online im Alter - Analog erfahren, digital abgehängt?",
-      "url": "https://www.deutschlandfunkkultur.de/online-im-alter-analog-erfahren-digital-abgehaengt-100.html",
-      "description": "Smartphone-Schulungen, Unterstützung beim Onlinebanking oder Online-Ticketkauf: Mit dem \"Digitalpakt Alter\" sollen ältere Menschen fit gemacht werden fürs Internet. Das Problem: Es fehlt das Geld und die Arbeit wird auf Ehrenamtliche abgewälzt. Dreier, Jochen www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Scham - Ein unangenehmes Gefühl sichert das Zusammenleben",
+      "url": "https://www.deutschlandfunkkultur.de/wie-viel-scham-braucht-unsere-gesellschaft-100.html",
+      "description": "Scham ist ein machtvolles Instrument. Sie kann gesellschaftliche Gruppen unterdrücken, aber auch ein friedvolles Zusammenleben ermöglichen. Wie also am besten mit ihr umgehen, damit sie nicht bloßstellt, sondern die Gesellschaft weiterbringt? (Erstsendung am 10.11.25) Hofmann, Madeleine www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 24 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 40,
@@ -36,35 +36,35 @@
       }
     },
     {
-      "title": "Tiny Houses - Der Traum vom minimalistischen Lebensstil",
-      "url": "https://www.deutschlandfunkkultur.de/tiny-houses-klein-guenstig-klimafreundlich-100.html",
-      "description": "Immer weniger Menschen können sich ein eigenes Haus leisten. Ein Ausweg: ein Tiny House. Immer mehr Städte und Gemeinden erkennen die Marktlücke. Wer einmal im Minihaus wohnt, will meist nicht wieder raus - und kann zudem Klima und Umwelt entlasten. Fishman, Robert B. www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 28 Jul 2026",
+      "title": "Dickenfeindlichkeit - Der Druck durch die Abnehmspritze",
+      "url": "https://www.deutschlandfunkkultur.de/jetzt-koenntest-du-doch-endlich-abnehmen-dickenfeindlichkeit-100.html",
+      "description": "Abnehmspritzen sind im Mainstream angekommen. Durch sie nimmt aber der Druck auf Übergewichtige zu. Sie berichten, dass sie wieder häufiger diskriminiert und beleidigt werden. Warum ist das so? Woher kommt diese Feindlichkeit? Möller, Henrike www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 33,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 30,
         "phil": 5,
-        "flaneur": 8,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 33
+        "total": 35
       }
     },
     {
-      "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (3/4) - Wie man ein Tabu bricht",
-      "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-rechte-intellektuelle-der-bundesrepublik-3-4-100.html",
-      "description": "Im Zuge der Debatten um die Wehrmachtsausstellung in den 1990er-Jahren beginnt eine Neue Rechte, eigene historische Deutungsmuster zu etablieren. Die Bewegung um Vordenker wie Götz Kubitschek setzt bewusst auf langfristige Einflussnahme. (Erstsendung: 10.09.25) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 29 Jul 2026",
+      "title": "Deutscher Wein - Folgt auf den Rausch der Krisen-Kater?",
+      "url": "https://www.deutschlandfunkkultur.de/deutscher-wein-klimakrise-100.html",
+      "description": "Klimakrise, steigende Kosten, Billigkonkurrenz und sinkender Konsum: Der deutsche Wein steckt in der Krise. Droht der Wandel vom Kultur- zum Luxusgut? Oder handelt es sich nur um eine Marktkorrektur nach langen fetten Jahrzehnten? Sollich, Robert; Riede, Frank www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 25 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 29,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 10,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
+        "total": 29
       }
     },
     {
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "Wissenschaftsdiplomatie - Forschung soll vermitteln, wo Politik scheitert",
-      "url": "https://www.deutschlandfunkkultur.de/wissenschaftsdiplomatie-soll-forschung-vermitteln-wo-politik-scheitert-100.html",
-      "description": "Was haben ein Weltraumbahnhof, Forschungsschiffe und internationale Konferenzen gemeinsam? Bei ihnen sind Erkenntnis, wirtschaftliche Interessen und geopolitische Macht miteinander verflochten. Doch können sie auch Frieden stiften? Heller, Lydia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
       "title": "Umweltgifte - Chemie-Cocktail und mehr – Was uns wirklich im Blut liegt",
       "url": "https://www.deutschlandfunkkultur.de/umweltgift-chemikalien-blut-100.html",
       "description": "Wir alle haben Weichmacher und andere Chemikalien in unserem Körper. Einige davon stehen im Verdacht, krank zu machen. Forschende wollen herausfinden, ob man die Gefahr verringern kann – durch den Lebensstil und durch Gesetze. (Erstsendung: 12.12.2024) Nordwig, Hellmuth www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Streitort Garage - Zwischen DDR-Alltagskultur und Abriss",
+      "url": "https://www.deutschlandfunkkultur.de/zwischen-ddr-alltagskultur-und-abriss-triggerort-garage-100.html",
+      "description": "DDR-Garagen sind bis heute umkämpfte Orte. Für die einen gehören sie zur ostdeutschen Alltagskultur, für die anderen sind sie überholte Zweckbauten. Ihr Streit berührt Fragen von Erinnerung, Identität und Zugehörigkeit. Hennings, Alexa www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 26 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
       }
     },
     {

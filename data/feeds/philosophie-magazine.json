@@ -1,24 +1,8 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-23T17:32:06.396960+00:00",
+  "fetchedAt": "2026-08-28T15:50:12.805632+00:00",
   "items": [
-    {
-      "title": "“Comment trouver les mots justes ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
-      "url": "https://www.philomag.com/articles/comment-trouver-les-mots-justes-le-nouveau-numero-de-philosophie-magazine-sort-ce-jeudi",
-      "description": "",
-      "date": "Thu, 20 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "Comment nous évoluons vers une sensibilité exacerbée… au risque de la fragilité",
       "url": "https://www.philomag.com/articles/comment-nous-evoluons-vers-une-sensibilite-exacerbee-au-risque-de-la-fragilite",
@@ -52,19 +36,19 @@
       }
     },
     {
-      "title": "Pourquoi n’avons-nous aucun souvenir avant l’âge de 2 ou 3 ans ?",
-      "url": "https://www.philomag.com/articles/pourquoi-navons-nous-aucun-souvenir-avant-lage-de-2-ou-3-ans",
+      "title": "Où se procurer le n° 202 de “Philosophie magazine” ? Notre outil pour le trouver près de chez vous !",
+      "url": "https://www.philomag.com/articles/ou-se-procurer-le-ndeg-202-de-philosophie-magazine-notre-outil-pour-le-trouver-pres-de",
       "description": "",
-      "date": "Tue, 18 Aug 2026",
+      "date": "Mon, 29 Sep 2025",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -84,10 +68,10 @@
       }
     },
     {
-      "title": "“Tableaux des petites et grandes choses de l’existence”, de José Ortega y Gasset : métaphysique d’un dandy",
-      "url": "https://www.philomag.com/articles/tableaux-des-petites-et-grandes-choses-de-lexistence-de-jose-ortega-y-gasset",
+      "title": "“Dois-je trahir une amie pour la sauver ?” Charles Pépin répond à vos petites et grandes questions",
+      "url": "https://www.philomag.com/articles/dois-je-trahir-une-amie-pour-la-sauver-charles-pepin-repond-vos-petites-et-grandes",
       "description": "",
-      "date": "Tue, 18 Aug 2026",
+      "date": "Mon, 24 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
@@ -132,35 +116,83 @@
       }
     },
     {
-      "title": "Bientôt, tous illettrés ? Le constat nuancé de Lionel Naccache",
-      "url": "https://www.philomag.com/articles/bientot-tous-illettres-le-constat-nuance-de-lionel-naccache",
+      "title": "Un autre ordre mondial est-il possible ? Dialogue entre Dominique de Villepin et Thomas Gomart",
+      "url": "https://www.philomag.com/articles/un-autre-ordre-mondial-est-il-possible-dialogue-entre-dominique-de-villepin-et-thomas",
       "description": "",
-      "date": "Mon, 17 Aug 2026",
+      "date": "Tue, 25 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
-      "title": "“C'est pas bien d'être paresseux ?” Les enfants répondent… comme des grands !",
-      "url": "https://www.philomag.com/articles/cest-pas-bien-detre-paresseux-les-enfants-repondent-comme-des-grands",
+      "title": "Qui était Raoul Vaneigem, philosophe et écrivain subversif récemment disparu ?",
+      "url": "https://www.philomag.com/articles/qui-etait-raoul-vaneigem-philosophe-et-ecrivain-subversif-recemment-disparu",
       "description": "",
-      "date": "Mon, 17 Aug 2026",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "“Barbe bleue, contre-enquête”, de Jennifer Tamas : affaire non classée",
+      "url": "https://www.philomag.com/articles/barbe-bleue-contre-enquete-de-jennifer-tamas-affaire-non-classee",
+      "description": "",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trouver les mots pour écrire, avec Jean-Philippe Toussaint",
+      "url": "https://www.philomag.com/articles/trouver-les-mots-pour-ecrire-avec-jean-philippe-toussaint",
+      "description": "",
+      "date": "Thu, 27 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Quand Jean-Luc Mélenchon fait l'éloge de la Chine : la chronique de Michel Eltchaninoff",
+      "url": "https://www.philomag.com/articles/quand-jean-luc-melenchon-fait-leloge-de-la-chine-la-chronique-de-michel-eltchaninoff",
+      "description": "",
+      "date": "Wed, 26 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/face-aux-conflits-aux-polemiques-et-aux-querelles-3-voies-pour-choisir-ses-mots",
       "description": "",
       "date": "Thu, 20 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Qui était Edgar Morin ? Portrait philosophique en 5 grandes idées",
-      "url": "https://www.philomag.com/articles/qui-etait-edgar-morin-portrait-philosophique-en-5-grandes-idees",
-      "description": "",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Balance tes porcs ! Quand la romancière Madeline Miller fait de Circé une icône féministe",
-      "url": "https://www.philomag.com/articles/balance-tes-porcs-quand-la-romanciere-madeline-miller-fait-de-circe-une-icone-feministe",
-      "description": "",
-      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

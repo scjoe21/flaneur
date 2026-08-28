@@ -1,22 +1,22 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-23T17:33:27.541032+00:00",
+  "fetchedAt": "2026-08-28T15:51:49.877286+00:00",
   "items": [
     {
-      "title": "Der Kuss – Warum es ihn gibt",
-      "url": "https://www.swr.de/swrkultur/wissen/der-kuss-warum-es-ihn-gibt-102.html",
-      "description": "Geküsst wird seit rund 5.000 Jahren, unter Paaren, Politikern und selbst in der Kirche. In rund der Hälfte der Kulturen ist Küssen allerdings verpönt. Ist der Kuss vielleicht ein Auslaufmodell? Von Matthias Kußmann (SWR 2024) | Manuskript und mehr zur Sendung: http://swr.li/der-kuss | Bei Fragen und Anregungen schreibt uns: daswissen@swr.de | Folgt uns auf Mastodon: https://ard.social/@DasWissen",
-      "date": "Fri, 14 Aug 2026",
+      "title": "Warum so viele Ostdeutsche rechts wählen",
+      "url": "https://www.swr.de/swrkultur/wissen/warum-so-viele-ostdeutsche-rechts-waehlen-100.html",
+      "description": "Aus Wut auf \"die da oben\", auf Migranten, Medien, Vielfalt in den Familien wurde eine Lust an der Zerstörung etablierter Strukturen. Hinzu kommt die Sehnsucht nach autoritären Lösungen.",
+      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
+        "daily": 35,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 35
       }
     },
     {
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "Vernetzter Wald – Wie Pilze und Pflanzen kommunizieren",
-      "url": "https://www.swr.de/swrkultur/wissen/vernetzter-wald-wie-pilze-und-pflanzen-kommunizieren-100.html",
-      "description": "Was esoterisch klingt, erforschen inzwischen Wissenschaftler: Unter Waldböden verläuft ein natürlich gewachsenes \"Wood Wide Web\".",
-      "date": "Tue, 11 Aug 2026",
+      "title": "BAföG, Stipendien, Kredite – Die Reform der Studienfinanzierung",
+      "url": "https://www.swr.de/swrkultur/wissen/bafoeg-stipendien-kredite-die-reform-der-studienfinanzierung-100.html",
+      "description": "Viele Studierende beantragen kein Bafög aus Angst vor Schulden. Aber 500 Euro für ein WG-Zimmer muss man sich leisten können. Fachleute fordern eine Reform der Studienfinanzierung.",
+      "date": "Sat, 29 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -113,6 +113,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Narzissmus bei Frauen – Zwischen Minderwertigkeitskomplex und Manipulation",
+      "url": "https://www.swr.de/swrkultur/wissen/narzissmus-bei-frauen-zwischen-minderwertigkeitskomplex-und-manipulation-100.html",
+      "description": "Emotionale Abhängigkeit und Minderwertigkeitskomplexe sind die verletzliche Seite des narzisstischen Selbstbilds von Frauen. Sie können zu toxischem Verhalten führen.",
+      "date": "Thu, 27 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Phlegräische Felder – Italiens schlafender Supervulkan erwacht",
+      "url": "https://www.swr.de/swrkultur/wissen/phlegraeische-felder-italiens-schlafender-supervulkan-erwacht-100.html",
+      "description": "Seit 2023 melden sich die Phlegräischen Felder bei Neapel mit Bodenhebungen, CO2-Emissionen und immer stärkeren Erdbeben zurück – mögliche Vorboten eines großen Vulkanausbruchs.",
+      "date": "Tue, 25 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -148,38 +180,6 @@
       }
     },
     {
-      "title": "Jules Verne – Schreibender Abenteurer und Vater der Science-Fiction",
-      "url": "https://www.swr.de/swrkultur/wissen/jules-verne-schreibender-abenteurer-und-vater-der-science-fiction-100.html",
-      "description": "Die Romane von Jules Verne sind bis heute weltberühmt – auch, weil der Autor technische Ideen seiner Zeit aufgriff und visionär fortentwickelte. Von Marc Bädorf und Undine Fuchs (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/jules-verne\nHörtipp:\nTolkien und \"Der Herr der Ringe\" – Fantasy-Erfolg eines Sprachgenies\nhttps://www.ardaudiothek.de/episode/das-wissen/tolkien-und-der-herr-der-ringe-fantasy-erfolg-eines-sprachgenies/swr-kultur/13530427/\nBei Fragen und Anregungen schreibt uns:\nd",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Podcast-Tipp: Die Abnehmspritze – Schlank um jeden Preis?",
-      "url": "https://www.swr.de/swrkultur/wissen/podcast-tipp-die-abnehmspritze-schlank-um-jeden-preis-100.html",
-      "description": "Abnehmspritzen. Ozempic, Wegovy und Co. werden als medizinische Revolution gefeiert. Aber der Hype um das neue Medikament hat auch seine Schattenseiten.",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Podcast-Tipp: Ready for Liftoff! Der Raumfahrt-Podcast",
       "url": "https://www.swr.de/swrkultur/wissen/podcast-tipp-ready-for-liftoff-der-raumfahrt-podcast-100.html",
       "description": "Immer mehr Raketen, immer abgefahrenere Missionen! In der Raumfahrt geht's gerade richtig ab. Das Wettrennen zu Mond und Mars hat längst begonnen. Bereit für den Start?",
@@ -193,6 +193,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Herpesviren – Akute Infektionen und ihre möglichen Spätfolgen",
+      "url": "https://www.swr.de/swrkultur/wissen/herpesviren-akute-infektionen-und-ihre-moeglichen-spaetfolgen-100.html",
+      "description": "Herpesviren stecken in fast jedem, lösen Pfeiffersches Drüsenfieber oder Lippenherpes aus. Und die Viren können nach Jahren zu Multipler Sklerose, Alzheimer oder ME/CFS beitragen.",
+      "date": "Wed, 26 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/adolf-hitler-von-1925-bis-1933-vom-haeftling-zum-diktator-102.html",
       "description": "Kurz vor Weihnachten 1924 kommt der gescheiterte Putschist Adolf Hitler aus der Haft frei. Für seinen zweiten Anlauf zur Macht findet er entscheidende Unterstützer.",
       "date": "Mon, 17 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Die Sonne – Stern des Lebens, der Energie und der Zerstörung",
-      "url": "https://www.swr.de/swrkultur/wissen/die-sonne-stern-des-lebens-der-energie-und-der-zerstoerung-112.html",
-      "description": "Ohne die Sonne könnten wir nicht leben, sie spendet Wärme und Licht. Doch die Erde ist auch eine Art Insel – rund um die Uhr der Brandung des bedrohlichen Sonnenwinds ausgesetzt.",
-      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

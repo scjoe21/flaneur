@@ -1,7 +1,7 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-08-23T17:33:30.581703+00:00",
+  "fetchedAt": "2026-08-28T15:51:52.895721+00:00",
   "items": [
     {
       "title": "Student of Desire",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "My Lavender Marriage",
+      "url": "https://thepointmag.com/examined-life/my-lavender-marriage/",
+      "description": "I started seeing “MY HUSBAND IS GAY!” videos in the early 2020s when my TikTok algorithm, with its typical eerie prescience, decided to remind me that I was in a lavender marriage. \n The post  My Lavender Marriage  appeared first on  The Point Magazine .",
+      "date": "Tue, 25 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -135,22 +151,6 @@
       "title": "Girls Wrestling",
       "url": "https://thepointmag.com/examined-life/girls-wrestling/",
       "description": "My daughter joined her school’s newly formed girls’ wrestling team in the seventh grade. Her first tournament was at a high school in Oak Harbor, Ohio. \n The post  Girls Wrestling  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Art Auctions",
-      "url": "https://thepointmag.com/criticism/art-auctions/",
-      "description": "Hope being an exotic commodity these days, I try to take it wherever I can get it. One of the few recent times I’ve felt optimistic about the future was last fall—November 18th, to be exact, at 7 p.m. EST.  \n The post  Art Auctions  appeared first on  The Point Magazine .",
       "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
