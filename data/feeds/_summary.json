@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-08-29T00:01:16.421743+00:00",
+  "lastRun": "2026-08-29T01:55:05.028307+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -12,6 +12,7 @@
     "deutschlandfunk-philosophie",
     "hohe-luft",
     "philomag-de",
+    "merkur",
     "agora42",
     "sternstunde-philosophie",
     "rick-dufer",
@@ -19,7 +20,6 @@
     "rai-radio3-filosofia",
     "il-tascabile",
     "doppiozero",
-    "leparoleelecose",
     "not-neroeditions",
     "philosophy-now",
     "overthink",
@@ -27,10 +27,12 @@
     "philosophy-bites",
     "psyche",
     "then-and-now",
+    "daily-stoic",
     "big-think",
     "the-atlantic-ideas",
     "noema",
     "the-marginalian",
+    "new-atlantis",
     "pursuit-of-wonder",
     "the-conversation-fr-philo",
     "nonfiction-fr",
@@ -54,10 +56,8 @@
     "wired-jp"
   ],
   "fail": [
-    "merkur",
-    "daily-stoic",
-    "new-atlantis"
+    "leparoleelecose"
   ],
   "total": 54,
-  "fetched": 51
+  "fetched": 53
 }
