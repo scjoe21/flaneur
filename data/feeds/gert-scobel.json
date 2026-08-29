@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-08-29T01:53:28.492351+00:00",
+  "fetchedAt": "2026-08-29T19:26:14.101546+00:00",
   "items": [
     {
       "title": "Macht ihr euch im Alltag Gedanken über eure Zunge?",
@@ -94,22 +94,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
-      "title": "Welchen Dialekt würdet ihr eurem Roboter geben?",
-      "url": "https://www.youtube.com/shorts/GGZUYzZ3830",
-      "description": "Ein Forschungsroboter, der nicht nur das Alter schätzen kann, sondern auch noch auf Hessisch babbelt? “Hainer” zeigt, wie KI und Robotik menschlicher und nahbarer werden sollen. Wie der humanoide Roboter im Forschungsalltag eingesetzt wird und was er noch kann, seht ihr im Video 👉 https://youtu.be/IzDvyEDXRkA\n#roboter #ki #hessisch #robotik #3sat #nano",
-      "date": "2026-08-14",
-      "thumbnail": "https://i4.ytimg.com/vi/GGZUYzZ3830/hqdefault.jpg",
-      "videoId": "GGZUYzZ3830",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
         "flaneur": 4,
         "novelty": 0,
         "total": 24
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Schaut ihr beim Zähneputzen eigentlich auf eure Zunge?",
+      "url": "https://www.youtube.com/shorts/UfNV-9Z_DVc",
+      "description": "Von Himbeerrot bis ungewöhnlich blass: Eure Zunge zeigt oft als Erstes, wenn im Körper etwas nicht stimmt. Über 700 Bakterienarten leben auf ihr – und dieses Mikrobiom verrät der Forschung sogar Hinweise auf Mangelerscheinungen oder Diabetes. Was eure Zunge über eure Gesundheit aussagt, seht ihr im neuen NANO-Video 👉 https://youtu.be/eUvNRr6zKK0\n#zunge #gesundheit #anatomie #medizin #NANO #3sat",
+      "date": "2026-08-29",
+      "thumbnail": "https://i2.ytimg.com/vi/UfNV-9Z_DVc/hqdefault.jpg",
+      "videoId": "UfNV-9Z_DVc",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 9
       }
     },
     {

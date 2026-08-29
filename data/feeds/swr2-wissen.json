@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-29T01:54:52.455978+00:00",
+  "fetchedAt": "2026-08-29T19:28:00.998579+00:00",
   "items": [
     {
       "title": "Warum so viele Ostdeutsche rechts wählen",
@@ -56,22 +56,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/die-plastikwende-wie-kann-kunststoff-nachhaltig-werden-100.html",
       "description": "Die Erfindung von Plastik hat der Menschheit viele neue Möglichkeiten gegeben, doch heute bereitet es Probleme. Mit chemischen Tricks könnten Kunststoffe ökologisch besser werden.",
       "date": "Sun, 16 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Wie KI die Schule und das Lernen beeinflusst",
-      "url": "https://www.swr.de/swrkultur/wissen/wie-ki-die-schule-und-das-lernen-beeinflusst-102.html",
-      "description": "KI kann Schülern die Hausaufgaben abnehmen – oder sinnvoll eingesetzt werden. Dafür muss der Umgang mit ihnen auch in der Schule geübt werden.",
-      "date": "Sat, 15 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -193,6 +177,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Was alle Sprachen verbindet – Die weltweite \"Mama\"",
+      "url": "https://www.swr.de/swrkultur/wissen/was-alle-sprachen-verbindet-die-weltweite-mama-100.html",
+      "description": "Wörter für die eigene Mutter haben in allen bekannten Sprachen einen \"m\"-Laut. Die Forschung kennt viele solcher sprachlichen Universalien. Was folgt daraus für die Natur der Sprache?",
+      "date": "Sun, 30 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-29T01:53:26.824923+00:00",
+  "fetchedAt": "2026-08-29T19:26:11.832709+00:00",
   "items": [
     {
       "title": "Comment nous évoluons vers une sensibilité exacerbée… au risque de la fragilité",
@@ -132,6 +132,22 @@
       }
     },
     {
+      "title": "Les aventures conceptuelles d’Edgar Morin aux États-Unis",
+      "url": "https://www.philomag.com/articles/les-aventures-conceptuelles-dedgar-morin-aux-etats-unis",
+      "description": "",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Qui était Raoul Vaneigem, philosophe et écrivain subversif récemment disparu ?",
       "url": "https://www.philomag.com/articles/qui-etait-raoul-vaneigem-philosophe-et-ecrivain-subversif-recemment-disparu",
       "description": "",
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/lart-et-les-manieres-de-trouver-le-mot-juste-ledito-dalexandre-lacroix",
       "description": "",
       "date": "Fri, 21 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Face aux conflits, aux polémiques et aux querelles… 3 voies pour choisir ses mots",
-      "url": "https://www.philomag.com/articles/face-aux-conflits-aux-polemiques-et-aux-querelles-3-voies-pour-choisir-ses-mots",
-      "description": "",
-      "date": "Thu, 20 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

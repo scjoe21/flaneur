@@ -1,8 +1,24 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-08-29T01:54:55.203163+00:00",
+  "fetchedAt": "2026-08-29T19:28:03.802370+00:00",
   "items": [
+    {
+      "title": "The idea of progress is a dangerous lie | John Gray, Jonny Thomson",
+      "url": "https://www.youtube.com/watch?v=murPOSalbfQ",
+      "description": "John Gray and Jonny Thomson discuss how the idea of human progress in ethics and politics is a myth.\n\nDo you agree with John Gray, or is this an overly pessimistic view of humanity?\n\nWith a free trial, you can watch John talk about his life and philosophy NOW at https://iai.tv/video/the-life-and-philosophy-of-john-gray?utm_source=YouTube&utm_medium=description\n\nWhy does every generation assume the future will be more civilized than the past? John Gray argues this belief in progress is both false",
+      "date": "2026-08-29",
+      "thumbnail": "https://i2.ytimg.com/vi/murPOSalbfQ/hqdefault.jpg",
+      "videoId": "murPOSalbfQ",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
+      }
+    },
     {
       "title": "We need to change how we view autism | Simon Baron-Cohen",
       "url": "https://www.youtube.com/watch?v=phqIVUoy70k",
@@ -17,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "How memory treats life like a movie | Charan Ranganath",
-      "url": "https://www.youtube.com/watch?v=prcIAGDKDIo",
-      "description": "Charan Ranganath discusses how and why we remember.\n\nDoes this match with your personal experience of memory?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/memory-is-a-construction?utm_source=YouTube&utm_medium=description\n\nOur understanding of memory often focuses on its failures: the names we cannot recall, the reasons we walked into a room, the experiences that seem to vanish within hours. But what if forgetting is not a flaw, and memory is far more powerful and ",
-      "date": "2026-08-06",
-      "thumbnail": "https://i1.ytimg.com/vi/prcIAGDKDIo/hqdefault.jpg",
-      "videoId": "prcIAGDKDIo",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
       }
     },
     {
@@ -180,22 +180,6 @@
       }
     },
     {
-      "title": "Are chimpanzees evil? And what about humans? | Richard Wrangham",
-      "url": "https://www.youtube.com/shorts/n5XSSd_vrLk",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-goodness-paradox-richard-wrangham?utm_source=YouTube&utm_medium=short4\n\n#evolution #history #interestingfacts #animals #biology #science",
-      "date": "2026-08-07",
-      "thumbnail": "https://i3.ytimg.com/vi/n5XSSd_vrLk/hqdefault.jpg",
-      "videoId": "n5XSSd_vrLk",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 15
-      }
-    },
-    {
       "title": "What neuroscience reveals about free will and psychopaths | Sam Harris, Roger Penrose, Sophie Scott",
       "url": "https://www.youtube.com/watch?v=JmEl2KlgEFo",
       "description": "Sam Harris, Roger Penrose, and Sophie Scott discuss consciousness, free will, multiples selves, and the collapse of the wave function.\n\nAre we the same thing as our minds, or just the consciousness which witnesses mental activity?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-divided-self-sam-harris-roger-penrose?utm_source=YouTube&utm_medium=description\n\nMany have sought to divide the self into separate parts. From Aristotle's distinction between the rational",
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Autistic people are more empathetic than others assume | Simon Baron-Cohen",
+      "url": "https://www.youtube.com/shorts/y6idxiG9rfg",
+      "description": "",
+      "date": "2026-08-29",
+      "thumbnail": "https://i2.ytimg.com/vi/y6idxiG9rfg/hqdefault.jpg",
+      "videoId": "y6idxiG9rfg",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-29T01:55:05.027825+00:00",
+  "fetchedAt": "2026-08-29T19:28:15.132744+00:00",
   "items": [
+    {
+      "title": "GenZの人生は、一度限りのドラマではなく《リセット》できるゲームである：映画『ドラマなふたり』池田純一レビュー",
+      "url": "https://wired.jp/article/the-drama-movie-review-junichi-ikeda/",
+      "description": "出会いはカフェ、結婚式は1週間後──。ラブコメの定石通りに始まるA24の最新作『ドラマなふたり』は、なぜサイコホラーへと転落するのか。GenZカップルの認知のズレを読み解く（ネタバレあり）。",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
     {
       "title": "高級なボトルウォーターは、本当に健康にいいのか？",
       "url": "https://wired.jp/article/is-expensive-bottled-water-actually-better-for-you/",
@@ -52,22 +68,6 @@
       }
     },
     {
-      "title": "メタに“審判の時”──FacebookとInstagramを揺るがす訴訟",
-      "url": "https://wired.jp/article/metas-big-reckoning-is-here/",
-      "description": "子どもの個人情報の収集や、アプリへの依存を促す設計を巡り、米29州の司法長官がメタ・プラットフォームズを訴えている。判決次第では、若年層が「いいね」や無限スクロールを利用できなくなる可能性もある。",
-      "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "そのときその場所にいる人をどう守るのか？ 渋谷区から考える最新型の都市防災",
       "url": "https://wired.jp/article/shibuya-disaster-prevention/",
       "description": "渋谷区の防災が守るのは、住民だけではない。121言語対応や官民連携、AI活用など、「そのときその場所にいる人」を守る都市防災の現在地を防災課長に訊いた。",
@@ -81,6 +81,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "オープンウェイトAIの21モデル、“改変”により安全策を弱体化できることが明らかに",
+      "url": "https://wired.jp/article/tamperbench-open-weight-llm-safety-tampering/",
+      "description": "誰でも自由に重みを調整できるオープンウェイトAIモデルには、犯罪行為などに悪用させないための機能制限が設けられている。ところが、この安全機能が簡単に弱体化できることが最新の研究で明らかになった。",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "ネパールの“雨なき大洪水”の発生メカニズムが見えてきた",
+      "url": "https://wired.jp/article/nepal-flash-flood-glacier-collapse/",
+      "description": "ネパールで8月26日に発生した大洪水は、激しい濁流が山間の村々を押し流すなどして多くの犠牲者を出した。雨が降らないなか突如として発生した今回の洪水は、なぜ起きたのか。そのメカニズムが明らかになってきた。",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "“終末”ピクニック！：地球に危機が迫ったとき【SF作家】はバックパックに何を詰める？",
+      "url": "https://wired.jp/article/vol45-have-a-nice-worlds-end/",
+      "description": "今後30年の間に「地球規模の危機」が起こるとしたら、それはどんな危機？ その危機を生き延びるために、あなたはバックパックの中に何を詰める？ そんな問いを、SF作家の野尻抱介、柞刈湯葉、劉慈欣、そしてマンガ家の大童澄瞳に投げかけた。",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/zai-open-weight-ai-models-release-cybersecurity-hacking/",
       "description": "中国のAI企業Z.aiが、高性能なオープンウェイトモデル「GLM-5.3」を発表した。脆弱性の発見や防御に役立つ一方、悪用の危険もあるため、慎重なリリースを進めている。",
       "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "未来について、わたしたちは考えすぎなのだろうか？",
-      "url": "https://wired.jp/article/sz-do-we-think-too-much-about-the-future/",
-      "description": "人は、その歴史のほとんどを通じて遠い未来を予測しようとはしなかった。それは、賢明なことだったのかもしれない。",
-      "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "自然を観測し、再生する次世代のAIスタートアップ15選──AI for Nature",
-      "url": "https://wired.jp/article/ai-for-nature/",
-      "description": "わたしたちはAI（人工知能）を活用することで、自然をより深く理解し、再生していけるのだろうか。勃興しつつある「AI for Nature」分野におけるスタートアップ及び非営利組織の取り組みから、その未来像を問う。",
-      "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "我慢は美徳ではない──建築家・坂 茂が問う、避難所の尊厳と国のかたち",
-      "url": "https://wired.jp/article/shigeru-ban-disaster-relief-architecture/",
-      "description": "30年以上にわたり世界各地の被災地で活動してきた建築家・坂茂。避難所、防災行政、そして国家のあり方まで、日本が災害から学ぶための条件を訊いた。",
-      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
