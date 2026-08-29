@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-08-28T15:51:33.054478+00:00",
+  "fetchedAt": "2026-08-29T00:00:00.262733+00:00",
   "items": [
     {
       "title": "The living world is forcing scientists to rethink purpose",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 40
+      }
+    },
+    {
+      "title": "The Philosopher’s Guide to Uncertainty",
+      "url": "https://bigthink.com/series/full-interview/the-philosophers-guide-to-uncertainty/",
+      "description": "There is a paradox at the heart of being human. \n On the one hand, we have to make plans for the future. We go to jobs, book vacations, and save for our retirement. But on the other, life is never straightforward, and the best laid plans often go wrong. The old Yiddish proverb, “Man plans, and God laughs,” captures the limits of our ability to control the future. \n So how are we to resolve the paradox? How can we feel confident planning for a future that we can’t predict? How can we make rationa",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/philosophy-event1.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -97,22 +113,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "NASA’s Hubble opens the earliest window into the young Milky Way",
-      "url": "https://bigthink.com/starts-with-a-bang/nasa-hubble-earliest-milky-way/",
-      "description": "The Milky Way, spanning over 100,000 light-years, is our galactic home. \n \n \n \n Among its many discoveries, the ESA’s Gaia mission has found that the Milky Way galaxy not only has a warp to its galactic disk, but that the warp in the disk precesses and wobbles, completing a full rotation for roughly every three revolutions of the Sun (in yellow) around the galactic center. The origin of the Milky Way’s rotation is not cosmic, but rather is thought to arise from the relative gravitational and tid",
-      "date": "Mon, 24 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/For-Display-Half-Res.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {

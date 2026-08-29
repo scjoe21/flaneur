@@ -5600,6 +5600,283 @@
           "originalTitle": "高級食品スーパーはなぜ分断を加速させるのか｜FOOD Lab"
         }
       ]
+    },
+    {
+      "week": "2026-W36",
+      "tags": [
+        "기술 의존",
+        "자율성",
+        "역생산성",
+        "캡슐화",
+        "개인화",
+        "타자와의 만남",
+        "의식",
+        "신체 표지",
+        "몸과 마음",
+        "비만혐오",
+        "몸의 도덕화",
+        "낙인",
+        "수치심",
+        "사회적 규범",
+        "감정의 정치학",
+        "민주주의",
+        "가속 사회",
+        "정치적 시간성",
+        "소비주의",
+        "저항의 상품화",
+        "문화산업",
+        "서사치료",
+        "감금",
+        "증언",
+        "선택의 역설",
+        "자유",
+        "결정 마비",
+        "관찰과 측정",
+        "인식론",
+        "실험의 역설",
+        "자연관",
+        "아름다움과 위험",
+        "원주민 지식",
+        "죄책감",
+        "도덕적 일관성",
+        "공유재",
+        "자기소외",
+        "가면",
+        "정체성",
+        "도박",
+        "지루함",
+        "허무주의",
+        "기쁨",
+        "주의",
+        "일상",
+        "공공공간",
+        "도시",
+        "공원의상업화",
+        "과시적 소비",
+        "생수",
+        "지위와 소비",
+        "자아연출",
+        "리얼리티 쇼",
+        "인플루언서"
+      ],
+      "articles": [
+        {
+          "title": "기술은 우리를 자유롭게 하는가",
+          "summary": "편리할수록 더 의존하게 되는 역설, 도구가 우리를 사용하기 시작할 때",
+          "philosopher": "이반 일리치 (Ivan Illich)",
+          "tags": [
+            "기술 의존",
+            "자율성",
+            "역생산성"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/LU6pSZCQSTw",
+          "originalTitle": "La technologie vous contrôle"
+        },
+        {
+          "title": "우리는 왜 캡슐 속에 사는가",
+          "summary": "개인 맞춤형 공간이 늘어날수록 타인과의 마찰은 사라지고, 삶도 함께 줄어든다",
+          "philosopher": "파스칼 샤보 (Pascal Chabot)",
+          "tags": [
+            "캡슐화",
+            "개인화",
+            "타자와의 만남"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/pourquoi-vivons-nous-dans-des-capsules-entretien-avec-pascal-chabot",
+          "originalTitle": "Pourquoi vivons-nous dans des capsules ? Entretien avec Pascal Chabot"
+        },
+        {
+          "title": "의식은 뇌 안에 없다",
+          "summary": "몸 전체가 느끼고 기억한다면, '나'는 어디에 있는 것인가",
+          "philosopher": "안토니오 다마지오 (Antonio Damasio)",
+          "tags": [
+            "의식",
+            "신체 표지",
+            "몸과 마음"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/la-conscience-nest-pas-dans-le-cerveau-quand-antonio-damasio-bat-en-breche-nos-idees",
+          "originalTitle": "“La conscience n’est pas dans le cerveau” : quand Antonio Damasio bat en brèche nos idées reçues sur la conscience"
+        },
+        {
+          "title": "비만 혐오는 왜 도덕의 문제가 됐는가",
+          "summary": "체중을 의지력의 문제로 보는 시선, 그 편견은 어디서 오는가?",
+          "philosopher": "케이트 만 (Kate Manne)",
+          "tags": [
+            "비만혐오",
+            "몸의 도덕화",
+            "낙인"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=70W6BCEsKug",
+          "originalTitle": "Fat Bodies, Thin Morals: Kate Manne on Fatphobia | Sternstunde Philosophie | SRF Kultur"
+        },
+        {
+          "title": "수치심은 사회를 지키는가, 파괴하는가",
+          "summary": "부끄러움이라는 감정은 공동체의 접착제인가, 아니면 배제의 무기인가?",
+          "philosopher": "베른하르트 빌덴부르크 (Bernhard Waldenfels)",
+          "tags": [
+            "수치심",
+            "사회적 규범",
+            "감정의 정치학"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/wie-viel-scham-braucht-unsere-gesellschaft-100.html",
+          "originalTitle": "Scham - Ein unangenehmes Gefühl sichert das Zusammenleben"
+        },
+        {
+          "title": "민주주의는 왜 아마존처럼 배달되지 못하는가",
+          "summary": "즉각적인 만족에 길든 시대, 느린 정치는 왜 실패처럼 보이는가?",
+          "philosopher": "이반 크라스테프 (Ivan Krastev)",
+          "tags": [
+            "민주주의",
+            "가속 사회",
+            "정치적 시간성"
+          ],
+          "sourceUrl": "https://www.philomag.de/artikel/ivan-krastev-man-erwartet-eine-politik-die-so-schnell-liefert-wie-amazon",
+          "originalTitle": "Ivan Krastev: „Man erwartet eine Politik, die so schnell liefert wie Amazon“"
+        },
+        {
+          "title": "저항의 상징이 굿즈가 될 때",
+          "summary": "펑크 배지, 환경 토트백—운동의 언어가 상품이 되는 순간 무엇이 사라지는가?",
+          "philosopher": "테오도르 아도르노 (Theodor W. Adorno)",
+          "tags": [
+            "소비주의",
+            "저항의 상품화",
+            "문화산업"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/societa/allarmante-fetore-plastica/",
+          "originalTitle": "Un allarmante fetore di plastica"
+        },
+        {
+          "title": "감옥에서 셰헤라자데가 된다는 것",
+          "summary": "이야기를 만드는 행위가 제도의 폭력 앞에서 어떻게 생존의 언어가 되는가?",
+          "philosopher": "주디스 헤르만 (Judith Herman)",
+          "tags": [
+            "서사치료",
+            "감금",
+            "증언"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/linguaggi/scheherazade-carcere-baabda/",
+          "originalTitle": "Scheherazade in carcere a Baabda"
+        },
+        {
+          "title": "선택지가 많을수록 우리는 왜 못 고르는가",
+          "summary": "메뉴판 앞에서 얼어붙는 순간, 자유는 선물이 아니라 짐이 된다.",
+          "philosopher": "배리 슈워츠 (Barry Schwartz)",
+          "tags": [
+            "선택의 역설",
+            "자유",
+            "결정 마비"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/33-FdCV8KmE",
+          "originalTitle": "Il paradosso della scelta"
+        },
+        {
+          "title": "클레버 한스: 우리는 무엇을 측정하는가",
+          "summary": "'생각하는 말'은 어떻게 과학 전체를 다시 쓰게 만들었는가?",
+          "philosopher": "에두아르 마쉐리 (Edouard Machery)",
+          "tags": [
+            "관찰과 측정",
+            "인식론",
+            "실험의 역설"
+          ],
+          "sourceUrl": "https://theconversation.com/how-a-psychic-horse-named-clever-hans-changed-the-way-we-do-science-288745",
+          "originalTitle": "How a ‘psychic’ horse named Clever Hans changed the way we do science"
+        },
+        {
+          "title": "숲의 가장 아름다운 것이 가장 위험하다",
+          "summary": "아마존 원주민이 돌고래를 두려워하는 이유가 우리에게 묻는 것",
+          "philosopher": "라니 왓슨 (Lani Watson)",
+          "tags": [
+            "자연관",
+            "아름다움과 위험",
+            "원주민 지식"
+          ],
+          "sourceUrl": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
+          "originalTitle": "Dolphins and other lovers"
+        },
+        {
+          "title": "훔친 돌을 돌려보내는 사람들",
+          "summary": "국립공원에서 몰래 가져간 돌멩이—그 죄책감은 어디서 오는가?",
+          "philosopher": "자넷 래드클리프 리처즈 (Janet Radcliffe Richards)",
+          "tags": [
+            "죄책감",
+            "도덕적 일관성",
+            "공유재"
+          ],
+          "sourceUrl": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park",
+          "originalTitle": "The conscience files"
+        },
+        {
+          "title": "나를 선택하지 못한 사람의 철학",
+          "summary": "다자이 오사무가 소설로 고백한 것—자기 자신이 되지 못한 인간의 가장 내밀한 공포",
+          "philosopher": "다자이 오사무 (Osamu Dazai)",
+          "tags": [
+            "자기소외",
+            "가면",
+            "정체성"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=xBsuDHDBiqc",
+          "originalTitle": "The Terrible Price of Not Choosing Yourself - The Philosophy of Osamu Dazai"
+        },
+        {
+          "title": "도박은 왜 멈출 수 없는가: 파스칼의 도박꾼",
+          "summary": "지루함을 피하려는 인간의 욕망이 어떻게 허무주의의 씨앗이 되는가",
+          "philosopher": "블레즈 파스칼 (Blaise Pascal)",
+          "tags": [
+            "도박",
+            "지루함",
+            "허무주의"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=K8e8eACAtOM",
+          "originalTitle": "Nihilism Is Taking Over Modern Society. Here's Why."
+        },
+        {
+          "title": "기쁨을 연습한다는 것",
+          "summary": "슬픔 속에서도 매일 기쁨을 찾는 실험, 그것은 도피인가 지혜인가?",
+          "philosopher": "로스 게이 (Ross Gay)",
+          "tags": [
+            "기쁨",
+            "주의",
+            "일상"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/08/25/ross-gay-book-of-delights/",
+          "originalTitle": "How to Delight in Your Days: Poet and Gardener Ross Gay’s Yearlong Experiment in Willful Gladness"
+        },
+        {
+          "title": "공원이 돈을 번다는 것의 의미",
+          "summary": "수익을 내는 공원이 늘어날수록, 도시의 숨구멍은 누구의 것이 되는가?",
+          "philosopher": "콰메 앤터니 애피아 (Kwame Anthony Appiah)",
+          "tags": [
+            "공공공간",
+            "도시",
+            "공원의상업화"
+          ],
+          "sourceUrl": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/36556",
+          "originalTitle": "増加する「稼ぐ公園」 PFIで失われる都市の緑"
+        },
+        {
+          "title": "비싼 물은 정말 몸에 좋은가",
+          "summary": "빙하수, 알칼리수, 고급 생수—값비싼 물 한 병이 팔리는 이유는 과학인가, 욕망인가?",
+          "philosopher": "소스타인 베블런 (Thorstein Veblen)",
+          "tags": [
+            "과시적 소비",
+            "생수",
+            "지위와 소비"
+          ],
+          "sourceUrl": "https://wired.jp/article/is-expensive-bottled-water-actually-better-for-you/",
+          "originalTitle": "高級なボトルウォーターは、本当に健康にいいのか？"
+        },
+        {
+          "title": "우리는 어떻게 리얼리티 쇼가 되는가",
+          "summary": "출연자도, 시청자도, 인플루언서도—우리 모두가 이미 리얼리티 쇼 안에 살고 있다면?",
+          "philosopher": "어빙 고프먼 (Erving Goffman)",
+          "tags": [
+            "자아연출",
+            "리얼리티 쇼",
+            "인플루언서"
+          ],
+          "sourceUrl": "https://shinsho-plus.shueisha.co.jp/column/shimoda_akihiro/36484",
+          "originalTitle": "リアリティショーに組み込まれていく私たち"
+        }
+      ]
     }
   ]
 }

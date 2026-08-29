@@ -1,8 +1,40 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-28T15:52:02.514341+00:00",
+  "fetchedAt": "2026-08-29T00:01:16.421319+00:00",
   "items": [
+    {
+      "title": "高級なボトルウォーターは、本当に健康にいいのか？",
+      "url": "https://wired.jp/article/is-expensive-bottled-water-actually-better-for-you/",
+      "description": "水1本に、1万円台もの値段がつくことがある。氷山から採取した水や高いアルカリ性をうたう水など、ボトルウォーターは産地や成分によって価値が語られるが、高価な水ほど本当に体にいいのだろうか。",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
+      "title": "マムダニズムは民主党を救うことができるのか？──「アメリカン・ドッペルゲンガー」by 池田純一#15",
+      "url": "https://wired.jp/article/american-doppelganger-15/",
+      "description": "「民主党は一体何のために存在するのか」「民主党とは何を目指す政党なのか」──。そんな根源的な疑念が、トランプ後の米国において問われている。中間選挙が目前に迫るなか、民主党は、この問いにいまだ答えられていない……。",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
     {
       "title": "ネパールの壊滅的な洪水に、気候変動はどう関係しているのか",
       "url": "https://wired.jp/article/rising-temperatures-contributed-nepals-deadly-flood/",
@@ -200,38 +232,6 @@
       "url": "https://wired.jp/article/shigeru-ban-disaster-relief-architecture/",
       "description": "30年以上にわたり世界各地の被災地で活動してきた建築家・坂茂。避難所、防災行政、そして国家のあり方まで、日本が災害から学ぶための条件を訊いた。",
       "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "マラリア原虫に薬が効きにくくなる新変異、ウガンダで急拡大",
-      "url": "https://wired.jp/article/uganda-malaria-px1-drug-resistance-mutation/",
-      "description": "ウガンダで採取されたマラリア原虫から、長年にわたって広く使われているマラリア治療薬への感受性を低下させるとみられる新たな遺伝子変異が見つかった。2008年以降に急速に広がったこの変異は、既存の治療体制を揺るがしかねない。",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "終末に備えたいあなたへ",
-      "url": "https://wired.jp/article/prepare-for-doomsday/",
-      "description": "プレッパー（終末に備える人々）が持っている装備は、最高にかっこいい。でも、パンデミックの渦中に見つけたぼくだけのスタイルがある。",
-      "date": "Tue, 25 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

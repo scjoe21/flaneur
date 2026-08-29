@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-08-28T15:51:33.978676+00:00",
+  "fetchedAt": "2026-08-29T00:00:01.232582+00:00",
   "items": [
     {
       "title": "How To Give Everyday People A Say In AI Governance",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Subjective Perspective Makes Objective Reality ‘Everywhere Whole’",
+      "url": "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole",
+      "description": "The post  Subjective Perspective Makes Objective Reality ‘Everywhere Whole’  appeared first on  NOEMA .",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/the-nature-of-free-will-in-the-age-of-ai",
       "description": "The post  The Nature Of Free Will In The Age Of AI  appeared first on  NOEMA .",
       "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AI Has Entered The ‘Loss Of Control’ Transition",
-      "url": "https://www.noemamag.com/ai-has-already-entered-the-loss-of-control-transition",
-      "description": "The post  AI Has Entered The ‘Loss Of Control’ Transition  appeared first on  NOEMA .",
-      "date": "Fri, 31 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

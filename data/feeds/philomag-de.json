@@ -1,40 +1,8 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-28T15:50:16.736532+00:00",
+  "fetchedAt": "2026-08-28T23:59:34.030221+00:00",
   "items": [
-    {
-      "title": "Gefährdet oder belebt – wie steht es um unsere Demokratie?",
-      "url": "https://www.philomag.de/artikel/gefaehrdet-oder-belebt-wie-steht-es-um-unsere-demokratie",
-      "description": "Unser Regierungs- und Gesellschaftsmodell steht unter Druck. Doch woher rührt die Krise? Hat die Politik den Kontakt zu ihren Bürgern verloren oder erklären ganz andere Faktoren die wachsende Verdrossenheit? Und welcher Weg führt aus der gegenwärtigen Lage heraus? Über legitimes Aufbegehren und falsche Opfernarrative diskutieren der Historiker Jörg Baberowski und der Soziologe Detlef Pollack.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Peter Abaelard und das Wissen",
-      "url": "https://www.philomag.de/artikel/peter-abaelard-und-das-wissen",
-      "description": "Wissen über das Übel ist nicht selbst übel, schreibt Peter Abaelard. Warum kann es für ein gutes Leben sogar notwendig sein?",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "Ivan Krastev: „Man erwartet eine Politik, die so schnell liefert wie Amazon“",
       "url": "https://www.philomag.de/artikel/ivan-krastev-man-erwartet-eine-politik-die-so-schnell-liefert-wie-amazon",
@@ -52,35 +20,19 @@
       }
     },
     {
-      "title": "Wir Intelligenzbestien",
-      "url": "https://www.philomag.de/artikel/wir-intelligenzbestien",
-      "description": "Der Boom der künstlichen Intelligenz führt dazu, dass auch die menschliche Intelligenz neu und kritisch verhandelt wird. Drei Bücher erforschen aus unterschiedlicher Perspektive, was wir wissen können – und wie wir unsere Klugheit messen wollen.",
+      "title": "Kerstin und Gunnar Decker: „Wir hatten das weise Volk gesehen“",
+      "url": "https://www.philomag.de/artikel/kerstin-und-gunnar-decker-wir-hatten-das-weise-volk-gesehen",
+      "description": "Für viele ist der Osten ein unbekanntes Land mit seltsamen Denkgewohnheiten. Kerstin und Gunnar Decker, Absolventen des letzten Philosophie-Jahrgangs der DDR, bringen Licht ins Dunkel. Ein Gespräch über Utopien im Spätsozialismus, das Wunder der Wende, gesamtdeutsche Ernüchterungen und den ostdeutschen Denkstil.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Der Weltgeist und die Geopolitik",
-      "url": "https://www.philomag.de/artikel/der-weltgeist-und-die-geopolitik",
-      "description": "Vor über 60 Jahren diskutierten der französische Philosoph Alexandre Kojève und der deutsche Staatsrechtler Carl Schmitt über die heraufziehende Weltordnung. Die Berührungspunkte beider Denker, die sich in zentralen Fragen uneins waren, könnten für unsere heutige geopolitische Situation wegweisend sein.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 24
       }
     },
     {
@@ -100,16 +52,48 @@
       }
     },
     {
-      "title": "Rund und bunt gegen das Patriarchat",
-      "url": "https://www.philomag.de/artikel/rund-und-bunt-gegen-das-patriarchat",
-      "description": "Aus den Trümmern der männlichen Kunst erschuf Niki de Saint Phalle weibliche Traumwelten. Eine Ausstellung in Düsseldorf würdigt ihr Schaffen.",
+      "title": "Luxus der Scham",
+      "url": "https://www.philomag.de/artikel/luxus-der-scham",
+      "description": "Mit großer Genauigkeit seziert Visar Morina in  Von Scham und Geld  die Klassenunterschiede innerhalb einer Familie.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Die neue Ausgabe: Hat das Volk immer Recht?",
+      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-hat-das-volk-immer-recht",
+      "description": "An Wahltagen manifestiert sich die Macht des Souveräns. Dem Votum des Volkes ist Folge zu leisten. Ansonsten untergräbt die Demokratie ihr eigenes Fundament. Welche Perspektiven eröffnet die Philosophie auf das Wagnis, das unsere Staatsform eingeht? Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Phil.Kids (06/26)",
+      "url": "https://www.philomag.de/artikel/philkids-0626",
+      "description": "Kleine Menschen wissen oft mehr als große. Wir fragen, Kinder antworten.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
         "total": 9
@@ -132,54 +116,6 @@
       }
     },
     {
-      "title": "Bürgerliche Wikinger",
-      "url": "https://www.philomag.de/artikel/buergerliche-wikinger",
-      "description": "Die Wikinger gelten gemeinhin als kriegerisches Volk, das plündernd durch Europa zog. Doch ein archäologischer Fund dürfte diese Vorstellung nun irritieren.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Über das Unpolitische",
-      "url": "https://www.philomag.de/artikel/ueber-das-unpolitische",
-      "description": "Lange glaubte man, Konflikte dadurch zu entschärfen, dass man sie austrägt. Unsere aufgepeitschte Gegenwart legt jedoch den Verdacht nahe, dass sich Konflikte hochschaukeln, sobald man damit anfängt. Ein Plädoyer für Desengagement.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Schall und Wahn",
-      "url": "https://www.philomag.de/artikel/schall-und-wahn",
-      "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Verzweifelter Spaß",
       "url": "https://www.philomag.de/artikel/verzweifelter-spass",
       "description": "Im Bärenkostüm gegen die Unordnung der Welt: Das Werk der Schriftstellerin Heike Geißler wimmelt von Figuren, die das große Ganze infrage stellen. In ihrem jüngsten Roman  Michaela Kohlhaas  hilft nicht zuletzt die Ironie.",
@@ -196,25 +132,73 @@
       }
     },
     {
-      "title": "Sollten wir Freunde vor Fehlern bewahren?",
-      "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
-      "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
+      "title": "Phantome des Widerstands",
+      "url": "https://www.philomag.de/artikel/phantome-des-widerstands",
+      "description": "Verachtenswerte politische Überzeugungen, meint Wolfram Eilenberger, werden nicht dadurch verschwinden, dass man ihnen abspricht, eine „Meinung“ zu sein.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     },
     {
-      "title": "Diskrete Verdinglichung",
-      "url": "https://www.philomag.de/artikel/diskrete-verdinglichung",
-      "description": "Mit den „Meta AI Glasses“ kann man Abbilder anderer einfangen – und das teilweise unbemerkt.",
+      "title": "Hemmungslose Ordnung",
+      "url": "https://www.philomag.de/artikel/hemmungslose-ordnung",
+      "description": "Was macht den autoritären Rechtspopulismus so erfolgreich? In seinem Essay argumentiert Christoph David Piorkowski, dass die Rechte auf die politische, die sozioökonomische und die kulturelle Krise des Liberalismus mit scheinbaren Lösungsversprechen reagiert, die für viele Menschen zunächst attraktiv klingen: Geborgenheit im einheitlichen Volkskollektiv, Wiederherstellung von Ordnung und Souveränität und das Aufsprengen zivilisatorischer Fesseln.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Foucault und das moderne Subjekt",
+      "url": "https://www.philomag.de/artikel/foucault-und-das-moderne-subjekt",
+      "description": "Michel Foucaults Geburtstag jährt sich zum 100. Mal. Mit seiner genealogischen Methode demontierte der Philosoph die Vorstellung vom autonomen Subjekt und wies es folgenreich als Effekt von Disziplinartechniken aus. Als Lebenskunst rückte Foucault in späteren Jahren die Selbstgestaltung in den Fokus. In Selbstpraktiken erprobt sich ein ephemeres, freieres Selbstverhältnis – ein Motiv, dem Foucault auch persönlich verpflichtet blieb.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Gibt es Rettung aus der Robokalypse?",
+      "url": "https://www.philomag.de/artikel/gibt-es-rettung-aus-der-robokalypse",
+      "description": "In ihrem neuen Buch  Die Regierung der Maschinen  untersucht die US-amerikanische Historikerin Jill Lepore das spannungsgeladene Verhältnis von Demokratie und Technologie. Und bleibt, trotz Tech-Pionieren und Autokraten, optimistisch.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Mausi Macker",
+      "url": "https://www.philomag.de/artikel/mausi-macker",
+      "description": "In den Sozialen Medien zelebrieren junge Frauen ihren „Mausi Macker“. Um wen handelt es sich dabei?",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -228,9 +212,25 @@
       }
     },
     {
-      "title": "Was heißt hier Volkssouveränität?",
-      "url": "https://www.philomag.de/artikel/was-heisst-hier-volkssouveraenitaet",
-      "description": "Das Fundament der Demokratie ist der Demos – das Volk. Ob es aber überhaupt in der Lage ist, seine Macht souverän auszuüben, ist unter Philosophen bis heute umstritten. Hier acht Positionen.",
+      "title": "Lust am Limit",
+      "url": "https://www.philomag.de/artikel/lust-am-limit",
+      "description": "Zum Umgang mit dem Leib existieren zwei entgegengesetzte Imperative: Überwinde den Schweinehund. Und: Hör auf deinen Körper. Millay Hyatt hat einen dritten Weg gefunden.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Gezähmtes Abenteuer",
+      "url": "https://www.philomag.de/artikel/gezaehmtes-abenteuer",
+      "description": "Risikoreiche Urlaube gewinnen an Beliebtheit. Doch das Abenteuer ist längst zur Regenerationsmaßnahme verkümmert.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",

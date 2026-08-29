@@ -1,22 +1,22 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-28T15:51:33.545090+00:00",
+  "fetchedAt": "2026-08-29T00:00:00.813158+00:00",
   "items": [
     {
-      "title": "How to Lose a Trade War",
-      "url": "https://www.theatlantic.com/ideas/2026/08/why-us-canada-trade-talks-fell-apart/688386/?utm_source=feed",
+      "title": "How Karoline Leavitt Debased Her Job",
+      "url": "https://www.theatlantic.com/ideas/2026/08/karoline-leavitt-press-secretary-lies/688460/?utm_source=feed",
       "description": "",
-      "date": "2026-08-22",
+      "date": "2026-08-28",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -33,22 +33,6 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 8
-      }
-    },
-    {
-      "title": "Abdul El-Sayed’s Hasan Piker Problem",
-      "url": "https://www.theatlantic.com/ideas/2026/08/sayed-piker-israel-antisemitism/688448/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Crisis for Democrats in Michigan",
+      "url": "https://www.theatlantic.com/ideas/2026/08/sayed-piker-israel-antisemitism/688448/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
