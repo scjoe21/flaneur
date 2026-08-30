@@ -1,24 +1,8 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-29T19:26:15.046278+00:00",
+  "fetchedAt": "2026-08-30T19:48:45.241732+00:00",
   "items": [
-    {
-      "title": "Politische Philosophie - Vom Empfinden zum politischen Handeln",
-      "url": "https://www.deutschlandfunkkultur.de/politische-phaenomenologie-thomas-bedorf-bodenlos-situiert-philosophie-husserl-heidegger-100.html",
-      "description": "Politik von unten denken! Die Welt also nicht von Begriffen her denken, sondern von persönlichen Erfahrungen ausgehen. Das will die politische Phänomenologie. Was das heißt und warum diese Strömung gerade boomt, erklärt Philosoph Thomas Bedorf. Miller, Simone; Bedorf, Thomas www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 12 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 50,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 50
-      }
-    },
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
       "url": "https://www.deutschlandfunkkultur.de/philosophie-in-china-die-rolle-der-intellektuellen-100.html",
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Hegemonie - Der Kampf um Deutungshoheit",
+      "url": "https://www.deutschlandfunkkultur.de/hegemonie-der-kampf-um-deutungshoheit-100.html",
+      "description": "Migration, Klima, Sozialstaat: Der gesellschaftliche Konsens hat sich in vielen Bereichen verschoben. Zeichnet sich hier eine neue Hegemonie ab? Was meint das Konzept bei seinem Begründer Gramsci? Und wie verändern sich hegemoniale Ordnungen? Rohde, Stephanie; Opratko, Benjamin www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 30 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -148,6 +148,22 @@
       }
     },
     {
+      "title": "KI-generierte Kulturgüter: Der Tod des Autors",
+      "url": "https://www.deutschlandfunkkultur.de/ki-generierte-kulturgueter-der-tod-des-autors-100.html",
+      "description": "Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 30 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Lebenszeiten 4: Lebensabend – Zwischen Leiden und Loslassen",
       "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-4-lebensabend-zwischen-leiden-und-loslassen-100.html",
       "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/tag-der-nonbinaeren-menschen-eine-revolution-der-geschlechterordnung-100.html",
       "description": "Bratu, Christine www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Internationaler Tag des Kusses: Bedrohte Intimität",
-      "url": "https://www.deutschlandfunkkultur.de/internationaler-tag-des-kusses-bedrohte-intimitaet-100.html",
-      "description": "Schniederjann, Nils www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 05 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

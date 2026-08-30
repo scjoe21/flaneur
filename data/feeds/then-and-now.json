@@ -1,24 +1,8 @@
 {
   "sourceId": "then-and-now",
   "sourceName": "Then & Now",
-  "fetchedAt": "2026-08-29T19:27:50.724302+00:00",
+  "fetchedAt": "2026-08-30T19:50:10.239825+00:00",
   "items": [
-    {
-      "title": "The Secret Agenda behind Palestines British Mandate Revealed",
-      "url": "https://www.youtube.com/shorts/J77Q6ukBpYs",
-      "description": "How the British Empire carved up the Middle East after WWI",
-      "date": "2026-02-02",
-      "thumbnail": "https://i3.ytimg.com/vi/J77Q6ukBpYs/hqdefault.jpg",
-      "videoId": "J77Q6ukBpYs",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
     {
       "title": "The New Age of Remote War",
       "url": "https://www.youtube.com/watch?v=4fs9deveV1g",
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 5
+      }
+    },
+    {
+      "title": "Trump's Authoritarian Tactics",
+      "url": "https://www.youtube.com/watch?v=hA5Cst1AUr8",
+      "description": "",
+      "date": "2026-08-30",
+      "thumbnail": "https://i1.ytimg.com/vi/hA5Cst1AUr8/hqdefault.jpg",
+      "videoId": "hA5Cst1AUr8",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

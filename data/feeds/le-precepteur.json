@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-08-29T19:26:10.192392+00:00",
+  "fetchedAt": "2026-08-30T19:48:40.717062+00:00",
   "items": [
     {
       "title": "Savez-vous qui vous êtes ?",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 44
+      }
+    },
+    {
+      "title": "Nous consommons les êtres humains",
+      "url": "https://www.youtube.com/shorts/K3N8iEkdujU",
+      "description": "Au XXIe siècle, le sociologue Zygmunt Bauman développe une idée devenue célèbre : dans nos sociétés modernes, l’amour aurait perdu sa solidité. Il serait devenu liquide. Dans cette vidéo, je vous explique pourquoi, selon lui, les applications de rencontre et la logique de consommation nous poussent à traiter les relations humaines comme des produits remplaçables.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #bauman #relations #amour #sociologie",
+      "date": "2026-08-30",
+      "thumbnail": "https://i4.ytimg.com/vi/K3N8iEkdujU/hqdefault.jpg",
+      "videoId": "K3N8iEkdujU",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Schopenhauer nous parle de l'amour et des femmes",
-      "url": "https://www.youtube.com/shorts/8it-K1L76do",
-      "description": "Quelle est la théorie de Schopenhauer sur l'amour ? Que pense-t-il des différences entre hommes et femmes ? Est-il misogyne ? Il nous donne ses réponses.\n \n➡️ -20% sur votre abonnement Learning Frontier avec le code \"PRECEPTEUR\" : https://learningfrontier.ai/le-precepteur\n \n#Schopenhauer #Philosophie #Amour #Psychologie #IA",
-      "date": "2026-07-13",
-      "thumbnail": "https://i1.ytimg.com/vi/8it-K1L76do/hqdefault.jpg",
-      "videoId": "8it-K1L76do",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

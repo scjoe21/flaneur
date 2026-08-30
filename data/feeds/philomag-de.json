@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-08-29T19:26:16.821658+00:00",
+  "fetchedAt": "2026-08-30T19:48:48.401598+00:00",
   "items": [
     {
       "title": "Ivan Krastev: „Man erwartet eine Politik, die so schnell liefert wie Amazon“",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "Kerstin und Gunnar Decker: „Wir hatten das weise Volk gesehen“",
-      "url": "https://www.philomag.de/artikel/kerstin-und-gunnar-decker-wir-hatten-das-weise-volk-gesehen",
-      "description": "Für viele ist der Osten ein unbekanntes Land mit seltsamen Denkgewohnheiten. Kerstin und Gunnar Decker, Absolventen des letzten Philosophie-Jahrgangs der DDR, bringen Licht ins Dunkel. Ein Gespräch über Utopien im Spätsozialismus, das Wunder der Wende, gesamtdeutsche Ernüchterungen und den ostdeutschen Denkstil.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 24
       }
     },
     {
@@ -112,6 +96,38 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "Über das Unpolitische",
+      "url": "https://www.philomag.de/artikel/ueber-das-unpolitische",
+      "description": "Lange glaubte man, Konflikte dadurch zu entschärfen, dass man sie austrägt. Unsere aufgepeitschte Gegenwart legt jedoch den Verdacht nahe, dass sich Konflikte hochschaukeln, sobald man damit anfängt. Ein Plädoyer für Desengagement.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Schall und Wahn",
+      "url": "https://www.philomag.de/artikel/schall-und-wahn",
+      "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
         "total": 5
       }
     },
@@ -215,22 +231,6 @@
       "title": "Lust am Limit",
       "url": "https://www.philomag.de/artikel/lust-am-limit",
       "description": "Zum Umgang mit dem Leib existieren zwei entgegengesetzte Imperative: Überwinde den Schweinehund. Und: Hör auf deinen Körper. Millay Hyatt hat einen dritten Weg gefunden.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Gezähmtes Abenteuer",
-      "url": "https://www.philomag.de/artikel/gezaehmtes-abenteuer",
-      "description": "Risikoreiche Urlaube gewinnen an Beliebtheit. Doch das Abenteuer ist längst zur Regenerationsmaßnahme verkümmert.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",

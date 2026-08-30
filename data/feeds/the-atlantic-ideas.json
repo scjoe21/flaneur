@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-29T19:27:52.460825+00:00",
+  "fetchedAt": "2026-08-30T19:50:12.781831+00:00",
   "items": [
     {
       "title": "How Karoline Leavitt Debased Her Job",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "An American City, With Troops on Its Streets",
-      "url": "https://www.theatlantic.com/ideas/2026/08/a-year-of-troops-in-washington/688317/?utm_source=feed",
+      "title": "A Society of Cheats",
+      "url": "https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/?utm_source=feed",
       "description": "",
-      "date": "2026-08-23",
+      "date": "2026-08-30",
       "thumbnail": "",
       "videoId": "",
-      "priority": 8,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 8,
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 8
+        "total": 10
       }
     },
     {

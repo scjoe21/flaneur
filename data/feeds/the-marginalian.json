@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-29T19:27:53.060752+00:00",
+  "fetchedAt": "2026-08-30T19:50:13.442917+00:00",
   "items": [
     {
       "title": "Ode to a Good Pen: A Poem About Writing the Book of Love, Read by Nick Cave",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "How to Apprehend Reality as It Really Is: Thoreau on Knowing vs. Seeing",
+      "url": "https://www.themarginalian.org/2026/08/30/thoreau-knowing-seeing/",
+      "description": "\"We hear and apprehend only what we already half know.\"",
+      "date": "Sun, 30 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 25
+      }
+    },
+    {
       "title": "How to Be a Tree: Notes on the Resilience of Letting Go",
       "url": "https://www.themarginalian.org/2026/08/28/trees/",
       "description": "This essay and poem are part of the Universe in Verse book. Trees grant us some of the richest metaphors for our own lives — a polished lens on the quality of attention we pay the world. “The tree which moves some to tears of joy is in the eyes of others only a green thing which stands in the way,” wrote William Blake. Walt Whitman considered them our greatest teachers in living with authenticity. For Hermann Hesse, the key to existential joy was in learning how to listen to the trees. But far b",
@@ -65,38 +81,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "How to Delight in Your Days: Poet and Gardener Ross Gay’s Yearlong Experiment in Willful Gladness",
-      "url": "https://www.themarginalian.org/2026/08/25/ross-gay-book-of-delights/",
-      "description": "\"The more you study delight, the more delight there is to study... I felt my life to be more full of delight. Not without sorrow or fear or pain or loss. But more full of delight.\"",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The Vocabulary of Vulnerability: 10 Wonderfully Untranslatable Words from Around the World for Complex and Difficult Emotions",
-      "url": "https://www.themarginalian.org/2026/08/24/book-of-human-emotions/",
-      "description": "Language is the chalice we lift to our lips to taste our own experience — a vessel that constrains what it contains by giving it its own shape. The more complex our experience, the more muddled the emotions that comprise it, the more it spills outside what language can hold. And yet we live in language — narrative is the neurocognitive pillar of personhood and emotions are how the brain interprets bodily sensations, an interpretation achieved largely by naming. We also live in culture — encoded ",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -116,19 +100,35 @@
       }
     },
     {
-      "title": "Leonard Cohen on the Antidote to Anger and the Meaning of Resistance",
-      "url": "https://www.themarginalian.org/2026/08/25/leonard-cohen-anger-resistance/",
-      "description": "One of the commonest and most corrosive human reflexes is to react to helplessness with anger. We do it in our personal lives and we do it in our political lives. We are living through a time of uncommon helplessness and uncertainty, touching every aspect of our lives, and in such times another reflex is the longing for an authority figure selling certainty, claiming the fist to be a helping hand. It is a touchingly human impulse, primal and pacifying — children turn to the parent to remove the ",
-      "date": "Tue, 25 Aug 2026",
+      "title": "Frankenstein Author Mary Shelley on the Surest Remedy for a Sunken Spirit and What Makes Life Worth Living",
+      "url": "https://www.themarginalian.org/2026/08/30/mary-shelley-the-last-man/",
+      "description": "\"There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others.\"",
+      "date": "Sun, 30 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
+      }
+    },
+    {
+      "title": "Barry Lopez on the Cure for Our Existential Loneliness and the Three Tenets of a Full Life",
+      "url": "https://www.themarginalian.org/2026/08/29/barry-lopez-place-loneliness/",
+      "description": "\"Existential loneliness and a sense that one’s life is inconsequential, both of which are hallmarks of modern civilizations, seem to me to derive in part from our abandoning a belief in the therapeutic dimensions of a relationship with place.\"",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "The Moving Letter James Baldwin Received from His Childhood Teacher at the Peak of His Fame and His Heartbreak",
-      "url": "https://www.themarginalian.org/2026/08/26/james-baldwin-orilla-bill-miller/",
-      "description": "In early 1934, a twenty-four-year-old graduate student at Columbia Teachers College took an internship teaching drama and producing student plays at PS 24 in Harlem. Among her young charges at that “dreadful ancient New York schoolhouse,” as she would later recall, was a ten-year-old boy she was astonished to find reading, like her, Dickens. Their conversations quickly made her realize that “here was an exceptional and brilliant boy.” Her name was Orilla Miller, though he called her Bill. His na",
-      "date": "Thu, 27 Aug 2026",
+      "title": "Life, Loss, and the Wisdom of Rivers",
+      "url": "https://www.themarginalian.org/2026/08/29/olivia-laing-to-the-river/",
+      "description": "\"It’s a mercy that time runs in one direction only, that we see the past but darkly and the future not at all.\"",
+      "date": "Sat, 29 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "The Moomin Strategy for Living with Uncertainty",
-      "url": "https://www.themarginalian.org/2026/08/24/too-ticky-quotes-tove-jansson/",
-      "description": "\"All things are so very uncertain, and that’s exactly what makes me feel reassured.\"",
-      "date": "Mon, 24 Aug 2026",
+      "title": "The Moving Letter James Baldwin Received from His Childhood Teacher at the Peak of His Fame and His Heartbreak",
+      "url": "https://www.themarginalian.org/2026/08/26/james-baldwin-orilla-bill-miller/",
+      "description": "In early 1934, a twenty-four-year-old graduate student at Columbia Teachers College took an internship teaching drama and producing student plays at PS 24 in Harlem. Among her young charges at that “dreadful ancient New York schoolhouse,” as she would later recall, was a ten-year-old boy she was astonished to find reading, like her, Dickens. Their conversations quickly made her realize that “here was an exceptional and brilliant boy.” Her name was Orilla Miller, though he called her Bill. His na",
+      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

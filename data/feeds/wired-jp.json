@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-29T19:28:15.132744+00:00",
+  "fetchedAt": "2026-08-30T19:50:34.103717+00:00",
   "items": [
+    {
+      "title": "わたしたちは何を蓄えて生きるのか──料理人・三上奈緒と能登で考えた「食べる」と「備える」",
+      "url": "https://wired.jp/article/mikami-nao-resilient-table/",
+      "description": "土地にある食材を使い、居合わせた人たちと食卓をつくってきた「旅する料理人」こと三上奈緒と珠洲の海や里山を巡り、食べること、人とつながること、土地の知恵から、非常時に人を支える日常の力を考えた。",
+      "date": "Sun, 30 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
     {
       "title": "GenZの人生は、一度限りのドラマではなく《リセット》できるゲームである：映画『ドラマなふたり』池田純一レビュー",
       "url": "https://wired.jp/article/the-drama-movie-review-junichi-ikeda/",
@@ -84,6 +100,22 @@
       }
     },
     {
+      "title": "Excelを“eスポーツ化”するパワーユーザーたち",
+      "url": "https://wired.jp/article/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
+      "description": "一部のデータ分析や金融業界のプロたちが、“Excel障害物レース”で競い合っている。膨大な数のフォロワーを集めるインフルエンサーらによって、AI時代においてもExcelは存在感を保ち続けている。",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "オープンウェイトAIの21モデル、“改変”により安全策を弱体化できることが明らかに",
       "url": "https://wired.jp/article/tamperbench-open-weight-llm-safety-tampering/",
       "description": "誰でも自由に重みを調整できるオープンウェイトAIモデルには、犯罪行為などに悪用させないための機能制限が設けられている。ところが、この安全機能が簡単に弱体化できることが最新の研究で明らかになった。",
@@ -132,67 +164,51 @@
       }
     },
     {
-      "title": "気候災害にどう備えるか ──トランプ政権下の米国の場合",
-      "url": "https://wired.jp/article/how-to-survive-a-disaster-in-the-age-of-trump-emergency-fema-wild-fire-hurricane/",
-      "description": "猛暑やハリケーンなど、増え続ける異常気象による激甚災害に備え、信頼できる情報を探し身の安全を守る方法とは？ 自分たちがすべきことをリストアップした。",
-      "date": "Thu, 27 Aug 2026",
+      "title": "サムスン「Galaxy Z Fold8」「Z Fold8 Ultra」レビュー：使いやすさは新形状のFold8に軍配",
+      "url": "https://wired.jp/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
+      "description": "折り畳みスマートフォンの登場から7年。サムスンはGalaxy Z Fold8で新たな形状を採用し、使いやすさを大きく向上させた。今回Galaxy Z Fold8 Ultraとも比べながら実際に使い、両者の違いを確かめた。",
+      "date": "Sun, 30 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "成人向け映像に特化した生成AIプラットフォーム「Rogue Studio」、映画並みのクオリティを目指す",
-      "url": "https://wired.jp/article/this-r-rated-film-studio-wants-to-be-the-hbo-of-ai/",
-      "description": "「Rogue Studio」は、“洗練された”アダルトコンテンツの生成に賭けている。ハリウッドでのAIへの反発を意識しながら、独自のモデレーション体制を整え、成人向け映像の新たな制作手法を模索している。",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "グーグル「Pixel 11」レビュー：この価格帯では非常に魅力的な選択肢",
-      "url": "https://wired.jp/review/google-pixel-11/",
-      "description": "昨年の「Pixel 10」から大きく変わったわけではない。それでも「Pixel 11」は、優れたカメラやバッテリー、自然なAI機能を備え、日常使いに適したAndroidスマートフォンに仕上がっている。",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "政府AI「源内」とは？ その“中身”から仕組み、用途まで徹底解説",
-      "url": "https://wired.jp/article/what-is-government-ai-gennai/",
-      "description": "日本政府の職員向け生成AI利用環境「源内」が、全府省庁18万人を対象に大規模実証の段階に入った。近年よく話題に上るガバメントAIについて、その中身から仕組み、用途まで解説する。",
-      "date": "Wed, 26 Aug 2026",
+      "title": "新型「Mac mini」「Mac Studio」、新チップでAI性能を強化",
+      "url": "https://wired.jp/article/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
+      "description": "アップルが「Mac mini」と「Mac Studio」の新モデルを発表した。Appleシリコン初の2nmチップ「M6」と、4ダイ構成の「M5 Ultra」が新たに登場。日本では9月22日に発売される。",
+      "date": "Sun, 30 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "空を覆う山火事の煙から健康を守るためにできること",
+      "url": "https://wired.jp/article/northeast-us-blanketed-in-canadian-wildfire-smoke/",
+      "description": "高濃度の大気汚染に見舞われたときに一人ひとりはいかなる対策が取れるのか、制御不能な山火事がおよそ100件発生したカナダの事例から学ぶ。",
+      "date": "Sat, 29 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
       "description": "メタは歴史的な和解の一環として、米国の州・地域に巨額を支払うだけでなく、自社プラットフォームに実質的な変更を加える。",
       "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "専門家が期待と警戒を寄せる強力な中国製AI、Z.aiの新モデルが登場",
-      "url": "https://wired.jp/article/zai-open-weight-ai-models-release-cybersecurity-hacking/",
-      "description": "中国のAI企業Z.aiが、高性能なオープンウェイトモデル「GLM-5.3」を発表した。脆弱性の発見や防御に役立つ一方、悪用の危険もあるため、慎重なリリースを進めている。",
-      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

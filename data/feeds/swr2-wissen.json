@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-29T19:28:00.998579+00:00",
+  "fetchedAt": "2026-08-30T19:50:22.005798+00:00",
   "items": [
     {
       "title": "Warum so viele Ostdeutsche rechts wählen",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "Die Plastikwende – Wie kann Kunststoff nachhaltig werden?",
-      "url": "https://www.swr.de/swrkultur/wissen/die-plastikwende-wie-kann-kunststoff-nachhaltig-werden-100.html",
-      "description": "Die Erfindung von Plastik hat der Menschheit viele neue Möglichkeiten gegeben, doch heute bereitet es Probleme. Mit chemischen Tricks könnten Kunststoffe ökologisch besser werden.",
-      "date": "Sun, 16 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "BAföG, Stipendien, Kredite – Die Reform der Studienfinanzierung",
       "url": "https://www.swr.de/swrkultur/wissen/bafoeg-stipendien-kredite-die-reform-der-studienfinanzierung-100.html",
       "description": "Viele Studierende beantragen kein Bafög aus Angst vor Schulden. Aber 500 Euro für ein WG-Zimmer muss man sich leisten können. Fachleute fordern eine Reform der Studienfinanzierung.",
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Das Volk – Wer ist das eigentlich?",
+      "url": "https://www.swr.de/swrkultur/wissen/das-volk-annaeherung-an-einen-schwierigen-begriff-104.html",
+      "description": "Bei mehreren Landtagswahlen im September 2026 wird das Wahlvolk wieder an die Urnen gebeten. Aber: Wer ist dieses Volk? Ist der Begriff noch zeitgemäß oder sollten wir ihn abschaffen?",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
       }
     },
     {
