@@ -1,29 +1,13 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-08-30T19:48:41.860174+00:00",
+  "fetchedAt": "2026-09-04T08:23:16.975741+00:00",
   "items": [
     {
-      "title": "Comment nous évoluons vers une sensibilité exacerbée… au risque de la fragilité",
-      "url": "https://www.philomag.com/articles/comment-nous-evoluons-vers-une-sensibilite-exacerbee-au-risque-de-la-fragilite",
+      "title": "Après l’été caniculaire, comment faire le deuil de la nature ?",
+      "url": "https://www.philomag.com/articles/apres-lete-caniculaire-comment-faire-le-deuil-de-la-nature",
       "description": "",
-      "date": "Sat, 22 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Pourquoi vivons-nous dans des capsules ? Entretien avec Pascal Chabot",
-      "url": "https://www.philomag.com/articles/pourquoi-vivons-nous-dans-des-capsules-entretien-avec-pascal-chabot",
-      "description": "",
-      "date": "Sat, 22 Aug 2026",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -36,26 +20,10 @@
       }
     },
     {
-      "title": "Où se procurer le n° 202 de “Philosophie magazine” ? Notre outil pour le trouver près de chez vous !",
-      "url": "https://www.philomag.com/articles/ou-se-procurer-le-ndeg-202-de-philosophie-magazine-notre-outil-pour-le-trouver-pres-de",
+      "title": "“La Souffrance éthique”, de Christophe Dejours et Gabriel Perez : sortir du travail dégradé",
+      "url": "https://www.philomag.com/articles/la-souffrance-ethique-de-christophe-dejours-et-gabriel-perez-sortir-du-travail-degrade",
       "description": "",
-      "date": "Mon, 29 Sep 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "“La Peur de la liberté”, un guide pour résister à l’autoritarisme",
-      "url": "https://www.philomag.com/articles/la-peur-de-la-liberte-un-guide-pour-resister-lautoritarisme",
-      "description": "",
-      "date": "Sun, 23 Aug 2026",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -65,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "“Dois-je trahir une amie pour la sauver ?” Charles Pépin répond à vos petites et grandes questions",
-      "url": "https://www.philomag.com/articles/dois-je-trahir-une-amie-pour-la-sauver-charles-pepin-repond-vos-petites-et-grandes",
-      "description": "",
-      "date": "Mon, 24 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {
@@ -100,26 +52,10 @@
       }
     },
     {
-      "title": "“Fjord”, de Cristian Mungiu : une Palme d’or entre frictions et vérité",
-      "url": "https://www.philomag.com/articles/fjord-de-cristian-mungiu-une-palme-dor-entre-frictions-et-verite",
+      "title": "Cours toujours ! La chronique d’Étienne Klein",
+      "url": "https://www.philomag.com/articles/cours-toujours-la-chronique-detienne-klein",
       "description": "",
-      "date": "Sun, 23 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Un autre ordre mondial est-il possible ? Dialogue entre Dominique de Villepin et Thomas Gomart",
-      "url": "https://www.philomag.com/articles/un-autre-ordre-mondial-est-il-possible-dialogue-entre-dominique-de-villepin-et-thomas",
-      "description": "",
-      "date": "Tue, 25 Aug 2026",
+      "date": "Fri, 04 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -129,6 +65,102 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Le nouvel autodafé numérique",
+      "url": "https://www.philomag.com/articles/le-nouvel-autodafe-numerique",
+      "description": "",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Quel prof de philo a été Jean-Paul Sartre ? L'un de ses anciens élèves témoigne",
+      "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
+      "description": "",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Faut-il aimer ce qui nous arrive ?",
+      "url": "https://www.philomag.com/articles/faut-il-aimer-ce-qui-nous-arrive",
+      "description": "",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Violence de la propriété”, de Frédéric Gros : de la prédation à la relation",
+      "url": "https://www.philomag.com/articles/violence-de-la-propriete-de-frederic-gros-de-la-predation-la-relation",
+      "description": "",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Aristote dans la fournaise des incendies de l’été",
+      "url": "https://www.philomag.com/articles/aristote-dans-la-fournaise-des-incendies-de-lete",
+      "description": "",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Prendre langue avec l’IA ? Mazarine M. Pingeot débat avec Catherine Malabou",
+      "url": "https://www.philomag.com/articles/prendre-langue-avec-lia-mazarine-m-pingeot-debat-avec-catherine-malabou",
+      "description": "",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/quand-jean-luc-melenchon-fait-leloge-de-la-chine-la-chronique-de-michel-eltchaninoff",
       "description": "",
       "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Comprendre la “pensée indienne” avec Isabelle Ratié",
-      "url": "https://www.philomag.com/articles/comprendre-la-pensee-indienne-avec-isabelle-ratie",
-      "description": "",
-      "date": "Fri, 21 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’art et les manières de trouver le mot juste : l'édito d’Alexandre Lacroix",
-      "url": "https://www.philomag.com/articles/lart-et-les-manieres-de-trouver-le-mot-juste-ledito-dalexandre-lacroix",
-      "description": "",
-      "date": "Fri, 21 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

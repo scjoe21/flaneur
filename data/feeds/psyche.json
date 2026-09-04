@@ -1,38 +1,22 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-08-30T19:50:10.078243+00:00",
+  "fetchedAt": "2026-09-04T08:23:44.412858+00:00",
   "items": [
     {
-      "title": "How to think like a Hegelian",
-      "url": "https://psyche.co/guides/how-to-think-like-a-hegelian",
-      "description": "For Hegel, your thoughts aren’t trapped in a cerebral box: they act on the world, making meaning and expressing your freedom - by Jeffrey Reid Read on Psyche",
-      "date": "Mon, 10 Aug 2026",
+      "title": "Why you should try living without free will for two weeks",
+      "url": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks",
+      "description": "Set aside the philosophical debates and act as if there is no free will. It leads to less blaming and better questions - by Tara-Lyn Camilleri Read on Psyche",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "How to cultivate compassion",
-      "url": "https://psyche.co/videos/why-nurturing-your-compassionate-side-is-simple-and-deeply-beneficial",
-      "description": "More than a moral good, practicing compassion on a daily basis can make us more resilient, happier and healthier people - Video by Dr Tracey Marks Watch on Psyche",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
+        "total": 20
       }
     },
     {
@@ -116,6 +100,22 @@
       }
     },
     {
+      "title": "The human frequency",
+      "url": "https://psyche.co/portraits/dj-william-goldsmith-on-the-human-art-of-internet-radio",
+      "description": "With Radio Paradise, William Goldsmith built an internet radio station that’s become a living argument for taste, trust and the art of choosing what comes next - by Greg Easley Read on Psyche",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "The satisfaction of doing work that lasts",
       "url": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts",
       "description": "In Studs Terkel’s oral history ‘Working’, some of the people happiest with their work have something in common - by Matt Huston Read on Psyche",
@@ -132,19 +132,19 @@
       }
     },
     {
-      "title": "A portrait of Liliana Porter",
-      "url": "https://psyche.co/videos/whimsy-and-tragedy-exist-side-by-side-in-liliana-porters-art",
-      "description": "Bringing to life her charming cast of vintage figurines, an Argentinian artist finds humour and sorrow in absurdity - Video by the Museum of Modern Art Watch on Psyche",
-      "date": "Mon, 10 Aug 2026",
+      "title": "Logistics underpins power – and logistics is female",
+      "url": "https://psyche.co/ideas/logistics-underpins-power-and-logistics-is-female",
+      "description": "A women’s history of logistics from the battlefields of 19th-century Europe to middle-class households and sex trafficking - by Susan Zieger Read on Psyche",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

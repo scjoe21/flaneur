@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-08-30T19:50:16.457879+00:00",
+  "fetchedAt": "2026-09-04T08:23:49.423858+00:00",
   "items": [
     {
       "title": "Louise Glück : les recettes de l’hiver",
@@ -17,6 +17,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 23
+      }
+    },
+    {
+      "title": "Comment la gauche pourrait gagner ?",
+      "url": "https://www.nonfiction.fr/article-12819-comment-la-gauche-pourrait-gagner.htm",
+      "description": "Pourquoi la gauche peine-t-elle aujourd'hui à reconquérir les classes populaires alors qu'elle a longtemps su les représenter et les mobiliser ? Dans  Organiser la victoire  (Le Bord de l'eau, 2026), Noé Girardot-Champsaur, communicant chez Bona fidé et expert associé à la Fondation Jean-Jaurès, défend l'idée que cette crise relève moins d’un déficit programmatique que d’une crise organisationnelle. Pour retrouver une majorité, la gauche doit reconstruire ses méthodes de recrutement, de formatio",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -120,22 +136,6 @@
       "url": "https://www.nonfiction.fr/article-12789-zidane-un-regard-sociologique.htm",
       "description": "Sociologue, désormais professeur émérite à Sciences Po Lille, Stéphane Beaud vient de faire paraître une biographie de Zinedine Zidane, qui peut aussi se lire comme une synthèse de ses thématiques de travail sociologique : mondes ouvriers, éducation, immigration, football… Dans celle-ci, il revient sur les   origines familiales de Zidane – le parcours de son père notamment, l’éducation qu’il a donnée à ses enfants –, sur ses années en centre de formation à Cannes, sa carrière de la France à l’It",
       "date": "Tue, 07 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Hellfest 2026 (pt. II) : joie de vivre et death metal",
-      "url": "https://www.nonfiction.fr/article-12794-hellfest-2026-pt-ii-joie-de-vivre-et-death-metal.htm",
-      "description": "Après  un premier round consacré à l’existentialisme funèbre des artistes black metal programmés sur la scène Temple , notre équipe de live-reporters au Hellfest transite d’une longueur de piscine (olympique) sur sa gauche pour rendre compte, sur la scène Altar voisine, d’un plateau death particulièrement relevé et réjouissant. \r\n\r\n Si, sur la Temple, comme les lecteurs de notre précédent article l’ont compris, cela ne rigolait pas franchement à gorge déployée, en revanche sur l’Altar on pouvait",
-      "date": "Mon, 06 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

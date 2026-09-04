@@ -1,11 +1,27 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-08-30T19:50:19.191810+00:00",
+  "fetchedAt": "2026-09-04T08:23:51.221264+00:00",
   "items": [
     {
+      "title": "Das gebrochene Versprechen der Maschinen",
+      "url": "https://www.deutschlandfunkkultur.de/endlich-faul-sein-das-gebrochene-versprechen-der-maschinen-100.html",
+      "description": "Maschinen sollten die Arbeit erleichtern und uns mehr Freiheit schenken. Doch oft erhöhen sie Tempo und Leistungsdruck. Mit dem Einsatz von KI und Robotern stellt sich die alte Frage neu: Warum arbeiten wir eigentlich immer mehr – statt weniger? Land, Ulrich www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 45
+      }
+    },
+    {
       "title": "Finanzbildung - Jung sein und clever mit Geld umgehen",
-      "url": "https://www.deutschlandfunkkultur.de/der-preis-der-entscheidung-wie-junge-menschen-den-umgang-mit-geld-lernen-100.html",
+      "url": "https://www.deutschlandfunkkultur.de/finanzbildung-jung-sein-und-clever-mit-geld-umgehen-100.html",
       "description": "Heute reden junge Menschen sehr selbstverständlich über ETFs oder Kryptowährungen. Gleichzeitig haben immer mehr von ihnen Geldprobleme. Wie kann man teuren Verlockungen in den sozialen Netzwerken widerstehen und vernünftig wirtschaften? Leue, Vivien www.deutschlandfunkkultur.de, Zeitfragen. Feature",
       "date": "Tue, 11 Aug 2026",
       "thumbnail": "",
@@ -84,22 +100,6 @@
       }
     },
     {
-      "title": "Kulinarische Identität - Über Ausgrenzung, Rassismus und Aneignung auf dem Teller",
-      "url": "https://www.deutschlandfunkkultur.de/eine-portion-rassismus-ueber-ausgrenzung-und-aneignung-auf-dem-teller-100.html",
-      "description": "Sag mir, was du isst, und ich sage dir, wer du bist! Essen ist Identität. Jede Migrationsbewegung, jeder Krieg hinterlässt Spuren in der Gastro-Szene, im Supermarkt und auf den Tellern. Essen kann verbinden, ausgrenzen und zum Widerstand ermächtigen. (Erstsendung am 27.5.2025) Mayer, Verena Carola www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 04 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
       "title": "Umweltgifte - Chemie-Cocktail und mehr – Was uns wirklich im Blut liegt",
       "url": "https://www.deutschlandfunkkultur.de/umweltgift-chemikalien-blut-100.html",
       "description": "Wir alle haben Weichmacher und andere Chemikalien in unserem Körper. Einige davon stehen im Verdacht, krank zu machen. Forschende wollen herausfinden, ob man die Gefahr verringern kann – durch den Lebensstil und durch Gesetze. (Erstsendung: 12.12.2024) Nordwig, Hellmuth www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -148,6 +148,22 @@
       }
     },
     {
+      "title": "Die neue Wirklichkeit der Geschlechtskrankheiten",
+      "url": "https://www.deutschlandfunkkultur.de/sex-syphilis-superkeime-die-neue-wirklichkeit-der-geschlechtskrankheiten-100.html",
+      "description": "Dating-Apps, sexuelle Freiheit und moderne Aids-Prävention verändern unseren Umgang mit Sex: Die Zahl der Geschlechtskrankheiten steigt seit Jahren. Doch das ist nicht nur eine schlechte Nachricht. Penzel, Marius www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
+    {
       "title": "Digitaler Staat - Probleme erkannt, aber noch nicht gebannt",
       "url": "https://www.deutschlandfunkkultur.de/ein-jahr-digitalministerium-probleme-erkannt-aber-nicht-gebannt-100.html",
       "description": "Das Digitalministerium wurde vor einem Jahr gegründet. Die Ziele: Deutschlands Verwaltung schneller und effizienter zu machen und den Ausbau der digitalen Infrastruktur voranzutreiben. Experten loben die ersten Schritte, doch es gibt auch Kritik. Marie Zinkann, Johannes Zuber www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -164,51 +180,35 @@
       }
     },
     {
-      "title": "Ostdeutschland - Zurück aufs Land",
-      "url": "https://www.deutschlandfunkkultur.de/ostdeutschland-gibt-es-wege-aus-der-demografischen-falle-100.html",
-      "description": "Seit 1990 ist die Bevölkerung in Ostdeutschland um 16 Prozent geschrumpft. Besonders betroffen sind ländliche Gegenden. Kitas schließen und Busverbindungen werden gestrichen. Doch es gibt Ideen, um junge Familien wieder vom Dorfleben zu überzeugen. Schulz, Brigitte www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 10 Aug 2026",
+      "title": "80 Jahre RIAS - Nachbar, Popstar, kalter Krieger",
+      "url": "https://www.deutschlandfunkkultur.de/nachbar-popstar-kalter-krieger-80-jahre-rias-100.html",
+      "description": "Mit dem Kalten Krieg wurde ein Radiosender zur Stimme Westberlins. Millionen Menschen, auch in der DDR, hörten dem Radio im amerikanischen Sektor zu. Der RIAS berichtete über Blockade, Aufstand und Mauerbau. Vor 80 Jahren ging er auf Sendung. Von Ralf Bei der Kellen, Martin Hartwig und Lydia Heller www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "Japanische Lebenskunst - Fünf Säulen zum Glück",
-      "url": "https://www.deutschlandfunkkultur.de/fuenf-saeulen-zum-glueck-die-japanische-lebenskunst-dlf-kultur-6728fc54-100.html",
-      "description": "Lifestyle-Trends aus Japan haben eine besondere Faszination. Das Land der schlichten Ästhetik und mystischen Kultur setzt auf der Suche nach einem gelingenden Leben auf Gelassenheit. Macht japanische Lebenskunst glücklicher? (Erstsendung: 27.6.2024) Andi Hörmann www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 06 Aug 2026",
+      "title": "Ostdeutschland - In den Medien wird noch immer anders berichtet",
+      "url": "https://www.deutschlandfunkkultur.de/ostdeutschland-in-den-medien-102.html",
+      "description": "Schrumpfen, spalten, beklagen – das sind Verben, die in der Berichterstattung über Ostdeutschland häufig auftauchen. Das Negativbild besteht seit 35 Jahren. Doch es gibt Versuche, dem Westblick eine neue Perspektive entgegenzusetzen. Gerstenberg, Ralph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 31 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Deutsches Denken - Rechte Intellektuelle der Bundesrepublik (4/4) - Aus Denken wird politische Macht",
-      "url": "https://www.deutschlandfunkkultur.de/deutsches-denken-4-4-rechte-intellektuelle-der-bundesrepublik-100.html",
-      "description": "Mit der Gründung der AfD wittert die Neue Rechte ihre Chance, aus der Nische herauszukommen. Es gelingt zwar, die Partei nach rechts zu verschieben, aber die parteiinternen Richtungskämpfe führen auch zu Verwerfungen innerhalb der Bewegung. (Erstsendung: 10.9.2025) Schniederjann, Nils; Friedrich, Sebastian www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 05 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
+        "novelty": 5,
+        "total": 15
       }
     },
     {

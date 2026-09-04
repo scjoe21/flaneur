@@ -1,110 +1,78 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-08-30T19:50:12.309966+00:00",
+  "fetchedAt": "2026-09-04T08:23:46.339662+00:00",
   "items": [
     {
-      "title": "The living world is forcing scientists to rethink purpose",
-      "url": "https://bigthink.com/the-well/the-living-world-is-forcing-scientists-to-rethink-purpose/",
-      "description": "Alan Love studies how scientists think about life, purpose, and agency. In this full interview, he offers a wide-ranging guide to purpose in living systems, moving across biology, medicine, artificial intelligence, and the structure of science itself. He explores what it means for organisms to act with direction, why agency matters at multiple scales, and how ideas like function and goal-directed behavior can help us better understand life. \n For Love, these questions are not confined to one fie",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/The-Well-Alan-Love-Full-Interview-Web.jpg?quality=85&w=640",
+      "title": "The science, medicine, and mythology of menstruation and menopause",
+      "url": "https://bigthink.com/series/full-interview/science-menopause-menstruation/",
+      "description": "OBGYN and author Dr. Jen Gunter explains what’s actually happening inside the body during menstruation and menopause, why so much of what we’ve been told is wrong, and why that information gap has been weaponized against half the population. \n \n This video  The science, medicine, and mythology of menstruation and menopause  is featured on  Big Think .",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-1.34.01-PM.png?quality=80&w=640",
       "videoId": "",
-      "priority": 40,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 40
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 10,
+        "total": 39
       }
     },
     {
-      "title": "The Philosopher’s Guide to Uncertainty",
-      "url": "https://bigthink.com/series/full-interview/the-philosophers-guide-to-uncertainty/",
-      "description": "There is a paradox at the heart of being human. \n On the one hand, we have to make plans for the future. We go to jobs, book vacations, and save for our retirement. But on the other, life is never straightforward, and the best laid plans often go wrong. The old Yiddish proverb, “Man plans, and God laughs,” captures the limits of our ability to control the future. \n So how are we to resolve the paradox? How can we feel confident planning for a future that we can’t predict? How can we make rationa",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/philosophy-event1.jpg?quality=85&w=640",
+      "title": "Do we live inside a baby universe that’s really a black hole on the outside?",
+      "url": "https://bigthink.com/starts-with-a-bang/baby-universes-black-holes-dark-matter/",
+      "description": "One of the biggest existential questions that has puzzled humanity for as long as humans have been around is simply, “Where did all this come from?” After countless centuries of wondering and speculating, the 20th century brought with it our first scientific answers to that question. We learned that distant objects in the Universe are speeding away from one another: evidence that our Universe is expanding. We discovered that more distant galaxies appear younger, less massive, and with greater ra",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/01/origin-94.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 34
+      }
+    },
+    {
+      "title": "How to make difficult decisions, according to philosophy",
+      "url": "https://bigthink.com/mini-philosophy/how-to-make-difficult-decisions-according-to-philosophy/",
+      "description": "Every now and then, life asks us a question with no easy answer. Which career should we pursue? Should we have children? Should we move to the coast or closer to our friends? \n We gather information, read testimonials, and exhaustively research both options. One path seems better in some ways, the other seems better in others, and we find ourselves stuck between them. The best answer eludes us. \n This is what the philosopher Ruth Chang  calls  a “hard choice.” \n What makes these kinds of choices",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/difficult-decision-philosophy_compressed.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
+        "daily": 20,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
         "total": 30
       }
     },
     {
-      "title": "The invisible forces that create talent and elite performance",
-      "url": "https://bigthink.com/series/full-interview/science-of-talent/",
-      "description": "Talent isn’t a gift we’re born with – it’s a signal we’ve been reading completely wrong. Author Daniel Coyle breaks down the common traits shared by successful people, and why environment, not innate ability, is the variable that ties them all together. \n \n This video  The invisible forces that create talent and elite performance   is featured on  Big Think .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Screenshot-2026-08-26-at-12.01.08-PM.png?quality=80&w=640",
+      "title": "Why mirrors flip left-to-right but not up-and-down",
+      "url": "https://bigthink.com/starts-with-a-bang/mirrors-flip-left-right-up-down/",
+      "description": "If you’ve ever looked in a mirror, you’ve likely noticed that everything you see is flipped. When you raise your left hand, your reflection raises their right hand. When you wink with your right eye, your reflection’s left eye winks back. And if you write a message and hold it up, you’ll see your reflection hold up the identical sign, but everything appears backward, even the individual letters themselves. It appears that everything you see reflected in the mirror has their left-and-right revers",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/04/1.Anti-gravity-Mirrors.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 25,
+      "priority": 24,
       "scoreDetail": {
         "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 25
+        "total": 24
       }
     },
     {
-      "title": "New video: Largest-scale cosmic test ever favors dark matter over MOND",
-      "url": "https://bigthink.com/starts-with-a-bang/cosmic-test-dark-matter-mond/",
-      "description": "Anytime there’s a chance to subject our Universe to a new cosmic test, it’s imperative that we do it. First off, it gives the Universe a chance to surprise us: to show us something that we never could have learned unless we looked. Second off, it gives us a chance to test our underlying assumptions about the Universe: what it’s made of, what laws and rules it obeys, and how it behaves in never-before-probed ways. And third — and perhaps most importantly — if there are rival ideas for making sens",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/covermondvsdm.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
-      }
-    },
-    {
-      "title": "The world’s greatest mathematician explains 6 essential concepts of math",
-      "url": "https://bigthink.com/series/full-interview/6-essential-mathematical-concepts/",
-      "description": "Terence Tao has spent decades solving problems most people can’t even state, and he says he’s never had a single eureka moment. In this conversation, the UCLA mathematician and Fields Medalist breaks math down to six essential ideas: numbers, algebra, geometry, probability, analysis, and dynamics. \n \n This video  The world’s greatest mathematician explains 6 essential concepts of math  is featured on  Big Think .",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/B1-Web-Tao.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The sky is blue. The ocean is, too. But the reasons why are very different.",
-      "url": "https://bigthink.com/starts-with-a-bang/why-sky-ocean-blue/",
-      "description": "If you’ve ever been curious about the world you live in, you’ve probably wondered why the sky is blue. It’s a question that most children ask at some point in their lives, but the answers that adults give them often don’t align with our physical reality. Some of the more common incorrect answers that people often give in response include: \n \n that sunlight has a blue tint, \n that oxygen itself is a blue-colored gas, \n or that the sky reflects the oceans, which are blue. \n \n While none of those a",
-      "date": "Wed, 26 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/05/sunrise-3334169_1280-1.webp?quality=85&w=640",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The incentive problem at the heart of modern science",
-      "url": "https://bigthink.com/the-well/the-incentive-problem-at-the-heart-of-modern-science/",
-      "description": "In 1883, the British physicist Joseph John Thomson wrote his master’s thesis,  A Treatise on the Motion of Vortex Rings , exploring the fluid dynamics that govern the motion of phenomena like smoke rings and circular underwater vortices. It was brilliant. The essay laid the mathematical foundation for knot theory (the study of closed loops in three-dimensional space), showed that single rings could be stable, and gave an explanation for chemical bonding.  \n There was just one problem: The idea w",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/The-Well-David-Sloan-Article-Art.jpg?quality=85&w=640",
+      "title": "We have the knowledge to build a better world. But is that enough?",
+      "url": "https://bigthink.com/books/how-collective-knowledge-can-build-a-better-world/",
+      "description": "“The grand, leading principle, towards which every argument unfolded in these pages directly converges, is the absolute and essential importance of human development in its richest diversity.”  — Wilhelm von Humboldt \n Knowledge, especially when shared and collectively held, is essential to human flourishing — as Humboldt emphasizes in the [quote above], which was relayed by John Stuart Mill in the epigraph to  On Liberty . \n Knowledge is not an end in itself. It is an instrument for achieving s",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/liebral-democracy_excerpt.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
@@ -116,43 +84,75 @@
       }
     },
     {
-      "title": "The act of measuring reality alters what you’ll observe",
-      "url": "https://bigthink.com/starts-with-a-bang/measuring-reality-affect-observe/",
-      "description": "When we divide up matter into the smallest possible chunks that it’s made of — into the stuff that can be divided or split no further — those indivisible things we arrive at are known as fundamental particles: the elementary quanta that compose our Universe. But unlike the macroscopic, familiar objects that make up our world, we can’t simply assign definitive properties to them like “position” and “momentum” in an unambiguous fashion. Instead, the story gets complicated each time we ask the ques",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/04/file-5cd71e3cd061c.jpg?quality=85&w=640",
+      "title": "The surprising link between false memories and imagination",
+      "url": "https://bigthink.com/mind-behavior/the-surprising-link-between-false-memories-and-imagination/",
+      "description": "In his memoir  Uncle Tungsten , British neurologist Oliver Sacks described two bombing incidents from his childhood during the Blitz. One involved a bomb that landed near his family’s home but failed to explode. The other involved a thermite bomb that fell behind the house, which Sacks remembered in vivid detail. \n A few months after the book came out, Sacks mentioned the incidents to his older brother Michael. Michael confirmed the first memory. But when Sacks brought up the thermite bomb, his ",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/false-memories_compressed.png?quality=80&w=640",
       "videoId": "",
-      "priority": 8,
+      "priority": 14,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 8
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 14
       }
     },
     {
-      "title": "Ask Ethan: Can someone possibly see the edge of spacetime?",
-      "url": "https://bigthink.com/starts-with-a-bang/edge-of-spacetime/",
-      "description": "In our Universe, in all directions and in all locations, there’s simply more “stuff” that space is full of everywhere we look. On the largest scales of all, the richest galaxy clusters and the sparsest cosmic voids average away, leaving us with a Universe that’s isotropic, homogeneous, and almost perfectly uniform. The oldest light in the Universe, the cosmic microwave background radiation, is a similarly uniform relic left over from the Big Bang itself: a chilly 2.725 K in all directions. And y",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2024/05/0_Qa04hTuL-nWfLFtQ-e1783379226106.jpg?quality=85&w=640",
+      "title": "Every single crewed mission to space — on one definitive map",
+      "url": "https://bigthink.com/strange-maps/every-single-crewed-mission-to-space-on-one-definitive-map/",
+      "description": "“A Visual History of Crewed Space Travel” is now available in  Big Think’s online store  on Pop Chart, where you can also find our first two posters, “ A Visual History of the Universe ” and “ A Literary Map of the United States, ” and other Big Think merch. \n \n Future space cowboys and girls, stick this on your wall as you beat a path to the stars. This poster is a snapshot of humanity’s loftiest enterprise so far: making it off-planet. It maps Earth’s main spaceports, the landing sites on the ",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Space-Travel-Thumbnail.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 0,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 0
+        "total": 10
       }
     },
     {
-      "title": "A study claimed UFOs orbited Earth in the 1950s. Then scientists checked the math.",
-      "url": "https://bigthink.com/13-8/a-study-claimed-ufos-visited-earth-in-the-1950s-then-scientists-checked-the-math/",
-      "description": "The announcement made headlines. In October 2025, a group of researchers published a paper in a well-regarded, peer-reviewed astronomical journal claiming the extraordinary: They’d found evidence of objects orbiting the Earth years before the launch of any human-made artificial satellites. In another paper, they also claimed links between when these objects appeared in the sky and the dates of nuclear tests in the 1950s. If any of these results were correct, it’d represent evidence of orbiting  ",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/UAPS-science-meet_compressed.jpg?quality=85&w=640",
+      "title": "Ask Ethan: Are there really charm quarks inside the proton?",
+      "url": "https://bigthink.com/starts-with-a-bang/proton-contain-charm-quark/",
+      "description": "At the start of the 20th century, we were still figuring out what the structure of matter was. We knew everything was made up of atoms, and that there were negatively charged electrons within them, but the rest of the atom was a mystery. Over the course of the past 125 years, we subsequently learned that there was a small, massive, positively charged nucleus anchoring every atom. That nucleus itself is composed of nucleons — protons and neutrons — with each one itself made up of quarks and gluon",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/12/protonboy-1.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 9
+      }
+    },
+    {
+      "title": "Time is a fundamentally different type of dimension than space",
+      "url": "https://bigthink.com/starts-with-a-bang/time-dimension/",
+      "description": "One of the most common questions we can ask about any two distinct locations is, “What’s the shortest distance between those two points?” By default, most of us will give the same answer that Archimedes gave more than 2,000 years ago: a straight line. If you take a flat sheet of paper and put two points down on it absolutely anywhere, you can always connect those two points with any line, curve, or geometrical path you can imagine. So long as the paper remains flat, uncurved, and doesn’t have an",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/stop-motion-1361145_960_720.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Yes, the Sun is a star, but it’s far from typical",
+      "url": "https://bigthink.com/starts-with-a-bang/sun-typical-star/",
+      "description": "Our starry skies make us wonder, “Is the Sun a typical star?” \n \n \n \n From their earliest beginnings to their final extent before fading away, Sun-like stars will grow from their present size to the size of a red giant (~the Earth’s orbit) to up to ~5 light-years in diameter, typically. The largest known planetary nebulae can reach approximately double that size, up to ~10 light-years across, but none of this necessarily means that the Sun is a typical, average star.\n \n Credit : Ivan Bojičić, Qu",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/11/starry-highlights-e1673214431423.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

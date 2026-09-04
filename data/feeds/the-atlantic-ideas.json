@@ -1,8 +1,40 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-08-30T19:50:12.781831+00:00",
+  "fetchedAt": "2026-09-04T08:23:46.798795+00:00",
   "items": [
+    {
+      "title": "How the Right Could Actually End Birthright Citizenship",
+      "url": "https://www.theatlantic.com/magazine/2026/10/birthright-citizenship-trump-barbara-supreme-court/688342/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-31",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 25
+      }
+    },
+    {
+      "title": "Should We Be Afraid of Our Food?",
+      "url": "https://www.theatlantic.com/ideas/2026/09/food-safety-crisis-trump-cyclospora/688495/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "How Karoline Leavitt Debased Her Job",
       "url": "https://www.theatlantic.com/ideas/2026/08/karoline-leavitt-press-secretary-lies/688460/?utm_source=feed",
@@ -17,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "The Fight Between Texas and Minnesota Should Never Have Gotten This Far",
+      "url": "https://www.theatlantic.com/ideas/2026/08/castro-ice-abbott-minnesota/688465/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-31",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -36,10 +84,10 @@
       }
     },
     {
-      "title": "The Jason Arday Truthers",
-      "url": "https://www.theatlantic.com/ideas/2026/08/jason-arday-innocence-racism/688408/?utm_source=feed",
+      "title": "The Court’s Ballroom Decision Is a Sign of Deeper Problems",
+      "url": "https://www.theatlantic.com/ideas/2026/09/scotus-separation-powers-ballroom-trump/688499/?utm_source=feed",
       "description": "",
-      "date": "2026-08-26",
+      "date": "2026-09-02",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,186 +100,138 @@
       }
     },
     {
+      "title": "The Apocalyptic Style in Woke Thinking",
+      "url": "https://www.theatlantic.com/ideas/2026/08/gaza-left-woke-obsession/688457/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-31",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Absurdity of New York City’s Pied-à-Terre Tax",
+      "url": "https://www.theatlantic.com/ideas/2026/09/mamdani-pied-a-terre-tax/688482/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Trump’s Antitrust Gambit May Backfire",
+      "url": "https://www.theatlantic.com/ideas/2026/09/live-nation-trump-antitrust-monopolies/688508/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The MAGA Right Is Only Pretending to Be Censored",
+      "url": "https://www.theatlantic.com/ideas/2026/09/censorship-industrial-complex-conspiracy/688490/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-02",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump Meant It Literally When He Said He Was Taking the Oil",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-venezuela-oil-revenue/688486/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Pied-à-Temper-Tantrum",
+      "url": "https://www.theatlantic.com/ideas/2026/09/zohran-mamdani-property-tax-new-york/688368/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Hegseth’s Pentagon Lurches off the Rails",
+      "url": "https://www.theatlantic.com/ideas/2026/08/hegseth-driscoll/688480/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-31",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Women Obsessed With Lindsay Clancy",
+      "url": "https://www.theatlantic.com/ideas/2026/08/lindsay-clancy-trial-women/688470/?utm_source=feed",
+      "description": "",
+      "date": "2026-08-31",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "What Might Happen to Trump’s Ill-Gotten Gains",
       "url": "https://www.theatlantic.com/ideas/2026/08/reclaim-wealth-trump-corruption/688435/?utm_source=feed",
       "description": "",
       "date": "2026-08-29",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Crisis for Democrats in Michigan",
-      "url": "https://www.theatlantic.com/ideas/2026/08/sayed-piker-israel-antisemitism/688448/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Sailors on the USS Abraham Lincoln Deserve Better",
-      "url": "https://www.theatlantic.com/ideas/2026/08/uss-abraham-lincoln-navy-ship/688423/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Wrath of MAGA",
-      "url": "https://www.theatlantic.com/ideas/2026/08/ossoff-harp-trump-maga/688427/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Supreme Court Isn’t Interested in Facts",
-      "url": "https://www.theatlantic.com/ideas/2026/08/supreme-court-mail-in-voting-decision/688428/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Spencer Cox’s Crusade",
-      "url": "https://www.theatlantic.com/ideas/2026/08/spencer-cox-book-off-ramp/688419/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Data Centers Are a Distraction",
-      "url": "https://www.theatlantic.com/ideas/2026/08/ai-nonproliferation-usa-china/688421/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Americans Are Spending Luxury Dollars for Dive-Bar Service",
-      "url": "https://www.theatlantic.com/ideas/2026/08/time-tax-administrative-bureaucracy/688322/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Absolute Pleasure of Tim Curry",
-      "url": "https://www.theatlantic.com/ideas/2026/08/tim-curry-tribute/688422/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-26",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Most Beautiful Woman",
-      "url": "https://www.theatlantic.com/ideas/2026/08/dolly-parton-southern-influence/688414/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-26",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Jews Who Voted for Hitler",
-      "url": "https://www.theatlantic.com/magazine/2026/10/nationalist-german-jews-max-naumann-hitler/688343/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Gun Lobby’s Most Cynical Move Yet",
-      "url": "https://www.theatlantic.com/ideas/2026/08/school-shootings-campaign-spending-study/688377/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

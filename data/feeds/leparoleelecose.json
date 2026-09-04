@@ -1,24 +1,8 @@
 {
   "sourceId": "leparoleelecose",
   "sourceName": "Le parole e le cose",
-  "fetchedAt": "2026-08-28T23:59:41.237717+00:00",
+  "fetchedAt": "2026-09-04T08:23:27.293123+00:00",
   "items": [
-    {
-      "title": "Ridere dell’IA. Corpo a corpo con il sé digitale",
-      "url": "https://www.leparoleelecose.it/ridere-dellia-corpo-a-corpo-con-il-se-digitale/",
-      "description": "di Paolo Costa   Habitus digitale, rubrica a cura di Italo Testa   Il meccanico che è in noi   L’influente saggio di Henri Bergson sul riso si avvita attorno alla natura equivoca del senso dell’umorismo.[1] Da un lato, la comicità viene presentata nel testo come una delle espressioni più vitali dell’essere umano. Dall’altro …  read more  \"Ridere dell’IA. Corpo a corpo con il sé digitale\"",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
     {
       "title": "Linguaggi d’avanguardia in Spagna e Italia. Modernità e dissenso",
       "url": "https://www.leparoleelecose.it/linguaggi-davanguardia-in-spagna-e-italia-modernita-e-dissenso/",
@@ -100,6 +84,22 @@
       }
     },
     {
+      "title": "Per un atlante della letteratura meridionale",
+      "url": "https://www.leparoleelecose.it/per-un-atlante-della-letteratura-meridionale/",
+      "description": "di Sandro Abruzzese     Premesse   Parlare del progetto di un atlante della letteratura meridionale necessita di una breve premessa. Il passaggio epocale che in Italia si produce a cavallo dei primi anni ’90 produce una frammentazione politica e culturale e con essa il crollo di contenitori, modelli, simboli edificati nel ‘900. Da allora un …  read more  \"Per un atlante della letteratura meridionale\"",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Sul filo dell’atomo. Una storia degli equilibri nucleari dal 1945 ai giorni nostri",
       "url": "https://www.leparoleelecose.it/sul-filo-dellatomo-una-storia-degli-equilibri-nucleari-dal-1945-ai-giorni-nostri/",
       "description": "di Marco Rizzo   Francesco Dall’Aglio e Carlo Ziviello, Oppenheimer, Putin e altre storie sulla bomba, Ad est dell’equatore 2023, 14 euro   “Il discorso pubblico sull’atomica dal 1991 è, sostanzialmente, la storia di una grande rimozione. Dopo aver vissuto per più di quarant’anni con la paura concreta dell’estinzione dell’umanità a causa di un conflitto …  read more  \"Sul filo dell’atomo. Una storia degli equilibri nucleari dal 1945 ai giorni nostri\"",
@@ -132,10 +132,10 @@
       }
     },
     {
-      "title": "Il prato del vicino ha l’erba più verde. Passeggiando nei “Prati” di Andrea Inglese",
-      "url": "https://www.leparoleelecose.it/il-prato-del-vicino-ha-lerba-piu-verde-passeggiando-nei-prati-di-andrea-inglese/",
-      "description": "di Luigi Toni   Pubblicato per la prima volta nel 2007 in edizione bilingue presso La Camera Verde e poi confluito nella costellazione ormai seminale di Prosa in prosa, Prati/Pelouses di Andrea Inglese torna oggi in una nuova Extended Version per Tic Edizioni (2025). Una riedizione ampliata che non rappresenta soltanto il recupero di un …  read more  \"Il prato del vicino ha l’erba più verde. Passeggiando nei “Prati” di Andrea Inglese\"",
-      "date": "Fri, 07 Aug 2026",
+      "title": "Sognare più forte",
+      "url": "https://www.leparoleelecose.it/sognare-piu-forte/",
+      "description": "di Antonella Anedda, Elisa Biagini e Claudia Losi   [Esce in questi giorni per Edizioni Effigi Sognare più forte, un libro d’artista di Antonella Anedda, Elisa Biagini e Claudia Losi. Ne pubblichiamo un estratto, seguito dall’introduzione al volume]                   Introduzione di Elisabetta Abignente e Valentina Sturli   …  read more  \"Sognare più forte\"",
+      "date": "Mon, 31 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +148,10 @@
       }
     },
     {
-      "title": "Nome, verbo, aggettivo, avverbio /16: Fabrizio Lombardo",
-      "url": "https://www.leparoleelecose.it/nome-verbo-aggettivo-avverbio-16-fabrizio-lombardo/",
-      "description": "a cura di Laura Pugno [In questa rubrica, un autore o un’autrice ci consegna le sue quattro parole chiave, un nome (comune o proprio), un verbo, un aggettivo e un avverbio, dal primo o dall’ultimo libro o dall’intero della sua opera. Oggi risponde Fabrizio Lombardo]. Nome: Movimento   Il movimento attraversa tutta la mia scrittura. …  read more  \"Nome, verbo, aggettivo, avverbio /16: Fabrizio Lombardo\"",
-      "date": "Sun, 02 Aug 2026",
+      "title": "Il prato del vicino ha l’erba più verde. Passeggiando nei “Prati” di Andrea Inglese",
+      "url": "https://www.leparoleelecose.it/il-prato-del-vicino-ha-lerba-piu-verde-passeggiando-nei-prati-di-andrea-inglese/",
+      "description": "di Luigi Toni   Pubblicato per la prima volta nel 2007 in edizione bilingue presso La Camera Verde e poi confluito nella costellazione ormai seminale di Prosa in prosa, Prati/Pelouses di Andrea Inglese torna oggi in una nuova Extended Version per Tic Edizioni (2025). Una riedizione ampliata che non rappresenta soltanto il recupero di un …  read more  \"Il prato del vicino ha l’erba più verde. Passeggiando nei “Prati” di Andrea Inglese\"",
+      "date": "Fri, 07 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

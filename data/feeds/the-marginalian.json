@@ -1,45 +1,77 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-08-30T19:50:13.442917+00:00",
+  "fetchedAt": "2026-09-04T08:23:47.688514+00:00",
   "items": [
     {
-      "title": "Ode to a Good Pen: A Poem About Writing the Book of Love, Read by Nick Cave",
-      "url": "https://www.themarginalian.org/2026/08/27/ode-to-a-good-pen/",
-      "description": "I spent the summer using the fantastic binomial technique developed by Gianni Rodari — the beloved Italian writer whose stories lit up my Bulgarian childhood — as a creative prompt for poetry, part of the larger binomial two people co-create when their worlds touch each other in a meaningful way. Each week I’d be given two unrelated words and tasked with twining them into a poem. Summers end. Worlds tilt away from each other, drift apart, resume their orbit, transformed. This is how the final bi",
-      "date": "Thu, 27 Aug 2026",
+      "title": "How to Have Enough: Wendell Berry on Creativity and Love",
+      "url": "https://www.themarginalian.org/2026/09/02/wendell-berry-sabbath/",
+      "description": "“Enough is so vast a sweetness, I suppose it never occurs, only pathetic counterfeits,” Emily Dickinson sighed in one of her love letters to Susan an epoch before Kurt Vonnegut, in a short and lovely poem, distilled happiness to the knowledge that you have enough. It is not an easy knowledge to live with amid the commodified counterfeits of happiness that light up these sunset days of Western civilization, with its mesmerism of maximums and its cult of more, materially and spiritually — capitali",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "How We Render Reality: Attention as an Instrument of Love",
+      "url": "https://www.themarginalian.org/2026/08/31/iain-mcgilchrist-the-matter-with-things/",
+      "description": "\"Since our consciousness plays some part in what comes into being, the play of attention can both create and destroy, but it never leaves its object unchanged.\"",
+      "date": "Mon, 31 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
+        "daily": 30,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
       }
     },
     {
-      "title": "The Tree and the River: A Wordless Love Letter to How Nature Always Wins",
-      "url": "https://www.themarginalian.org/2026/08/28/tree-river-becker/",
-      "description": "Nested between two giant cedars in the remote old-growth forest where I live much of the year are the rusted remains of boxy car. A tree root has seized one of the rear wheels. A sapling has growth through the glassless windshield. Bright orange fungi have colonized the driver’s seat. Lichen and moss cover nearly every inch of the chipped blue body. It is a living, wildly alive metaphor for the fate of every civilization, for the sinuous tenacity by which nature always prevails. That is what Aar",
-      "date": "Fri, 28 Aug 2026",
+      "title": "Matter, Memory, and the Paradox of Perception: Henri Bergson on How to See Reality",
+      "url": "https://www.themarginalian.org/2026/08/30/matter-memory-bergson/",
+      "description": "In 1896, decades before Santiago Ramón y Cajal pioneered neuroscience, more than a century before Oliver Sacks showed us how perception phosphoresces in the 100 milliseconds between the world and us, half a lifetime before he was awarded the Nobel Prize, the polymathic French philosopher Henri Bergson (October 18, 1859–January 4, 1941) aimed his uncommon mind at “the threefold problem of matter, consciousness, and their relation” in what became Matter and Memory (public library | public domain) ",
+      "date": "Sun, 30 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
+      }
+    },
+    {
+      "title": "A Parliament of Owls and a Murder of Crows: How a Forgotten Medieval Woman Gave Groups of Birds Their Strange Names, with Wondrous Vintage Illustrations by Brian Wildsmith",
+      "url": "https://www.themarginalian.org/2026/08/31/brian-wildsmith-birds-company-terms/",
+      "description": "Language is an instrument of great precision and poignancy — our best tool for telling each other what the world is and what we are, for conveying the blueness of blue and the wonder of being alive. But it is also a thing of great pliancy and creativity — a living reminder that how we name things changes what we see, changes the seer. (This, of course, is why we have poetry.) It is the birthplace of the imagination and forever its plaything: I remember my unabashed delight when a naturalist frie",
+      "date": "Mon, 31 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 34,
       "scoreDetail": {
-        "daily": 30,
+        "daily": 25,
         "phil": 0,
         "flaneur": 4,
-        "novelty": 0,
+        "novelty": 5,
         "total": 34
       }
     },
     {
-      "title": "Decoding the Mystery of Intuition: AI Prophet Margaret Boden on the Three Elements of Creativity",
-      "url": "https://www.themarginalian.org/2026/08/26/margaret-boden-creativity/",
-      "description": "“The Analytical Engine has no pretensions whatever to originate anything. It can do [only] whatever we know how to order it to perform,” Ada Lovelace inveighed upon composing the world’s first algorithm for the world’s first computer. Meanwhile, she was reckoning with the nature of creativity, distilling it to a trinity: “an intuitive perception of hidden things,” “immense reasoning faculties,” and the “concentrative faculty” of bringing to any creative endeavor “a vast apparatus from all sorts ",
-      "date": "Wed, 26 Aug 2026",
+      "title": "How Do We Know What We Want: Milan Kundera on the Central Ambivalences of Life and Love",
+      "url": "https://www.themarginalian.org/2026/09/01/milan-kundera-unbearable-lightness-of-being/",
+      "description": "\"We can never know what to want, because, living only one life, we can neither compare it with our previous lives nor perfect it in our lives to come... We live everything as it comes, without warning.\"",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -52,122 +84,90 @@
       }
     },
     {
-      "title": "How to Apprehend Reality as It Really Is: Thoreau on Knowing vs. Seeing",
-      "url": "https://www.themarginalian.org/2026/08/30/thoreau-knowing-seeing/",
-      "description": "\"We hear and apprehend only what we already half know.\"",
-      "date": "Sun, 30 Aug 2026",
+      "title": "The Bird in You, the World in You, and the Art of Trusting Time: Ceramics, Serpentine, and How to Get Over Heartbreak",
+      "url": "https://www.themarginalian.org/2026/08/31/serpentine-birdworlds/",
+      "description": "One December afternoon, I arrived in Patagonia with a big blue backpack, a small bilingual edition of Pablo Neruda’s love poems, and a broken heart. (Though a heart, of course, never breaks.) The moment I stepped out of the airplane, the Andes towered over me like the stone thrones of gods, snow-capped over the oracle eye of the glacial lake, blue as Uranus, their scale so incomprehensible you are no longer a person but a particle, a mote of dust in the eye of eternity; the trees are no longer t",
+      "date": "Mon, 31 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 29,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 25,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
-      "title": "How to Be a Tree: Notes on the Resilience of Letting Go",
-      "url": "https://www.themarginalian.org/2026/08/28/trees/",
-      "description": "This essay and poem are part of the Universe in Verse book. Trees grant us some of the richest metaphors for our own lives — a polished lens on the quality of attention we pay the world. “The tree which moves some to tears of joy is in the eyes of others only a green thing which stands in the way,” wrote William Blake. Walt Whitman considered them our greatest teachers in living with authenticity. For Hermann Hesse, the key to existential joy was in learning how to listen to the trees. But far b",
-      "date": "Fri, 28 Aug 2026",
+      "title": "The Paradox of Knowing Who You Are and What You Want: Cristina Campo on Fairy Tales, Time, and the Meaning of Maturity",
+      "url": "https://www.themarginalian.org/2026/09/02/cristina-campo-unforgivable-fairy-tales/",
+      "description": "“If you want your children to be intelligent, read them fairy tales,” Einstein reportedly told one mother who wished for her son to become a scientist. “If you want them to be very intelligent, read them more fairy tales.” Given that the deepest measure of intelligence is a plasticity of being that allows us to navigate uncertainty, given that uncertainty is the pulse-beat of our lives, fairy tales are not — as J.R.R. Tolkien so passionately insisted — only for children. They are more than fanta",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 24,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 10,
+        "phil": 5,
         "flaneur": 4,
-        "novelty": 0,
+        "novelty": 5,
         "total": 24
       }
     },
     {
-      "title": "How to Be Reborn Each Day",
-      "url": "https://www.themarginalian.org/2026/08/28/hannah-emerson-center-of-the-universe/",
-      "description": "\"Please try to go to hell frequently because you will find the light there.\"",
-      "date": "Fri, 28 Aug 2026",
+      "title": "The Invention of Zero: How Ancient Mesopotamia Created the Mathematical Concept of Nought and Ancient India Gave It Symbolic Form",
+      "url": "https://www.themarginalian.org/2026/09/02/zero-robert-kaplan/",
+      "description": "\"If you look at zero you see nothing; but look through it and you will see the world.\"",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "The Art of Solitude: Buddhist Scholar and Teacher Stephen Batchelor on Contemplative Practice and Creativity",
+      "url": "https://www.themarginalian.org/2026/08/31/the-art-of-solitude-stephen-batchelor/",
+      "description": "\"Here lies the paradox of solitude. Look long and hard enough at yourself in isolation and suddenly you will see the rest of humanity staring back.\"",
+      "date": "Mon, 31 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 15
       }
     },
     {
-      "title": "Frankenstein Author Mary Shelley on the Surest Remedy for a Sunken Spirit and What Makes Life Worth Living",
-      "url": "https://www.themarginalian.org/2026/08/30/mary-shelley-the-last-man/",
-      "description": "\"There is but one solution to the intricate riddle of life; to improve ourselves, and contribute to the happiness of others.\"",
-      "date": "Sun, 30 Aug 2026",
+      "title": "A Lei for Your Losses: Joan Didion on the Art of Letting Go",
+      "url": "https://www.themarginalian.org/2026/09/01/joan-didion-loss/",
+      "description": "“We cannot deeply love anything without becoming vulnerable to loss,” Judith Viorst wrote in her defense of life’s necessary losses, “and we cannot become separate people, responsible people, connected people, reflective people without some losing and leaving and letting go.” We know that loving anything or anyone is a contract with loss, and yet we love anyway, our lives a ceaseless osmosis of holding on and letting go, an endless apprenticeship in the art of losing. What we keep of our losses ",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Barry Lopez on the Cure for Our Existential Loneliness and the Three Tenets of a Full Life",
-      "url": "https://www.themarginalian.org/2026/08/29/barry-lopez-place-loneliness/",
-      "description": "\"Existential loneliness and a sense that one’s life is inconsequential, both of which are hallmarks of modern civilizations, seem to me to derive in part from our abandoning a belief in the therapeutic dimensions of a relationship with place.\"",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "A Life of One’s Own: A Brilliant Young Woman’s Forgotten Field Guide to the Art of Knowing What You Really Want",
-      "url": "https://www.themarginalian.org/2026/08/29/a-life-of-ones-own-joanna-field-marion-milner/",
-      "description": "\"I did not know that I could only get the most out of life by giving myself up to it.\"",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 10,
+        "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "Kahlil Gibran on the Art of Becoming Yourself Across the Sweep of Life",
-      "url": "https://www.themarginalian.org/2026/08/26/youth-and-age-kahlil-gibran/",
-      "description": "A roadmap to the fulfilled belonging on the other side of \"the great aloneness which knows not what is far and what is near, nor what is small nor great.\"",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Bruce Springsteen on Surviving Depression and His Strategy for Living Through the Visitations of the Darkness",
-      "url": "https://www.themarginalian.org/2026/08/27/bruce-springsteen-depression/",
-      "description": "\"If you can acknowledge it and you can relax with it a little bit, very often it shortens its duration.\"",
-      "date": "Thu, 27 Aug 2026",
+      "title": "The Creative Power of Uncertainty: Polish Poet Wisława Szymborska’s Magnificent Nobel Prize Acceptance Speech",
+      "url": "https://www.themarginalian.org/2026/09/03/wislawa-szymborska-nobel-speech/",
+      "description": "\"Whatever inspiration is, it's born from a continuous ‘I don't know.’\"",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -180,10 +180,10 @@
       }
     },
     {
-      "title": "Uncoding Creativity in the Age of AI: What Makes a Great Poem, What Makes a Great Storyteller, and What Makes Great Person",
-      "url": "https://www.themarginalian.org/2026/08/26/suffering-creativity-canetti-rilke/",
-      "description": "I once asked ChatGPT to write a poem about a total solar eclipse in the style of Walt Whitman. It returned a dozen couplets of cliches that touched nothing, changed nothing in me. The AI had the whole of the English language at its disposal — a lexicon surely manyfold the poet’s — and yet Whitman could conjure up cosmoses of feeling with a single line, could sculpt from the commonest words an image so dazzlingly original it stops you up short, spins you around, leaves the path of your thought tr",
-      "date": "Wed, 26 Aug 2026",
+      "title": "Italo Calvino on Reading and Sex",
+      "url": "https://www.themarginalian.org/2026/09/03/calvino-if-on-a-winters-night-a-traveler-love/",
+      "description": "\"Lovers’ reading of each other’s bodies... differs from the reading of written pages in that it is not linear... What makes lovemaking and reading resemble each other most is that within both of them times and spaces open, different from measurable time and space.\"",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -196,26 +196,26 @@
       }
     },
     {
-      "title": "The Four Desires Driving All Human Behavior: Bertrand Russell’s Magnificent Nobel Prize Acceptance Speech",
-      "url": "https://www.themarginalian.org/2026/08/28/bertrand-russell-nobel-prize-acceptance-speech/",
-      "description": "\"Nothing in the world is more exciting than a moment of sudden discovery or invention, and many more people are capable of experiencing such moments than is sometimes thought.\"",
-      "date": "Fri, 28 Aug 2026",
+      "title": "Wendell Berry on Hope, Despair, and the Measure of Effective Protest",
+      "url": "https://www.themarginalian.org/2026/09/02/wendell-berry-protest/",
+      "description": "The current of life is charged by the poles of hope and despair. What we make of our hopes and their devastation may be the purest measure of who we are and what we leave behind. Protest is what we call the resistance we launch against our reasons for despair — personal, political, existential. Although in its healthy and potent form, protest is both a natural stage of grief and a motive force for new beginnings, we live in a culture that chronically mistakes outcry for protest, a culture yet to",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     },
     {
-      "title": "Life, Loss, and the Wisdom of Rivers",
-      "url": "https://www.themarginalian.org/2026/08/29/olivia-laing-to-the-river/",
-      "description": "\"It’s a mercy that time runs in one direction only, that we see the past but darkly and the future not at all.\"",
-      "date": "Sat, 29 Aug 2026",
+      "title": "The Thing Itself: C.S. Lewis on What We Long for in Our Existential Longing",
+      "url": "https://www.themarginalian.org/2026/09/01/c-s-lewis-longing/",
+      "description": "\"...only the scent of a flower we have not found, the echo of a tune we have not heard, news from a country we have never visited.\"",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "The Moving Letter James Baldwin Received from His Childhood Teacher at the Peak of His Fame and His Heartbreak",
-      "url": "https://www.themarginalian.org/2026/08/26/james-baldwin-orilla-bill-miller/",
-      "description": "In early 1934, a twenty-four-year-old graduate student at Columbia Teachers College took an internship teaching drama and producing student plays at PS 24 in Harlem. Among her young charges at that “dreadful ancient New York schoolhouse,” as she would later recall, was a ten-year-old boy she was astonished to find reading, like her, Dickens. Their conversations quickly made her realize that “here was an exceptional and brilliant boy.” Her name was Orilla Miller, though he called her Bill. His na",
-      "date": "Thu, 27 Aug 2026",
+      "title": "The 3 Buddhist Steps to Repairing a Relationship",
+      "url": "https://www.themarginalian.org/2026/09/01/thich-nhat-hanh-listening-love/",
+      "description": "\"The intention of deep listening and loving speech is to restore communication, because once communication is restored, everything is possible.\"",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

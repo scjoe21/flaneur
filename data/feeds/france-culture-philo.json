@@ -1,13 +1,29 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-08-30T19:48:41.292881+00:00",
+  "fetchedAt": "2026-09-04T08:23:16.666876+00:00",
   "items": [
     {
-      "title": "Averroès, passeur de savoirs : La raison et la foi selon Averroès",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:32  - Avec philosophie - par : Géraldine Muhlmann - Deux thèses ont marqué la postérité d'Averroès : sa thèse sur l'intellect et sa thèse sur ce qu'on appelle à tort, la \"double-vérité\" qui consiste à dire que la vérité est une, mais qu'il existe deux voies d'accès pour l'atteindre. Pourquoi ont-elles fait tant scandale ?   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans",
-      "date": "Wed, 12 Aug 2026",
+      "title": "Comment le temps peut-il être vivant ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-le-temps-peut-il-etre-vivant-7036971",
+      "description": "durée : 00:03:56  - Avec philosophie - par : Frédéric Worms - À force de vouloir maîtriser le temps, ne risquons-nous pas de perdre l'expérience du temps vivant ? Pourquoi la conscience du temps provoque-t-elle nécessairement une souffrance ? Comment transformer le temps des horloges en temps vivant au quotidien ?  - équipe : Sam  Baquiast, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "Pourquoi faut-il un nouvel emploi du temps",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-faut-il-un-nouvel-emploi-du-temps-9995015",
+      "description": "durée : 00:03:29  - Avec philosophie - par : Frédéric Worms - L'emploi du temps structure nos vies. À l'heure où l'IA promet d'en libérer une partie, une question s'impose : que ferons-nous de ce temps gagné ? Faut-il inventer un nouvel emploi du temps, individuel et collectif ?  - équipe : Sam  Baquiast, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Pourquoi doit-on organiser le temps",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-doit-on-organiser-le-temps-6861048",
+      "description": "durée : 00:03:38  - Avec philosophie - par : Frédéric Worms - Horaires, emploi du temps, impératifs… À la rentrée, le temps reprend ses contraintes. Mais pourquoi avons-nous besoin de compter et d'organiser le temps pour vivre, alors que cette organisation peut aussi nous angoisser ?  - équipe : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -30,54 +62,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Hannah Arendt, la liberté de philosopher : Arendt et Marx : le travail, la souffrance sociale et la politique",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:05  - Avec philosophie - par : Géraldine Muhlmann - Sur le sujet du labeur, et des douleurs qu’il suscite, aliénation, revenu insuffisant, Arendt discute avec Marx. Et si Arendt était finalement une des très rares philosophes à avoir pris au sérieux cette part de nos vies qui sera peut-être toujours pénible, à savoir le \"labeur\" ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épiso",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Hannah Arendt, la liberté de philosopher : Arendt et Montesquieu : analyser les régimes politiques",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:59:10  - Avec philosophie - par : Géraldine Muhlmann - Hannah Arendt est convaincue que le nazisme et certaines périodes du stalinisme ont dessiné un tout nouveau type de régime politique : le totalitarisme. Afin de le penser, elle part de la classification des régimes proposée par Montesquieu au 18ᵉ siècle pour inventer de nouveaux concepts.   - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous",
-      "date": "Mon, 17 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Averroès, passeur de savoirs : Averroès, philosophe, juge et médecin",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:20  - Avec philosophie - par : Géraldine Muhlmann - Philosophe, juge et médecin, Averroès, penseur andalou musulman du XIIe siècle, a exploré les lois de l’esprit autant que celles de la cité et du corps. Comment ses activités ont-elles influencé sa pensée philosophique ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -116,19 +100,51 @@
       }
     },
     {
-      "title": "Wajdi Mouawad, dramaturge : \"Patočka et sa 'solidarité des ébranlés' ont bouleversé ma vie\"",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:37  - Avec philosophie - par : Géraldine Mosna-Savoye - En 1975, le philosophe tchèque Jan Patočka proposait, avec ses \"Essais hérétiques\", une réflexion puissante sur le XXᵉ siècle, ses deux guerres mondiales, \"la solidarité des ébranlés\": cet ébranlement, le dramaturge Wajdi Mouawad en a fait le cœur de son œuvre. Il vient nous en parler. \n\n  - équipe : Nicolas Berger, Manon de La Selle, Corinne Amar \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vou",
-      "date": "Fri, 14 Aug 2026",
+      "title": "La fin, et après ? : Retrouver le goût de l'inachèvement",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/amities-vacances-series-a-t-on-un-probleme-avec-la-fin-2228842",
+      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Mosna-Savoye - Et si l'inachèvement était positif ? Et si ne pas finir pouvait en fait créer du désir ? Et si l'inachèvement était notre moteur ?  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Nicolas Berger, Frédéric Worms - invités : Blanche Leridon directrice des études à l’Institut Montaigne, spécialiste des questions démocratiques et institutionnelles \n\nVous aimez ce podcast ? Pour écouter tous les épisodes ",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
+      }
+    },
+    {
+      "title": "La fin, et après ? : La fin d'un livre est-elle toujours ratée ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/comment-finir-un-livre-8721565",
+      "description": "durée : 00:57:37  - Avec philosophie - par : Géraldine Mosna-Savoye - Finir un roman, finir une œuvre… n’est pas qu’un déchirement pour le lecteur mais aussi pour son auteur ! Nous explorons aujourd'hui la question de la fin d'un livre.  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Nicolas Berger, Frédéric Worms - invités : Antoine Compagnon Écrivain, enseignant et académicien français \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "La fin, et après ? : Günther Anders et la fin du monde : \"On crèvera tous ensemble\" ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/guenther-anders-et-la-fin-du-monde-on-crevera-tous-ensemble-5428091",
+      "description": "durée : 00:58:01  - Avec philosophie - par : Géraldine Mosna-Savoye - Pour le philosophe allemand Günther Anders, héritier d'Husserl et Heidegger, l'Homme est dépassé par la technique. Il est l'auteur du \"Temps de la fin\", un court essai dans lequel il conceptualise non pas la mortalité de l'individu, mais la mortalité de l'humanité. C'est plutôt d'actualité, non ?  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Nicolas Berger, Frédéric Worms - invités : Michaël Fœsse",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
       }
     },
     {
@@ -180,51 +196,35 @@
       }
     },
     {
-      "title": "Hannah Arendt, la liberté de philosopher : Arendt et la démocratie",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:01  - Avec philosophie - par : Géraldine Muhlmann - Si Hannah Arendt est connue pour ses travaux sur le totalitarisme, elle a aussi pensé la démocratie : pour comprendre ce qui fonde un régime démocratique, elle se réfère aux \"Anciens\", les Romains et les Grecs, et en extrait une articulation conceptuelle originale.  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite",
-      "date": "Tue, 18 Aug 2026",
+      "title": "Notre esprit n'est pas un ordinateur !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/notre-esprit-n-est-pas-un-ordinateur-9229318",
+      "description": "durée : 00:02:48  - Avec philosophie - par : Anne Alombert - Les machines numériques pensent-elles ? À mesure que l’automatisation gagne du terrain, quelle place nous restera-t-il pour inventer ? En s'appuyant sur Georges Canguilhem, la philosophe Anne Alombert interroge l'illusion de l'intelligence artificielle.  - équipe : Camille Renard, Virginie Le Duault, Thomas Jost, Ludovic Auger \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Averroès, passeur de savoirs : Averroès et la philosophie grecque",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:11  - Avec philosophie - par : Géraldine Muhlmann - Lorsqu’on évoque Averroès et son rapport à la philosophie grecque, le nom d’Aristote s’impose, même s'il arrive au théologien de commenter Platon ou de dialoguer avec des penseurs néoplatoniciens. Son intention : concilier la raison philosophique héritée des Grecs avec la révélation islamique.  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter ",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "Averroès, passeur de savoirs : Averroès à la croisée des cultures",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:58:13  - Avec philosophie - par : Géraldine Muhlmann - Philosophe andalou, Averroès (1126-1198)  incarne un esprit de dialogue entre les cultures médiévales, à la fois musulmane, juive, grecque et chrétienne. Qui était-il celui qui transmit et commenta l’héritage d’Aristote, influençant profondément la pensée européenne ?  - équipe : Anna Pheulpin, Carla Michel, Corinne Amar, Nicolas Berger, Nassim El Kabli, Luna Hadjla \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans lim",
-      "date": "Mon, 10 Aug 2026",
+      "title": "La fin, et après ? : Freud : l'analyse peut-elle me guérir ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/freud-l-analyse-peut-elle-me-guerir-2432649",
+      "description": "durée : 00:58:03  - Avec philosophie - par : Géraldine Mosna-Savoye - Si l'on sait quand aller voir un médecin, si l'on sait quand la guérison advient, qu'en est-il de nos souffrances psychiques ? Que se passe-t-il lorsqu'on commence une analyse, et à quel moment peut-elle se terminer ? Et doit-elle même se terminer ?  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Nicolas Berger, Frédéric Worms - invités : Clotilde Leguil philosophe et psychanalyste de l’Ecole de la ",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {

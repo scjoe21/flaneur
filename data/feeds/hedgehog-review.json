@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-08-30T19:50:25.846529+00:00",
+  "fetchedAt": "2026-09-04T08:23:54.784620+00:00",
   "items": [
     {
       "title": "Birthright and Belonging",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Sound and Fury Politics",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/sound-and-fury-politics",
+      "description": "Wokeness and hyperpolitics are not the same thing.",
+      "date": "Wed, 26 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The Banality of Antisemitism",
       "url": "https://hedgehogreview.com/web-features/thr/posts/the-banality-of-antisemitism",
       "description": "Hate for the other comes not only from our hate for who we are but also for what we are not.",
@@ -65,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "She Also Found It at the Movies",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
+      "description": "",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/stephen-foster-and-that-old-weird-america",
       "description": "Beautiful dreamer, awake unto me!",
       "date": "Fri, 03 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Memorial for Hope",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/memorial-for-hope",
-      "description": "The Obama Center, an archive proposed by a university which ceased to be an archive, now contains materials intended for display but not study.",
-      "date": "Thu, 25 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Where Have All the Protestants Gone?",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/where-have-all-the-protestants-gone",
-      "description": "",
-      "date": "Wed, 24 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

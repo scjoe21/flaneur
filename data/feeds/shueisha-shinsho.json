@@ -1,8 +1,56 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-08-30T19:50:29.128095+00:00",
+  "fetchedAt": "2026-09-04T08:23:59.225238+00:00",
   "items": [
+    {
+      "title": "「異例の協調介入」に意味はあるのか？作家・橘玲と経済学者・服部孝洋が考える『為替介入とは何か』",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/hattori_tachibana/36605",
+      "description": "橘：『為替介入とは何か』を拝読しましたが、すごくタイムリーな時期に刊行されましたね。為替介入があることを予想されてたんでしょうか。 服部： 2026年に為替介入があるだろうなと感じていましたが、これほど話題になるとは思わ […]",
+      "date": "Mon, 31 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "小山美砂と永井玲衣が考える　「せんそう」と被爆二世【後編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/koyama_nagai/36544",
+      "description": "小山　これは今日是非聞きたかったことなんですが、話しにくいことを、どういうふうに話していったらいいのかなあ、と。被爆二世もそうだし、水俣病とか、あるいは原発事故とか……いろいろな立場や考え方の人がいる中で、何か言葉を発す […]",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "小山美砂と永井玲衣が考える　「せんそう」と被爆二世【前編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/koyama_nagai/36517",
+      "description": "小山　今日の対談は私からお声がけさせていただきました。普段は玲衣さんと呼んでいるんですが、私たちが出会ったのって、２、３年前でしたっけ。 永井　そうですね。 小山　私は広島への原爆投下後に降った「黒い雨」の取材をずっと続 […]",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "【福祉排外主義】社会保障をめぐる議論に見られる、「排除」の論理を徹底追及！",
       "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36588",
@@ -68,22 +116,6 @@
       }
     },
     {
-      "title": "子どもスコープがつなぐ世界",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/bunkaisan_kodure/36459",
-      "description": "子どもは大人にはないセンサーを持っている。知識も経験もなく、背は低いし視界はせまいのに、大人が見過ごすものを、なぜか100%の確率で見つけてくることがある。 たとえば、「ゆりかご」。 伝統的な農家から、職人や商工業者の住 […]",
-      "date": "Thu, 20 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "増加する「稼ぐ公園」 PFIで失われる都市の緑",
       "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/36556",
       "description": "名古屋城とお濠を挟んで並ぶ「名城公園」は、金の鯱しゃちほこを載せた天守閣を望む、緑豊かな公園だ。８月の朝、私が訪ねると多くの人がランニングやウォーキングをしていた。 　公園を歩いていくと、木立が切れて視界が開け、巨大な […]",
@@ -100,58 +132,26 @@
       }
     },
     {
+      "title": "円安・インフレ時代を生きるための金融知識とは何か？作家・橘玲と経済学者・服部孝洋が読む『プアジャパン』",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/tachibana_hattori/36610",
+      "description": "服部：私は今大学の教員をやっていて、どのように若い世代に金融の面白さを伝えるかということを日々考えています。橘さんが書かれた『新・臆病者のための株入門』や『プアジャパン』を拝読しましたが、これは金融の教材としても活用でき […]",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "情を捨て、「奪回」した優勝―2007年編",
       "url": "https://shinsho-plus.shueisha.co.jp/column/hara_giants/36500",
       "description": "「『非情さを持つ』ことはやましくも恥ずかしくもないんだ、と思ったのは、四位になった2006年シーズン終了のときだった。前述した通り、僕は問題だらけのチームを再建しなくてはならなかった。限られたメンバーでその“目的”を達成 […]",
       "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "リアリティショーに組み込まれていく私たち",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/shimoda_akihiro/36484",
-      "description": "前回、リアリティショーの出演者は「悪名は無名に勝る＝多少の好感度よりも知名度が大事」という感覚を持っていることに触れた。彼ら彼女らと同じ感覚を持っている職業が、インフルエンサーである。 インフルエンサーたちは、番組に出る […]",
-      "date": "Mon, 24 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "みちのく潮風トレイルと九州自然歩道",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/trail/36322",
-      "description": "インターナショナル・アパラチアン・トレイル(IAT)を歩いてからは、オーストラリアにあるビブラマントラック（約1,000㎞）を歩き、そしてウィルダネス（原自然）を求めるように、アメリカ連邦政府が指定するシーニックトレイ […]",
-      "date": "Sat, 22 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あの2010年代の生き残りは、こうして大人になった―文芸評論家・宮崎智之インタビュー―",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/sato_humanities/36416",
-      "description": "―1990年代生まれ、30代の若手を中心とした「令和人文主義」の世代に勢いがありますね。出版業界を潤してくれてありがたい限りで、せめて足を引っ張らないようにしたいのですが、翻って、1980年代前半生まれの僕たちの世代はど […]",
-      "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

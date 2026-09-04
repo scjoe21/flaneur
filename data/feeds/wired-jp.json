@@ -1,141 +1,29 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-08-30T19:50:34.103717+00:00",
+  "fetchedAt": "2026-09-04T08:24:04.975291+00:00",
   "items": [
     {
-      "title": "わたしたちは何を蓄えて生きるのか──料理人・三上奈緒と能登で考えた「食べる」と「備える」",
-      "url": "https://wired.jp/article/mikami-nao-resilient-table/",
-      "description": "土地にある食材を使い、居合わせた人たちと食卓をつくってきた「旅する料理人」こと三上奈緒と珠洲の海や里山を巡り、食べること、人とつながること、土地の知恵から、非常時に人を支える日常の力を考えた。",
-      "date": "Sun, 30 Aug 2026",
+      "title": "画面の外の第三者── 個人で働くというフィクションの先へ｜FUTURE of WORK",
+      "url": "https://wired.jp/article/sz-future-of-work-parents-as-a-third-factor/",
+      "description": "企業に就職するのは家族とは独立した“あなた個人”である──そんな前提が、いまやZoom面接の画面には映らない親とAIによって崩れ始めている。",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     },
     {
-      "title": "GenZの人生は、一度限りのドラマではなく《リセット》できるゲームである：映画『ドラマなふたり』池田純一レビュー",
-      "url": "https://wired.jp/article/the-drama-movie-review-junichi-ikeda/",
-      "description": "出会いはカフェ、結婚式は1週間後──。ラブコメの定石通りに始まるA24の最新作『ドラマなふたり』は、なぜサイコホラーへと転落するのか。GenZカップルの認知のズレを読み解く（ネタバレあり）。",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "高級なボトルウォーターは、本当に健康にいいのか？",
-      "url": "https://wired.jp/article/is-expensive-bottled-water-actually-better-for-you/",
-      "description": "水1本に、1万円台もの値段がつくことがある。氷山から採取した水や高いアルカリ性をうたう水など、ボトルウォーターは産地や成分によって価値が語られるが、高価な水ほど本当に体にいいのだろうか。",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "マムダニズムは民主党を救うことができるのか？──「アメリカン・ドッペルゲンガー」by 池田純一#15",
-      "url": "https://wired.jp/article/american-doppelganger-15/",
-      "description": "「民主党は一体何のために存在するのか」「民主党とは何を目指す政党なのか」──。そんな根源的な疑念が、トランプ後の米国において問われている。中間選挙が目前に迫るなか、民主党は、この問いにいまだ答えられていない……。",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "ネパールの壊滅的な洪水に、気候変動はどう関係しているのか",
-      "url": "https://wired.jp/article/rising-temperatures-contributed-nepals-deadly-flood/",
-      "description": "気温上昇が続くなかで氷河の後退と不安定化が進み、大規模に崩壊するリスクが高まっている。",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "そのときその場所にいる人をどう守るのか？ 渋谷区から考える最新型の都市防災",
-      "url": "https://wired.jp/article/shibuya-disaster-prevention/",
-      "description": "渋谷区の防災が守るのは、住民だけではない。121言語対応や官民連携、AI活用など、「そのときその場所にいる人」を守る都市防災の現在地を防災課長に訊いた。",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Excelを“eスポーツ化”するパワーユーザーたち",
-      "url": "https://wired.jp/article/your-excel-skills-suck-the-power-users-turning-spreadsheets-into-a-spectator-sport/",
-      "description": "一部のデータ分析や金融業界のプロたちが、“Excel障害物レース”で競い合っている。膨大な数のフォロワーを集めるインフルエンサーらによって、AI時代においてもExcelは存在感を保ち続けている。",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "オープンウェイトAIの21モデル、“改変”により安全策を弱体化できることが明らかに",
-      "url": "https://wired.jp/article/tamperbench-open-weight-llm-safety-tampering/",
-      "description": "誰でも自由に重みを調整できるオープンウェイトAIモデルには、犯罪行為などに悪用させないための機能制限が設けられている。ところが、この安全機能が簡単に弱体化できることが最新の研究で明らかになった。",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "ネパールの“雨なき大洪水”の発生メカニズムが見えてきた",
-      "url": "https://wired.jp/article/nepal-flash-flood-glacier-collapse/",
-      "description": "ネパールで8月26日に発生した大洪水は、激しい濁流が山間の村々を押し流すなどして多くの犠牲者を出した。雨が降らないなか突如として発生した今回の洪水は、なぜ起きたのか。そのメカニズムが明らかになってきた。",
-      "date": "Sat, 29 Aug 2026",
+      "title": "【RESILIENCE TECH特集】危機を生き延びるためのサバイバルギア＆フードガイド 30選",
+      "url": "https://wired.jp/article/survival-gear-and-food-guide/",
+      "description": "備えるべきは、最新のギアだけではない。身近な日用品から先端テクノロジーまで、ひとつでいくつもの役割を担い、日常と災害時をシームレスにつなぐ30のサバイバルギア＆フードを、4人の識者と『WIRED』日本版が厳選。",
+      "date": "Fri, 04 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -148,10 +36,26 @@
       }
     },
     {
-      "title": "“終末”ピクニック！：地球に危機が迫ったとき【SF作家】はバックパックに何を詰める？",
-      "url": "https://wired.jp/article/vol45-have-a-nice-worlds-end/",
-      "description": "今後30年の間に「地球規模の危機」が起こるとしたら、それはどんな危機？ その危機を生き延びるために、あなたはバックパックの中に何を詰める？ そんな問いを、SF作家の野尻抱介、柞刈湯葉、劉慈欣、そしてマンガ家の大童澄瞳に投げかけた。",
-      "date": "Sat, 29 Aug 2026",
+      "title": "なぜ中国のAIデータセンターは内モンゴルに集まるのか",
+      "url": "https://wired.jp/article/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
+      "description": "安価な電力、広大な土地、北京への近さを背景に、内モンゴルのウランチャブ市はAIデータセンターの一大拠点へ急成長している。こうした動きは、中国が自前のAIインフラを築き、世界の勢力図を変え始めていることの表れかもしれない。",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "ダイソン初の電動歯ブラシ「Dyson CameraJet」は何が新しい？",
+      "url": "https://wired.jp/article/dyson-camerajet-toothbrush-unveil/",
+      "description": "ダイソンが初のオーラルケア製品となる電動歯ブラシ「Dyson CameraJet」を発表した。まったく新しいカテゴリーへの参入になるが、その設計思想は掃除機で培ってきた技術と地続きにある。",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -164,10 +68,26 @@
       }
     },
     {
-      "title": "サムスン「Galaxy Z Fold8」「Z Fold8 Ultra」レビュー：使いやすさは新形状のFold8に軍配",
-      "url": "https://wired.jp/review/samsung-galaxy-z-fold8-and-z-fold8-ultra/",
-      "description": "折り畳みスマートフォンの登場から7年。サムスンはGalaxy Z Fold8で新たな形状を採用し、使いやすさを大きく向上させた。今回Galaxy Z Fold8 Ultraとも比べながら実際に使い、両者の違いを確かめた。",
-      "date": "Sun, 30 Aug 2026",
+      "title": "Polymarketでインサイダー取引の疑い、グーグル開発者は単なる賭けだと主張",
+      "url": "https://wired.jp/article/google-engineer-accused-of-polymarket-insider-trading-says-he-was-just-gambling/",
+      "description": "予測市場プラットフォームPolymarketでインサイダー取引をした疑いで逮捕されたミケーレ・スパニュオーロ。スイスを拠点とするこの開発者は、問題の取引は単なる賭けであり、米国の商品取引法の適用対象にはならないと主張している。",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "立体音響と映像に浸る展示から、ナイキの新作ランニングシューズまで【WIRED INSIDER】",
+      "url": "https://wired.jp/article/insider-async-blancpain-chefsfortheblue-tumialpha-nike/",
+      "description": "目にした瞬間、心が動くもの。次の行動を起こしたくなるもの。背景を知れば、世界の見え方が少し変わるもの──。そんな出合いの積み重ねが、選びうる未来を豊かにし、選び取るための審美眼を磨いていく。その入り口となる「WIRED INSIDER」では、最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
+      "date": "Fri, 04 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +100,10 @@
       }
     },
     {
-      "title": "新型「Mac mini」「Mac Studio」、新チップでAI性能を強化",
-      "url": "https://wired.jp/article/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/",
-      "description": "アップルが「Mac mini」と「Mac Studio」の新モデルを発表した。Appleシリコン初の2nmチップ「M6」と、4ダイ構成の「M5 Ultra」が新たに登場。日本では9月22日に発売される。",
-      "date": "Sun, 30 Aug 2026",
+      "title": "AIエージェントが機器を安全に操作するには？ Anthropicが示した枠組み",
+      "url": "https://wired.jp/article/anthropic-standard-ai-agents-coming-to-the-physical-world/",
+      "description": "AIによる科学研究や製造業の自動化には大きな可能性がある。そこでAnthropicは事故や悪用を防ぐルールの整備を目指し、AIエージェントに科学機器やロボットを安全に操作させるための新たな枠組みを発表した。",
+      "date": "Fri, 04 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +116,10 @@
       }
     },
     {
-      "title": "空を覆う山火事の煙から健康を守るためにできること",
-      "url": "https://wired.jp/article/northeast-us-blanketed-in-canadian-wildfire-smoke/",
-      "description": "高濃度の大気汚染に見舞われたときに一人ひとりはいかなる対策が取れるのか、制御不能な山火事がおよそ100件発生したカナダの事例から学ぶ。",
-      "date": "Sat, 29 Aug 2026",
+      "title": "下着2,000枚超を土に埋めたら、「健康な土壌」の条件が見えてきた",
+      "url": "https://wired.jp/article/buried-underpants-soil-health-switzerland/",
+      "description": "家の庭や農地などに綿の下着を埋め、その分解から土壌の健康状態を推定する──。そんな研究がスイスで実施された。いったいどんな結果が見えてきたのか？",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +132,10 @@
       }
     },
     {
-      "title": "グーグル「Pixel 11 Pro／11 Pro XL」レビュー：驚異の音声入力と進化したカメラ",
-      "url": "https://wired.jp/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
-      "description": "グーグルの新しい音声入力はまさに魔法のようだ。進化したカメラやスマートなAI機能も魅力だが、物足りないゲーム性能とそれほど役に立たない背面LEDが、このフラッグシップ機を真の名機から遠ざけている。",
-      "date": "Fri, 28 Aug 2026",
+      "title": "OpenAIの次期モデル「Astra」、サイバー能力が初の“重大”水準に",
+      "url": "https://wired.jp/article/openai-astra-first-ai-model-with-critical-cyber-abilities/",
+      "description": "OpenAIは次期AIモデル「Astra」を近く一般公開する。未知の脆弱性を自律的に発見し、その悪用手法を開発できる高度な能力は、防御側が対策を整えられるよう、一部のパートナーに先行提供される。",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +148,90 @@
       }
     },
     {
-      "title": "メタが若年ユーザーの保護を巡る訴訟で和解。プロダクト変更も",
-      "url": "https://wired.jp/article/meta-will-pay-up-to-dollar167-billion-to-settle-its-social-media-harms-case-and-thats-just-for-starters/",
-      "description": "メタは歴史的な和解の一環として、米国の州・地域に巨額を支払うだけでなく、自社プラットフォームに実質的な変更を加える。",
-      "date": "Fri, 28 Aug 2026",
+      "title": "OpenAIが“粘り強い”AIエージェントを開発中",
+      "url": "https://wired.jp/article/openai-is-developing-a-persistent-ai-agent/",
+      "description": "『WIRED』がCodexのコードベースを確認したところ、OpenAIが自ら次のタスクを設定し、停止させられるまで動き続けるエージェント機能を開発していることが明らかになった。",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "映画『オデュッセイア』でクリストファー・ノーランは何を撮ったのか？",
+      "url": "https://wired.jp/article/odyssey-review-ryo-yoshigami/",
+      "description": "ホメロスの英雄叙事詩を映画化した『オデュッセイア』が、9月11日に公開される。クリストファー・ノーランが、史上初となる全編IMAX®フィルムカメラ撮影に挑んだ待望の最新作を、IMAX完成披露試写会で鑑賞したSF作家・吉上亮がレビュー。",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "グーグル「Pixel 11 Pro Fold」レビュー：進化はしているが、価格が気になる",
+      "url": "https://wired.jp/review/google-pixel-11-pro-fold/",
+      "description": "グーグルの新しい折り畳みスマートフォンは、確かな進化を遂げている。しかし、値上げに加えて競争も激しく、万人におすすめできる端末とは言い難い。",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "月にも「宇宙ゴミ」が積もる時代がやってくる",
+      "url": "https://wired.jp/article/moon-space-debris-era/",
+      "description": "使用済みロケットが月面に新たなクレーターを残した。月には70年近くにわたって人工物が蓄積しており、今後もその量はさらに膨らむことが予想される。不要物を回収する仕組みが定まらないまま、人類が月とどう向き合うかが問われている。",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "史上最大の「宇宙写真」が完成、40億の天体を捉えた5.6兆ピクセルの世界",
+      "url": "https://wired.jp/article/desi-legacy-imaging-surveys-largest-sky-map/",
+      "description": "史上最大となる宇宙の最新マップが公開された。全天の約75%、約40億個の天体を収めた5.6兆ピクセルの宇宙地図は、ダークエネルギーの謎に迫る3次元マップとは異なるもうひとつの成果である。",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "日本の火星衛星探査機「MMX」について知っておくべきこと",
+      "url": "https://wired.jp/article/mmx-mars-moon-phobos-launch-2026/",
+      "description": "宇宙航空研究開発機構（JAXA）が10月に打ち上げる予定の火星衛星探査機「MMX」。日本にとっては28年ぶりとなる火星探査機の打ち上げで、火星の衛星からは世界初となるサンプルリターンに挑む。",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

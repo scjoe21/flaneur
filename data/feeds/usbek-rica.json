@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-08-30T19:48:42.224236+00:00",
+  "fetchedAt": "2026-09-04T08:23:17.153554+00:00",
   "items": [
     {
       "title": "Peter Thiel ou le (més)usage de la philosophie",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Pourquoi les barons de l'IA jouent les technophilanthropes",
+      "url": "https://usbeketrica.com/fr/article/pourquoi-les-barons-de-l-ia-jouent-les-megadonnateurs",
+      "description": "Dans le secteur de l'IA, plusieurs entrepreneurs s’engagent à reverser, en partie ou en totalité, l'argent que leur rapportera la vente de leur start-up à des associations caritatives. Promesse humaniste ou façon habile de faciliter les levées de fonds tout en faisant oublier les dégâts collatéraux d’une course technologique effrénée ? Le média américain Wired a décrypté ce phénomène qui prend de l’ampleur.",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -100,22 +116,6 @@
       }
     },
     {
-      "title": "Nos vies numériques en 2006 : quand le futur se résumait à MySpace, la Nintendo DS et les lolcats",
-      "url": "https://usbeketrica.com/fr/article/nos-vies-numeriques-en-1996-quand-le-futur-se-resumait-a-myspace-la-nintendo-ds-et-les-lolcats",
-      "description": "[SÉRIE D’ÉTÉ] Cet été, Usbek & Rica retourne dans le passé. Sites Internet, réseaux sociaux, jeux vidéo : on vous raconte ce qui fait le sel de nos vies numériques depuis trois décennies. Après l'année 1996, marquée par AOL, Mario et l’USB, cap sur 2006.",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "3 œuvres de science-fiction qui reflètent l’évolution de notre vision de l’avenir",
       "url": "https://usbeketrica.com/fr/article/3-oeuvres-de-science-fiction-qui-refletent-l-evolution-de-notre-vision-de-l-avenir",
       "description": "La science-fiction n’échappe pas aux pesanteurs historiques. Les visions de l’avenir qu’elle met en scène racontent autant son pouvoir de projection que son contexte de création. La preuve à travers trois livres essentiels, qui permettent de mieux cerner l’évolution de notre perception du futur au cours des dernières décennies.",
@@ -180,19 +180,19 @@
       }
     },
     {
-      "title": "Et si Louis XVI n’avait pas été guillotiné ?",
-      "url": "https://usbeketrica.com/fr/article/et-si-louis-xvi-n-avait-pas-ete-guillotine",
-      "description": "Le 21 janvier 1793, Louis XVI est guillotiné à Paris, sous le regard médusé des monarchies du Vieux Continent. Un événement clé de la Révolution française qui a façonné l’identité de la France, le pays des Lumières et de la Terreur. Et si, au lieu d’être mis à mort, Louis XVI et Marie-Antoinette avaient été condamnés à l’exil ? C’est l’hypothèse explorée dans cette uchronie prenant la forme d’un extrait de manuel d’histoire imaginaire, publiée initialement dans les pages de FUTUR, le magazine d’",
-      "date": "Sun, 09 Aug 2026",
+      "title": "Les supercentenaires ont une « arme secrète » dans leur système immunitaire",
+      "url": "https://usbeketrica.com/fr/article/cancer-les-supercentenaires-ont-une-arme-secrete-dans-leur-systeme-immunitaire",
+      "description": "Les personnes âgées de plus de 110 ans présentent une forte concentration de cellules CD4 CTL, des globules blancs qui se clonent pour mieux éliminer certaines cellules cibles. C’est la conclusion d’une étude publiée le 19 août dans la revue Cell Reports par des chercheurs de l’université d’Osaka, au Japon. Le secret de la longévité résiderait-il dans cette évolution tardive de notre système immunitaire ? C’est encore trop tôt pour pouvoir l’affirmer.",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

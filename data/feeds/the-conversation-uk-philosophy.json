@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-08-30T19:50:22.920242+00:00",
+  "fetchedAt": "2026-09-04T08:23:52.807112+00:00",
   "items": [
     {
       "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
@@ -56,22 +56,6 @@
       "url": "https://theconversation.com/plutarchs-ancient-advice-for-how-to-be-happier-online-285152",
       "description": "",
       "date": "2026-07-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Why sophrosyne, an ancient Greek virtue, matters more than ever in the age of AI",
-      "url": "https://theconversation.com/why-sophrosyne-an-ancient-greek-virtue-matters-more-than-ever-in-the-age-of-ai-282665",
-      "description": "",
-      "date": "2026-06-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 5
+      }
+    },
+    {
+      "title": "My unsung hero of science: Harriet Taylor Mill, the radical feminist philosopher who lived in the shadow of her husband",
+      "url": "https://theconversation.com/my-unsung-hero-of-science-harriet-taylor-mill-the-radical-feminist-philosopher-who-lived-in-the-shadow-of-her-husband-290875",
+      "description": "",
+      "date": "2026-09-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

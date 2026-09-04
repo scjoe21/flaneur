@@ -1,46 +1,94 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-08-30T19:50:25.949178+00:00",
+  "fetchedAt": "2026-09-04T08:23:54.900834+00:00",
   "items": [
     {
-      "title": "How to Think About Thinking",
-      "url": "https://nautil.us/how-to-think-about-thinking-1284587/",
-      "description": "A conversation with neuroscientist Adrian Owen about the importance of executive function \n The post  How to Think About Thinking  appeared first on  Nautilus .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/AdobeStock_493717450.jpeg?w=564",
+      "title": "How Music Sparks Imagination",
+      "url": "https://nautil.us/how-music-sparks-imagination-1284721/",
+      "description": "Songs are closely linked to narrative and language \n The post  How Music Sparks Imagination  appeared first on  Nautilus .",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_288261269.jpeg?w=564",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "Watch This Shrimp-Like Fish Walk Backwards",
-      "url": "https://nautil.us/watch-this-shrimp-like-fish-walk-backwards-1284607/",
-      "description": "A deep-sea denizen with an identity crisis \n The post  Watch This Shrimp-Like Fish Walk Backwards  appeared first on  Nautilus .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Screenshot-2026-08-28-at-4.43.07-PM.png?w=564",
+      "title": "How Your Genes Shape Your Personality",
+      "url": "https://nautil.us/how-your-genes-shape-your-personality-1284718/",
+      "description": "A new study probes genetic variants linked to the big five personality traits \n The post  How Your Genes Shape Your Personality  appeared first on  Nautilus .",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2753654359.jpg?w=564",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "30 Minutes of Exercise Can Boost Your Task-Switching Efficiency",
+      "url": "https://nautil.us/30-minutes-of-exercise-can-boost-your-task-switching-efficiency-1284737/",
+      "description": "A brisk walk could reduce the cognitive cost of changing gears \n The post  30 Minutes of Exercise Can Boost Your Task-Switching Efficiency  appeared first on  Nautilus .",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_463615965.jpeg?w=564",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 19
+        "total": 9
       }
     },
     {
-      "title": "I’m Part of the Team Writing the Next Bible of Psychiatry—For the First Time, the DSM Will Use Biology to Understand Mental Disorders",
-      "url": "https://nautil.us/im-part-of-the-team-writing-the-next-bible-of-psychiatry-for-the-first-time-the-dsm-will-use-biology-to-understand-mental-disorders-1284613/",
-      "description": "Part of the challenge of finding a biomarker for mental illness is the environment’s significant influence \n The post  I’m Part of the Team Writing the Next Bible of Psychiatry—For the First Time, the DSM Will Use Biology to Understand Mental Disorders  appeared first on  Nautilus .",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/AdobeStock_520504873.jpeg?w=564",
+      "title": "The Secret of Chronic Pain Could Lie in the Skull",
+      "url": "https://nautil.us/the-secret-of-chronic-pain-could-lie-in-the-skull-1284730/",
+      "description": "Skull bone marrow has become an exciting research topic \n The post  The Secret of Chronic Pain Could Lie in the Skull  appeared first on  Nautilus .",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_259535061-1.jpeg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "40 Years Ago, Oceanographers Found the Wreckage of the RMS Titanic",
+      "url": "https://nautil.us/40-years-ago-oceanographers-found-the-wreckage-of-the-rms-titanic-1284740/",
+      "description": "The maritime disaster of 1912 wasn’t fully understood until the shipwreck was rediscovered \n The post  40 Years Ago, Oceanographers Found the Wreckage of the RMS Titanic  appeared first on  Nautilus .",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-bow.jpg?w=564",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Deadly Livestock Virus Found Lurking in Ancient Texts",
+      "url": "https://nautil.us/deadly-livestock-virus-found-lurking-in-ancient-texts-1284770/",
+      "description": "Take a look, it’s in a book \n The post  Deadly Livestock Virus Found Lurking in Ancient Texts  appeared first on  Nautilus .",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Ovis_sheep_-_Der_naturen_bloeme_-_Jacob_van_Maerlant_-_KB_KA_16_-_066v_b1.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -52,11 +100,11 @@
       }
     },
     {
-      "title": "COVID Brain Fog May Not Be Irreversible",
-      "url": "https://nautil.us/covid-brain-fog-may-not-be-irreversible-1284604/",
-      "description": "At least for one variant \n The post  COVID Brain Fog May Not Be Irreversible  appeared first on  Nautilus .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/shutterstock_2473527349.jpg?w=564",
+      "title": "Your Home is Crawling With Microplastics",
+      "url": "https://nautil.us/your-home-is-crawling-with-microplastics-1284761/",
+      "description": "And vacuuming might make things worse \n The post  Your Home is Crawling With Microplastics  appeared first on  Nautilus .",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_1972889006.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -68,11 +116,11 @@
       }
     },
     {
-      "title": "Listen in on the Sounds of a Jurassic Period Forest",
-      "url": "https://nautil.us/listen-in-on-the-sounds-of-a-jurassic-period-forest-1284593/",
-      "description": "Behold the call of the katydid \n The post  Listen in on the Sounds of a Jurassic Period Forest  appeared first on  Nautilus .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/AdobeStock_385189844.jpeg?w=564",
+      "title": "No Two People Age in the Same Way",
+      "url": "https://nautil.us/no-two-people-age-in-the-same-way-1284757/",
+      "description": "At least at the molecular level \n The post  No Two People Age in the Same Way  appeared first on  Nautilus .",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2599904333.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -84,11 +132,11 @@
       }
     },
     {
-      "title": "The Gibbon’s Gaze: A Mirror Into the Human Mind",
-      "url": "https://nautil.us/the-gibbons-gaze-a-mirror-into-the-human-mind-1284595/",
-      "description": "What are you lookin’ at? \n The post  The Gibbon’s Gaze: A Mirror Into the Human Mind  appeared first on  Nautilus .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/main-image-gibbon.jpg?w=564",
+      "title": "Envy at the Ballot Box",
+      "url": "https://nautil.us/envy-at-the-ballot-box-1284752/",
+      "description": "Majority voting may make us less willing to tolerate advantages for others \n The post  Envy at the Ballot Box  appeared first on  Nautilus .",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_310795936.jpeg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -100,59 +148,11 @@
       }
     },
     {
-      "title": "Cyborg Roaches Could Be the Future of Triage Medicine",
-      "url": "https://nautil.us/cyborg-roaches-could-be-the-future-of-triage-medicine-1284583/",
-      "description": "The augmented insects could deliver life-saving care to disaster victims \n The post  Cyborg Roaches Could Be the Future of Triage Medicine  appeared first on  Nautilus .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/eait-mda-2026-cyborg-cockroach-6.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The First Moon Spaceport Is Coming. But First We’ll Need Moon Traffic Control",
-      "url": "https://nautil.us/the-first-moon-spaceport-is-coming-but-first-well-need-moon-traffic-control-1284577/",
-      "description": "If we don’t manage air traffic well, we risk spacecraft being sent way off course—without the rocket fuel necessary to get back  \n The post  The First Moon Spaceport Is Coming. But First We’ll Need Moon Traffic Control  appeared first on  Nautilus .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/03-gateway.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "This Is What Happens When 1,000 People Bury Their Underwear for Science",
-      "url": "https://nautil.us/this-is-what-happens-when-1000-people-bury-their-underwear-for-science-1284574/",
-      "description": "Talk about getting to the bottom of things \n The post  This Is What Happens When 1,000 People Bury Their Underwear for Science  appeared first on  Nautilus .",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/Unterhosen1_Nicolas_Zonvi.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Fact-Checking the Biohackers Who Claim Metformin is an Anti-Aging Wonder Drug",
-      "url": "https://nautil.us/fact-checking-the-biohackers-who-claim-metformin-is-an-anti-aging-wonder-drug-1284568/",
-      "description": "What the science says about their DIY one-person clinical trials \n The post  Fact-Checking the Biohackers Who Claim Metformin is an Anti-Aging Wonder Drug  appeared first on  Nautilus .",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/08/AdobeStock_848517403_Editorial_Use_Only.jpeg?w=564",
+      "title": "New Species of Giant Armadillo Has Convoluted History",
+      "url": "https://nautil.us/new-species-of-giant-armadillo-has-convoluted-history-1284734/",
+      "description": "Meet Glyptotherium deuterophractum \n The post  New Species of Giant Armadillo Has Convoluted History  appeared first on  Nautilus .",
+      "date": "Wed, 02 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Glyptodon_old_drawing.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

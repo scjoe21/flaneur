@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-08-30T19:48:40.717062+00:00",
+  "fetchedAt": "2026-09-04T08:23:16.424519+00:00",
   "items": [
     {
       "title": "Savez-vous qui vous êtes ?",
@@ -116,22 +116,6 @@
       }
     },
     {
-      "title": "Vos émotions viennent de vos jugements",
-      "url": "https://www.youtube.com/shorts/SoZn23mwZ8Y",
-      "description": "Nous avons tendance à attribuer notre souffrance à des causes extérieures. Pourtant, le stoïcisme nous enseigne que ce n'est pas l'événement lui-même qui provoque nos émotions, mais l'interprétation que nous en faisons.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n \n#stoïcisme #philosophie #émotions #bienêtre #gestiondustress #sagesse",
-      "date": "2026-07-15",
-      "thumbnail": "https://i4.ytimg.com/vi/SoZn23mwZ8Y/hqdefault.jpg",
-      "videoId": "SoZn23mwZ8Y",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "N'attendez rien des autres",
       "url": "https://www.youtube.com/shorts/PeSbHaMBaJM",
       "description": "Selon les stoïciens, la plupart de nos souffrances ne viennent pas des événements, mais de nos attentes. En projetant mentalement nos désirs sur la réalité, nous nous condamnons à la déception. Ce n'est qu'en étant lucide sur le monde et sur l'imperfection humaine que nous pourrons nous libérer du malheur.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n \n#stoicisme #attentes #deception #lucidite #bienetre #philosophie",
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Tier list des philosophes par ordre de difficulté",
+      "url": "https://www.youtube.com/shorts/Zfv1SIJM1kA",
+      "description": "Êtes-vous d'accord avec mon classement ?",
+      "date": "2026-09-02",
+      "thumbnail": "https://i3.ytimg.com/vi/Zfv1SIJM1kA/hqdefault.jpg",
+      "videoId": "Zfv1SIJM1kA",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

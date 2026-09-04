@@ -1,38 +1,22 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-08-30T19:50:13.287211+00:00",
+  "fetchedAt": "2026-09-04T08:23:47.225243+00:00",
   "items": [
     {
-      "title": "How To Give Everyday People A Say In AI Governance",
-      "url": "https://www.noemamag.com/how-to-give-everyday-people-a-say-in-ai-governance",
-      "description": "The post  How To Give Everyday People A Say In AI Governance  appeared first on  NOEMA .",
-      "date": "Tue, 04 Aug 2026",
+      "title": "Your Perception Of Time Is, In Fact, Warped",
+      "url": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
+      "description": "The post  Your Perception Of Time Is, In Fact, Warped  appeared first on  NOEMA .",
+      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "Why Is Everyone In Tech So Sad?",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad",
-      "description": "The post  Why Is Everyone In Tech So Sad?  appeared first on  NOEMA .",
-      "date": "Thu, 06 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Optimized Offspring",
+      "url": "https://www.noemamag.com/optimized-offspring",
+      "description": "The post  Optimized Offspring  appeared first on  NOEMA .",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
