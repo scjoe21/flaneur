@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-04T08:23:20.881204+00:00",
+  "fetchedAt": "2026-09-04T18:17:41.144658+00:00",
   "items": [
     {
       "title": "Kunst als Erkenntnisweg",
@@ -52,19 +52,19 @@
       }
     },
     {
-      "title": "Der Weltgeist und die Geopolitik",
-      "url": "https://www.philomag.de/artikel/der-weltgeist-und-die-geopolitik",
-      "description": "Vor über 60 Jahren diskutierten der französische Philosoph Alexandre Kojève und der deutsche Staatsrechtler Carl Schmitt über die heraufziehende Weltordnung. Die Berührungspunkte beider Denker, die sich in zentralen Fragen uneins waren, könnten für unsere heutige geopolitische Situation wegweisend sein.",
+      "title": "Ivan Krastev: „Man erwartet eine Politik, die so schnell liefert wie Amazon“",
+      "url": "https://www.philomag.de/artikel/ivan-krastev-man-erwartet-eine-politik-die-so-schnell-liefert-wie-amazon",
+      "description": "Wie blicken wir auf die Zukunft? Und was bedeutet die Beschleunigung für die Demokratie? Ein Gespräch mit Ivan Krastev über Politik und Zeit.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
@@ -180,9 +180,9 @@
       }
     },
     {
-      "title": "Schall und Wahn",
-      "url": "https://www.philomag.de/artikel/schall-und-wahn",
-      "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
+      "title": "Verzweifelter Spaß",
+      "url": "https://www.philomag.de/artikel/verzweifelter-spass",
+      "description": "Im Bärenkostüm gegen die Unordnung der Welt: Das Werk der Schriftstellerin Heike Geißler wimmelt von Figuren, die das große Ganze infrage stellen. In ihrem jüngsten Roman  Michaela Kohlhaas  hilft nicht zuletzt die Ironie.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -196,19 +196,19 @@
       }
     },
     {
-      "title": "Sollten wir Freunde vor Fehlern bewahren?",
-      "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
-      "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
+      "title": "Phantome des Widerstands",
+      "url": "https://www.philomag.de/artikel/phantome-des-widerstands",
+      "description": "Verachtenswerte politische Überzeugungen, meint Wolfram Eilenberger, werden nicht dadurch verschwinden, dass man ihnen abspricht, eine „Meinung“ zu sein.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     },
     {
@@ -228,9 +228,9 @@
       }
     },
     {
-      "title": "Diskrete Verdinglichung",
-      "url": "https://www.philomag.de/artikel/diskrete-verdinglichung",
-      "description": "Mit den „Meta AI Glasses“ kann man Abbilder anderer einfangen – und das teilweise unbemerkt.",
+      "title": "Mausi Macker",
+      "url": "https://www.philomag.de/artikel/mausi-macker",
+      "description": "In den Sozialen Medien zelebrieren junge Frauen ihren „Mausi Macker“. Um wen handelt es sich dabei?",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",

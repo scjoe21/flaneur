@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-04T08:24:04.975291+00:00",
+  "fetchedAt": "2026-09-04T18:18:30.160242+00:00",
   "items": [
     {
       "title": "画面の外の第三者── 個人で働くというフィクションの先へ｜FUTURE of WORK",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "ゴキブリを“サイボーグ化”して遠隔操作、災害医療への応用を目指す実証実験に成功",
+      "url": "https://wired.jp/article/cyborg-cockroach-paraborg-emergency-drug-delivery/",
+      "description": "電極を埋め込んだ生きたゴキブリにカメラや注射装置を搭載し、遠隔操作で薬剤を届ける実証実験にオーストラリアの研究チームが成功した。災害医療にサイボーグ昆虫が活用される未来の到来は近いかもしれない。",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/desi-legacy-imaging-surveys-largest-sky-map/",
       "description": "史上最大となる宇宙の最新マップが公開された。全天の約75%、約40億個の天体を収めた5.6兆ピクセルの宇宙地図は、ダークエネルギーの謎に迫る3次元マップとは異なるもうひとつの成果である。",
       "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "日本の火星衛星探査機「MMX」について知っておくべきこと",
-      "url": "https://wired.jp/article/mmx-mars-moon-phobos-launch-2026/",
-      "description": "宇宙航空研究開発機構（JAXA）が10月に打ち上げる予定の火星衛星探査機「MMX」。日本にとっては28年ぶりとなる火星探査機の打ち上げで、火星の衛星からは世界初となるサンプルリターンに挑む。",
-      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

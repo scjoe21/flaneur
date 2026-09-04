@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-04T08:23:46.339662+00:00",
+  "fetchedAt": "2026-09-04T18:18:06.682112+00:00",
   "items": [
     {
       "title": "The science, medicine, and mythology of menstruation and menopause",
@@ -46,6 +46,22 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "The rule of 20%: How to find the sweet spot for improved performance",
+      "url": "https://bigthink.com/series/full-interview/science-of-talent/",
+      "description": "Talent isn’t a gift we’re born with – it’s a signal we’ve been reading completely wrong. Author Daniel Coyle breaks down the common traits shared by successful people, and why environment, not innate ability, is the variable that ties them all together. \n \n This video  The rule of 20%: How to find the sweet spot for improved performance  is featured on  Big Think .",
+      "date": "Thu, 03 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/A1-Web-Coyle.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -145,22 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Yes, the Sun is a star, but it’s far from typical",
-      "url": "https://bigthink.com/starts-with-a-bang/sun-typical-star/",
-      "description": "Our starry skies make us wonder, “Is the Sun a typical star?” \n \n \n \n From their earliest beginnings to their final extent before fading away, Sun-like stars will grow from their present size to the size of a red giant (~the Earth’s orbit) to up to ~5 light-years in diameter, typically. The largest known planetary nebulae can reach approximately double that size, up to ~10 light-years across, but none of this necessarily means that the Sun is a typical, average star.\n \n Credit : Ivan Bojičić, Qu",
-      "date": "Mon, 31 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/11/starry-highlights-e1673214431423.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

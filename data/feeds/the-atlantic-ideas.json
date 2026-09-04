@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-04T08:23:46.798795+00:00",
+  "fetchedAt": "2026-09-04T18:18:07.222487+00:00",
   "items": [
     {
       "title": "How the Right Could Actually End Birthright Citizenship",
@@ -24,22 +24,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/09/food-safety-crisis-trump-cyclospora/688495/?utm_source=feed",
       "description": "",
       "date": "2026-09-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How Karoline Leavitt Debased Her Job",
-      "url": "https://www.theatlantic.com/ideas/2026/08/karoline-leavitt-press-secretary-lies/688460/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-28",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -129,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "The Dark Side of Mindfulness",
+      "url": "https://www.theatlantic.com/ideas/2026/09/meditation-willoughby-britton-downsides/688474/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

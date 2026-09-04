@@ -1,40 +1,8 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-09-04T08:23:54.900834+00:00",
+  "fetchedAt": "2026-09-04T18:18:20.525982+00:00",
   "items": [
-    {
-      "title": "How Music Sparks Imagination",
-      "url": "https://nautil.us/how-music-sparks-imagination-1284721/",
-      "description": "Songs are closely linked to narrative and language \n The post  How Music Sparks Imagination  appeared first on  Nautilus .",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_288261269.jpeg?w=564",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How Your Genes Shape Your Personality",
-      "url": "https://nautil.us/how-your-genes-shape-your-personality-1284718/",
-      "description": "A new study probes genetic variants linked to the big five personality traits \n The post  How Your Genes Shape Your Personality  appeared first on  Nautilus .",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2753654359.jpg?w=564",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
     {
       "title": "30 Minutes of Exercise Can Boost Your Task-Switching Efficiency",
       "url": "https://nautil.us/30-minutes-of-exercise-can-boost-your-task-switching-efficiency-1284737/",
@@ -68,6 +36,22 @@
       }
     },
     {
+      "title": "Astronomers Spot a Strange Atmospheric Wave Above Saturn’s South Pole",
+      "url": "https://nautil.us/astronomers-spot-a-strange-atmospheric-wave-above-saturns-south-pole-1284773/",
+      "description": "And it could stick around for decades \n The post  Astronomers Spot a Strange Atmospheric Wave Above Saturn’s South Pole  appeared first on  Nautilus .",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-saturn.jpg?w=564",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
       "title": "40 Years Ago, Oceanographers Found the Wreckage of the RMS Titanic",
       "url": "https://nautil.us/40-years-ago-oceanographers-found-the-wreckage-of-the-rms-titanic-1284740/",
       "description": "The maritime disaster of 1912 wasn’t fully understood until the shipwreck was rediscovered \n The post  40 Years Ago, Oceanographers Found the Wreckage of the RMS Titanic  appeared first on  Nautilus .",
@@ -81,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "The Extinct “American Cheetah” Wasn’t a Cheetah After All",
+      "url": "https://nautil.us/the-extinct-american-cheetah-wasnt-a-cheetah-after-all-1284777/",
+      "description": "And, unlike African cheetahs, it was a flexible carnivore \n The post  The Extinct “American Cheetah” Wasn’t a Cheetah After All  appeared first on  Nautilus .",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Picture-1.png?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

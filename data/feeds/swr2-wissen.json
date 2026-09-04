@@ -1,8 +1,40 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-08-30T19:50:22.005798+00:00",
+  "fetchedAt": "2026-09-04T18:18:16.310922+00:00",
   "items": [
+    {
+      "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
+      "url": "https://www.swr.de/swrkultur/wissen/jugendschutz-im-tiktok-zeitalter-warum-social-media-verbote-nicht-ausreichen-100.html",
+      "description": "Auf Social Media stoßen Kinder und Jugendliche schnell auf problematischen Content: Extremismus, Gewalt, Essstörungs-Communitys. Was braucht es für einen digitalen Jugendschutz?",
+      "date": "Sat, 5 Sep 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
+      }
+    },
+    {
+      "title": "Die lernende Nase – Wie Gerüche unser Leben prägen | Ig-Nobelpreis 2026 für Ilona Croy",
+      "url": "https://www.swr.de/swrkultur/wissen/die-lernende-nase-wie-gerueche-unser-leben-praegen-100.html",
+      "description": "Wovon hängen Körpergerüche ab? Warum können sich manche Menschen gut \"riechen\", andere nicht? Gerüche haben einen größeren Einfluss auf unser Leben, als wir oft denken.",
+      "date": "Fri, 4 Sep 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "Warum so viele Ostdeutsche rechts wählen",
       "url": "https://www.swr.de/swrkultur/wissen/warum-so-viele-ostdeutsche-rechts-waehlen-100.html",
@@ -20,26 +52,10 @@
       }
     },
     {
-      "title": "Oktopusse – Wie intelligent und sozial sind Kraken wirklich?",
-      "url": "https://www.swr.de/swrkultur/wissen/oktopusse-wie-intelligent-und-sozial-sind-kraken-wirklich-100.html",
-      "description": "Acht Arme, übersät mit Saugnäpfen und Millionen Nervenzellen. Drei Herzen. Ein weicher, gummiartiger Körper. Oktopusse verfügen über erstaunliche Talente, die zunehmend erforscht werden.",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Die teure Epidemie – Wie Long COVID und ME/CFS die Gesellschaft belasten",
-      "url": "https://www.swr.de/swrkultur/wissen/die-teure-epidemie-wie-long-covid-und-mecfs-die-gesellschaft-belasten-104.html",
-      "description": "1,5 Mio. Menschen in Deutschland haben Long Covid oder ME/CFS. Das erzeugt nicht nur Leiden, sondern auch hohe Kosten für die Gesellschaft.",
-      "date": "Tue, 18 Aug 2026",
+      "title": "Psychische Gewalt – Wie sie krank macht und was schützt",
+      "url": "https://www.swr.de/swrkultur/wissen/psychische-gewalt-wie-sie-krank-macht-und-was-schuetzt-100.html",
+      "description": "Emotionale Gewalt ist oft schwer zu erkennen. Die Folgen sind jedoch genauso gravierend wie bei körperlicher Gewalt. Gleichzeitig gilt: Nicht jedes böse Wort ist ein Übergriff. Es braucht mehr Bewusstsein für emotionale Gewalt und ihre Alarmsignale.",
+      "date": "Thu, 3 Sep 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -52,26 +68,26 @@
       }
     },
     {
+      "title": "Krieg im Sudan – Wie die Menschen dem Terror trotzen",
+      "url": "https://www.swr.de/swrkultur/wissen/krieg-im-sudan-wie-die-menschen-dem-terror-trotzen-100.html",
+      "description": "Im Sudan führen Regierungstruppen und Paramilitärs Krieg gegen die Zivilbevölkerung. Gleichzeitig werden Millionen Flüchtlinge versorgt und die Menschen unterstützen sich gegenseitig. Solidarität ist tief verwurzelt in der Kultur des Landes.",
+      "date": "Tue, 1 Sep 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "BAföG, Stipendien, Kredite – Die Reform der Studienfinanzierung",
       "url": "https://www.swr.de/swrkultur/wissen/bafoeg-stipendien-kredite-die-reform-der-studienfinanzierung-100.html",
       "description": "Viele Studierende beantragen kein Bafög aus Angst vor Schulden. Aber 500 Euro für ein WG-Zimmer muss man sich leisten können. Fachleute fordern eine Reform der Studienfinanzierung.",
       "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Nachgefragt",
-      "url": "https://www.swr.de/swrkultur/wissen/nachgefragt-106.html",
-      "description": "Update zu diesen Das-Wissen-Folgen: \"Rechtsextreme im Kampfsport\", \"Embryonenforschung\", \"Ganztagsbetreuung – Wie sich Grundschulen vorbereiten\" und \" Verlieren wir die Fähigkeit zur Konzentration?\"",
-      "date": "Sat, 22 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -148,22 +164,6 @@
       }
     },
     {
-      "title": "Psychiatrie in Deutschland heute – Ambulant, vernetzt, herausgefordert (2/2)",
-      "url": "https://www.swr.de/swrkultur/wissen/psychiatrie-in-deutschland-heute-ambulant-vernetzt-herausgefordert-104.html",
-      "description": "Heute können psychisch kranke Menschen mehr denn je am Leben teilhaben. Es gibt betreute Wohneinrichtungen, inklusive Arbeitsstätten und Selbsthilfegruppen.",
-      "date": "Thu, 20 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Podcast-Tipp: Ready for Liftoff! Der Raumfahrt-Podcast",
       "url": "https://www.swr.de/swrkultur/wissen/podcast-tipp-ready-for-liftoff-der-raumfahrt-podcast-100.html",
       "description": "Immer mehr Raketen, immer abgefahrenere Missionen! In der Raumfahrt geht's gerade richtig ab. Das Wettrennen zu Mond und Mars hat längst begonnen. Bereit für den Start?",
@@ -180,9 +180,41 @@
       }
     },
     {
+      "title": "Patriotismus ohne Hass – Geschichte eines liberalen Nationalgefühls",
+      "url": "https://www.swr.de/swrkultur/wissen/patriotismus-ohne-hass-geschichte-eines-liberalen-nationalgefuehls-100.html",
+      "description": "Man kann stolz auf sein Land sein, ohne andere Nationen als Feinde zu betrachten. Der Philosoph Hegel fasst diese Haltung so zusammen: \"Mein Vaterland ist meine Nation und die Menschheit.\"",
+      "date": "Fri, 4 Sep 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Jazz-Ikone Nina Simone – Mit Musik gegen Rassismus",
+      "url": "https://www.swr.de/swrkultur/wissen/jazz-ikone-nina-simone-mit-musik-gegen-rassismus-102.html",
+      "description": "Sie wollte die erste afroamerikanische Konzertpianistin werden, wurde am Konservatorium aber abgelehnt, trotz ihres überragenden Talents. Später schrieb sie Protestsongs und wurde Aktivistin.",
+      "date": "Wed, 2 Sep 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Was alle Sprachen verbindet – Die weltweite \"Mama\"",
       "url": "https://www.swr.de/swrkultur/wissen/was-alle-sprachen-verbindet-die-weltweite-mama-100.html",
-      "description": "Wörter für die eigene Mutter haben in allen bekannten Sprachen einen \"m\"-Laut. Die Forschung kennt viele solcher sprachlichen Universalien. Was folgt daraus für die Natur der Sprache?",
+      "description": "Wörter für die eigene Mutter haben in fast allen bekannten Sprachen einen m- oder n-Laut. Die Forschung kennt viele solcher sprachlichen Universalien. Was folgt daraus für die Natur der Sprache?",
       "date": "Sun, 30 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -200,38 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/herpesviren-akute-infektionen-und-ihre-moeglichen-spaetfolgen-100.html",
       "description": "Herpesviren stecken in fast jedem, lösen Pfeiffersches Drüsenfieber oder Lippenherpes aus. Und die Viren können nach Jahren zu Multipler Sklerose, Alzheimer oder ME/CFS beitragen.",
       "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Psychiatrie in Deutschland 1975 – Revolte gegen das Wegsperren (1/2)",
-      "url": "https://www.swr.de/swrkultur/wissen/psychiatrie-in-deutschland-1975-revolte-gegen-das-wegsperren-100.html",
-      "description": "Bis in die 1970er glichen Psychiatrien elenden Verwahranstalten: Patienten wurden ruhiggestellt, weggesperrt und menschenunwürdig untergebracht. 1975 kam eine Psychiatriereform.",
-      "date": "Thu, 20 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Vom Häftling zum Diktator – Adolf Hitler von 1925 bis 1933",
-      "url": "https://www.swr.de/swrkultur/wissen/adolf-hitler-von-1925-bis-1933-vom-haeftling-zum-diktator-102.html",
-      "description": "Kurz vor Weihnachten 1924 kommt der gescheiterte Putschist Adolf Hitler aus der Haft frei. Für seinen zweiten Anlauf zur Macht findet er entscheidende Unterstützer.",
-      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

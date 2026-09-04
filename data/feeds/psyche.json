@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-09-04T08:23:44.412858+00:00",
+  "fetchedAt": "2026-09-04T18:18:05.069099+00:00",
   "items": [
     {
       "title": "Why you should try living without free will for two weeks",
@@ -30,22 +30,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Why do crowds make our emotional experiences more intense?",
-      "url": "https://psyche.co/ideas/being-in-a-crowd-doesnt-make-you-part-of-a-mindless-mob",
-      "description": "Being in a crowd amps up excitement, fear and other feelings. But there’s more to the phenomenon than ‘mob mentality’ - by John Drury Read on Psyche",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -116,6 +100,22 @@
       }
     },
     {
+      "title": "Absence of presence and presence of absence",
+      "url": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence",
+      "description": "Mindfulness experts teach us to be present in the moment. I suggest an antidote – a meditation that’s focused on absence - by Nigel Warburton Read on Psyche",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
       "title": "The satisfaction of doing work that lasts",
       "url": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts",
       "description": "In Studs Terkel’s oral history ‘Working’, some of the people happiest with their work have something in common - by Matt Huston Read on Psyche",
@@ -164,9 +164,9 @@
       }
     },
     {
-      "title": "Glass eggs",
-      "url": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs",
-      "description": "When the future I’d been planning lay shattered at my feet, freezing my eggs offered a fragile hope - by Matilda Hay Read on Psyche",
+      "title": "Don’t let nature slip out of reach",
+      "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
+      "description": "Research on the ‘extinction of experience’ suggests many of us are losing vital connections to the natural world - by Hannah Seo Read on Psyche",
       "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",
@@ -180,9 +180,9 @@
       }
     },
     {
-      "title": "Don’t let nature slip out of reach",
-      "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
-      "description": "Research on the ‘extinction of experience’ suggests many of us are losing vital connections to the natural world - by Hannah Seo Read on Psyche",
+      "title": "Glass eggs",
+      "url": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs",
+      "description": "When the future I’d been planning lay shattered at my feet, freezing my eggs offered a fragile hope - by Matilda Hay Read on Psyche",
       "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",

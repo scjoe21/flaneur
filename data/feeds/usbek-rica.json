@@ -1,24 +1,8 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-09-04T08:23:17.153554+00:00",
+  "fetchedAt": "2026-09-04T18:17:34.564288+00:00",
   "items": [
-    {
-      "title": "Peter Thiel ou le (més)usage de la philosophie",
-      "url": "https://usbeketrica.com/fr/article/les-lumieres-sombres-ou-le-mes-usage-de-la-philosophie-peter-thiel",
-      "description": "TRIBUNE // Reçu en 2026 à l'Académie des sciences morales et politiques, le libertarien réactionnaire Peter Thiel incarne un usage singulier de la philosophie : de Leo Strauss à René Girard, il convertit une critique du libéralisme en doctrine de domination. Gabriel Gervais, analyste en philosophie politique de l’innovation, et Xavier Pavie, professeur à l’ESSEC Business School et directeur de programme au Collège international de philosophie, explorent comment les « Lumières sombres » et l'arch",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
     {
       "title": "Pourquoi les barons de l'IA jouent les technophilanthropes",
       "url": "https://usbeketrica.com/fr/article/pourquoi-les-barons-de-l-ia-jouent-les-megadonnateurs",
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Meta et la protection des mineurs : l'accord à 18 milliards de dollars change-t-il vraiment la donne ?",
+      "url": "https://usbeketrica.com/fr/article/meta-et-la-protection-des-mineurs-l-accord-a-18-milliards-de-dollars-change-t-il-vraiment-la-donne",
+      "description": "Mercredi 26 août, Meta a conclu un accord à l’amiable avec 47 États américains pour mettre fin à un nouveau procès l’accusant de porter préjudice aux adolescents via ses plateformes Instagram et Facebook. Au programme : une amende de 18 milliards de dollars, et un panel de mesures protectrices pour les jeunes usagers. Mais le sont-elles vraiment ? Et faut-il s’attendre à voir ces nouvelles règles traverser l’Atlantique ? Réponse de Jean Cattan, ex-secrétaire général du Conseil national du numéri",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
       }
     },
     {

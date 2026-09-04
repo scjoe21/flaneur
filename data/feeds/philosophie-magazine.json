@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-04T08:23:16.975741+00:00",
+  "fetchedAt": "2026-09-04T18:17:34.254863+00:00",
   "items": [
     {
       "title": "Après l’été caniculaire, comment faire le deuil de la nature ?",
@@ -65,6 +65,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Quand nous ne sommes plus d’accord sur les faits",
+      "url": "https://www.philomag.com/articles/quand-nous-ne-sommes-plus-daccord-sur-les-faits",
+      "description": "",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Gloria Steinem, mort d’une pionnière de l’intersectionnalité",
+      "url": "https://www.philomag.com/articles/gloria-steinem-mort-dune-pionniere-de-lintersectionnalite",
+      "description": "",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/barbe-bleue-contre-enquete-de-jennifer-tamas-affaire-non-classee",
       "description": "",
       "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trouver les mots pour écrire, avec Jean-Philippe Toussaint",
-      "url": "https://www.philomag.com/articles/trouver-les-mots-pour-ecrire-avec-jean-philippe-toussaint",
-      "description": "",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Quand Jean-Luc Mélenchon fait l'éloge de la Chine : la chronique de Michel Eltchaninoff",
-      "url": "https://www.philomag.com/articles/quand-jean-luc-melenchon-fait-leloge-de-la-chine-la-chronique-de-michel-eltchaninoff",
-      "description": "",
-      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
