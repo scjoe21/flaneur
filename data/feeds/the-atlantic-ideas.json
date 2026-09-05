@@ -1,22 +1,22 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-04T21:00:30.885813+00:00",
+  "fetchedAt": "2026-09-05T18:24:23.167724+00:00",
   "items": [
     {
-      "title": "How the Right Could Actually End Birthright Citizenship",
-      "url": "https://www.theatlantic.com/magazine/2026/10/birthright-citizenship-trump-barbara-supreme-court/688342/?utm_source=feed",
+      "title": "Why I Want More AI at Dartmouth",
+      "url": "https://www.theatlantic.com/ideas/2026/09/universities-prohibiting-ai-classroom/688509/?utm_source=feed",
       "description": "",
-      "date": "2026-08-31",
+      "date": "2026-09-05",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 10,
-        "total": 25
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "A Society of Cheats",
-      "url": "https://www.theatlantic.com/ideas/2026/08/ai-use-college-cheat/688451/?utm_source=feed",
-      "description": "",
-      "date": "2026-08-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -129,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "J. D. Vance’s Disingenuous Defense of Tucker Carlson",
+      "url": "https://www.theatlantic.com/ideas/2026/09/vance-carlson-political-friendship/688533/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

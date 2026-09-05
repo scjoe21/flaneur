@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-04T21:00:28.712093+00:00",
+  "fetchedAt": "2026-09-05T18:24:22.419603+00:00",
   "items": [
     {
       "title": "The science, medicine, and mythology of menstruation and menopause",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Starts With A Bang podcast #133 – The Milky Way’s center",
+      "url": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-133-the-milky-ways-center/",
+      "description": "Here in our Universe, there are all sorts of places where stars are actively forming right now. Our galaxy is going through a relatively quiet phase at present as far as star-formation is concerned, but that rate was much higher in the past: perhaps 30 (or more) times higher than what it is today. If we want to understand what our galaxy was like earlier on, we have two ways to go about it: look farther away, which has the disadvantage that we can’t really observe those places in such great deta",
+      "date": "Sat, 05 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/BGPSGalacticCenter.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 10,
+        "total": 19
+      }
+    },
+    {
       "title": "We have the knowledge to build a better world. But is that enough?",
       "url": "https://bigthink.com/books/how-collective-knowledge-can-build-a-better-world/",
       "description": "“The grand, leading principle, towards which every argument unfolded in these pages directly converges, is the absolute and essential importance of human development in its richest diversity.”  — Wilhelm von Humboldt \n Knowledge, especially when shared and collectively held, is essential to human flourishing — as Humboldt emphasizes in the [quote above], which was relayed by John Stuart Mill in the epigraph to  On Liberty . \n Knowledge is not an end in itself. It is an instrument for achieving s",
@@ -97,22 +113,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "The surprising link between false memories and imagination",
-      "url": "https://bigthink.com/mind-behavior/the-surprising-link-between-false-memories-and-imagination/",
-      "description": "In his memoir  Uncle Tungsten , British neurologist Oliver Sacks described two bombing incidents from his childhood during the Blitz. One involved a bomb that landed near his family’s home but failed to explode. The other involved a thermite bomb that fell behind the house, which Sacks remembered in vivid detail. \n A few months after the book came out, Sacks mentioned the incidents to his older brother Michael. Michael confirmed the first memory. But when Sacks brought up the thermite bomb, his ",
-      "date": "Mon, 31 Aug 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/false-memories_compressed.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 14
       }
     },
     {

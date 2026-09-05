@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-04T21:00:47.946788+00:00",
+  "lastRun": "2026-09-05T18:24:48.249746+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -28,7 +28,6 @@
     "philosophy-bites",
     "psyche",
     "then-and-now",
-    "daily-stoic",
     "big-think",
     "the-atlantic-ideas",
     "noema",
@@ -56,7 +55,9 @@
     "gendai-media",
     "wired-jp"
   ],
-  "fail": [],
+  "fail": [
+    "daily-stoic"
+  ],
   "total": 54,
-  "fetched": 54
+  "fetched": 53
 }

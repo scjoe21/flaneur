@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-04T21:00:37.771047+00:00",
+  "fetchedAt": "2026-09-05T18:24:32.902241+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Organe aus dem 3D-Drucker – Wie weit ist die Medizin?",
+      "url": "https://www.swr.de/swrkultur/wissen/organe-aus-dem-3d-drucker-wie-weit-ist-die-medizin-100.html",
+      "description": "Herz oder Niere auf Knopfdruck: Berichte über Organe aus dem 3D-Drucker klingen nach einer Lösung für Menschen, die auf ein Spenderorgan warten. Wie weit ist die Forschung?",
+      "date": "Sun, 6 Sep 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -161,22 +177,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Podcast-Tipp: Ready for Liftoff! Der Raumfahrt-Podcast",
-      "url": "https://www.swr.de/swrkultur/wissen/podcast-tipp-ready-for-liftoff-der-raumfahrt-podcast-100.html",
-      "description": "Immer mehr Raketen, immer abgefahrenere Missionen! In der Raumfahrt geht's gerade richtig ab. Das Wettrennen zu Mond und Mars hat längst begonnen. Bereit für den Start?",
-      "date": "Sun, 23 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {

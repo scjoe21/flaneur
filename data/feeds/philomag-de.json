@@ -1,8 +1,24 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-04T21:00:09.973788+00:00",
+  "fetchedAt": "2026-09-05T18:23:46.357785+00:00",
   "items": [
+    {
+      "title": "Phänomenologie des Stillens",
+      "url": "https://www.philomag.de/artikel/phaenomenologie-des-stillens",
+      "description": "Der Akt des Stillens – ob, wie, warum, wie lange – wird heute kontrovers diskutiert. Inmitten dieser Debatte mit all ihren Wertungen und Erwartungen ließe sich aber noch etwas Grundlegenderes fragen: Was ist das überhaupt für ein Gefühl, ein anderes Wesen zu stillen?",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
     {
       "title": "Kunst als Erkenntnisweg",
       "url": "https://www.philomag.de/artikel/kunst-als-erkenntnisweg",
@@ -52,19 +68,35 @@
       }
     },
     {
-      "title": "Ivan Krastev: „Man erwartet eine Politik, die so schnell liefert wie Amazon“",
-      "url": "https://www.philomag.de/artikel/ivan-krastev-man-erwartet-eine-politik-die-so-schnell-liefert-wie-amazon",
-      "description": "Wie blicken wir auf die Zukunft? Und was bedeutet die Beschleunigung für die Demokratie? Ein Gespräch mit Ivan Krastev über Politik und Zeit.",
+      "title": "Peter Abaelard und das Wissen",
+      "url": "https://www.philomag.de/artikel/peter-abaelard-und-das-wissen",
+      "description": "Wissen über das Übel ist nicht selbst übel, schreibt Peter Abaelard. Warum kann es für ein gutes Leben sogar notwendig sein?",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
+        "daily": 20,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Wir Intelligenzbestien",
+      "url": "https://www.philomag.de/artikel/wir-intelligenzbestien",
+      "description": "Der Boom der künstlichen Intelligenz führt dazu, dass auch die menschliche Intelligenz neu und kritisch verhandelt wird. Drei Bücher erforschen aus unterschiedlicher Perspektive, was wir wissen können – und wie wir unsere Klugheit messen wollen.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -84,22 +116,6 @@
       }
     },
     {
-      "title": "Die Lust am guten Argument",
-      "url": "https://www.philomag.de/artikel/die-lust-am-guten-argument",
-      "description": "Der Podcast  Philosophie für Alle! Auf ein Argument mit …  nimmt sich mit philosophischen Mitteln öffentlich relevanter Themen an.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Maria-Sibylla Lotter: „Man sollte Opfer als selbständige Subjekte behandeln“",
       "url": "https://www.philomag.de/artikel/maria-sibylla-lotter-man-sollte-opfer-als-selbstaendige-subjekte-behandeln",
       "description": "Der diesjährige Tractatus-Preis geht an die Philosophin Maria-Sibylla Lotter für ihr Buch  Opfer .  Über Verwundbarkeit als Selbstbild.  Wir haben mit der Preisträgerin über die Aufwertung von Opfern als Fortschritt mit Kehrseite gesprochen.",
@@ -113,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Rund und bunt gegen das Patriarchat",
+      "url": "https://www.philomag.de/artikel/rund-und-bunt-gegen-das-patriarchat",
+      "description": "Aus den Trümmern der männlichen Kunst erschuf Niki de Saint Phalle weibliche Traumwelten. Eine Ausstellung in Düsseldorf würdigt ihr Schaffen.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -180,38 +212,6 @@
       }
     },
     {
-      "title": "Verzweifelter Spaß",
-      "url": "https://www.philomag.de/artikel/verzweifelter-spass",
-      "description": "Im Bärenkostüm gegen die Unordnung der Welt: Das Werk der Schriftstellerin Heike Geißler wimmelt von Figuren, die das große Ganze infrage stellen. In ihrem jüngsten Roman  Michaela Kohlhaas  hilft nicht zuletzt die Ironie.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Phantome des Widerstands",
-      "url": "https://www.philomag.de/artikel/phantome-des-widerstands",
-      "description": "Verachtenswerte politische Überzeugungen, meint Wolfram Eilenberger, werden nicht dadurch verschwinden, dass man ihnen abspricht, eine „Meinung“ zu sein.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Was heißt hier Volkssouveränität?",
       "url": "https://www.philomag.de/artikel/was-heisst-hier-volkssouveraenitaet",
       "description": "Das Fundament der Demokratie ist der Demos – das Volk. Ob es aber überhaupt in der Lage ist, seine Macht souverän auszuüben, ist unter Philosophen bis heute umstritten. Hier acht Positionen.",
@@ -228,9 +228,9 @@
       }
     },
     {
-      "title": "Mausi Macker",
-      "url": "https://www.philomag.de/artikel/mausi-macker",
-      "description": "In den Sozialen Medien zelebrieren junge Frauen ihren „Mausi Macker“. Um wen handelt es sich dabei?",
+      "title": "Gezähmtes Abenteuer",
+      "url": "https://www.philomag.de/artikel/gezaehmtes-abenteuer",
+      "description": "Risikoreiche Urlaube gewinnen an Beliebtheit. Doch das Abenteuer ist längst zur Regenerationsmaßnahme verkümmert.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",

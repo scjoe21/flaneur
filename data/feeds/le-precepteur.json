@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-04T21:00:04.214244+00:00",
+  "fetchedAt": "2026-09-05T18:23:38.406894+00:00",
   "items": [
     {
       "title": "Savez-vous qui vous êtes ?",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "Trouver l'âme soeur",
-      "url": "https://www.youtube.com/shorts/hNKgGgnwS7I",
-      "description": "Au IVe siècle avant notre ère, Aristophane raconte un mythe célèbre pour expliquer l’origine du sentiment amoureux, celui des androgynes. Dans cette vidéo, je vous explique pourquoi, selon ce mythe, aimer quelqu’un ne serait pas seulement être attiré par lui mais chercher à retrouver la moitié perdue qui nous donnerait enfin le sentiment d’être complet.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #aristophane #amour #androgynes #existence",
-      "date": "2026-07-19",
-      "thumbnail": "https://i1.ytimg.com/vi/hNKgGgnwS7I/hqdefault.jpg",
-      "videoId": "hNKgGgnwS7I",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
       "title": "N'attendez rien des autres",
       "url": "https://www.youtube.com/shorts/PeSbHaMBaJM",
       "description": "Selon les stoïciens, la plupart de nos souffrances ne viennent pas des événements, mais de nos attentes. En projetant mentalement nos désirs sur la réalité, nous nous condamnons à la déception. Ce n'est qu'en étant lucide sur le monde et sur l'imperfection humaine que nous pourrons nous libérer du malheur.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n \n#stoicisme #attentes #deception #lucidite #bienetre #philosophie",
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
+      "url": "https://www.youtube.com/shorts/f8u9wHnkbYE",
+      "description": "Complétez ma liste en commentaire ⬇️",
+      "date": "2026-09-05",
+      "thumbnail": "https://i3.ytimg.com/vi/f8u9wHnkbYE/hqdefault.jpg",
+      "videoId": "f8u9wHnkbYE",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "ermanno-ferretti",
   "sourceName": "Ermanno Ferretti",
-  "fetchedAt": "2026-09-04T21:00:38.111984+00:00",
+  "fetchedAt": "2026-09-05T18:24:33.466315+00:00",
   "items": [
     {
       "title": "La guerra civile in Libano [Dentro alla storia, episodio 401]",
@@ -96,22 +96,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Il paradosso della scelta",
-      "url": "https://www.youtube.com/shorts/33-FdCV8KmE",
-      "description": "In pizzeria, davanti a un menù infinito, non riesci mai a scegliere?\n\nC’è un motivo: più opzioni non significa più libertà, ma da un certo punto in poi produce il contrario.\n\n👉 Ti blocchi più spesso davanti a troppe opzioni o davanti a poche?\n\n👉 Ne parlo, filosoficamente, anche nei video su YouTube dedicati a Kierkegaard\n\n#filosofia #psicologia #paradossodellascelta #scegliere",
-      "date": "2026-08-23",
-      "thumbnail": "https://i4.ytimg.com/vi/33-FdCV8KmE/hqdefault.jpg",
-      "videoId": "33-FdCV8KmE",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 20
       }
     },
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Maradona a Napoli: l’eroe tragico della rivincita del Sud",
+      "url": "https://www.youtube.com/watch?v=2nHuPNc5VrU",
+      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nNella seconda metà degli anni '80 la città di Napoli (e in generale tutto il sud) ebbe un eroe indiscusso ma anche fragile: Diego Armando Maradona. La sua vicenda umana e sportiva si intreccia a quella dell'Italia del tempo: ne ripercorriamo la storia.\n\nSommario dei contenuti:\n00:00 Intro\n01:59 Chi sono (e cosa faccio qui)\n03:08 Napoli negli anni '80\n13:17 La rivincita di Napoli\n19:29 Mondiali e scudet",
+      "date": "2026-09-05",
+      "thumbnail": "https://i3.ytimg.com/vi/2nHuPNc5VrU/hqdefault.jpg",
+      "videoId": "2nHuPNc5VrU",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     }
   ]

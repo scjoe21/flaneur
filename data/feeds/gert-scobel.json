@@ -1,7 +1,7 @@
 {
   "sourceId": "gert-scobel",
   "sourceName": "Gert Scobel",
-  "fetchedAt": "2026-09-04T21:00:06.509641+00:00",
+  "fetchedAt": "2026-09-05T18:23:42.731959+00:00",
   "items": [
     {
       "title": "Warum du einen Sinn hast, den du nicht kennst | NANO",
@@ -58,22 +58,6 @@
       "date": "2026-08-25",
       "thumbnail": "https://i4.ytimg.com/vi/S3ITTG2lL0I/hqdefault.jpg",
       "videoId": "S3ITTG2lL0I",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "ME/CFS: Neue Erkenntnisse aus der Forschung | NANO",
-      "url": "https://www.youtube.com/watch?v=9RMhFAJoHTs",
-      "description": "Wichtiger Hinweis: Dieser Beitrag behandelt unter anderem die schwere Belastung durch ME/CFS und das Thema assistierter Suizid. Wenn ihr selbst Hilfe sucht oder Angehörige seid, findet ihr Unterstützung bei der TelefonSeelsorge unter 0800 111 0 111 oder online auf telefonseelsorge.de.\n_______________ \n\nWas passiert im Körper, wenn Menschen unter ME/CFS leiden und warum werden sie mit ihrer Behandlung so häufig alleingelassen? \n\n#mecfs #postcovid #gesundheit #forschung #3sat\n\nDie neuro-immunologi",
-      "date": "2026-08-20",
-      "thumbnail": "https://i2.ytimg.com/vi/9RMhFAJoHTs/hqdefault.jpg",
-      "videoId": "9RMhFAJoHTs",
       "priority": 25,
       "scoreDetail": {
         "daily": 25,
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Dieser Roboter hat 13.000 Sensoren in der Haut #robotik #wissenschaft #nano #3sat #technologie",
+      "url": "https://www.youtube.com/shorts/40yhseMxL0E",
+      "description": "13.000 Sensoren reagieren auf Druck, Nähe und Temperatur: Gordon Cheng entwickelt künstliche Haut für die Robotik der Zukunft. \nMehr dazu im Video! 👉 https://youtu.be/Ab25-I4a-HM",
+      "date": "2026-09-05",
+      "thumbnail": "https://i1.ytimg.com/vi/40yhseMxL0E/hqdefault.jpg",
+      "videoId": "40yhseMxL0E",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
