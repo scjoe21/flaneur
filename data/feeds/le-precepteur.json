@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-05T18:23:38.406894+00:00",
+  "fetchedAt": "2026-09-06T19:07:36.434724+00:00",
   "items": [
     {
       "title": "Savez-vous qui vous êtes ?",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Les ignorants qui croient savoir",
+      "url": "https://www.youtube.com/shorts/c010nonp_DE",
+      "description": "Au Ve siècle avant notre ère, Socrate défend une idée essentielle : le véritable savoir commence lorsque l’on prend conscience de son ignorance. Plus de deux mille ans plus tard, l’effet Dunning-Kruger semble lui donner raison. Dans cette vidéo, je vous explique pourquoi l’ignorance peut produire une illusion de compétence et pourquoi la vraie connaissance nous rend souvent plus humbles.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #socrate #dunningkruger #savoir",
+      "date": "2026-09-06",
+      "thumbnail": "https://i4.ytimg.com/vi/c010nonp_DE/hqdefault.jpg",
+      "videoId": "c010nonp_DE",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-09-02",
       "thumbnail": "https://i3.ytimg.com/vi/Zfv1SIJM1kA/hqdefault.jpg",
       "videoId": "Zfv1SIJM1kA",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Cessez de projeter vos interprétations",
-      "url": "https://www.youtube.com/shorts/s-sYxvr_UoE",
-      "description": "Nous ne pouvons pas contrôler les événements ni le comportement des autres. Mais nous pouvons apprendre à suspendre nos interprétations, à prendre du recul et à introduire un délai entre un fait et notre réaction. Vos émotions sont souvent le fruit de vos interprétations, pas de l'événement en lui-même. Le stoïcisme nous apprend ainsi à reprendre le contrôle de notre vie intérieure.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd\n \n#stoicisme #gestiondesemotions #develop",
-      "date": "2026-07-22",
-      "thumbnail": "https://i4.ytimg.com/vi/s-sYxvr_UoE/hqdefault.jpg",
-      "videoId": "s-sYxvr_UoE",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

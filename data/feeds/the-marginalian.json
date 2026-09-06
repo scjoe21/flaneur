@@ -1,29 +1,13 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-05T18:24:24.232669+00:00",
+  "fetchedAt": "2026-09-06T19:08:10.488017+00:00",
   "items": [
     {
-      "title": "How to Have Enough: Wendell Berry on Creativity and Love",
-      "url": "https://www.themarginalian.org/2026/09/02/wendell-berry-sabbath/",
-      "description": "“Enough is so vast a sweetness, I suppose it never occurs, only pathetic counterfeits,” Emily Dickinson sighed in one of her love letters to Susan an epoch before Kurt Vonnegut, in a short and lovely poem, distilled happiness to the knowledge that you have enough. It is not an easy knowledge to live with amid the commodified counterfeits of happiness that light up these sunset days of Western civilization, with its mesmerism of maximums and its cult of more, materially and spiritually — capitali",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 44
-      }
-    },
-    {
-      "title": "A Parliament of Owls and a Murder of Crows: How a Forgotten Medieval Woman Gave Groups of Birds Their Strange Names, with Wondrous Vintage Illustrations by Brian Wildsmith",
-      "url": "https://www.themarginalian.org/2026/08/31/brian-wildsmith-birds-company-terms/",
-      "description": "Language is an instrument of great precision and poignancy — our best tool for telling each other what the world is and what we are, for conveying the blueness of blue and the wonder of being alive. But it is also a thing of great pliancy and creativity — a living reminder that how we name things changes what we see, changes the seer. (This, of course, is why we have poetry.) It is the birthplace of the imagination and forever its plaything: I remember my unabashed delight when a naturalist frie",
-      "date": "Mon, 31 Aug 2026",
+      "title": "How Two Souls Can Interact with One Another: Simone de Beauvoir on Love and Friendship",
+      "url": "https://www.themarginalian.org/2026/09/05/simone-de-beauvoir-love-friendship/",
+      "description": "It is in relationships that we discover both our depths and our limits, there that we anneal ourselves and transcend ourselves, there that we are hurt the most and there that we find the most healing. But despite what a crucible of our emotional and spiritual lives relationships are — or perhaps precisely because of it — they can be riddling and nebulous, destabilizing in their fluidity and ambiguity, leaving us grasping for the comforting solidity of categories and labels. The ancient Greeks, i",
+      "date": "Sat, 05 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 34,
@@ -33,22 +17,6 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 34
-      }
-    },
-    {
-      "title": "How Do We Know What We Want: Milan Kundera on the Central Ambivalences of Life and Love",
-      "url": "https://www.themarginalian.org/2026/09/01/milan-kundera-unbearable-lightness-of-being/",
-      "description": "\"We can never know what to want, because, living only one life, we can neither compare it with our previous lives nor perfect it in our lives to come... We live everything as it comes, without warning.\"",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
       }
     },
     {
@@ -84,6 +52,22 @@
       }
     },
     {
+      "title": "How to Relate to Your Worst Mistakes: The Life-Shaping Difference Between Regret and Remorse",
+      "url": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
+      "description": "You know it, that awful moment your coherent self-image shatters and a part of you, shadowy and untended, splits off to cause harm and havoc as the rest of you watches helplessly, wincing. You know the next moment, too — the desperate wish for an undo button you know cannot be had, no matter your protestations and prostrations. It is a seductive dream, to have an unregetting life, but it is also a dangerous dream, for it dooms us to the living nightmare of perfection, that punitive negation of o",
+      "date": "Sat, 05 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "The Invention of Zero: How Ancient Mesopotamia Created the Mathematical Concept of Nought and Ancient India Gave It Symbolic Form",
       "url": "https://www.themarginalian.org/2026/09/02/zero-robert-kaplan/",
       "description": "\"If you look at zero you see nothing; but look through it and you will see the world.\"",
@@ -116,7 +100,39 @@
       }
     },
     {
-      "title": "A Lei for Your Losses: Joan Didion on the Art of Letting Go",
+      "title": "How to Handle Provocation: Bertrand Russell’s Remarkable Response to a Fascist",
+      "url": "https://www.themarginalian.org/2026/09/04/bertrand-russell-oswald-mosley/",
+      "description": "\"The emotional universes we inhabit are so distinct, and in deepest ways opposed, that nothing fruitful or sincere could ever emerge from association between us.\"",
+      "date": "Fri, 04 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The Most Important Thing to Remember About Your Mother",
+      "url": "https://www.themarginalian.org/2026/09/05/florida-scott-maxwell-mother/",
+      "description": "\"It is not easy to give closeness and freedom, safety plus danger.\"",
+      "date": "Sat, 05 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Joan Didion on Letting Go",
       "url": "https://www.themarginalian.org/2026/09/01/joan-didion-loss/",
       "description": "“We cannot deeply love anything without becoming vulnerable to loss,” Judith Viorst wrote in her defense of life’s necessary losses, “and we cannot become separate people, responsible people, connected people, reflective people without some losing and leaving and letting go.” We know that loving anything or anyone is a contract with loss, and yet we love anyway, our lives a ceaseless osmosis of holding on and letting go, an endless apprenticeship in the art of losing. What we keep of our losses ",
       "date": "Tue, 01 Sep 2026",
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/09/01/c-s-lewis-longing/",
       "description": "\"...only the scent of a flower we have not found, the echo of a tune we have not heard, news from a country we have never visited.\"",
       "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The 3 Buddhist Steps to Repairing a Relationship",
-      "url": "https://www.themarginalian.org/2026/09/01/thich-nhat-hanh-listening-love/",
-      "description": "\"The intention of deep listening and loving speech is to restore communication, because once communication is restored, everything is possible.\"",
-      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

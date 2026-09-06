@@ -1,24 +1,8 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-05T18:23:46.357785+00:00",
+  "fetchedAt": "2026-09-06T19:07:44.032916+00:00",
   "items": [
-    {
-      "title": "Phänomenologie des Stillens",
-      "url": "https://www.philomag.de/artikel/phaenomenologie-des-stillens",
-      "description": "Der Akt des Stillens – ob, wie, warum, wie lange – wird heute kontrovers diskutiert. Inmitten dieser Debatte mit all ihren Wertungen und Erwartungen ließe sich aber noch etwas Grundlegenderes fragen: Was ist das überhaupt für ein Gefühl, ein anderes Wesen zu stillen?",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
-      }
-    },
     {
       "title": "Kunst als Erkenntnisweg",
       "url": "https://www.philomag.de/artikel/kunst-als-erkenntnisweg",
@@ -68,32 +52,16 @@
       }
     },
     {
-      "title": "Peter Abaelard und das Wissen",
-      "url": "https://www.philomag.de/artikel/peter-abaelard-und-das-wissen",
-      "description": "Wissen über das Übel ist nicht selbst übel, schreibt Peter Abaelard. Warum kann es für ein gutes Leben sogar notwendig sein?",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Wir Intelligenzbestien",
-      "url": "https://www.philomag.de/artikel/wir-intelligenzbestien",
-      "description": "Der Boom der künstlichen Intelligenz führt dazu, dass auch die menschliche Intelligenz neu und kritisch verhandelt wird. Drei Bücher erforschen aus unterschiedlicher Perspektive, was wir wissen können – und wie wir unsere Klugheit messen wollen.",
+      "title": "Der Weltgeist und die Geopolitik",
+      "url": "https://www.philomag.de/artikel/der-weltgeist-und-die-geopolitik",
+      "description": "Vor über 60 Jahren diskutierten der französische Philosoph Alexandre Kojève und der deutsche Staatsrechtler Carl Schmitt über die heraufziehende Weltordnung. Die Berührungspunkte beider Denker, die sich in zentralen Fragen uneins waren, könnten für unsere heutige geopolitische Situation wegweisend sein.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -129,22 +97,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Rund und bunt gegen das Patriarchat",
-      "url": "https://www.philomag.de/artikel/rund-und-bunt-gegen-das-patriarchat",
-      "description": "Aus den Trümmern der männlichen Kunst erschuf Niki de Saint Phalle weibliche Traumwelten. Eine Ausstellung in Düsseldorf würdigt ihr Schaffen.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {
@@ -212,6 +164,54 @@
       }
     },
     {
+      "title": "Bürgerliche Wikinger",
+      "url": "https://www.philomag.de/artikel/buergerliche-wikinger",
+      "description": "Die Wikinger gelten gemeinhin als kriegerisches Volk, das plündernd durch Europa zog. Doch ein archäologischer Fund dürfte diese Vorstellung nun irritieren.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Schall und Wahn",
+      "url": "https://www.philomag.de/artikel/schall-und-wahn",
+      "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Sollten wir Freunde vor Fehlern bewahren?",
+      "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
+      "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
+      "date": "Fri, 28 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
       "title": "Was heißt hier Volkssouveränität?",
       "url": "https://www.philomag.de/artikel/was-heisst-hier-volkssouveraenitaet",
       "description": "Das Fundament der Demokratie ist der Demos – das Volk. Ob es aber überhaupt in der Lage ist, seine Macht souverän auszuüben, ist unter Philosophen bis heute umstritten. Hier acht Positionen.",
@@ -228,9 +228,9 @@
       }
     },
     {
-      "title": "Gezähmtes Abenteuer",
-      "url": "https://www.philomag.de/artikel/gezaehmtes-abenteuer",
-      "description": "Risikoreiche Urlaube gewinnen an Beliebtheit. Doch das Abenteuer ist längst zur Regenerationsmaßnahme verkümmert.",
+      "title": "Diskrete Verdinglichung",
+      "url": "https://www.philomag.de/artikel/diskrete-verdinglichung",
+      "description": "Mit den „Meta AI Glasses“ kann man Abbilder anderer einfangen – und das teilweise unbemerkt.",
       "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",

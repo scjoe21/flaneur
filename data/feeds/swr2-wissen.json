@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-05T18:24:32.902241+00:00",
+  "fetchedAt": "2026-09-06T19:08:17.830234+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Logisches Denken ohne Menschen – KI in der Mathematik",
+      "url": "https://www.swr.de/swrkultur/wissen/logisches-denken-ohne-menschen-ki-in-der-mathematik-100.html",
+      "description": "Künstliche Intelligenz glänzt in der Mathe-Olympiade und kann mathematische Beweise führen. Wissenschaft und Schulunterricht können davon profitieren.",
+      "date": "Mon, 7 Sep 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Das Volk – Wer ist das eigentlich?",
       "url": "https://www.swr.de/swrkultur/wissen/das-volk-annaeherung-an-einen-schwierigen-begriff-104.html",
       "description": "Bei mehreren Landtagswahlen im September 2026 wird das Wahlvolk wieder an die Urnen gebeten. Aber: Wer ist dieses Volk? Ist der Begriff noch zeitgemäß oder sollten wir ihn abschaffen?",
@@ -152,22 +168,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/phlegraeische-felder-italiens-schlafender-supervulkan-erwacht-100.html",
       "description": "Seit 2023 melden sich die Phlegräischen Felder bei Neapel mit Bodenhebungen, CO2-Emissionen und immer stärkeren Erdbeben zurück – mögliche Vorboten eines großen Vulkanausbruchs.",
       "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Made in Germany – Exportweltmeister unter Druck",
-      "url": "https://www.swr.de/swrkultur/wissen/made-in-germany-exportweltmeister-unter-druck-100.html",
-      "description": "Deutschland galt lange als Exportweltmeister. Doch die Abhängigkeit von den Märkten in China und den USA ist riskant. Woher kommt unsere Vorliebe fürs Exportmodell?",
-      "date": "Mon, 24 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

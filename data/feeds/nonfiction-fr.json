@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-09-05T18:24:27.670022+00:00",
+  "fetchedAt": "2026-09-06T19:08:13.690850+00:00",
   "items": [
     {
       "title": "Louise Glück : les recettes de l’hiver",
@@ -17,6 +17,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 23
+      }
+    },
+    {
+      "title": "Penser les religions autrement : un entretien croisé",
+      "url": "https://www.nonfiction.fr/article-12818-penser-les-religions-autrement-un-entretien-croise.htm",
+      "description": "Peut-on encore parler de « la religion » comme d’un objet homogène ? Les livres de Nathalie Heinich,  La religion n’existe pas , et de Paul Seabright,  La Divine Économie , répondent à cette question en déplaçant profondément le regard porté sur les phénomènes religieux. Leurs démarches sont pourtant très différentes : la première relève de la sociologie et de l’épistémologie, le second mobilise les outils de l’économie. Mais leurs analyses se rejoignent sur un point essentiel : pour comprendre ",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
       }
     },
     {
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "La vocation universitaire à l’épreuve de l’institution",
-      "url": "https://www.nonfiction.fr/article-12791-la-vocation-universitaire-a-lepreuve-de-linstitution.htm",
-      "description": "Avec  Galaxie du personnel , publié au Nouvel Attila, Alexis Anne-Braun accomplit un geste littéraire rare : faire d'une procédure administrative universitaire la matière d'un récit à la fois drôle, mélancolique, théorique et profondément humain. Le titre renvoie d'abord au portail numérique du ministère de l'Enseignement supérieur qui centralise les carrières universitaires françaises ; mais il désigne bientôt un univers beaucoup plus vaste, peuplé d'institutions, de fantasmes professionnels, d",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

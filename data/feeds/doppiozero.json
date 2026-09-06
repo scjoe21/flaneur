@@ -1,7 +1,7 @@
 {
   "sourceId": "doppiozero",
   "sourceName": "Doppiozero",
-  "fetchedAt": "2026-09-05T18:23:54.617743+00:00",
+  "fetchedAt": "2026-09-06T19:07:51.024606+00:00",
   "items": [
     {
       "title": "Gli spazi rurali e la città infinita",
@@ -32,22 +32,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "La democrazia insostenibile",
-      "url": "https://www.doppiozero.com/la-democrazia-insostenibile",
-      "description": "La democrazia insostenibile \n \n Lelio Demichelis \n Anita Romanello \n Mar, 01/09/2026 - 03:10 \n \n\n             Che la democrazia moderna – là dove ancora esiste o resiste – non stia troppo bene in salute è cosa detta e ripetuta da tempo – ma in realtà, da sempre la democrazia riflette su se stessa. Libri e libri sono stati scritti per capire le cause di questa malattia che oggi si chiamano populismo, sovranismo, reazione, fascismo, neoliberalismo – con personaggi come Peter Thiel e Trump. Signifi",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 25
       }
     },
@@ -100,6 +84,22 @@
       }
     },
     {
+      "title": "Germania: Sappiamo bene cosa accadde",
+      "url": "https://www.doppiozero.com/germania-sappiamo-bene-cosa-accadde",
+      "description": "Germania: Sappiamo bene cosa accadde \n \n Uwe Timm \n Anita Romanello \n Dom, 06/09/2026 - 03:10 \n \n\n             Il 28 agosto scorso, anniversario della nascita di Goethe, è stato conferito allo scrittore tedesco Uwe Timm il prestigioso Premio Goethe, che viene attribuito ogni tre anni e che in passato è stato assegnato a figure del calibro di Sigmund Freud, Thomas Mann, Albert Einstein, Ingmar Bergman, Max Planck. In quell’occasione Timm ha pronunciato un breve discorso di alto spessore civico e ",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Marta Cai: Lady Tetris e l'utopia",
       "url": "https://www.doppiozero.com/marta-cai-lady-tetris-e-lutopia",
       "description": "Marta Cai: Lady Tetris e l'utopia \n \n Fabio Pedone \n Anita Romanello \n Sab, 05/09/2026 - 03:05 \n \n\n             Ho dovuto rileggerla almeno altre due volte quella riga: “La macchina retorica del libero amore”. Formula d’acchiappo, nevvero? E invece alla terza ripetizione, al terzo ripasso ottico, la pagina si è schiarita: “la macchia nella retorica del libero amore”. O no? Non è che quella macchia avrà oscurato ancora tutto? Salta su nel cranio accaldato la reminiscenza di un tagliente studio di",
@@ -145,6 +145,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Occhio rotondo 71. In fila",
+      "url": "https://www.doppiozero.com/occhio-rotondo-71-in-fila",
+      "description": "Occhio rotondo 71. In fila \n \n Marco Belpoliti \n Anita Romanello \n Dom, 06/09/2026 - 03:05 \n \n\n             Tutti in fila lungo lo stretto camminamento in mezzo alle acque che si perde là in fondo mentre disegna una lunghissima curva. Sul pavimento di cemento si scorgono i partecipanti al viaggio organizzato da Gianni Celati per realizzare il suo film,  Strada provinciale delle anime , nel 1991. In mezzo a loro si distinguono appena due operatori della troupe con la camera in spalla. La fotograf",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Venezia 83/1. Il grande balzo all’indietro",
+      "url": "https://www.doppiozero.com/venezia-831-il-grande-balzo-allindietro",
+      "description": "Venezia 83/1. Il grande balzo all’indietro \n \n Gabriele Gimmelli \n Anita Romanello \n Dom, 06/09/2026 - 03:00 \n \n\n             Un meccanismo inceppato. No, non sto parlando del sistema di prenotazione dei posti per la Mostra, croce e delizia di ogni accreditato, ormai ampiamente rodato e perfettamente funzionante. A essersi inceppata, in questa edizione numero 83, è quella che già nel 2019 avevamo definito la “Linea Barbera”, ovvero quella sorta di compromesso virtuoso fra tappeti rossi e sperime",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.doppiozero.com/orson-welles-pezzi-grossi-e-altre-rarita",
       "description": "Orson Welles, pezzi grossi e altre rarità \n \n Gabriele Gimmelli \n Anita Romanello \n Mer, 02/09/2026 - 03:10 \n \n\n             C’è qualcosa di involontariamente ironico nel percorso della mostra  My Name is Orson Welles , curata da Frédéric Bonnaud e allestita presso il Museo Nazionale del Cinema di Torino. Il suo andamento ascensionale, lungo la rampa che costeggia le pareti della Mole Antonelliana, pur organizzato in termini cronologici, mi pare che vada a rovesciare quello che è stato il destin",
       "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Franco Fornari innovatore",
-      "url": "https://www.doppiozero.com/franco-fornari-innovatore",
-      "description": "Franco Fornari innovatore \n \n Iolanda Stocchi \n Anita Romanello \n Mar, 01/09/2026 - 03:05 \n \n\n             L’ultimo volume della collana Eredi (Feltrinelli) è dedicato all’avventura umana e professionale di  Franco Fornari  a partire dalla messa in discussione di alcune teorie di Freud: Alfio Maggiolini fa emergere lo spirito innovatore e rivoluzionario dello psicoanalista. La teoria dei  codici affettivi  – evoluzione della  teoria coinemica , elaborata nell’ultima parte della sua vita e purtro",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Margaret Laurence: il mondo visto dal Manitoba",
-      "url": "https://www.doppiozero.com/margaret-laurence-il-mondo-visto-dal-manitoba",
-      "description": "Margaret Laurence: il mondo visto dal Manitoba  \n \n Oriana Palusci \n Anita Romanello \n Mar, 01/09/2026 - 03:00 \n \n\n             Qualche mese dopo l’ottobre 2013, quando il Premio Nobel per la Letteratura era stato conferito per la prima volta a una voce della cultura anglo-canadese, Alice Munro, la raffinata autrice di  short story , pubblicata in Italia da Einaudi, mi sono imbattuta, su un treno della linea Toronto-Ottawa, in un M.P. (Member of Parliament) diretto nella capitale federale di una",
-      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

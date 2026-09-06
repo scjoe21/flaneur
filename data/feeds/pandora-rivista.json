@@ -1,7 +1,7 @@
 {
   "sourceId": "pandora-rivista",
   "sourceName": "Pandora Rivista",
-  "fetchedAt": "2026-09-05T18:24:33.196934+00:00",
+  "fetchedAt": "2026-09-06T19:08:18.036673+00:00",
   "items": [
     {
       "title": "Mario De Caro - La Superintelligenza artificiale è possibile?",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Beatrice Mautino e Elisabetta Tola - Storie di chi si affida alla scienza e di chi impara a farlo",
+      "url": "https://www.youtube.com/watch?v=fa3yztuA47s",
+      "description": "Beatrice Mautino - Vertigine. Storie di chi si affida alla scienza e di chi impara a farlo\n\nL'incontro si è svolto mercoledì 15 ottobre a partire dal libro \"Vertigine. Storie di chi si affida alla scienza e di chi impara a farlo\" (Mondadori) all'Officina DumBo nell'edizione 2025 del Festival del Presente - Dialoghi di Pandora Rivista, dal titolo “Forme del caos. Disordine, complessità, trasformazione”.\n\nPer abbonarsi alla rivista: https://www.pandorarivista.it/abbonati/\n\nIscriviti al canale per ",
+      "date": "2026-09-06",
+      "thumbnail": "https://i3.ytimg.com/vi/fa3yztuA47s/hqdefault.jpg",
+      "videoId": "fa3yztuA47s",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-04-28",
       "thumbnail": "https://i4.ytimg.com/vi/_blS3gF53vg/hqdefault.jpg",
       "videoId": "_blS3gF53vg",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Paolo Benanti, Marco Damilano e Matteo Maria Zuppi - L'animale umano e la macchina",
-      "url": "https://www.youtube.com/watch?v=Y5f96n_op7w",
-      "description": "Paolo Benanti, Marco Damilano e Matteo Maria Zuppi - L'animale umano e la macchina\n\nL'incontro si è svolto domenica 12 ottobre all’Auditorium della Fondazione MAST nell'edizione 2025 del Festival del Presente - Dialoghi di Pandora Rivista, dal titolo “Forme del caos. Disordine, complessità, trasformazione”.\n\nPer abbonarsi alla rivista: https://www.pandorarivista.it/abbonati/",
-      "date": "2026-04-26",
-      "thumbnail": "https://i2.ytimg.com/vi/Y5f96n_op7w/hqdefault.jpg",
-      "videoId": "Y5f96n_op7w",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-05T18:23:40.073403+00:00",
+  "fetchedAt": "2026-09-06T19:07:38.009685+00:00",
   "items": [
     {
       "title": "Après l’été caniculaire, comment faire le deuil de la nature ?",
@@ -49,6 +49,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 8
+      }
+    },
+    {
+      "title": "Corps, plaisir et salami… L’écrivaine Lize Spit répond à notre “Questionnaire de Socrate”",
+      "url": "https://www.philomag.com/articles/corps-plaisir-et-salami-lecrivaine-lize-spit-repond-notre-questionnaire-de-socrate",
+      "description": "",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/prendre-langue-avec-lia-mazarine-m-pingeot-debat-avec-catherine-malabou",
       "description": "",
       "date": "Mon, 31 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les aventures conceptuelles d’Edgar Morin aux États-Unis",
-      "url": "https://www.philomag.com/articles/les-aventures-conceptuelles-dedgar-morin-aux-etats-unis",
-      "description": "",
-      "date": "Sat, 29 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

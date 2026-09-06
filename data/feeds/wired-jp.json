@@ -1,10 +1,10 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-05T18:24:48.249320+00:00",
+  "fetchedAt": "2026-09-06T19:08:33.961387+00:00",
   "items": [
     {
-      "title": "【9月5日・6日開催】東京の“音の足跡”をたどるプロジェクト「 TRACK TRACK TRACK 」by HOKA",
+      "title": "【9月5日・6日開催】「 TRACK TRACK TRACK 」by HOKA：池松壮亮とサウンドアーティスト・vqが見つけた都市の記憶",
       "url": "https://wired.jp/article/wwl-tracktracktrack-hoka-sosukeikematsu-vq/",
       "description": "HOKAが都市の日常になじむ新モデル「Clifton UTL」の発売を記念し、東京を捉え直す探索プロジェクト「TRACK TRACK TRACK」を始動。俳優・池松壮亮とサウンドアーティスト・vqが見つけた都市の記憶を追体験するイベントが、9月5日（土）・6日（日）の2日間限定で開催される。",
       "date": "Sat, 05 Sep 2026",
@@ -17,6 +17,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "AIエージェントはなぜ普及しない？：2026年8月に最も読まれた10本のストーリー",
+      "url": "https://wired.jp/article/10-most-read-stories-august-2026/",
+      "description": "2026年8月に「WIRED.jp」で公開した記事のなかから、最も読まれた10本を紹介する。",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "宮津湾の「海底湧水」がつなぐ、料理と生態系：松田法子連載・『人と地球の共構築に向けて』",
+      "url": "https://wired.jp/article/shore-travelogue-06-noriko-matsuda/",
+      "description": "陸にしみ込んだ水が地中を通り、海底から直接湧き出す「海底湧水」。京都・宮津湾でこの湧水に着目した漁師と、東京の日本料理店でそれを料理に用いた料理人。ふたつの実践をたどりながら、〈汀〉のあり方を考える。",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -49,6 +81,54 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "「AI詐欺師」が人間よりも巧みに信頼関係を築いていた：実験結果",
+      "url": "https://wired.jp/article/ai-scammers-are-better-at-building-trust-than-humans/",
+      "description": "ある研究者グループが人間とAIエージェント「Claude」を競わせる実験を行った。1週間にわたり被検者との間でメッセージのやり取りを続けさせた結果、AIチャットボットの方が「悪用可能な信頼関係」を築く能力に長けていることがわかったという。",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "暴走するAIエージェントは“悪”ではない。人間の期待に応えようとしているだけだ",
+      "url": "https://wired.jp/article/rogue-ai-is-just-misunderstood/",
+      "description": "AIエージェントが人間の制御を振り切り、外部システムへ侵入する事例が相次いでいる。原因は悪意ではなく、与えられた目標を達成しようとするあまり、想定外の行動に出ることにあるようだ。",
+      "date": "Sat, 05 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "AIを嫌う人が多い理由を、シリコンバレーはわかっていない",
+      "url": "https://wired.jp/article/sz-silicon-valley-doesnt-get-why-you-hate-ai/",
+      "description": "シリコンバレーは、世間で強まるAIへの反発に向き合い始めた。テック企業のリーダーたちはSNSで盛んに自説を展開しているが、その内容を見る限り、反発の本当の原因を十分に理解できていないようである。",
+      "date": "Sat, 05 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -152,86 +232,6 @@
       "url": "https://wired.jp/article/anthropic-standard-ai-agents-coming-to-the-physical-world/",
       "description": "AIによる科学研究や製造業の自動化には大きな可能性がある。そこでAnthropicは事故や悪用を防ぐルールの整備を目指し、AIエージェントに科学機器やロボットを安全に操作させるための新たな枠組みを発表した。",
       "date": "Fri, 04 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "下着2,000枚超を土に埋めたら、「健康な土壌」の条件が見えてきた",
-      "url": "https://wired.jp/article/buried-underpants-soil-health-switzerland/",
-      "description": "家の庭や農地などに綿の下着を埋め、その分解から土壌の健康状態を推定する──。そんな研究がスイスで実施された。いったいどんな結果が見えてきたのか？",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "OpenAIの次期モデル「Astra」、サイバー能力が初の“重大”水準に",
-      "url": "https://wired.jp/article/openai-astra-first-ai-model-with-critical-cyber-abilities/",
-      "description": "OpenAIは次期AIモデル「Astra」を近く一般公開する。未知の脆弱性を自律的に発見し、その悪用手法を開発できる高度な能力は、防御側が対策を整えられるよう、一部のパートナーに先行提供される。",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "OpenAIが“粘り強い”AIエージェントを開発中",
-      "url": "https://wired.jp/article/openai-is-developing-a-persistent-ai-agent/",
-      "description": "『WIRED』がCodexのコードベースを確認したところ、OpenAIが自ら次のタスクを設定し、停止させられるまで動き続けるエージェント機能を開発していることが明らかになった。",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "映画『オデュッセイア』でクリストファー・ノーランは何を撮ったのか？",
-      "url": "https://wired.jp/article/odyssey-review-ryo-yoshigami/",
-      "description": "ホメロスの英雄叙事詩を映画化した『オデュッセイア』が、9月11日に公開される。クリストファー・ノーランが、史上初となる全編IMAX®フィルムカメラ撮影に挑んだ待望の最新作を、IMAX完成披露試写会で鑑賞したSF作家・吉上亮がレビュー。",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "グーグル「Pixel 11 Pro Fold」レビュー：進化はしているが、価格が気になる",
-      "url": "https://wired.jp/review/google-pixel-11-pro-fold/",
-      "description": "グーグルの新しい折り畳みスマートフォンは、確かな進化を遂げている。しかし、値上げに加えて競争も激しく、万人におすすめできる端末とは言い難い。",
-      "date": "Thu, 03 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

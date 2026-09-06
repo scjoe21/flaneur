@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-05T18:23:43.896600+00:00",
+  "fetchedAt": "2026-09-06T19:07:41.885301+00:00",
   "items": [
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
@@ -32,22 +32,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 5,
-        "total": 40
-      }
-    },
-    {
-      "title": "Philosophin Döring - \"Ohne Wissenschaftsfreiheit gibt es gar keine Freiheit\"",
-      "url": "https://www.deutschlandfunkkultur.de/philosophin-ueber-wissenschaftsfreiheit-es-geht-um-wahrheit-nicht-um-demokratie-100.html",
-      "description": "Gesellschaftliche Freiheit setzt Freiheit der Wissenschaft voraus: Zu dieser Ansicht kam die Philosophin Sabine Döring auch durch einen Ausflug in die Politik. In ihrem neuen Buch erklärt sie, warum Forschung Schutz vor politischem Einfluss braucht. Newmark, Catherine; Döring, Sabine www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 40
       }
     },
@@ -100,6 +84,22 @@
       }
     },
     {
+      "title": "Versprechen ohne Glanz: Was folgt auf den Liberalismus?",
+      "url": "https://www.deutschlandfunkkultur.de/postliberalismus-gesellschaftsvisionen-jenseits-des-individuums-100.html",
+      "description": "Leistung muss sich lohnen. Der Staat schützt die Freiheit des Individuums. Solche Versprechen liberaler Gesellschaften haben an Glanz verloren, denn sie wurden nicht für alle eingelöst. Sind Postliberale Ideen verlässlicher? Selk, Veith; Eilenberger, Wolfram www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Lebenszeiten 3: Erwachsensein - Zwischen Aufstieg und Absturz",
       "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-3-erwachsensein-zwischen-aufstieg-und-absturz-100.html",
       "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
@@ -132,19 +132,19 @@
       }
     },
     {
-      "title": "Geplantes Vergesellschaftungsverbot: Der lange Kampf gegen Gemeineigentum",
-      "url": "https://www.deutschlandfunkkultur.de/geplantes-vergesellschaftungsverbot-der-lange-kampf-gegen-gemeineigentum-100.html",
-      "description": "Loick, Daniel www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 12 Jul 2026",
+      "title": "Kommentar zur Sachsen-Anhalt-Wahl: Der Teufelskreis der Verachtung",
+      "url": "https://www.deutschlandfunkkultur.de/kommentar-zur-sachsen-anhalt-wahl-der-teufelskreis-der-verachtung-100.html",
+      "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 06 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

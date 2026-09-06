@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-09-05T18:24:29.062624+00:00",
+  "fetchedAt": "2026-09-06T19:08:15.040884+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -20,22 +20,6 @@
       }
     },
     {
-      "title": "Ich bin dann mal tanzen! - Wie wir uns der dystopischen Gegenwart stellen",
-      "url": "https://www.deutschlandfunk.de/ich-bin-dann-mal-tanzen-wie-wir-uns-der-dystopischen-gegenwart-stellen-100.html",
-      "description": "Klimakatastrophe, Kriege und Wiedererstarken autoritärer Ideologien – die Gegenwart trägt dystopische Züge. Und wir gehen shoppen, belegen Achtsamkeitsseminare oder schuften für die teure Miete. Können wir uns daran gewöhnen, in zwei Welten zu leben? Von Mariel McLaughlin www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Mon, 25 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 40,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
       "title": "Postliberalismus - Die Machtfrage - Muss die Linke sich von ihrem eigenen Liberalismus befreien?",
       "url": "https://www.deutschlandfunk.de/postliberalismus-krise-der-linken-demokratie-100.html",
       "description": "Die politische Linke steckt in der Krise. In den vergangenen Jahrzehnten hat sie ihre Fähigkeit verloren, eine glaubwürdige Alternative zum bestehenden System anzubieten. Damit hat sie ihr ureigenstes Terrain preisgegeben. Wie konnte das geschehen? Von Nils Schniederjann www.deutschlandfunk.de, Essay und Diskurs",
@@ -49,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Trost und Untröstlichkeit nach 9/11 - Wie das Hadern mit der Welt die Oberhand gewann",
+      "url": "https://www.deutschlandfunk.de/trost-und-untroestlichkeit-oder-wie-das-hadern-mit-der-welt-die-oberhand-gewann-100.html",
+      "description": "Nach 9/11, angesichts von Terror, Krieg und Krisen, schien jedes Weltvertrauen naiv. Trost war kaum möglich, vielmehr bildete sich eine Kultur der Untröstlichkeit. Und eine der Unversöhnlichkeit. Von Ralf Konersmann www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
