@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-06T19:08:17.830234+00:00",
+  "fetchedAt": "2026-09-11T18:24:31.587290+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "Warum so viele Ostdeutsche rechts wählen",
-      "url": "https://www.swr.de/swrkultur/wissen/warum-so-viele-ostdeutsche-rechts-waehlen-100.html",
-      "description": "Aus Wut auf \"die da oben\", auf Migranten, Medien, Vielfalt in den Familien wurde eine Lust an der Zerstörung etablierter Strukturen. Hinzu kommt die Sehnsucht nach autoritären Lösungen.",
-      "date": "Fri, 28 Aug 2026",
+      "title": "25 Jahre nach 9/11 – Die lange Spur des Islamismus in Deutschland",
+      "url": "https://www.swr.de/swrkultur/wissen/25-jahre-nach-911-die-lange-spur-des-islamismus-in-deutschland-100.html",
+      "description": "Die Anschläge auf das World Trade Center und das Pentagon waren eine Zäsur. Sie veränderten in Deutschland den Umgang mit islamistischen Gruppierungen wie Al-Qaida grundlegend.",
+      "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 35,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 35
+        "total": 20
       }
     },
     {
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Suizide – Wie lassen sie sich verhindern?",
+      "url": "https://www.swr.de/swrkultur/wissen/suizide-wie-lassen-sie-sich-verhindern-102.html",
+      "description": "Es gibt wirksame Therapien und Hilfsangebote, aber nationale Präventionsprogramme für besonders gefährdete Personen fehlen: Männer, Ältere, psychisch Kranke und Alkoholabhängige.",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "BAföG, Stipendien, Kredite – Die Reform der Studienfinanzierung",
       "url": "https://www.swr.de/swrkultur/wissen/bafoeg-stipendien-kredite-die-reform-der-studienfinanzierung-100.html",
       "description": "Viele Studierende beantragen kein Bafög aus Angst vor Schulden. Aber 500 Euro für ein WG-Zimmer muss man sich leisten können. Fachleute fordern eine Reform der Studienfinanzierung.",
@@ -148,26 +164,26 @@
       }
     },
     {
-      "title": "Narzissmus bei Frauen – Zwischen Minderwertigkeitskomplex und Manipulation",
-      "url": "https://www.swr.de/swrkultur/wissen/narzissmus-bei-frauen-zwischen-minderwertigkeitskomplex-und-manipulation-100.html",
-      "description": "Emotionale Abhängigkeit und Minderwertigkeitskomplexe sind die verletzliche Seite des narzisstischen Selbstbilds von Frauen. Sie können zu toxischem Verhalten führen.",
-      "date": "Thu, 27 Aug 2026",
+      "title": "Versteckte Botschaften auf Social Media – Was hinter Algospeak steckt",
+      "url": "https://www.swr.de/swrkultur/wissen/versteckte-botschaften-auf-social-media-was-hinter-algospeak-steckt-102.html",
+      "description": "S€x, s",
+      "date": "Wed, 9 Sep 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
       }
     },
     {
-      "title": "Phlegräische Felder – Italiens schlafender Supervulkan erwacht",
-      "url": "https://www.swr.de/swrkultur/wissen/phlegraeische-felder-italiens-schlafender-supervulkan-erwacht-100.html",
-      "description": "Seit 2023 melden sich die Phlegräischen Felder bei Neapel mit Bodenhebungen, CO2-Emissionen und immer stärkeren Erdbeben zurück – mögliche Vorboten eines großen Vulkanausbruchs.",
-      "date": "Tue, 25 Aug 2026",
+      "title": "9/11 – Als Terror zum Medienevent wurde",
+      "url": "https://www.swr.de/swrkultur/wissen/9-11-als-terror-zum-medienevent-wurde-100.html",
+      "description": "11. September 2001: Erstmals erlebt ein weltweites Publikum eine Katastrophe live im Fernsehen. Die Terroranschläge haben die Medienwelt verändert – in vielerlei Hinsicht.",
+      "date": "Tue, 8 Sep 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -216,22 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/was-alle-sprachen-verbindet-die-weltweite-mama-100.html",
       "description": "Wörter für die eigene Mutter haben in fast allen bekannten Sprachen einen m- oder n-Laut. Die Forschung kennt viele solcher sprachlichen Universalien. Was folgt daraus für die Natur der Sprache?",
       "date": "Sun, 30 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Herpesviren – Akute Infektionen und ihre möglichen Spätfolgen",
-      "url": "https://www.swr.de/swrkultur/wissen/herpesviren-akute-infektionen-und-ihre-moeglichen-spaetfolgen-100.html",
-      "description": "Herpesviren stecken in fast jedem, lösen Pfeiffersches Drüsenfieber oder Lippenherpes aus. Und die Viren können nach Jahren zu Multipler Sklerose, Alzheimer oder ME/CFS beitragen.",
-      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-09-11T08:29:01.172013+00:00",
+  "fetchedAt": "2026-09-11T18:24:21.987579+00:00",
   "items": [
     {
       "title": "A New Kind Of Creative Poverty",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Gen Z Revolt Sweeping South Asia",
+      "url": "https://www.noemamag.com/the-gen-z-revolt-sweeping-south-asia",
+      "description": "The post  The Gen Z Revolt Sweeping South Asia  appeared first on  NOEMA .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/ai-needs-public-feedback-at-scale-before-its-too-late",
       "description": "The post  AI Needs Public Feedback At Scale Before It’s Too Late  appeared first on  NOEMA .",
       "date": "Fri, 14 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Nature Of Free Will In The Age Of AI",
-      "url": "https://www.noemamag.com/the-nature-of-free-will-in-the-age-of-ai",
-      "description": "The post  The Nature Of Free Will In The Age Of AI  appeared first on  NOEMA .",
-      "date": "Thu, 13 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

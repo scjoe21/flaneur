@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-09-11T08:28:56.805788+00:00",
+  "fetchedAt": "2026-09-11T18:24:16.320363+00:00",
   "items": [
     {
       "title": "The Chinese room",
@@ -33,22 +33,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 20
-      }
-    },
-    {
-      "title": "In praise of zealotry",
-      "url": "https://aeon.co/essays/polite-debate-has-privilege-the-marginalised-need-zealotry",
-      "description": "Early feminists like Mary Astell and Catharine Macaulay refused their male peers’ advice to remain polite in debate. Why? - by Geertje Bol Read on Aeon",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -177,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Penchants of the polymaths",
+      "url": "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation",
+      "description": "The fathers of Islamic science hold lessons for students: breadth over specialisation, and never let constraints get in the way - by Mariam Sabri Read on Aeon",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

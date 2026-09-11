@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-09-11T08:29:11.860053+00:00",
+  "fetchedAt": "2026-09-11T18:24:35.232954+00:00",
   "items": [
     {
       "title": "History shows that human progress is a myth | John Gray, Jonny Thomson",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "Is Donald Trump a Russian asset? | Christopher Steele",
-      "url": "https://www.youtube.com/watch?v=kGXoUyhnmL8",
-      "description": "Christopher Steele and Roger Hearing discuss Donald Trump's relationship with Russia and Vladimir Putin.\n\nHas the Kremlin taken control of the White House?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/intelligence-and-the-new-world-order?utm_source=YouTube&utm_medium=description\n\nFormer MI6 intelligence officer Christopher Steele reveals just how drastically the world has changed in Trump's second term as President. Alliances have weakened, great-power competition ",
-      "date": "2026-08-20",
-      "thumbnail": "https://i4.ytimg.com/vi/kGXoUyhnmL8/hqdefault.jpg",
-      "videoId": "kGXoUyhnmL8",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
       "title": "The internet needs to be rebuilt | Cory Doctorow on Big Tech and Trump's tariffs",
       "url": "https://www.youtube.com/watch?v=azJia30ulng",
       "description": "Cory Doctorow lays out the reasons to be cheerful for the future, despite the looming crises around climate change and tech oligarchy.\n\nIs it too late to save the internet?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-future-of-the-tech-crisis?utm_source=YouTube&utm_medium=description\n\nWe once believed the internet would flatten power, democratise culture, and make gatekeepers obsolete. But today it doesn't look like that, and arguably did the opposite. Interne",
@@ -116,7 +100,7 @@
       }
     },
     {
-      "title": "How private equity ruined education | Guy Standing",
+      "title": "How education was sold off to the private sector | Guy Standing",
       "url": "https://www.youtube.com/watch?v=GE8TfN6YF9o",
       "description": "Guy Standing discusses how private equity has taken over education and commodified knowledge.\n\nDoes this match up with your own experience of modern education?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/education-has-lost-its-way-guy-standing?utm_source=YouTube&utm_medium=description\n\nEducation was supposed to empower us. Join economist and author of Human Capital: The Tragedy of the Education Commons, Guy Standing, as he argues the modern education system has be",
       "date": "2026-09-10",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 20
+      }
+    },
+    {
+      "title": "Should we re-industrialise America? | Catherine Liu, Yaron Brook",
+      "url": "https://www.youtube.com/shorts/6dO_9mVljB0",
+      "description": "",
+      "date": "2026-09-11",
+      "thumbnail": "https://i3.ytimg.com/vi/6dO_9mVljB0/hqdefault.jpg",
+      "videoId": "6dO_9mVljB0",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

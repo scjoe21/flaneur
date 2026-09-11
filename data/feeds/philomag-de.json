@@ -1,8 +1,24 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-11T08:28:42.562629+00:00",
+  "fetchedAt": "2026-09-11T18:22:50.437937+00:00",
   "items": [
+    {
+      "title": "Agnes Callard: „Sokrates hat sich niemals für den schlauesten Menschen im Raum gehalten\"",
+      "url": "https://www.philomag.de/artikel/agnes-callard-sokrates-hat-sich-niemals-fuer-den-schlauesten-menschen-im-raum-gehalten",
+      "description": "Was können wir von Sokrates lernen – von dem Mann, der über sich sagt, er wisse, dass er nicht wisse? Die Philosophin Agens Callard, die selbst versuchte, Sokrates zu sein, geht dieser Frage nach. Sie zeigt, warum das sokratische Hinterfragen von Scheingewissheiten einerseits so unbequem ist, andererseits aber vor existenzieller Verzweiflung zu schützen vermag.",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
     {
       "title": "Kunst als Erkenntnisweg",
       "url": "https://www.philomag.de/artikel/kunst-als-erkenntnisweg",
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.de/artikel/lust-am-limit",
       "description": "Zum Umgang mit dem Leib existieren zwei entgegengesetzte Imperative: Überwinde den Schweinehund. Und: Hör auf deinen Körper. Millay Hyatt hat einen dritten Weg gefunden.",
       "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Was heißt hier Volkssouveränität?",
-      "url": "https://www.philomag.de/artikel/was-heisst-hier-volkssouveraenitaet",
-      "description": "Das Fundament der Demokratie ist der Demos – das Volk. Ob es aber überhaupt in der Lage ist, seine Macht souverän auszuüben, ist unter Philosophen bis heute umstritten. Hier acht Positionen.",
-      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

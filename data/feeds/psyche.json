@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-09-11T08:28:58.684801+00:00",
+  "fetchedAt": "2026-09-11T18:24:19.495022+00:00",
   "items": [
     {
       "title": "The longest walk",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "Why women’s laughter has long been treated as a threat",
+      "url": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat",
+      "description": "Traditional patriarchy has always told women not to laugh. Today, female laughter still disturbs a male-dominated world - by Abílio Almeida Read on Psyche",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -215,22 +231,6 @@
       "title": "Don’t let nature slip out of reach",
       "url": "https://psyche.co/notes-to-self/its-not-too-late-to-strengthen-your-ties-to-nature",
       "description": "Research on the ‘extinction of experience’ suggests many of us are losing vital connections to the natural world - by Hannah Seo Read on Psyche",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Glass eggs",
-      "url": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs",
-      "description": "When the future I’d been planning lay shattered at my feet, freezing my eggs offered a fragile hope - by Matilda Hay Read on Psyche",
       "date": "Tue, 18 Aug 2026",
       "thumbnail": "",
       "videoId": "",

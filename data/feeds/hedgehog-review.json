@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-09-11T08:29:12.261109+00:00",
+  "fetchedAt": "2026-09-11T18:24:35.654600+00:00",
   "items": [
     {
       "title": "Birthright and Belonging",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Twain’s Patriotism",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/twains-patriotism",
+      "description": "Tom Sawyer recommends a poetical strategy for educating the nation’s most promising youth in liberty.",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/believing-is-seeing",
       "description": "To be a humanist is to be humbled by limits, while wishing to transcend them.",
       "date": "Wed, 15 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Stephen Foster and That Old, Weird America",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/stephen-foster-and-that-old-weird-america",
-      "description": "Beautiful dreamer, awake unto me!",
-      "date": "Fri, 03 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,24 +1,8 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-09-11T08:28:34.850346+00:00",
+  "fetchedAt": "2026-09-11T18:22:43.171354+00:00",
   "items": [
-    {
-      "title": "Comment le temps peut-il être vivant ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-le-temps-peut-il-etre-vivant-7036971",
-      "description": "durée : 00:03:56  - Avec philosophie - par : Frédéric Worms - À force de vouloir maîtriser le temps, ne risquons-nous pas de perdre l'expérience du temps vivant ? Pourquoi la conscience du temps provoque-t-elle nécessairement une souffrance ? Comment transformer le temps des horloges en temps vivant au quotidien ?  - équipe : Sam  Baquiast, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 44
-      }
-    },
     {
       "title": "Pourquoi Penthésilée continue-t-elle à se battre",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-penthesilee-continue-t-elle-a-se-battre-6670750",
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Irène Théry, sociologue féministe : \"Marcel Mauss m'a ouvert les yeux sur la division par sexes\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/la-sociologue-irene-thery-sur-l-oeuvre-de-marcel-mauss-6669036",
+      "description": "durée : 00:59:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Marcel Mauss, mort en 1950, est méconnu malgré son immense apport à la sociologie et à l'anthropologie. Humble, il a consacré sa vie à mettre en valeur et transmettre les travaux des autres. Irène Théry, qui était \"maussienne\" sans le savoir, nous explique la portée de son oeuvre.  - équipe : Nicolas Berger, Manon de La Selle, Anaïs Ysebaert, Carla Michel - invités : Irène Théry Sociologue française \n\nVous aimez ce podcast ? P",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
       }
     },
     {

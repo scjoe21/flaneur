@@ -1,24 +1,8 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-11T08:28:34.548047+00:00",
+  "fetchedAt": "2026-09-11T18:22:42.781015+00:00",
   "items": [
-    {
-      "title": "Savez-vous qui vous êtes ?",
-      "url": "https://www.youtube.com/shorts/B4iFaVd8asM",
-      "description": "Au XXe siècle, le philosophe britannique Derek Parfit remet profondément en question notre manière de penser l’identité personnelle. Dans cette vidéo, je vous explique pourquoi, selon lui, ce que nous appelons “le moi” n’est peut-être pas une substance fixe mais une continuité fragile de souvenirs, de croyances et de connexions psychologiques.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #derekparfit #identité #moi #conscience #temps #existence",
-      "date": "2026-07-26",
-      "thumbnail": "https://i3.ytimg.com/vi/B4iFaVd8asM/hqdefault.jpg",
-      "videoId": "B4iFaVd8asM",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
     {
       "title": "Le pari de Pascal",
       "url": "https://www.youtube.com/shorts/jjDBMFm_V18",
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "KANT - Penser par soi-même",
+      "url": "https://www.youtube.com/watch?v=vmxrTwPuWMc",
+      "description": "-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx (lien rému",
+      "date": "2026-09-11",
+      "thumbnail": "https://i3.ytimg.com/vi/vmxrTwPuWMc/hqdefault.jpg",
+      "videoId": "vmxrTwPuWMc",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

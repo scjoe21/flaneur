@@ -1,7 +1,7 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-09-11T08:29:12.412876+00:00",
+  "fetchedAt": "2026-09-11T18:24:35.750330+00:00",
   "items": [
     {
       "title": "How Did Birds Outlive the Other Dinosaurs?",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "The Moon May Have Been Created in Just Five Hours",
+      "url": "https://nautil.us/the-moon-may-have-been-created-in-just-five-hours-1284952/",
+      "description": "Researchers played out the impact between Earth and the hypothetical ancient planet Theia \n The post  The Moon May Have Been Created in Just Five Hours  appeared first on  Nautilus .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-collision.jpg?w=564",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Rethinking the Mechanisms of Alzheimer’s Disease",
       "url": "https://nautil.us/rethinking-the-mechanisms-of-alzheimers-disease-1284912/",
       "description": "Alzheimer’s disease is the most common form of dementia, but memory isn’t the only thing it affects \n The post  Rethinking the Mechanisms of Alzheimer’s Disease  appeared first on  Nautilus .",
@@ -49,6 +65,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 10
+      }
+    },
+    {
+      "title": "Nighttime Light May Change the Shape of Your Heart",
+      "url": "https://nautil.us/nighttime-light-may-change-the-shape-of-your-heart-1284967/",
+      "description": "It’s a glowing, growing problem \n The post  Nighttime Light May Change the Shape of Your Heart  appeared first on  Nautilus .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2459131995-2.jpg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,51 +100,19 @@
       }
     },
     {
-      "title": "Could You Survive the Oregon Trail?",
-      "url": "https://nautil.us/could-you-survive-the-oregon-trail-1284907/",
-      "description": "You might not die of dysentery on the trail these days, but there is still plenty of danger outdoors \n The post  Could You Survive the Oregon Trail?  appeared first on  Nautilus .",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_1060052622_Editorial_Use_Only.jpeg?w=564",
+      "title": "Inside IBM’s New Quantum Computing Fridges, 180 Times Colder Than Deep Space",
+      "url": "https://nautil.us/inside-ibms-new-quantum-computing-fridges-180-times-colder-than-deep-space-1284948/",
+      "description": "These bulky units can link qubits together like never before \n The post  Inside IBM’s New Quantum Computing Fridges, 180 Times Colder Than Deep Space  appeared first on  Nautilus .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-fridge.jpg?w=564",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Elephants Think Before They Act",
-      "url": "https://nautil.us/elephants-think-before-they-act-1284893/",
-      "description": "It’s a remarkable act of impulse control \n The post  Elephants Think Before They Act  appeared first on  Nautilus .",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_51170548.jpeg?w=564",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Does Consciousness Require a Body?",
-      "url": "https://nautil.us/does-consciousness-require-a-body-1284886/",
-      "description": "A conversation with neuroscientist and author Antonio Damasio about intelligence, feelings, and robots \n The post  Does Consciousness Require a Body?  appeared first on  Nautilus .",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2745119833.jpg?w=564",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
