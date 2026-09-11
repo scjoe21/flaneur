@@ -1,24 +1,8 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-09-11T18:24:35.750330+00:00",
+  "fetchedAt": "2026-09-11T21:16:06.359868+00:00",
   "items": [
-    {
-      "title": "How Did Birds Outlive the Other Dinosaurs?",
-      "url": "https://nautil.us/how-did-birds-outlive-the-other-dinosaurs-1284920/",
-      "description": "A preserved feather provides some essential clues \n The post  How Did Birds Outlive the Other Dinosaurs?  appeared first on  Nautilus .",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Press-Release-artwork_credit-to-Andrey-Atuchin.jpg?w=564",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "What Bird Feeding Has to Do with Happiness",
       "url": "https://nautil.us/what-bird-feeding-has-to-do-with-happiness-1284926/",
@@ -33,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Are Too Many Americans Taking Antidepressants?",
+      "url": "https://nautil.us/are-too-many-americans-taking-antidepressants-1284975/",
+      "description": "Rates of anxiety and depression have grown since the COVID-19 pandemic—as have prescriptions for antidepressants \n The post  Are Too Many Americans Taking Antidepressants?  appeared first on  Nautilus .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_191230440.jpeg?w=564",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "Genetically Engineered Yeast Could Transform Martian Soil into Living Building Materials",
+      "url": "https://nautil.us/genetically-engineered-yeast-could-transform-martian-soil-into-living-building-materials-1284972/",
+      "description": "Living yeast yurts on Mars! \n The post  Genetically Engineered Yeast Could Transform Martian Soil into Living Building Materials  appeared first on  Nautilus .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Picture1.jpg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Nighttime Light May Change the Shape of Your Heart",
       "url": "https://nautil.us/nighttime-light-may-change-the-shape-of-your-heart-1284967/",
       "description": "It’s a glowing, growing problem \n The post  Nighttime Light May Change the Shape of Your Heart  appeared first on  Nautilus .",
@@ -100,6 +116,22 @@
       }
     },
     {
+      "title": "Even 10 Minutes of “Slow Running” Can Give Your Brain a Boost",
+      "url": "https://nautil.us/even-10-minutes-of-slow-running-can-give-your-brain-a-boost-1284996/",
+      "description": "It’s all in the head bob \n The post  Even 10 Minutes of “Slow Running” Can Give Your Brain a Boost  appeared first on  Nautilus .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_167330932.jpeg?w=564",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
       "title": "Inside IBM’s New Quantum Computing Fridges, 180 Times Colder Than Deep Space",
       "url": "https://nautil.us/inside-ibms-new-quantum-computing-fridges-180-times-colder-than-deep-space-1284948/",
       "description": "These bulky units can link qubits together like never before \n The post  Inside IBM’s New Quantum Computing Fridges, 180 Times Colder Than Deep Space  appeared first on  Nautilus .",
@@ -121,38 +153,6 @@
       "description": "Dear scientists: Follow the ants \n The post  A Natural Solution to the Replication Crisis in Science  appeared first on  Nautilus .",
       "date": "Thu, 10 Sep 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2642837385.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "This Snake’s Tail Has a Fake “Spider” at the Tip",
-      "url": "https://nautil.us/this-snakes-tail-has-a-fake-spider-at-the-tip-1284917/",
-      "description": "It’s meant to help lure prey \n The post  This Snake’s Tail Has a Fake “Spider” at the Tip  appeared first on  Nautilus .",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Spider-tailed-horned-viper-Credit-to-Omid-Mozaffari.jpeg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Twin Spirit” Galaxies Are on a Collision Course",
-      "url": "https://nautil.us/twin-spirit-galaxies-are-on-a-collision-course-1284904/",
-      "description": "NGC 7253A and NGC 7253B are joining forces \n The post  “Twin Spirit” Galaxies Are on a Collision Course  appeared first on  Nautilus .",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-twin.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

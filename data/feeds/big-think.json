@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-11T18:24:20.679737+00:00",
+  "fetchedAt": "2026-09-11T21:15:52.604718+00:00",
   "items": [
     {
       "title": "How to debate, from a two-time world champion",
@@ -52,6 +52,38 @@
       }
     },
     {
+      "title": "Ask Ethan: Do white holes, the opposite of black holes, physically exist?",
+      "url": "https://bigthink.com/starts-with-a-bang/white-holes-exist/",
+      "description": "In our Universe, the mathematical forms that the laws of physics take on give us all of the possibilities for what’s allowed to conceivably exist. However, only by actually observing, measuring, and experimenting with our Universe itself can we determine which of the mathematical possibilities describes our physical reality. In Einstein’s general relativity, one of the very first theoretical solutions that was ever uncovered was the solution for a black hole: a region of space with so much matte",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/01/AdobeStock_535436024.jpeg?quality=85&w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 35
+      }
+    },
+    {
+      "title": "John Gray on why “progress” in politics is an illusion",
+      "url": "https://bigthink.com/mini-philosophy/history-shows-that-human-progress-is-a-myth/",
+      "description": "There are two different kinds of stories. \n The first is the linear story. The characters start at position A and end at position B, having beaten all the baddies, and married the right person. The real story is about the transformation that happens along the way. This is a story about direction. Mostly, it’s about progress. We move from naïve to wise, raw to cooked, NPC to hero. \n In terms of philosophy, the linear-progressive story is best represented by the Hegelian dialectic. Hegel argued th",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/human-progress-myth_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "The test pilot who made airplanes safer (by teaching us how to break them better)",
       "url": "https://bigthink.com/books/the-test-pilot-jimmy-doolittle/",
       "description": "In the years following the Wright brothers’ 1903 takeoff, aircraft were designed via what a NASA history calls “an intuitive, daring empirical engineering loosely connected at best with any theory of aerodynamics or structural integrity.” Plane makers had some ideas about how to mimic flight while on the ground, but these were crude approximations with little sense of similarity or workability (that measure of practicality and reproducibility). The assessment of a plane as insufficiently robust ",
@@ -81,22 +113,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "History shows that human progress is a myth",
-      "url": "https://bigthink.com/mini-philosophy/history-shows-that-human-progress-is-a-myth/",
-      "description": "There are two different kinds of stories. \n The first is the linear story. The characters start at position A and end at position B, having beaten all the baddies, and married the right person. The real story is about the transformation that happens along the way. This is a story about direction. Mostly, it’s about progress. We move from naïve to wise, raw to cooked, NPC to hero. \n In terms of philosophy, the linear-progressive story is best represented by the Hegelian dialectic. Hegel argued th",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/human-progress-myth_compressed.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -137,22 +153,6 @@
       "description": "No, the Earth is not flat. But it’s not exactly  round  either. Nor is it — let us stop you right there, smartypants — an oblate spheroid. \n Close enough, but not a geoid \n An oblate spheroid is a geometrically smooth model of our planet that, due to its rotation, bulges at the equator and flattens at the poles. While it is close enough to be used by GPS systems, for instance, it’s not  quite  right: It doesn’t account for the lumpiness of our actual Earth.  \n The technical term for the model th",
       "date": "Tue, 08 Sep 2026",
       "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Cropped-Potato-Earth.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "This powerful belief can help you accomplish more",
-      "url": "https://bigthink.com/books/agency-and-self-efficacy/",
-      "description": "In the 1970s, academic psychology escaped from studying just behavior to start studying mental life. Albert Bandura, the father of this cognitive revolution within social psychology, led the way in 1977 with “self-efficacy.” An “efficacy expectation” is the belief — the conscious thought — that you, yourself, can bring about the goal you desire, and this is distinguished from an “outcome expectation,” which is the belief that your goal will happen, even if you are not the agent who brings it abo",
-      "date": "Tue, 08 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/agency_excerpt.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
