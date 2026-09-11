@@ -1,8 +1,24 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-09-06T19:08:10.101981+00:00",
+  "fetchedAt": "2026-09-11T08:29:01.172013+00:00",
   "items": [
+    {
+      "title": "A New Kind Of Creative Poverty",
+      "url": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
+      "description": "The post  A New Kind Of Creative Poverty  appeared first on  NOEMA .",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "Your Perception Of Time Is, In Fact, Warped",
       "url": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
@@ -20,35 +36,19 @@
       }
     },
     {
-      "title": "The Tantalizing Possibility Of Locating Consciousness In The Brain",
-      "url": "https://www.noemamag.com/the-tantalizing-possibility-of-locating-consciousness-in-the-brain",
-      "description": "The post  The Tantalizing Possibility Of Locating Consciousness In The Brain  appeared first on  NOEMA .",
-      "date": "Tue, 11 Aug 2026",
+      "title": "Whose AI Will Rule The World?",
+      "url": "https://www.noemamag.com/whose-ai-will-rule-the-world",
+      "description": "The post  Whose AI Will Rule The World?  appeared first on  NOEMA .",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "From The Trap Of Geopolitics To A Geo-Civilizational Paradigm",
-      "url": "https://www.noemamag.com/from-the-trap-of-geopolitics-to-a-geo-civilizational-paradigm",
-      "description": "The post  From The Trap Of Geopolitics To A Geo-Civilizational Paradigm  appeared first on  NOEMA .",
-      "date": "Fri, 07 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

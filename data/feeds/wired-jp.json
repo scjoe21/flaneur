@@ -1,45 +1,29 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-06T19:08:33.961387+00:00",
+  "fetchedAt": "2026-09-11T08:29:20.438249+00:00",
   "items": [
     {
-      "title": "【9月5日・6日開催】「 TRACK TRACK TRACK 」by HOKA：池松壮亮とサウンドアーティスト・vqが見つけた都市の記憶",
-      "url": "https://wired.jp/article/wwl-tracktracktrack-hoka-sosukeikematsu-vq/",
-      "description": "HOKAが都市の日常になじむ新モデル「Clifton UTL」の発売を記念し、東京を捉え直す探索プロジェクト「TRACK TRACK TRACK」を始動。俳優・池松壮亮とサウンドアーティスト・vqが見つけた都市の記憶を追体験するイベントが、9月5日（土）・6日（日）の2日間限定で開催される。",
-      "date": "Sat, 05 Sep 2026",
+      "title": "500ドルの偽高級腕時計を買ってみた。誰も本物との違いに気づかなかった",
+      "url": "https://wired.jp/article/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
+      "description": "レプリカ腕時計業界は「スーパークローン」の時代を迎えている。『WIRED』はネット上の専門コミュニティを頼りに、本物として通用するほど精巧な偽物時計を3本購入した。しかし、結局は長く愛用できるような代物ではなかった。",
+      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "AIエージェントはなぜ普及しない？：2026年8月に最も読まれた10本のストーリー",
-      "url": "https://wired.jp/article/10-most-read-stories-august-2026/",
-      "description": "2026年8月に「WIRED.jp」で公開した記事のなかから、最も読まれた10本を紹介する。",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "宮津湾の「海底湧水」がつなぐ、料理と生態系：松田法子連載・『人と地球の共構築に向けて』",
-      "url": "https://wired.jp/article/shore-travelogue-06-noriko-matsuda/",
-      "description": "陸にしみ込んだ水が地中を通り、海底から直接湧き出す「海底湧水」。京都・宮津湾でこの湧水に着目した漁師と、東京の日本料理店でそれを料理に用いた料理人。ふたつの実践をたどりながら、〈汀〉のあり方を考える。",
-      "date": "Sun, 06 Sep 2026",
+      "title": "アウディの新型EV「A2 e-tron」が示す、“効率”についての四半世紀越しの回答",
+      "url": "https://wired.jp/article/audi-a2-e-tron-efficiency/",
+      "description": "アウディが新型EV「A2 e-tron」を欧州で発表した。同社の量産車で最もエネルギー効率が高いとされる新モデルは、2000年発売の初代「A2」が掲げた効率にまつわる思想を異なるかたちで受け継いでいる。",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,42 +36,26 @@
       }
     },
     {
-      "title": "【RESILIENCE TECH特集】危機を生き延びるためのサバイバルギア＆フードガイド 30選",
-      "url": "https://wired.jp/article/survival-gear-and-food-guide/",
-      "description": "備えるべきは、最新のギアだけではない。身近な日用品から先端テクノロジーまで、ひとつでいくつもの役割を担い、日常と災害時をシームレスにつなぐ30のサバイバルギア＆フードを、4人の識者と『WIRED』日本版が厳選。",
-      "date": "Fri, 04 Sep 2026",
+      "title": "「iPhone Duo」の投入というアップルの挑戦",
+      "url": "https://wired.jp/article/iphone-duo-apple-first-foldable/",
+      "description": "アップルが同社初の折り畳みスマートフォン「iPhone Duo」を発表した。すでに他社が先行する市場において“iPhoneが折り畳める”こと以上の価値を訴求できるのか、新CEOにとっても大きな挑戦となる。",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
       }
     },
     {
-      "title": "なぜ中国のAIデータセンターは内モンゴルに集まるのか",
-      "url": "https://wired.jp/article/the-unlikely-place-at-the-center-of-chinas-ai-boom/",
-      "description": "安価な電力、広大な土地、北京への近さを背景に、内モンゴルのウランチャブ市はAIデータセンターの一大拠点へ急成長している。こうした動きは、中国が自前のAIインフラを築き、世界の勢力図を変え始めていることの表れかもしれない。",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "「AI詐欺師」が人間よりも巧みに信頼関係を築いていた：実験結果",
-      "url": "https://wired.jp/article/ai-scammers-are-better-at-building-trust-than-humans/",
-      "description": "ある研究者グループが人間とAIエージェント「Claude」を競わせる実験を行った。1週間にわたり被検者との間でメッセージのやり取りを続けさせた結果、AIチャットボットの方が「悪用可能な信頼関係」を築く能力に長けていることがわかったという。",
-      "date": "Sun, 06 Sep 2026",
+      "title": "AI面接が行き着く先は、ボット同士の会話だ",
+      "url": "https://wired.jp/article/bot-vs-bot-job-interview-ai/",
+      "description": "AIが採用活動に入り込み、面接でも人間の会話がボット同士のやりとりに置き換わり始めている。AIリクルーターに何度も無視されたクリストファーは、ついにChatGPTを「代理人」としてロボット面接官に送り込んだ。",
+      "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +68,10 @@
       }
     },
     {
-      "title": "暴走するAIエージェントは“悪”ではない。人間の期待に応えようとしているだけだ",
-      "url": "https://wired.jp/article/rogue-ai-is-just-misunderstood/",
-      "description": "AIエージェントが人間の制御を振り切り、外部システムへ侵入する事例が相次いでいる。原因は悪意ではなく、与えられた目標を達成しようとするあまり、想定外の行動に出ることにあるようだ。",
-      "date": "Sat, 05 Sep 2026",
+      "title": "ゼンハイザー「Momentum 5 Wireless」レビュー：圧倒的なバッテリーと修理可能性が光る",
+      "url": "https://wired.jp/review/sennheiser-momentum-5/",
+      "description": "ゼンハイザーの新しいフラッグシップヘッドフォンは、優れた音質と快適な装着感に加え、ユーザー自身で交換できる長寿命バッテリーを備えている。突出した性能をひとつもつわけではないが、よく考えられた、信頼できる一台に仕上がっている。",
+      "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +84,10 @@
       }
     },
     {
-      "title": "AIを嫌う人が多い理由を、シリコンバレーはわかっていない",
-      "url": "https://wired.jp/article/sz-silicon-valley-doesnt-get-why-you-hate-ai/",
-      "description": "シリコンバレーは、世間で強まるAIへの反発に向き合い始めた。テック企業のリーダーたちはSNSで盛んに自説を展開しているが、その内容を見る限り、反発の本当の原因を十分に理解できていないようである。",
-      "date": "Sat, 05 Sep 2026",
+      "title": "速さではなく、サイズで勝つ：量子コンピューターが機械学習に効く理由",
+      "url": "https://wired.jp/article/miraikan-quantum-review-1/",
+      "description": "いま量子コンピューター開発の最前線では、いったい何が起きているのか。その動向を、日本科学未来館の科学コミュニケーターたちが「できるだけわかりやすく」解説するシリーズがスタート。",
+      "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +100,10 @@
       }
     },
     {
-      "title": "OpenAI、Hugging Faceへのハッキングに関する調査報告書を公開。それでも残る疑問とは",
-      "url": "https://wired.jp/article/openais-hugging-face-hack-debrief-raises-more-questions-than-it-answers/",
-      "description": "OpenAIは、自社AIエージェントによるHugging Faceへのハッキングを検証した報告書を公開した。暴走を防ぐための対策が不十分だったと認める一方、事件の経緯や監視体制には不明な点もある。",
-      "date": "Sat, 05 Sep 2026",
+      "title": "「Woke 1は狂っていた」と言い放ち、AOCは進歩派を再起動する──「アメリカン・ドッペルゲンガー」by 池田純一#16",
+      "url": "https://wired.jp/article/american-doppelganger-16/",
+      "description": "「Woke 1は狂っていた」──進歩派の急先鋒と目されてきたAOCの発言が波紋を広げている。予備選を席巻する「ソーシャリズム」の嵐のなか、彼女が示唆する進歩派の再起動、その鍵を握るライフサイエンスとは？",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +116,10 @@
       }
     },
     {
-      "title": "中国のロボット競技大会、驚異の速さより「ピンセットを操る器用さ」に驚いた",
-      "url": "https://wired.jp/article/i-could-watch-the-robot-games-forever-ai-lab/",
-      "description": "北京で開催された「世界ヒューマノイドロボット競技大会」では、人型ロボットたちがさまざまな驚異的な技を披露した。最も印象的だったのは、身体能力を競う派手な技よりも、地味な作業のほうだ。",
-      "date": "Sat, 05 Sep 2026",
+      "title": "アップルが発表したApple Watchの「聞きとり」機能。プライバシーはどう守られる？",
+      "url": "https://wired.jp/article/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
+      "description": "新しいApple Watch向けに、音声を「聞きとり」、会話を振り返ったり要約したりする新機能が発表された。アップルは音声データを保護する仕組みを強調するが、プライバシーへの懸念は拭いきれない。",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +132,10 @@
       }
     },
     {
-      "title": "「GPT-6 Astra」が登場──AGI時代の幕開けか",
-      "url": "https://wired.jp/article/openai-says-gpt-6-can-use-a-computer-better-than-a-human/",
-      "description": "OpenAIが次世代AIモデル「GPT-6 Astra」を発表した。PC操作やコーディングに長けたこのモデルが、AI開発における大きな節目になるかもしれないと、同社の幹部らは考えている。",
-      "date": "Fri, 04 Sep 2026",
+      "title": "新型Apple Watchが登場。Siri AIや新たな健康機能を搭載",
+      "url": "https://wired.jp/article/apple-watch-series-12-apple-watch-ultra-4/",
+      "description": "アップルの最新スマートウォッチ「Apple Watch Series 12」と「Apple Watch Ultra 4」が登場。高速化したチップや拡充された健康・フィットネス機能、新しいSiriを搭載し、セラミックケースも復活した。",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +148,10 @@
       }
     },
     {
-      "title": "いま“不便さ”へ憧れることについて",
-      "url": "https://wired.jp/article/sz-our-longing-for-inconvenience/",
-      "description": "現代に生きるわたしたちは、過去のテクノロジーがもたらす煩わしさにもう適応できない。でも一方で、いまよりも穏やかだったその時代に連れ戻してくれるモノへの郷愁を、かき立ててもいる。",
-      "date": "Fri, 04 Sep 2026",
+      "title": "アップルが2026年9月に発表した新製品まとめ──新CEOが「iPhone Duo」などをお披露目",
+      "url": "https://wired.jp/article/everything-apple-announced-september-2026/",
+      "description": "アップルの9月のイベントでは、新CEOのもと、初の折り畳み式iPhoneをはじめ、iPhone 18 Pro、新型Apple WatchやAirPodsなどが発表された。",
+      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +164,10 @@
       }
     },
     {
-      "title": "ゴキブリを“サイボーグ化”して遠隔操作、災害医療への応用を目指す実証実験に成功",
-      "url": "https://wired.jp/article/cyborg-cockroach-paraborg-emergency-drug-delivery/",
-      "description": "電極を埋め込んだ生きたゴキブリにカメラや注射装置を搭載し、遠隔操作で薬剤を届ける実証実験にオーストラリアの研究チームが成功した。災害医療にサイボーグ昆虫が活用される未来の到来は近いかもしれない。",
-      "date": "Fri, 04 Sep 2026",
+      "title": "アップルが「iPhone Duo」を発表。初の折り畳みモデル",
+      "url": "https://wired.jp/article/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
+      "description": "折り畳み式ディスプレイを備えた「iPhone Duo」は、アップルのフラッグシップ端末としては数年ぶりとなる抜本的なモデルチェンジだ。価格は36万4,800円からで、10月23日に発売される。",
+      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +180,10 @@
       }
     },
     {
-      "title": "立体音響と映像に浸る展示から、ナイキの新作ランニングシューズまで【WIRED INSIDER】",
-      "url": "https://wired.jp/article/insider-async-blancpain-chefsfortheblue-tumialpha-nike/",
-      "description": "目にした瞬間、心が動くもの。次の行動を起こしたくなるもの。背景を知れば、世界の見え方が少し変わるもの──。そんな出合いの積み重ねが、選びうる未来を豊かにし、選び取るための審美眼を磨いていく。その入り口となる「WIRED INSIDER」では、最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
-      "date": "Fri, 04 Sep 2026",
+      "title": "OpenAI、数学の大難問をAIが解いたと発表。数学者が研究経緯に異議",
+      "url": "https://wired.jp/article/openai-navier-stokes-math-discovery-academics/",
+      "description": "OpenAIは、長年未解決だった「ナビエ＝ストークス方程式」を巡る未解決問題の証明をAIが導き出したと発表した。だが別の数学者は、同社が自分たちの研究を知って解決を急ぎ、成果の扱いにも介入しようとしたと主張している。",
+      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +196,42 @@
       }
     },
     {
-      "title": "AIエージェントが機器を安全に操作するには？ Anthropicが示した枠組み",
-      "url": "https://wired.jp/article/anthropic-standard-ai-agents-coming-to-the-physical-world/",
-      "description": "AIによる科学研究や製造業の自動化には大きな可能性がある。そこでAnthropicは事故や悪用を防ぐルールの整備を目指し、AIエージェントに科学機器やロボットを安全に操作させるための新たな枠組みを発表した。",
-      "date": "Fri, 04 Sep 2026",
+      "title": "NVIDIAの“スーパーチップ”「RTX Spark」搭載、AI向けPCがお目見え",
+      "url": "https://wired.jp/article/nvidia-rtx-spark-laptops-first-look/",
+      "description": "「IFA 2026」で、NVIDIAの新チップ「RTX Spark」を搭載したノートPCやミニPCが登場した。AIモデルをコンピューター上で直接動かすことを前提にした新型PCが相次いで発表されている。",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "大気圏突入が近づくNASAのスウィフト宇宙望遠鏡、最後のミッションに挑む",
+      "url": "https://wired.jp/article/nasa-swift-telescope-final-observations/",
+      "description": "老朽化したNASAの観測衛星「スウィフト」の軌道を引き上げるはずだった救出ミッションが頓挫し、年内の大気圏突入が濃厚になっている。運用限界が迫るなか、搭載された2つの宇宙望遠鏡が再起動され、最後の観測が始まった。",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "アップルの9月イベントがまもなく開催──視聴方法と予想される発表内容",
+      "url": "https://wired.jp/article/how-to-watch-apple-iphone-september-event-2026/",
+      "description": "アップル恒例の秋の新製品発表イベントは、折り畳み式iPhone登場が予想されるほか、新CEOを迎えて、例年とはひと味違う雰囲気になりそうだ。",
+      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "then-and-now",
   "sourceName": "Then & Now",
-  "fetchedAt": "2026-09-06T19:08:06.808233+00:00",
+  "fetchedAt": "2026-09-11T08:28:59.049784+00:00",
   "items": [
     {
       "title": "The New Age of Remote War",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "The Forgotten Arab Revolt Unveiling the Brutal British Response",
-      "url": "https://www.youtube.com/shorts/HceNgWoZIMc",
-      "description": "A Quick History of the Arab Revolts in Palestine the 1930s",
-      "date": "2026-02-05",
-      "thumbnail": "https://i1.ytimg.com/vi/HceNgWoZIMc/hqdefault.jpg",
-      "videoId": "HceNgWoZIMc",
-      "priority": 5,
+      "title": "Steven Crowder's Brain Dead Fascism Take",
+      "url": "https://www.youtube.com/watch?v=QjyxJ3v0iLc",
+      "description": "",
+      "date": "2026-09-09",
+      "thumbnail": "https://i2.ytimg.com/vi/QjyxJ3v0iLc/hqdefault.jpg",
+      "videoId": "QjyxJ3v0iLc",
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "novelty": 0,
+        "total": 0
       }
     },
     {

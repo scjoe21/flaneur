@@ -1,8 +1,24 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-09-06T19:07:47.140087+00:00",
+  "fetchedAt": "2026-09-11T08:28:46.933057+00:00",
   "items": [
+    {
+      "title": "Perché sappiamo tutto e non facciamo niente?",
+      "url": "https://www.youtube.com/watch?v=N_PBOmptuGw",
+      "description": "Il senso di impotenza, le storie che ci muovono più dei dati e una proposta su cosa farne della rabbia\n\nhttps://www.tlonletter.it/p/perche-sappiamo-tutto-e-non-facciamo?utm_source=youtube\n\nCAPITOLI\n* 00:00 — Abbiamo letto i vostri feedback\n* 02:35 — La domanda: perché sappiamo tutto e non facciamo niente?\n* 03:05 — Il clima: è l'esperienza che cambia le persone, non le informazioni\n* 08:12 — I politici-attori: recitare posizioni a cui non si crede\n* 09:27 — Lo schermo solare di Musk, Snow Crash ",
+      "date": "2026-09-07",
+      "thumbnail": "https://i3.ytimg.com/vi/N_PBOmptuGw/hqdefault.jpg",
+      "videoId": "N_PBOmptuGw",
+      "priority": 50,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 50
+      }
+    },
     {
       "title": "COME NASCE TLON? - PARTE 2",
       "url": "https://www.youtube.com/watch?v=m4HmtQfneYU",
@@ -36,19 +52,19 @@
       }
     },
     {
-      "title": "Festival del Pensare Contemporaneo 2025 | IL CORPO DEL FUTURO E IL FUTURO DEI CORPI",
-      "url": "https://www.youtube.com/watch?v=sE-4Leh5HqM",
-      "description": "IL CORPO DEL FUTURO E IL FUTURO DEI CORPI | Ipnocrazia e filosofie degli oltresoggetti\n\nIn un’epoca in cui i corpi si smaterializzano nei flussi informatici e nello snodo continuo tra presenza e schermo, l’incontro fra media theory e filosofia femminista viene messo alla prova. Derrick de Kerckhove, sociologo e allievo di Marshall McLuhan e autore di opere fondamentali come The Skin of Culture e Connected Intelligence, avanza con una visione di intelligenza connettiva in cui il corpo, diventato ",
-      "date": "2025-09-15",
-      "thumbnail": "https://i4.ytimg.com/vi/sE-4Leh5HqM/hqdefault.jpg",
-      "videoId": "sE-4Leh5HqM",
-      "priority": 30,
+      "title": "Il lavoro senza di noi. Le macchine, la fine dei mestieri e il reddito universale",
+      "url": "https://www.youtube.com/watch?v=4wxVPQdtdKk",
+      "description": "Maura Gancitano intervista Filippo Lubrano a partire dal suo libro appena uscito per Edizioni Tlon: https://shop.tlon.it/prodotto/il-lavoro-senza-di-noi-le-macchine-la-fine-dei-mestieri-e-il-reddito-universale-filippo-lubrano/\n\nTlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttps://www.tlonletter.it/",
+      "date": "2026-09-10",
+      "thumbnail": "https://i1.ytimg.com/vi/4wxVPQdtdKk/hqdefault.jpg",
+      "videoId": "4wxVPQdtdKk",
+      "priority": 20,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
+        "daily": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 20
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2025-10-06",
       "thumbnail": "https://i3.ytimg.com/vi/6Y0XIKAiAH4/hqdefault.jpg",
       "videoId": "6Y0XIKAiAH4",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Cartography of a Genocide",
-      "url": "https://www.youtube.com/watch?v=FeQpT9z3yao",
-      "description": "Eyal Weizman e Francesca Albanese alla Facoltà di Architettura di Roma 3",
-      "date": "2025-10-06",
-      "thumbnail": "https://i3.ytimg.com/vi/FeQpT9z3yao/hqdefault.jpg",
-      "videoId": "FeQpT9z3yao",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

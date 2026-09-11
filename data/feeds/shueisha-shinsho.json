@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-09-06T19:08:26.109451+00:00",
+  "fetchedAt": "2026-09-11T08:29:15.617539+00:00",
   "items": [
     {
       "title": "「異例の協調介入」に意味はあるのか？作家・橘玲と経済学者・服部孝洋が考える『為替介入とは何か』",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "森山𥙿と日中外交 『小異を残して大同につく』",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/jimin_mori/36627",
+      "description": "高市早苗政権が誕生してほどなくすると、かつて当人の発した言葉が話題になった。1995年３月16日の衆議院外務委員会における先の大戦に触れた一言だ。「私は当時の戦争の当事者とはいえない世代ですから、戦争の反省なんかしてお […]",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -88,22 +104,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/interview/ootuka_fukuda/36445",
       "description": "構成／井尾淳子　撮影／織田桂子 福田　アメリカでは今でも「会社は株主のもの」という考え方が徹底されていますが、日本の場合は社長が絶大な権力を持っていたり、共同体意識が残っていたりと、まだグラデーションがありますね。 大塚 […]",
       "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "火中の栗を拾った二人～「会社は誰のものか」プロキシーファイトが問いかけた事業承継の本質～",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/ootuka_fukuda/36438",
-      "description": "構成／井尾淳子　撮影／織田桂子 福田　今日の対談は、僕の本（キャリア・ビジネス論）と久美子さんの本（事業承継）、表面的には全然違うテーマに見えますが、共通しているのは「火中の栗を拾う」ということですよね。 大塚　お互い、 […]",
-      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

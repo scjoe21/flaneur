@@ -1,8 +1,24 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-09-06T19:08:28.020867+00:00",
+  "fetchedAt": "2026-09-11T08:29:16.910728+00:00",
   "items": [
+    {
+      "title": "コヨーテ歩き撮り#257",
+      "url": "https://keisobiblio.com/2026/09/07/coyote257/",
+      "description": "子熊のかわいさは尋常ではない。犬に似て、犬よりずっと人に近いふるまいを見せる。『ク　スクップ　オルシペ　私の一代の記』の著者・砂沢クラさんが、子供たちが小さいころいつも一緒に遊んでいた子熊のことを語っていた。やがて大きくなったその子を「熊送り」するときの悲しさについても。尊敬＝愛着＝恐怖。人と熊の関係はこの三角形の中をぐるぐるまわっている。\n\nOh, as cute as cute can be… a bear cub! They are not different from dogs, only they are far closer to humans than dogs! The great Ainu woman Sunazawa Kura once wrote about a bear cub her family used to keep. It played everyday with her young children like a real sibling. And then the painful sadness of having to “send it” to ",
+      "date": "Mon, 07 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
     {
       "title": "コヨーテ歩き撮り#256",
       "url": "https://keisobiblio.com/2026/08/24/coyote256/",
@@ -17,22 +33,6 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 18
-      }
-    },
-    {
-      "title": "コヨーテ歩き撮り#255",
-      "url": "https://keisobiblio.com/2026/08/10/coyote255/",
-      "description": "夏を逃れて北へ。オホーツク海はしずかな海だった。地図を見れば、それがどれほど広大な内海かは一目瞭然。\n\nNorth-bound to escape the summer. The Sea of Okhotsk is sublimely calm. Take a look at the map and you will know how vast this inland sea is.",
-      "date": "Mon, 10 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "あとがきたちよみ『「意思能力を欠く者」をめぐる行政対応と法的課題』",
+      "url": "https://keisobiblio.com/2026/09/08/atogakitachiyomi_ishinouryokuwokakumono/",
+      "description": "「はしがき」と「第1章　「意思能力を欠く者」をめぐる行政対応と法的課題──本書の問題意識と行政法・行政法学への示唆」を公開しました。",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "あとがきたちよみ『夫婦の親密性とジェンダー平等――感情のケアをめぐる〈名前のない問題〉』",
       "url": "https://keisobiblio.com/2026/09/02/atogakitachiyomi_fuufunoshinmitsusei/",
       "description": "「序章　夫婦の愛情をめぐる「名前のない問題」」を公開しました。",
@@ -81,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "ごはんをつくる場所には音楽が鳴っていた――人生の欠片、音と食のレシピ〈21皿め〉",
+      "url": "https://keisobiblio.com/2026/09/09/nakanomaki21/",
+      "description": "ふとしたことから、モザンビークで地雷除去に従事していた方と知り合った。\nアフリカという広大な地域にあって、インド洋に面し大陸東側に位置するモザンビークの何を知る由もなく、しかしある“勘”がはたらき、大袈裟だが気がついた時にはモザンビークという国に何度も足を運んでいた。",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://keisobiblio.com/2026/08/19/atogakitachiyomi_kyonetsunopalette/",
       "description": "「著者後記」を公開しました。",
       "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あとがきたちよみ『ドイツ世襲財産問題の考察――プロイセンを中心に』",
-      "url": "https://keisobiblio.com/2026/08/18/atogakitachiyomi_doitsuseshuzaisan/",
-      "description": "「訳者まえがき」「訳者解説」を公開しました。",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あとがきたちよみ『最新解説　知識資源のメタデータ』",
-      "url": "https://keisobiblio.com/2026/08/17/atogakitachiyomi_saishinchishikishigennometadata/",
-      "description": "「はしがき」を公開しました。",
-      "date": "Mon, 17 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-09-06T19:08:06.639587+00:00",
+  "fetchedAt": "2026-09-11T08:28:58.684801+00:00",
   "items": [
+    {
+      "title": "The longest walk",
+      "url": "https://psyche.co/videos/for-a-gay-catholic-priest-coming-out-was-its-own-leap-of-faith",
+      "description": "How Father Michael Shanahan reconciled his identity with the Catholic Church’s position on homosexuality - Directed by John Haley Watch on Psyche",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
     {
       "title": "Why you should try living without free will for two weeks",
       "url": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks",
@@ -52,10 +68,10 @@
       }
     },
     {
-      "title": "The peak-end rule",
-      "url": "https://psyche.co/videos/to-make-better-memories-prioritise-high-peaks-and-happy-endings",
-      "description": "Landmark experiments explore why people sometimes prefer more pain to less, and what this says about the shaping of memory - Video by Veritasium Watch on Psyche",
-      "date": "Mon, 17 Aug 2026",
+      "title": "How to be a word detective",
+      "url": "https://psyche.co/guides/how-to-be-a-word-detective",
+      "description": "Etymology unravels the mysteries of language and the hidden webs that link people across the world. Here’s how to dive in - by Danny Bate Read on Psyche",
+      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -68,10 +84,10 @@
       }
     },
     {
-      "title": "Sometimes, the road to virtue comes by way of vice",
-      "url": "https://psyche.co/ideas/sometimes-the-road-to-virtue-comes-by-way-of-vice",
-      "description": "To work your character into better shape, be like a carpenter who fixes warped wood by bending it the opposite way - by Sabrina B Little Read on Psyche",
-      "date": "Mon, 17 Aug 2026",
+      "title": "Lessons from Wyatt Earp country",
+      "url": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man",
+      "description": "How does a man show up for his community? I learned from an old farmer on the edge of the desert - by Zeno Franco Read on Psyche",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -116,16 +132,48 @@
       }
     },
     {
-      "title": "The satisfaction of doing work that lasts",
-      "url": "https://psyche.co/notes-to-self/the-deep-satisfaction-of-doing-work-that-lasts",
-      "description": "In Studs Terkel’s oral history ‘Working’, some of the people happiest with their work have something in common - by Matt Huston Read on Psyche",
-      "date": "Thu, 13 Aug 2026",
+      "title": "Impatience is an emotion, not a trait",
+      "url": "https://psyche.co/notes-to-self/why-it-helps-to-see-impatience-as-an-emotion-not-a-trait",
+      "description": "Watching Penelope’s heroic wait in The Odyssey made me lament my impatience. But maybe I’ve been thinking about it wrong - by Amy Arthur Read on Psyche",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Town square",
+      "url": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s",
+      "description": "Complete with a retro diner, vintage cars and a classic movie theatre – step into a mini town built to spark memories - Directed by Josh Izenberg Watch on Psyche",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Is it morally wrong to not take care of yourself?",
+      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
+      "description": "The philosophical debate goes on. But our research on self-obligations suggests there’s a common, consequential view - by Laura K Soter & Fan Yang Read on Psyche",
+      "date": "Mon, 07 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -184,54 +232,6 @@
       "url": "https://psyche.co/turning-points/the-grief-and-fragile-hope-of-deciding-to-freeze-my-eggs",
       "description": "When the future I’d been planning lay shattered at my feet, freezing my eggs offered a fragile hope - by Matilda Hay Read on Psyche",
       "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The impact of self-talk",
-      "url": "https://psyche.co/videos/talking-to-yourself-isnt-just-normal-it-can-be-beneficial",
-      "description": "Is your inner voice helping you or holding you back? Dig into the science on the real-life impacts of self-talk - Video by TED-Ed Watch on Psyche",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Writing letters is a spiritual practice for our age of speed",
-      "url": "https://psyche.co/ideas/writing-letters-is-a-spiritual-practice-for-our-age-of-speed",
-      "description": "Handwritten letters seem like a remnant of pre-online life, but they connect us to ourselves and each other like nothing else - by Amanda Leigh Lichtenstein Read on Psyche",
-      "date": "Thu, 13 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Two actors, no director, one dreamlike play",
-      "url": "https://psyche.co/turning-points/how-acting-in-a-surreal-play-in-my-pyjamas-healed-my-heartache",
-      "description": "After a painful breakup, I found myself agreeing to perform in a surreal play, dressed in my pyjamas - by Melissa Matthewson Read on Psyche",
-      "date": "Wed, 12 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

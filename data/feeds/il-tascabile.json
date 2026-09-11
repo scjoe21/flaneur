@@ -1,24 +1,8 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-09-06T19:07:48.757374+00:00",
+  "fetchedAt": "2026-09-11T08:28:49.231337+00:00",
   "items": [
-    {
-      "title": "Un allarmante fetore di plastica",
-      "url": "https://www.iltascabile.com/societa/allarmante-fetore-plastica/",
-      "description": "Anatomia del gadget: come il mercato neutralizza i simboli di lotta riducendo l’appartenenza politica a semplice consumo. \n L'articolo  Un allarmante fetore di plastica  proviene da  Il Tascabile .",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
     {
       "title": "L’amore di dio è un virus",
       "url": "https://www.iltascabile.com/linguaggi/amore-dio-virus/",
@@ -36,42 +20,10 @@
       }
     },
     {
-      "title": "Scheherazade in carcere a Baabda",
-      "url": "https://www.iltascabile.com/linguaggi/scheherazade-carcere-baabda/",
-      "description": "La drammaterapia di Zeina Daccache ( Scheherazade’s Diary ) come manifesto contro l'indifferenza delle istituzioni totali italiane. \n L'articolo  Scheherazade in carcere a Baabda  proviene da  Il Tascabile .",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Eurafrica",
       "url": "https://www.iltascabile.com/societa/eurafrica/",
       "description": "Dalla storia di come le potenze coloniali europee hanno sognato di unire Europa e Africa in un’entità unica al caso dell’ Union  française , rivendicazione di una forma di Stato nuova e concretamente postnazionale. \n L'articolo  Eurafrica  proviene da  Il Tascabile .",
       "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Come sono, suona di Susan Rogers e Ogi Ogas",
-      "url": "https://www.iltascabile.com/recensioni/come-sono-suona-susan-rogers-ogi-ogas/",
-      "description": "L'articolo  Come sono, suona di Susan Rogers e Ogi Ogas  proviene da  Il Tascabile .",
-      "date": "Fri, 28 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -100,10 +52,10 @@
       }
     },
     {
-      "title": "Il corpo vivo del Sé digitale",
-      "url": "https://www.iltascabile.com/scienze/corpo-vivo-se-digitale/",
-      "description": "Che cosa accade al corpo quando l’esperienza del mondo passa sempre più spesso attraverso schermi, interfacce, e conversazioni con sistemi artificiali? Una riflessione attorno all’opera del neuroscienziato Vittorio Gallese. \n L'articolo  Il corpo vivo del Sé digitale  proviene da  Il Tascabile .",
-      "date": "Mon, 24 Aug 2026",
+      "title": "Fare classe",
+      "url": "https://www.iltascabile.com/societa/fare-classe/",
+      "description": "Dai Quanti di Einaudi allo sciopero della cultura, una riflessione sulla necessità di passare dall’identità all’organizzazione. \n L'articolo  Fare classe  proviene da  Il Tascabile .",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
@@ -113,6 +65,70 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Assoluzione di Jeff VanderMeer",
+      "url": "https://www.iltascabile.com/recensioni/assoluzione-jeff-vandermeer/",
+      "description": "L'articolo  Assoluzione di Jeff VanderMeer  proviene da  Il Tascabile .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Una cosa divertente",
+      "url": "https://www.iltascabile.com/letterature/cosa-divertente/",
+      "description": "Dal parallelo con Joan Didion all'analisi computazionale: la falsa linea d'ombra tra il Wallace romanziere e il Wallace giornalista. \n L'articolo  Una cosa divertente  proviene da  Il Tascabile .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La vita impigliata nella materia",
+      "url": "https://www.iltascabile.com/letterature/vita-impigliata-materia/",
+      "description": "Trame e simulacri intorno a Bruno Schulz a partire dal romanzo  Il Messia di Stoccolma  di Cynthia Ozick. \n L'articolo  La vita impigliata nella materia  proviene da  Il Tascabile .",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "L’illusione dei colori",
+      "url": "https://www.iltascabile.com/scienze/lillusione-colori/",
+      "description": "Tra i mammiferi, noi primati vediamo più colori di quasi tutti gli altri. È il risultato di un percorso evolutivo accidentato, che ha incluso milioni di anni di vita notturna. E probabilmente non è ancora finita. \n L'articolo  L’illusione dei colori  proviene da  Il Tascabile .",
+      "date": "Mon, 07 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.iltascabile.com/letterature/lei-non-sa-chi-sono-io/",
       "description": "Da libro di culto a seconda vita editoriale:  Il corpo non dimentica  di Violetta Bellocchio e il bisogno disperato di dare una forma al proprio dolore. \n L'articolo  <i>Lei</i> non sa chi sono <i>Io</i>  proviene da  Il Tascabile .",
       "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Vivi al mondo",
-      "url": "https://www.iltascabile.com/letterature/vivi-mondo/",
-      "description": "Leggere Daniela Attanasio tra le onde dello Jonio e il ricordo di Amelia Rosselli. \n L'articolo  Vivi al mondo  proviene da  Il Tascabile .",
-      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

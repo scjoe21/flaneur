@@ -1,7 +1,7 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-09-06T19:08:22.995031+00:00",
+  "fetchedAt": "2026-09-11T08:29:12.999340+00:00",
   "items": [
     {
       "title": "第1回　天皇への“ねじれ”",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "第２回　戦争のリアルはどこにあるのか：銀幕、YouTube、ドローン",
-      "url": "https://kangaeruhito.jp/article/764209",
-      "description": "戦争を伝えることはできるのか 　人間は、戦争に魅入られてきた。昔は絵画、銀幕で、そして、いまはYouTubeで。ここで私が問いたいのは、「それらはリアルなのか」という問いだ。とりわけ、映画、YouTube、そして、「戦争 […]",
-      "date": "Thu, 13 Aug 2026",
+      "title": "第３回　戦争ゲームはなぜ楽しいのか：シミュレーション、パズル、ストラテジー",
+      "url": "https://kangaeruhito.jp/article/764281",
+      "description": "「戦争を理解したい」と人々は願ってきた。なぜなら、理解することは支配することだからだ。戦争を支配する。つまり、どのようにすれば勝てるのか、どのようにすれば損害を減らせるのかを理解すること。 　軍人、為政者はもちろん、も […]",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 10,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -52,19 +52,35 @@
       }
     },
     {
-      "title": "4．ミソフォニア――周囲の音が気になる",
-      "url": "https://kangaeruhito.jp/article/764218",
-      "description": "音嫌悪症 　夕食の席で、向かいに座る家族がスープをすすっています。ごく当たり前の光景です。ところが、あなたの脳はそうは受け取りません。その「ズズッ」という音が耳に入った瞬間、心臓が激しく鼓動し、全身の筋肉がこわばり、抑え […]",
-      "date": "Sun, 16 Aug 2026",
+      "title": "第３回　“歴史”は現在から過去へと向かう",
+      "url": "https://kangaeruhito.jp/interview/764247",
+      "description": "（第1回　天皇への“ねじれ”） （第2回　戦前と戦後の“連続性”を救い出す） 1990年代、日本の右傾化 國分　この対談では、新刊『天皇への敗北』における大きなテーマである日本国憲法、とりわけ立憲主義についてあらためて熟 […]",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "二十四、無力の力",
+      "url": "https://kangaeruhito.jp/article/764269",
+      "description": "曹洞宗の僧侶として、道元禅師と並んで世上有名なのは、良寛和尚（1758‐1831）だろう。和尚が道元禅師の門下であることを知る人も、そう多くあるまい。 　その独特の書をはじめ、数々の逸話でも知られているが、和尚の言葉と […]",
+      "date": "Sun, 06 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://kangaeruhito.jp/article/764236",
       "description": "任侠映画の象徴として 「帰ろかな」が「最後の望郷歌謡」にしてNHKとの密接な関係の始まりを画する曲で、「函館の女」が「ご当地ソング」の雛形となる大ヒット曲だったとすれば、「兄弟仁義」は、サブちゃんの任侠路線の決定版である […]",
       "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "第20夜　橋を渡れば南の島系ロビンソン",
-      "url": "https://kangaeruhito.jp/article/764181",
-      "description": "久しぶりのロビンソン酒場行。お馴染みの連れ、Mさんとの約束の日、私は午後4時に京浜急行の京急鶴見駅で待ち合わせることにした。改札を出てしばらくの後、何本かの電車が過ぎていき、何人もの降車客を見送った。そ […]",
-      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

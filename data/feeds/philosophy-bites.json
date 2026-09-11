@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-09-06T19:08:06.490661+00:00",
+  "fetchedAt": "2026-09-11T08:28:58.496184+00:00",
   "items": [
     {
       "title": "Lani Watson on the Power of Questions",
@@ -132,6 +132,22 @@
       }
     },
     {
+      "title": "Nilanjan Das on Buddhist Philosophy and Caste",
+      "url": "https://philosophybites.libsyn.com/nilanjan-das-on-buddhist-philosophy-and-caste",
+      "description": "There is a long tradition of caste in South Asia. In this episode of the Philosophy Bites podcast Nilanjan Das discusses a pre-modern philosophical critic of the whole system, and particularly of its underlying metaphysical assumptions.   This episode was supported by the Ideas Workshop, part of the Open Society Foundations",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Tarun Khaitan on Decolonising Institutions",
       "url": "https://philosophybites.libsyn.com/tarun-khaitan-on-decolonising-institutions",
       "description": "Narendra Modi has spoken of \"decolonising\" India including its post-colonial constitution Are philosophical criticisms of this constitution well-founded? Tarun Khaitan of the London School of Economics discusses.   This episode of the Philosophy Bites podcast was supported by the Ideas Workshop, part of the Open Society Foundations.",
@@ -216,22 +232,6 @@
       "url": "https://philosophybites.libsyn.com/angie-hobbs-on-plato-on-power",
       "description": "",
       "date": "Thu, 11 Dec 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lewis Gordon on Frantz Fanon",
-      "url": "https://philosophybites.libsyn.com/lewis-gordon-on-frantz-fanon",
-      "description": "Frantz Fanon, who was born in Martinique, died aged 36. He nevertheless made very significant contributions to the discussion of racism and colonialism, influenced strongly by the existentialist tradition. In this episode of the Philosphy Bites podcast David Edmonds discusses Fanon, his ideas, his cultural background, and his impact, with Lewis Gordon, author of What Fanon Said.",
-      "date": "Fri, 17 Oct 2025",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

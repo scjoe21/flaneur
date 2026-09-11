@@ -1,78 +1,126 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-09-06T19:08:22.084808+00:00",
+  "fetchedAt": "2026-09-11T08:29:12.412876+00:00",
   "items": [
     {
-      "title": "Can Nature Benefit You If You’re Already Well?",
-      "url": "https://nautil.us/can-nature-benefit-you-if-youre-already-well-1284801/",
-      "description": "A conversation with a neuroscientist about how nature can fortify the strong and support resilience \n The post  Can Nature Benefit You If You’re Already Well?  appeared first on  Nautilus .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_132250017.jpeg?w=564",
+      "title": "How Did Birds Outlive the Other Dinosaurs?",
+      "url": "https://nautil.us/how-did-birds-outlive-the-other-dinosaurs-1284920/",
+      "description": "A preserved feather provides some essential clues \n The post  How Did Birds Outlive the Other Dinosaurs?  appeared first on  Nautilus .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Press-Release-artwork_credit-to-Andrey-Atuchin.jpg?w=564",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
-      "title": "Many Space Missions Are Searching for Life Beyond Earth—But Are We Prepared for the Fallout If They Succeed?",
-      "url": "https://nautil.us/many-space-missions-are-searching-for-life-beyond-earth-but-are-we-prepared-for-the-fallout-if-they-succeed-1284812/",
-      "description": "Several space missions are searching for extraterrestrial life, which could come in the form of microbes \n The post  Many Space Missions Are Searching for Life Beyond Earth—But Are We Prepared for the Fallout If They Succeed?  appeared first on  Nautilus .",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_2002344146.jpeg?w=564",
+      "title": "What Bird Feeding Has to Do with Happiness",
+      "url": "https://nautil.us/what-bird-feeding-has-to-do-with-happiness-1284926/",
+      "description": "It might be good for the birds—and you \n The post  What Bird Feeding Has to Do with Happiness  appeared first on  Nautilus .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2514374507.jpg?w=564",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "Your Smartwatch May Not be as Smart as You Think it is",
-      "url": "https://nautil.us/your-smartwatch-may-not-be-as-smart-as-you-think-it-is-1284836/",
-      "description": "They’re great at telling time, though \n The post  Your Smartwatch May Not be as Smart as You Think it is  appeared first on  Nautilus .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_98299978.jpeg?w=564",
+      "title": "Rethinking the Mechanisms of Alzheimer’s Disease",
+      "url": "https://nautil.us/rethinking-the-mechanisms-of-alzheimers-disease-1284912/",
+      "description": "Alzheimer’s disease is the most common form of dementia, but memory isn’t the only thing it affects \n The post  Rethinking the Mechanisms of Alzheimer’s Disease  appeared first on  Nautilus .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_1121338974.jpeg?w=564",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 10
       }
     },
     {
-      "title": "Astronomers Spot a Strange Atmospheric Wave Above Saturn’s South Pole",
-      "url": "https://nautil.us/astronomers-spot-a-strange-atmospheric-wave-above-saturns-south-pole-1284773/",
-      "description": "And it could stick around for decades \n The post  Astronomers Spot a Strange Atmospheric Wave Above Saturn’s South Pole  appeared first on  Nautilus .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-saturn.jpg?w=564",
+      "title": "AI Engineers Are Having Their Oppenheimer “Destroyer of Worlds” Moment",
+      "url": "https://nautil.us/ai-engineers-are-having-their-oppenheimer-destroyer-of-worlds-moment-1284956/",
+      "description": "A cascade of regret and apocalyptic short-term forecasts hit social media this week \n The post  AI Engineers Are Having Their Oppenheimer “Destroyer of Worlds” Moment  appeared first on  Nautilus .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_81049143.jpeg?w=564",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     },
     {
-      "title": "Your Boss Is Watching You",
-      "url": "https://nautil.us/your-boss-is-watching-you-1284806/",
-      "description": "Assisted by AI, companies have more options than ever to track employees, minute by minute, keystroke by keystroke. Does this have the desired effect? \n The post  Your Boss Is Watching You  appeared first on  Nautilus .",
-      "date": "Sat, 05 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_1096174570.jpeg?w=564",
+      "title": "Could You Survive the Oregon Trail?",
+      "url": "https://nautil.us/could-you-survive-the-oregon-trail-1284907/",
+      "description": "You might not die of dysentery on the trail these days, but there is still plenty of danger outdoors \n The post  Could You Survive the Oregon Trail?  appeared first on  Nautilus .",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_1060052622_Editorial_Use_Only.jpeg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Elephants Think Before They Act",
+      "url": "https://nautil.us/elephants-think-before-they-act-1284893/",
+      "description": "It’s a remarkable act of impulse control \n The post  Elephants Think Before They Act  appeared first on  Nautilus .",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_51170548.jpeg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Does Consciousness Require a Body?",
+      "url": "https://nautil.us/does-consciousness-require-a-body-1284886/",
+      "description": "A conversation with neuroscientist and author Antonio Damasio about intelligence, feelings, and robots \n The post  Does Consciousness Require a Body?  appeared first on  Nautilus .",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2745119833.jpg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "A Natural Solution to the Replication Crisis in Science",
+      "url": "https://nautil.us/a-natural-solution-to-the-replication-crisis-in-science-1284942/",
+      "description": "Dear scientists: Follow the ants \n The post  A Natural Solution to the Replication Crisis in Science  appeared first on  Nautilus .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2642837385.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -84,11 +132,11 @@
       }
     },
     {
-      "title": "Ancient Coins Reveal a Wealth of Information About the Roman Republic",
-      "url": "https://nautil.us/ancient-coins-reveal-a-wealth-of-information-about-the-roman-republic-1284847/",
-      "description": "Change you can believe in \n The post  Ancient Coins Reveal a Wealth of Information About the Roman Republic  appeared first on  Nautilus .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Mercury_Semuncia_200BC.jpg?w=564",
+      "title": "This Snake’s Tail Has a Fake “Spider” at the Tip",
+      "url": "https://nautil.us/this-snakes-tail-has-a-fake-spider-at-the-tip-1284917/",
+      "description": "It’s meant to help lure prey \n The post  This Snake’s Tail Has a Fake “Spider” at the Tip  appeared first on  Nautilus .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Spider-tailed-horned-viper-Credit-to-Omid-Mozaffari.jpeg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -100,59 +148,11 @@
       }
     },
     {
-      "title": "Chimps Have Accents, Too",
-      "url": "https://nautil.us/chimps-have-accents-too-1284795/",
-      "description": "And they could shed light on our own language acquisition \n The post  Chimps Have Accents, Too  appeared first on  Nautilus .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_509385718.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Extinct “American Cheetah” Wasn’t a Cheetah After All",
-      "url": "https://nautil.us/the-extinct-american-cheetah-wasnt-a-cheetah-after-all-1284777/",
-      "description": "And, unlike African cheetahs, it was a flexible carnivore \n The post  The Extinct “American Cheetah” Wasn’t a Cheetah After All  appeared first on  Nautilus .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Picture-1.png?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Deadly Livestock Virus Found Lurking in Ancient Texts",
-      "url": "https://nautil.us/deadly-livestock-virus-found-lurking-in-ancient-texts-1284770/",
-      "description": "Take a look, it’s in a book \n The post  Deadly Livestock Virus Found Lurking in Ancient Texts  appeared first on  Nautilus .",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/Ovis_sheep_-_Der_naturen_bloeme_-_Jacob_van_Maerlant_-_KB_KA_16_-_066v_b1.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Your Home is Crawling With Microplastics",
-      "url": "https://nautil.us/your-home-is-crawling-with-microplastics-1284761/",
-      "description": "And vacuuming might make things worse \n The post  Your Home is Crawling With Microplastics  appeared first on  Nautilus .",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_1972889006.jpg?w=564",
+      "title": "“Twin Spirit” Galaxies Are on a Collision Course",
+      "url": "https://nautil.us/twin-spirit-galaxies-are-on-a-collision-course-1284904/",
+      "description": "NGC 7253A and NGC 7253B are joining forces \n The post  “Twin Spirit” Galaxies Are on a Collision Course  appeared first on  Nautilus .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-twin.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

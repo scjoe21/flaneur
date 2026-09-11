@@ -1,13 +1,13 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-06T19:07:38.009685+00:00",
+  "fetchedAt": "2026-09-11T08:28:35.448683+00:00",
   "items": [
     {
-      "title": "Après l’été caniculaire, comment faire le deuil de la nature ?",
-      "url": "https://www.philomag.com/articles/apres-lete-caniculaire-comment-faire-le-deuil-de-la-nature",
+      "title": "Comment trouver le bon mot ? Dans les coulisses des humoristes",
+      "url": "https://www.philomag.com/articles/comment-trouver-le-bon-mot-dans-les-coulisses-des-humoristes",
       "description": "",
-      "date": "Thu, 03 Sep 2026",
+      "date": "Mon, 07 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "“La Souffrance éthique”, de Christophe Dejours et Gabriel Perez : sortir du travail dégradé",
-      "url": "https://www.philomag.com/articles/la-souffrance-ethique-de-christophe-dejours-et-gabriel-perez-sortir-du-travail-degrade",
-      "description": "",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -52,6 +36,22 @@
       }
     },
     {
+      "title": "Trouver les mots pour déclarer votre amour, avec Roland Barthes",
+      "url": "https://www.philomag.com/articles/trouver-les-mots-pour-declarer-votre-amour-avec-roland-barthes",
+      "description": "",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Corps, plaisir et salami… L’écrivaine Lize Spit répond à notre “Questionnaire de Socrate”",
       "url": "https://www.philomag.com/articles/corps-plaisir-et-salami-lecrivaine-lize-spit-repond-notre-questionnaire-de-socrate",
       "description": "",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Exposition “Conversation(s)” au musée Unterlinden de Colmar : l'art des mariages réussis",
-      "url": "https://www.philomag.com/articles/exposition-conversations-au-musee-unterlinden-de-colmar-lart-des-mariages-reussis",
-      "description": "",
-      "date": "Sun, 30 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -97,6 +81,118 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Trouver les mots justes pour mobiliser les foules avec Simone de Beauvoir",
+      "url": "https://www.philomag.com/articles/trouver-les-mots-justes-pour-mobiliser-les-foules-avec-simone-de-beauvoir",
+      "description": "",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Le jour où les IA se sont unies contre nous",
+      "url": "https://www.philomag.com/articles/le-jour-ou-les-ia-se-sont-unies-contre-nous",
+      "description": "",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trouver les mots justes pour consoler nos proches avec Plutarque",
+      "url": "https://www.philomag.com/articles/trouver-les-mots-justes-pour-consoler-nos-proches-avec-plutarque",
+      "description": "",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Le “rire” chez Bergson, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/le-rire-chez-bergson-cest-quoi",
+      "description": "",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Les intellectuels et les idées qui inspirent l’AfD",
+      "url": "https://www.philomag.com/articles/les-intellectuels-et-les-idees-qui-inspirent-lafd",
+      "description": "",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trouver les mots pour rendre hommage aux défunts, avec Jacques Derrida",
+      "url": "https://www.philomag.com/articles/trouver-les-mots-pour-rendre-hommage-aux-defunts-avec-jacques-derrida",
+      "description": "",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Se soucier de son âme”, le vibrant appel d’Amélie Nothomb",
+      "url": "https://www.philomag.com/articles/se-soucier-de-son-ame-le-vibrant-appel-damelie-nothomb",
+      "description": "",
+      "date": "Mon, 07 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,102 +232,6 @@
       "url": "https://www.philomag.com/articles/gloria-steinem-mort-dune-pionniere-de-lintersectionnalite",
       "description": "",
       "date": "Fri, 04 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le nouvel autodafé numérique",
-      "url": "https://www.philomag.com/articles/le-nouvel-autodafe-numerique",
-      "description": "",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Quel prof de philo a été Jean-Paul Sartre ? L'un de ses anciens élèves témoigne",
-      "url": "https://www.philomag.com/articles/quel-prof-de-philo-ete-jean-paul-sartre-lun-de-ses-anciens-eleves-temoigne",
-      "description": "",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Faut-il aimer ce qui nous arrive ?",
-      "url": "https://www.philomag.com/articles/faut-il-aimer-ce-qui-nous-arrive",
-      "description": "",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Violence de la propriété”, de Frédéric Gros : de la prédation à la relation",
-      "url": "https://www.philomag.com/articles/violence-de-la-propriete-de-frederic-gros-de-la-predation-la-relation",
-      "description": "",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Aristote dans la fournaise des incendies de l’été",
-      "url": "https://www.philomag.com/articles/aristote-dans-la-fournaise-des-incendies-de-lete",
-      "description": "",
-      "date": "Mon, 31 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Prendre langue avec l’IA ? Mazarine M. Pingeot débat avec Catherine Malabou",
-      "url": "https://www.philomag.com/articles/prendre-langue-avec-lia-mazarine-m-pingeot-debat-avec-catherine-malabou",
-      "description": "",
-      "date": "Mon, 31 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-06T19:07:44.032916+00:00",
+  "fetchedAt": "2026-09-11T08:28:42.562629+00:00",
   "items": [
     {
       "title": "Kunst als Erkenntnisweg",
@@ -36,35 +36,83 @@
       }
     },
     {
-      "title": "Gefährdet oder belebt – wie steht es um unsere Demokratie?",
-      "url": "https://www.philomag.de/artikel/gefaehrdet-oder-belebt-wie-steht-es-um-unsere-demokratie",
-      "description": "Unser Regierungs- und Gesellschaftsmodell steht unter Druck. Doch woher rührt die Krise? Hat die Politik den Kontakt zu ihren Bürgern verloren oder erklären ganz andere Faktoren die wachsende Verdrossenheit? Und welcher Weg führt aus der gegenwärtigen Lage heraus? Über legitimes Aufbegehren und falsche Opfernarrative diskutieren der Historiker Jörg Baberowski und der Soziologe Detlef Pollack.",
-      "date": "Mon, 31 Aug 2026",
+      "title": "Feier der Deutschheit – Die AfD und das Ende der politischen Bildung",
+      "url": "https://www.philomag.de/artikel/feier-der-deutschheit-die-afd-und-das-ende-der-politischen-bildung",
+      "description": "Die AfD hat die Landtagswahl in Sachsen-Anhalt gewonnen. Nun plant sie einen umfassenden Umbau des Schulsystems und eine totale Revision der Erinnerungskultur. Auch wenn es mit der politischen Bildung und dem Gedenken in Deutschland nie so weit her war, wie häufig behauptet, müssen diese gegen den autoritären Umbau verteidigt werden. Sonst wird das kritische Bewusstsein über den Nationalsozialismus womöglich nur ein Wimpernschlag gewesen sein – in Jahrhunderten ansonsten ungebrochener, erfolgrei",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Janos Richter: „Möglicherweise wird auch im dritten Wahlgang kein Ministerpräsident gewählt”",
+      "url": "https://www.philomag.de/artikel/janos-richter-moeglicherweise-wird-auch-im-dritten-wahlgang-kein-ministerpraesident",
+      "description": "Für Sachsen-Anhalt stellt sich nach gestern die Frage: Was ist von einer AfD-geführten Regierung zu erwarten? Der Rechtswissenschaftler Janos Richter erklärt, warum eine Regierungsbildung lange dauern und die Verwaltung einen entscheidenden Hebel für die AfD darstellen könnte.",
+      "date": "Mon, 07 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Sehnsucht nach dem Krassen",
+      "url": "https://www.philomag.de/artikel/sehnsucht-nach-dem-krassen",
+      "description": "Während rechte Parteien in anderen Ländern auf Mäßigung setzen, um für bürgerliche Kreise wählbar zu werden, lautet das Patentrezept der AfD: Durch Radikalisierung zum Erfolg. Warum verfängt das gerade in Deutschland?",
+      "date": "Mon, 07 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Der Weltgeist und die Geopolitik",
-      "url": "https://www.philomag.de/artikel/der-weltgeist-und-die-geopolitik",
-      "description": "Vor über 60 Jahren diskutierten der französische Philosoph Alexandre Kojève und der deutsche Staatsrechtler Carl Schmitt über die heraufziehende Weltordnung. Die Berührungspunkte beider Denker, die sich in zentralen Fragen uneins waren, könnten für unsere heutige geopolitische Situation wegweisend sein.",
-      "date": "Fri, 28 Aug 2026",
+      "title": "Dialektik der Verschlechterung",
+      "url": "https://www.philomag.de/artikel/dialektik-der-verschlechterung",
+      "description": "Habermas’ Geschichtsphilosophie begreift gesellschaftliche Rückschritte als historische Gelegenheiten, etwas zu lernen. Bereitet das Chaos unserer Gegenwart also schon den nächsten Fortschritt vor?",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 5,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Entfremdete Naturliebe",
+      "url": "https://www.philomag.de/artikel/entfremdete-naturliebe",
+      "description": "Natur liegt im Trend. Aber bezeugt nicht gerade die wachsende Sehnsucht, dass wir uns zusehends von ihr entfernen? Offenbart sich darin gar der Höhepunkt unserer Abwendung?",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -84,6 +132,22 @@
       }
     },
     {
+      "title": "Verflüssigung der Gegenwart",
+      "url": "https://www.philomag.de/artikel/verfluessigung-der-gegenwart",
+      "description": "Ein roter Faden lässt sich im Gang durch das facettenreiche Werk Michel Foucaults nur schwerlich verfolgen. Das jüngst erschienene Buch  Bedingungen unserer Existenz  stellt nun scharf auf die genealogische Methode Foucaults, in der die Autoren den kritischen Impetus des Philosophen verorten. Denn diese schäle letztlich ein Gespür für die Veränderlichkeit der vermeintlich verkrusteten Gegenwart heraus.",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Maria-Sibylla Lotter: „Man sollte Opfer als selbständige Subjekte behandeln“",
       "url": "https://www.philomag.de/artikel/maria-sibylla-lotter-man-sollte-opfer-als-selbstaendige-subjekte-behandeln",
       "description": "Der diesjährige Tractatus-Preis geht an die Philosophin Maria-Sibylla Lotter für ihr Buch  Opfer .  Über Verwundbarkeit als Selbstbild.  Wir haben mit der Preisträgerin über die Aufwertung von Opfern als Fortschritt mit Kehrseite gesprochen.",
@@ -97,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Phantome des Widerstands",
+      "url": "https://www.philomag.de/artikel/phantome-des-widerstands",
+      "description": "Verachtenswerte politische Überzeugungen, meint Wolfram Eilenberger, werden nicht dadurch verschwinden, dass man ihnen abspricht, eine „Meinung“ zu sein.",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -132,90 +212,10 @@
       }
     },
     {
-      "title": "Was heißt „deutsch denken“?",
-      "url": "https://www.philomag.de/artikel/was-heisst-deutsch-denken",
-      "description": "Die AfD wirbt in ihrem Parteiprogramm für Sachsen-Anhalt mit der Förderung deutschen Denkens. Was die Unklarheiten dieses Ausdrucks über die Partei verraten, zeigt Josef Früchtl.",
-      "date": "Mon, 31 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Macht der Masse",
-      "url": "https://www.philomag.de/artikel/macht-der-masse",
-      "description": "Dass die Demokratie auf der Souveränität des Volkes fußt, scheint eine Binsenweisheit zu sein. Doch worum handelt es sich eigentlich bei dem vielbeschworenen Volk?",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "Bürgerliche Wikinger",
-      "url": "https://www.philomag.de/artikel/buergerliche-wikinger",
-      "description": "Die Wikinger gelten gemeinhin als kriegerisches Volk, das plündernd durch Europa zog. Doch ein archäologischer Fund dürfte diese Vorstellung nun irritieren.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Schall und Wahn",
-      "url": "https://www.philomag.de/artikel/schall-und-wahn",
-      "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Sollten wir Freunde vor Fehlern bewahren?",
-      "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
-      "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "Was heißt hier Volkssouveränität?",
-      "url": "https://www.philomag.de/artikel/was-heisst-hier-volkssouveraenitaet",
-      "description": "Das Fundament der Demokratie ist der Demos – das Volk. Ob es aber überhaupt in der Lage ist, seine Macht souverän auszuüben, ist unter Philosophen bis heute umstritten. Hier acht Positionen.",
-      "date": "Tue, 01 Sep 2026",
+      "title": "Lust am Limit",
+      "url": "https://www.philomag.de/artikel/lust-am-limit",
+      "description": "Zum Umgang mit dem Leib existieren zwei entgegengesetzte Imperative: Überwinde den Schweinehund. Und: Hör auf deinen Körper. Millay Hyatt hat einen dritten Weg gefunden.",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Diskrete Verdinglichung",
-      "url": "https://www.philomag.de/artikel/diskrete-verdinglichung",
-      "description": "Mit den „Meta AI Glasses“ kann man Abbilder anderer einfangen – und das teilweise unbemerkt.",
-      "date": "Fri, 28 Aug 2026",
+      "title": "Was heißt hier Volkssouveränität?",
+      "url": "https://www.philomag.de/artikel/was-heisst-hier-volkssouveraenitaet",
+      "description": "Das Fundament der Demokratie ist der Demos – das Volk. Ob es aber überhaupt in der Lage ist, seine Macht souverän auszuüben, ist unter Philosophen bis heute umstritten. Hier acht Positionen.",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

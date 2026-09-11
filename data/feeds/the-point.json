@@ -1,7 +1,7 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-09-06T19:08:21.639604+00:00",
+  "fetchedAt": "2026-09-11T08:29:12.014197+00:00",
   "items": [
     {
       "title": "Student of Desire",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Internal Goods",
+      "url": "https://thepointmag.com/politics/internal-goods/",
+      "description": "I would like to reflect on the responsibilities of academics like myself in cases like this one, and to suggest that, if we hope to sustain human bonds or a world of shared value, clear thinking is the only way to do so. \n The post  Internal Goods  appeared first on  The Point Magazine .",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -84,6 +100,22 @@
       }
     },
     {
+      "title": "No Country for Tech Bros",
+      "url": "https://thepointmag.com/politics/no-country-for-tech-bros/",
+      "description": "As the public face of Silicon Valley secessionism, Srinivasan’s Network State Conference seemed like a prime window into the techno-capitalist frontier. \n The post  No Country for Tech Bros  appeared first on  The Point Magazine .",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "We Were the 99 Percent",
       "url": "https://thepointmag.com/politics/we-were-the-99-percent/",
       "description": "As the global tides have continued to shift rightward, I’ve found myself going back to those initial days of Occupy, looking for clues. What was it about the movement that captured the imagination of an entire generation? \n The post  We Were the 99 Percent  appeared first on  The Point Magazine .",
@@ -113,38 +145,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Advanced Fiction",
-      "url": "https://thepointmag.com/literature/advanced-fiction/",
-      "description": "Before I even knew what teaching was, I loved to teach. When I was a child, as soon as I left the crib—and oh, believe me, I wanted to leave that crib! ha ha—my mother would join me in my puny bed, the one that felt so vast at the time, and she would read aloud to me. \n The post  Advanced Fiction  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "A Vital Education",
-      "url": "https://thepointmag.com/correspondence/a-vital-education/",
-      "description": "This past January, I traveled to a small town in Wisconsin’s Driftless region, the southwest corner of the state the glaciers missed, to join a summit of representatives from the far-flung universe of “microcolleges.” \n The post  A Vital Education  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {

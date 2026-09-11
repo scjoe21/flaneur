@@ -1,110 +1,94 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-06T19:08:09.101777+00:00",
+  "fetchedAt": "2026-09-11T08:28:59.864234+00:00",
   "items": [
     {
-      "title": "The science, medicine, and mythology of menstruation and menopause",
-      "url": "https://bigthink.com/series/full-interview/science-menopause-menstruation/",
-      "description": "OBGYN and author Dr. Jen Gunter explains what’s actually happening inside the body during menstruation and menopause, why so much of what we’ve been told is wrong, and why that information gap has been weaponized against half the population. \n \n This video  The science, medicine, and mythology of menstruation and menopause  is featured on  Big Think .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-02-at-1.34.01-PM.png?quality=80&w=640",
+      "title": "How to debate, from a two-time world champion",
+      "url": "https://bigthink.com/series/full-interview/how-to-debate-seo/",
+      "description": "Two-time debate champion Bo Seo breaks down why arguments fail: the four bad-faith personas that hijack conversations, a four-question framework for picking fights worth having, and the surprising Cold War standoff between Nixon and Khrushchev that gives us a model for staying cool under pressure.  \n \n This video  How to debate, from a two-time world champion  is featured on  Big Think .",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-10.54.54-AM.png?quality=80&w=640",
       "videoId": "",
-      "priority": 39,
+      "priority": 50,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 39
-      }
-    },
-    {
-      "title": "Do we live inside a baby universe that’s really a black hole on the outside?",
-      "url": "https://bigthink.com/starts-with-a-bang/baby-universes-black-holes-dark-matter/",
-      "description": "One of the biggest existential questions that has puzzled humanity for as long as humans have been around is simply, “Where did all this come from?” After countless centuries of wondering and speculating, the 20th century brought with it our first scientific answers to that question. We learned that distant objects in the Universe are speeding away from one another: evidence that our Universe is expanding. We discovered that more distant galaxies appear younger, less massive, and with greater ra",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/01/origin-94.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
-      }
-    },
-    {
-      "title": "How to make difficult decisions, according to philosophy",
-      "url": "https://bigthink.com/mini-philosophy/how-to-make-difficult-decisions-according-to-philosophy/",
-      "description": "Every now and then, life asks us a question with no easy answer. Which career should we pursue? Should we have children? Should we move to the coast or closer to our friends? \n We gather information, read testimonials, and exhaustively research both options. One path seems better in some ways, the other seems better in others, and we find ourselves stuck between them. The best answer eludes us. \n This is what the philosopher Ruth Chang  calls  a “hard choice.” \n What makes these kinds of choices",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/difficult-decision-philosophy_compressed.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
+        "daily": 35,
         "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 30
+        "novelty": 5,
+        "total": 50
       }
     },
     {
-      "title": "The rule of 20%: How to find the sweet spot for improved performance",
-      "url": "https://bigthink.com/series/full-interview/science-of-talent/",
-      "description": "Talent isn’t a gift we’re born with – it’s a signal we’ve been reading completely wrong. Author Daniel Coyle breaks down the common traits shared by successful people, and why environment, not innate ability, is the variable that ties them all together. \n \n This video  The rule of 20%: How to find the sweet spot for improved performance  is featured on  Big Think .",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/A1-Web-Coyle.jpg?quality=85&w=640",
+      "title": "Can we be certain that time really exists?",
+      "url": "https://bigthink.com/starts-with-a-bang/does-time-exist-182965/",
+      "description": "From both a philosophical and a scientific perspective, we’re taught to doubt, question, and be skeptical of everything. Even the reality of ourselves and our own experiences cannot be taken for granted, as we must make certain assumptions about how trustworthy our measurement sensors — and our own senses, for that matter — actually are in order to arrive at any satisfactory conclusions. Sure, certain things might appear real, but it’s also possible that those “real” appearances are deceiving us",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/04/1152px-World_line2.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 30,
+      "priority": 50,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 15,
+        "total": 50
+      }
+    },
+    {
+      "title": "The secret your brain uses to decide how much pain you feel",
+      "url": "https://bigthink.com/series/curiosity-lab/curiosity-lab-1/",
+      "description": "We treat pain like a plumbing problem. Something in the body is broken, so we block the signal with medication or cut it out with surgery. The opioid epidemic is what happens when that is the only model we have. \n Pain psychologist Rachel Zoffness explains why it is also an incomplete account of how pain works. Pain is constructed by the brain, out of biology, emotion, and environment at once. Most chronic back pain has no identifiable structural cause, and 90% of us are walking around with abno",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/A5-YT-Zoffness.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "The test pilot who made airplanes safer (by teaching us how to break them better)",
+      "url": "https://bigthink.com/books/the-test-pilot-jimmy-doolittle/",
+      "description": "In the years following the Wright brothers’ 1903 takeoff, aircraft were designed via what a NASA history calls “an intuitive, daring empirical engineering loosely connected at best with any theory of aerodynamics or structural integrity.” Plane makers had some ideas about how to mimic flight while on the ground, but these were crude approximations with little sense of similarity or workability (that measure of practicality and reproducibility). The assessment of a plane as insufficiently robust ",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/kobuk_excerpt-1.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
-      "title": "Why mirrors flip left-to-right but not up-and-down",
-      "url": "https://bigthink.com/starts-with-a-bang/mirrors-flip-left-right-up-down/",
-      "description": "If you’ve ever looked in a mirror, you’ve likely noticed that everything you see is flipped. When you raise your left hand, your reflection raises their right hand. When you wink with your right eye, your reflection’s left eye winks back. And if you write a message and hold it up, you’ll see your reflection hold up the identical sign, but everything appears backward, even the individual letters themselves. It appears that everything you see reflected in the mirror has their left-and-right revers",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/04/1.Anti-gravity-Mirrors.jpg?quality=85&w=640",
+      "title": "Leadership isn’t natural — but making intelligent decisions can be learned",
+      "url": "https://bigthink.com/business/leadership-intelligence/",
+      "description": "Every day as a leader brings an endless flow of judgment calls, big and small. Even as you read this, you might be weighing where to focus your team’s efforts this quarter, who to hire for a role, or how to handle a slightly cheeky budget request from a colleague. You might be trying to decide whether to skip a meeting this afternoon, or how to tamp down a weird little disagreement so that it doesn’t turn into a bigger one. These choices are rarely like math problems with clean answers; you have",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/leadership-intelligence_excerpt.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 24,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 15,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
         "total": 24
       }
     },
     {
-      "title": "Starts With A Bang podcast #133 – The Milky Way’s center",
-      "url": "https://bigthink.com/starts-with-a-bang/starts-with-a-bang-podcast-133-the-milky-ways-center/",
-      "description": "Here in our Universe, there are all sorts of places where stars are actively forming right now. Our galaxy is going through a relatively quiet phase at present as far as star-formation is concerned, but that rate was much higher in the past: perhaps 30 (or more) times higher than what it is today. If we want to understand what our galaxy was like earlier on, we have two ways to go about it: look farther away, which has the disadvantage that we can’t really observe those places in such great deta",
-      "date": "Sat, 05 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/BGPSGalacticCenter.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 19
-      }
-    },
-    {
-      "title": "We have the knowledge to build a better world. But is that enough?",
-      "url": "https://bigthink.com/books/how-collective-knowledge-can-build-a-better-world/",
-      "description": "“The grand, leading principle, towards which every argument unfolded in these pages directly converges, is the absolute and essential importance of human development in its richest diversity.”  — Wilhelm von Humboldt \n Knowledge, especially when shared and collectively held, is essential to human flourishing — as Humboldt emphasizes in the [quote above], which was relayed by John Stuart Mill in the epigraph to  On Liberty . \n Knowledge is not an end in itself. It is an instrument for achieving s",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/liebral-democracy_excerpt.jpg?quality=85&w=640",
+      "title": "History shows that human progress is a myth",
+      "url": "https://bigthink.com/mini-philosophy/history-shows-that-human-progress-is-a-myth/",
+      "description": "There are two different kinds of stories. \n The first is the linear story. The characters start at position A and end at position B, having beaten all the baddies, and married the right person. The real story is about the transformation that happens along the way. This is a story about direction. Mostly, it’s about progress. We move from naïve to wise, raw to cooked, NPC to hero. \n In terms of philosophy, the linear-progressive story is best represented by the Hegelian dialectic. Hegel argued th",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/human-progress-myth_compressed.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
@@ -116,48 +100,64 @@
       }
     },
     {
-      "title": "Every single crewed mission to space — on one definitive map",
-      "url": "https://bigthink.com/strange-maps/every-single-crewed-mission-to-space-on-one-definitive-map/",
-      "description": "“A Visual History of Crewed Space Travel” is now available in  Big Think’s online store  on Pop Chart, where you can also find our first two posters, “ A Visual History of the Universe ” and “ A Literary Map of the United States, ” and other Big Think merch. \n \n Future space cowboys and girls, stick this on your wall as you beat a path to the stars. This poster is a snapshot of humanity’s loftiest enterprise so far: making it off-planet. It maps Earth’s main spaceports, the landing sites on the ",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Space-Travel-Thumbnail.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Ask Ethan: Are there really charm quarks inside the proton?",
-      "url": "https://bigthink.com/starts-with-a-bang/proton-contain-charm-quark/",
-      "description": "At the start of the 20th century, we were still figuring out what the structure of matter was. We knew everything was made up of atoms, and that there were negatively charged electrons within them, but the rest of the atom was a mystery. Over the course of the past 125 years, we subsequently learned that there was a small, massive, positively charged nucleus anchoring every atom. That nucleus itself is composed of nucleons — protons and neutrons — with each one itself made up of quarks and gluon",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/12/protonboy-1.jpg?quality=85&w=640",
+      "title": "These life-saving treatments were considered ‘too small’ to fund. Until now.",
+      "url": "https://bigthink.com/sponsored/these-life-saving-treatments-were-considered-too-small-to-fund/",
+      "description": "When 10-month-old Noa Greenwood was diagnosed with Canavan, her parents Lee and Lori were confronted with an idea of a future they’d never prepared for. Canavan is a rare, inherited neurodegenerative disease caused by mutations in the ASPA gene. Most children with it never develop beyond the abilities of a six-month-old. \n The very day that Noa was diagnosed, a trial for Canavan therapy was posted on clinicaltrials.gov. She was among the first children ever dosed. Within months, she began hittin",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/BioBridge-Web.png?quality=80&w=640",
       "videoId": "",
       "priority": 9,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
         "flaneur": 4,
-        "novelty": 5,
+        "novelty": 0,
         "total": 9
       }
     },
     {
-      "title": "Time is a fundamentally different type of dimension than space",
-      "url": "https://bigthink.com/starts-with-a-bang/time-dimension/",
-      "description": "One of the most common questions we can ask about any two distinct locations is, “What’s the shortest distance between those two points?” By default, most of us will give the same answer that Archimedes gave more than 2,000 years ago: a straight line. If you take a flat sheet of paper and put two points down on it absolutely anywhere, you can always connect those two points with any line, curve, or geometrical path you can imagine. So long as the paper remains flat, uncurved, and doesn’t have an",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/stop-motion-1361145_960_720.jpg?quality=85&w=640",
+      "title": "Does the expanding Universe stretch space or create new space?",
+      "url": "https://bigthink.com/starts-with-a-bang/universe-expand-stretching-creating-space/",
+      "description": "It’s been nearly a full century, almost 100 years, since humanity first reached a revolutionary conclusion about the nature of our Universe: space itself cannot and does not remain static, but rather evolves with the passage of time. One of the most counterintuitive predictions of Einstein’s general relativity is that any Universe — so long as it’s uniformly (or almost uniformly) filled with one or more species of matter, radiation, or energy — cannot remain both static and stable over time. Ins",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/08/RaisinBread-Universe-Expanding-16x9-816.png?quality=80&w=640",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "NASA image shows Earth’s lumpiness — exaggerated 10,000 times",
+      "url": "https://bigthink.com/strange-maps/nasa-geoid-potato-earth/",
+      "description": "No, the Earth is not flat. But it’s not exactly  round  either. Nor is it — let us stop you right there, smartypants — an oblate spheroid. \n Close enough, but not a geoid \n An oblate spheroid is a geometrically smooth model of our planet that, due to its rotation, bulges at the equator and flattens at the poles. While it is close enough to be used by GPS systems, for instance, it’s not  quite  right: It doesn’t account for the lumpiness of our actual Earth.  \n The technical term for the model th",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Cropped-Potato-Earth.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "This powerful belief can help you accomplish more",
+      "url": "https://bigthink.com/books/agency-and-self-efficacy/",
+      "description": "In the 1970s, academic psychology escaped from studying just behavior to start studying mental life. Albert Bandura, the father of this cognitive revolution within social psychology, led the way in 1977 with “self-efficacy.” An “efficacy expectation” is the belief — the conscious thought — that you, yourself, can bring about the goal you desire, and this is distinguished from an “outcome expectation,” which is the belief that your goal will happen, even if you are not the agent who brings it abo",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/agency_excerpt.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

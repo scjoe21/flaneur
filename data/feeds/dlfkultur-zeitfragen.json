@@ -1,8 +1,24 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-06T19:08:15.962661+00:00",
+  "fetchedAt": "2026-09-11T08:29:06.767954+00:00",
   "items": [
+    {
+      "title": "Gesundheitstrend Breathwork - Was Atmen bewirken kann",
+      "url": "https://www.deutschlandfunkkultur.de/breathwork-in-der-forschung-was-atmen-bewirken-kann-100.html",
+      "description": "Breathwork boomt: Mit gezielter Atmung sollen sich Stress und Angst legen und sogar veränderte Bewusstseinszustände herbeiführen lassen. Was passiert dabei im Gehirn? Und wie belastbar sind die Versprechen zu therapeutischer Wirkung oder Heilung? Bigalke, Katja www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 10 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 50,
+      "scoreDetail": {
+        "daily": 40,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 50
+      }
+    },
     {
       "title": "Das gebrochene Versprechen der Maschinen",
       "url": "https://www.deutschlandfunkkultur.de/endlich-faul-sein-das-gebrochene-versprechen-der-maschinen-100.html",
@@ -16,22 +32,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 5,
-        "total": 45
-      }
-    },
-    {
-      "title": "Finanzbildung - Jung sein und clever mit Geld umgehen",
-      "url": "https://www.deutschlandfunkkultur.de/finanzbildung-jung-sein-und-clever-mit-geld-umgehen-100.html",
-      "description": "Heute reden junge Menschen sehr selbstverständlich über ETFs oder Kryptowährungen. Gleichzeitig haben immer mehr von ihnen Geldprobleme. Wie kann man teuren Verlockungen in den sozialen Netzwerken widerstehen und vernünftig wirtschaften? Leue, Vivien www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 11 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 45
       }
     },
@@ -100,32 +100,16 @@
       }
     },
     {
-      "title": "Umweltgifte - Chemie-Cocktail und mehr – Was uns wirklich im Blut liegt",
-      "url": "https://www.deutschlandfunkkultur.de/umweltgift-chemikalien-blut-100.html",
-      "description": "Wir alle haben Weichmacher und andere Chemikalien in unserem Körper. Einige davon stehen im Verdacht, krank zu machen. Forschende wollen herausfinden, ob man die Gefahr verringern kann – durch den Lebensstil und durch Gesetze. (Erstsendung: 12.12.2024) Nordwig, Hellmuth www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 13 Aug 2026",
+      "title": "Ausgebrannt und ernüchtert - Der schwierige Berufseinstieg junger Ärzte",
+      "url": "https://www.deutschlandfunkkultur.de/ausgebrannt-und-ernuechtert-der-schwierige-berufseinstieg-junger-aerzte-100.html",
+      "description": "Extreme Arbeitsdichte, früh eine hohe Verantwortung und ökonomischer Druck: Für junge Ärztinnen und Ärzte ist der Berufseinstieg oft schwierig. Die Unzufriedenheit steht in großem Kontrast zu den Idealen. Ein Problem, das langsam erkannt wird. Arp, Anja www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
-      }
-    },
-    {
-      "title": "Geschichte der USA - Der Häuptling und der Bierbrauer",
-      "url": "https://www.deutschlandfunkkultur.de/chief-metacom-die-puritaner-und-ein-bierbrauer-100.html",
-      "description": "Der erste indigene Widerstandskrieg Nordamerikas endet mit dem Tod von Metacomet, Häuptling der Wampanoags, am 12.08.1676. Ein Bierfabrikant errichtet Jahre später eine Gedenkstätte gegen das kollektive Vergessen der Verbrechen an den Indianern. Sobich, Nora www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -180,6 +164,38 @@
       }
     },
     {
+      "title": "9/11 als Medienereignis - Wenn Terror auf spektakuläre Bilder setzt",
+      "url": "https://www.deutschlandfunkkultur.de/breaking-news-9-11-als-medienereignis-100.html",
+      "description": "Die Anschläge auf das World Trade Center in New York am 11. September 2001 erschütterten die Welt - auch durch dramatische Bilder in Echtzeit. Medien verstärkten die Wirkung des Terrors. Welche Lehren lassen sich aus der Berichterstattung ziehen? Spittler, Christoph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 09 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Nach 9/11 - Die lange Spur des Islamismus in Deutschland",
+      "url": "https://www.deutschlandfunkkultur.de/25jahre-nach-9-11-die-lange-spur-des-islamismus-in-deutschland-100.html",
+      "description": "Die Anschläge vom 11. September 2001 in den USA haben auch Deutschlands Sicherheitsarchitektur grundlegend verändert: Sie schufen ein neues Bewusstsein für die Gefahr. Al-Qaida oder der IS rückten in den Fokus - und mit ihnen weitere Islamisten. Röhmel, Joseph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 07 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "80 Jahre RIAS - Nachbar, Popstar, kalter Krieger",
       "url": "https://www.deutschlandfunkkultur.de/nachbar-popstar-kalter-krieger-80-jahre-rias-100.html",
       "description": "Mit dem Kalten Krieg wurde ein Radiosender zur Stimme Westberlins. Millionen Menschen, auch in der DDR, hörten dem Radio im amerikanischen Sektor zu. Der RIAS berichtete über Blockade, Aufstand und Mauerbau. Vor 80 Jahren ging er auf Sendung. Von Ralf Bei der Kellen, Martin Hartwig und Lydia Heller www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -208,22 +224,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 5,
-        "total": 15
-      }
-    },
-    {
-      "title": "Vietnamesisch altern - Die Community hilft sich vor allem selbst",
-      "url": "https://www.deutschlandfunkkultur.de/altern-auf-vietnamesisch-die-community-hilft-sich-vor-allem-selbst-100.html",
-      "description": "In Deutschland leben rund 200.000 Menschen mit vietnamesischen Wurzeln. Wenn ältere Angehörige der \"ersten Generation\" kultursensible Pflege benötigen, finden sie vor allem in der Community Unterstützung: für ihre Kinder oft keine einfache Situation. Rubarth, Christina www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 17 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 15
       }
     },

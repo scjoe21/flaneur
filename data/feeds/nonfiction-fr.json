@@ -1,8 +1,40 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-09-06T19:08:13.690850+00:00",
+  "fetchedAt": "2026-09-11T08:29:04.514793+00:00",
   "items": [
+    {
+      "title": "Saint-Nazaire au travail : les marins de l'estuaire",
+      "url": "https://www.nonfiction.fr/article-12810-saint-nazaire-au-travail-les-marins-de-lestuaire.htm",
+      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
+      "date": "Tue, 01 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Saint-Nazaire au travail : les artisans de la mer",
+      "url": "https://www.nonfiction.fr/article-12827-saint-nazaire-au-travail-les-artisans-de-la-mer.htm",
+      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
+      "date": "Mon, 24 Aug 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Louise Glück : les recettes de l’hiver",
       "url": "https://www.nonfiction.fr/article-12822-louise-gluck-les-recettes-de-lhiver.htm",
@@ -132,42 +164,10 @@
       }
     },
     {
-      "title": "Portrait de Paul Auster en revenant",
-      "url": "https://www.nonfiction.fr/article-12783-portrait-de-paul-auster-en-revenant.htm",
-      "description": "Siri Hustvedt, qui explore dans ses romans et ses essais les liens entre identité, mémoire, art, psychanalyse et neurosciences, a mené une carrière littéraire indépendante de celle de son mari, Paul Auster, mondialement connu. Elle lui rend hommage dans un livre passionnant, sur la couverture duquel figure une photo très émouvante et qui témoigne de leur grande complicité et d’une entente parfaite, difficile à imaginer dans un couple d’écrivains : il murmure à son oreille (des mots dont nous ne ",
-      "date": "Thu, 09 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Aux origines imaginaires d’une musique née de l’ombre",
       "url": "https://www.nonfiction.fr/article-12792-aux-origines-imaginaires-dune-musique-nee-de-lombre.htm",
       "description": "Avec  Le Creuset des sorciers , Paul Greveillac livre un roman d’une grande ambition formelle et poétique, qui explore la Louisiane du début du XIXᵉ siècle à travers une idée centrale : la musique peut naître au cœur même de la contrainte, et se constituer comme langage de survie, de mémoire et de création. \r\n\r\n Le récit s’attache à Jean-Baptiste, jeune esclave arraché à son enfance et plongé dans l’univers impitoyable des plantations sucrières. Greveillac ne se limite pas à une reconstitution h",
       "date": "Sat, 11 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Siri Hustvedt et Paul Auster : rapport sur le chagrin du deuil",
-      "url": "https://www.nonfiction.fr/article-12798-siri-hustvedt-et-paul-auster-rapport-sur-le-chagrin-du-deuil.htm",
-      "description": "Siri Hustvedt, célèbre poète et romancière, mais aussi l’épouse du grand écrivain Paul Auster depuis quarante ans, l’a vu agoniser et mourir le 3 avril 2024 à 18h58, dans son bureau de leur maison, à Brooklyn. Au mois de janvier 2023, on lui avait diagnostiqué un cancer du poumon. Des signes inquiétants avaient déjà été décelés lors d’un scanner, réalisé au mois de novembre 2022. Le radiologue avait constaté une masse dans le poumon droit, qui était possiblement un cancer. \r\n\r\n Il ne restait à P",
-      "date": "Thu, 09 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
