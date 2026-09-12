@@ -1,24 +1,8 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-11T21:16:15.977107+00:00",
+  "fetchedAt": "2026-09-12T18:29:58.899508+00:00",
   "items": [
-    {
-      "title": "500ドルの偽高級腕時計を買ってみた。誰も本物との違いに気づかなかった",
-      "url": "https://wired.jp/article/we-bought-a-counterfeit-rolex-so-good-even-rolex-didnt-spot-it/",
-      "description": "レプリカ腕時計業界は「スーパークローン」の時代を迎えている。『WIRED』はネット上の専門コミュニティを頼りに、本物として通用するほど精巧な偽物時計を3本購入した。しかし、結局は長く愛用できるような代物ではなかった。",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
     {
       "title": "アウディの新型EV「A2 e-tron」が示す、“効率”についての四半世紀越しの回答",
       "url": "https://wired.jp/article/audi-a2-e-tron-efficiency/",
@@ -49,6 +33,70 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Siri AIで何ができるようになる？ 新機能を紹介",
+      "url": "https://wired.jp/article/everything-new-you-can-do-with-siri-ai/",
+      "description": "iOS 27の登場とともに、iPhoneの音声アシスタントが全面的に刷新される。年内に日本語にも対応する予定だ。",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "人間性と折り合いをつけながら未来へと向かうこと：プリ・アルスエレクトロニカ2026の見どころ",
+      "url": "https://wired.jp/article/prixarselectronica-2026/",
+      "description": "「アルスエレクトロニカ・フェスティバル」会場で展示されるメディアアートの国際コンペティション「プリ・アルスエレクトロニカ」の受賞作について、プリ・アルスエレクトロニカ・ヘッドの小川絵美子が見どころを説く。",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Anthropicを辞めたAI研究者が警告。「今後1、2年が人類にとって正念場」",
+      "url": "https://wired.jp/article/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
+      "description": "Anthropicを退社し、AI開発競争に強い危機感を表明したジェイコブ・コクソン。競争の加速がAIの安全性にどのようなリスクをもたらすのか、開発速度を抑えるには何が必要なのかを『WIRED』に語った。",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "AIの守護者かシリコンバレーの宮廷画家か──レフィク・アナドルの挑戦",
+      "url": "https://wired.jp/article/sz-refik-anadol-the-art-worlds-happy-warrior-for-ai/",
+      "description": "レフィク・アナドルがLAにオープンしたAIアート美術館「Dataland」は、まさにテクノロジーを祝うモニュメントだ。",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -183,54 +231,6 @@
       "title": "OpenAI、数学の大難問をAIが解いたと発表。数学者が研究経緯に異議",
       "url": "https://wired.jp/article/openai-navier-stokes-math-discovery-academics/",
       "description": "OpenAIは、長年未解決だった「ナビエ＝ストークス方程式」を巡る未解決問題の証明をAIが導き出したと発表した。だが別の数学者は、同社が自分たちの研究を知って解決を急ぎ、成果の扱いにも介入しようとしたと主張している。",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "NVIDIAの“スーパーチップ”「RTX Spark」搭載、AI向けPCがお目見え",
-      "url": "https://wired.jp/article/nvidia-rtx-spark-laptops-first-look/",
-      "description": "「IFA 2026」で、NVIDIAの新チップ「RTX Spark」を搭載したノートPCやミニPCが登場した。AIモデルをコンピューター上で直接動かすことを前提にした新型PCが相次いで発表されている。",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "大気圏突入が近づくNASAのスウィフト宇宙望遠鏡、最後のミッションに挑む",
-      "url": "https://wired.jp/article/nasa-swift-telescope-final-observations/",
-      "description": "老朽化したNASAの観測衛星「スウィフト」の軌道を引き上げるはずだった救出ミッションが頓挫し、年内の大気圏突入が濃厚になっている。運用限界が迫るなか、搭載された2つの宇宙望遠鏡が再起動され、最後の観測が始まった。",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "アップルの9月イベントがまもなく開催──視聴方法と予想される発表内容",
-      "url": "https://wired.jp/article/how-to-watch-apple-iphone-september-event-2026/",
-      "description": "アップル恒例の秋の新製品発表イベントは、折り畳み式iPhone登場が予想されるほか、新CEOを迎えて、例年とはひと味違う雰囲気になりそうだ。",
       "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",

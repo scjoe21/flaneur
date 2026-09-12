@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-09-11T21:15:58.779784+00:00",
+  "fetchedAt": "2026-09-12T18:29:42.257837+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -196,19 +196,19 @@
       }
     },
     {
-      "title": "Politische Extreme - Deutsche Ikonografie: Das flammende Bild an der Wand",
-      "url": "https://www.deutschlandfunk.de/deutsche-ikonographie-das-flammende-bild-an-der-wand-korrektur-historischer-fehlinterpretationen-100.html",
-      "description": "Politische Extreme und Populismus scheinen gegen die Demokratie gerichtet zu sein. Es gilt sie als Teil der Demokratie zu verstehen, meint Kunsttheoretiker Bazon Brock. Einer Demokratie, die im Kern aus Streit und Auseinandersetzung der Bürger besteht. Von Bazon Brock www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 31 May 2026",
+      "title": "Nach 9/11 - Der tötende Mensch - Folgen der dissoziativen Globalisierung",
+      "url": "https://www.deutschlandfunk.de/der-toetende-mensch-folgen-der-dissoziativen-globalisierung-100.html",
+      "description": "9/11 markiert eine Zeitenwende. Mit Terror und Krieg in diesem Ausmaß tritt der tötende Mensch ins Zentrum der Geschichte, einer Geschichte der dissoziativen Globalisierung als Epoche neuer Feindbilder. Demuth, Volker www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 13 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 10
+        "novelty": 0,
+        "total": 5
       }
     },
     {

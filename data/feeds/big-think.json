@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-11T21:15:52.604718+00:00",
+  "fetchedAt": "2026-09-12T18:29:36.795922+00:00",
   "items": [
     {
       "title": "How to debate, from a two-time world champion",
@@ -148,19 +148,19 @@
       }
     },
     {
-      "title": "NASA image shows Earth’s lumpiness — exaggerated 10,000 times",
-      "url": "https://bigthink.com/strange-maps/nasa-geoid-potato-earth/",
-      "description": "No, the Earth is not flat. But it’s not exactly  round  either. Nor is it — let us stop you right there, smartypants — an oblate spheroid. \n Close enough, but not a geoid \n An oblate spheroid is a geometrically smooth model of our planet that, due to its rotation, bulges at the equator and flattens at the poles. While it is close enough to be used by GPS systems, for instance, it’s not  quite  right: It doesn’t account for the lumpiness of our actual Earth.  \n The technical term for the model th",
-      "date": "Tue, 08 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/Cropped-Potato-Earth.png?quality=80&w=640",
+      "title": "Beyond the Odyssey: A beginner’s guide to Greek mythology",
+      "url": "https://bigthink.com/books/a-beginners-guide-to-greek-mythology/",
+      "description": "The success of Christopher Nolan’s  The Odyssey  (2026) has motivated many moviegoers to  pick up their own copy  of the ancient poem. But while Homer’s take on the tale of Odysseus is one of the most famous classical texts to have survived into modern times, it’s hardly the only one worth reading. And for those looking to dive deeper into Greek myth, it may not even be the best place to start.  \n We wanted to put together a beginner’s guide to Greek mythology and literature, but to do it right,",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/beginners-guide-to-greek-myths.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     }
   ]

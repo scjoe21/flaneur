@@ -1,24 +1,8 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-11T21:15:54.032605+00:00",
+  "fetchedAt": "2026-09-12T18:29:37.893280+00:00",
   "items": [
-    {
-      "title": "How Two Souls Can Interact with One Another: Simone de Beauvoir on Love and Friendship",
-      "url": "https://www.themarginalian.org/2026/09/05/simone-de-beauvoir-love-friendship/",
-      "description": "It is in relationships that we discover both our depths and our limits, there that we anneal ourselves and transcend ourselves, there that we are hurt the most and there that we find the most healing. But despite what a crucible of our emotional and spiritual lives relationships are — or perhaps precisely because of it — they can be riddling and nebulous, destabilizing in their fluidity and ambiguity, leaving us grasping for the comforting solidity of categories and labels. The ancient Greeks, i",
-      "date": "Sat, 05 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
-      }
-    },
     {
       "title": "How to Change Your Life",
       "url": "https://www.themarginalian.org/2026/09/09/how-to-change-your-life/",
@@ -52,6 +36,38 @@
       }
     },
     {
+      "title": "The Unspeakable World: Alan Watts on How to Touch the Pulse of Life",
+      "url": "https://www.themarginalian.org/2026/09/10/alan-watts-unspeakable-world/",
+      "description": "What makes life so disorienting is that its greatest revelations and greatest transformations are inarticulable. William James knew this when he listed ineffability as the first of the four features of transcendent experiences. Everything beautiful and meaningful, from the grand elations to the small gladnesses that make life worth living, is irreducible to words, is sand slipping through the fingers of language as we try to capture it. Although we can transcend the limits of any one language by",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "Why Leaves Change Color and How We Become Who We Are: The Science of Chlorophyll and the Poetics of Personhood",
+      "url": "https://www.themarginalian.org/2026/09/11/why-leaves-change-color/",
+      "description": "\"We reach forth and strain every nerve, but we seize only a bit of the curtain that hides the infinite from us.\"",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "How Not to Waste Your Wildness",
       "url": "https://www.themarginalian.org/2026/09/07/dont-waste-your-wildness/",
       "description": "\"What is wild cannot be bought or sold, borrowed or copied. It is. Unmistakable, unforgettable, unshamable, elemental as earth and ice, water, fire and air, a quintessence, pure spirit, resolving into no constituents. Don't waste your wildness: it is precious and necessary. In wildness, truth.\"",
@@ -68,6 +84,22 @@
       }
     },
     {
+      "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
+      "url": "https://www.themarginalian.org/2026/09/11/dostoyevsky-dream/",
+      "description": "\"And it is so simple... You will instantly find how to live.\"",
+      "date": "Fri, 11 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "How to Break Free from the Tyranny of Certainty: The Japanese Concept of “Ma”",
       "url": "https://www.themarginalian.org/2026/09/07/ma/",
       "description": "“Whatever inspiration is, it’s born from a continuous ‘I don’t know,'” the Polish poet Wisława Szymborska observed in her magnificent Nobel Prize acceptance speech. But despite all we know about the power of liminality and threshold states, we yearn for a firm foothold on one side of every blurry line and move through the fundamental mystery of life armored in opinions, mistaking the magnitude of our surety for the measure of the truth, resisting with every fiber of our being the fertile, flicke",
@@ -81,22 +113,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "How to Reconcile Your Most Painful Mistakes: The Life-Shaping Difference Between Regret and Remorse",
-      "url": "https://www.themarginalian.org/2026/09/05/regret-remorse/",
-      "description": "You know it, that awful moment your coherent self-image shatters and a part of you, shadowy and untended, splits off to cause harm and havoc as the rest of you watches helplessly, wincing. You know the next moment, too — the desperate wish for an undo button you know cannot be had, no matter your protestations and prostrations. It is a seductive dream, to have an unregetting life, but it is also a dangerous dream, for it dooms us to the living nightmare of perfection, that punitive negation of o",
-      "date": "Sat, 05 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -164,38 +180,6 @@
       }
     },
     {
-      "title": "Erich Fromm’s 6 Rules of Listening: The Great Humanistic Philosopher and Psychologist on the Art of Unselfish Understanding",
-      "url": "https://www.themarginalian.org/2026/09/06/erich-fromm-the-art-of-listening/",
-      "description": "\"Understanding and loving are inseparable. If they are separate, it is a cerebral process and the door to essential understanding remains closed.\"",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "The Most Important Thing to Remember About Your Mother",
-      "url": "https://www.themarginalian.org/2026/09/05/florida-scott-maxwell-mother/",
-      "description": "\"It is not easy to give closeness and freedom, safety plus danger.\"",
-      "date": "Sat, 05 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "The True Purpose of Tarot",
       "url": "https://www.themarginalian.org/2026/09/06/alejandro-jorodowsky-tarot/",
       "description": "“Nothing like this has ever happened before or will ever happen again,” a friend said to me about a lucky turn of events — a statement that struck me as touchingly self-negating: a recognition that life has violated her predictions about what is possible, immediately followed by a reassertion of unquestioned confidence in her powers of prediction. The very fact that life surprises us is evidence that it can surprise us, that it will surprise us over and over. To mistake our theories of probabili",
@@ -225,6 +209,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "A Beginning, Not a Decline: Colette on the Splendor of Autumn and the Autumn of Life",
+      "url": "https://www.themarginalian.org/2026/09/11/colette-autumn/",
+      "description": "In praise of \"the gaiety of those who have nothing more to lose and so excel at giving.\"",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

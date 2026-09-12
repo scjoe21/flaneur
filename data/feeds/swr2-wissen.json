@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-11T21:16:02.176115+00:00",
+  "fetchedAt": "2026-09-12T18:29:45.815375+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Epigenetik – Wie beeinflusst die Umwelt unsere Gene?",
+      "url": "https://www.swr.de/swrkultur/wissen/epigenetik-wie-beeinflusst-die-umwelt-unsere-gene-100.html",
+      "description": "Werden Traumata und schlechte Ernährungsgewohnheiten \"vererbt\"? So einfach, wie oft dargestellt, sind die Vorgänge nicht. Die Epigenetik hat die Biologie jedoch revolutioniert.",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
       }
     },
     {
@@ -104,22 +120,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/suizide-wie-lassen-sie-sich-verhindern-102.html",
       "description": "Es gibt wirksame Therapien und Hilfsangebote, aber nationale Präventionsprogramme für besonders gefährdete Personen fehlen: Männer, Ältere, psychisch Kranke und Alkoholabhängige.",
       "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "BAföG, Stipendien, Kredite – Die Reform der Studienfinanzierung",
-      "url": "https://www.swr.de/swrkultur/wissen/bafoeg-stipendien-kredite-die-reform-der-studienfinanzierung-100.html",
-      "description": "Viele Studierende beantragen kein Bafög aus Angst vor Schulden. Aber 500 Euro für ein WG-Zimmer muss man sich leisten können. Fachleute fordern eine Reform der Studienfinanzierung.",
-      "date": "Sat, 29 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
