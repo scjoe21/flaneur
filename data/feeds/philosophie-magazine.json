@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-12T18:29:17.705803+00:00",
+  "fetchedAt": "2026-09-13T19:26:09.948175+00:00",
   "items": [
     {
       "title": "Comment trouver le bon mot ? Dans les coulisses des humoristes",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Edgar Morin en Californie : la ruée vers les concepts",
+      "url": "https://www.philomag.com/articles/edgar-morin-en-californie-la-ruee-vers-les-concepts",
+      "description": "",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/se-soucier-de-son-ame-le-vibrant-appel-damelie-nothomb",
       "description": "",
       "date": "Mon, 07 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Que faire face aux sirènes de la nostalgie ? La réponse du philosophe Éric Fiat",
-      "url": "https://www.philomag.com/articles/que-faire-face-aux-sirenes-de-la-nostalgie-la-reponse-du-philosophe-eric-fiat",
-      "description": "",
-      "date": "Sat, 05 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

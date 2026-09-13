@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-09-12T18:29:49.032440+00:00",
+  "fetchedAt": "2026-09-13T19:26:49.176662+00:00",
   "items": [
     {
       "title": "History shows that human progress is a myth | John Gray, Jonny Thomson",
@@ -180,6 +180,22 @@
       }
     },
     {
+      "title": "The West's addiction to violence | Kishore Mahbubani",
+      "url": "https://www.youtube.com/shorts/CukOUFtDSE0",
+      "description": "",
+      "date": "2026-09-13",
+      "thumbnail": "https://i4.ytimg.com/vi/CukOUFtDSE0/hqdefault.jpg",
+      "videoId": "CukOUFtDSE0",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Do animals know what death is? | John Gray",
       "url": "https://www.youtube.com/shorts/52AY2NC1M7Y",
       "description": "",
@@ -218,22 +234,6 @@
       "date": "2026-08-29",
       "thumbnail": "https://i2.ytimg.com/vi/y6idxiG9rfg/hqdefault.jpg",
       "videoId": "y6idxiG9rfg",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Is Trump a Russian asset? | Christopher Steele",
-      "url": "https://www.youtube.com/shorts/ZChVI0i528E",
-      "description": "",
-      "date": "2026-08-26",
-      "thumbnail": "https://i3.ytimg.com/vi/ZChVI0i528E/hqdefault.jpg",
-      "videoId": "ZChVI0i528E",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

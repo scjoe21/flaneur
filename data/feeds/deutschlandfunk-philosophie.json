@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-12T18:29:19.984124+00:00",
+  "fetchedAt": "2026-09-13T19:26:12.857257+00:00",
   "items": [
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Positives Denken – Warum Hoffnung in schwierigen Zeiten wichtig ist",
+      "url": "https://www.deutschlandfunkkultur.de/tag-des-positiven-denkens-ohne-hoffnung-sind-wir-blind-100.html",
+      "description": "Hoffnung braucht keine besonders guten Erfolgsaussichten, um vernünftig zu sein. So sieht es die Philosophin Christine Bratu. Für sie ist positives Denken keine Schönfärberei, sondern eine wichtige Kraft für unser Handeln. Bratu, Christine www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
       "title": "Hegemonie - Der Kampf um Deutungshoheit",
       "url": "https://www.deutschlandfunkkultur.de/hegemonie-der-kampf-um-deutungshoheit-100.html",
       "description": "Migration, Klima, Sozialstaat: Der gesellschaftliche Konsens hat sich in vielen Bereichen verschoben. Zeichnet sich hier eine neue Hegemonie ab? Was meint das Konzept bei seinem Begründer Gramsci? Und wie verändern sich hegemoniale Ordnungen? Rohde, Stephanie; Opratko, Benjamin www.deutschlandfunkkultur.de, Sein und Streit",
@@ -52,22 +68,6 @@
       }
     },
     {
-      "title": "Pychotherapie - Satz für Satz den Kreislauf des Traumas durchbrechen",
-      "url": "https://www.deutschlandfunkkultur.de/psychische-gesundheit-trauma-ist-das-neue-cholesterin-100.html",
-      "description": "Trauma ist zu Recht ein Schlüsselwort unserer Zeit, meint Maggie Schauer. Ppsychische wie körperliche Auswirkungen von Gewalt prägten ganze Gesellschaften. Die Psychologin erklärt, wie die narrative Expositionstherapie bei der Heilung helfen kann. Schauer, Maggie; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 26 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
       "title": "Tourismus - Die koloniale Kehrseite des Reisens",
       "url": "https://www.deutschlandfunkkultur.de/tourismus-die-koloniale-kehrseite-der-reisewut-100.html",
       "description": "Sommer bedeutet für viele Menschen in Deutschland: verreisen. Aber wer darf sich auf der Welt eigentlich bewegen und wer nicht? Für Sinthujan Varatharajah ist Tourismus keine harmlose Freizeitbeschäftigung, sondern Teil einer kolonialen Gegenwart. Rohde, Stephanie; Varatharajah, Sinthujan www.deutschlandfunkkultur.de, Sein und Streit",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 15
+      }
+    },
+    {
+      "title": "Rechtes Denken und die Sehnsucht nach Erlösung",
+      "url": "https://www.deutschlandfunkkultur.de/rechtes-denken-von-dugin-bis-thiel-sehnsucht-nach-erloesung-100.html",
+      "description": "Wir leben in Krisenzeiten mit apokalyptischer Stimmung. Gerade rechtes Denken bezieht sich stark auf die Endzeit und das Böse in der Welt, erklärt der Kulturtheoretiker Jens Balzer. Newmark, Catherine; Balzer, Jens www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-1-kindheit-zwischen-entfaltung-und-entfremdung-100.html",
       "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Tag der nonbinären Menschen: Eine Revolution der Geschlechterordnung",
-      "url": "https://www.deutschlandfunkkultur.de/tag-der-nonbinaeren-menschen-eine-revolution-der-geschlechterordnung-100.html",
-      "description": "Bratu, Christine www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

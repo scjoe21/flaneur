@@ -1,8 +1,24 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-09-12T18:29:40.574810+00:00",
+  "fetchedAt": "2026-09-13T19:26:39.696635+00:00",
   "items": [
+    {
+      "title": "« Saint-Nazaire au travail »",
+      "url": "https://www.nonfiction.fr/article-12854-saint-nazaire-au-travail.htm",
+      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Nonfiction partage, par épisodes, les propos recueillis auprès de ces travailleurs, dans une série intitulée « Saint-Nazaire au travail ».  \r\n\r\n  L’intégralité des récits sur ce thème sont à découvrir sur le site de la Compagnie Pourquoi se",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
     {
       "title": "Saint-Nazaire au travail : les marins de l'estuaire",
       "url": "https://www.nonfiction.fr/article-12810-saint-nazaire-au-travail-les-marins-de-lestuaire.htm",
@@ -132,19 +148,19 @@
       }
     },
     {
-      "title": "« L’Immatériel » d’André Gorz : un livre de résistance",
-      "url": "https://www.nonfiction.fr/article-12800-limmateriel-dandre-gorz-un-livre-de-resistance.htm",
-      "description": "Dans cet entretien, mené en partenariat avec la  Fondation de l’Ecologie Politique , Christophe Fourel revient sur la nouvelle édition augmentée de  L’Immatériel  (Galilée, 2003 ; rééd. augmentée Folio, 2026), dont il a signé la préface avec Cédric Villani. \r\n\r\n À l’automne, Christophe Fourel organise deux journées d’études à l’École Normale Supérieure de Paris intitulées « André Gorz : Existence, Socialisme et Écologie » (8 et 9 octobre 2026, dates à confirmer), en partenariat avec la Fondation",
-      "date": "Fri, 10 Jul 2026",
+      "title": "La guerre d’Espagne, autopsie de la démocratie",
+      "url": "https://www.nonfiction.fr/article-12844-la-guerre-despagne-autopsie-de-la-democratie.htm",
+      "description": "De juillet 1936 à 1939, les franquistes exécutent 120 000 personnes. Au-delà de ce seul chiffre, comprendre la guerre d’Espagne implique une plongée dans les années 20 et 30 afin de saisir la dimension symbolique portée par cette guerre. Les historiens Mercedes Yusta, François Godicheau et Pierre Salmon proposent un livre écrit à six mains qui réinscrit cette guerre dans l’histoire européenne, et plus largement celle du XX e  siècle. Face au soutien d’Hitler et de Mussolini à Franco, les interve",
+      "date": "Sun, 13 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -161,22 +177,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Aux origines imaginaires d’une musique née de l’ombre",
-      "url": "https://www.nonfiction.fr/article-12792-aux-origines-imaginaires-dune-musique-nee-de-lombre.htm",
-      "description": "Avec  Le Creuset des sorciers , Paul Greveillac livre un roman d’une grande ambition formelle et poétique, qui explore la Louisiane du début du XIXᵉ siècle à travers une idée centrale : la musique peut naître au cœur même de la contrainte, et se constituer comme langage de survie, de mémoire et de création. \r\n\r\n Le récit s’attache à Jean-Baptiste, jeune esclave arraché à son enfance et plongé dans l’univers impitoyable des plantations sucrières. Greveillac ne se limite pas à une reconstitution h",
-      "date": "Sat, 11 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-09-12T18:29:49.597355+00:00",
+  "fetchedAt": "2026-09-13T19:26:49.793086+00:00",
   "items": [
     {
       "title": "Rope, Twine and Thread: Invisible Technologies of the Stone Age",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Gondwana Really Was a Supercontinent",
+      "url": "https://nautil.us/gondwana-really-was-a-supercontinent-1284991/",
+      "description": "And it helped kick‑start life on Earth \n The post  Gondwana Really Was a Supercontinent  appeared first on  Nautilus .",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/AdobeStock_463806885.jpeg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
       }
     },
     {
@@ -137,22 +153,6 @@
       "description": "These bulky units can link qubits together like never before \n The post  Inside IBM’s New Quantum Computing Fridges, 180 Times Colder Than Deep Space  appeared first on  Nautilus .",
       "date": "Fri, 11 Sep 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-fridge.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Natural Solution to the Replication Crisis in Science",
-      "url": "https://nautil.us/a-natural-solution-to-the-replication-crisis-in-science-1284942/",
-      "description": "Dear scientists: Follow the ants \n The post  A Natural Solution to the Replication Crisis in Science  appeared first on  Nautilus .",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2642837385.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-12T18:29:37.893280+00:00",
+  "fetchedAt": "2026-09-13T19:26:36.472937+00:00",
   "items": [
     {
       "title": "How to Change Your Life",
@@ -17,6 +17,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 33
+      }
+    },
+    {
+      "title": "The Fascinating Science of How We Think Not with the Brain But with the World",
+      "url": "https://www.themarginalian.org/2026/09/13/the-extended-mind/",
+      "description": "\"By reaching beyond the brain... we are able to focus more intently, comprehend more deeply, and create more imaginatively — to entertain ideas that would be literally unthinkable by the brain alone.\"",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -49,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
+      "url": "https://www.themarginalian.org/2026/09/12/pessoa-explorer/",
+      "description": "Life is an ongoing expedition into the brambled tendrilled wilderness of ourselves, continually stymied by all we mistake for a final destination — success, superhuman strength, the love of another. Along the way, we keep confusing experiment and exploration. An experiment proves or disproves an existing theory; its payoff is data, fixed and binary. An exploration is a traversal of the unknown, of landscapes you didn’t even know existed, with all the courage and vulnerability and openness to exp",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -116,22 +148,6 @@
       }
     },
     {
-      "title": "How to Apologize: Reflections on Forgiveness, Self-Forgiveness, and the Vulnerabilities of Being Human",
-      "url": "https://www.themarginalian.org/2026/09/06/how-to-apologize-ellen-bass/",
-      "description": "\"It's permitted to receive solace for whatever you did or didn't do, pitiful, beautiful human.\"",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
       "title": "Albert Camus on the Source of Strength and How to Save Our Sanity in Trying Times",
       "url": "https://www.themarginalian.org/2026/09/10/albert-camus-almond-trees-character/",
       "description": "\"In the depths of winter, I finally learned that within me there lay an invincible summer.\"",
@@ -177,22 +193,6 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 10
-      }
-    },
-    {
-      "title": "The True Purpose of Tarot",
-      "url": "https://www.themarginalian.org/2026/09/06/alejandro-jorodowsky-tarot/",
-      "description": "“Nothing like this has ever happened before or will ever happen again,” a friend said to me about a lucky turn of events — a statement that struck me as touchingly self-negating: a recognition that life has violated her predictions about what is possible, immediately followed by a reassertion of unquestioned confidence in her powers of prediction. The very fact that life surprises us is evidence that it can surprise us, that it will surprise us over and over. To mistake our theories of probabili",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {

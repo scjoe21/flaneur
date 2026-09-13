@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-12T18:29:58.899508+00:00",
+  "fetchedAt": "2026-09-13T19:26:57.302182+00:00",
   "items": [
+    {
+      "title": "「スロップ・ジハード」──生成AIが生み出した、ミーム・プロパガンダの不穏な進化",
+      "url": "https://wired.jp/article/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
+      "description": "イスラム過激派を支持する新たな世代が、生成AIで「スロップ・ジハード(Slop Jihad)」を生み出している。暴力的なプロパガンダをスポンジ・ボブ風に加工し、TikTokを通じて新たな層へ拡散している。",
+      "date": "Sun, 13 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "アウディの新型EV「A2 e-tron」が示す、“効率”についての四半世紀越しの回答",
       "url": "https://wired.jp/article/audi-a2-e-tron-efficiency/",
@@ -20,19 +36,51 @@
       }
     },
     {
-      "title": "「iPhone Duo」の投入というアップルの挑戦",
-      "url": "https://wired.jp/article/iphone-duo-apple-first-foldable/",
-      "description": "アップルが同社初の折り畳みスマートフォン「iPhone Duo」を発表した。すでに他社が先行する市場において“iPhoneが折り畳める”こと以上の価値を訴求できるのか、新CEOにとっても大きな挑戦となる。",
-      "date": "Thu, 10 Sep 2026",
+      "title": "スピルバーグは『ディスクロージャー・デイ』で過去のヒット作を再生する",
+      "url": "https://wired.jp/article/disclosure-day-movie-review/",
+      "description": "スピルバーグの最新作『ディスクロージャー・デイ』は、『未知との遭遇』や『マイノリティ・リポート』『ペンタゴン・ペーパーズ／最高機密文書』といった彼の作品を想起させる。",
+      "date": "Sun, 13 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "幽霊粒子「ニュートリノ」を捕まえる、科学者たちの巨大な実験装置",
+      "url": "https://wired.jp/article/inside-experimental-traps-scientists-set-for-neutrinos/",
+      "description": "ニュートリノ研究は、検出不可能と思われた粒子を追う、まるで「幽霊狩り」のような実験から始まった。鉱山の坑内や南極の氷床の奥深くなど、さまざまな場所に観測施設が建設されてきた。",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "「危機感がないのは議員がバカだからではない」──バーニー・サンダースが語るAIと民主主義｜The Big Interview",
+      "url": "https://wired.jp/article/sz-the-big-interview-podcast-senator-bernie-sanders/",
+      "description": "巨大テック企業やひと握りの超富裕層、野放しのAIに対する国民の不満が頂点に達しつつある米国で、富の集中が民主主義を脅かすと訴え続けてきたサンダース上院議員が『WIRED』の独占インタビューに応じた。",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/apple-watch-series-12-apple-watch-ultra-4/",
       "description": "アップルの最新スマートウォッチ「Apple Watch Series 12」と「Apple Watch Ultra 4」が登場。高速化したチップや拡充された健康・フィットネス機能、新しいSiriを搭載し、セラミックケースも復活した。",
       "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "アップルが2026年9月に発表した新製品まとめ──新CEOが「iPhone Duo」などをお披露目",
-      "url": "https://wired.jp/article/everything-apple-announced-september-2026/",
-      "description": "アップルの9月のイベントでは、新CEOのもと、初の折り畳み式iPhoneをはじめ、iPhone 18 Pro、新型Apple WatchやAirPodsなどが発表された。",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "アップルが「iPhone Duo」を発表。初の折り畳みモデル",
-      "url": "https://wired.jp/article/apple-debuts-the-iphone-duo-its-first-folding-iphone/",
-      "description": "折り畳み式ディスプレイを備えた「iPhone Duo」は、アップルのフラッグシップ端末としては数年ぶりとなる抜本的なモデルチェンジだ。価格は36万4,800円からで、10月23日に発売される。",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "OpenAI、数学の大難問をAIが解いたと発表。数学者が研究経緯に異議",
-      "url": "https://wired.jp/article/openai-navier-stokes-math-discovery-academics/",
-      "description": "OpenAIは、長年未解決だった「ナビエ＝ストークス方程式」を巡る未解決問題の証明をAIが導き出したと発表した。だが別の数学者は、同社が自分たちの研究を知って解決を急ぎ、成果の扱いにも介入しようとしたと主張している。",
-      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

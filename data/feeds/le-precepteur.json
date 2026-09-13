@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-12T18:29:15.974335+00:00",
+  "fetchedAt": "2026-09-13T19:26:08.926387+00:00",
   "items": [
     {
       "title": "Le pari de Pascal",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 44
+      }
+    },
+    {
+      "title": "D'où vient votre jalousie ?",
+      "url": "https://www.youtube.com/shorts/jSsuDKLdVmo",
+      "description": "Au XIXe siècle, Friedrich Nietzsche s’intéresse aux sentiments qui se cachent derrière nos jugements moraux. Dans cette vidéo, je vous explique comment, selon lui, la frustration peut se transformer en ressentiment et nous pousser à mépriser ce que nous désirons secrètement, jusqu’à présenter notre impuissance comme une forme de supériorité morale.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #nietzsche #ressentiment #frustration #morale #psychologie #désir",
+      "date": "2026-09-13",
+      "thumbnail": "https://i3.ytimg.com/vi/jSsuDKLdVmo/hqdefault.jpg",
+      "videoId": "jSsuDKLdVmo",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "La colère ne résout rien",
-      "url": "https://www.youtube.com/shorts/UkKLouOc8Z0",
-      "description": "Les stoïciens le disent clairement : la colère n'apporte que des problèmes et des regrets. Elle aggrave les situations au lieu de les améliorer. Pour les stoïciens, la colère est un signe d'attachement à une vision idéalisée du monde. Bien que nous ne décidions pas consciemment de nous mettre en colère, nous lui donnons notre assentiment en nourrissant cette émotion par nos pensées.\n \n➡️ Mon livre \"Les 10 Principes du stoïcisme\" : https://amzn.to/4eav3pd\n \n#stoicisme #colère #gestiondesémotions ",
-      "date": "2026-07-29",
-      "thumbnail": "https://i2.ytimg.com/vi/UkKLouOc8Z0/hqdefault.jpg",
-      "videoId": "UkKLouOc8Z0",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

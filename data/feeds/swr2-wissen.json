@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-12T18:29:45.815375+00:00",
+  "fetchedAt": "2026-09-13T19:26:44.930349+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Polen rüstet auf – Auf dem Weg zur stärksten Armee der EU",
+      "url": "https://www.swr.de/swrkultur/wissen/polen-ruestet-auf-auf-dem-weg-zur-staerksten-armee-der-eu-100.html",
+      "description": "Seit 2022 steckt Polen viel Geld und Engagement in Aufrüstung und Sicherheit. Das Land will für den Ernstfall gewappnet sein – und trainiert auch Jugendliche an der Waffe.",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Versteckte Botschaften auf Social Media – Was hinter Algospeak steckt",
       "url": "https://www.swr.de/swrkultur/wissen/versteckte-botschaften-auf-social-media-was-hinter-algospeak-steckt-102.html",
       "description": "S€x, s",
@@ -216,22 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/jazz-ikone-nina-simone-mit-musik-gegen-rassismus-102.html",
       "description": "Sie wollte die erste afroamerikanische Konzertpianistin werden, wurde am Konservatorium aber abgelehnt, trotz ihres überragenden Talents. Später schrieb sie Protestsongs und wurde Aktivistin.",
       "date": "Wed, 2 Sep 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Was alle Sprachen verbindet – Die weltweite \"Mama\"",
-      "url": "https://www.swr.de/swrkultur/wissen/was-alle-sprachen-verbindet-die-weltweite-mama-100.html",
-      "description": "Wörter für die eigene Mutter haben in fast allen bekannten Sprachen einen m- oder n-Laut. Die Forschung kennt viele solcher sprachlichen Universalien. Was folgt daraus für die Natur der Sprache?",
-      "date": "Sun, 30 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

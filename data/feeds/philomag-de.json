@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-12T18:29:22.484089+00:00",
+  "fetchedAt": "2026-09-13T19:26:15.956350+00:00",
   "items": [
     {
       "title": "Agnes Callard: „Sokrates hat sich niemals für den schlauesten Menschen im Raum gehalten\"",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Kulturanzeiger – Svenja Flaßpöhler: „Zusammenbleiben. Von der Freiheit fester Bindungen“",
+      "url": "https://www.philomag.de/artikel/kulturanzeiger-svenja-flasspoehler-zusammenbleiben-von-der-freiheit-fester-bindungen",
+      "description": "In unserem  Kulturanzeiger  stellen wir in Zusammenarbeit mit Verlagen ausgewählte Neuerscheinungen vor, machen die zentralen Ideen und Thesen der präsentierten Bücher zugänglich und binden diese durch weiterführende Artikel an die Philosophiegeschichte sowie aktuelle Debatten an. Diesmal im Fokus:  Zusammenbleiben. Von der Freiheit fester Bindungen  von Svenja Flaßpöhler, erschienen bei Klett-Cotta.",
+      "date": "Sat, 12 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "Sehnsucht nach dem Krassen",
       "url": "https://www.philomag.de/artikel/sehnsucht-nach-dem-krassen",
       "description": "Während rechte Parteien in anderen Ländern auf Mäßigung setzen, um für bürgerliche Kreise wählbar zu werden, lautet das Patentrezept der AfD: Durch Radikalisierung zum Erfolg. Warum verfängt das gerade in Deutschland?",
@@ -152,22 +168,6 @@
       "url": "https://www.philomag.de/artikel/verfluessigung-der-gegenwart",
       "description": "Ein roter Faden lässt sich im Gang durch das facettenreiche Werk Michel Foucaults nur schwerlich verfolgen. Das jüngst erschienene Buch  Bedingungen unserer Existenz  stellt nun scharf auf die genealogische Methode Foucaults, in der die Autoren den kritischen Impetus des Philosophen verorten. Denn diese schäle letztlich ein Gespür für die Veränderlichkeit der vermeintlich verkrusteten Gegenwart heraus.",
       "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Maria-Sibylla Lotter: „Man sollte Opfer als selbständige Subjekte behandeln“",
-      "url": "https://www.philomag.de/artikel/maria-sibylla-lotter-man-sollte-opfer-als-selbstaendige-subjekte-behandeln",
-      "description": "Der diesjährige Tractatus-Preis geht an die Philosophin Maria-Sibylla Lotter für ihr Buch  Opfer .  Über Verwundbarkeit als Selbstbild.  Wir haben mit der Preisträgerin über die Aufwertung von Opfern als Fortschritt mit Kehrseite gesprochen.",
-      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
