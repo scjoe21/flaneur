@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-18T08:41:30.899770+00:00",
+  "fetchedAt": "2026-09-18T18:18:51.957325+00:00",
   "items": [
     {
       "title": "J.R.R. Tolkien on How to Fall in Love with Life",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "The Fascinating Science of How We Think Not with the Brain But with the World",
-      "url": "https://www.themarginalian.org/2026/09/13/the-extended-mind/",
-      "description": "\"By reaching beyond the brain... we are able to focus more intently, comprehend more deeply, and create more imaginatively — to entertain ideas that would be literally unthinkable by the brain alone.\"",
-      "date": "Sun, 13 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "How to Promise and How to Keep Promises from Breaking",
       "url": "https://www.themarginalian.org/2026/09/16/how-to-promise-and-how-to-keep-promises-from-breaking/",
       "description": "We are creatures fragmentary but indivisible, each of us a whole that is always simpler than its parts, but complicated by the struggle for a living unison between them. Nothing betrays our partitions more plainly than our promises. False promises — those people make not intending to keep — are easier to comprehend, for they are simply a species of lying: garden-variety violations of trust. But it is our true promises — those we have every intention of keeping — that, when broken, most imperil u",
@@ -65,22 +49,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
-      }
-    },
-    {
-      "title": "How to Be a Good Explorer on the Lifelong Expedition to Yourself",
-      "url": "https://www.themarginalian.org/2026/09/12/pessoa-explorer/",
-      "description": "Life is an ongoing expedition into the brambled tendrilled wilderness of ourselves, continually stymied by all we mistake for a final destination — success, superhuman strength, the love of another. Along the way, we keep confusing experiment and exploration. An experiment proves or disproves an existing theory; its payoff is data, fixed and binary. An exploration is a traversal of the unknown, of landscapes you didn’t even know existed, with all the courage and vulnerability and openness to exp",
-      "date": "Sat, 12 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
       }
     },
     {
@@ -164,6 +132,22 @@
       }
     },
     {
+      "title": "Against the Cartesian Myth of Work/Life Balance: André Gregory’s Extraordinary Letter to Richard Avedon about the Nature of Creativity",
+      "url": "https://www.themarginalian.org/2026/09/18/andre-gregory-richard-avedon-letter/",
+      "description": "Half a millennium into our recovery from the civilizational wound Descartes inflicted by severing the body and the mind, we are bleeding with a Cartesian cleft of our own making — the damaging divide between life and work. The notion of a “workaholic,” often worn as a badge on the lapel of the modern ego, presupposes someone who makes work the central axis of life at the expense of living. The very question of “work/life balance,” inherited from the industrial model of labor, asks us to live in ",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "On Losing a Parent",
       "url": "https://www.themarginalian.org/2026/09/17/on-losing-a-parent/",
       "description": "We spend our lives mastering the art of losing. Our necessary losses shape us; the unnecessary, senseless, devastating losses bend our shape to test our breaking point. We can lose people to life — to conflict, to confusion, to the consequences of their trauma — losses painful precisely because it could be otherwise. We can lose people to death — losses painful because it can’t and never again will be otherwise. Of all our possible losses, the loss of a parent is the least evitable and the most ",
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted",
+      "url": "https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/",
+      "description": "\"Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. Nothing... is ours, except time.\"",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

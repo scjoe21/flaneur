@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-18T08:41:48.625726+00:00",
+  "fetchedAt": "2026-09-18T18:19:12.868844+00:00",
   "items": [
     {
       "title": "トニー・アウスラーが問う、信じることのメカニズムと魔術的な想像力",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "新世代のサーキュラーアウターウェアから、人工物生態系の構築を試みるプロジェクトまで──編集部が注目する5つのトピック【WIRED INSIDER】",
+      "url": "https://wired.jp/article/insider-arcteryx-hack-isseymiyake-bromptonandwander/",
+      "description": "「WIRED INSIDER」では、最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/iphone-settings-ios-27-safari-browser/",
       "description": "アップルはiOS 27で、Safariに自動化やパーソナライズの機能を追加した。ウェブページの変更通知からタブの自動整理まで、日々のブラウジングに役立つ機能が揃っている。",
       "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AIエージェントが、データセンター建設を加速させている",
-      "url": "https://wired.jp/article/story/ai-agents-are-thirsty-for-power/",
-      "description": "シリコンバレーでは、AIの主戦場がシンプルなチャットボットから、より多くの計算資源を必要とするAIエージェントへと移りつつある。各社が巨大なデータセンターの建設を急ぐ背景には、そんな未来を見据えた動きがある。",
-      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

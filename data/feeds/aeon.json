@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-09-18T08:41:26.694098+00:00",
+  "fetchedAt": "2026-09-18T18:18:46.711557+00:00",
   "items": [
     {
       "title": "Once upon a screen: explosive paradox",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Cosmic amnesia",
+      "url": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
+      "description": "A black hole rings like a struck bell, then settles into silence, forgetting almost everything about its history. Why? - by Richard Dyer Read on Aeon",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
       }
     },
     {
@@ -112,22 +128,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Neuroqueering on the lawn",
-      "url": "https://aeon.co/essays/neuroqueer-expression-and-the-limits-of-social-tolerance",
-      "description": "Hans Christian Andersen’s tantrum in Charles Dickens’s garden was a case of ‘too muchness’, emotions bursting past respectability - by Siobhan Unwin & Kathryne Ford Read on Aeon",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 5
       }
     },

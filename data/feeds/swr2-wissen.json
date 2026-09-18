@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-18T08:41:36.470684+00:00",
+  "fetchedAt": "2026-09-18T18:18:59.228943+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -65,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
+      }
+    },
+    {
+      "title": "Professor Chatbot – Wie KI die Forschung beschleunigt und gefährdet",
+      "url": "https://www.swr.de/swrkultur/wissen/professor-chatbot-wie-ki-die-forschung-beschleunigt-und-gefaehrdet-100.html",
+      "description": "KI bewältigt Datenanalysen in Sekunden, hilft bei Diagnostik und Forschungsanträgen. Doch Forschenden droht ein De-Skilling. Schon jetzt fluten Paper Mills die Wissenschaftscommunity.",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -225,22 +241,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
-      }
-    },
-    {
-      "title": "Patriotismus ohne Hass – Geschichte eines liberalen Nationalgefühls",
-      "url": "https://www.swr.de/swrkultur/wissen/patriotismus-ohne-hass-geschichte-eines-liberalen-nationalgefuehls-100.html",
-      "description": "Man kann stolz auf sein Land sein, ohne andere Nationen als Feinde zu betrachten. Der Philosoph Hegel fasst diese Haltung so zusammen: \"Mein Vaterland ist meine Nation und die Menschheit.\"",
-      "date": "Fri, 4 Sep 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

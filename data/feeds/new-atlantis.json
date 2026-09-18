@@ -1,7 +1,7 @@
 {
   "sourceId": "new-atlantis",
   "sourceName": "The New Atlantis",
-  "fetchedAt": "2026-09-18T08:41:31.215674+00:00",
+  "fetchedAt": "2026-09-18T18:18:52.342373+00:00",
   "items": [
     {
       "title": "Why Is Digital Freedom Making Us Exhausted and Sad?",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Why I Do Not Have AC",
+      "url": "https://www.thenewatlantis.com/publications/why-i-do-not-have-ac",
+      "description": "Every summer, at least once, the thermometer hits one hundred, the humidity breaks all previous records, and the message from the cosmos seems clear: you will give up and get air conditioning. Every summer, I resist. I do not eschew cooling technology for the sake of the climate, although you are welcome to tell people that if they ask. It is not the perverse need to prove that I could hack it, if suddenly dropped into various harrowing historical scenarios including but not limited to the Donne",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
       "title": "How to Become a Person After Smartphones Have Rotted Your Brain",
       "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
       "description": "Fifteen-year-old August Lamm posted a picture of herself on the r/amiugly subreddit with the following caption: 15/f and curious what people think. I’ve never been a popular girl and I don’t get much attention from guys. My teeth are kind of wonky but I’m getting Invisalign tomorrow. “I would make another post the following year, then again at eighteen, to see if I’d gotten any prettier,” she would write in 2024, reflecting on the experience. “I sought feedback in other ways too, on other platfo",
@@ -97,22 +113,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "How to Keep AI From Destroying Prosecution",
-      "url": "https://www.thenewatlantis.com/publications/how-to-keep-ai-from-destroying-prosecution",
-      "description": "Consider a scenario based on actual events. A sheriff’s deputy encounters a vehicle driving erratically on an interstate highway. Someone in the car opens fire, hitting the deputy’s car multiple times. Dashcam audio records the gunfire, but the suspect is not visible on video. No one is injured. The driver flees, escaping arrest. But police later identify the driver and arrest him. For the public, this story — the real version of which happened in June 2021 in Albuquerque — is a dramatic newscas",
-      "date": "Tue, 26 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-18T08:39:38.971895+00:00",
+  "fetchedAt": "2026-09-18T18:18:28.273143+00:00",
   "items": [
     {
       "title": "“L’épistocratie et le problème d’engagement” : découvrez le premier article universitaire de philosophie entièrement conçu par IA",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Le “visage” chez Levinas, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/le-visage-chez-levinas-cest-quoi",
+      "description": "",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Le désir ou l'ascèse ? Nietzsche face à Schopenhauer",
       "url": "https://www.philomag.com/articles/le-desir-ou-lascese-nietzsche-face-schopenhauer",
       "description": "",
@@ -214,22 +230,6 @@
     {
       "title": "“Fjord” de Cristian Mungiu : magistrale ambiguïté ou manipulation agaçante ?",
       "url": "https://www.philomag.com/articles/fjord-de-cristian-mungiu-magistrale-ambiguite-ou-manipulation-agacante",
-      "description": "",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trouver les mots justes pour mobiliser les foules avec Simone de Beauvoir",
-      "url": "https://www.philomag.com/articles/trouver-les-mots-justes-pour-mobiliser-les-foules-avec-simone-de-beauvoir",
       "description": "",
       "date": "Fri, 11 Sep 2026",
       "thumbnail": "",

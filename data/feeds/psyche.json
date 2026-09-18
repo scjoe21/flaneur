@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-09-18T08:41:27.247245+00:00",
+  "fetchedAt": "2026-09-18T18:18:48.203180+00:00",
   "items": [
     {
       "title": "The longest walk",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "Why you should try living without free will for two weeks",
-      "url": "https://psyche.co/ideas/why-you-should-try-living-without-free-will-for-two-weeks",
-      "description": "Set aside the philosophical debates and act as if there is no free will. It leads to less blaming and better questions - by Tara-Lyn Camilleri Read on Psyche",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Maxxing treats life as a problem when it’s a mystery",
+      "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
+      "description": "The philosopher Gabriel Marcel offers the antidote to a grotesque new ideology: don’t fix existence, be open to it - by Håkon Evjemo Read on Psyche",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {

@@ -1,14 +1,14 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-18T08:41:29.253083+00:00",
+  "fetchedAt": "2026-09-18T18:18:50.427407+00:00",
   "items": [
     {
-      "title": "This 3-step method to simplify your life starts with your obituary",
-      "url": "https://bigthink.com/business/axios-cofounders-on-simplifying-your-life/",
-      "description": "Jim VandeHei, Mike Allen, and Roy Schwartz want you to think deeply about death. \n Not in a morbid sense, mind you. Rather, imagine you’re writing your own obituary. What do you want it to say? \n “Thinking about it that way and then working backwards really does create a map [for how to spend your time],” VandeHei told Big Think.  \n VandeHei would like his obituary to say that he was a great father, son, sibling, and husband who was passionate about the work that he did and generous in the workp",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/axios-3-step-method_compressed.png?quality=80&w=640",
+      "title": "How to debate, from a two-time world champion",
+      "url": "https://bigthink.com/series/full-interview/how-to-debate-seo/",
+      "description": "Two-time debate champion Bo Seo breaks down why arguments fail: the four bad-faith personas that hijack conversations, a four-question framework for picking fights worth having, and the surprising Cold War standoff between Nixon and Khrushchev that gives us a model for staying cool under pressure.  \n \n This video  How to debate, from a two-time world champion  is featured on  Big Think .",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/A1-Web-Seo.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 50,
       "scoreDetail": {
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "5 ways to become more “high agency” in the age of AI",
+      "url": "https://bigthink.com/mind-behavior/5-ways-to-become-more-high-agency-in-the-age-of-ai/",
+      "description": "In a recent OpenAI  town hall , CEO Sam Altman was asked his opinion on the most important skill people should learn in the age of AI. After some initial throat clearing, Altman’s first piece of advice was clear: “Become high agency.”  \n “Agency” has become the word of the moment. According to various Silicon Valley types, it’s how you  avoid  becoming part of the  permanent underclass , the “most important  personality trait  of the 21st century,” and the  difference  between protagonists and n",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/5-ways-high-agency-ai_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "Ask Ethan: How did atoms come to be?",
       "url": "https://bigthink.com/starts-with-a-bang/how-atoms-come/",
       "description": "At the core of everything we’ve ever touched, seen, or interacted with here on Earth is the same humble physical structure: the atom. Each human body possesses around  10²⁸  of them, and they come in just under 100 different species, or elements, through natural processes, and we’ve synthesized several dozen more in laboratory experiments. Combined, atoms bind together to make unfathomably intricate, complex structures on both microscopic and macroscopic scales, and compose every living and nonl",
@@ -84,35 +100,19 @@
       }
     },
     {
-      "title": "The psychological trap that distorts how you see difficult people",
-      "url": "https://bigthink.com/work-wise/the-psychological-trap-that-distorts-how-you-see-difficult-people/",
-      "description": "It’s a Thursday afternoon, and I’m on a video call with an executive I’ll call Marcus, who is explaining to me, with real precision and a few colorful words, what is wrong with a peer of his I’ll call Dev. \n Dev was recently quiet in a leadership meeting. Said nothing, nodded along. Then at 11 p.m., Dev sends an email to four people who were in the meeting, laying out every objection he didn’t raise while everyone was in the room. Marcus has been thinking about this for months. His theory: Dev i",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/79da3226-5041-4287-ad3a-face0a33f79f_1920x1080.jpg?quality=85&w=640",
+      "title": "Joanna Stern spent a year testing the AI future. Here’s what she learned.",
+      "url": "https://bigthink.com/science-tech/ai-will-change-how-we-relate-to-each-other/",
+      "description": "In the introduction to her new book,  I Am Not a Robot: My Year Using AI to Do (Almost) Everything , Joanna Stern describes a typical day in what could conceivably be all of our futures. Autonomous robots mow your lawn, fold your laundry, and drive you to your favorite restaurant. Algorithms monitor your vitals, write bedtime stories for your children, and whisper personalized positive affirmations as you fall asleep. \n Or maybe not. One reason Stern decided to write this book was to discover ju",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/joanna-stern-interview.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Scientists map massive layer of life just beneath our feet",
-      "url": "https://bigthink.com/strange-maps/fungal-internet/",
-      "description": "Directly beneath our feet stretches a world both smaller and much, much larger than the one we know. Scientists have just begun mapping what may well be the largest piece of infrastructure on Earth: a network of fungal threads that is 68  quadrillion  miles long. \n It’s alive! \n And we thought we’d mapped just about everything there is to map on this planet: continents, voting patterns, bird migration routes, alleged apparitions of the Virgin Mary, and Starbucks locations near you. \n We’ve logge",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Cropped-Fungal.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 19,
+      "priority": 14,
       "scoreDetail": {
         "daily": 10,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 19
+        "total": 14
       }
     },
     {

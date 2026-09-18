@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-09-18T08:41:39.220664+00:00",
+  "fetchedAt": "2026-09-18T18:19:03.064056+00:00",
   "items": [
     {
       "title": "Why A.I. isn't as intelligent as it appears | Simon Baron-Cohen",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 30,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Why gravity is changing our understanding of fundamental physics | Claudia de Rham",
-      "url": "https://www.youtube.com/watch?v=1cFeen3qmQo",
-      "description": "Physicist Claudia de Rham discusses her life-long passion for gravity and the radical place it has led her.\n\nDoes gravity prove Einstein wrong?\n\nWith a free trial, you can watch more of Claudia de Rham NOW at https://iai.tv/home/speakers-and-authors/claudia-de-rham?utm_source=YouTube&utm_medium=description&utm_campaign=studio\n\nWhat does it mean to tinker with gravity itself, to tweak the force that we all feel? Claudia de Rham, an award-winning theoretical physicist and trained pilot, deep-sea d",
-      "date": "2026-09-01",
-      "thumbnail": "https://i2.ytimg.com/vi/1cFeen3qmQo/hqdefault.jpg",
-      "videoId": "1cFeen3qmQo",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Nazi Ratline | Philippe Sands",
+      "url": "https://www.youtube.com/shorts/1LGVaHU1uRk",
+      "description": "",
+      "date": "2026-09-18",
+      "thumbnail": "https://i2.ytimg.com/vi/1LGVaHU1uRk/hqdefault.jpg",
+      "videoId": "1LGVaHU1uRk",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

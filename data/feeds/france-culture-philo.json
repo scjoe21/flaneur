@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-09-18T08:39:38.595948+00:00",
+  "fetchedAt": "2026-09-18T18:18:27.368583+00:00",
   "items": [
     {
       "title": "Comment la répartition peut-elle être juste ?",
@@ -148,22 +148,6 @@
       }
     },
     {
-      "title": "Pourquoi Antigone est-elle indépassable",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-antigone-est-elle-indepassable-6343211",
-      "description": "durée : 00:03:43  - Avec philosophie - par : Frédéric Worms - équipe : Virginie Le Duault, Luc-Jean Reynaud \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 07 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Irène Théry, sociologue féministe : \"Marcel Mauss m'a ouvert les yeux sur la division par sexes\"",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/la-sociologue-irene-thery-sur-l-oeuvre-de-marcel-mauss-6669036",
       "description": "durée : 00:59:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Marcel Mauss, mort en 1950, est méconnu malgré son immense apport à la sociologie et à l'anthropologie. Humble, il a consacré sa vie à mettre en valeur et transmettre les travaux des autres. Irène Théry, qui était \"maussienne\" sans le savoir, nous explique la portée de son œuvre.  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Irène Théry Sociologue française \n\nVous aimez ce podcast ? Po",
@@ -196,9 +180,25 @@
       }
     },
     {
+      "title": "Édouard Louis, écrivain : \"Primo Levi nous avertit, plus la violence est extrême, plus il faut s'y confronter\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/edouard-louis-sur-les-naufrages-et-les-rescapes-quarante-ans-apres-auschwitz-de-primo-levi-7159952",
+      "description": "durée : 00:59:57  - Avec philosophie - par : Géraldine Mosna-Savoye - Édouard Louis évoque sa lecture des \"Naufragés et les rescapés : Quarante ans après Auschwitz\" de Primo Levi, une déflagration. Un livre trop peu connu, trop peu lu, qui témoigne pourtant d'une pensée philosophique politique précise chez cet écrivain italien qu'il faut lire, encore et toujours.  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger - invités : Édouard Louis Écrivain français \n\nVous aimez ce podcast ? Po",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Confucius, un savoir-être sans confusion : Confucius, d’ennemi de Mao à superstar !",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/confucius-d-ennemi-de-mao-a-superstar-4184437",
-      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Mosna-Savoye - Pendant plus de deux millénaires, Confucius a régné. Les choses changent au XXe siècle, d'abord à la fin de l'Empire en 1911, puis avec Mao et sa révolution culturelle. Poussiéreux, obstacle au progrès, il est devenu l'ennemi à abattre. Mais le confucianisme est résistant... il est de retour !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies ",
+      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Mosna-Savoye - Pendant plus de deux millénaires, Confucius a régné. Les choses changent au XXe siècle, d'abord à la fin de l'Empire en 1911, puis avec Mao et sa révolution culturelle. Poussiéreux, obstacle au progrès, il est devenu l'ennemi à abattre. Mais le confucianisme est résistant... et il est de retour !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Hai",
       "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",

@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-18T08:41:29.626680+00:00",
+  "fetchedAt": "2026-09-18T18:18:50.992726+00:00",
   "items": [
+    {
+      "title": "The Other Way AI Impairs Our Thinking",
+      "url": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "A Plan to Pay Married Mothers Not to Work",
       "url": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/?utm_source=feed",
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/?utm_source=feed",
       "description": "",
       "date": "2026-09-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump Will Never Mail the $5,000 Checks",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-5000-rebate-checks/688599/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-12",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
