@@ -1,7 +1,7 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-09-18T18:19:03.675706+00:00",
+  "fetchedAt": "2026-09-18T21:12:40.244986+00:00",
   "items": [
     {
       "title": "Dinosaur Eggs Have Never Been Discovered This Far South Before",
@@ -9,22 +9,6 @@
       "description": "Researchers are hypothesizing how a clutch was kept warm \n The post  Dinosaur Eggs Have Never Been Discovered This Far South Before  appeared first on  Nautilus .",
       "date": "Thu, 17 Sep 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-illustration.jpg?w=564",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
-      "title": "The Story of Walking Upright is Written in the Bones of Our Ancestors",
-      "url": "https://nautil.us/the-story-of-walking-upright-is-written-in-the-bones-of-our-ancestors-1285086/",
-      "description": "How we learned to stand on our own two feet \n The post  The Story of Walking Upright is Written in the Bones of Our Ancestors  appeared first on  Nautilus .",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/littlefoot.jpg?w=564",
       "videoId": "",
       "priority": 24,
       "scoreDetail": {
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "The Moon has a New Once-in-a-Century Crater",
+      "url": "https://nautil.us/the-moon-has-a-new-once-in-a-century-crater-1285140/",
+      "description": "The lunar surface is more dynamic than you might think \n The post  The Moon has a New Once-in-a-Century Crater  appeared first on  Nautilus .",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/McGetchinLRONAC.jpg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "The “Most Complete” Mastodon Tooth Ever Found",
+      "url": "https://nautil.us/the-most-complete-mastodon-tooth-ever-found-1285135/",
+      "description": "Peering 10,000 years into the past \n The post  The “Most Complete” Mastodon Tooth Ever Found  appeared first on  Nautilus .",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/01-tooth.jpg?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "You Have Two Brains, Not One",
       "url": "https://nautil.us/you-have-two-brains-not-one-1285111/",
       "description": "Being of two minds may be more than just an idiom \n The post  You Have Two Brains, Not One  appeared first on  Nautilus .",
@@ -137,22 +153,6 @@
       "description": "And it’s temporary \n The post  There’s a Neurological Basis for “Pregnancy Brain”  appeared first on  Nautilus .",
       "date": "Thu, 17 Sep 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2777553455.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Seeking a Trippy Placebo",
-      "url": "https://nautil.us/seeking-a-trippy-placebo-1285089/",
-      "description": "Blinding clinical trials for psychedelic medicines has been notoriously difficult \n The post  Seeking a Trippy Placebo  appeared first on  Nautilus .",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/09/shutterstock_2445451403.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

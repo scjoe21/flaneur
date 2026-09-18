@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-18T18:18:50.427407+00:00",
+  "fetchedAt": "2026-09-18T21:12:28.275072+00:00",
   "items": [
     {
       "title": "How to debate, from a two-time world champion",
@@ -22,7 +22,7 @@
     {
       "title": "The gap between knowing better and doing better, and how to close it",
       "url": "https://bigthink.com/series/full-interview/knowing-doing-gap/",
-      "description": "Most of us can recite the benefits of exercise, gratitude, and patience while doing none of it. Tal Ben-Shahar calls this the Knowing-Doing gap, and our typical interventions, like retreats and month-long overhauls keep it open. \n This video  The gap between knowing better and doing better, and how to close it  is featured on  Big Think .",
+      "description": "Most of us can recite the benefits of exercise, gratitude, and patience while doing none of it. Tal Ben-Shahar calls this the Knowing-Doing gap, and our typical interventions, like retreats and month-long overhauls, keep it open. \n \n This video  The gap between knowing better and doing better, and how to close it  is featured on  Big Think .",
       "date": "Fri, 18 Sep 2026",
       "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-11.15.35-AM.png?quality=80&w=640",
       "videoId": "",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "The case that madness is philosophy in practice",
+      "url": "https://bigthink.com/philosophy/the-case-that-madness-is-philosophy-in-practice/",
+      "description": "I have twice undergone uninterrupted periods of roughly two months each in which I was “mad” and was diagnosed as “psychotic” by psychiatrists. Both periods are sharply etched in my memory; they differ from all the other periods in my life. \n During these two periods, I experienced many thoughts, perceptions, and interpretations that were decidedly different from those I had in “normal” life. For example, I believed that everyone over 40 immediately understood all the world’s languages, which me",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/madness-philosophy-in-practice_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The “hidden laziness” holding you back, according to a Tibetan Buddhist master",
       "url": "https://bigthink.com/mini-philosophy/the-hidden-laziness-holding-you-back-according-to-a-tibetan-buddhist-master/",
       "description": "Here are three stories about laziness. Or maybe not.  \n 1.  Sam’s just returned from work exhausted and slouches onto the sofa. So, Sam’s partner is left to do everything else for the night. Make dinner, tidy up, put the kids to bed. All that domestic busyness is someone else’s job. “Outside my wheelhouse,” Sam likes to say. Sam works hard at work, and the salary pays for the house and everything in it. \n Is Sam lazy? \n 2.  Billy is 16 years old, and his weekend is spent doing all the things a t",
@@ -145,22 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "One blip isn’t enough to declare “dark matter has been detected”",
-      "url": "https://bigthink.com/starts-with-a-bang/one-blip-dark-matter-detected/",
-      "description": "Since it was first proposed way back in the 1930s, scientists have wondered about whether the matter we know of — atoms, their constituents, and other subatomic particles — represent all the matter that exists in the Universe, or whether there’s an unseen form of matter making up the majority of the cosmic mass budget: dark matter. Although the evidence for it has been largely indirect and astrophysical in nature, the cumulative case for dark matter is incredibly strong, coming from many differe",
-      "date": "Tue, 15 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/LZdetector-e1789364244861.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

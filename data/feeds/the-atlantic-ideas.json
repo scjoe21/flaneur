@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-18T18:18:50.992726+00:00",
+  "fetchedAt": "2026-09-18T21:12:28.765937+00:00",
   "items": [
+    {
+      "title": "Researchers Say They’ve Found the Truth About Thomas Jefferson",
+      "url": "https://www.theatlantic.com/ideas/2026/09/thomas-jefferson-genome-children/688635/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "The Other Way AI Impairs Our Thinking",
       "url": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/?utm_source=feed",
@@ -65,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Goal of Contemporary Journalism",
+      "url": "https://www.theatlantic.com/ideas/2026/09/atlantic-festival-journalism-press-freedom/688702/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352/?utm_source=feed",
       "description": "",
       "date": "2026-09-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Property-Tax Revolution",
-      "url": "https://www.theatlantic.com/ideas/2026/09/florida-taxes-amendment/688594/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Birth of the New Legal Right",
-      "url": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-13",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
