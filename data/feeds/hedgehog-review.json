@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-09-13T19:26:49.565446+00:00",
+  "fetchedAt": "2026-09-18T08:41:39.422081+00:00",
   "items": [
     {
       "title": "Birthright and Belonging",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "How Not to Rise to the Occasion",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/how-not-to-rise-to-the-occasion",
-      "description": "Does the dialectic of history lead to synthesis, a new beginning—or only return to childhood?",
-      "date": "Wed, 08 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Roy Redux",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/roy-redux",
+      "description": "In which our correspondent blocks Roy Cohn’s sunshine.",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

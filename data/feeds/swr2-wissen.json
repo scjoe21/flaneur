@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-13T19:26:44.930349+00:00",
+  "fetchedAt": "2026-09-18T08:41:36.470684+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Magersucht therapieren – Wie wichtig Familie, Darm und Körperbilder sind",
+      "url": "https://www.swr.de/swrkultur/wissen/magersucht-therapieren-wie-wichtig-familie-darm-und-koerperbilder-sind-100.html",
+      "description": "Zu Hause wohnen, statt stationär behandelt werden. Die Körperwahrnehmung durch Einsatz von VR-Brillen verändern. Gene und Darm berücksichtigen. Neues aus der Magersucht-Therapie.",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -84,35 +100,19 @@
       }
     },
     {
-      "title": "Psychische Gewalt – Wie sie krank macht und was schützt",
-      "url": "https://www.swr.de/swrkultur/wissen/psychische-gewalt-wie-sie-krank-macht-und-was-schuetzt-100.html",
-      "description": "Emotionale Gewalt ist oft schwer zu erkennen. Die Folgen sind jedoch genauso gravierend wie bei körperlicher Gewalt. Gleichzeitig gilt: Nicht jedes böse Wort ist ein Übergriff. Es braucht mehr Bewusstsein für emotionale Gewalt und ihre Alarmsignale.",
-      "date": "Thu, 3 Sep 2026 ",
+      "title": "Faszination Oktoberfest – Mehr als Massenrausch in Tracht",
+      "url": "https://www.swr.de/swrkultur/wissen/faszination-oktoberfest-mehr-als-massenrausch-in-tracht-100.html",
+      "description": "Das größte Volksfest der Welt verbindet die Menschen miteinander: 16 Tage lang feiern und den Alltag vergessen. Es ist eine logistische Meisterleistung und ein wirtschaftlicher Jackpot für München.\nVon Sarah Rondot (SWR 2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/faszination-oktoberfest\nTipps für den sicheren Wiesn-Besuch\nhttps://sicherewiesn.de/wordpress/\nLiteratur:\nSimone Egger: Das Dirndl. Ein modernes Kleid, das vieles gleichzeitig sein kann. In: Michaela Breit, Karl Murr (Hg.): Dir",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Krieg im Sudan – Wie die Menschen dem Terror trotzen",
-      "url": "https://www.swr.de/swrkultur/wissen/krieg-im-sudan-wie-die-menschen-dem-terror-trotzen-100.html",
-      "description": "Im Sudan führen Regierungstruppen und Paramilitärs Krieg gegen die Zivilbevölkerung. Gleichzeitig werden Millionen Flüchtlinge versorgt und die Menschen unterstützen sich gegenseitig. Solidarität ist tief verwurzelt in der Kultur des Landes.",
-      "date": "Tue, 1 Sep 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 19
       }
     },
     {
@@ -148,19 +148,19 @@
       }
     },
     {
-      "title": "Das Volk – Wer ist das eigentlich?",
-      "url": "https://www.swr.de/swrkultur/wissen/das-volk-annaeherung-an-einen-schwierigen-begriff-104.html",
-      "description": "Bei mehreren Landtagswahlen im September 2026 wird das Wahlvolk wieder an die Urnen gebeten. Aber: Wer ist dieses Volk? Ist der Begriff noch zeitgemäß oder sollten wir ihn abschaffen?",
-      "date": "Mon, 31 Aug 2026",
+      "title": "Gesund zunehmen – Was hilft bei Gewichtsverlust?",
+      "url": "https://www.swr.de/swrkultur/wissen/gesund-zunehmen-was-hilft-bei-gewichtsverlust-100.html",
+      "description": "Wer aufgrund einer Darmerkrankung, Krebs, Stress oder altersbedingtem Muskelabbau Gewicht verloren hat, benötigt oft Unterstützung beim Zunehmen. Das geht mit proteinreicher Kost.",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 10
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -212,26 +212,26 @@
       }
     },
     {
+      "title": "Mit der Seilbahn durch die Stadt – Bald auch in Deutschland?",
+      "url": "https://www.swr.de/swrkultur/wissen/mit-der-seilbahn-durch-die-stadt-bald-auch-in-deutschland-100.html",
+      "description": "In Paris hat der Verkehrsverbund die längste innerstädtische Seilbahn Europas eröffnet – gebaut in nur drei Jahren. Jetzt planen Bonn und Herne Deutschlands erste ÖPNV-Seilbahn.",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
       "title": "Patriotismus ohne Hass – Geschichte eines liberalen Nationalgefühls",
       "url": "https://www.swr.de/swrkultur/wissen/patriotismus-ohne-hass-geschichte-eines-liberalen-nationalgefuehls-100.html",
       "description": "Man kann stolz auf sein Land sein, ohne andere Nationen als Feinde zu betrachten. Der Philosoph Hegel fasst diese Haltung so zusammen: \"Mein Vaterland ist meine Nation und die Menschheit.\"",
       "date": "Fri, 4 Sep 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Jazz-Ikone Nina Simone – Mit Musik gegen Rassismus",
-      "url": "https://www.swr.de/swrkultur/wissen/jazz-ikone-nina-simone-mit-musik-gegen-rassismus-102.html",
-      "description": "Sie wollte die erste afroamerikanische Konzertpianistin werden, wurde am Konservatorium aber abgelehnt, trotz ihres überragenden Talents. Später schrieb sie Protestsongs und wurde Aktivistin.",
-      "date": "Wed, 2 Sep 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

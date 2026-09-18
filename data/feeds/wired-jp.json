@@ -1,13 +1,45 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-13T19:26:57.302182+00:00",
+  "fetchedAt": "2026-09-18T08:41:48.625726+00:00",
   "items": [
     {
-      "title": "「スロップ・ジハード」──生成AIが生み出した、ミーム・プロパガンダの不穏な進化",
-      "url": "https://wired.jp/article/gen-ai-tools-are-now-being-used-to-push-slop-jihad/",
-      "description": "イスラム過激派を支持する新たな世代が、生成AIで「スロップ・ジハード(Slop Jihad)」を生み出している。暴力的なプロパガンダをスポンジ・ボブ風に加工し、TikTokを通じて新たな層へ拡散している。",
-      "date": "Sun, 13 Sep 2026",
+      "title": "トニー・アウスラーが問う、信じることのメカニズムと魔術的な想像力",
+      "url": "https://wired.jp/article/tony-oursler-interview/",
+      "description": "人は何を信じ、どのように世界を見てきたのか。宗教、メディア、アート、AIを横断しながら、映像作品を通してその問いを40年以上追い続けてきたトニー・アウスラー。日本初の大規模個展を機に、その思想と創造性の源泉を探った。",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "最適化されゆく世界に「不完全さ」が必要な理由──Moinが語る音楽、都市、偶然",
+      "url": "https://wired.jp/article/moin-interview/",
+      "description": "電子音楽の方法論を「バンド」へともち込み、偶然や不確実性を創作のなかに取り込んできたMoin。あらゆるものが予測され、最適化されていく時代に、不完全さはなぜ人を引きつけるのか。音楽、アルゴリズム、都市について3人に訊いた。",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "ディープフェイク・ポルノサイト、欧州の女性政治家100人以上が標的に",
+      "url": "https://wired.jp/article/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
+      "description": "約160件のディープフェイクサイトを分析した調査で、22カ国の政治家がこうしたサイトに掲載されていることが明らかになった。そのほぼすべてが女性だ。",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,26 +52,26 @@
       }
     },
     {
-      "title": "アウディの新型EV「A2 e-tron」が示す、“効率”についての四半世紀越しの回答",
-      "url": "https://wired.jp/article/audi-a2-e-tron-efficiency/",
-      "description": "アウディが新型EV「A2 e-tron」を欧州で発表した。同社の量産車で最もエネルギー効率が高いとされる新モデルは、2000年発売の初代「A2」が掲げた効率にまつわる思想を異なるかたちで受け継いでいる。",
-      "date": "Thu, 10 Sep 2026",
+      "title": "AIの「不適切な振る舞い」開示の新たな枠組み、OpenAIが策定",
+      "url": "https://wired.jp/article/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
+      "description": "OpenAIは、AIモデルにアライメント上の問題が確認された際の開示に関する新たな枠組みをつくった。AIが指示なくファイルをネット上に公開するなど、実際に確認された複数の事例も公表している。",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
       }
     },
     {
-      "title": "スピルバーグは『ディスクロージャー・デイ』で過去のヒット作を再生する",
-      "url": "https://wired.jp/article/disclosure-day-movie-review/",
-      "description": "スピルバーグの最新作『ディスクロージャー・デイ』は、『未知との遭遇』や『マイノリティ・リポート』『ペンタゴン・ペーパーズ／最高機密文書』といった彼の作品を想起させる。",
-      "date": "Sun, 13 Sep 2026",
+      "title": "メタの新パーソナルAIエージェント「Muse」。普及の鍵はユーザーの信頼",
+      "url": "https://wired.jp/article/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
+      "description": "メタがOpenClawやInstinctに対抗する「Muse」を米国で発表した。航空券の予約から自動車の売却まで、さまざまな作業をこなせるという。",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -52,10 +84,10 @@
       }
     },
     {
-      "title": "幽霊粒子「ニュートリノ」を捕まえる、科学者たちの巨大な実験装置",
-      "url": "https://wired.jp/article/inside-experimental-traps-scientists-set-for-neutrinos/",
-      "description": "ニュートリノ研究は、検出不可能と思われた粒子を追う、まるで「幽霊狩り」のような実験から始まった。鉱山の坑内や南極の氷床の奥深くなど、さまざまな場所に観測施設が建設されてきた。",
-      "date": "Sat, 12 Sep 2026",
+      "title": "ゲーミングスティックを巨大なスツールに。イケアのXboxゲーミングコレクションが生まれるまで",
+      "url": "https://wired.jp/article/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/",
+      "description": "イケアとXboxの異色のコラボが実現した。全9アイテムを揃えた「YXSTABY/イクススタビ」コレクションは10月1日より全国のイケア店舗で順次発売される。",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -68,10 +100,10 @@
       }
     },
     {
-      "title": "「危機感がないのは議員がバカだからではない」──バーニー・サンダースが語るAIと民主主義｜The Big Interview",
-      "url": "https://wired.jp/article/sz-the-big-interview-podcast-senator-bernie-sanders/",
-      "description": "巨大テック企業やひと握りの超富裕層、野放しのAIに対する国民の不満が頂点に達しつつある米国で、富の集中が民主主義を脅かすと訴え続けてきたサンダース上院議員が『WIRED』の独占インタビューに応じた。",
-      "date": "Sat, 12 Sep 2026",
+      "title": "【特集】来たるべき“量子時代”に備えよ！",
+      "url": "https://wired.jp/article/featuring-quantum/",
+      "description": "“量子”関連のニュースは、「量」ではなく「質」で読み解く必要があるはずだ。来るべき量子時代の到来を告げるサインを、総力を挙げて追いかける。",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,10 +116,10 @@
       }
     },
     {
-      "title": "Siri AIで何ができるようになる？ 新機能を紹介",
-      "url": "https://wired.jp/article/everything-new-you-can-do-with-siri-ai/",
-      "description": "iOS 27の登場とともに、iPhoneの音声アシスタントが全面的に刷新される。年内に日本語にも対応する予定だ。",
-      "date": "Sat, 12 Sep 2026",
+      "title": "日本はインクルーシブフードの先進国になれるか｜FOOD Lab",
+      "url": "https://wired.jp/article/sz-food-lab-inclusive-food-industry/",
+      "description": "アレルギーやさまざまな障害、女性の健康課題などに向けた食品は、長らくニッチなものとされ見過ごされてきた。だが、こうしたインクルーシブ市場で数々の事業化の動きがある。ポイントはマスへの展開力だ。",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +132,10 @@
       }
     },
     {
-      "title": "人間性と折り合いをつけながら未来へと向かうこと：プリ・アルスエレクトロニカ2026の見どころ",
-      "url": "https://wired.jp/article/prixarselectronica-2026/",
-      "description": "「アルスエレクトロニカ・フェスティバル」会場で展示されるメディアアートの国際コンペティション「プリ・アルスエレクトロニカ」の受賞作について、プリ・アルスエレクトロニカ・ヘッドの小川絵美子が見どころを説く。",
-      "date": "Sat, 12 Sep 2026",
+      "title": "水星の探査計画「ベピ・コロンボ」が最終接近段階へ",
+      "url": "https://wired.jp/article/bepicolombo-arrival-phase-mercury-magnetic-field-mystery/",
+      "description": "日欧共同の国際水星探査計画「ベピ・コロンボ」が、いよいよ水星への到着フェーズに突入した。探査機を運んできた推進モジュールが正常に分離したいま、水星の磁場や内部構造の謎に迫るための観測準備が整いつつある。",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +148,10 @@
       }
     },
     {
-      "title": "Anthropicを辞めたAI研究者が警告。「今後1、2年が人類にとって正念場」",
-      "url": "https://wired.jp/article/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/",
-      "description": "Anthropicを退社し、AI開発競争に強い危機感を表明したジェイコブ・コクソン。競争の加速がAIの安全性にどのようなリスクをもたらすのか、開発速度を抑えるには何が必要なのかを『WIRED』に語った。",
-      "date": "Fri, 11 Sep 2026",
+      "title": "新型iPhone、どれを選ぶ？ iPhone DuoとiPhone 18 Proシリーズを徹底比較",
+      "url": "https://wired.jp/article/which-apple-iphone-18-models-to-buy/",
+      "description": "アップル初の折り畳みスマートフォン「iPhone Duo」と、従来型の上位モデル「iPhone 18 Pro」「iPhone 18 Pro Max」が登場した。3モデルの違いや共通点、選び方を詳しく紹介する。",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +164,10 @@
       }
     },
     {
-      "title": "AIの守護者かシリコンバレーの宮廷画家か──レフィク・アナドルの挑戦",
-      "url": "https://wired.jp/article/sz-refik-anadol-the-art-worlds-happy-warrior-for-ai/",
-      "description": "レフィク・アナドルがLAにオープンしたAIアート美術館「Dataland」は、まさにテクノロジーを祝うモニュメントだ。",
-      "date": "Fri, 11 Sep 2026",
+      "title": "「AI終末論はわたしたちの目をそらすための罠」──AI批判の急先鋒が語る",
+      "url": "https://wired.jp/article/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
+      "description": "AI企業各社が人類滅亡の恐怖を煽っているのは、自律型兵器のような現実の脅威についての議論を避けるためだ──グーグルを去ったAI研究者ティムニット・ゲブルはそう主張する。",
+      "date": "Wed, 16 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +180,10 @@
       }
     },
     {
-      "title": "AI面接が行き着く先は、ボット同士の会話だ",
-      "url": "https://wired.jp/article/bot-vs-bot-job-interview-ai/",
-      "description": "AIが採用活動に入り込み、面接でも人間の会話がボット同士のやりとりに置き換わり始めている。AIリクルーターに何度も無視されたクリストファーは、ついにChatGPTを「代理人」としてロボット面接官に送り込んだ。",
-      "date": "Fri, 11 Sep 2026",
+      "title": "AI業界トップが「開発減速」で異例の結束。トランプ政権は関与に消極的",
+      "url": "https://wired.jp/article/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
+      "description": "Anthropicのダリオ・アモデイがAI開発の減速に向けた規制を米政府に求め、サム・アルトマンやイーロン・マスクも賛同した。一方、中国との競争を優先するトランプ政権側は、企業の自主対応に委ねる姿勢だ。",
+      "date": "Wed, 16 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +196,10 @@
       }
     },
     {
-      "title": "ゼンハイザー「Momentum 5 Wireless」レビュー：圧倒的なバッテリーと修理可能性が光る",
-      "url": "https://wired.jp/review/sennheiser-momentum-5/",
-      "description": "ゼンハイザーの新しいフラッグシップヘッドフォンは、優れた音質と快適な装着感に加え、ユーザー自身で交換できる長寿命バッテリーを備えている。突出した性能をひとつもつわけではないが、よく考えられた、信頼できる一台に仕上がっている。",
-      "date": "Fri, 11 Sep 2026",
+      "title": "うつ病患者の脳では、新しい神経細胞の生成が“停滞”していた：研究結果",
+      "url": "https://wired.jp/article/stalled-adult-hippocampal-neurogenesis-in-depression/",
+      "description": "成人の脳でも海馬では新しい神経細胞が生まれ続けているが、うつ病患者ではこのプロセスが途中で止まっていることが、最新の研究で明らかになった。うつ病を分子レベルで定義し直す手がかりになるかもしれない。",
+      "date": "Wed, 16 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +212,10 @@
       }
     },
     {
-      "title": "速さではなく、サイズで勝つ：量子コンピューターが機械学習に効く理由",
-      "url": "https://wired.jp/article/miraikan-quantum-review-1/",
-      "description": "いま量子コンピューター開発の最前線では、いったい何が起きているのか。その動向を、日本科学未来館の科学コミュニケーターたちが「できるだけわかりやすく」解説するシリーズがスタート。",
-      "date": "Fri, 11 Sep 2026",
+      "title": "iOS 27でSafariがもっと便利に。試したい3つの新機能",
+      "url": "https://wired.jp/article/iphone-settings-ios-27-safari-browser/",
+      "description": "アップルはiOS 27で、Safariに自動化やパーソナライズの機能を追加した。ウェブページの変更通知からタブの自動整理まで、日々のブラウジングに役立つ機能が揃っている。",
+      "date": "Wed, 16 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "「Woke 1は狂っていた」と言い放ち、AOCは進歩派を再起動する──「アメリカン・ドッペルゲンガー」by 池田純一#16",
-      "url": "https://wired.jp/article/american-doppelganger-16/",
-      "description": "「Woke 1は狂っていた」──進歩派の急先鋒と目されてきたAOCの発言が波紋を広げている。予備選を席巻する「ソーシャリズム」の嵐のなか、彼女が示唆する進歩派の再起動、その鍵を握るライフサイエンスとは？",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "アップルが発表したApple Watchの「聞きとり」機能。プライバシーはどう守られる？",
-      "url": "https://wired.jp/article/apple-doesnt-want-you-to-worry-about-the-new-apple-watchs-listening-features/",
-      "description": "新しいApple Watch向けに、音声を「聞きとり」、会話を振り返ったり要約したりする新機能が発表された。アップルは音声データを保護する仕組みを強調するが、プライバシーへの懸念は拭いきれない。",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "新型Apple Watchが登場。Siri AIや新たな健康機能を搭載",
-      "url": "https://wired.jp/article/apple-watch-series-12-apple-watch-ultra-4/",
-      "description": "アップルの最新スマートウォッチ「Apple Watch Series 12」と「Apple Watch Ultra 4」が登場。高速化したチップや拡充された健康・フィットネス機能、新しいSiriを搭載し、セラミックケースも復活した。",
-      "date": "Thu, 10 Sep 2026",
+      "title": "AIエージェントが、データセンター建設を加速させている",
+      "url": "https://wired.jp/article/story/ai-agents-are-thirsty-for-power/",
+      "description": "シリコンバレーでは、AIの主戦場がシンプルなチャットボットから、より多くの計算資源を必要とするAIエージェントへと移りつつある。各社が巨大なデータセンターの建設を急ぐ背景には、そんな未来を見据えた動きがある。",
+      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

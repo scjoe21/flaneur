@@ -1,12 +1,44 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-13T19:26:15.956350+00:00",
+  "fetchedAt": "2026-09-18T08:39:42.681341+00:00",
   "items": [
+    {
+      "title": "Fanatiker des Werts – Warum Merz‘ Populismus sich für ihn nicht auszahlt",
+      "url": "https://www.philomag.de/artikel/fanatiker-des-werts-warum-merz-populismus-sich-fuer-ihn-nicht-auszahlt",
+      "description": "Dass die AfD und nicht die CDU massiven Zulauf verzeichnet, liegt nicht daran, dass ihre Wähler die sozialen Folgen der Regierungspolitik erkennen oder lieber das rassistische Original wählten, wie AfD- und Regierungsgegner behaupten. Der Grund ist: Merz ist zu elitär. Mit ihm lassen sich „die da oben“ nicht hassen.",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "Phänomenologie des Stillens",
+      "url": "https://www.philomag.de/artikel/phaenomenologie-des-stillens",
+      "description": "Der Akt des Stillens – ob, wie, warum, wie lange – wird heute kontrovers diskutiert. Inmitten dieser Debatte mit all ihren Wertungen und Erwartungen ließe sich aber noch etwas Grundlegenderes fragen: Was ist das überhaupt für ein Gefühl, ein anderes Wesen zu stillen?",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
     {
       "title": "Agnes Callard: „Sokrates hat sich niemals für den schlauesten Menschen im Raum gehalten\"",
       "url": "https://www.philomag.de/artikel/agnes-callard-sokrates-hat-sich-niemals-fuer-den-schlauesten-menschen-im-raum-gehalten",
-      "description": "Was können wir von Sokrates lernen – von dem Mann, der über sich sagt, er wisse, dass er nicht wisse? Die Philosophin Agens Callard, die selbst versuchte, Sokrates zu sein, geht dieser Frage nach. Sie zeigt, warum das sokratische Hinterfragen von Scheingewissheiten einerseits so unbequem ist, andererseits aber vor existenzieller Verzweiflung zu schützen vermag.",
+      "description": "Was können wir von Sokrates lernen – von dem Mann, der über sich sagt, er wisse, dass er nicht wisse? Die Philosophin Agnes Callard, die selbst versuchte, Sokrates zu sein, geht dieser Frage nach. Sie zeigt, warum das sokratische Hinterfragen von Scheingewissheiten einerseits so unbequem ist, andererseits aber vor existenzieller Verzweiflung zu schützen vermag.",
       "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
@@ -20,35 +52,19 @@
       }
     },
     {
-      "title": "Kunst als Erkenntnisweg",
-      "url": "https://www.philomag.de/artikel/kunst-als-erkenntnisweg",
-      "description": "Ein Prompt genügt, und die KI liefert einen Text, ein Bild oder eine Idee. Doch vielleicht liegt gerade im mühsamen Ringen um den richtigen Ausdruck etwas, das der Kunst wesentlich ist. R. G. Collingwoods Kunstphilosophie zeigt, warum Irrwege, Unsicherheit und Scheitern nicht bloße Hindernisse des kreativen Prozesses sind, sondern seine Voraussetzung.",
-      "date": "Fri, 04 Sep 2026",
+      "title": "Was uns zum Handeln bewegt",
+      "url": "https://www.philomag.de/artikel/was-uns-zum-handeln-bewegt",
+      "description": "Für die einen ist Engagement selbstverständlich, jede Protestaktion ein festliches Ereignis. Für die anderen, die von der Angst geplagt werden, den falschen Weg einzuschlagen, ist es mühsam. Und doch ist Engagement manchmal notwendig. Mit Albert Camus, Václav Havel und Jan Patočka lässt sich zeigen, warum.",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 35,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
+        "daily": 35,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Isabelle Ratié: „Die indische Philosophie ist zutiefst phänomenologisch“",
-      "url": "https://www.philomag.de/artikel/isabelle-ratie-die-indische-philosophie-ist-zutiefst-phaenomenologisch",
-      "description": "Die indische Denktradition hat weit mehr zu bieten als Schriften zu Mystik und Wohlbefinden. Jenseits westlicher Vorurteile finden sich wertvolle metaphysische wie phänomenologische Erkenntnisse, wie Isabelle Ratié zeigt. Auch inhaltliche Überschneidungen mit der Antiken Philosophie lassen sich hier entdecken.",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
       }
     },
     {
@@ -56,22 +72,6 @@
       "url": "https://www.philomag.de/artikel/feier-der-deutschheit-die-afd-und-das-ende-der-politischen-bildung",
       "description": "Die AfD hat die Landtagswahl in Sachsen-Anhalt gewonnen. Nun plant sie einen umfassenden Umbau des Schulsystems und eine totale Revision der Erinnerungskultur. Auch wenn es mit der politischen Bildung und dem Gedenken in Deutschland nie so weit her war, wie häufig behauptet, müssen diese gegen den autoritären Umbau verteidigt werden. Sonst wird das kritische Bewusstsein über den Nationalsozialismus womöglich nur ein Wimpernschlag gewesen sein – in Jahrhunderten ansonsten ungebrochener, erfolgrei",
       "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Janos Richter: „Möglicherweise wird auch im dritten Wahlgang kein Ministerpräsident gewählt”",
-      "url": "https://www.philomag.de/artikel/janos-richter-moeglicherweise-wird-auch-im-dritten-wahlgang-kein-ministerpraesident",
-      "description": "Für Sachsen-Anhalt stellt sich nach gestern die Frage: Was ist von einer AfD-geführten Regierung zu erwarten? Der Rechtswissenschaftler Janos Richter erklärt, warum eine Regierungsbildung lange dauern und die Verwaltung einen entscheidenden Hebel für die AfD darstellen könnte.",
-      "date": "Mon, 07 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -94,22 +94,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Sehnsucht nach dem Krassen",
-      "url": "https://www.philomag.de/artikel/sehnsucht-nach-dem-krassen",
-      "description": "Während rechte Parteien in anderen Ländern auf Mäßigung setzen, um für bürgerliche Kreise wählbar zu werden, lautet das Patentrezept der AfD: Durch Radikalisierung zum Erfolg. Warum verfängt das gerade in Deutschland?",
-      "date": "Mon, 07 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -148,19 +132,19 @@
       }
     },
     {
-      "title": "KI-Neokolonialismus",
-      "url": "https://www.philomag.de/artikel/ki-neokolonialismus",
-      "description": "In unserem kapitalistischen System hat sich Künstliche Intelligenz zur Bedrohung der Demokratie entwickelt, so die These des jüngst erschienenen  Buchs  von Dorothea Winter. Hier erklärt die Autorin, wie es dazu gekommen ist und was es mit dem KI-Neokolonialismus auf sich hat.",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Mithu Sanyal: „Freiheit gibt es nur im Frieden“",
+      "url": "https://www.philomag.de/artikel/mithu-sanyal-freiheit-gibt-es-nur-im-frieden",
+      "description": "In ihrem neuen Buch hinterfragt Mithu Sanyal die fortlaufende militärische sowie rhetorische Aufrüstung und argumentiert für einen aktiven Pazifismus, der die vielfältigen Bedürfnisse der Menschen in den Mittelpunkt rückt.",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -180,6 +164,38 @@
       }
     },
     {
+      "title": "Rund und bunt gegen das Patriarchat",
+      "url": "https://www.philomag.de/artikel/rund-und-bunt-gegen-das-patriarchat",
+      "description": "Aus den Trümmern der männlichen Kunst erschuf Niki de Saint Phalle weibliche Traumwelten. Eine Ausstellung in Düsseldorf würdigt ihr Schaffen.",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "Verzweifelter Spaß",
+      "url": "https://www.philomag.de/artikel/verzweifelter-spass",
+      "description": "Im Bärenkostüm gegen die Unordnung der Welt: Das Werk der Schriftstellerin Heike Geißler wimmelt von Figuren, die das große Ganze infrage stellen. In ihrem jüngsten Roman  Michaela Kohlhaas  hilft nicht zuletzt die Ironie.",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Phantome des Widerstands",
       "url": "https://www.philomag.de/artikel/phantome-des-widerstands",
       "description": "Verachtenswerte politische Überzeugungen, meint Wolfram Eilenberger, werden nicht dadurch verschwinden, dass man ihnen abspricht, eine „Meinung“ zu sein.",
@@ -196,42 +212,26 @@
       }
     },
     {
-      "title": "Hemmungslose Ordnung",
-      "url": "https://www.philomag.de/artikel/hemmungslose-ordnung",
-      "description": "Was macht den autoritären Rechtspopulismus so erfolgreich? In seinem Essay argumentiert Christoph David Piorkowski, dass die Rechte auf die politische, die sozioökonomische und die kulturelle Krise des Liberalismus mit scheinbaren Lösungsversprechen reagiert, die für viele Menschen zunächst attraktiv klingen: Geborgenheit im einheitlichen Volkskollektiv, Wiederherstellung von Ordnung und Souveränität und das Aufsprengen zivilisatorischer Fesseln.",
-      "date": "Fri, 04 Sep 2026",
+      "title": "Von Monstern und Sümpfen",
+      "url": "https://www.philomag.de/artikel/von-monstern-und-suempfen",
+      "description": "In ihrem Debütroman  Zeit der Monster  erzählt Şeyda Kurt von jenen, die als Monströse ausgegrenzt werden – und von dem Ort, an dem sie leben. Was lässt sich von Monstern über Ordnung und Neuanfang lernen? Ein Lektüreessay.",
+      "date": "Mon, 14 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Über das Unpolitische",
-      "url": "https://www.philomag.de/artikel/ueber-das-unpolitische",
-      "description": "Lange glaubte man, Konflikte dadurch zu entschärfen, dass man sie austrägt. Unsere aufgepeitschte Gegenwart legt jedoch den Verdacht nahe, dass sich Konflikte hochschaukeln, sobald man damit anfängt. Ein Plädoyer für Desengagement.",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Lust am Limit",
-      "url": "https://www.philomag.de/artikel/lust-am-limit",
-      "description": "Zum Umgang mit dem Leib existieren zwei entgegengesetzte Imperative: Überwinde den Schweinehund. Und: Hör auf deinen Körper. Millay Hyatt hat einen dritten Weg gefunden.",
-      "date": "Tue, 08 Sep 2026",
+      "title": "Gezähmtes Abenteuer",
+      "url": "https://www.philomag.de/artikel/gezaehmtes-abenteuer",
+      "description": "Risikoreiche Urlaube gewinnen an Beliebtheit. Doch das Abenteuer ist längst zur Regenerationsmaßnahme verkümmert.",
+      "date": "Mon, 14 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

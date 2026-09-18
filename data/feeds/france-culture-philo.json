@@ -1,8 +1,40 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-09-13T19:26:09.336722+00:00",
+  "fetchedAt": "2026-09-18T08:39:38.595948+00:00",
   "items": [
+    {
+      "title": "Comment la répartition peut-elle être juste ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-la-repartition-peut-elle-etre-juste-7486206",
+      "description": "durée : 00:03:40  - Avec philosophie - par : Frédéric Worms - Comment parvenir à une répartition juste des biens entre les êtres humains ? Le philosophe Frédéric Worms interroge le sentiment d'injustice face aux inégalités et montre comment la participation collective peut fonder une société plus juste.  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 25,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
+      }
+    },
+    {
+      "title": "Comment participer à l'histoire ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-participer-a-l-histoire-8090124",
+      "description": "durée : 00:03:46  - Avec philosophie - par : Frédéric Worms - Face aux crises climatiques et aux conflits mondiaux, chacun éprouve le besoin d'agir et de contribuer au monde.  Comment la justice peut-elle répondre à ce désir de participation et permettre à chacun de prendre part à l'histoire ?  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "Pourquoi Penthésilée continue-t-elle à se battre",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-penthesilee-continue-t-elle-a-se-battre-6670750",
@@ -33,38 +65,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "\"L'Enfer\" de Dante, voyage au centre de soi-même : Dante, philosophe pour les égaré·es de l'existence",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/comment-dante-s-est-il-retrouve-dans-cet-enfer-2256217",
-      "description": "durée : 00:58:41  - Avec philosophie - par : Géraldine Mosna-Savoye - Première étape de notre voyage en Enfer aux côtés de Dante, et cela commence dans une sombre forêt… Mais pourquoi entreprend-il cette quête ? Et comment cela peut-il nous parler encore aujourd'hui ?  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Axel Dubois, Nicolas Berger, Frédéric Worms, Pauline Haies - invités : Didier Ottaviani Maître de conférences à l'École Normale Supérieure de Lyon \n\nVous a",
-      "date": "Mon, 07 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Marwan Mohammed, sociologue : \"Bourdieu c'est l'anti-cuculogie : ne pas embellir la vie sociale mais lui donner un sens\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/marwan-mohammed-8630757",
-      "description": "durée : 00:59:28  - Avec philosophie - par : Géraldine Mosna-Savoye - Lorsqu'un jour, on conseille à Marwan Mohammed la lecture de \"La Misère du monde\" de Pierre Bourdieu, il ignore encore que cela va changer le cours de sa vie. Une fois le livre refermé, il décide de devenir sociologue. Il nous raconte pourquoi...\n\n  - équipe : Nicolas Berger, Manon de La Selle, Anaïs Ysebaert - invités : Marwan Mohammed Sociologue, chargé de recherche au CNRS \n\nVous aimez ce podcast ? Pour écouter tous les épi",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
       }
     },
     {
@@ -100,19 +100,35 @@
       }
     },
     {
-      "title": "Pourquoi faut-il un nouvel emploi du temps",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-faut-il-un-nouvel-emploi-du-temps-9995015",
-      "description": "durée : 00:03:29  - Avec philosophie - par : Frédéric Worms - L'emploi du temps structure nos vies. À l'heure où l'IA promet d'en libérer une partie, une question s'impose : que ferons-nous de ce temps gagné ? Faut-il inventer un nouvel emploi du temps, individuel et collectif ?  - équipe : Sam  Baquiast, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 02 Sep 2026",
+      "title": "Confucius, un savoir-être sans confusion : L'art de gouverner sans théorie ni manuel",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/que-garder-de-confucius-pour-bien-gouverner-6343420",
+      "description": "durée : 00:58:21  - Avec philosophie - par : Géraldine Mosna-Savoye - Figurez-vous que la politique n'intéressait pas Confucius ! Pourtant, sa pensée, reprise, commentée, analysée pendant des siècles, est devenue une doctrine... Revenons, au-delà de toute théorie, à son art des bonnes manières, de la finesse, de la morale, en vue de l'harmonie sociale.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités ",
+      "date": "Wed, 16 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
+        "daily": 10,
+        "phil": 20,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Pourquoi faut-il tout partager",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-faut-il-tout-partager-5526332",
+      "description": "durée : 00:03:33  - Avec philosophie - par : Frédéric Worms - Le partage est une nécessité vitale. Pourtant, il est souvent vécu comme une contrainte, un sacrifice ou un simple calcul de parts égales. Et si l'enjeu n'était pas seulement de répartir, mais aussi de participer ensemble à la construction du monde commun ?  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -150,7 +166,7 @@
     {
       "title": "Irène Théry, sociologue féministe : \"Marcel Mauss m'a ouvert les yeux sur la division par sexes\"",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/la-sociologue-irene-thery-sur-l-oeuvre-de-marcel-mauss-6669036",
-      "description": "durée : 00:59:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Marcel Mauss, mort en 1950, est méconnu malgré son immense apport à la sociologie et à l'anthropologie. Humble, il a consacré sa vie à mettre en valeur et transmettre les travaux des autres. Irène Théry, qui était \"maussienne\" sans le savoir, nous explique la portée de son oeuvre.  - équipe : Nicolas Berger, Manon de La Selle, Anaïs Ysebaert, Carla Michel - invités : Irène Théry Sociologue française \n\nVous aimez ce podcast ? P",
+      "description": "durée : 00:59:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Marcel Mauss, mort en 1950, est méconnu malgré son immense apport à la sociologie et à l'anthropologie. Humble, il a consacré sa vie à mettre en valeur et transmettre les travaux des autres. Irène Théry, qui était \"maussienne\" sans le savoir, nous explique la portée de son œuvre.  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Irène Théry Sociologue française \n\nVous aimez ce podcast ? Po",
       "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
@@ -180,58 +196,42 @@
       }
     },
     {
-      "title": "La fin, et après ? : Retrouver le goût de l'inachèvement",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/amities-vacances-series-a-t-on-un-probleme-avec-la-fin-2228842",
-      "description": "durée : 00:58:39  - Avec philosophie - par : Géraldine Mosna-Savoye - Et si l'inachèvement était positif ? Et si ne pas finir pouvait en fait créer du désir ? Et si l'inachèvement était notre moteur ?  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Nicolas Berger, Frédéric Worms, Pauline Haies - invités : Blanche Leridon directrice des études à l’Institut Montaigne, spécialiste des questions démocratiques et institutionnelles \n\nVous aimez ce podcast ? Pour écouter tou",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Confucius, un savoir-être sans confusion : Confucius, d’ennemi de Mao à superstar !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/confucius-d-ennemi-de-mao-a-superstar-4184437",
+      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Mosna-Savoye - Pendant plus de deux millénaires, Confucius a régné. Les choses changent au XXe siècle, d'abord à la fin de l'Empire en 1911, puis avec Mao et sa révolution culturelle. Poussiéreux, obstacle au progrès, il est devenu l'ennemi à abattre. Mais le confucianisme est résistant... il est de retour !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies ",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
+      }
+    },
+    {
+      "title": "Confucius, un savoir-être sans confusion : Confucius, un \"raté\" devenu grand maître",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/comment-confucius-a-t-il-trace-sa-voie-5354168",
+      "description": "durée : 00:59:03  - Avec philosophie - par : Géraldine Mosna-Savoye - Kong Fuzi, soit Maître Kong, appelé Confucius depuis la latinisation de son nom au XVIème siècle, est né en 551 av. J.-C. et mort en 479 av. J.-C. Il a traversé les siècles et demeure aujourd'hui une superstar en Chine. Mais quelle pensée, quels enseignements justifient une telle trajectoire ?   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
       "title": "\"L'Enfer\" de Dante, voyage au centre de soi-même : \"Si tu ne pleures pas, de quoi donc pleures-tu ?\"",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/si-tu-ne-pleures-pas-de-quoi-donc-pleures-tu-3448050",
-      "description": "durée : 00:57:45  - Avec philosophie - par : Géraldine Mosna-Savoye - Dante et Virgile, sa nounou d'enfer, avancent toujours pas à pas. Tout au long de leur voyage ensemble, ils ont versé des larmes, beaucoup de larmes, et nous aussi. Revenons donc sur l'empathie, sur l'\"esprit de pitié\", pour reprendre les mots de Dante, qui constituent le fil de \"La Divine Comédie\".  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Axel Dubois, Leah Wajsgrus, Nicolas Berger, Frédéric ",
+      "description": "durée : 00:57:45  - Avec philosophie - par : Géraldine Mosna-Savoye - Dante et Virgile, sa nounou d'enfer, avancent toujours pas à pas. Tout au long de leur voyage ensemble, ils ont versé des larmes, beaucoup de larmes, et nous aussi. Revenons donc sur l'empathie, sur l'\"esprit de pitié\", pour reprendre les mots de Dante, qui constituent le fil de \"La Divine Comédie\".  - équipe : Frédéric Worms, Anna Pheulpin, Manon de La Selle, Nicolas Berger, Pauline Haies, Anaïs Ysebaert, Carla Michel, Axel D",
       "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Notre esprit n'est pas un ordinateur !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/notre-esprit-n-est-pas-un-ordinateur-9229318",
-      "description": "durée : 00:02:48  - Avec philosophie - par : Anne Alombert - Les machines numériques pensent-elles ? À mesure que l’automatisation gagne du terrain, quelle place nous restera-t-il pour inventer ? En s'appuyant sur Georges Canguilhem, la philosophe Anne Alombert interroge l'illusion de l'intelligence artificielle.  - équipe : Camille Renard, Virginie Le Duault, Thomas Jost, Ludovic Auger \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "La fin, et après ? : Freud : l'analyse peut-elle me guérir ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/freud-l-analyse-peut-elle-me-guerir-2432649",
-      "description": "durée : 00:58:03  - Avec philosophie - par : Géraldine Mosna-Savoye - Si l'on sait quand aller voir un médecin, si l'on sait quand la guérison advient, qu'en est-il de nos souffrances psychiques ? Que se passe-t-il lorsqu'on commence une analyse, et à quel moment peut-elle se terminer ? Et doit-elle même se terminer ?  - équipe : Manon de La Selle, Anaïs Ysebaert, Anna Pheulpin, Carla Michel, Nicolas Berger, Frédéric Worms, Pauline Haies - invités : Clotilde Leguil philosophe et psychanalyste de",
-      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

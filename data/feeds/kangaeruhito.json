@@ -1,24 +1,8 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-09-13T19:26:50.341473+00:00",
+  "fetchedAt": "2026-09-18T08:41:40.261103+00:00",
   "items": [
-    {
-      "title": "第1回　天皇への“ねじれ”",
-      "url": "https://kangaeruhito.jp/interview/764224",
-      "description": "「ややこしい世界へようこそ」 中島　國分さんの新刊『天皇への敗北　シリーズ哲学講話』をとても興味深く拝読しました。そこで論じている分野は、哲学の研究者である國分さんの専門ではなく、むしろ近代日本の思想や政治を専門とする私 […]",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
     {
       "title": "第３回　戦争ゲームはなぜ楽しいのか：シミュレーション、パズル、ストラテジー",
       "url": "https://kangaeruhito.jp/article/764281",
@@ -36,19 +20,51 @@
       }
     },
     {
-      "title": "8. ザ・カレー・シークレット",
-      "url": "https://kangaeruhito.jp/article/764205",
-      "description": "「カレーの秘密」を暴露する一冊 　ここに、“The Curry Secret”という1989年初版のペーパーバックがあります。著者はインド料理店オーナーシェフのKris Dhillon氏。これが実は色んな意味でとんでもな […]",
-      "date": "Thu, 20 Aug 2026",
+      "title": "第４回 移民問題の捉えかた――移民と国家統合（１）",
+      "url": "https://kangaeruhito.jp/article/764271",
+      "description": "本章で取り上げる名著 　経済学では、移民は国境を越えた労働力の移動として捉え、移民の流入が受け入れ国の労働市場にいかなる影響をもたらすかなど、経済的な側面に問題を限定して論じる。しかし生身の人間が、国境を越えて移動するこ […]",
+      "date": "Sun, 13 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "10. カレーの「汁」",
+      "url": "https://kangaeruhito.jp/article/764279",
+      "description": "「肉系カレー」の本質 　今回もカレーレシピ本 “The Curry Secret” のレシピをとっかかりにして始めていきます。どんだけこの本が好きなんだよ⁉︎って話ですけど、ええ好きですとも、と開き直ってお […]",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 10
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "「もっと頑張ろう」「もう頑張らなくていい」――より良い人生を送るためには、どちらの道を選ぶべきか？",
+      "url": "https://kangaeruhito.jp/trial/764292",
+      "description": "悩み多き人生から抜け出したい――そんな思いを抱えながら書店に行くと、さまざまなハウツーやライフハックを教えてくれる「もっと頑張ろう」系の本と、ありのままの自分を優しく肯定してくれる「もう頑張らなくていい」系の本が目に飛 […]",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://kangaeruhito.jp/article/764261",
       "description": "2026年8月27日午後、一般財団法人 新潮文芸振興会と新潮社の主催による「小林秀雄賞」「新潮ドキュメント賞」選考会がオークラ東京にて行なわれ、受賞作品が決定しましたので、ここにお知らせいたします（新潮ドキュメント賞に […]",
       "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "第10回　1965年の北島三郎　（4）「兄弟仁義」と任侠映画",
-      "url": "https://kangaeruhito.jp/article/764236",
-      "description": "任侠映画の象徴として 「帰ろかな」が「最後の望郷歌謡」にしてNHKとの密接な関係の始まりを画する曲で、「函館の女」が「ご当地ソング」の雛形となる大ヒット曲だったとすれば、「兄弟仁義」は、サブちゃんの任侠路線の決定版である […]",
-      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

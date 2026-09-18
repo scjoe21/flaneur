@@ -1,22 +1,38 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-09-13T19:26:49.176662+00:00",
+  "fetchedAt": "2026-09-18T08:41:39.220664+00:00",
   "items": [
     {
-      "title": "History shows that human progress is a myth | John Gray, Jonny Thomson",
-      "url": "https://www.youtube.com/watch?v=murPOSalbfQ",
-      "description": "John Gray and Jonny Thomson discuss how the idea of human progress in ethics and politics is a myth.\n\nDo you agree with John Gray, or is this an overly pessimistic view of humanity?\n\nWith a free trial, you can watch John talk about his life and philosophy NOW at https://iai.tv/video/the-life-and-philosophy-of-john-gray?utm_source=YouTube&utm_medium=description\n\nWhy does every generation assume the future will be more civilized than the past? John Gray argues this belief in progress is both false",
-      "date": "2026-08-29",
-      "thumbnail": "https://i2.ytimg.com/vi/murPOSalbfQ/hqdefault.jpg",
-      "videoId": "murPOSalbfQ",
-      "priority": 40,
+      "title": "Why A.I. isn't as intelligent as it appears | Simon Baron-Cohen",
+      "url": "https://www.youtube.com/watch?v=vPXCm74-nNY",
+      "description": "Simon Baron-Cohen unpacks the reality of artificial intelligence, drawing clear lines for what A.I. can and cannot do.\n\nWhat is the relationship between intelligence and pattern recognition?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-thoughts-computers-cant-think?utm_source=YouTube&utm_medium=description\n\nIntelligence is often measured by facts known and judgements made. Schools reward memorization, work requires discernment, while AI now reduces intelligence",
+      "date": "2026-09-12",
+      "thumbnail": "https://i3.ytimg.com/vi/vPXCm74-nNY/hqdefault.jpg",
+      "videoId": "vPXCm74-nNY",
+      "priority": 35,
       "scoreDetail": {
         "daily": 30,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
+        "total": 35
+      }
+    },
+    {
+      "title": "Why Buddhists think you (and the world) don't really exist | Jess Frazier",
+      "url": "https://www.youtube.com/watch?v=JUcUn0c4Wog",
+      "description": "Jess Frazier unpacks Madhyamaka Buddhism and its notion of a chaotic universe. \n\nIs reality ultimately empty?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/buddhism-and-the-emptiness-of-reality?utm_source=YouTube&utm_medium=description\n\nReality appears full of distinct objects, which can make it difficult to understand Buddhist claims about the \"emptiness\" of the world. But Oxford philosopher Jessica Frazier explains that in a Buddhist metaphysics, things still exis",
+      "date": "2026-09-17",
+      "thumbnail": "https://i3.ytimg.com/vi/JUcUn0c4Wog/hqdefault.jpg",
+      "videoId": "JUcUn0c4Wog",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -84,22 +100,6 @@
       }
     },
     {
-      "title": "What A.I. can and cannot do | Simon Baron-Cohen on intelligent machines",
-      "url": "https://www.youtube.com/watch?v=vPXCm74-nNY",
-      "description": "Simon Baron-Cohen unpacks the reality of artificial intelligence, drawing clear lines for what A.I. can and cannot do.\n\nWhat is the relationship between intelligence and pattern recognition?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-thoughts-computers-cant-think?utm_source=YouTube&utm_medium=description\n\nIntelligence is often measured by facts known and judgements made. Schools reward memorization, work requires discernment, while AI now reduces intelligence",
-      "date": "2026-09-12",
-      "thumbnail": "https://i3.ytimg.com/vi/vPXCm74-nNY/hqdefault.jpg",
-      "videoId": "vPXCm74-nNY",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "How education was sold off to the private sector | Guy Standing",
       "url": "https://www.youtube.com/watch?v=GE8TfN6YF9o",
       "description": "Guy Standing discusses how private equity has taken over education and commodified knowledge.\n\nDoes this match up with your own experience of modern education?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/education-has-lost-its-way-guy-standing?utm_source=YouTube&utm_medium=description\n\nEducation was supposed to empower us. Join economist and author of Human Capital: The Tragedy of the Education Commons, Guy Standing, as he argues the modern education system has be",
@@ -112,22 +112,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The Nuremberg trials and capturing Pinochet | Philippe Sands on international law",
-      "url": "https://www.youtube.com/watch?v=hf9agTJ4x-U",
-      "description": "Philippe Sands dives into the history of justice and war crimes, covering the Nuremberg trials, Augusto Pinochet's arrest in London, and the current conflicts in Ukraine and Gaza.\n\nDo we really hold the powerful to account?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/immunity-and-impunity-in-a-lawless-world?utm_source=YouTube&utm_medium=description\n\nIn a world in which Trump is kidnapping and assassinating heads of state, many now see international law as weak and",
-      "date": "2026-08-27",
-      "thumbnail": "https://i1.ytimg.com/vi/hf9agTJ4x-U/hqdefault.jpg",
-      "videoId": "hf9agTJ4x-U",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 20
       }
     },
@@ -180,6 +164,22 @@
       }
     },
     {
+      "title": "Will open borders lead us to utopia or social ruin? | James Orr, Michael Ignatieff, Gillian Tett",
+      "url": "https://www.youtube.com/watch?v=HlpsVgqipKk",
+      "description": "Michael Ignatieff, James Orr and Gillian Tett discuss immigration policy.\n\nIs Britain European?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/patriotism-populism-and-the-fate-of-nations?utm_source=YouTube&utm_medium=description\n\n\"In the 21st century, we are defined not by our borders, but by our bonds,\" said President Obama. For decades, in response to an increasingly global economy, the direction of travel had been the softening of borders and a suspicion of nati",
+      "date": "2026-09-15",
+      "thumbnail": "https://i1.ytimg.com/vi/HlpsVgqipKk/hqdefault.jpg",
+      "videoId": "HlpsVgqipKk",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The West's addiction to violence | Kishore Mahbubani",
       "url": "https://www.youtube.com/shorts/CukOUFtDSE0",
       "description": "",
@@ -212,12 +212,12 @@
       }
     },
     {
-      "title": "The difference between Malcolm X and Martin Luther King Jr. is misunderstood | Kehinde Andrews",
-      "url": "https://www.youtube.com/shorts/_nxovo63zk8",
+      "title": "Thatcher's curse on education | Guy Standing",
+      "url": "https://www.youtube.com/shorts/nrfegDKq8e0",
       "description": "",
-      "date": "2026-09-05",
-      "thumbnail": "https://i4.ytimg.com/vi/_nxovo63zk8/hqdefault.jpg",
-      "videoId": "_nxovo63zk8",
+      "date": "2026-09-16",
+      "thumbnail": "https://i3.ytimg.com/vi/nrfegDKq8e0/hqdefault.jpg",
+      "videoId": "nrfegDKq8e0",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,
@@ -228,12 +228,12 @@
       }
     },
     {
-      "title": "Autistic people are more empathetic than others assume | Simon Baron-Cohen",
-      "url": "https://www.youtube.com/shorts/y6idxiG9rfg",
+      "title": "The difference between Malcolm X and Martin Luther King Jr. is misunderstood | Kehinde Andrews",
+      "url": "https://www.youtube.com/shorts/_nxovo63zk8",
       "description": "",
-      "date": "2026-08-29",
-      "thumbnail": "https://i2.ytimg.com/vi/y6idxiG9rfg/hqdefault.jpg",
-      "videoId": "y6idxiG9rfg",
+      "date": "2026-09-05",
+      "thumbnail": "https://i4.ytimg.com/vi/_nxovo63zk8/hqdefault.jpg",
+      "videoId": "_nxovo63zk8",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

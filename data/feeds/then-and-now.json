@@ -1,7 +1,7 @@
 {
   "sourceId": "then-and-now",
   "sourceName": "Then & Now",
-  "fetchedAt": "2026-09-13T19:26:34.062653+00:00",
+  "fetchedAt": "2026-09-18T08:41:27.407197+00:00",
   "items": [
     {
       "title": "The New Age of Remote War",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Revolutions, mapped (no music)",
+      "url": "https://www.youtube.com/watch?v=Z7Cs9evaqpY",
+      "description": "Watch ad-free for free over on Patreon and consider supporting Then & Now:\nhttps://www.patreon.com/thenandnow/posts/revolutions-no-169725612",
+      "date": "2026-09-17",
+      "thumbnail": "https://i3.ytimg.com/vi/Z7Cs9evaqpY/hqdefault.jpg",
+      "videoId": "Z7Cs9evaqpY",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-02-12",
       "thumbnail": "https://i3.ytimg.com/vi/6OTQfhV6uuQ/hqdefault.jpg",
       "videoId": "6OTQfhV6uuQ",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Will Fascism return?",
-      "url": "https://www.youtube.com/watch?v=6pLSUN8WRi4",
-      "description": "",
-      "date": "2026-02-11",
-      "thumbnail": "https://i3.ytimg.com/vi/6pLSUN8WRi4/hqdefault.jpg",
-      "videoId": "6pLSUN8WRi4",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

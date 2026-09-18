@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-09-13T19:26:19.778903+00:00",
+  "fetchedAt": "2026-09-18T08:39:46.420187+00:00",
   "items": [
     {
       "title": "Perché sappiamo tutto e non facciamo niente?",
@@ -36,19 +36,35 @@
       }
     },
     {
-      "title": "Come nasce Tlon?",
-      "url": "https://www.youtube.com/watch?v=aPqo7Ge4i1k",
-      "description": "Tlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2025-12-26",
-      "thumbnail": "https://i2.ytimg.com/vi/aPqo7Ge4i1k/hqdefault.jpg",
-      "videoId": "aPqo7Ge4i1k",
-      "priority": 30,
+      "title": "Why markets matter to citizens #substack #shorts",
+      "url": "https://www.youtube.com/shorts/i0EDaZ4Ob5A",
+      "description": "This is a clip from https://www.tlonletter.it/p/chi-capisce-i-soldi-ha-piu-potere?utm_source=youtube_shorts\n\nSee the full video: https://www.youtube.com/watch?v=icvlwW7qqRU\n\n#shorts #substack",
+      "date": "2026-09-14",
+      "thumbnail": "https://i2.ytimg.com/vi/i0EDaZ4Ob5A/hqdefault.jpg",
+      "videoId": "i0EDaZ4Ob5A",
+      "priority": 29,
       "scoreDetail": {
         "daily": 25,
-        "phil": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "Chi capisce i soldi ha più potere?",
+      "url": "https://www.youtube.com/watch?v=icvlwW7qqRU",
+      "description": "Investire con etica, il valore delle persone e l’arte di organizzarsi\n\nhttps://www.tlonletter.it/p/chi-capisce-i-soldi-ha-piu-potere?utm_source=youtube",
+      "date": "2026-09-14",
+      "thumbnail": "https://i2.ytimg.com/vi/icvlwW7qqRU/hqdefault.jpg",
+      "videoId": "icvlwW7qqRU",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 20
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-05-01",
       "thumbnail": "https://i1.ytimg.com/vi/Hhey6N_4CAI/hqdefault.jpg",
       "videoId": "Hhey6N_4CAI",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Unpacking Israel - Unpacking Palestine. Deconstructing narratives.",
-      "url": "https://www.youtube.com/watch?v=6Y0XIKAiAH4",
-      "description": "Con Ilan Pappè, Eyal Weizman, Francesca Albanese e Alba Nabusi",
-      "date": "2025-10-06",
-      "thumbnail": "https://i3.ytimg.com/vi/6Y0XIKAiAH4/hqdefault.jpg",
-      "videoId": "6Y0XIKAiAH4",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

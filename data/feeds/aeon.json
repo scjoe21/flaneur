@@ -1,8 +1,24 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-09-13T19:26:31.810313+00:00",
+  "fetchedAt": "2026-09-18T08:41:26.694098+00:00",
   "items": [
+    {
+      "title": "Once upon a screen: explosive paradox",
+      "url": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
+      "description": "Decades after seeing ‘Platoon’, Kevin recalls how the film stirred generational trauma in his family and racism at school - by Aeon Video Watch on Aeon",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 34
+      }
+    },
     {
       "title": "The Chinese room",
       "url": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
@@ -20,19 +36,51 @@
       }
     },
     {
-      "title": "Dolphins and other lovers",
-      "url": "https://aeon.co/essays/why-the-andoque-of-the-amazon-fear-the-seductive-dolphin",
-      "description": "The Andoque of the Amazon know what we have forgotten: the forest’s most beautiful creatures are also its most dangerous - by Eliran Arazi Read on Aeon",
-      "date": "Thu, 20 Aug 2026",
+      "title": "Chasing la dolce vita",
+      "url": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
+      "description": "Homecomings, fantasies, food and ghosts – how the myth of eternal return keeps the Italian diaspora in a state of longing - by Ben Faccini Read on Aeon",
+      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 20
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The bombarding of childhood",
+      "url": "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media",
+      "description": "It’s not just screen time: the problem with children’s media is that it has become relentlessly hectic, loud and bright - by Natalia Kucirkova Read on Aeon",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The meaning of fake marble",
+      "url": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
+      "description": "From ancient Roman frescoes to modern kitchen benchtops, our desire to recreate marble is about more than cutting costs - by Aeon Video Watch on Aeon",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -52,35 +100,19 @@
       }
     },
     {
-      "title": "A vocabulary for the future: touch",
-      "url": "https://aeon.co/videos/repulsion-at-the-core-of-attraction-on-the-paradox-of-touch",
-      "description": "A mesmerising blend of words and images make touch a doorway into the deepest questions in physics and philosophy - by Aeon Video Watch on Aeon",
-      "date": "Thu, 20 Aug 2026",
+      "title": "Who will taste the cherries?",
+      "url": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
+      "description": "The computist has one dream: to debug the subjectivity out of all of human knowledge, creating a pure, frictionless world - by Liam Spradlin Read on Aeon",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "The fog of hunger",
-      "url": "https://aeon.co/essays/a-hungry-woman-is-easier-to-dismiss-than-a-well-fed-woman",
-      "description": "From childhood, women are trained to restrict their appetite. And there’s a huge, hidden, cognitive price to pay for it - by Sarah Berg Read on Aeon",
-      "date": "Fri, 21 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -96,22 +128,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "The conscience files",
-      "url": "https://aeon.co/videos/thieves-of-cursed-rocks-pen-letters-of-remorse-to-a-national-park",
-      "description": "The sorrows and redemptions of visitors who mailed their ‘souvenirs’ back to Arizona’s Petrified Forest National Park - by Aeon Video Watch on Aeon",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 5
       }
     },
@@ -132,35 +148,19 @@
       }
     },
     {
-      "title": "More nothing now",
-      "url": "https://aeon.co/essays/play-is-doing-its-work-even-if-were-not-keeping-score",
-      "description": "We are most human when we play freely, imaginatively, pointlessly. Gamification risks atrophying that most precious capacity - by Justin Neuman Read on Aeon",
-      "date": "Tue, 01 Sep 2026",
+      "title": "Animal eye",
+      "url": "https://aeon.co/videos/the-alien-worlds-beside-our-own-a-journey-into-animal-eyes",
+      "description": "Probing the biology, beauty and mystery of animal eyes, this short poetic documentary explores an alien world - by Aeon Video Watch on Aeon",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "The Singapore strategies",
-      "url": "https://aeon.co/essays/did-singapore-go-wrong-in-its-quest-for-food-security",
-      "description": "The nation’s water is secure, but its food is another matter: lessons from the city-state in efficiency versus self-sufficiency - by Peter A Coclanis Read on Aeon",
-      "date": "Mon, 31 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {

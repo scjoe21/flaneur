@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-09-13T19:26:46.222456+00:00",
+  "fetchedAt": "2026-09-18T08:41:37.415844+00:00",
   "items": [
     {
       "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "Why corporate inclusion policies are moral decisions, not just business ones",
-      "url": "https://theconversation.com/why-corporate-inclusion-policies-are-moral-decisions-not-just-business-ones-279160",
-      "description": "",
-      "date": "2026-06-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -81,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "When does being ‘apolitical’ become a political act? An ethicist on the Ed Sheeran saga",
+      "url": "https://theconversation.com/when-does-being-apolitical-become-a-political-act-an-ethicist-on-the-ed-sheeran-saga-292217",
+      "description": "",
+      "date": "2026-09-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

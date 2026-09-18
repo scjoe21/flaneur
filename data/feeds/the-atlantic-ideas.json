@@ -1,13 +1,13 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-13T19:26:35.515683+00:00",
+  "fetchedAt": "2026-09-18T08:41:29.626680+00:00",
   "items": [
     {
-      "title": "Rules Designed to Create Chaos",
-      "url": "https://www.theatlantic.com/ideas/2026/09/mail-voting-usps-trump/688585/?utm_source=feed",
+      "title": "A Plan to Pay Married Mothers Not to Work",
+      "url": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/?utm_source=feed",
       "description": "",
-      "date": "2026-09-11",
+      "date": "2026-09-17",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,10 +20,26 @@
       }
     },
     {
-      "title": "America Has Forfeited Its Greatest Strength",
-      "url": "https://www.theatlantic.com/ideas/2026/09/september-11-trust-america/688580/?utm_source=feed",
+      "title": "Trump’s Position on AI Makes No Sense",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-ai-china/688629/?utm_source=feed",
       "description": "",
-      "date": "2026-09-11",
+      "date": "2026-09-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Supreme Court Recognizes the Danger of Trump’s Election Plan",
+      "url": "https://www.theatlantic.com/ideas/2026/09/supreme-court-trump-election-plan/688626/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-14",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +52,138 @@
       }
     },
     {
-      "title": "The Birth of the New Legal Right",
-      "url": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/?utm_source=feed",
+      "title": "College Is Coming Apart",
+      "url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/?utm_source=feed",
       "description": "",
-      "date": "2026-09-13",
+      "date": "2026-09-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Who Made America Poorer and Dirtier?",
+      "url": "https://www.theatlantic.com/ideas/2026/09/vance-speech-immigrants-democrats/688656/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Destroying Humanity Is Against the Law",
+      "url": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The American Age Is Over",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump’s Kennedy Center Shakedown",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-kennedy-center/688618/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "A Bigoted Outburst Against Texas Sports Fans",
+      "url": "https://www.theatlantic.com/ideas/2026/09/bigoted-outburst-against-texas-sports-fans/688619/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Who Needs Regulation When Trump Is President?",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-ai/688612/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Americans Don’t Understand Who’s Rich",
+      "url": "https://www.theatlantic.com/ideas/2026/09/everywhere-millionaires-tax-code/688584/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "MAGA Is Making the World Safe for Corruption",
+      "url": "https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-14",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -68,170 +212,26 @@
       }
     },
     {
+      "title": "The Birth of the New Legal Right",
+      "url": "https://www.theatlantic.com/ideas/2026/09/federalist-society-conference-conservative-court/688555/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Trump Will Never Mail the $5,000 Checks",
       "url": "https://www.theatlantic.com/ideas/2026/09/trump-5000-rebate-checks/688599/?utm_source=feed",
       "description": "",
       "date": "2026-09-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Original Sin of AI",
-      "url": "https://www.theatlantic.com/ideas/2026/09/meta-settlement-social-media-addiction-youth/688567/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Quarter Century of Pain",
-      "url": "https://www.theatlantic.com/ideas/2026/09/anniversary-war-on-terror/688571/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump’s Weird Loyalty Pledge",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-convention-speech/688583/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bush Understood Something Trump Doesn’t",
-      "url": "https://www.theatlantic.com/ideas/2026/09/bush-trump-mamdani-giuliani-islam/688582/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Thrill of Wanting AI to Destroy the World",
-      "url": "https://www.theatlantic.com/ideas/2026/09/ai-destroy-world-apocalypse/688575/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The George W. Bush Administration’s Lesson for the Trump Era",
-      "url": "https://www.theatlantic.com/ideas/2026/09/9-11-lessons-bush-trump/688572/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What the Aftermath of 9/11 Taught Me",
-      "url": "https://www.theatlantic.com/ideas/2026/09/9-11-first-responders-care/688554/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Does Trump Want Republicans to Win the Midterms?",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-miderm-strategy-convention/688559/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Inside Story of What Happened at <em>Stars and Stripes</em>",
-      "url": "https://www.theatlantic.com/ideas/2026/09/pentagon-military-newspaper-independence-supression/688547/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Anniversary I Wish I Didn’t Share With My Husband",
-      "url": "https://www.theatlantic.com/ideas/2026/09/september-11-widow-museum/688502/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,54 +1,22 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-09-13T19:26:23.880037+00:00",
+  "fetchedAt": "2026-09-18T08:39:47.619267+00:00",
   "items": [
     {
-      "title": "L’amore di dio è un virus",
-      "url": "https://www.iltascabile.com/linguaggi/amore-dio-virus/",
-      "description": "Musica devozionale, lo-fi e latenze del catechismo: la parabola di Sister Irene O’Connor e del suo  Fire of God’s Love , un album che si insinua come un  earworm  nella mente. \n L'articolo  L’amore di dio è un virus  proviene da  Il Tascabile .",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Intelligenza artificiale, i primi tremila anni",
+      "url": "https://www.iltascabile.com/scienze/intelligenza-artificiale-primi-3000-anni/",
+      "description": "Come i miti antichi, la filosofia e la letteratura hanno “programmato” l’IA di oggi, e incideranno su quella del futuro. \n L'articolo  Intelligenza artificiale, i primi tremila anni  proviene da  Il Tascabile .",
+      "date": "Mon, 14 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Eurafrica",
-      "url": "https://www.iltascabile.com/societa/eurafrica/",
-      "description": "Dalla storia di come le potenze coloniali europee hanno sognato di unire Europa e Africa in un’entità unica al caso dell’ Union  française , rivendicazione di una forma di Stato nuova e concretamente postnazionale. \n L'articolo  Eurafrica  proviene da  Il Tascabile .",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Cosa può insegnarci un terremoto",
-      "url": "https://www.iltascabile.com/scienze/cosa-insegnarci-terremoto/",
-      "description": "Cinquant'anni fa il Friuli rispose alla catastrofe con una comunità capace di attivarsi e prendere in mano la propria ripresa. In tempi di crisi climatica quel modello partecipativo contiene una lezione preziosa. \n L'articolo  Cosa può insegnarci un terremoto  proviene da  Il Tascabile .",
-      "date": "Mon, 31 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 20
       }
     },
     {
@@ -65,6 +33,70 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Alla ricerca dell’anticanone",
+      "url": "https://www.iltascabile.com/letterature/ricerca-anticanone/",
+      "description": "Tra autrici da riscoprire, figure anomale e letture inattese, una riflessione sui modi di raccontare la letteratura. \n L'articolo  Alla ricerca dell’anticanone  proviene da  Il Tascabile .",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 8,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 8
+      }
+    },
+    {
+      "title": "La scuola ridotta a fabbrica",
+      "url": "https://www.iltascabile.com/societa/scuola-ridotta-fabbrica/",
+      "description": "La riforma degli istituti tecnici è la conferma di una scuola sempre più ancella del mercato, dove la  skolé  diventa un lusso per pochi. \n L'articolo  La scuola ridotta a fabbrica  proviene da  Il Tascabile .",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Coinquilini bestiali di Nicola Bressi",
+      "url": "https://www.iltascabile.com/recensioni/coinquilini-bestiali-nicola-bressi/",
+      "description": "L'articolo  Coinquilini bestiali di Nicola Bressi  proviene da  Il Tascabile .",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La trappola del significato",
+      "url": "https://www.iltascabile.com/linguaggi/trappola-significato/",
+      "description": "Didascalie, fraintendimenti e linguaggi impossibili nella pratica di Monia Ben Hamouda. \n L'articolo  La trappola del significato  proviene da  Il Tascabile .",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/scienze/lillusione-colori/",
       "description": "Tra i mammiferi, noi primati vediamo più colori di quasi tutti gli altri. È il risultato di un percorso evolutivo accidentato, che ha incluso milioni di anni di vita notturna. E probabilmente non è ancora finita. \n L'articolo  L’illusione dei colori  proviene da  Il Tascabile .",
       "date": "Mon, 07 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Un saper leggero di Xavier Nueno",
-      "url": "https://www.iltascabile.com/recensioni/saper-leggero-xavier-nueno/",
-      "description": "L'articolo  Un saper leggero di Xavier Nueno  proviene da  Il Tascabile .",
-      "date": "Fri, 04 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lei non sa chi sono Io",
-      "url": "https://www.iltascabile.com/letterature/lei-non-sa-chi-sono-io/",
-      "description": "Da libro di culto a seconda vita editoriale:  Il corpo non dimentica  di Violetta Bellocchio e il bisogno disperato di dare una forma al proprio dolore. \n L'articolo  <i>Lei</i> non sa chi sono <i>Io</i>  proviene da  Il Tascabile .",
-      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

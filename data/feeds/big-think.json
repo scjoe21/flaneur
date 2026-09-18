@@ -1,14 +1,14 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-09-13T19:26:34.962753+00:00",
+  "fetchedAt": "2026-09-18T08:41:29.253083+00:00",
   "items": [
     {
-      "title": "How to debate, from a two-time world champion",
-      "url": "https://bigthink.com/series/full-interview/how-to-debate-seo/",
-      "description": "Two-time debate champion Bo Seo breaks down why arguments fail: the four bad-faith personas that hijack conversations, a four-question framework for picking fights worth having, and the surprising Cold War standoff between Nixon and Khrushchev that gives us a model for staying cool under pressure.  \n \n This video  How to debate, from a two-time world champion  is featured on  Big Think .",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-08-at-10.54.54-AM.png?quality=80&w=640",
+      "title": "This 3-step method to simplify your life starts with your obituary",
+      "url": "https://bigthink.com/business/axios-cofounders-on-simplifying-your-life/",
+      "description": "Jim VandeHei, Mike Allen, and Roy Schwartz want you to think deeply about death. \n Not in a morbid sense, mind you. Rather, imagine you’re writing your own obituary. What do you want it to say? \n “Thinking about it that way and then working backwards really does create a map [for how to spend your time],” VandeHei told Big Think.  \n VandeHei would like his obituary to say that he was a great father, son, sibling, and husband who was passionate about the work that he did and generous in the workp",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/axios-3-step-method_compressed.png?quality=80&w=640",
       "videoId": "",
       "priority": 50,
       "scoreDetail": {
@@ -20,59 +20,27 @@
       }
     },
     {
-      "title": "Can we be certain that time really exists?",
-      "url": "https://bigthink.com/starts-with-a-bang/does-time-exist-182965/",
-      "description": "From both a philosophical and a scientific perspective, we’re taught to doubt, question, and be skeptical of everything. Even the reality of ourselves and our own experiences cannot be taken for granted, as we must make certain assumptions about how trustworthy our measurement sensors — and our own senses, for that matter — actually are in order to arrive at any satisfactory conclusions. Sure, certain things might appear real, but it’s also possible that those “real” appearances are deceiving us",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/04/1152px-World_line2.jpg?quality=85&w=640",
+      "title": "The gap between knowing better and doing better, and how to close it",
+      "url": "https://bigthink.com/series/full-interview/knowing-doing-gap/",
+      "description": "Most of us can recite the benefits of exercise, gratitude, and patience while doing none of it. Tal Ben-Shahar calls this the Knowing-Doing gap, and our typical interventions, like retreats and month-long overhauls keep it open. \n This video  The gap between knowing better and doing better, and how to close it  is featured on  Big Think .",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Screenshot-2026-09-17-at-11.15.35-AM.png?quality=80&w=640",
       "videoId": "",
-      "priority": 50,
+      "priority": 30,
       "scoreDetail": {
         "daily": 20,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 15,
-        "total": 50
-      }
-    },
-    {
-      "title": "The secret your brain uses to decide how much pain you feel",
-      "url": "https://bigthink.com/series/curiosity-lab/curiosity-lab-1/",
-      "description": "We treat pain like a plumbing problem. Something in the body is broken, so we block the signal with medication or cut it out with surgery. The opioid epidemic is what happens when that is the only model we have. \n Pain psychologist Rachel Zoffness explains why it is also an incomplete account of how pain works. Pain is constructed by the brain, out of biology, emotion, and environment at once. Most chronic back pain has no identifiable structural cause, and 90% of us are walking around with abno",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/A5-YT-Zoffness.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 5,
-        "flaneur": 4,
         "novelty": 0,
-        "total": 44
+        "total": 30
       }
     },
     {
-      "title": "Ask Ethan: Do white holes, the opposite of black holes, physically exist?",
-      "url": "https://bigthink.com/starts-with-a-bang/white-holes-exist/",
-      "description": "In our Universe, the mathematical forms that the laws of physics take on give us all of the possibilities for what’s allowed to conceivably exist. However, only by actually observing, measuring, and experimenting with our Universe itself can we determine which of the mathematical possibilities describes our physical reality. In Einstein’s general relativity, one of the very first theoretical solutions that was ever uncovered was the solution for a black hole: a region of space with so much matte",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/01/AdobeStock_535436024.jpeg?quality=85&w=640",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 35
-      }
-    },
-    {
-      "title": "John Gray on why “progress” in politics is an illusion",
-      "url": "https://bigthink.com/mini-philosophy/history-shows-that-human-progress-is-a-myth/",
-      "description": "There are two different kinds of stories. \n The first is the linear story. The characters start at position A and end at position B, having beaten all the baddies, and married the right person. The real story is about the transformation that happens along the way. This is a story about direction. Mostly, it’s about progress. We move from naïve to wise, raw to cooked, NPC to hero. \n In terms of philosophy, the linear-progressive story is best represented by the Hegelian dialectic. Hegel argued th",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/human-progress-myth_compressed.jpg?quality=85&w=640",
+      "title": "Misery is an emotional feature, not a glitch in the system",
+      "url": "https://bigthink.com/books/the-opposite-of-happiness/",
+      "description": "Tolstoy’s famous opening to  Anna Karenina  (1878) about happy families being all alike but unhappy ones each being unhappy in their own way applies just as well to feelings. There are simply more ways to feel bad than to feel good — and more words to describe those bad feelings. English is bloated with terms for anger, anxiety, sorrow, shame, jealousy, regret. When it comes to the positive side of the spectrum, the vocabulary thins out fast. Indeed, we lack satisfactory terms for a range of pos",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/ooposite-of-happiness_excerpt.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
@@ -84,59 +52,75 @@
       }
     },
     {
-      "title": "The test pilot who made airplanes safer (by teaching us how to break them better)",
-      "url": "https://bigthink.com/books/the-test-pilot-jimmy-doolittle/",
-      "description": "In the years following the Wright brothers’ 1903 takeoff, aircraft were designed via what a NASA history calls “an intuitive, daring empirical engineering loosely connected at best with any theory of aerodynamics or structural integrity.” Plane makers had some ideas about how to mimic flight while on the ground, but these were crude approximations with little sense of similarity or workability (that measure of practicality and reproducibility). The assessment of a plane as insufficiently robust ",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/kobuk_excerpt-1.jpg?quality=85&w=640",
+      "title": "Ask Ethan: How did atoms come to be?",
+      "url": "https://bigthink.com/starts-with-a-bang/how-atoms-come/",
+      "description": "At the core of everything we’ve ever touched, seen, or interacted with here on Earth is the same humble physical structure: the atom. Each human body possesses around  10²⁸  of them, and they come in just under 100 different species, or elements, through natural processes, and we’ve synthesized several dozen more in laboratory experiments. Combined, atoms bind together to make unfathomably intricate, complex structures on both microscopic and macroscopic scales, and compose every living and nonl",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2024/08/atoms.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
-      "title": "Leadership isn’t natural — but making intelligent decisions can be learned",
-      "url": "https://bigthink.com/business/leadership-intelligence/",
-      "description": "Every day as a leader brings an endless flow of judgment calls, big and small. Even as you read this, you might be weighing where to focus your team’s efforts this quarter, who to hire for a role, or how to handle a slightly cheeky budget request from a colleague. You might be trying to decide whether to skip a meeting this afternoon, or how to tamp down a weird little disagreement so that it doesn’t turn into a bigger one. These choices are rarely like math problems with clean answers; you have",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/leadership-intelligence_excerpt.jpg?quality=85&w=640",
+      "title": "The information paradox at the heart of every black hole",
+      "url": "https://bigthink.com/starts-with-a-bang/paradox-black-hole/",
+      "description": "When something falls into a black hole, where does the material ultimately go, and will it, or the quantum information that it contained, ever come back out again? According to Einstein’s general relativity, those answers are simple: as soon as anything physical — matter, antimatter, radiation, etc. — crosses over the event horizon, it’s irretrievably gone. It can add to certain properties, like mass, electric charge, and angular momentum, that the black hole possesses, but little else. Instead,",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2018/03/136953-136954-e1694477841962.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 24,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
+    {
+      "title": "The psychological trap that distorts how you see difficult people",
+      "url": "https://bigthink.com/work-wise/the-psychological-trap-that-distorts-how-you-see-difficult-people/",
+      "description": "It’s a Thursday afternoon, and I’m on a video call with an executive I’ll call Marcus, who is explaining to me, with real precision and a few colorful words, what is wrong with a peer of his I’ll call Dev. \n Dev was recently quiet in a leadership meeting. Said nothing, nodded along. Then at 11 p.m., Dev sends an email to four people who were in the meeting, laying out every objection he didn’t raise while everyone was in the room. Marcus has been thinking about this for months. His theory: Dev i",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/79da3226-5041-4287-ad3a-face0a33f79f_1920x1080.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 20
       }
     },
     {
-      "title": "The 19th-century veterinarian who nearly cracked one of medicine’s oldest mysteries",
-      "url": "https://bigthink.com/books/the-great-epizootic-1872/",
-      "description": "As far as presenting the case for germ theory, James Law’s 45-page report “Influenza in Horses,” which appeared in the  Report of the Commissioner of Agriculture for the Year 1872   was a tour de force of the medical geography of the Great Epizootic. It contained detailed information on the “atmospheric conditions” that miasmists turned to over and over again, as well as a synopsis of the results of a study Law had commissioned from a microscopist colleague. It was from that combination of medic",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/08/nary-a-horse_excerpt.jpg?quality=85&w=640",
+      "title": "Scientists map massive layer of life just beneath our feet",
+      "url": "https://bigthink.com/strange-maps/fungal-internet/",
+      "description": "Directly beneath our feet stretches a world both smaller and much, much larger than the one we know. Scientists have just begun mapping what may well be the largest piece of infrastructure on Earth: a network of fungal threads that is 68  quadrillion  miles long. \n It’s alive! \n And we thought we’d mapped just about everything there is to map on this planet: continents, voting patterns, bird migration routes, alleged apparitions of the Virgin Mary, and Starbucks locations near you. \n We’ve logge",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Cropped-Fungal.png?quality=80&w=640",
       "videoId": "",
-      "priority": 9,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
+        "daily": 10,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
-        "total": 9
+        "total": 19
       }
     },
     {
-      "title": "Does the expanding Universe stretch space or create new space?",
-      "url": "https://bigthink.com/starts-with-a-bang/universe-expand-stretching-creating-space/",
-      "description": "It’s been nearly a full century, almost 100 years, since humanity first reached a revolutionary conclusion about the nature of our Universe: space itself cannot and does not remain static, but rather evolves with the passage of time. One of the most counterintuitive predictions of Einstein’s general relativity is that any Universe — so long as it’s uniformly (or almost uniformly) filled with one or more species of matter, radiation, or energy — cannot remain both static and stable over time. Ins",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/08/RaisinBread-Universe-Expanding-16x9-816.png?quality=80&w=640",
+      "title": "The “hidden laziness” holding you back, according to a Tibetan Buddhist master",
+      "url": "https://bigthink.com/mini-philosophy/the-hidden-laziness-holding-you-back-according-to-a-tibetan-buddhist-master/",
+      "description": "Here are three stories about laziness. Or maybe not.  \n 1.  Sam’s just returned from work exhausted and slouches onto the sofa. So, Sam’s partner is left to do everything else for the night. Make dinner, tidy up, put the kids to bed. All that domestic busyness is someone else’s job. “Outside my wheelhouse,” Sam likes to say. Sam works hard at work, and the salary pays for the house and everything in it. \n Is Sam lazy? \n 2.  Billy is 16 years old, and his weekend is spent doing all the things a t",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/Laziness-Tibetan-Buddhist-Master_compressed.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -148,11 +132,27 @@
       }
     },
     {
-      "title": "Beyond the Odyssey: A beginner’s guide to Greek mythology",
-      "url": "https://bigthink.com/books/a-beginners-guide-to-greek-mythology/",
-      "description": "The success of Christopher Nolan’s  The Odyssey  (2026) has motivated many moviegoers to  pick up their own copy  of the ancient poem. But while Homer’s take on the tale of Odysseus is one of the most famous classical texts to have survived into modern times, it’s hardly the only one worth reading. And for those looking to dive deeper into Greek myth, it may not even be the best place to start.  \n We wanted to put together a beginner’s guide to Greek mythology and literature, but to do it right,",
-      "date": "Sat, 12 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/beginners-guide-to-greek-myths.jpg?quality=85&w=640",
+      "title": "Do gravitational waves show evidence of wave-particle duality?",
+      "url": "https://bigthink.com/starts-with-a-bang/gravitational-waves-wave-particle-duality/",
+      "description": "The world forever changed back in February of 2016, when the LIGO collaboration made arguably the biggest scientific announcement of the 21st century, altering our view of the Universe forever. From more than a billion light-years away, two massive black holes, of 36 and 29 solar masses, had inspiraled and merged. The result of that merger was a single black hole of 62 solar masses, with the remaining 3 solar masses converted into pure energy via Einstein’s  E = mc² , rippling throughout the Uni",
+      "date": "Thu, 17 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/02/Artists-Impression-of-Colliding-Black-Holes.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "One blip isn’t enough to declare “dark matter has been detected”",
+      "url": "https://bigthink.com/starts-with-a-bang/one-blip-dark-matter-detected/",
+      "description": "Since it was first proposed way back in the 1930s, scientists have wondered about whether the matter we know of — atoms, their constituents, and other subatomic particles — represent all the matter that exists in the Universe, or whether there’s an unseen form of matter making up the majority of the cosmic mass budget: dark matter. Although the evidence for it has been largely indirect and astrophysical in nature, the cumulative case for dark matter is incredibly strong, coming from many differe",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/LZdetector-e1789364244861.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

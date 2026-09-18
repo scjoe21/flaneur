@@ -1,19 +1,35 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-09-13T19:26:52.797522+00:00",
+  "fetchedAt": "2026-09-18T08:41:43.420356+00:00",
   "items": [
     {
-      "title": "「異例の協調介入」に意味はあるのか？作家・橘玲と経済学者・服部孝洋が考える『為替介入とは何か』",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/hattori_tachibana/36605",
-      "description": "橘：『為替介入とは何か』を拝読しましたが、すごくタイムリーな時期に刊行されましたね。為替介入があることを予想されてたんでしょうか。 服部： 2026年に為替介入があるだろうなと感じていましたが、これほど話題になるとは思わ […]",
-      "date": "Mon, 31 Aug 2026",
+      "title": "労働の発明―アダム・スミスと17世紀",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/idonotlikework/36666",
+      "description": "アダム・スミスは、前回紹介したマンデヴィルが投げかけた「豊かさと道徳は共存可能か」という問いに正面から向き合い、両者は共存できると主張した経済学者でした。『国富論』の17年前に書かれた、もう一つの主著『道徳感情論』にお […]",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "【選択的夫婦別姓】なぜ旧姓の通称使用こそが「戸籍の根幹」を揺るがすのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/news/36702",
+      "description": "高市政権は、「戸籍の根幹」が揺らぐとして「選択的夫婦別姓」ではなく「旧姓の通称使用」を進めようとしている。ここでいう「戸籍の根幹」とは、戸籍が家族の同姓を定めていることを指しているようである。 　しかし戸籍は、もともと […]",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -33,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "マハティールが照らす、日本外交の現在地",
+      "url": "https://shinsho-plus.shueisha.co.jp/review/36651",
+      "description": "「戦後最も厳しい安全保障環境」が語られるいま、日本外交は岐路に立っている。高市政権は防衛力強化と武器輸出拡大を進め、年末の安保戦略三文書改定で非核三原則を堅持するかも曖昧にしている。8月15日の全国戦没者追悼式では、昨年 […]",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,58 +100,10 @@
       }
     },
     {
-      "title": "【福祉排外主義】社会保障をめぐる議論に見られる、「排除」の論理を徹底追及！",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36588",
-      "description": "８月１日に高額療養費制度の自己負担上限額が引き上げられてから、ほぼ1ヶ月が経過した。引き上げの具体的な内容は当連載の第１回や第２回で詳細に解説したとおりだが、テレビや新聞などのマスメディアでも引き上げ直後に概要はいくつ […]",
-      "date": "Sat, 29 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "岩井俊二監督インタビュー「過酷なものと戦っている人たちに感じる自分の憧れや敬意を描いたのが、移民たちを主人公にした『スワロウテイル』だった」",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/swallowtail_butterfly/36502",
-      "description": "（取材・構成：碇本学　撮影：内藤サトル） ――『スワロウテイル 4Kリマスター』が9月4日から公開になります。この企画自体はいつぐらいから始まったのでしょうか。 去年『Love Letter』の4Kリマスターをやって、公 […]",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "火中の栗を拾った二人～潰してはいけない会社がある。事業承継から見える日本の課題～",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/ootuka_fukuda/36445",
-      "description": "構成／井尾淳子　撮影／織田桂子 福田　アメリカでは今でも「会社は株主のもの」という考え方が徹底されていますが、日本の場合は社長が絶大な権力を持っていたり、共同体意識が残っていたりと、まだグラデーションがありますね。 大塚 […]",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "増加する「稼ぐ公園」 PFIで失われる都市の緑",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/36556",
-      "description": "名古屋城とお濠を挟んで並ぶ「名城公園」は、金の鯱しゃちほこを載せた天守閣を望む、緑豊かな公園だ。８月の朝、私が訪ねると多くの人がランニングやウォーキングをしていた。 　公園を歩いていくと、木立が切れて視界が開け、巨大な […]",
-      "date": "Fri, 28 Aug 2026",
+      "title": "コロニアルからポストコロニアルへ　歴史の生き証人マハティールの語る平和論",
+      "url": "https://shinsho-plus.shueisha.co.jp/review/36732",
+      "description": "今年101歳を迎えたマハティールは、類いまれな記憶力と医師として培った論理的思考力、観察力とを備え、1964年に国会議員となり1981年に首相に就任、2020年に二度目の政権を退くまで通算約24年間国政を率いてきた。本 […]",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -132,10 +116,10 @@
       }
     },
     {
-      "title": "円安・インフレ時代を生きるための金融知識とは何か？作家・橘玲と経済学者・服部孝洋が読む『プアジャパン』",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/tachibana_hattori/36610",
-      "description": "服部：私は今大学の教員をやっていて、どのように若い世代に金融の面白さを伝えるかということを日々考えています。橘さんが書かれた『新・臆病者のための株入門』や『プアジャパン』を拝読しましたが、これは金融の教材としても活用でき […]",
-      "date": "Tue, 01 Sep 2026",
+      "title": "【10月1日（木）】『グラスの中のイタリア』刊行記念対談イベントを開催！",
+      "url": "https://shinsho-plus.shueisha.co.jp/information/36670",
+      "description": "9月17日発売の集英社新書ヴィジュアル版、『グラスの中のイタリア 教養のワイン文化史』。その刊行を記念した対談イベントを、10/1にジュンク堂書店池袋本店にて開催します。 イタリアで独自取材を続ける櫻井芙紗子さんが執筆と […]",
+      "date": "Wed, 16 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +132,26 @@
       }
     },
     {
-      "title": "情を捨て、「奪回」した優勝―2007年編",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/hara_giants/36500",
-      "description": "「『非情さを持つ』ことはやましくも恥ずかしくもないんだ、と思ったのは、四位になった2006年シーズン終了のときだった。前述した通り、僕は問題だらけのチームを再建しなくてはならなかった。限られたメンバーでその“目的”を達成 […]",
-      "date": "Wed, 26 Aug 2026",
+      "title": "【福祉排外主義】高齢者の医療保険制度について徹底検証！",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36659",
+      "description": "高額療養費制度の〈見直し〉がメディアで取り上げられる際には、必ずといっていいほど「高齢化や超高額薬剤、医療技術の進歩などで国民医療費が上昇している」という枕詞が用いられる。今年の８月１日に自己負担上限額が引き上げられた […]",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "円安・インフレ時代を生きるための金融知識とは何か？作家・橘玲と経済学者・服部孝洋が読む『プアジャパン』",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/tachibana_hattori/36610",
+      "description": "服部：私は今大学の教員をやっていて、どのように若い世代に金融の面白さを伝えるかということを日々考えています。橘さんが書かれた『新・臆病者のための株入門』や『プアジャパン』を拝読しましたが、これは金融の教材としても活用でき […]",
+      "date": "Tue, 01 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

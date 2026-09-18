@@ -1,13 +1,29 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-13T19:26:09.948175+00:00",
+  "fetchedAt": "2026-09-18T08:39:38.971895+00:00",
   "items": [
     {
-      "title": "Comment trouver le bon mot ? Dans les coulisses des humoristes",
-      "url": "https://www.philomag.com/articles/comment-trouver-le-bon-mot-dans-les-coulisses-des-humoristes",
+      "title": "“L’épistocratie et le problème d’engagement” : découvrez le premier article universitaire de philosophie entièrement conçu par IA",
+      "url": "https://www.philomag.com/articles/lepistocratie-et-le-probleme-dengagement-decouvrez-le-premier-article-universitaire-de",
       "description": "",
-      "date": "Mon, 07 Sep 2026",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Test : et vous, comment prenez-vous la parole ?",
+      "url": "https://www.philomag.com/articles/test-et-vous-comment-prenez-vous-la-parole",
+      "description": "",
+      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,19 +36,35 @@
       }
     },
     {
-      "title": "La crue au Népal, symbole de la “petitesse insignifiante” des êtres humains",
-      "url": "https://www.philomag.com/articles/la-crue-au-nepal-symbole-de-la-petitesse-insignifiante-des-etres-humains",
+      "title": "Comment peut-on “aider” à mourir ?",
+      "url": "https://www.philomag.com/articles/comment-peut-aider-mourir",
       "description": "",
-      "date": "Sat, 05 Sep 2026",
+      "date": "Mon, 14 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 8,
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "“L’IA remplacera peut-être les philosophes de profession, mais jamais le plaisir de penser”",
+      "url": "https://www.philomag.com/articles/lia-remplacera-peut-etre-les-philosophes-de-profession-mais-jamais-le-plaisir-de-penser",
+      "description": "",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
-        "flaneur": 8,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 8
+        "total": 5
       }
     },
     {
@@ -52,35 +84,99 @@
       }
     },
     {
-      "title": "Trouver les mots pour déclarer votre amour, avec Roland Barthes",
-      "url": "https://www.philomag.com/articles/trouver-les-mots-pour-declarer-votre-amour-avec-roland-barthes",
+      "title": "Ménopause, chirurgie esthétique, pilosité… 3 livres pour prendre le pouls de nos corps",
+      "url": "https://www.philomag.com/articles/menopause-chirurgie-esthetique-pilosite-3-livres-pour-prendre-le-pouls-de-nos-corps",
       "description": "",
-      "date": "Wed, 09 Sep 2026",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
-      "title": "Corps, plaisir et salami… L’écrivaine Lize Spit répond à notre “Questionnaire de Socrate”",
-      "url": "https://www.philomag.com/articles/corps-plaisir-et-salami-lecrivaine-lize-spit-repond-notre-questionnaire-de-socrate",
+      "title": "Pour ou contre l’interdiction du port du voile dans l’espace public ? Les arguments d’Yves Michaud et de Nathalie Heinich",
+      "url": "https://www.philomag.com/articles/pour-ou-contre-linterdiction-du-port-du-voile-dans-lespace-public-les-arguments-dyves",
       "description": "",
-      "date": "Sun, 06 Sep 2026",
+      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Le désir ou l'ascèse ? Nietzsche face à Schopenhauer",
+      "url": "https://www.philomag.com/articles/le-desir-ou-lascese-nietzsche-face-schopenhauer",
+      "description": "",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Le rajeunissement cellulaire va-t-il révolutionner ce que “vieillir” veut dire ?",
+      "url": "https://www.philomag.com/articles/le-rajeunissement-cellulaire-va-t-il-revolutionner-ce-que-vieillir-veut-dire",
+      "description": "",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Mon frère” : quand le langage nous fait signe",
+      "url": "https://www.philomag.com/articles/mon-frere-quand-le-langage-nous-fait-signe",
+      "description": "",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Demain, tous sous antidépresseurs ?",
+      "url": "https://www.philomag.com/articles/demain-tous-sous-antidepresseurs",
+      "description": "",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,102 +232,6 @@
       "url": "https://www.philomag.com/articles/trouver-les-mots-justes-pour-mobiliser-les-foules-avec-simone-de-beauvoir",
       "description": "",
       "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le jour où les IA se sont unies contre nous",
-      "url": "https://www.philomag.com/articles/le-jour-ou-les-ia-se-sont-unies-contre-nous",
-      "description": "",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trouver les mots justes pour consoler nos proches avec Plutarque",
-      "url": "https://www.philomag.com/articles/trouver-les-mots-justes-pour-consoler-nos-proches-avec-plutarque",
-      "description": "",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le “rire” chez Bergson, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/le-rire-chez-bergson-cest-quoi",
-      "description": "",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les intellectuels et les idées qui inspirent l’AfD",
-      "url": "https://www.philomag.com/articles/les-intellectuels-et-les-idees-qui-inspirent-lafd",
-      "description": "",
-      "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trouver les mots pour rendre hommage aux défunts, avec Jacques Derrida",
-      "url": "https://www.philomag.com/articles/trouver-les-mots-pour-rendre-hommage-aux-defunts-avec-jacques-derrida",
-      "description": "",
-      "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Se soucier de son âme”, le vibrant appel d’Amélie Nothomb",
-      "url": "https://www.philomag.com/articles/se-soucier-de-son-ame-le-vibrant-appel-damelie-nothomb",
-      "description": "",
-      "date": "Mon, 07 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

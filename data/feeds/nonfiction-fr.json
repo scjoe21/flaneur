@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-09-13T19:26:39.696635+00:00",
+  "fetchedAt": "2026-09-18T08:41:33.136657+00:00",
   "items": [
     {
       "title": "« Saint-Nazaire au travail »",
@@ -49,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "Louise Glück : les recettes de l’hiver",
-      "url": "https://www.nonfiction.fr/article-12822-louise-gluck-les-recettes-de-lhiver.htm",
-      "description": "Il y a quelque chose de profondément ironique dans le titre du dernier recueil publié par Louise Glück de son vivant.  Winter Recipes from the Collective  laisse imaginer un livre domestique, presque prosaïque, alors qu’il s’agit d’une méditation sur la vieillesse, la mort, mais aussi la mémoire et les transformations qu’elle opère. Fidèle à sa manière de faire surgir les questions les plus graves à partir de situations ordinaires, Glück choisit une forme apparemment modeste pour aborder les enj",
-      "date": "Mon, 24 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 23,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 23
       }
     },
     {
@@ -129,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Michel Butor, 1926-2026 : entretien avec Nathalie Piégay",
+      "url": "https://www.nonfiction.fr/article-12843-michel-butor-1926-2026-entretien-avec-nathalie-piegay.htm",
+      "description": "Michel Butor (1926-2016) aurait eu 100 ans ce 14 septembre. L’occasion pour les éditeurs (Minuit, Droz, le Canoë) de republier certains de ses livres augmentés de commentaires signés de deux éminentes butoriennes – la regrettée Mireille Calle-Gruber d’une part, Nathalie Piégay d’autre part. Et l’occasion pour nonfiction.fr d’interroger cette dernière, professeure de littérature du XX e  siècle à l’université de Genève, sur ces rééditions bien sûr, mais aussi sur ce qui rend Butor et son œuvre, a",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

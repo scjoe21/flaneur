@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-13T19:26:42.128376+00:00",
+  "fetchedAt": "2026-09-18T08:41:34.794046+00:00",
   "items": [
     {
       "title": "Gesundheitstrend Breathwork - Was Atmen bewirken kann",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "Scham - Ein unangenehmes Gefühl sichert das Zusammenleben",
-      "url": "https://www.deutschlandfunkkultur.de/wie-viel-scham-braucht-unsere-gesellschaft-100.html",
-      "description": "Scham ist ein machtvolles Instrument. Sie kann gesellschaftliche Gruppen unterdrücken, aber auch ein friedvolles Zusammenleben ermöglichen. Wie also am besten mit ihr umgehen, damit sie nicht bloßstellt, sondern die Gesellschaft weiterbringt? (Erstsendung am 10.11.25) Hofmann, Madeleine www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 24 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
       "title": "Dickenfeindlichkeit - Der Druck durch die Abnehmspritze",
       "url": "https://www.deutschlandfunkkultur.de/jetzt-koenntest-du-doch-endlich-abnehmen-dickenfeindlichkeit-100.html",
       "description": "Abnehmspritzen sind im Mainstream angekommen. Durch sie nimmt aber der Druck auf Übergewichtige zu. Sie berichten, dass sie wieder häufiger diskriminiert und beleidigt werden. Warum ist das so? Woher kommt diese Feindlichkeit? Möller, Henrike www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Frieden - Spurensuche zu einem Begriff zwischen Kitsch und Krieg",
+      "url": "https://www.deutschlandfunkkultur.de/wem-gehoert-der-frieden-suche-nach-einem-begriff-zwischen-kitsch-und-krieg-100.html",
+      "description": "Wer für Frieden eintritt, gilt heute schnell als weltfremd - \"Kriegstüchtigkeit\" ist das Gebot der Stunde. Dabei tarnt sich auch der Krieg gern als Frieden: als Schutz, Verteidigung, Befreiung. Wie kam es dazu? Peikert, Linda www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "Das Gegenteil vom Nichts - Auf der Spur der Schwarzen Löcher",
-      "url": "https://www.deutschlandfunkkultur.de/das-gegenteil-vom-nichts-auf-der-spur-der-schwarzen-loecher-100.html",
-      "description": "Schwarze Löcher sind die Leichen riesiger Sterne. Sie lassen Raum und Zeit erzittern. Womöglich sind sie schon beim Urknall entstanden. Ihr Inneres verbergen sie – doch allmählich gelingt es der Wissenschaft, ihnen ihre Geheimnisse zu entreißen. (Erstsendung am 26.02.26) Lorenzen, Dirk www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 20 Aug 2026",
+      "title": "Zukunft ohne Kinder? - Gründe für den Geburtenknick",
+      "url": "https://www.deutschlandfunkkultur.de/in-zukunft-ohne-kinder-gruende-fuer-den-geburtenknick-100.html",
+      "description": "In Deutschland werden immer weniger Kinder geboren: 2025 waren es rund 654.000 - der niedrigste Wert seit 1946. Die Gründe dafür sind vielfältig. Auch die Krisen der vergangenen Jahre wirken sich auf Kinderwunsch und Familienplanung aus. Böckmann, Clemens www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 25,
       "scoreDetail": {
         "daily": 15,
         "phil": 10,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 29
+        "total": 25
       }
     },
     {
@@ -132,6 +132,38 @@
       }
     },
     {
+      "title": "Die Spitzenküche erfindet sich neu",
+      "url": "https://www.deutschlandfunkkultur.de/am-limit-des-guten-geschmacks-wie-sich-die-spitzenkueche-neu-erfindet-100.html",
+      "description": "Die Gäste sparen, Energie- und Mietkosten steigen, Personal ist knapp: Auch Sternerestaurants haben mit Problemen zu kämpfen. Deswegen ändern manche Spitzenköche ihre Ausrichtung: Einfache Küche zu erschwinglichen Preisen ist angesagt. Mayer, Verena Carola www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 15 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Betrogene Kämpfer - Afrikanische Soldaten in Europas Kriegen",
+      "url": "https://www.deutschlandfunkkultur.de/betrogene-kaempfer-afrikanische-soldaten-in-europas-kriegen-100.html",
+      "description": "Ihre Geschichte reicht von den Schützengräben Europas bis zur Front in der Ukraine: Afrikanische Soldaten kämpfen seit Jahrzehnten für fremde Mächte. Versprechen von Geld und Aufstieg treffen dabei oft auf eine deutlich härtere Realität. Wüllenkemper, Cornelius www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 14 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "Die neue Wirklichkeit der Geschlechtskrankheiten",
       "url": "https://www.deutschlandfunkkultur.de/sex-syphilis-superkeime-die-neue-wirklichkeit-der-geschlechtskrankheiten-100.html",
       "description": "Dating-Apps, sexuelle Freiheit und moderne Aids-Prävention verändern unseren Umgang mit Sex: Die Zahl der Geschlechtskrankheiten steigt seit Jahren. Doch das ist nicht nur eine schlechte Nachricht. Penzel, Marius www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -144,22 +176,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Digitaler Staat - Probleme erkannt, aber noch nicht gebannt",
-      "url": "https://www.deutschlandfunkkultur.de/ein-jahr-digitalministerium-probleme-erkannt-aber-nicht-gebannt-100.html",
-      "description": "Das Digitalministerium wurde vor einem Jahr gegründet. Die Ziele: Deutschlands Verwaltung schneller und effizienter zu machen und den Ausbau der digitalen Infrastruktur voranzutreiben. Experten loben die ersten Schritte, doch es gibt auch Kritik. Marie Zinkann, Johannes Zuber www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 18 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 15
-      }
-    },
-    {
-      "title": "Hippietrail - Die Konzertreise der Band Embryo von München nach Kalkutta",
-      "url": "https://www.deutschlandfunkkultur.de/auf-dem-hippietrail-von-muenchen-nach-kalkutta-die-konzertreise-der-band-embryo-100.html",
-      "description": "Mit Bussen machte sich 1978 die Band Embryo aus München auf den Weg nach Indien. Entlang der Straßen hatte das Kollektiv dutzende Auftritte und musikalische Begegnungen. Am Ende der Reise steht etwas, was etwas später als Weltmusik bezeichnet wurde. Bei der Kellen, Ralf www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
       }
     }
   ]

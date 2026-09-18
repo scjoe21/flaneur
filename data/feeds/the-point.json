@@ -1,7 +1,7 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-09-13T19:26:49.267401+00:00",
+  "fetchedAt": "2026-09-18T08:41:39.298533+00:00",
   "items": [
     {
       "title": "Student of Desire",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "The Fifth Syllable",
-      "url": "https://thepointmag.com/literature/the-fifth-syllable/",
-      "description": "Great—I’d love to help. Do you have a particular story in mind? \n The post  The Fifth Syllable  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
+      "title": "Getting Good",
+      "url": "https://thepointmag.com/examined-life/getting-good-effective-altruism/",
+      "description": "On a dark, gray day in October 2025, the first dozen attendees of the Effective Altruism Global conference make their way to the Sheraton Hotel just north of Times Square in New York City. \n The post  Getting Good  appeared first on  The Point Magazine .",
+      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 9,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 9
       }
     },
     {
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "After the Sublime",
+      "url": "https://thepointmag.com/criticism/after-the-sublime/",
+      "description": "The problem with  Backrooms —like much of the online content that inspired it—is less that it relies too much on vibe and more that it fails to understand what makes that vibe interesting in the first place. \n The post  After the Sublime  appeared first on  The Point Magazine .",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Goodbye, West Orange",
-      "url": "https://thepointmag.com/examined-life/goodbye-west-orange/",
-      "description": "On November 13, 2024, about fifty people gathered on a corner in West Orange, New Jersey, a quiet suburb an hour’s drive from Manhattan. The plan was to march down the block to protest in front of Moshe Glick’s home. \n The post  Goodbye, West Orange  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
