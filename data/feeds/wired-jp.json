@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-18T21:12:49.509889+00:00",
+  "fetchedAt": "2026-09-19T18:41:01.675515+00:00",
   "items": [
     {
       "title": "トニー・アウスラーが問う、信じることのメカニズムと魔術的な想像力",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "ファッションは、この時代からおもしろくなる────『惑星のためのファッション』刊行記念トークイベント【前編】",
+      "url": "https://wired.jp/article/synflux-apocableisseymiyake-fashionfortheplanet-1/",
+      "description": "スペキュラティヴ・ファッションデザイナー川崎和也による新著を手がかりに、AI時代におけるファッションデザインについて議論。三宅一生が投げかけた問いに始まる前編は、惑星規模の複雑性に向き合うための実践と戦略について。",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "ディープフェイク・ポルノサイト、欧州の女性政治家100人以上が標的に",
       "url": "https://wired.jp/article/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
       "description": "約160件のディープフェイクサイトを分析した調査で、22カ国の政治家がこうしたサイトに掲載されていることが明らかになった。そのほぼすべてが女性だ。",
@@ -65,6 +81,54 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "「AI俳優」ティリー・ノーウッドと実のある会話はできるのか？",
+      "url": "https://wired.jp/article/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
+      "description": "AI映画スタジオが生んだ「俳優」ティリー・ノーウッドが、主演映画『Misaligned』の宣伝のためインタビューに応じた。実のある会話をしようとすればするほど、その返答は曖昧になり、ときに問題のあるものになった。",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "うつ病を電気刺激で治療するヘッドセットが米国で登場",
+      "url": "https://wired.jp/article/flow-neuroscience-headset-help-depression-available-in-us/",
+      "description": "スウェーデンのFlow Neuroscienceが開発した治療デバイスは、米食品医薬品局（FDA）の承認を受け、米国で処方箋による提供が始まった。値段はかなり高額だ。",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "AIが最適解を導く時代にデザイナーは何をするのか────『惑星のためのファッション』刊行記念トークイベント【後編】",
+      "url": "https://wired.jp/article/synflux-apocableisseymiyake-fashionfortheplanet-2/",
+      "description": "スペキュラティヴ・ファッションデザイナーの川崎和也の新著『惑星のためのファッション』を手がかりに、AI時代におけるファッションデザインについて議論した。後編は、人間に託される創造性について。",
+      "date": "Fri, 18 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -168,70 +232,6 @@
       "url": "https://wired.jp/article/which-apple-iphone-18-models-to-buy/",
       "description": "アップル初の折り畳みスマートフォン「iPhone Duo」と、従来型の上位モデル「iPhone 18 Pro」「iPhone 18 Pro Max」が登場した。3モデルの違いや共通点、選び方を詳しく紹介する。",
       "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "「AI終末論はわたしたちの目をそらすための罠」──AI批判の急先鋒が語る",
-      "url": "https://wired.jp/article/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/",
-      "description": "AI企業各社が人類滅亡の恐怖を煽っているのは、自律型兵器のような現実の脅威についての議論を避けるためだ──グーグルを去ったAI研究者ティムニット・ゲブルはそう主張する。",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AI業界トップが「開発減速」で異例の結束。トランプ政権は関与に消極的",
-      "url": "https://wired.jp/article/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/",
-      "description": "Anthropicのダリオ・アモデイがAI開発の減速に向けた規制を米政府に求め、サム・アルトマンやイーロン・マスクも賛同した。一方、中国との競争を優先するトランプ政権側は、企業の自主対応に委ねる姿勢だ。",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "うつ病患者の脳では、新しい神経細胞の生成が“停滞”していた：研究結果",
-      "url": "https://wired.jp/article/stalled-adult-hippocampal-neurogenesis-in-depression/",
-      "description": "成人の脳でも海馬では新しい神経細胞が生まれ続けているが、うつ病患者ではこのプロセスが途中で止まっていることが、最新の研究で明らかになった。うつ病を分子レベルで定義し直す手がかりになるかもしれない。",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "iOS 27でSafariがもっと便利に。試したい3つの新機能",
-      "url": "https://wired.jp/article/iphone-settings-ios-27-safari-browser/",
-      "description": "アップルはiOS 27で、Safariに自動化やパーソナライズの機能を追加した。ウェブページの変更通知からタブの自動整理まで、日々のブラウジングに役立つ機能が揃っている。",
-      "date": "Wed, 16 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

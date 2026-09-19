@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-18T21:12:08.246772+00:00",
+  "fetchedAt": "2026-09-19T18:38:42.771832+00:00",
   "items": [
+    {
+      "title": "Comment expliquer le succès des protéines ? La chronique d’Anne-Sophie Moreau",
+      "url": "https://www.philomag.com/articles/comment-expliquer-le-succes-des-proteines-la-chronique-danne-sophie-moreau",
+      "description": "",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "“L’épistocratie et le problème d’engagement” : à quoi ressemble le premier article universitaire de philosophie conçu par IA",
       "url": "https://www.philomag.com/articles/lepistocratie-et-le-probleme-dengagement-quoi-ressemble-le-premier-article-universitaire",
@@ -49,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Andy Warhol, l’homme qui voulait “devenir une machine”",
+      "url": "https://www.philomag.com/articles/andy-warhol-lhomme-qui-voulait-devenir-une-machine",
+      "description": "",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/edgar-morin-en-californie-la-ruee-vers-les-concepts",
       "description": "",
       "date": "Sun, 13 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trouver les mots justes pour éviter les poncifs, avec Gilles Deleuze",
-      "url": "https://www.philomag.com/articles/trouver-les-mots-justes-pour-eviter-les-poncifs-avec-gilles-deleuze",
-      "description": "",
-      "date": "Sat, 12 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Fjord” de Cristian Mungiu : magistrale ambiguïté ou manipulation agaçante ?",
-      "url": "https://www.philomag.com/articles/fjord-de-cristian-mungiu-magistrale-ambiguite-ou-manipulation-agacante",
-      "description": "",
-      "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

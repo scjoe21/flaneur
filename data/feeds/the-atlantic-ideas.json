@@ -1,8 +1,40 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-18T21:12:28.765937+00:00",
+  "fetchedAt": "2026-09-19T18:40:38.641511+00:00",
   "items": [
+    {
+      "title": "College Sports Are Great",
+      "url": "https://www.theatlantic.com/ideas/2026/09/college-sports-defense-football/688708/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-19",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Data-Center Debate Is Divorced From the Facts",
+      "url": "https://www.theatlantic.com/ideas/2026/09/data-center-facts-effects/688670/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-19",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "Researchers Say They’ve Found the Truth About Thomas Jefferson",
       "url": "https://www.theatlantic.com/ideas/2026/09/thomas-jefferson-genome-children/688635/?utm_source=feed",
@@ -81,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Speak at Your Own Risk",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-free-speech-media-banned/688713/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -182,54 +230,6 @@
     {
       "title": "A Bigoted Outburst Against Texas Sports Fans",
       "url": "https://www.theatlantic.com/ideas/2026/09/bigoted-outburst-against-texas-sports-fans/688619/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Who Needs Regulation When Trump Is President?",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-ai/688612/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Americans Don’t Understand Who’s Rich",
-      "url": "https://www.theatlantic.com/ideas/2026/09/everywhere-millionaires-tax-code/688584/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "MAGA Is Making the World Safe for Corruption",
-      "url": "https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352/?utm_source=feed",
       "description": "",
       "date": "2026-09-14",
       "thumbnail": "",

@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-18T21:12:36.119781+00:00",
+  "fetchedAt": "2026-09-19T18:40:47.237035+00:00",
   "items": [
     {
       "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Die lernende Nase – Wie Gerüche unser Leben prägen | Ig-Nobelpreis 2026 für Ilona Croy",
-      "url": "https://www.swr.de/swrkultur/wissen/die-lernende-nase-wie-gerueche-unser-leben-praegen-100.html",
-      "description": "Wovon hängen Körpergerüche ab? Warum können sich manche Menschen gut \"riechen\", andere nicht? Gerüche haben einen größeren Einfluss auf unser Leben, als wir oft denken.",
-      "date": "Fri, 4 Sep 2026 ",
+      "title": "Verschweigen, flunkern, lügen – Warum wir nicht so ehrlich sind, wie wir glauben",
+      "url": "https://www.swr.de/swrkultur/wissen/verschweigen-flunkern-luegen-warum-wir-nicht-so-ehrlich-sind-wie-wir-glauben-100.html",
+      "description": "Falsche Höflichkeiten, kleine Notlügen, das Verschweigen schmerzhafter Wahrheiten: Solche \"Unehrlichkeiten\" sind für die meisten Alltag. Welches Verhältnis haben wir zur Wahrheit?",
+      "date": "Sun, 20 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 43,
       "scoreDetail": {
         "daily": 30,
-        "phil": 10,
-        "flaneur": 0,
+        "phil": 5,
+        "flaneur": 8,
         "novelty": 0,
-        "total": 40
+        "total": 43
       }
     },
     {

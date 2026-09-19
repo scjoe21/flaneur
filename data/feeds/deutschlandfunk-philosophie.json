@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-18T21:12:10.688734+00:00",
+  "fetchedAt": "2026-09-19T18:38:46.217990+00:00",
   "items": [
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Humanismus kennt keinen Nahen Osten",
+      "url": "https://www.deutschlandfunkkultur.de/carolin-emcke-was-zaehlt-ein-mensch-humanismus-kennt-keinen-nahen-osten-100.html",
+      "description": "Autorin Carolin Emcke fragt, wie universell unser Humanismus mit Blick auf den Nahen Osten tatsächlich ist. Warum wird Solidarität dort brüchig, wo Menschenleben unterschiedlich bewertet werden? Ein Gespräch über Empathie und Erinnerungskultur. Emcke, Carolin; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -120,22 +136,6 @@
       "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-3-erwachsensein-zwischen-aufstieg-und-absturz-100.html",
       "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 16 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "KI vs. Mensch: Eine Frage des Geschmacks",
-      "url": "https://www.deutschlandfunkkultur.de/ki-vs-mensch-eine-frage-des-geschmacks-100.html",
-      "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 26 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

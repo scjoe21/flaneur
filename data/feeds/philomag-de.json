@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-18T21:12:12.642070+00:00",
+  "fetchedAt": "2026-09-19T18:38:48.758468+00:00",
   "items": [
     {
       "title": "Fanatiker des Werts – Warum Merz‘ Populismus sich für ihn nicht auszahlt",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "Feier der Deutschheit – Die AfD und das Ende der politischen Bildung",
-      "url": "https://www.philomag.de/artikel/feier-der-deutschheit-die-afd-und-das-ende-der-politischen-bildung",
-      "description": "Die AfD hat die Landtagswahl in Sachsen-Anhalt gewonnen. Nun plant sie einen umfassenden Umbau des Schulsystems und eine totale Revision der Erinnerungskultur. Auch wenn es mit der politischen Bildung und dem Gedenken in Deutschland nie so weit her war, wie häufig behauptet, müssen diese gegen den autoritären Umbau verteidigt werden. Sonst wird das kritische Bewusstsein über den Nationalsozialismus womöglich nur ein Wimpernschlag gewesen sein – in Jahrhunderten ansonsten ungebrochener, erfolgrei",
-      "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "Kulturanzeiger – Svenja Flaßpöhler: „Zusammenbleiben. Von der Freiheit fester Bindungen“",
       "url": "https://www.philomag.de/artikel/kulturanzeiger-svenja-flasspoehler-zusammenbleiben-von-der-freiheit-fester-bindungen",
       "description": "In unserem  Kulturanzeiger  stellen wir in Zusammenarbeit mit Verlagen ausgewählte Neuerscheinungen vor, machen die zentralen Ideen und Thesen der präsentierten Bücher zugänglich und binden diese durch weiterführende Artikel an die Philosophiegeschichte sowie aktuelle Debatten an. Diesmal im Fokus:  Zusammenbleiben. Von der Freiheit fester Bindungen  von Svenja Flaßpöhler, erschienen bei Klett-Cotta.",
@@ -116,6 +100,38 @@
       }
     },
     {
+      "title": "Mein Beauvoir-Erlebnis",
+      "url": "https://www.philomag.de/artikel/mein-beauvoir-erlebnis",
+      "description": "Simone de Beauvoirs Werke zählen zu jenen, die das Leben nicht nur interpretieren, sondern auch zu ändern vermögen. Acht Intellektuelle berichten, wie die Beauvoir-Lektüre sie geprägt hat.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Philosophie als Intuitionszertrümmerung",
+      "url": "https://www.philomag.de/artikel/philosophie-als-intuitionszertruemmerung",
+      "description": "Wer wahrhaft neue Wege sucht, findet sie in der Kontraintuition, die uns vom herrschenden Vorurteil befreit. Doch Vorsicht! Sie könnte ein neues begründen.",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Entfremdete Naturliebe",
       "url": "https://www.philomag.de/artikel/entfremdete-naturliebe",
       "description": "Natur liegt im Trend. Aber bezeugt nicht gerade die wachsende Sehnsucht, dass wir uns zusehends von ihr entfernen? Offenbart sich darin gar der Höhepunkt unserer Abwendung?",
@@ -136,22 +152,6 @@
       "url": "https://www.philomag.de/artikel/mithu-sanyal-freiheit-gibt-es-nur-im-frieden",
       "description": "In ihrem neuen Buch hinterfragt Mithu Sanyal die fortlaufende militärische sowie rhetorische Aufrüstung und argumentiert für einen aktiven Pazifismus, der die vielfältigen Bedürfnisse der Menschen in den Mittelpunkt rückt.",
       "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Verflüssigung der Gegenwart",
-      "url": "https://www.philomag.de/artikel/verfluessigung-der-gegenwart",
-      "description": "Ein roter Faden lässt sich im Gang durch das facettenreiche Werk Michel Foucaults nur schwerlich verfolgen. Das jüngst erschienene Buch  Bedingungen unserer Existenz  stellt nun scharf auf die genealogische Methode Foucaults, in der die Autoren den kritischen Impetus des Philosophen verorten. Denn diese schäle letztlich ein Gespür für die Veränderlichkeit der vermeintlich verkrusteten Gegenwart heraus.",
-      "date": "Wed, 09 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

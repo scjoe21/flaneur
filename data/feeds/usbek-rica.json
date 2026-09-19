@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-09-18T21:12:08.456358+00:00",
+  "fetchedAt": "2026-09-19T18:38:43.250344+00:00",
   "items": [
     {
       "title": "Écrans, IA, réseaux sociaux : et si on arrêtait de dire que les jeunes sont devenus « débiles » ?",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Comment l’industrie de l’IA dope la production de PFAS",
+      "url": "https://usbeketrica.com/fr/article/comment-l-industrie-de-l-ia-dope-la-production-de-pfas",
+      "description": "Derrière les milliards brassés par la Silicon Valley dans la course à l'intelligence artificielle, se joue une autre ruée vers l’or beaucoup moins médiatisée : celle des industriels de la chimie qui fournissent une partie des produits nécessaires à la fabrication des infrastructures qui sous-tendent les systèmes d’IA. Parmi ces substances, on retrouve les très controversés « polluants éternels ».",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/un-tiers-des-pages-web-publiees-depuis-le-lancement-de-chatgpt-ont-ete-ecrites-par-ia",
       "description": "Depuis le lancement de ChatGPT fin 2022, les contenus générés par IA ont gagné du terrain sur le Web. À rebours des estimations les plus alarmistes, une nouvelle analyse du centre de statistiques américain Pew Research permet, pour la première fois, d'en mesure l’ampleur, tout en nuance. Voici cinq chiffres-clés à retenir de cette étude.",
       "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "« L’inconnue », un thriller fantastique aussi sublime que tourmenté",
-      "url": "https://usbeketrica.com/fr/article/l-inconnue-un-thriller-fantastique-aussi-sublime-que-tourmente",
-      "description": "En adaptant au cinéma la BD qu’il avait co-signée avec son frère Lucas en 2024 (Le cas David Zimmermann, éditions Sarbacane), le cinéaste Arthur Harari explore une réalité déréglée, où des personnages échangent, malgré eux, leur corps avec d’autres. En salles ce mercredi 26 août.",
-      "date": "Tue, 25 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

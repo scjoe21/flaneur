@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-18T21:12:29.578498+00:00",
+  "fetchedAt": "2026-09-19T18:40:39.483458+00:00",
   "items": [
     {
       "title": "J.R.R. Tolkien on How to Fall in Love with Life",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 30
+      }
+    },
+    {
+      "title": "Edward Abbey on How to Live and How to Die",
+      "url": "https://www.themarginalian.org/2026/09/19/edward-abbey-live-die/",
+      "description": "The summer after graduating high school, knowing he would face conscription into the military as soon as his eighteenth birthday arrived, Edward Abbey (January 29, 1927–March 14, 1989) set out to get to know the land he was being asked to die for. He hitchhiked and hopped freight trains, rode in ramshackle busses and walked sweltering miles across the American Southwest. Upon returning home to Pennsylvania, he was promptly drafted and spent two reluctant years as a military police officer in occ",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
@@ -104,22 +120,6 @@
       "url": "https://www.themarginalian.org/2026/09/17/henry-miller-on-turning-eighty/",
       "description": "\"If you can fall in love again and again ... if you can forgive as well as forget, if you can keep from growing sour, surly, bitter and cynical, man you've got it half licked.\"",
       "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The Moving Story of the Dawn Redwood: How a Fossil Came Back to Life to Bring Humanity Together in the Middle of Our Deadliest War",
-      "url": "https://www.themarginalian.org/2026/09/13/dawn-redwood-metasequoia/",
-      "description": "How an ancient survivor of the unsurvivable became a triumph of the human spirit in a divided world.",
-      "date": "Sun, 13 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
