@@ -1,24 +1,8 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-19T18:40:47.237035+00:00",
+  "fetchedAt": "2026-09-20T19:26:30.254423+00:00",
   "items": [
-    {
-      "title": "Jugendschutz im TikTok-Zeitalter – Warum Social-Media-Verbote nicht ausreichen",
-      "url": "https://www.swr.de/swrkultur/wissen/jugendschutz-im-tiktok-zeitalter-warum-social-media-verbote-nicht-ausreichen-100.html",
-      "description": "Auf Social Media stoßen Kinder und Jugendliche schnell auf problematischen Content: Extremismus, Gewalt, Essstörungs-Communitys. Was braucht es für einen digitalen Jugendschutz?",
-      "date": "Sat, 5 Sep 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
     {
       "title": "Verschweigen, flunkern, lügen – Warum wir nicht so ehrlich sind, wie wir glauben",
       "url": "https://www.swr.de/swrkultur/wissen/verschweigen-flunkern-luegen-warum-wir-nicht-so-ehrlich-sind-wie-wir-glauben-100.html",
@@ -33,6 +17,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 43
+      }
+    },
+    {
+      "title": "Weg von Google und Paypal – Wie die EU digital unabhängiger werden will",
+      "url": "https://www.swr.de/swrkultur/wissen/weg-von-google-und-paypal-wie-die-eu-digital-unabhaengiger-werden-will-100.html",
+      "description": "Suchmaschinen, online Bezahlen, Cloud-Server: Die meisten digitalen Dienastleistungen in der EU übernehmen Big-Tech-Konzerne aus den USA. Die Abhängigkeit ist ein Problem.",
+      "date": "Mon, 21 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {

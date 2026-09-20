@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-19T18:40:39.483458+00:00",
+  "fetchedAt": "2026-09-20T19:26:24.364707+00:00",
   "items": [
     {
       "title": "J.R.R. Tolkien on How to Fall in Love with Life",
@@ -65,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "Are You Working: In Defense of the Invisible Labors of Creativitiy",
+      "url": "https://www.themarginalian.org/2026/09/20/leo-lionni-frederick/",
+      "description": "Once, at the gym with a physicist friend, I was struck by how no one else in the room had any idea that while she was sweating on the treadmill with a blank stare into space, she was doing advanced mathematics working out the logic of black holes. Another time, on the train with a poet friend, none of the other passengers could have known that behind her faraway look she was doing the invisible labor that would eventually win her the Pulitzer. “Artists are always working, though they may not see",
+      "date": "Sun, 20 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -164,22 +180,6 @@
       }
     },
     {
-      "title": "Seneca on True and False Friendship",
-      "url": "https://www.themarginalian.org/2026/09/13/seneca-friendship/",
-      "description": "\"Ponder for a long time whether you shall admit a given person to your friendship; but when you have decided to admit him, welcome him with all your heart and soul.\"",
-      "date": "Sun, 13 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
       "title": "Virginia Woolf on Creativity",
       "url": "https://www.themarginalian.org/2026/09/16/virginia-woolf-cotton-wool-moments-of-being/",
       "description": "\"Behind the cotton wool is hidden a pattern... the whole world is a work of art... there is no Shakespeare... no Beethoven... no God; we are the words; we are the music; we are the thing itself.\"",
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted",
-      "url": "https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/",
-      "description": "\"Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. Nothing... is ours, except time.\"",
-      "date": "Fri, 18 Sep 2026",
+      "title": "The Courage to Be Yourself: E.E. Cummings on Art, Life, and Being Unafraid to Feel",
+      "url": "https://www.themarginalian.org/2026/09/20/e-e-cummings-advice/",
+      "description": "\"To be nobody-but-yourself — in a world which is doing its best, night and day, to make you everybody else — means to fight the hardest battle which any human being can fight.\"",
+      "date": "Sun, 20 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "The Peace of Wild Things: Wendell Berry’s Poetic Antidote to Despair, Animated",
-      "url": "https://www.themarginalian.org/2026/09/15/wendell-berry-the-peace-of-wild-things-animated/",
-      "description": "On where to seek refuge from the forethought of grief.",
-      "date": "Tue, 15 Sep 2026",
+      "title": "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted",
+      "url": "https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/",
+      "description": "\"Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. Nothing... is ours, except time.\"",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-19T18:38:42.771832+00:00",
+  "fetchedAt": "2026-09-20T19:26:03.462839+00:00",
   "items": [
     {
       "title": "Comment expliquer le succès des protéines ? La chronique d’Anne-Sophie Moreau",
@@ -40,22 +40,6 @@
       "url": "https://www.philomag.com/articles/test-et-vous-comment-prenez-vous-la-parole",
       "description": "",
       "date": "Tue, 15 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Comment peut-on “aider” à mourir ?",
-      "url": "https://www.philomag.com/articles/comment-peut-aider-mourir",
-      "description": "",
-      "date": "Mon, 14 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -145,6 +129,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“Les humains rient, mais et les animaux ?” Les enfants répondent… comme des grands !",
+      "url": "https://www.philomag.com/articles/les-humains-rient-mais-et-les-animaux-les-enfants-repondent-comme-des-grands",
+      "description": "",
+      "date": "Sun, 20 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-09-19T18:40:43.627703+00:00",
+  "fetchedAt": "2026-09-20T19:26:28.040577+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Postliberalismus - Die Machtfrage - Muss die Linke sich von ihrem eigenen Liberalismus befreien?",
-      "url": "https://www.deutschlandfunk.de/postliberalismus-krise-der-linken-demokratie-100.html",
-      "description": "Die politische Linke steckt in der Krise. In den vergangenen Jahrzehnten hat sie ihre Fähigkeit verloren, eine glaubwürdige Alternative zum bestehenden System anzubieten. Damit hat sie ihr ureigenstes Terrain preisgegeben. Wie konnte das geschehen? Von Nils Schniederjann www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 07 Jun 2026",
+      "title": "Aller guten Dinge sind …? - Vom Zauber einer Zahl",
+      "url": "https://www.deutschlandfunk.de/vom-zauber-einer-zahl-100.html",
+      "description": "Die Zahl Drei fasziniert Philosophen und Musiker, Schriftsteller, Religionsstifter und Künstler. Zwischen Rhythmus, Triangulation und „drittem Weg“ öffnet sie Räume jenseits starrer Gegensätze und zeigt, wie Bewegung ins Denken kommt. Von Andrea Roedig www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 20 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {

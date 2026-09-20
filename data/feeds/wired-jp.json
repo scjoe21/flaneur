@@ -1,24 +1,8 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-19T18:41:01.675515+00:00",
+  "fetchedAt": "2026-09-20T19:26:42.493047+00:00",
   "items": [
-    {
-      "title": "トニー・アウスラーが問う、信じることのメカニズムと魔術的な想像力",
-      "url": "https://wired.jp/article/tony-oursler-interview/",
-      "description": "人は何を信じ、どのように世界を見てきたのか。宗教、メディア、アート、AIを横断しながら、映像作品を通してその問いを40年以上追い続けてきたトニー・アウスラー。日本初の大規模個展を機に、その思想と創造性の源泉を探った。",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
     {
       "title": "最適化されゆく世界に「不完全さ」が必要な理由──Moinが語る音楽、都市、偶然",
       "url": "https://wired.jp/article/moin-interview/",
@@ -33,6 +17,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "急増する脂肪肝。その予防にAIが役立つかもしれない",
+      "url": "https://wired.jp/article/fatty-liver-disease-ai-detection-cancer/",
+      "description": "脂肪肝と診断される人は世界で10億人を超える。AIツールの活用よって病状を早期に把握し、進行を食い止めることで、患者の命を救えるかもしれないと考える研究者たちがいる。",
+      "date": "Sun, 20 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "“世界最悪”の仕事をAIが引き受け始めた",
+      "url": "https://wired.jp/article/sz-ai-takes-over-debt-collection/",
+      "description": "世界で最も嫌われている督促電話を自動化する競争が過熱中だ。あなたがもし何かの支払いを滞納しているなら、近いうちに債権回収AIから電話がかかってくるかもしれない。",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "AIの「不適切な振る舞い」開示の新たな枠組み、OpenAIが策定",
-      "url": "https://wired.jp/article/openai-releases-new-policy-for-reporting-incidents-of-model-misalignment/",
-      "description": "OpenAIは、AIモデルにアライメント上の問題が確認された際の開示に関する新たな枠組みをつくった。AIが指示なくファイルをネット上に公開するなど、実際に確認された複数の事例も公表している。",
-      "date": "Thu, 17 Sep 2026",
+      "title": "宇宙の2大ミステリー、ダークマターとダークエネルギーを結びつけるかもしれない「ダークディメンション」とは",
+      "url": "https://wired.jp/article/dark-energy-matter-may-have-own-dimension/",
+      "description": "近年の研究から、ダークエネルギーは弱まりつつある可能性が浮上している。その理由をめぐって議論が続くなか、ダークマターとの相互作用が生じる「ダークディメンション（暗黒次元）」という未知の次元が、その謎を解く鍵になるかもしれない。",
+      "date": "Sun, 20 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -215,22 +231,6 @@
       "title": "水星の探査計画「ベピ・コロンボ」が最終接近段階へ",
       "url": "https://wired.jp/article/bepicolombo-arrival-phase-mercury-magnetic-field-mystery/",
       "description": "日欧共同の国際水星探査計画「ベピ・コロンボ」が、いよいよ水星への到着フェーズに突入した。探査機を運んできた推進モジュールが正常に分離したいま、水星の磁場や内部構造の謎に迫るための観測準備が整いつつある。",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "新型iPhone、どれを選ぶ？ iPhone DuoとiPhone 18 Proシリーズを徹底比較",
-      "url": "https://wired.jp/article/which-apple-iphone-18-models-to-buy/",
-      "description": "アップル初の折り畳みスマートフォン「iPhone Duo」と、従来型の上位モデル「iPhone 18 Pro」「iPhone 18 Pro Max」が登場した。3モデルの違いや共通点、選び方を詳しく紹介する。",
       "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",

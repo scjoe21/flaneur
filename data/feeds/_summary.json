@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-19T18:41:01.675928+00:00",
+  "lastRun": "2026-09-20T19:26:42.493552+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -13,6 +13,7 @@
     "hohe-luft",
     "philomag-de",
     "merkur",
+    "agora42",
     "sternstunde-philosophie",
     "rick-dufer",
     "tlon",
@@ -55,9 +56,7 @@
     "gendai-media",
     "wired-jp"
   ],
-  "fail": [
-    "agora42"
-  ],
+  "fail": [],
   "total": 54,
-  "fetched": 53
+  "fetched": 54
 }

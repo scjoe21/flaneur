@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-19T18:38:46.217990+00:00",
+  "fetchedAt": "2026-09-20T19:26:05.734472+00:00",
   "items": [
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
@@ -16,22 +16,6 @@
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "Lebensphasen - Wer bestimmt den Takt unseres Lebens?",
-      "url": "https://www.deutschlandfunkkultur.de/philosophie-von-lebenswegen-lebensphasen-orientierung-oder-korsett-100.html",
-      "description": "Kindheit, Jugend, Erwachsensein und Alter gelten als natürlicher Lauf des Lebens. Bei genauerem Hinsehen zeigt sich jedoch ein Lebenslaufregime voller gesellschaftlicher Erwartungen. Wie prägt es uns und wie lässt sich das Leben anders betrachten? Miller, Simone; Avanessian, Armen; Marquardt, Udo www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 40
       }
     },
@@ -52,9 +36,9 @@
       }
     },
     {
-      "title": "Humanismus kennt keinen Nahen Osten",
+      "title": "Carolin Emcke: Humanismus kennt keinen Nahen Osten",
       "url": "https://www.deutschlandfunkkultur.de/carolin-emcke-was-zaehlt-ein-mensch-humanismus-kennt-keinen-nahen-osten-100.html",
-      "description": "Autorin Carolin Emcke fragt, wie universell unser Humanismus mit Blick auf den Nahen Osten tatsächlich ist. Warum wird Solidarität dort brüchig, wo Menschenleben unterschiedlich bewertet werden? Ein Gespräch über Empathie und Erinnerungskultur. Emcke, Carolin; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
+      "description": "Carolin Emcke fragt, wie universell unser Humanismus mit Blick auf den Nahen Osten tatsächlich ist. Warum wird Solidarität dort brüchig, wo Menschenleben unterschiedlich bewertet werden? Ein Gespräch über Empathie und Erinnerungskultur. Emcke, Carolin; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sat, 19 Sep 2026",
       "thumbnail": "",
       "videoId": "",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Gefährliche KI: Bombenstimmung im Silicon Valley",
+      "url": "https://www.deutschlandfunkkultur.de/gefaehrliche-ki-bombenstimmung-im-silicon-valley-100.html",
+      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 20 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

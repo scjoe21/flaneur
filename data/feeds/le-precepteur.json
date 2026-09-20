@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-19T18:38:41.813631+00:00",
+  "fetchedAt": "2026-09-20T19:26:02.830264+00:00",
   "items": [
     {
       "title": "D'où vient votre jalousie ?",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "La technologie vous contrôle",
-      "url": "https://www.youtube.com/shorts/LU6pSZCQSTw",
-      "description": "Au XXe siècle, le philosophe Ivan Illich développe une critique radicale de la technologie : et si les outils que nous croyons utiliser finissaient par nous utiliser ? Dans cette vidéo, je vous explique pourquoi, selon lui, la technologie nous promet une vie plus libre alors qu’elle peut parfois nous rendre plus dépendants, plus distraits et moins maîtres de notre temps.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #ivanillich #technologie #dépendance #société",
-      "date": "2026-08-16",
-      "thumbnail": "https://i1.ytimg.com/vi/LU6pSZCQSTw/hqdefault.jpg",
-      "videoId": "LU6pSZCQSTw",
-      "priority": 35,
+      "title": "Les réseaux sociaux sont votre prison",
+      "url": "https://www.youtube.com/shorts/2RiooPdHTq8",
+      "description": "Au XXe siècle, Michel Foucault développe une idée troublante : la surveillance la plus efficace n’est pas celle qui nous observe en permanence, mais celle qui nous pousse à nous surveiller nous-mêmes. Dans cette vidéo, je vous explique pourquoi, selon lui, le pouvoir fonctionne d’autant mieux qu’il entre dans nos esprits et pourquoi les réseaux sociaux peuvent nous transformer en nos propres gardiens.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #foucault #panopt",
+      "date": "2026-09-20",
+      "thumbnail": "https://i3.ytimg.com/vi/2RiooPdHTq8/hqdefault.jpg",
+      "videoId": "2RiooPdHTq8",
+      "priority": 34,
       "scoreDetail": {
         "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
+        "phil": 10,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 35
+        "total": 34
       }
     },
     {
