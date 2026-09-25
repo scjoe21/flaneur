@@ -1,5 +1,5 @@
 {
-  "lastRun": "2026-09-25T19:13:09.229035+00:00",
+  "lastRun": "2026-09-25T21:49:43.970302+00:00",
   "ok": [
     "monsieur-phi",
     "le-precepteur",
@@ -52,11 +52,12 @@
     "kangaeruhito",
     "webchikuma",
     "shueisha-shinsho",
-    "keisobiblio",
     "gendai-media",
     "wired-jp"
   ],
-  "fail": [],
+  "fail": [
+    "keisobiblio"
+  ],
   "total": 54,
-  "fetched": 54
+  "fetched": 53
 }
