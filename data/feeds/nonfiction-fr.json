@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-09-20T19:26:26.751138+00:00",
+  "fetchedAt": "2026-09-25T09:16:43.848219+00:00",
   "items": [
     {
       "title": "« Saint-Nazaire au travail »",
@@ -24,22 +24,6 @@
       "url": "https://www.nonfiction.fr/article-12810-saint-nazaire-au-travail-les-marins-de-lestuaire.htm",
       "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
       "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Saint-Nazaire au travail : les artisans de la mer",
-      "url": "https://www.nonfiction.fr/article-12827-saint-nazaire-au-travail-les-artisans-de-la-mer.htm",
-      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
-      "date": "Mon, 24 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -113,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Laura Kasischke : plongée tragique dans l’Amérique des années 1960",
+      "url": "https://www.nonfiction.fr/article-12848-laura-kasischke-plongee-tragique-dans-lamerique-des-annees-1960.htm",
+      "description": "L’ incipit  donne le ton, acide et étrange, de ce roman en forme de kaléidoscope fascinant qui se déploie autour de la scène traumatique liminaire : «  Cet après-midi-là, la maître-nageuse ne vit pas Richie Manning, le petit garçon qui se noyait au milieu de la piscine, sous un ciel si bleu et dégagé qu’un film transparent semblait avoir été tendu entre la Terre et l’espace, comme de la cellophane sur une salade de pommes de terre qu’on apporte chez des amis. Ou comme une membrane – le tympan, l",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 16,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 16,
+        "novelty": 0,
+        "total": 16
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-09-20T19:26:20.558757+00:00",
+  "fetchedAt": "2026-09-25T09:16:39.175407+00:00",
   "items": [
     {
       "title": "The longest walk",
@@ -33,6 +33,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "The evil eye is irrational. Abandon it at your peril",
+      "url": "https://psyche.co/ideas/the-evil-eye-is-irrational-abandon-it-at-your-peril",
+      "description": "So many of the world’s superstitions have been supplanted by rational thinking. Why does one of the oldest beliefs persist? - by Timna Abramov Read on Psyche",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "How to cope with the stress of anti-LGBTQ+ prejudice",
+      "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
+      "description": "A queer psychologist shares skills from dialectical behaviour therapy to help you cope and find joy in a stigmatising world - by Kiki Fehling Read on Psyche",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -84,38 +116,6 @@
       }
     },
     {
-      "title": "How to be a word detective",
-      "url": "https://psyche.co/guides/how-to-be-a-word-detective",
-      "description": "Etymology unravels the mysteries of language and the hidden webs that link people across the world. Here’s how to dive in - by Danny Bate Read on Psyche",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Lessons from Wyatt Earp country",
-      "url": "https://psyche.co/turning-points/my-father-absent-a-farmer-showed-me-what-it-was-to-be-a-man",
-      "description": "How does a man show up for his community? I learned from an old farmer on the edge of the desert - by Zeno Franco Read on Psyche",
-      "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Terminal lucidity: when dying dementia patients regain awareness",
       "url": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
       "description": "The reports span centuries and cultures. If they’re real, memory and identity might be far more recoverable than we thought - by Ariel Zeleznikow-Johnston Read on Psyche",
@@ -132,10 +132,10 @@
       }
     },
     {
-      "title": "Absence of presence and presence of absence",
-      "url": "https://psyche.co/notes-to-self/the-absence-of-presence-and-the-presence-of-absence",
-      "description": "Mindfulness experts teach us to be present in the moment. I suggest an antidote – a meditation that’s focused on absence - by Nigel Warburton Read on Psyche",
-      "date": "Fri, 04 Sep 2026",
+      "title": "Lesser choices",
+      "url": "https://psyche.co/videos/an-intimate-account-of-illegal-abortion-in-1969-from-mother-to-daughter",
+      "description": "Estelle recalls being blindfolded and fearful in Mexico City – a timely vision of a world without abortion rights - Directed by Courtney Stephens Watch on Psyche",
+      "date": "Mon, 21 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
@@ -148,26 +148,10 @@
       }
     },
     {
-      "title": "Impatience is an emotion, not a trait",
-      "url": "https://psyche.co/notes-to-self/why-it-helps-to-see-impatience-as-an-emotion-not-a-trait",
-      "description": "Watching Penelope’s heroic wait in The Odyssey made me lament my impatience. But maybe I’ve been thinking about it wrong - by Amy Arthur Read on Psyche",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Town square",
-      "url": "https://psyche.co/videos/inside-the-alzheimers-care-centre-where-its-always-the-1950s",
-      "description": "Complete with a retro diner, vintage cars and a classic movie theatre – step into a mini town built to spark memories - Directed by Josh Izenberg Watch on Psyche",
-      "date": "Tue, 08 Sep 2026",
+      "title": "The softness of metal",
+      "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
+      "description": "Watching a seated Ozzy play his final gig, my ankle broken, I’m in tears – this couldn’t be more metal - by Keith Kahn-Harris Read on Psyche",
+      "date": "Mon, 21 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -180,10 +164,10 @@
       }
     },
     {
-      "title": "Is it morally wrong to not take care of yourself?",
-      "url": "https://psyche.co/ideas/is-it-morally-wrong-to-not-take-care-of-yourself",
-      "description": "The philosophical debate goes on. But our research on self-obligations suggests there’s a common, consequential view - by Laura K Soter & Fan Yang Read on Psyche",
-      "date": "Mon, 07 Sep 2026",
+      "title": "Impatience is an emotion, not a trait",
+      "url": "https://psyche.co/notes-to-self/why-it-helps-to-see-impatience-as-an-emotion-not-a-trait",
+      "description": "Watching Penelope’s heroic wait in The Odyssey made me lament my impatience. But maybe I’ve been thinking about it wrong - by Amy Arthur Read on Psyche",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -209,6 +193,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "What does it mean to have relationship ambivalence?",
+      "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
+      "description": "When a relationship provokes both strong positive and negative feelings in you, it can take a toll – here’s what’s going on - by Francesca Righetti Read on Psyche",
+      "date": "Tue, 22 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

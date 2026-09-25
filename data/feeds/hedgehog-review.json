@@ -1,24 +1,8 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-09-20T19:26:33.163052+00:00",
+  "fetchedAt": "2026-09-25T09:16:50.902252+00:00",
   "items": [
-    {
-      "title": "Birthright and Belonging",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/birthright-and-belonging",
-      "description": "How does one become American?",
-      "date": "Wed, 22 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
     {
       "title": "Twain’s Patriotism",
       "url": "https://hedgehogreview.com/web-features/thr/posts/twains-patriotism",
@@ -33,6 +17,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The Last Great American Novel",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/the-last-great-american-novel",
+      "description": "Can the Great American Novel be written in the age of BookTok?",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Slouching Toward Paris",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/slouching-toward-paris",
+      "description": "Two memoirs from the Theory Generation.",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
       "description": "Patrick O’Brian’s life may have been one of dissimulation but his Aubrey-Maturin novels still offer the nutmeg of consolation for thousands of readers.",
       "date": "Wed, 29 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Believing Is Seeing",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/believing-is-seeing",
-      "description": "To be a humanist is to be humbled by limits, while wishing to transcend them.",
-      "date": "Wed, 15 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,13 +1,93 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-20T19:26:23.513496+00:00",
+  "fetchedAt": "2026-09-25T09:16:40.787595+00:00",
   "items": [
     {
-      "title": "College Sports Are Great",
-      "url": "https://www.theatlantic.com/ideas/2026/09/college-sports-defense-football/688708/?utm_source=feed",
+      "title": "Don’t Ask How This War Ends",
+      "url": "https://www.theatlantic.com/ideas/2026/09/dont-ask-how-the-iran-war-ends/688724/?utm_source=feed",
       "description": "",
-      "date": "2026-09-19",
+      "date": "2026-09-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Why <em>Fauda</em> Is So Popular in the Arab World",
+      "url": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Why I’m Sending My Black Son to Private School",
+      "url": "https://www.theatlantic.com/ideas/2026/09/public-school-nikole-hannah-jones/688746/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "How to Regulate the Ghosts",
+      "url": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-trump/688726/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Trump Should Stop Hosting Summits",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Trump’s Attacks on the Media Are Self-Defeating",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-press/688725/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-20",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,67 +100,115 @@
       }
     },
     {
-      "title": "The Data-Center Debate Is Divorced From the Facts",
-      "url": "https://www.theatlantic.com/ideas/2026/09/data-center-facts-effects/688670/?utm_source=feed",
+      "title": "Another Female Democrat Is Mean, Apparently",
+      "url": "https://www.theatlantic.com/ideas/2026/09/peltola-democratic-staffers-complain/688770/?utm_source=feed",
       "description": "",
-      "date": "2026-09-19",
+      "date": "2026-09-24",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Researchers Say They’ve Found the Truth About Thomas Jefferson",
-      "url": "https://www.theatlantic.com/ideas/2026/09/thomas-jefferson-genome-children/688635/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Other Way AI Impairs Our Thinking",
-      "url": "https://www.theatlantic.com/ideas/2026/09/ai-apocalypse-despair-focus/688689/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "A Plan to Pay Married Mothers Not to Work",
-      "url": "https://www.theatlantic.com/ideas/2026/09/vance-married-mothers-child-care/688645/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Nikole Hannah-Jones Faced Too Much Apathy to Win",
+      "url": "https://www.theatlantic.com/ideas/2026/09/hannah-jones-school-choice-response/688758/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-24",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "David Ellison Will Get Control of CNN After All",
+      "url": "https://www.theatlantic.com/ideas/2026/09/david-ellison-cnn-control/688740/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The ‘New Word’ Trump Hates",
+      "url": "https://www.theatlantic.com/ideas/2026/09/affordability-politics-democrats-policy/688736/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Israel Can’t Postpone Its Reckoning Forever",
+      "url": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "In Defense of Guilt by Association",
+      "url": "https://www.theatlantic.com/ideas/2026/09/vance-sayed-piker-carlson-friendships/688657/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Curious Left-Wing Argument Against New AI Regulations",
+      "url": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-anti-monopoly-challenge/688707/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -104,134 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/09/abdul-el-sayed-michigan-senate-profile/688576/?utm_source=feed",
       "description": "",
       "date": "2026-09-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Pinball President",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-attention-presidents/688712/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "190 Days Without a Homicide",
-      "url": "https://www.theatlantic.com/ideas/2026/09/shooting-lexington-kentucky/688630/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Speak at Your Own Risk",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-free-speech-media-banned/688713/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Goal of Contemporary Journalism",
-      "url": "https://www.theatlantic.com/ideas/2026/09/atlantic-festival-journalism-press-freedom/688702/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "College Is Coming Apart",
-      "url": "https://www.theatlantic.com/ideas/2026/09/college-education-future-ai/688655/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Who Made America Poorer and Dirtier?",
-      "url": "https://www.theatlantic.com/ideas/2026/09/vance-speech-immigrants-democrats/688656/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Destroying Humanity Is Against the Law",
-      "url": "https://www.theatlantic.com/ideas/2026/09/ai-risk-criminal-law/688615/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The American Age Is Over",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-iran-superpower-decline/688639/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-16",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

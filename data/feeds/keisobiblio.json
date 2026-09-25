@@ -1,7 +1,7 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-09-20T19:26:38.978800+00:00",
+  "fetchedAt": "2026-09-25T09:16:56.836512+00:00",
   "items": [
     {
       "title": "コヨーテ歩き撮り#257",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "コヨーテ歩き撮り#258",
+      "url": "https://keisobiblio.com/2026/09/24/coyote258/",
+      "description": "その名を知ったのは、たぶん60年くらい前だろうなあ。昭和新山。あこがれの山についに来た。なんという力強さ。\n\nI first learned of its name maybe sixty years ago. Showa Shinzan! Finally I am here to admire its presence from nearby. Incredibly powerful.",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://keisobiblio.com/2026/09/03/atogakitachiyomi_privategovernment/",
       "description": "「著者序文」を公開しました。",
       "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あとがきたちよみ『狂熱のパレット――激闘するゴッホとゴーギャン』",
-      "url": "https://keisobiblio.com/2026/08/19/atogakitachiyomi_kyonetsunopalette/",
-      "description": "「著者後記」を公開しました。",
-      "date": "Wed, 19 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

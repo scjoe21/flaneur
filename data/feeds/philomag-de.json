@@ -1,108 +1,60 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-20T19:26:08.405760+00:00",
+  "fetchedAt": "2026-09-25T09:16:21.809760+00:00",
   "items": [
     {
-      "title": "Fanatiker des Werts – Warum Merz‘ Populismus sich für ihn nicht auszahlt",
-      "url": "https://www.philomag.de/artikel/fanatiker-des-werts-warum-merz-populismus-sich-fuer-ihn-nicht-auszahlt",
-      "description": "Dass die AfD und nicht die CDU massiven Zulauf verzeichnet, liegt nicht daran, dass ihre Wähler die sozialen Folgen der Regierungspolitik erkennen oder lieber das rassistische Original wählten, wie AfD- und Regierungsgegner behaupten. Der Grund ist: Merz ist zu elitär. Mit ihm lassen sich „die da oben“ nicht hassen.",
-      "date": "Wed, 16 Sep 2026",
+      "title": "Irene Selle: „Lesbische Aktivistinnen unter dem Dach der Kirche waren die Avantgarde“",
+      "url": "https://www.philomag.de/artikel/irene-selle-lesbische-aktivistinnen-unter-dem-dach-der-kirche-waren-die-avantgarde",
+      "description": "Wie war es eigentlich, in der DDR Beauvoir zu lesen? Die Literaturwissenschaftlerin Irene Selle über philosophische Vorbehalte, feministische Kirchengruppen und einen Brief, den Beauvoir ihr schrieb.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 35,
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 40
+        "novelty": 5,
+        "total": 30
       }
     },
     {
-      "title": "Phänomenologie des Stillens",
-      "url": "https://www.philomag.de/artikel/phaenomenologie-des-stillens",
-      "description": "Der Akt des Stillens – ob, wie, warum, wie lange – wird heute kontrovers diskutiert. Inmitten dieser Debatte mit all ihren Wertungen und Erwartungen ließe sich aber noch etwas Grundlegenderes fragen: Was ist das überhaupt für ein Gefühl, ein anderes Wesen zu stillen?",
-      "date": "Tue, 15 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
-      }
-    },
-    {
-      "title": "Agnes Callard: „Sokrates hat sich niemals für den schlauesten Menschen im Raum gehalten\"",
-      "url": "https://www.philomag.de/artikel/agnes-callard-sokrates-hat-sich-niemals-fuer-den-schlauesten-menschen-im-raum-gehalten",
-      "description": "Was können wir von Sokrates lernen – von dem Mann, der über sich sagt, er wisse, dass er nicht wisse? Die Philosophin Agnes Callard, die selbst versuchte, Sokrates zu sein, geht dieser Frage nach. Sie zeigt, warum das sokratische Hinterfragen von Scheingewissheiten einerseits so unbequem ist, andererseits aber vor existenzieller Verzweiflung zu schützen vermag.",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
-      }
-    },
-    {
-      "title": "Was uns zum Handeln bewegt",
-      "url": "https://www.philomag.de/artikel/was-uns-zum-handeln-bewegt",
-      "description": "Für die einen ist Engagement selbstverständlich, jede Protestaktion ein festliches Ereignis. Für die anderen, die von der Angst geplagt werden, den falschen Weg einzuschlagen, ist es mühsam. Und doch ist Engagement manchmal notwendig. Mit Albert Camus, Václav Havel und Jan Patočka lässt sich zeigen, warum.",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Kulturanzeiger – Svenja Flaßpöhler: „Zusammenbleiben. Von der Freiheit fester Bindungen“",
-      "url": "https://www.philomag.de/artikel/kulturanzeiger-svenja-flasspoehler-zusammenbleiben-von-der-freiheit-fester-bindungen",
-      "description": "In unserem  Kulturanzeiger  stellen wir in Zusammenarbeit mit Verlagen ausgewählte Neuerscheinungen vor, machen die zentralen Ideen und Thesen der präsentierten Bücher zugänglich und binden diese durch weiterführende Artikel an die Philosophiegeschichte sowie aktuelle Debatten an. Diesmal im Fokus:  Zusammenbleiben. Von der Freiheit fester Bindungen  von Svenja Flaßpöhler, erschienen bei Klett-Cotta.",
-      "date": "Thu, 17 Sep 2026",
+      "title": "„Philosophieren heißt für Beauvoir Selbsttransformation“",
+      "url": "https://www.philomag.de/artikel/philosophieren-heisst-fuer-beauvoir-selbsttransformation",
+      "description": "Simone de Beauvoir ist eine der größten Denkerinnen des 20. Jahrhunderts. Doch der Blick auf ihre Philosophie blieb oft verstellt. Im Gespräch legen Wolfram Eilenberger und Manon Garcia den besonderen philosophischen Einsatz Beauvoirs frei und erläutern, wie sie gerade in Zeiten großer Herausforderungen zu sich kam.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 15,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Dialektik der Verschlechterung",
-      "url": "https://www.philomag.de/artikel/dialektik-der-verschlechterung",
-      "description": "Habermas’ Geschichtsphilosophie begreift gesellschaftliche Rückschritte als historische Gelegenheiten, etwas zu lernen. Bereitet das Chaos unserer Gegenwart also schon den nächsten Fortschritt vor?",
-      "date": "Thu, 10 Sep 2026",
+      "title": "Warum Beauvoir de Sade las",
+      "url": "https://www.philomag.de/artikel/warum-beauvoir-de-sade-las",
+      "description": "Marquis de Sade, dem wir gewaltvolle pornografische Werke wie  Die 120 Tage von Sodom  und den Begriff Sadismus verdanken, ist eine verstörende Gestalt. Weshalb plädiert die Feministin Beauvoir dafür, sich gewinnbringend mit ihm zu beschäftigen?",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
-      "title": "Mein Beauvoir-Erlebnis",
-      "url": "https://www.philomag.de/artikel/mein-beauvoir-erlebnis",
-      "description": "Simone de Beauvoirs Werke zählen zu jenen, die das Leben nicht nur interpretieren, sondern auch zu ändern vermögen. Acht Intellektuelle berichten, wie die Beauvoir-Lektüre sie geprägt hat.",
+      "title": "Beauvoirs Leserinnen und ich",
+      "url": "https://www.philomag.de/artikel/beauvoirs-leserinnen-und-ich",
+      "description": "Simone de Beauvoir erreichte Tausende von Leserinnen und veränderte, wie diese sich und ihr Leben sahen. Das gilt auch für die Historikerin Marine Rouch, die die Briefe studierte, die Beauvoir erhielt.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
@@ -116,26 +68,10 @@
       }
     },
     {
-      "title": "Philosophie als Intuitionszertrümmerung",
-      "url": "https://www.philomag.de/artikel/philosophie-als-intuitionszertruemmerung",
-      "description": "Wer wahrhaft neue Wege sucht, findet sie in der Kontraintuition, die uns vom herrschenden Vorurteil befreit. Doch Vorsicht! Sie könnte ein neues begründen.",
-      "date": "Sat, 19 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Entfremdete Naturliebe",
-      "url": "https://www.philomag.de/artikel/entfremdete-naturliebe",
-      "description": "Natur liegt im Trend. Aber bezeugt nicht gerade die wachsende Sehnsucht, dass wir uns zusehends von ihr entfernen? Offenbart sich darin gar der Höhepunkt unserer Abwendung?",
-      "date": "Thu, 10 Sep 2026",
+      "title": "Eine Antikolonialistin?",
+      "url": "https://www.philomag.de/artikel/eine-antikolonialistin",
+      "description": "Beauvoir beklagte nicht nur die Unterdrückung der Frau, sondern engagierte sich auch gegen Rassismus und Kolonialismus. Doch wie weit reichte ihr Blick? Zwei Perspektiven.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -148,10 +84,58 @@
       }
     },
     {
-      "title": "Mithu Sanyal: „Freiheit gibt es nur im Frieden“",
-      "url": "https://www.philomag.de/artikel/mithu-sanyal-freiheit-gibt-es-nur-im-frieden",
-      "description": "In ihrem neuen Buch hinterfragt Mithu Sanyal die fortlaufende militärische sowie rhetorische Aufrüstung und argumentiert für einen aktiven Pazifismus, der die vielfältigen Bedürfnisse der Menschen in den Mittelpunkt rückt.",
-      "date": "Fri, 18 Sep 2026",
+      "title": "Das Leben ein Abenteuer",
+      "url": "https://www.philomag.de/artikel/das-leben-ein-abenteuer",
+      "description": "Beauvoir wollte nicht Ergebene ihres Schicksals, sondern Urheberin ihrer eigenen Geschichte sein. Doch auch sie wird hineingeboren in gesellschaftliche Umstände. Über den Weg einer eigensinnigen Denkerin und die Begegnungen, die sie prägten.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Koschka Linkerhand: „Imagination ermöglicht den Sprung vom Ich zum anderen“",
+      "url": "https://www.philomag.de/artikel/koschka-linkerhand-imagination-ermoeglicht-den-sprung-vom-ich-zum-anderen",
+      "description": "Das Werk Beauvoirs besteht mehrheitlich aus belletristischen Texten, weniger aus strenger Theorie. Im Gespräch untersucht die Autorin und Philosophin Koschka Linkerhand Beauvoirs literarischphilosophische Methode und erklärt, woraus ihre Romane existenzialistische Wirkkraft ziehen.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Feminismus ohne Frauen",
+      "url": "https://www.philomag.de/artikel/feminismus-ohne-frauen",
+      "description": "Dem akademischen Queerfeminismus scheint das weibliche Subjekt abhandenzukommen. Wie Beauvoir dabei helfen kann, es wiederzugewinnen.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Lori Jo Marso: „Beauvoir eröffnet das Potenzial für kollektiven Widerstand“",
+      "url": "https://www.philomag.de/artikel/lori-jo-marso-beauvoir-eroeffnet-das-potenzial-fuer-kollektiven-widerstand",
+      "description": "Bisweilen wird Beauvoir als weiße und bürgerliche Theoretikerin abgetan. Im Gespräch erläutert Lori Marso, dass ihr politisches Denken umfassender war. Es trägt zum Verständnis verschiedener Formen der Unterdrückung bei – auch heute.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -164,26 +148,42 @@
       }
     },
     {
-      "title": "Rund und bunt gegen das Patriarchat",
-      "url": "https://www.philomag.de/artikel/rund-und-bunt-gegen-das-patriarchat",
-      "description": "Aus den Trümmern der männlichen Kunst erschuf Niki de Saint Phalle weibliche Traumwelten. Eine Ausstellung in Düsseldorf würdigt ihr Schaffen.",
-      "date": "Wed, 16 Sep 2026",
+      "title": "Die neue Sonderausgabe: Beauvoir",
+      "url": "https://www.philomag.de/artikel/die-neue-sonderausgabe-beauvoir",
+      "description": "Simone de Beauvoir legte präzise und schonungslos offen, was Frauen davon abhält, ein selbstbestimmtes Leben zu führen – und schrieb Geschichte. Früh entwickelte sie ihre eigene Version des Existenzialismus: Freiheit muss erst handelnd erkämpft werden – mit anderen und gegen Widerstände. So schärft Beauvoir den Blick für das, was auch heute noch einer selbstbestimmten Existenz im Wege steht. Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Simone de Beauvoir: „Auch Genossen sind Paschas“",
+      "url": "https://www.philomag.de/artikel/simone-de-beauvoir-auch-genossen-sind-paschas",
+      "description": "Als Beauvoir  Das andere Geschlecht  verfasste, verstand sie sich nicht als Feministin. Dies änderte sich später. Im Gespräch mit Alice Schwarzer sprach Beauvoir 1976 über ihre Rolle in der Frauenbewegung und weshalb auch Linke in Sachen Gleichberechtigung dazulernen müssen.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
-      "title": "Verzweifelter Spaß",
-      "url": "https://www.philomag.de/artikel/verzweifelter-spass",
-      "description": "Im Bärenkostüm gegen die Unordnung der Welt: Das Werk der Schriftstellerin Heike Geißler wimmelt von Figuren, die das große Ganze infrage stellen. In ihrem jüngsten Roman  Michaela Kohlhaas  hilft nicht zuletzt die Ironie.",
-      "date": "Thu, 17 Sep 2026",
+      "title": "Mit Beauvoir das Haus der Herrschenden einreißen",
+      "url": "https://www.philomag.de/artikel/mit-beauvoir-das-haus-der-herrschenden-einreissen",
+      "description": "Dass viele Frauen nicht bloß sexistisch, sondern zugleich rassistisch unterdrückt werden, nahm Beauvoir kaum in den Blick. Dennoch kann ihre Ethik den intersektionalen Feminismus heute bereichern.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -196,10 +196,10 @@
       }
     },
     {
-      "title": "Phantome des Widerstands",
-      "url": "https://www.philomag.de/artikel/phantome-des-widerstands",
-      "description": "Verachtenswerte politische Überzeugungen, meint Wolfram Eilenberger, werden nicht dadurch verschwinden, dass man ihnen abspricht, eine „Meinung“ zu sein.",
-      "date": "Fri, 11 Sep 2026",
+      "title": "Kreis der Existenzialisten",
+      "url": "https://www.philomag.de/artikel/kreis-der-existenzialisten",
+      "description": "In den 1930ern entwickelt sich in Frankreich eine Denkströmung, die als Existenzialismus bekannt wird und Kultstatus erreicht. Ein Überblick zentraler Figuren und Vordenker.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -212,26 +212,26 @@
       }
     },
     {
-      "title": "Von Monstern und Sümpfen",
-      "url": "https://www.philomag.de/artikel/von-monstern-und-suempfen",
-      "description": "In ihrem Debütroman  Zeit der Monster  erzählt Şeyda Kurt von jenen, die als Monströse ausgegrenzt werden – und von dem Ort, an dem sie leben. Was lässt sich von Monstern über Ordnung und Neuanfang lernen? Ein Lektüreessay.",
-      "date": "Mon, 14 Sep 2026",
+      "title": "Eine Reisende",
+      "url": "https://www.philomag.de/artikel/eine-reisende",
+      "description": "Beauvoir wollte sich selbst ein Bild von den gesellschaftlichen und politischen Umständen in der Welt machen. Ein besonderes Interesse galt sozialistisch regierten Ländern. Ein Einblick in drei Reisen.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 0,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 0
+        "total": 5
       }
     },
     {
-      "title": "Gezähmtes Abenteuer",
-      "url": "https://www.philomag.de/artikel/gezaehmtes-abenteuer",
-      "description": "Risikoreiche Urlaube gewinnen an Beliebtheit. Doch das Abenteuer ist längst zur Regenerationsmaßnahme verkümmert.",
-      "date": "Mon, 14 Sep 2026",
+      "title": "Beauvoir in Amerika",
+      "url": "https://www.philomag.de/artikel/beauvoir-amerika",
+      "description": "Die Fahrt durch ein fremdes Land kann den Blick für Aspekte der Welt schärfen, die in der Vertrautheit der Heimat schwer zu erkennen sind. Für Simone de Beauvoir bot ihre Reise durch die USA Einsichten, die auch in ihrem Hauptwerk  Das andere Geschlecht  Ausdruck finden.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

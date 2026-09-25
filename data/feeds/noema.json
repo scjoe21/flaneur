@@ -1,8 +1,24 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-09-20T19:26:23.942850+00:00",
+  "fetchedAt": "2026-09-25T09:16:41.063431+00:00",
   "items": [
+    {
+      "title": "Why China Will Rule AI",
+      "url": "https://www.noemamag.com/why-china-will-rule-ai",
+      "description": "The post  Why China Will Rule AI  appeared first on  NOEMA .",
+      "date": "Tue, 22 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Conceding AI Danger Raises, Not Reduces, Public Anxiety",
       "url": "https://www.noemamag.com/conceding-ai-danger-raises-not-reduces-public-anxiety",
@@ -68,6 +84,38 @@
       }
     },
     {
+      "title": "Now Entering: The Era Of Bleh",
+      "url": "https://www.noemamag.com/now-entering-the-era-of-bleh",
+      "description": "The post  Now Entering: The Era Of Bleh  appeared first on  NOEMA .",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Let The People Set The Pace Of Frontier AI",
+      "url": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
+      "description": "The post  Let The People Set The Pace Of Frontier AI  appeared first on  NOEMA .",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "A New Form Of Life",
       "url": "https://www.noemamag.com/a-new-form-of-life",
       "description": "The post  A New Form Of Life  appeared first on  NOEMA .",
@@ -104,54 +152,6 @@
       "url": "https://www.noemamag.com/whose-ai-will-rule-the-world",
       "description": "The post  Whose AI Will Rule The World?  appeared first on  NOEMA .",
       "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Optimized Offspring",
-      "url": "https://www.noemamag.com/optimized-offspring",
-      "description": "The post  Optimized Offspring  appeared first on  NOEMA .",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Subjective Perspective Makes Objective Reality ‘Everywhere Whole’",
-      "url": "https://www.noemamag.com/subjective-perspective-makes-objective-reality-everywhere-whole",
-      "description": "The post  Subjective Perspective Makes Objective Reality ‘Everywhere Whole’  appeared first on  NOEMA .",
-      "date": "Fri, 28 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Latest Chapter In American Military Muddling",
-      "url": "https://www.noemamag.com/the-latest-chapter-in-american-military-muddling",
-      "description": "The post  The Latest Chapter In American Military Muddling  appeared first on  NOEMA .",
-      "date": "Thu, 27 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

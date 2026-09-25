@@ -1,8 +1,56 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-20T19:26:03.462839+00:00",
+  "fetchedAt": "2026-09-25T09:16:16.790508+00:00",
   "items": [
+    {
+      "title": "“Comment habiter mon corps ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
+      "url": "https://www.philomag.com/articles/comment-habiter-mon-corps-le-nouveau-numero-de-philosophie-magazine-sort-ce-jeudi",
+      "description": "",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Pourquoi Ivan Illich est-il un pionnier du vélo ?",
+      "url": "https://www.philomag.com/articles/pourquoi-ivan-illich-est-il-un-pionnier-du-velo",
+      "description": "",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Pourquoi Edgar Morin est-il si populaire en Amérique latine ?",
+      "url": "https://www.philomag.com/articles/pourquoi-edgar-morin-est-il-si-populaire-en-amerique-latine",
+      "description": "",
+      "date": "Mon, 21 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Comment expliquer le succès des protéines ? La chronique d’Anne-Sophie Moreau",
       "url": "https://www.philomag.com/articles/comment-expliquer-le-succes-des-proteines-la-chronique-danne-sophie-moreau",
@@ -20,35 +68,19 @@
       }
     },
     {
-      "title": "“L’épistocratie et le problème d’engagement” : à quoi ressemble le premier article universitaire de philosophie conçu par IA",
-      "url": "https://www.philomag.com/articles/lepistocratie-et-le-probleme-dengagement-quoi-ressemble-le-premier-article-universitaire",
+      "title": "10 ans de TikTok : le nouvel âge du divertissement",
+      "url": "https://www.philomag.com/articles/10-ans-de-tiktok-le-nouvel-age-du-divertissement",
       "description": "",
-      "date": "Wed, 16 Sep 2026",
+      "date": "Mon, 21 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Test : et vous, comment prenez-vous la parole ?",
-      "url": "https://www.philomag.com/articles/test-et-vous-comment-prenez-vous-la-parole",
-      "description": "",
-      "date": "Tue, 15 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -68,67 +100,99 @@
       }
     },
     {
-      "title": "“L’IA remplacera peut-être les philosophes de profession, mais jamais le plaisir de penser”",
-      "url": "https://www.philomag.com/articles/lia-remplacera-peut-etre-les-philosophes-de-profession-mais-jamais-le-plaisir-de-penser",
+      "title": "Notre corps est un paysage : l'édito d’Alexandre Lacroix",
+      "url": "https://www.philomag.com/articles/notre-corps-est-un-paysage-ledito-dalexandre-lacroix",
       "description": "",
-      "date": "Wed, 16 Sep 2026",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "La tapisserie de Bayeux : simple broderie ou arme de guerre ?",
-      "url": "https://www.philomag.com/articles/la-tapisserie-de-bayeux-simple-broderie-ou-arme-de-guerre",
-      "description": "",
-      "date": "Sat, 12 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Ménopause, chirurgie esthétique, pilosité… 3 livres pour prendre le pouls de nos corps",
-      "url": "https://www.philomag.com/articles/menopause-chirurgie-esthetique-pilosite-3-livres-pour-prendre-le-pouls-de-nos-corps",
+      "title": "L’“alignement” des IA, enjeu du siècle ?",
+      "url": "https://www.philomag.com/articles/lalignement-des-ia-enjeu-du-siecle",
       "description": "",
-      "date": "Thu, 17 Sep 2026",
+      "date": "Thu, 24 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
-      "title": "Pour ou contre l’interdiction du port du voile dans l’espace public ? Les arguments d’Yves Michaud et de Nathalie Heinich",
-      "url": "https://www.philomag.com/articles/pour-ou-contre-linterdiction-du-port-du-voile-dans-lespace-public-les-arguments-dyves",
+      "title": "Avons-nous plusieurs corps ?",
+      "url": "https://www.philomag.com/articles/avons-nous-plusieurs-corps",
       "description": "",
-      "date": "Tue, 15 Sep 2026",
+      "date": "Thu, 24 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "Catherine Ringer-Céline Dion : la diva punk et la vestale christique",
+      "url": "https://www.philomag.com/articles/catherine-ringer-celine-dion-la-diva-punk-et-la-vestale-christique",
+      "description": "",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Julian Baggini : “L’école anglaise a opéré un retour aux fondamentaux, mais ses bons résultats Pisa doivent être pris avec des pincettes”",
+      "url": "https://www.philomag.com/articles/julian-baggini-lecole-anglaise-opere-un-retour-aux-fondamentaux-mais-ses-bons-resultats",
+      "description": "",
+      "date": "Tue, 22 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Histoire culturelle de l’IA” : retracer les origines d'un mythe moderne",
+      "url": "https://www.philomag.com/articles/histoire-culturelle-de-lia-retracer-les-origines-dun-mythe-moderne",
+      "description": "",
+      "date": "Tue, 22 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -168,70 +232,6 @@
       "url": "https://www.philomag.com/articles/le-desir-ou-lascese-nietzsche-face-schopenhauer",
       "description": "",
       "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le rajeunissement cellulaire va-t-il révolutionner ce que “vieillir” veut dire ?",
-      "url": "https://www.philomag.com/articles/le-rajeunissement-cellulaire-va-t-il-revolutionner-ce-que-vieillir-veut-dire",
-      "description": "",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Mon frère” : quand le langage nous fait signe",
-      "url": "https://www.philomag.com/articles/mon-frere-quand-le-langage-nous-fait-signe",
-      "description": "",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Demain, tous sous antidépresseurs ?",
-      "url": "https://www.philomag.com/articles/demain-tous-sous-antidepresseurs",
-      "description": "",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Edgar Morin en Californie : la ruée vers les concepts",
-      "url": "https://www.philomag.com/articles/edgar-morin-en-californie-la-ruee-vers-les-concepts",
-      "description": "",
-      "date": "Sun, 13 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-20T19:26:28.570094+00:00",
+  "fetchedAt": "2026-09-25T09:16:46.256946+00:00",
   "items": [
     {
       "title": "Gesundheitstrend Breathwork - Was Atmen bewirken kann",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Klänge, Rhythmen, Emotionen - Wie wirkt Musik im Gehirn?",
+      "url": "https://www.deutschlandfunkkultur.de/klaenge-rhythmen-emotionen-wie-wirkt-musik-im-gehirn-100.html",
+      "description": "Musik bewegt Menschen emotional. Aber warum ist das so? Die Gehirnforschung versucht, das mithilfe von etablierten Modellen des menschlichen Bewusstseins zu erklären. Und das könnte auch der Therapie von Parkinson oder Alzheimer dienen. Proff, Iris www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
       }
     },
     {
@@ -36,22 +52,6 @@
       }
     },
     {
-      "title": "Dickenfeindlichkeit - Der Druck durch die Abnehmspritze",
-      "url": "https://www.deutschlandfunkkultur.de/jetzt-koenntest-du-doch-endlich-abnehmen-dickenfeindlichkeit-100.html",
-      "description": "Abnehmspritzen sind im Mainstream angekommen. Durch sie nimmt aber der Druck auf Übergewichtige zu. Sie berichten, dass sie wieder häufiger diskriminiert und beleidigt werden. Warum ist das so? Woher kommt diese Feindlichkeit? Möller, Henrike www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 27 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
       "title": "Frieden - Spurensuche zu einem Begriff zwischen Kitsch und Krieg",
       "url": "https://www.deutschlandfunkkultur.de/wem-gehoert-der-frieden-suche-nach-einem-begriff-zwischen-kitsch-und-krieg-100.html",
       "description": "Wer für Frieden eintritt, gilt heute schnell als weltfremd - \"Kriegstüchtigkeit\" ist das Gebot der Stunde. Dabei tarnt sich auch der Krieg gern als Frieden: als Schutz, Verteidigung, Befreiung. Wie kam es dazu? Peikert, Linda www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -65,22 +65,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "Deutscher Wein - Folgt auf den Rausch der Krisen-Kater?",
-      "url": "https://www.deutschlandfunkkultur.de/deutscher-wein-klimakrise-100.html",
-      "description": "Klimakrise, steigende Kosten, Billigkonkurrenz und sinkender Konsum: Der deutsche Wein steckt in der Krise. Droht der Wandel vom Kultur- zum Luxusgut? Oder handelt es sich nur um eine Marktkorrektur nach langen fetten Jahrzehnten? Sollich, Robert; Riede, Frank www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -116,19 +100,35 @@
       }
     },
     {
-      "title": "Streitort Garage - Zwischen DDR-Alltagskultur und Abriss",
-      "url": "https://www.deutschlandfunkkultur.de/zwischen-ddr-alltagskultur-und-abriss-triggerort-garage-100.html",
-      "description": "DDR-Garagen sind bis heute umkämpfte Orte. Für die einen gehören sie zur ostdeutschen Alltagskultur, für die anderen sind sie überholte Zweckbauten. Ihr Streit berührt Fragen von Erinnerung, Identität und Zugehörigkeit. Hennings, Alexa www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 26 Aug 2026",
+      "title": "Stuttgart 21: Was die Deutsche Bahn aus dem Desaster lernen kann",
+      "url": "https://www.deutschlandfunkkultur.de/stuttgart-21-was-die-deutsche-bahn-aus-dem-desaster-lernen-kann-100.html",
+      "description": "Explodierende Kosten, eine um über zehn Jahre verschobene Eröffnung: Das Bahnprojekt Stuttgart 21 ist zur Chiffre für das Versagen der deutschen Verkehrspolitik geworden. Was hat die Bahn daraus für das nächste Großprojekt in Hamburg-Altona gelernt? Reischke, Martin www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 20
+      }
+    },
+    {
+      "title": "EU sanktioniert Publizisten: Meinungsfreiheit in Gefahr?",
+      "url": "https://www.deutschlandfunkkultur.de/eu-sanktionen-russland-hybrider-krieg-meinungsfreiheit-100.html",
+      "description": "Konten werden eingefroren, die Reisefreiheit beschränkt: Seit 2025 sanktioniert die EU Publizisten, die angeblich Russlands hybriden Krieg gegen Westeuropa unterstützen. Kritiker bemängeln, dass rechtsstaatliche Prinzipien unterlaufen würden. Kruchem, Thomas www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 21 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -180,6 +180,22 @@
       }
     },
     {
+      "title": "Auf die Straße! Über die Macht der Proteste",
+      "url": "https://www.deutschlandfunkkultur.de/auf-die-strasse-ueber-die-macht-der-strassenproteste-100.html",
+      "description": "Der Straßenprotest hat eine lange Geschichte. Auch im Internetzeitalter wird er genutzt, um Positionen klar zu machen und Rechte durchzusetzen - überall auf der Welt. Was verbindet die Protestgenerationen über die Jahrzehnte hinweg? Fuchs, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
       "title": "9/11 als Medienereignis - Wenn Terror auf spektakuläre Bilder setzt",
       "url": "https://www.deutschlandfunkkultur.de/breaking-news-9-11-als-medienereignis-100.html",
       "description": "Die Anschläge auf das World Trade Center in New York am 11. September 2001 erschütterten die Welt - auch durch dramatische Bilder in Echtzeit. Medien verstärkten die Wirkung des Terrors. Welche Lehren lassen sich aus der Berichterstattung ziehen? Spittler, Christoph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -224,22 +240,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Ostdeutschland - In den Medien wird noch immer anders berichtet",
-      "url": "https://www.deutschlandfunkkultur.de/ostdeutschland-in-den-medien-102.html",
-      "description": "Schrumpfen, spalten, beklagen – das sind Verben, die in der Berichterstattung über Ostdeutschland häufig auftauchen. Das Negativbild besteht seit 35 Jahren. Doch es gibt Versuche, dem Westblick eine neue Perspektive entgegenzusetzen. Gerstenberg, Ralph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 31 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 15
       }
     }

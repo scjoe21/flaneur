@@ -1,56 +1,8 @@
 {
   "sourceId": "new-atlantis",
   "sourceName": "The New Atlantis",
-  "fetchedAt": "2026-09-20T19:26:24.741712+00:00",
+  "fetchedAt": "2026-09-25T09:16:41.819360+00:00",
   "items": [
-    {
-      "title": "Why Is Digital Freedom Making Us Exhausted and Sad?",
-      "url": "https://www.thenewatlantis.com/publications/byung-chul-han-what-happened-to-freedom",
-      "description": "Byung-Chul Han is one of Europe’s most widely read philosophers. His audience in the United States has grown considerably over the last decade, though mostly outside the academy; in 2024, the New Yorker dubbed him “The Internet’s New Favorite Philosopher” — an ironic label for a thinker who keeps his distance from the online world. His latest book, The Tonality of Thought, gathers three public lectures that serve as windows into his work and way of life. In its own way, the book makes sense of w",
-      "date": "Tue, 26 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
-    {
-      "title": "A State That Supports Families, or a State-Shaped Family?",
-      "url": "https://www.thenewatlantis.com/publications/a-state-that-supports-families-or-a-state-shaped-family",
-      "description": "“Why now?” Rita Koganzon asks in her review of my book The Dignity of Dependence. “Why revive a thirty-year-old ‘ethics of care’ critique of liberalism?” The simplest answer is: because it is true. It is hard to build a just society if you start with a false account of the human person. My book is aimed at two specific errors. First: the false idea that women’s political and social equality with men is premised on our being interchangeable with men. Second: that men and women are autonomous such",
-      "date": "Tue, 26 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 44
-      }
-    },
-    {
-      "title": "The Big Drift: An AI Scenario",
-      "url": "https://www.thenewatlantis.com/publications/the-big-drift-an-ai-scenario",
-      "description": "In the coming years, artificial intelligence will not simply change how we work. It will likely erode work itself as the central organizing principle of modern society. This is not a claim about mass unemployment or human obsolescence. It is about what happens when work gradually ceases to perform the quiet functions it has long served: occupying large populations, structuring daily life, anchoring identity, and stabilizing social and political institutions. As those functions weaken, the conseq",
-      "date": "Tue, 26 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
     {
       "title": "Why I Do Not Have AC",
       "url": "https://www.thenewatlantis.com/publications/why-i-do-not-have-ac",
@@ -68,58 +20,90 @@
       }
     },
     {
-      "title": "How to Become a Person After Smartphones Have Rotted Your Brain",
-      "url": "https://www.thenewatlantis.com/publications/how-to-become-a-person-after-smartphones-have-rotted-your-brain",
-      "description": "Fifteen-year-old August Lamm posted a picture of herself on the r/amiugly subreddit with the following caption: 15/f and curious what people think. I’ve never been a popular girl and I don’t get much attention from guys. My teeth are kind of wonky but I’m getting Invisalign tomorrow. “I would make another post the following year, then again at eighteen, to see if I’d gotten any prettier,” she would write in 2024, reflecting on the experience. “I sought feedback in other ways too, on other platfo",
-      "date": "Tue, 16 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "You Don’t Have to Use AI",
-      "url": "https://www.thenewatlantis.com/publications/you-dont-have-to-use-ai",
-      "description": "With the rise of AI, most people feel compelled to ask: How should I be using it? But this question assumes too much. We should instead be asking: Am I free not to? The answer is simple: Yes, you are. If you would rather not use AI — if you don’t like it, if you don’t find it useful, if you just aren’t interested in adding it to your digital toolkit — then you are allowed to opt out. There is no imperative to use it. Whatever the eventual costs, it remains perfectly reasonable to hold off for no",
-      "date": "Tue, 26 May 2026",
+      "title": "Zoning Alone",
+      "url": "https://www.thenewatlantis.com/publications/zoning-alone",
+      "description": "Downtown commercial districts that empty out in the evenings, industrial areas far from population centers, family homes surrounded by nothing but other houses in developments with no nearby access to anything — no grocery stores or shops, no places of work or entertainment, no restaurants, day cares, or public parks: These are the distinguishing characteristics of the American urban form. If these are inconvenient, or ugly, or sad, why don’t property owners change them? The reason is that these",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Stack Underflow: Losing the Craft of Coding",
-      "url": "https://www.thenewatlantis.com/publications/stack-underflow-losing-the-craft-of-coding",
-      "description": "As a software engineer at a big tech company, I accomplish a non-trivial portion of my work with ⌘+C, ⌘+V — plugging the contents into my AI agent and letting it do all the thinking and execution for me. I’ll even use agents for technical conversations where I’m out of my depth. A fellow engineer will message me a question and I’ll paste the conversation directly into the agent. Sometimes in meetings, I’ll transcribe a question in real time to my agent so I can reply intelligently without missin",
-      "date": "Tue, 26 May 2026",
+      "title": "The Pro-Human AI Declaration",
+      "url": "https://www.thenewatlantis.com/publications/the-pro-human-ai-declaration",
+      "description": "In March 2026, a coalition of interest groups and individuals, organized by the Future of Life Institute, issued the following declaration at HumanStatement.org. 1. Keeping Humans in Charge Human Control Is Non-Negotiable: Humanity must remain in control. Humans should choose how and whether to delegate decisions to AI systems. Meaningful Human Control: Humans should have authority and capacity to understand, guide, proscribe, and override AI systems. No Superintelligence Race: Development of su",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "‘To me it’s stupid to just indiscriminately cut science…. But it was also pretty stupid to just keep pouring money into science’",
+      "url": "https://www.thenewatlantis.com/publications/stupid-to-just-cut-stupid-to-just-pour",
+      "description": "Ari Schulman: Dan, I’d like to start with a worry about science funding that goes back before the Trump era. Ten years ago, you wrote in our pages that much new science “is turning out to be contestable, unreliable, unusable, or flat-out wrong. From metastatic cancer to climate change to growth economics to dietary standards, science that is supposed to yield clarity and solutions is in many instances leading instead to contradiction, controversy, and confusion” (“Saving Science,” Spring/Summer ",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
       }
     },
     {
-      "title": "The Future Belongs to Those Who Resist It",
-      "url": "https://www.thenewatlantis.com/publications/the-future-belongs-to-those-who-resist-it",
-      "description": "The main text of Magnifica Humanitas, Pope Leo XIV’s encyclical on humanity in the age of artificial intelligence, opens with two biblical images of building. The first is ambitious, gleaming, rationalizing, and maximizing. It is the Tower of Babel. The other is humbled, limping, uncertain, and diffuse. It is a scene from the book of Nehemiah, where the prophet assigns each family of Jerusalem a section of the wall to rebuild. The same choice is before us, Pope Leo believes: to build Babel or Je",
-      "date": "Thu, 28 May 2026",
+      "title": "Should Your Kids Be Born in a Pod?",
+      "url": "https://www.thenewatlantis.com/publications/should-your-kids-be-born-in-a-pod",
+      "description": "Colossal Biosciences is going to bring back the woolly mammoth — if they can find a womb big enough to birth one. Their first solution is elephants. But surrogacy is too unreliable to produce mammoth calves at scale, so they’ve come up with Plan B: to create an artificial womb within the next year. It’s an ambitious goal. Scientists have been trying to develop artificial wombs since the 1950s for a wide array of medical purposes, especially improving survival rates for premature babies. But Colo",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "‘It’s a form of apocalypticism applied to science policy’",
+      "url": "https://www.thenewatlantis.com/publications/a-form-of-apocalypticism-applied-to-science-policy",
+      "description": "Ari Schulman: Tony, I’ve spent the past year trying to make sense of what the Trump administration’s agenda is for science. It’s a tough job, because you hear two very different stories coming from the admin. One story is about restoring gold-standard science, restoring trust in science, solving the replication crisis, fueling cutting-edge research, and doing more to free scientists from needless grant paperwork and support them early in their careers. It’s a lofty story, practically a love lett",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Is There Life on Mars, Pennsylvania?",
+      "url": "https://www.thenewatlantis.com/publications/is-there-life-on-mars-pennsylvania",
+      "description": "SpaceX’s initial public offering of $1.8 trillion in June was the largest ever in history. Yet Mars, Elon Musk’s ambitious destination, is an airless desert whose median temperature of negative 80 degrees Fahrenheit makes it neither particularly warm nor inviting. Mars, Pennsylvania, however, is both — but nobody is bidding trillions to get there. Instead, people seem to want to leave. Going to Mars for a yoga class, or craft beer, or a tomato festival? All are available 20 miles north of Pittsb",
+      "date": "Tue, 08 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -129,6 +113,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "‘Pessimism about our institutions has fueled optimism about disruption’",
+      "url": "https://www.thenewatlantis.com/publications/pessimism-about-institutions-optimism-about-disruption",
+      "description": "Ari Schulman: Ian, you’re part of what we might loosely call the “science reform community.” Tell us what that means and what your specific focus is in your role at the Foundation for American Innovation. Ian Banks: At FAI, I run the Science and Innovation team, which encompasses federal R&D as well as related efforts including biotechnology and biosecurity, weather and atmosphere policy, and landscape and technology issues such as de-extinction or insect elimination. In this capacity, I help de",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "‘A winning strategy for shifting the culture and quality’ of infertility treatment",
+      "url": "https://www.thenewatlantis.com/publications/winning-strategy-infertility-treatment",
+      "description": "Ari Schulman: Emma, you are a policy leader on the subject of restorative reproductive medicine, which, as I understand it, argues that something has gone wrong with conventional fertility treatments, especially in the prominence of IVF. It also has a different prescription, an idea of a sort of new scientific field and medical practice that still needs to be developed. Is that right? What is RRM? Emma Waters: Restorative reproductive medicine is an umbrella term that refers to three distinct me",
+      "date": "Tue, 08 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -142,22 +158,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Idols of the Valley",
-      "url": "https://www.thenewatlantis.com/publications/idols-of-the-valley",
-      "description": "Since the beginning of his papacy a year ago, Pope Leo XIV has held out the promise of offering the world some much-needed wisdom on living well with technology. His very choice of name hearkened back to Leo XIII’s unmatched moral and intellectual leadership in framing the case for human flourishing in the face of the indignities of the industrial age. And his ambition has seemed directed to offering similar guidance, rooted in the same enduring conception of the nature of the human person, to a",
-      "date": "Tue, 26 May 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

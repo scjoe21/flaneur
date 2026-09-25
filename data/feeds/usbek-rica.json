@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-09-20T19:26:03.645876+00:00",
+  "fetchedAt": "2026-09-25T09:16:17.731519+00:00",
   "items": [
     {
       "title": "Écrans, IA, réseaux sociaux : et si on arrêtait de dire que les jeunes sont devenus « débiles » ?",
@@ -17,22 +17,6 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 29
-      }
-    },
-    {
-      "title": "Pourquoi les barons de l'IA jouent les technophilanthropes",
-      "url": "https://usbeketrica.com/fr/article/pourquoi-les-barons-de-l-ia-jouent-les-megadonnateurs",
-      "description": "Dans le secteur de l'IA, plusieurs entrepreneurs s’engagent à reverser, en partie ou en totalité, l'argent que leur rapportera la vente de leur start-up à des associations caritatives. Promesse humaniste ou façon habile de faciliter les levées de fonds tout en faisant oublier les dégâts collatéraux d’une course technologique effrénée ? Le média américain Wired a décrypté ce phénomène qui prend de l’ampleur.",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {
@@ -68,25 +52,57 @@
       }
     },
     {
-      "title": "L’amitié est-elle le meilleur remède à la solitude ?",
-      "url": "https://usbeketrica.com/fr/article/l-amitie-est-elle-le-meilleur-remede-a-la-solitude",
-      "description": "Et si l’amitié devenait la pierre angulaire du vivre-ensemble ? Éclipsée au profit de la famille et du couple, elle gagnerait à être revalorisée socialement et financièrement. C’est en tout cas ce que défendent de plus en plus d’artistes, de chercheurs et d’intellectuels, qui y voient un remède à l’isolement social. Alors que le sujet s'impose dans l'actualité, nous republions en intégralité l'enquête initialement parue à l'automne 2025 dans les pages de notre magazine FUTUR.",
-      "date": "Thu, 27 Aug 2026",
+      "title": "Et si la banque de demain nous protégeait de ses propres algorithmes ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-la-banque-de-demain-nous-protegeait-de-ses-propres-algorithmes",
+      "description": "Dans un avenir où des plateformes pilotées par l’intelligence artificielle gèrent notre argent à notre place, à quoi pourrait encore servir une agence bancaire ? Avec la banque fictive Verso, l'agence frog imagine un lieu physique chargé de rendre les décisions financières compréhensibles, contestables et, surtout, dignes de confiance.",
+      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
+      }
+    },
+    {
+      "title": "Et si la gare de demain devenait notre premier refuge climatique ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-la-gare-de-demain-devenait-notre-premier-refuge-climatique",
+      "description": "Tours, 2033. Alors que le thermomètre menace d’atteindre 46 degrés, une mère et ses enfants sont évacués vers une gare transformée en abri. Avec Lieux de résistance, l'agence frog imagine des services publics capables d’anticiper les catastrophes, de protéger les plus vulnérables et de mobiliser les citoyens. Une fiction désirable, traversée par des choix très politiques.",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "« Les populistes mènent une guerre d’usure, en minant la démocratie de l’intérieur jour après jour »",
+      "url": "https://usbeketrica.com/fr/article/les-populistes-menent-une-guerre-d-usure-en-minant-la-democratie-de-l-interieur-jour-apres-jour-antonio-scurati-mussolini",
+      "description": "Et si la politique désordonnée, les décisions chaotiques, la langue acrimonieuse des leaders populistes et souverainistes d’aujourd’hui étaient les héritières de tactiques élaborées et éprouvées par Mussolini ? Dans le dossier de notre magazine dédié aux penseurs qui nous outillent pour sortir du chaos, on a posé la question a Antonio Scurati, auteur de M., saga de cinq romans documentaires consacrés au dictateur italien, dont le dernier opus, La fin et le commencement, vient de paraître aux édi",
+      "date": "Mon, 21 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
       "title": "Comment l’industrie de l’IA dope la production de PFAS",
       "url": "https://usbeketrica.com/fr/article/comment-l-industrie-de-l-ia-dope-la-production-de-pfas",
-      "description": "Derrière les milliards brassés par la Silicon Valley dans la course à l'intelligence artificielle, se joue une autre ruée vers l’or, beaucoup moins médiatisée : celle des industriels de la chimie qui fournissent une partie des produits nécessaires à la fabrication des infrastructures qui sous-tendent les systèmes d’IA. Parmi ces substances, on retrouve les très controversés « polluants éternels ».",
+      "description": "Derrière les milliards brassés par la course à l'intelligence artificielle, se joue une autre ruée vers l’or, beaucoup moins médiatisée : celle des industriels de la chimie qui fournissent une partie des produits nécessaires à la fabrication des infrastructures qui sous-tendent les systèmes d’IA. Parmi ces substances, on retrouve les très controversés « polluants éternels ».",
       "date": "Sat, 19 Sep 2026",
       "thumbnail": "",
       "videoId": "",
@@ -116,18 +132,34 @@
       }
     },
     {
-      "title": "Meta et la protection des mineurs : l'accord à 18 milliards de dollars change-t-il vraiment la donne ?",
-      "url": "https://usbeketrica.com/fr/article/meta-et-la-protection-des-mineurs-l-accord-a-18-milliards-de-dollars-change-t-il-vraiment-la-donne",
-      "description": "Mercredi 26 août, Meta a conclu un accord à l’amiable avec 47 États américains pour mettre fin à un nouveau procès l’accusant de porter préjudice aux adolescents via ses plateformes Instagram et Facebook. Au programme : une amende de 18 milliards de dollars, et un panel de mesures protectrices pour les jeunes usagers. Mais le sont-elles vraiment ? Et faut-il s’attendre à voir ces nouvelles règles traverser l’Atlantique ? Réponse de Jean Cattan, ex-secrétaire général du Conseil national du numéri",
-      "date": "Fri, 04 Sep 2026",
+      "title": "Dans un monde de pénurie, le magasin de demain doit-il optimiser nos choix grâce à nos données personnelles ?",
+      "url": "https://usbeketrica.com/fr/article/dans-un-monde-de-penurie-le-magasin-de-demain-doit-il-optimiser-nos-choix-grace-a-nos-donnees-personnelles",
+      "description": "Dans un futur de pénuries durables, l'agence frog imagine deux magasins. Le premier sait tout de nous et transforme chaque visite en expérience sur mesure. Le second ne collecte rien, mais ne propose presque plus rien à choisir. Une fiction qui pose une question embarrassante : le respect de la vie privée deviendra-t-il le prix de la standardisation ?",
+      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
         "daily": 5,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Intergénérationnel au travail : 4 clichés à oublier",
+      "url": "https://usbeketrica.com/fr/article/intergenerationnel-au-travail-4-cliches-a-oublier",
+      "description": "Alors que l’espérance de vie s’allonge en même temps que les carrières, la question de l’intergénérationnel dans le monde du travail est plus que jamais d’actualité. Cependant, les seniors comme les plus jeunes font toujours l’objet de clichés tenaces. Caroline Diard, professeure de droit des affaires et management RH au sein de l’école de commerce TBS Education, et Gilles Vermot-Desroches, Directeur de la citoyenneté Schneider-Electric et conseiller au CESE, défont quatre idées reçues parmi les",
+      "date": "Mon, 21 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
         "total": 10
       }
     },
@@ -148,26 +180,26 @@
       }
     },
     {
-      "title": "La « route de la soie polaire », vraie alternative et mirage géopolitique ?",
-      "url": "https://usbeketrica.com/fr/article/la-route-de-la-soie-polaire-vraie-alternative-et-mirage-geopolitique-chine-russie",
-      "description": "Le recul des glaciers de l’Arctique trace un nouveau passage pour la flotte de commerce entre l’Asie et l’Europe. Un raccourci établi dans un contexte géopolitique sous tension, révélant les nouvelles ambitions sino-russes dans le commerce maritime et fragilisant l'écosystème qu'il traverse.",
-      "date": "Mon, 14 Sep 2026",
+      "title": "C’est prouvé, lire pour le plaisir fait du bien à votre cerveau",
+      "url": "https://usbeketrica.com/fr/article/c-est-prouve-lire-pour-le-plaisir-fait-du-bien-a-votre-cerveau",
+      "description": "Une étude de l’université Cambridge pointe les nombreux bienfaits associés à la lecture « pour le plaisir », c’est-à-dire effectuée «de plein gré, en anticipant la satisfaction que procurera l’acte de lire ». Chez les enfants et les adolescents, mais pas que.",
+      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
       }
     },
     {
-      "title": "3 œuvres de science-fiction qui reflètent l’évolution de notre vision de l’avenir",
-      "url": "https://usbeketrica.com/fr/article/3-oeuvres-de-science-fiction-qui-refletent-l-evolution-de-notre-vision-de-l-avenir",
-      "description": "La science-fiction n’échappe pas aux pesanteurs historiques. Les visions de l’avenir qu’elle met en scène racontent autant son pouvoir de projection que son contexte de création. La preuve à travers trois livres essentiels, qui permettent de mieux cerner l’évolution de notre perception du futur au cours des dernières décennies.",
-      "date": "Fri, 28 Aug 2026",
+      "title": "La « route de la soie polaire », vraie alternative et mirage géopolitique ?",
+      "url": "https://usbeketrica.com/fr/article/la-route-de-la-soie-polaire-vraie-alternative-et-mirage-geopolitique-chine-russie",
+      "description": "Le recul des glaciers de l’Arctique trace un nouveau passage pour la flotte de commerce entre l’Asie et l’Europe. Un raccourci établi dans un contexte géopolitique sous tension, révélant les nouvelles ambitions sino-russes dans le commerce maritime et fragilisant l'écosystème qu'il traverse.",
+      "date": "Mon, 14 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -200,38 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/ken-liu-l-ecrivain-qui-ne-voulait-pas-jouer-les-ambassadeurs",
       "description": "Enfant, il voulait devenir mathématicien. Lorsqu'il quitte la Chine à 11 ans pour s’installer en Californie, c'est la seule langue qu’il parle couramment à l'école. Rêveur compulsif, il grandit dans les livres, sans se douter qu’il deviendrait vingt ans plus tard l’un des prodiges de la science-fiction américaine. Auteur primé de plus de cent soixante-dix nouvelles et romans, il se révèle aussi un brillant traducteur d’œuvres de science-fiction sinophones. Un talent qui lui a valu le surnom médi",
       "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les supercentenaires ont une « arme secrète » dans leur système immunitaire",
-      "url": "https://usbeketrica.com/fr/article/cancer-les-supercentenaires-ont-une-arme-secrete-dans-leur-systeme-immunitaire",
-      "description": "Les personnes âgées de plus de 110 ans présentent une forte concentration de cellules CD4 CTL, des globules blancs qui se clonent pour mieux éliminer certaines cellules cibles. C’est la conclusion d’une étude publiée le 19 août dans la revue Cell Reports par des chercheurs de l’université d’Osaka, au Japon. Le secret de la longévité résiderait-il dans cette évolution tardive de notre système immunitaire ? C’est encore trop tôt pour pouvoir l’affirmer.",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Un tiers des pages web publiées depuis le lancement de ChatGPT ont été écrites avec l'aide de I'IA",
-      "url": "https://usbeketrica.com/fr/article/un-tiers-des-pages-web-publiees-depuis-le-lancement-de-chatgpt-ont-ete-ecrites-par-ia",
-      "description": "Depuis le lancement de ChatGPT fin 2022, les contenus générés par IA ont gagné du terrain sur le Web. À rebours des estimations les plus alarmistes, une nouvelle analyse du centre de statistiques américain Pew Research permet, pour la première fois, d'en mesure l’ampleur, tout en nuance. Voici cinq chiffres-clés à retenir de cette étude.",
-      "date": "Wed, 26 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

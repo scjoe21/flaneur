@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-09-20T19:26:10.738567+00:00",
+  "fetchedAt": "2026-09-25T09:16:24.732799+00:00",
   "items": [
     {
       "title": "Perché sappiamo tutto e non facciamo niente?",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
-      }
-    },
-    {
-      "title": "COME NASCE TLON? - PARTE 2",
-      "url": "https://www.youtube.com/watch?v=m4HmtQfneYU",
-      "description": "Tlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2025-12-27",
-      "thumbnail": "https://i2.ytimg.com/vi/m4HmtQfneYU/hqdefault.jpg",
-      "videoId": "m4HmtQfneYU",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
       }
     },
     {
@@ -84,44 +68,12 @@
       }
     },
     {
-      "title": "Lavoro culturale: bilanciare vocazione e  concretezza",
-      "url": "https://www.youtube.com/watch?v=NTQNVmTAwi8",
-      "description": "Tlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2026-01-23",
-      "thumbnail": "https://i3.ytimg.com/vi/NTQNVmTAwi8/hqdefault.jpg",
-      "videoId": "NTQNVmTAwi8",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Che cos'è il lavoro culturale oggi?",
-      "url": "https://www.youtube.com/watch?v=zJdKcAFn-VA",
-      "description": "Tlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2026-01-19",
-      "thumbnail": "https://i3.ytimg.com/vi/zJdKcAFn-VA/hqdefault.jpg",
-      "videoId": "zJdKcAFn-VA",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "La mia giornata tipo?",
-      "url": "https://www.youtube.com/watch?v=oGPrl0JmGks",
-      "description": "Tlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2026-01-09",
-      "thumbnail": "https://i4.ytimg.com/vi/oGPrl0JmGks/hqdefault.jpg",
-      "videoId": "oGPrl0JmGks",
+      "title": "Interspecie - Maura Gancitano intervista Alessandro Fusacchia",
+      "url": "https://www.youtube.com/watch?v=7c9Owe0lx_c",
+      "description": "Il libro è disponibile qui: https://shop.tlon.it/prodotto/interspecie-alessandro-fusacchia/\n\nTlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
+      "date": "2026-09-24",
+      "thumbnail": "https://i4.ytimg.com/vi/7c9Owe0lx_c/hqdefault.jpg",
+      "videoId": "7c9Owe0lx_c",
       "priority": 15,
       "scoreDetail": {
         "daily": 10,
@@ -132,35 +84,51 @@
       }
     },
     {
-      "title": "TLON - La nostra storia  dal 2020 ad oggi",
-      "url": "https://www.youtube.com/watch?v=UFoaqQzDOos",
-      "description": "Tlon è un progetto filosofico di Maura Gancitano e Andrea Colamedici: eventi culturali, casa editrice, libreria teatro, scuola di filosofia e immaginazione.\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2025-12-29",
-      "thumbnail": "https://i2.ytimg.com/vi/UFoaqQzDOos/hqdefault.jpg",
-      "videoId": "UFoaqQzDOos",
-      "priority": 15,
+      "title": "IL SÉ DIGITALE",
+      "url": "https://www.youtube.com/watch?v=z-55zjouJcI",
+      "description": "Per una politica del sentire\n\nOspiti:\nVittorio Gallese\nAndrea Colamedici",
+      "date": "2026-09-23",
+      "thumbnail": "https://i3.ytimg.com/vi/z-55zjouJcI/hqdefault.jpg",
+      "videoId": "z-55zjouJcI",
+      "priority": 10,
       "scoreDetail": {
         "daily": 10,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "Tlonletter #1 Possiamo davvero fregarcene del giudizio degli altri?",
-      "url": "https://www.youtube.com/watch?v=fGZoFM74xss",
-      "description": "Essere cringe, sentirsi osservati, avere bisogno dello sguardo altrui. E scoprire che una comunità può darci un posto e, nello stesso momento, impedirci di diventare altro.\n\nhttps://www.tlonletter.it/p/possiamo-davvero-fregarcene-del-giudizio?utm_source=youtube",
-      "date": "2026-08-24",
-      "thumbnail": "https://i3.ytimg.com/vi/fGZoFM74xss/hqdefault.jpg",
-      "videoId": "fGZoFM74xss",
-      "priority": 14,
+      "title": "ILPOD. ITALIAN PODCAST AWARDS",
+      "url": "https://www.youtube.com/watch?v=2aJCCZEkq_I",
+      "description": "V edizione — Le voci che attraversano l’Italia in podcast\n\nOspiti:\nMaura Gancitano\nRossella Pivanti\nDaniele Tinti\nStefano Rapone\nValerio Nicolosi",
+      "date": "2026-09-23",
+      "thumbnail": "https://i3.ytimg.com/vi/2aJCCZEkq_I/hqdefault.jpg",
+      "videoId": "2aJCCZEkq_I",
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 14
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "PAURA NON ABBIAMO",
+      "url": "https://www.youtube.com/watch?v=UYftYV_HyYM",
+      "description": "Le donne che hanno attraversato la Repubblica\n\nOspiti:\nSerena Dandini\nMaura Gancitano",
+      "date": "2026-09-23",
+      "thumbnail": "https://i2.ytimg.com/vi/UYftYV_HyYM/hqdefault.jpg",
+      "videoId": "UYftYV_HyYM",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -212,28 +180,60 @@
       }
     },
     {
-      "title": "UNO MAGGIO TARANTO - MARATONA TLON",
-      "url": "https://www.youtube.com/watch?v=KYYuqojcjL8",
-      "description": "Dialoghi filosofici in diretta al \"UNO MAGGIO TARANTO\"\n\n\nhttp://www.tlon.it\nhttp://www.instagram.com/tlon.it\nhttp://www.facebook.com/associazionetlon",
-      "date": "2026-05-01",
-      "thumbnail": "https://i4.ytimg.com/vi/KYYuqojcjL8/hqdefault.jpg",
-      "videoId": "KYYuqojcjL8",
-      "priority": 5,
+      "title": "LA MUSICA CI ATTRAVERSA",
+      "url": "https://www.youtube.com/watch?v=YtcjsomsX6U",
+      "description": "Ospiti:\nVasco Brondi\nLevante\nMannarino\nRares\nMaura Gancitano\nAndrea Colamedici",
+      "date": "2026-09-24",
+      "thumbnail": "https://i2.ytimg.com/vi/YtcjsomsX6U/hqdefault.jpg",
+      "videoId": "YtcjsomsX6U",
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "UNO MAGGIO TARANTO - MARATONA TLON",
-      "url": "https://www.youtube.com/watch?v=Hhey6N_4CAI",
-      "description": "Dialoghi filosofici, in diretta dal \"UNO MAGGIO TARANTO\"",
-      "date": "2026-05-01",
-      "thumbnail": "https://i1.ytimg.com/vi/Hhey6N_4CAI/hqdefault.jpg",
-      "videoId": "Hhey6N_4CAI",
+      "title": "QUAGLIE SOVVERSIVE",
+      "url": "https://www.youtube.com/watch?v=uMFdrGiXaiE",
+      "description": "Concerto di chiusura\n\nOspiti:\nAndrea Colamedici\nMaura Gancitano\nMarco Castello",
+      "date": "2026-09-23",
+      "thumbnail": "https://i2.ytimg.com/vi/uMFdrGiXaiE/hqdefault.jpg",
+      "videoId": "uMFdrGiXaiE",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "ATTRAVERSARE LA PAROLA",
+      "url": "https://www.youtube.com/watch?v=0haD9BExLYY",
+      "description": "Le donne che hanno cambiato il mondo scrivendo\n\nOspiti:\nDacia Maraini\nMaura Gancitano",
+      "date": "2026-09-23",
+      "thumbnail": "https://i1.ytimg.com/vi/0haD9BExLYY/hqdefault.jpg",
+      "videoId": "0haD9BExLYY",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "PIÙ FUTURO NELLE NOSTRE VITE",
+      "url": "https://www.youtube.com/watch?v=CPHFwAISwng",
+      "description": "Per una sovranità dell’immaginazione\n\nOspiti:\nGuido Girardi\nBruno Giussani\nAndrea Colamedici",
+      "date": "2026-09-23",
+      "thumbnail": "https://i4.ytimg.com/vi/CPHFwAISwng/hqdefault.jpg",
+      "videoId": "CPHFwAISwng",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-09-20T19:26:11.978516+00:00",
+  "fetchedAt": "2026-09-25T09:16:26.388564+00:00",
   "items": [
     {
       "title": "Intelligenza artificiale, i primi tremila anni",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Fare classe",
-      "url": "https://www.iltascabile.com/societa/fare-classe/",
-      "description": "Dai Quanti di Einaudi allo sciopero della cultura, una riflessione sulla necessità di passare dall’identità all’organizzazione. \n L'articolo  Fare classe  proviene da  Il Tascabile .",
-      "date": "Tue, 08 Sep 2026",
+      "title": "Il punto di fuga della corsa all’IA",
+      "url": "https://www.iltascabile.com/scienze/punto-fuga-corsa-ia/",
+      "description": "Ai vertici del mondo IA ci sono molte persone sinceramente convinte che una superintelligenza artificiale risolverà ogni nostro problema, o ci porterà all’estinzione. Prospettive senza vero fondamento, ma utili a distrarre dai problemi reali. Una conversazione con Adam Becker. \n L'articolo  Il punto di fuga della corsa all’IA  proviene da  Il Tascabile .",
+      "date": "Mon, 21 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 10
       }
     },
     {
@@ -68,6 +68,70 @@
       }
     },
     {
+      "title": "Interrogare la sfinge di Renzo Guolo",
+      "url": "https://www.iltascabile.com/recensioni/interrogare-sfinge-renzo-guolo/",
+      "description": "L'articolo  Interrogare la sfinge di Renzo Guolo  proviene da  Il Tascabile .",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Minuscolo, enorme, sottomarino",
+      "url": "https://www.iltascabile.com/linguaggi/minuscolo-enorme-sottomarino/",
+      "description": "Un’esperienza del sé nell’abisso della materia: la pratica d’occasione dell’ Immenso spermatozoo sottomarino  di Gabriele Silli. \n L'articolo  Minuscolo, enorme, sottomarino  proviene da  Il Tascabile .",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Suoni dall’estinzione",
+      "url": "https://www.iltascabile.com/linguaggi/suoni-estinzione/",
+      "description": "Dall’omologazione dei grandi raduni di massa ai miceli sotterranei: un decennio musicale sul ciglio dell’apocalisse. \n L'articolo  Suoni dall’estinzione  proviene da  Il Tascabile .",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Alle origini del neoluddismo",
+      "url": "https://www.iltascabile.com/societa/origini-neoluddismo/",
+      "description": "La lunga parabola del rifiuto della tecnica, dall’antichità agli interrogativi dell’IA. \n L'articolo  Alle origini del neoluddismo  proviene da  Il Tascabile .",
+      "date": "Tue, 22 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Coinquilini bestiali di Nicola Bressi",
       "url": "https://www.iltascabile.com/recensioni/coinquilini-bestiali-nicola-bressi/",
       "description": "L'articolo  Coinquilini bestiali di Nicola Bressi  proviene da  Il Tascabile .",
@@ -88,70 +152,6 @@
       "url": "https://www.iltascabile.com/linguaggi/trappola-significato/",
       "description": "Didascalie, fraintendimenti e linguaggi impossibili nella pratica di Monia Ben Hamouda. \n L'articolo  La trappola del significato  proviene da  Il Tascabile .",
       "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Assoluzione di Jeff VanderMeer",
-      "url": "https://www.iltascabile.com/recensioni/assoluzione-jeff-vandermeer/",
-      "description": "L'articolo  Assoluzione di Jeff VanderMeer  proviene da  Il Tascabile .",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Una cosa divertente",
-      "url": "https://www.iltascabile.com/letterature/cosa-divertente/",
-      "description": "Dal parallelo con Joan Didion all'analisi computazionale: la falsa linea d'ombra tra il Wallace romanziere e il Wallace giornalista. \n L'articolo  Una cosa divertente  proviene da  Il Tascabile .",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La vita impigliata nella materia",
-      "url": "https://www.iltascabile.com/letterature/vita-impigliata-materia/",
-      "description": "Trame e simulacri intorno a Bruno Schulz a partire dal romanzo  Il Messia di Stoccolma  di Cynthia Ozick. \n L'articolo  La vita impigliata nella materia  proviene da  Il Tascabile .",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’illusione dei colori",
-      "url": "https://www.iltascabile.com/scienze/lillusione-colori/",
-      "description": "Tra i mammiferi, noi primati vediamo più colori di quasi tutti gli altri. È il risultato di un percorso evolutivo accidentato, che ha incluso milioni di anni di vita notturna. E probabilmente non è ancora finita. \n L'articolo  L’illusione dei colori  proviene da  Il Tascabile .",
-      "date": "Mon, 07 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

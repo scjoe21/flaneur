@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-09-20T19:26:20.433911+00:00",
+  "fetchedAt": "2026-09-25T09:16:39.004560+00:00",
   "items": [
     {
       "title": "Lani Watson on the Power of Questions",
@@ -116,22 +116,6 @@
       }
     },
     {
-      "title": "Edouard Machery on Variations in Responses to Thought Experiments",
-      "url": "https://philosophybites.libsyn.com/edouard-machery-on-variations-in-responses-to-thought-experiments",
-      "description": "Philosophers who use thought experiments often believe their own intutions in response to them are unviersal. But that's not always so. In this episode of the Philosophy Bites podcast Edouard Machery discusses his research on this topic, and some of his surprising conclusions.    This episode was made in association with the Institute of Philosophy and supported by the Ideas Workshop which is part of the Open Society Foundations",
-      "date": "Sun, 02 Nov 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
       "title": "Nilanjan Das on Buddhist Philosophy and Caste",
       "url": "https://philosophybites.libsyn.com/nilanjan-das-on-buddhist-philosophy-and-caste",
       "description": "There is a long tradition of caste in South Asia. In this episode of the Philosophy Bites podcast Nilanjan Das discusses a pre-modern philosophical critic of the whole system, and particularly of its underlying metaphysical assumptions.   This episode was supported by the Ideas Workshop, part of the Open Society Foundations",
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Miranda Fricker on Blame",
+      "url": "https://philosophybites.libsyn.com/miranda-fricker-on-blame",
+      "description": "We blame people, and sometimes we blame institutions. Miranda Fricker investigates the nature of blame and its functions, draws some important distinctions, and considers the metaphysical implications of this practice.",
+      "date": "Mon, 21 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

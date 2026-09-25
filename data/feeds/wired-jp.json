@@ -1,93 +1,157 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-20T19:26:42.493047+00:00",
+  "fetchedAt": "2026-09-25T09:17:00.695739+00:00",
   "items": [
     {
-      "title": "最適化されゆく世界に「不完全さ」が必要な理由──Moinが語る音楽、都市、偶然",
-      "url": "https://wired.jp/article/moin-interview/",
-      "description": "電子音楽の方法論を「バンド」へともち込み、偶然や不確実性を創作のなかに取り込んできたMoin。あらゆるものが予測され、最適化されていく時代に、不完全さはなぜ人を引きつけるのか。音楽、アルゴリズム、都市について3人に訊いた。",
-      "date": "Thu, 17 Sep 2026",
+      "title": "人間はただ、そこにいるだけで野生動物を変えている：研究結果",
+      "url": "https://wired.jp/article/human-presence-reshapes-wildlife-behavior/",
+      "description": "人間の存在自体が野生動物の行動を直接左右している可能性が、動物の追跡データと携帯電話の位置情報を分析した最新の研究で明らかになった。土地の改変とは別に、人間が「そこにいるだけ」でもたらす影響が見えてきたのだ。",
+      "date": "Mon, 21 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "音楽家・TOWA TEIと映像ディレクター・中村剛、AIとの“共創”を語る",
+      "url": "https://wired.jp/article/towa-tei-takeshi-nakamura-zambient-ai-interview/",
+      "description": "TOWA TEIが新アルバム『ZAMBIENT』を発売した。楽曲やMVの制作にAIを活用したという新作のキーワードは「雑」。その言葉にはどんな意図があるのか、AIとの“共創”で何が見えてきたのか──。TEIと映像ディレクターの中村剛が語り合った。",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "スマートフォンを折り畳む“必然”はどこにある？ iPhone Duoが置いた「基準点」の意味",
+      "url": "https://wired.jp/article/iphone-duo-sets-foldable-benchmark/",
+      "description": "「iPhone Duo」は折り畳みスマートフォンとして後発だが、どこか既存の製品とは異なる感触がある。実際に体験して見えてきたのは、アップルの狙いが目先のシェアをとりにいくことではない、ということだ。",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "“ハエの脳”に『WIRED』の記事ネタを考えさせてみた",
+      "url": "https://wired.jp/article/i-trained-a-fly-on-wired-story-ideas/",
+      "description": "ショウジョウバエの脳の地図「コネクトーム」を使い、記事の企画案を考える「PitchFly」をつくってみた。すると、予想の斜め上をいく奇妙な企画案が次々と生まれた。",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "金星が衛星を“飲み込んで”いた可能性が浮上",
+      "url": "https://wired.jp/article/venus-moon-swallowed-tidal-collapse/",
+      "description": "地球とよく似た質量と大きさをもつ金星がなぜ月をもたないのかは、天文学における大きな謎のひとつだった。その回答になりうる説が、このほど発表された。それは金星が自分の衛星を“飲み込んで”いたというものだ。",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "「iPhone 18 Pro／Pro Max」レビュー：可変絞りが写真好きには魅力的",
+      "url": "https://wired.jp/review/apple-iphone-18-pro-and-iphone-18-pro-max/",
+      "description": "折り畳み式の「iPhone Duo」に注目が集まるなか、従来型のiPhone 18 Proシリーズも、可変絞りを搭載したカメラでしっかり存在感を示している。",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "細菌を生きたトランジスターとして機能させる実験に成功",
+      "url": "https://wired.jp/article/bacteria-living-transistors-circuit/",
+      "description": "細菌をトランジスターとして機能させ、電子回路さながらの仕組みを構築することに、米国の研究チームが成功した。将来的には植物の葉や根に応用し、環境変化を感知して自律的に応答する仕組みなどへの発展が期待されている。",
+      "date": "Tue, 22 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "エントロピーとは何か？ 「無秩序」だけではわからない、その意味",
+      "url": "https://wired.jp/article/what-is-entropy-really/",
+      "description": "エントロピーといっても、宇宙の終焉の話ではない。目に見えない原子の世界と、わたしたちが暮らす目に見える世界をつなぐ架け橋でもある。『WIRED』のコントリビューターである物理学者が、確率の観点からひも解く。",
+      "date": "Mon, 21 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Polymarketの次なる賭けは「メディア企業」",
+      "url": "https://wired.jp/article/prediction-markets-polymarket-media-company-kalshi/",
+      "description": "予測市場は金融サービスか、ギャンブルか──。その位置づけを巡る法廷闘争の陰で、PolymarketやKalshiは独自のコンテンツを発信し、新たなメディアとして影響力を広げている。",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 9
+        "total": 4
       }
     },
     {
-      "title": "急増する脂肪肝。その予防にAIが役立つかもしれない",
-      "url": "https://wired.jp/article/fatty-liver-disease-ai-detection-cancer/",
-      "description": "脂肪肝と診断される人は世界で10億人を超える。AIツールの活用よって病状を早期に把握し、進行を食い止めることで、患者の命を救えるかもしれないと考える研究者たちがいる。",
-      "date": "Sun, 20 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "“世界最悪”の仕事をAIが引き受け始めた",
-      "url": "https://wired.jp/article/sz-ai-takes-over-debt-collection/",
-      "description": "世界で最も嫌われている督促電話を自動化する競争が過熱中だ。あなたがもし何かの支払いを滞納しているなら、近いうちに債権回収AIから電話がかかってくるかもしれない。",
-      "date": "Sat, 19 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "ファッションは、この時代からおもしろくなる────『惑星のためのファッション』刊行記念トークイベント【前編】",
-      "url": "https://wired.jp/article/synflux-apocableisseymiyake-fashionfortheplanet-1/",
-      "description": "スペキュラティヴ・ファッションデザイナー川崎和也による新著を手がかりに、AI時代におけるファッションデザインについて議論。三宅一生が投げかけた問いに始まる前編は、惑星規模の複雑性に向き合うための実践と戦略について。",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "ディープフェイク・ポルノサイト、欧州の女性政治家100人以上が標的に",
-      "url": "https://wired.jp/article/sexually-explicit-deepfake-sites-target-100-plus-politicians-in-europe/",
-      "description": "約160件のディープフェイクサイトを分析した調査で、22カ国の政治家がこうしたサイトに掲載されていることが明らかになった。そのほぼすべてが女性だ。",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "宇宙の2大ミステリー、ダークマターとダークエネルギーを結びつけるかもしれない「ダークディメンション」とは",
-      "url": "https://wired.jp/article/dark-energy-matter-may-have-own-dimension/",
-      "description": "近年の研究から、ダークエネルギーは弱まりつつある可能性が浮上している。その理由をめぐって議論が続くなか、ダークマターとの相互作用が生じる「ダークディメンション（暗黒次元）」という未知の次元が、その謎を解く鍵になるかもしれない。",
-      "date": "Sun, 20 Sep 2026",
+      "title": "mRNAで免疫細胞を再びがんと闘う味方に。新たな治療の可能性",
+      "url": "https://wired.jp/article/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
+      "description": "がんによって働きを変えられた免疫細胞にmRNAを届ける「スマート」ナノ粒子を、アデレード大学の研究チームが開発した。マウスを使った実験では免疫細胞の働きが活発になり、腫瘍の増殖が鈍化した。",
+      "date": "Thu, 24 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +164,10 @@
       }
     },
     {
-      "title": "「AI俳優」ティリー・ノーウッドと実のある会話はできるのか？",
-      "url": "https://wired.jp/article/ai-actor-tilly-norwood-told-me-that-all-lives-matter/",
-      "description": "AI映画スタジオが生んだ「俳優」ティリー・ノーウッドが、主演映画『Misaligned』の宣伝のためインタビューに応じた。実のある会話をしようとすればするほど、その返答は曖昧になり、ときに問題のあるものになった。",
-      "date": "Sat, 19 Sep 2026",
+      "title": "【試乗レポート】フェラーリ「Luce」は正真正銘の“フェラーリ”だ",
+      "url": "https://wired.jp/article/first-drive-ferrari-luce/",
+      "description": "『WIRED』は、フェラーリ初のEV「Luce」にいち早く試乗した。その走りは驚くべきものだった。往年の熱狂的フェラーリファンを満足させる要素は十分にある。",
+      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +180,10 @@
       }
     },
     {
-      "title": "うつ病を電気刺激で治療するヘッドセットが米国で登場",
-      "url": "https://wired.jp/article/flow-neuroscience-headset-help-depression-available-in-us/",
-      "description": "スウェーデンのFlow Neuroscienceが開発した治療デバイスは、米食品医薬品局（FDA）の承認を受け、米国で処方箋による提供が始まった。値段はかなり高額だ。",
-      "date": "Sat, 19 Sep 2026",
+      "title": "AI開発を減速させても、脆弱性「発見」の急増は止まらない",
+      "url": "https://wired.jp/article/kernel-panic-ai-vulnerability-explosion/",
+      "description": "AI企業は、業界全体で開発ペースを落とす協定を模索している。その一方で、AIを活用した脆弱性の発見は増え続け、その対応を担う人手が追いついていない。",
+      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +196,10 @@
       }
     },
     {
-      "title": "AIが最適解を導く時代にデザイナーは何をするのか────『惑星のためのファッション』刊行記念トークイベント【後編】",
-      "url": "https://wired.jp/article/synflux-apocableisseymiyake-fashionfortheplanet-2/",
-      "description": "スペキュラティヴ・ファッションデザイナーの川崎和也の新著『惑星のためのファッション』を手がかりに、AI時代におけるファッションデザインについて議論した。後編は、人間に託される創造性について。",
-      "date": "Fri, 18 Sep 2026",
+      "title": "最も危険なAIハッキング能力は“ヒューマン・イン・ザ・ループ”で発揮される",
+      "url": "https://wired.jp/article/sz-the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
+      "description": "セキュリティ研究者のジェームズ・ケトルがAIのハッキング能力の限界を試みた結果、人間の専門知識と組み合わせることで最強になることを発見した。",
+      "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +212,10 @@
       }
     },
     {
-      "title": "新世代のサーキュラーアウターウェアから、人工物生態系の構築を試みるプロジェクトまで──編集部が注目する5つのトピック【WIRED INSIDER】",
-      "url": "https://wired.jp/article/insider-arcteryx-hack-isseymiyake-bromptonandwander/",
-      "description": "「WIRED INSIDER」では、最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
-      "date": "Fri, 18 Sep 2026",
+      "title": "米テック企業の「AI開発減速」提案に、中国が懐疑的な理由",
+      "url": "https://wired.jp/article/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
+      "description": "AIがもたらしうる深刻なリスクを抑えるため、米AI企業のトップたちが中国との協力を呼びかけ始めた。だが、中国側は米国企業の優位を守るための提案だと疑っている。",
+      "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,74 +228,10 @@
       }
     },
     {
-      "title": "メタの新パーソナルAIエージェント「Muse」。普及の鍵はユーザーの信頼",
-      "url": "https://wired.jp/article/meta-releases-muse-a-personal-ai-agent-with-privacy-built-into-it/",
-      "description": "メタがOpenClawやInstinctに対抗する「Muse」を米国で発表した。航空券の予約から自動車の売却まで、さまざまな作業をこなせるという。",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "ゲーミングスティックを巨大なスツールに。イケアのXboxゲーミングコレクションが生まれるまで",
-      "url": "https://wired.jp/article/how-ikea-turned-a-controller-thumbstick-into-the-star-of-its-xbox-gaming-range/",
-      "description": "イケアとXboxの異色のコラボが実現した。全9アイテムを揃えた「YXSTABY/イクススタビ」コレクションは10月1日より全国のイケア店舗で順次発売される。",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "【特集】来たるべき“量子時代”に備えよ！",
-      "url": "https://wired.jp/article/featuring-quantum/",
-      "description": "“量子”関連のニュースは、「量」ではなく「質」で読み解く必要があるはずだ。来るべき量子時代の到来を告げるサインを、総力を挙げて追いかける。",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "日本はインクルーシブフードの先進国になれるか｜FOOD Lab",
-      "url": "https://wired.jp/article/sz-food-lab-inclusive-food-industry/",
-      "description": "アレルギーやさまざまな障害、女性の健康課題などに向けた食品は、長らくニッチなものとされ見過ごされてきた。だが、こうしたインクルーシブ市場で数々の事業化の動きがある。ポイントはマスへの展開力だ。",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "水星の探査計画「ベピ・コロンボ」が最終接近段階へ",
-      "url": "https://wired.jp/article/bepicolombo-arrival-phase-mercury-magnetic-field-mystery/",
-      "description": "日欧共同の国際水星探査計画「ベピ・コロンボ」が、いよいよ水星への到着フェーズに突入した。探査機を運んできた推進モジュールが正常に分離したいま、水星の磁場や内部構造の謎に迫るための観測準備が整いつつある。",
-      "date": "Thu, 17 Sep 2026",
+      "title": "藤井太洋書き下ろし小説『大久保セブン』：エピソード2「マグノリア・ハウス」-1",
+      "url": "https://wired.jp/article/taiyo-fujii-okubo-seven-5/",
+      "description": "腕利きハッカーのセブンと「歌舞伎町防犯協会」を営む大熊は、とあるゲーム開発会社がランサムウェアの被害に遭っている事実を掴む──。SF作家・藤井太洋の書き下ろしクライム小説、待望のエピソード2がスタート！（全4回）",
+      "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
