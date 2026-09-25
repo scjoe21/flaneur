@@ -1,22 +1,22 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-25T09:16:21.809760+00:00",
+  "fetchedAt": "2026-09-25T19:12:31.504900+00:00",
   "items": [
     {
-      "title": "Irene Selle: „Lesbische Aktivistinnen unter dem Dach der Kirche waren die Avantgarde“",
-      "url": "https://www.philomag.de/artikel/irene-selle-lesbische-aktivistinnen-unter-dem-dach-der-kirche-waren-die-avantgarde",
-      "description": "Wie war es eigentlich, in der DDR Beauvoir zu lesen? Die Literaturwissenschaftlerin Irene Selle über philosophische Vorbehalte, feministische Kirchengruppen und einen Brief, den Beauvoir ihr schrieb.",
+      "title": "Jonathan Gingerich: „Frei sein heißt, das Gegebene überschreiten zu können“",
+      "url": "https://www.philomag.de/artikel/jonathan-gingerich-frei-sein-heisst-das-gegebene-ueberschreiten-zu-koennen",
+      "description": "Wie sieht ein selbstbestimmtes Leben aus? Wie gutes Handeln? In ihren frühen Schriften entwickelt Beauvoir eine Ethik der Freiheit. Diese zeigt, so Jonathan Gingerich, dass Selbstbestimmung mit anderen und gegen unsere Ängste immer wieder neu errungen werden muss.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 15,
+        "phil": 20,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 30
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -36,19 +36,99 @@
       }
     },
     {
-      "title": "Warum Beauvoir de Sade las",
-      "url": "https://www.philomag.de/artikel/warum-beauvoir-de-sade-las",
-      "description": "Marquis de Sade, dem wir gewaltvolle pornografische Werke wie  Die 120 Tage von Sodom  und den Begriff Sadismus verdanken, ist eine verstörende Gestalt. Weshalb plädiert die Feministin Beauvoir dafür, sich gewinnbringend mit ihm zu beschäftigen?",
+      "title": "Parodie des Lebens",
+      "url": "https://www.philomag.de/artikel/parodie-des-lebens",
+      "description": "In ihrem Werk  Das Alter  problematisiert Beauvoir den gesellschaftlichen Umgang mit der letzten Lebensphase. Doch auch für die existenzialistische Philosophie und ihr Ideal des Selbstentwurfs stellt das Alter eine Herausforderung dar. Was heißt es, in Würde zu altern?",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
+        "daily": 0,
+        "phil": 25,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Tatiana Llaguno: „Beauvoir sprach sich für die Abschaffung der Familie aus“",
+      "url": "https://www.philomag.de/artikel/tatiana-llaguno-beauvoir-sprach-sich-fuer-die-abschaffung-der-familie-aus",
+      "description": "Ehe, Mutterschaft und Hausarbeit lehnte Beauvoir ab. Die Philosophin Tatiana Llaguno begreift sie daher als Wegbereiterin des heutigen Familienabolitionismus. Ein Gespräch über kollektive Formen von Wohnraum, Kinderbetreuung und Schwangerschaft.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "Judith Butler: „Frauwerden ist ein offener Prozess“",
+      "url": "https://www.philomag.de/artikel/judith-butler-frauwerden-ist-ein-offener-prozess",
+      "description": "Das andere Geschlecht  stellt unser Verständnis von Frau, Mann und ihrem Verhältnis infrage – und wurde damit zu einem wegweisenden Text. Im Interview erklärt Judith Butler, was Beauvoirs Analyse so bedeutsam macht und wie die Gender-Theorie daran anschließt, aber auch darüber hinausreicht.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Die Relevanz des Leibes",
+      "url": "https://www.philomag.de/artikel/die-relevanz-des-leibes",
+      "description": "In  Das andere Geschlecht  problematisiert Beauvoir den weiblichen Körper als Einschränkung einer selbstbestimmten Existenz. Gleichzeitig verleiht sie leiblichen Erfahrungen Gewicht. Daraus lassen sich gerade heute wichtige Schlüsse ziehen.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Silvia Federici: „Wer die eigene Versklavung erkennt, geht bereits über sie hinaus“",
+      "url": "https://www.philomag.de/artikel/silvia-federici-wer-die-eigene-versklavung-erkennt-geht-bereits-ueber-sie-hinaus",
+      "description": "Lässt sich Hausarbeit gerecht gestalten? Die marxistische, feministische Denkerin Silvia Federici sieht in ihr einen verborgenen Wert. Ein Gespräch über ihre Gemeinsamkeiten mit sowie Unterschiede zu Beauvoir und über die Aktualität von  Das andere Geschlecht.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Mein Beauvoir-Erlebnis",
+      "url": "https://www.philomag.de/artikel/mein-beauvoir-erlebnis",
+      "description": "Simone de Beauvoirs Werke zählen zu jenen, die das Leben nicht nur interpretieren, sondern auch zu ändern vermögen. Acht Intellektuelle berichten, wie die Beauvoir-Lektüre sie geprägt hat.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -84,51 +164,35 @@
       }
     },
     {
-      "title": "Das Leben ein Abenteuer",
-      "url": "https://www.philomag.de/artikel/das-leben-ein-abenteuer",
-      "description": "Beauvoir wollte nicht Ergebene ihres Schicksals, sondern Urheberin ihrer eigenen Geschichte sein. Doch auch sie wird hineingeboren in gesellschaftliche Umstände. Über den Weg einer eigensinnigen Denkerin und die Begegnungen, die sie prägten.",
+      "title": "Quellen der Inspiration",
+      "url": "https://www.philomag.de/artikel/quellen-der-inspiration-2",
+      "description": "Häufig wird Beauvoirs Philosophie vor allem als eine durch Sartre beeinflusste verstanden. Dabei griff sie in ihren Schriften auf zahlreiche unterschiedliche Denker zurück. Eine Auswahl.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "Koschka Linkerhand: „Imagination ermöglicht den Sprung vom Ich zum anderen“",
-      "url": "https://www.philomag.de/artikel/koschka-linkerhand-imagination-ermoeglicht-den-sprung-vom-ich-zum-anderen",
-      "description": "Das Werk Beauvoirs besteht mehrheitlich aus belletristischen Texten, weniger aus strenger Theorie. Im Gespräch untersucht die Autorin und Philosophin Koschka Linkerhand Beauvoirs literarischphilosophische Methode und erklärt, woraus ihre Romane existenzialistische Wirkkraft ziehen.",
+      "title": "Existenzialismus als Lebensgefühl",
+      "url": "https://www.philomag.de/artikel/existenzialismus-als-lebensgefuehl",
+      "description": "Beauvoir begriff sich selbst lange Zeit nicht als Existenzialistin. Die Annahmen dieser Strömung sah sie nicht als philosophische Position, sondern als offensichtliche Wahrheit.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Feminismus ohne Frauen",
-      "url": "https://www.philomag.de/artikel/feminismus-ohne-frauen",
-      "description": "Dem akademischen Queerfeminismus scheint das weibliche Subjekt abhandenzukommen. Wie Beauvoir dabei helfen kann, es wiederzugewinnen.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -148,19 +212,19 @@
       }
     },
     {
-      "title": "Die neue Sonderausgabe: Beauvoir",
-      "url": "https://www.philomag.de/artikel/die-neue-sonderausgabe-beauvoir",
-      "description": "Simone de Beauvoir legte präzise und schonungslos offen, was Frauen davon abhält, ein selbstbestimmtes Leben zu führen – und schrieb Geschichte. Früh entwickelte sie ihre eigene Version des Existenzialismus: Freiheit muss erst handelnd erkämpft werden – mit anderen und gegen Widerstände. So schärft Beauvoir den Blick für das, was auch heute noch einer selbstbestimmten Existenz im Wege steht. Hier geht's zur  umfangreichen Heftvorschau !",
+      "title": "Eine notwendige Liebe",
+      "url": "https://www.philomag.de/artikel/eine-notwendige-liebe",
+      "description": "Sartre und Beauvoir: Ihre intellektuelle und romantische Beziehung sorgte zeitlebens und darüber hinaus für Gesprächsstoff – als Ideal, Legende, Rätsel oder dunkle Geschichte. Die Beauvoir-Biografin Kate Kirkpatrick über bewusste Selbstdarstellung und unauflösbare Ambiguität.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -177,70 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Mit Beauvoir das Haus der Herrschenden einreißen",
-      "url": "https://www.philomag.de/artikel/mit-beauvoir-das-haus-der-herrschenden-einreissen",
-      "description": "Dass viele Frauen nicht bloß sexistisch, sondern zugleich rassistisch unterdrückt werden, nahm Beauvoir kaum in den Blick. Dennoch kann ihre Ethik den intersektionalen Feminismus heute bereichern.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Kreis der Existenzialisten",
-      "url": "https://www.philomag.de/artikel/kreis-der-existenzialisten",
-      "description": "In den 1930ern entwickelt sich in Frankreich eine Denkströmung, die als Existenzialismus bekannt wird und Kultstatus erreicht. Ein Überblick zentraler Figuren und Vordenker.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Eine Reisende",
-      "url": "https://www.philomag.de/artikel/eine-reisende",
-      "description": "Beauvoir wollte sich selbst ein Bild von den gesellschaftlichen und politischen Umständen in der Welt machen. Ein besonderes Interesse galt sozialistisch regierten Ländern. Ein Einblick in drei Reisen.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Beauvoir in Amerika",
-      "url": "https://www.philomag.de/artikel/beauvoir-amerika",
-      "description": "Die Fahrt durch ein fremdes Land kann den Blick für Aspekte der Welt schärfen, die in der Vertrautheit der Heimat schwer zu erkennen sind. Für Simone de Beauvoir bot ihre Reise durch die USA Einsichten, die auch in ihrem Hauptwerk  Das andere Geschlecht  Ausdruck finden.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

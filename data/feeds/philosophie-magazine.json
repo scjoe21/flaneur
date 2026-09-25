@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-25T09:16:16.790508+00:00",
+  "fetchedAt": "2026-09-25T19:12:26.902319+00:00",
   "items": [
     {
       "title": "“Comment habiter mon corps ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Clémence Guetté : “Je défends une lecture matérialiste de l’amitié”",
+      "url": "https://www.philomag.com/articles/clemence-guette-je-defends-une-lecture-materialiste-de-lamitie",
+      "description": "",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Le “visage” chez Levinas, c’est quoi ?",
       "url": "https://www.philomag.com/articles/le-visage-chez-levinas-cest-quoi",
-      "description": "",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le désir ou l'ascèse ? Nietzsche face à Schopenhauer",
-      "url": "https://www.philomag.com/articles/le-desir-ou-lascese-nietzsche-face-schopenhauer",
       "description": "",
       "date": "Fri, 18 Sep 2026",
       "thumbnail": "",

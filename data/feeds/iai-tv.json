@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-09-25T09:16:50.515136+00:00",
+  "fetchedAt": "2026-09-25T19:12:58.012364+00:00",
   "items": [
     {
       "title": "Why A.I. isn't as intelligent as it appears | Simon Baron-Cohen",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "How Donald Trump weaponised Big Tech | Cory Doctorow",
-      "url": "https://www.youtube.com/shorts/xk0j1IW0FdQ",
-      "description": "",
-      "date": "2026-09-09",
-      "thumbnail": "https://i1.ytimg.com/vi/xk0j1IW0FdQ/hqdefault.jpg",
-      "videoId": "xk0j1IW0FdQ",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "What economists do not understand | Ingrid Harvold Kvangraven",
       "url": "https://www.youtube.com/watch?v=khRj9CUKevA",
       "description": "Ingrid Harvold Kvangraven discusses repoliticising economics.\n\nWhat do most economists not get about politics?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/economists-dont-understand-the-nature-of-power-with-ingrid-harvold-kvangraven?stage=Stageutm_source=YouTube&utm_medium=description\n\nIt might seem that economics is an objective, scientific study of markets and rational human behaviour, separate from politics. But mainstream models obscure the structural power dy",
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The World is all One | Jessica Frazier",
+      "url": "https://www.youtube.com/shorts/miXOv-0-awI",
+      "description": "",
+      "date": "2026-09-25",
+      "thumbnail": "https://i2.ytimg.com/vi/miXOv-0-awI/hqdefault.jpg",
+      "videoId": "miXOv-0-awI",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

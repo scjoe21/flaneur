@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-09-25T09:16:24.732799+00:00",
+  "fetchedAt": "2026-09-25T19:12:34.649865+00:00",
   "items": [
     {
       "title": "Perché sappiamo tutto e non facciamo niente?",
@@ -100,12 +100,12 @@
       }
     },
     {
-      "title": "ILPOD. ITALIAN PODCAST AWARDS",
-      "url": "https://www.youtube.com/watch?v=2aJCCZEkq_I",
-      "description": "V edizione — Le voci che attraversano l’Italia in podcast\n\nOspiti:\nMaura Gancitano\nRossella Pivanti\nDaniele Tinti\nStefano Rapone\nValerio Nicolosi",
+      "title": "PAURA NON ABBIAMO",
+      "url": "https://www.youtube.com/watch?v=UYftYV_HyYM",
+      "description": "Le donne che hanno attraversato la Repubblica\n\nOspiti:\nSerena Dandini\nMaura Gancitano",
       "date": "2026-09-23",
-      "thumbnail": "https://i3.ytimg.com/vi/2aJCCZEkq_I/hqdefault.jpg",
-      "videoId": "2aJCCZEkq_I",
+      "thumbnail": "https://i2.ytimg.com/vi/UYftYV_HyYM/hqdefault.jpg",
+      "videoId": "UYftYV_HyYM",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,
@@ -116,12 +116,12 @@
       }
     },
     {
-      "title": "PAURA NON ABBIAMO",
-      "url": "https://www.youtube.com/watch?v=UYftYV_HyYM",
-      "description": "Le donne che hanno attraversato la Repubblica\n\nOspiti:\nSerena Dandini\nMaura Gancitano",
+      "title": "ILPOD. ITALIAN PODCAST AWARDS",
+      "url": "https://www.youtube.com/watch?v=2aJCCZEkq_I",
+      "description": "V edizione — Le voci che attraversano l’Italia in podcast\n\nOspiti:\nMaura Gancitano\nRossella Pivanti\nDaniele Tinti\nStefano Rapone\nValerio Nicolosi",
       "date": "2026-09-23",
-      "thumbnail": "https://i2.ytimg.com/vi/UYftYV_HyYM/hqdefault.jpg",
-      "videoId": "UYftYV_HyYM",
+      "thumbnail": "https://i3.ytimg.com/vi/2aJCCZEkq_I/hqdefault.jpg",
+      "videoId": "2aJCCZEkq_I",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,
@@ -164,19 +164,19 @@
       }
     },
     {
-      "title": "Il nostro bisogno di sacro",
-      "url": "https://www.youtube.com/watch?v=fFIerzhh7kA",
-      "description": "La performance spirituale e le strade che non portano da nessuna parte (per fortuna)\n\nhttps://www.tlonletter.it/p/il-nostro-bisogno-di-sacro?utm_source=youtube",
-      "date": "2026-08-31",
-      "thumbnail": "https://i3.ytimg.com/vi/fFIerzhh7kA/hqdefault.jpg",
-      "videoId": "fFIerzhh7kA",
-      "priority": 5,
+      "title": "NESSUNO CREA DA SOLO",
+      "url": "https://www.youtube.com/watch?v=dfb7X87-Ric",
+      "description": "Cinema, arte e il mestiere di fare insieme\n\nOspiti:\nCarlo Cresto-Dina\nEnric Puig Punyet",
+      "date": "2026-09-25",
+      "thumbnail": "https://i1.ytimg.com/vi/dfb7X87-Ric/hqdefault.jpg",
+      "videoId": "dfb7X87-Ric",
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

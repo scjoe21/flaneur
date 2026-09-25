@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-20T19:26:30.254423+00:00",
+  "fetchedAt": "2026-09-25T19:12:54.464347+00:00",
   "items": [
     {
       "title": "Verschweigen, flunkern, lügen – Warum wir nicht so ehrlich sind, wie wir glauben",
@@ -17,6 +17,38 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 43
+      }
+    },
+    {
+      "title": "Echte Pausen – Warum Abschalten für unser Gehirn so wichtig ist",
+      "url": "https://www.swr.de/swrkultur/wissen/echte-pausen-warum-abschalten-fuer-unser-gehirn-so-wichtig-ist-100.html",
+      "description": "Viele Menschen sehnen sich nach Erholung – und können kaum abschalten. Sobald Leerlauf entsteht, greifen sie zum Handy. Die Hirnforschung zeigt: Unser Gehirn braucht das Nichtstun.",
+      "date": "Wed, 23 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "Transrapid, Flugtaxis, Hyperloop – Warum es neuartige Verkehrstechnik so schwer hat",
+      "url": "https://www.swr.de/swrkultur/wissen/transrapid-flugtaxis-hyperloop-warum-es-neuartige-verkehrstechnik-so-schwer-hat-100.html",
+      "description": "Passagiere in Kabinen sausen durch ein Vakuum-Rohr. Diese Hyperloop-Technik soll in Deutschland erprobt werden. Doch es ist schwer, neue Verkehrsmittel zu etablieren. Das zeigen Beispiele wie Transrapid, Flugtaxis oder Fracht-Zeppeline.\nVon Dirk Asendorpf (SWR 2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/neue-verkehrstechnik\nInfos:\nInstitute of Hyperloop Technology, FH Emden-Leer\nhttps://iht.hs-emden-leer.de/\nHyperloop-Forschung an der TU München\nhttps://tumhyperloop.com/\nFörderverein Tr",
+      "date": "Tue, 22 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -68,6 +100,38 @@
       }
     },
     {
+      "title": "Richtig Laufen – Wie der Ausdauersport Körper und Psyche stärkt",
+      "url": "https://www.swr.de/swrkultur/wissen/richtig-laufen-wie-der-ausdauersport-koerper-und-psyche-staerk-100.html",
+      "description": "Laufclubs boomen, immer mehr Menschen trainieren für einen Marathon. Regelmäßiges Laufen stärkt das Herz-Kreislauf-System und hilft, Stress abzubauen – auch ohne extreme Distanz.\nVon Klara Laue (2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/richtig-laufen-ausdauersport\nHörtipps:\nUnsere Muskeln – Kraftpakete für ein gesundes Leben\nhttps://www.ardsounds.de/episode/urn:ard:episode:23ee5d3b8313b11b/\nFit durch Protein-Supplemente? – Wie sich Sportler richtig ernähren\nhttps://www.ardsounds.de/e",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Opfer von Gewaltverbrechen – Was ihnen wirklich hilft",
+      "url": "https://www.swr.de/swrkultur/wissen/opfer-von-gewaltverbrechen-was-ihnen-wirklich-hilft-100.html",
+      "description": "Angebote, die Opfer unterstützen, mit physischen und psychischen Folgen einer Tat umzugehen, sind rechtlich garantiert. Viele Betroffene wissen aber nicht, wo sie Hilfe kriegen.",
+      "date": "Thu, 24 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
+    {
       "title": "Professor Chatbot – Wie KI die Forschung beschleunigt und gefährdet",
       "url": "https://www.swr.de/swrkultur/wissen/professor-chatbot-wie-ki-die-forschung-beschleunigt-und-gefaehrdet-100.html",
       "description": "KI bewältigt Datenanalysen in Sekunden, hilft bei Diagnostik und Forschungsanträgen. Doch Forschenden droht ein De-Skilling. Schon jetzt fluten Paper Mills die Wissenschaftscommunity.",
@@ -88,22 +152,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/25-jahre-nach-911-die-lange-spur-des-islamismus-in-deutschland-100.html",
       "description": "Die Anschläge auf das World Trade Center und das Pentagon waren eine Zäsur. Sie veränderten in Deutschland den Umgang mit islamistischen Gruppierungen wie Al-Qaida grundlegend.",
       "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Organe aus dem 3D-Drucker – Wie weit ist die Medizin?",
-      "url": "https://www.swr.de/swrkultur/wissen/organe-aus-dem-3d-drucker-wie-weit-ist-die-medizin-100.html",
-      "description": "Herz oder Niere auf Knopfdruck: Berichte über Organe aus dem 3D-Drucker klingen nach einer Lösung für Menschen, die auf ein Spenderorgan warten. Wie weit ist die Forschung?",
-      "date": "Sun, 6 Sep 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -148,22 +196,6 @@
       }
     },
     {
-      "title": "Logisches Denken ohne Menschen – KI in der Mathematik",
-      "url": "https://www.swr.de/swrkultur/wissen/logisches-denken-ohne-menschen-ki-in-der-mathematik-100.html",
-      "description": "Künstliche Intelligenz glänzt in der Mathe-Olympiade und kann mathematische Beweise führen. Wissenschaft und Schulunterricht können davon profitieren.",
-      "date": "Mon, 7 Sep 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Gesund zunehmen – Was hilft bei Gewichtsverlust?",
       "url": "https://www.swr.de/swrkultur/wissen/gesund-zunehmen-was-hilft-bei-gewichtsverlust-100.html",
       "description": "Wer aufgrund einer Darmerkrankung, Krebs, Stress oder altersbedingtem Muskelabbau Gewicht verloren hat, benötigt oft Unterstützung beim Zunehmen. Das geht mit proteinreicher Kost.",
@@ -184,38 +216,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/polen-ruestet-auf-auf-dem-weg-zur-staerksten-armee-der-eu-100.html",
       "description": "Seit 2022 steckt Polen viel Geld und Engagement in Aufrüstung und Sicherheit. Das Land will für den Ernstfall gewappnet sein – und trainiert auch Jugendliche an der Waffe.",
       "date": "Mon, 14 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Versteckte Botschaften auf Social Media – Was hinter Algospeak steckt",
-      "url": "https://www.swr.de/swrkultur/wissen/versteckte-botschaften-auf-social-media-was-hinter-algospeak-steckt-102.html",
-      "description": "S€x, s",
-      "date": "Wed, 9 Sep 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "9/11 – Als Terror zum Medienevent wurde",
-      "url": "https://www.swr.de/swrkultur/wissen/9-11-als-terror-zum-medienevent-wurde-100.html",
-      "description": "11. September 2001: Erstmals erlebt ein weltweites Publikum eine Katastrophe live im Fernsehen. Die Terroranschläge haben die Medienwelt verändert – in vielerlei Hinsicht.",
-      "date": "Tue, 8 Sep 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

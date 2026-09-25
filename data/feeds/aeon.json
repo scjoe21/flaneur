@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-09-25T09:16:37.579297+00:00",
+  "fetchedAt": "2026-09-25T19:12:42.729611+00:00",
   "items": [
     {
       "title": "Once upon a screen: explosive paradox",
@@ -30,22 +30,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The Chinese room",
-      "url": "https://aeon.co/videos/could-there-ever-be-a-viable-test-for-artificial-consciousness",
-      "description": "Can we test for AI consciousness when we don’t understand our own? Getting into John Searle’s ‘Chinese room’ experiment - by Aeon Video Watch on Aeon",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Reasoning together",
+      "url": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
+      "description": "Jürgen Habermas, the great defender of deliberative democracy, lived up to its demands: he never feared changing his mind - by Emilie Prattico Read on Aeon",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

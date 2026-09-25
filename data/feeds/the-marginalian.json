@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-25T09:16:41.360747+00:00",
+  "fetchedAt": "2026-09-25T19:12:47.223079+00:00",
   "items": [
     {
       "title": "How to Be a Poet: Elizabeth Alexander on the Yin-Yang of Connection and Contradiction",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Nietzsche on How to Find Yourself and the True Value of Education",
+      "url": "https://www.themarginalian.org/2026/09/25/nietzsche-find-yourself-schopenhauer-as-educator/",
+      "description": "\"No one can build you the bridge on which you, and only you, must cross the river of life.\"",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "The Three Elements of the Good Life",
       "url": "https://www.themarginalian.org/2026/09/23/carl-rogers-good-life/",
       "description": "To be a true person is to be entirely oneself in every circumstance, with all the courage and vulnerability this requires. And yet because a person is a confederacy of parts often at odds and sometimes at war with each other, being true is not a pledge to be a paragon of cohesion, predictable and perfectly self-consistent — the impossibility of that is the price of our complex consciousness — but a promise to own every part of yourself, even those that challenge your preferred self-image and fal",
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/09/20/e-e-cummings-advice/",
       "description": "\"To be nobody-but-yourself — in a world which is doing its best, night and day, to make you everybody else — means to fight the hardest battle which any human being can fight.\"",
       "date": "Sun, 20 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Stoic Key to Living with Presence: Seneca on Time Spent vs. Saved vs. Wasted",
-      "url": "https://www.themarginalian.org/2026/09/18/seneca-letter-1-time/",
-      "description": "\"Lay hold of to-day’s task, and you will not need to depend so much upon to-morrow’s. While we are postponing, life speeds by. Nothing... is ours, except time.\"",
-      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

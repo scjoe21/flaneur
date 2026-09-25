@@ -1,24 +1,8 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-09-25T09:16:39.175407+00:00",
+  "fetchedAt": "2026-09-25T19:12:43.673521+00:00",
   "items": [
-    {
-      "title": "The longest walk",
-      "url": "https://psyche.co/videos/for-a-gay-catholic-priest-coming-out-was-its-own-leap-of-faith",
-      "description": "How Father Michael Shanahan reconciled his identity with the Catholic Church’s position on homosexuality - Directed by John Haley Watch on Psyche",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
     {
       "title": "How to uncover your blind spots",
       "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
@@ -100,6 +84,22 @@
       }
     },
     {
+      "title": "The way we talk to bots matters even if they aren’t conscious",
+      "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
+      "description": "If more and more of our daily interactions are ungracious exchanges with machines, we should expect it to change us - by HennyGe Wichers Read on Psyche",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Maxxing treats life as a problem when it’s a mystery",
       "url": "https://psyche.co/ideas/maxxing-treats-life-as-a-problem-when-its-a-mystery",
       "description": "The philosopher Gabriel Marcel offers the antidote to a grotesque new ideology: don’t fix existence, be open to it - by Håkon Evjemo Read on Psyche",
@@ -148,6 +148,22 @@
       }
     },
     {
+      "title": "Signs of a highly sensitive person",
+      "url": "https://psyche.co/videos/how-to-know-if-youre-highly-sensitive-and-what-to-do-about-it",
+      "description": "Do you cry at paintings and recoil from crowds? A psychologist explores the telltale signs of a ‘highly sensitive person’ - Video by Dr Julie Watch on Psyche",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The softness of metal",
       "url": "https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal",
       "description": "Watching a seated Ozzy play his final gig, my ankle broken, I’m in tears – this couldn’t be more metal - by Keith Kahn-Harris Read on Psyche",
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Impatience is an emotion, not a trait",
-      "url": "https://psyche.co/notes-to-self/why-it-helps-to-see-impatience-as-an-emotion-not-a-trait",
-      "description": "Watching Penelope’s heroic wait in The Odyssey made me lament my impatience. But maybe I’ve been thinking about it wrong - by Amy Arthur Read on Psyche",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

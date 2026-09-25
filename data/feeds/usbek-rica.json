@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-09-25T09:16:17.731519+00:00",
+  "fetchedAt": "2026-09-25T19:12:27.401377+00:00",
   "items": [
     {
       "title": "Écrans, IA, réseaux sociaux : et si on arrêtait de dire que les jeunes sont devenus « débiles » ?",
@@ -116,19 +116,19 @@
       }
     },
     {
-      "title": "« Pour la majorité de créatrices OnlyFans, leur activité reste vécue comme une forme de contrainte »",
-      "url": "https://usbeketrica.com/fr/article/pour-la-majorite-de-creatrices-onlyfans-leur-activite-reste-vecue-comme-une-forme-de-contrainte-capitalisme-desir-brasseur",
-      "description": "Et si, derrière la simple plateforme de partage de contenu, OnlyFans révélait un capitalisme numérique contemporain, où le désir, l'attention, les émotions et les relations sont de simples variables destinées à être captées et optimisées ? C’est tout le propos de Pierre Brasseur, sociologue et auteur de OnlyFans et le capitalisme du désir, un essai à paraître le 9 septembre, dans lequel il interroge autant notre rapport au travail qu'à l'amour, à la sexualité ou aux réseaux sociaux. Entretien.",
-      "date": "Tue, 08 Sep 2026",
+      "title": "Archéologie : l’IA peut-elle vraiment retracer le passé ?",
+      "url": "https://usbeketrica.com/fr/article/archeologie-l-ia-peut-elle-vraiment-retracer-le-passe",
+      "description": "Faire renaître des papyrus antiques de leurs cendres : c’est la promesse faite par l’IA à l’humanité. Si elle semble en voie d’être tenue à Herculanum, bien d’autres intelligences nourries au « deep learning » aident les chercheurs à combler les lacunes du passé. Mais les outils ont beau se multiplier, les incertitudes quant aux résultats fournis, eux, demeurent.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 15
+        "novelty": 5,
+        "total": 10
       }
     },
     {
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "En Inde, une start-up dépiste les cancers avec des chiens augmentés à l'IA",
-      "url": "https://usbeketrica.com/fr/article/en-inde-une-start-up-depiste-les-cancers-avec-des-chiens-augmentes-a-l-ia",
-      "description": "La start-up indienne Dognosis mise sur le flair canin, boosté par des capteurs et de l'intelligence artificielle, pour dépister précocement une vingtaine de cancers. Une idée pas tout à fait neuve, mais qui pourrait enfin trouver sa place dans un système de santé où le dépistage reste, aujourd'hui encore, largement insuffisant.",
-      "date": "Thu, 10 Sep 2026",
+      "title": "« Les gènes ne sont pas des tyrans tout-puissants »",
+      "url": "https://usbeketrica.com/fr/article/les-genes-ne-sont-pas-des-tyrans-tout-puissants-gaelle-pontarotti-philosophie",
+      "description": "Peut-on échapper à son destin ? Entretien avec la philosophe des sciences Gaëlle Pontarotti, qui propose une nouvelle conception de l’hérédité à l’aune des dernières recherches scientifiques sur le sujet.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Ken Liu, l'écrivain qui ne voulait pas jouer les ambassadeurs",
-      "url": "https://usbeketrica.com/fr/article/ken-liu-l-ecrivain-qui-ne-voulait-pas-jouer-les-ambassadeurs",
-      "description": "Enfant, il voulait devenir mathématicien. Lorsqu'il quitte la Chine à 11 ans pour s’installer en Californie, c'est la seule langue qu’il parle couramment à l'école. Rêveur compulsif, il grandit dans les livres, sans se douter qu’il deviendrait vingt ans plus tard l’un des prodiges de la science-fiction américaine. Auteur primé de plus de cent soixante-dix nouvelles et romans, il se révèle aussi un brillant traducteur d’œuvres de science-fiction sinophones. Un talent qui lui a valu le surnom médi",
-      "date": "Sun, 06 Sep 2026",
+      "title": "En Inde, une start-up dépiste les cancers avec des chiens augmentés à l'IA",
+      "url": "https://usbeketrica.com/fr/article/en-inde-une-start-up-depiste-les-cancers-avec-des-chiens-augmentes-a-l-ia",
+      "description": "La start-up indienne Dognosis mise sur le flair canin, boosté par des capteurs et de l'intelligence artificielle, pour dépister précocement une vingtaine de cancers. Une idée pas tout à fait neuve, mais qui pourrait enfin trouver sa place dans un système de santé où le dépistage reste, aujourd'hui encore, largement insuffisant.",
+      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
