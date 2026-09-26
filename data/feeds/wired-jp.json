@@ -1,24 +1,8 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-25T21:49:43.969753+00:00",
+  "fetchedAt": "2026-09-26T19:16:03.001363+00:00",
   "items": [
-    {
-      "title": "人間はただ、そこにいるだけで野生動物を変えている：研究結果",
-      "url": "https://wired.jp/article/human-presence-reshapes-wildlife-behavior/",
-      "description": "人間の存在自体が野生動物の行動を直接左右している可能性が、動物の追跡データと携帯電話の位置情報を分析した最新の研究で明らかになった。土地の改変とは別に、人間が「そこにいるだけ」でもたらす影響が見えてきたのだ。",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
     {
       "title": "音楽家・TOWA TEIと映像ディレクター・中村剛、AIとの“共創”を語る",
       "url": "https://wired.jp/article/towa-tei-takeshi-nakamura-zambient-ai-interview/",
@@ -100,38 +84,6 @@
       }
     },
     {
-      "title": "細菌を生きたトランジスターとして機能させる実験に成功",
-      "url": "https://wired.jp/article/bacteria-living-transistors-circuit/",
-      "description": "細菌をトランジスターとして機能させ、電子回路さながらの仕組みを構築することに、米国の研究チームが成功した。将来的には植物の葉や根に応用し、環境変化を感知して自律的に応答する仕組みなどへの発展が期待されている。",
-      "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "エントロピーとは何か？ 「無秩序」だけではわからない、その意味",
-      "url": "https://wired.jp/article/what-is-entropy-really/",
-      "description": "エントロピーといっても、宇宙の終焉の話ではない。目に見えない原子の世界と、わたしたちが暮らす目に見える世界をつなぐ架け橋でもある。『WIRED』のコントリビューターである物理学者が、確率の観点からひも解く。",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Polymarketの次なる賭けは「メディア企業」",
       "url": "https://wired.jp/article/prediction-markets-polymarket-media-company-kalshi/",
       "description": "予測市場は金融サービスか、ギャンブルか──。その位置づけを巡る法廷闘争の陰で、PolymarketやKalshiは独自のコンテンツを発信し、新たなメディアとして影響力を広げている。",
@@ -145,6 +97,86 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "アップル「Apple Watch Series 12」レビュー：健康機能と使い勝手が進化した、堅実な新モデル",
+      "url": "https://wired.jp/review/apple-watch-series-12/",
+      "description": "アップルの最新スマートウォッチは、より詳細な健康状態のモニタリングや高速充電、すっきりしたインターフェイスを備える。完成度の高い一台に仕上がっている一方、新機能の一部にはプライバシー上の懸念もある。",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "プラスチックとサンゴの破片が一体化、沖縄で「プラスティコーラル」が発見された",
+      "url": "https://wired.jp/article/plastic-fused-with-coral-fragments-plasticoral-found-in-okinawa/",
+      "description": "熱で溶けたプラスチックがサンゴの破片と一体化した新たなプラスチック汚染の形態が、沖縄の海岸で確認された。「プラスティコーラル」と名付けられたこの形態は、サンゴ礁の生態系に及ぶ長期的な影響を示す証しだという。",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "「音」の力を視覚で体感するポップアップ「SOUND & VISION」by Marshall：WIRED WHITE LIST",
+      "url": "https://wired.jp/article/marshall-soundandvision-leonardvernhet/",
+      "description": "Marshallが「Pitch Black Collection」第2弾の発売を記念し、Permanent Filesと共創したポップアップを東京・青山で9月28日（月）まで開催中。",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "【2026年9月】U-NEXTでいま観るべきおすすめ映画31選｜ジャンル別・シーン別で紹介",
+      "url": "https://wired.jp/article/u-next-best-shows-2026/",
+      "description": "新作から独占配信、アート映画、SF、邦画まで、U-NEXTで観るべきおすすめ映画をピックアップ。映画をより深く楽しむための活用法もあわせて紹介する。",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "OpenAIのAIエージェントが豪州政府サイトに侵入、政府が知ったのは数カ月後",
+      "url": "https://wired.jp/article/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
+      "description": "オーストラリアの首相は、OpenAIのAIエージェントによる政府サイトへの不正アクセスを巡り、通知の遅れとその方法を批判した。同国政府は現在、OpenAIが法律に違反した可能性を調査している。",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -199,38 +231,6 @@
       "title": "最も危険なAIハッキング能力は“ヒューマン・イン・ザ・ループ”で発揮される",
       "url": "https://wired.jp/article/sz-the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
       "description": "セキュリティ研究者のジェームズ・ケトルがAIのハッキング能力の限界を試みた結果、人間の専門知識と組み合わせることで最強になることを発見した。",
-      "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "米テック企業の「AI開発減速」提案に、中国が懐疑的な理由",
-      "url": "https://wired.jp/article/china-isnt-buying-silicon-valley-call-for-ai-slowdown/",
-      "description": "AIがもたらしうる深刻なリスクを抑えるため、米AI企業のトップたちが中国との協力を呼びかけ始めた。だが、中国側は米国企業の優位を守るための提案だと疑っている。",
-      "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "藤井太洋書き下ろし小説『大久保セブン』：エピソード2「マグノリア・ハウス」-1",
-      "url": "https://wired.jp/article/taiyo-fujii-okubo-seven-5/",
-      "description": "腕利きハッカーのセブンと「歌舞伎町防犯協会」を営む大熊は、とあるゲーム開発会社がランサムウェアの被害に遭っている事実を掴む──。SF作家・藤井太洋の書き下ろしクライム小説、待望のエピソード2がスタート！（全4回）",
       "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",

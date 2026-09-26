@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-09-25T21:47:38.311729+00:00",
+  "fetchedAt": "2026-09-26T19:15:17.797286+00:00",
   "items": [
     {
       "title": "Jonathan Gingerich: „Frei sein heißt, das Gegebene überschreiten zu können“",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Irene Selle: „Lesbische Aktivistinnen unter dem Dach der Kirche waren die Avantgarde“",
-      "url": "https://www.philomag.de/artikel/irene-selle-lesbische-aktivistinnen-unter-dem-dach-der-kirche-waren-die-avantgarde",
-      "description": "Wie war es eigentlich, in der DDR Beauvoir zu lesen? Die Literaturwissenschaftlerin Irene Selle über philosophische Vorbehalte, feministische Kirchengruppen und einen Brief, den Beauvoir ihr schrieb.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
       }
     },
     {
@@ -148,22 +132,6 @@
       }
     },
     {
-      "title": "Koschka Linkerhand: „Imagination ermöglicht den Sprung vom Ich zum anderen“",
-      "url": "https://www.philomag.de/artikel/koschka-linkerhand-imagination-ermoeglicht-den-sprung-vom-ich-zum-anderen",
-      "description": "Das Werk Beauvoirs besteht mehrheitlich aus belletristischen Texten, weniger aus strenger Theorie. Im Gespräch untersucht die Autorin und Philosophin Koschka Linkerhand Beauvoirs literarischphilosophische Methode und erklärt, woraus ihre Romane existenzialistische Wirkkraft ziehen.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Feminismus ohne Frauen",
       "url": "https://www.philomag.de/artikel/feminismus-ohne-frauen",
       "description": "Dem akademischen Queerfeminismus scheint das weibliche Subjekt abhandenzukommen. Wie Beauvoir dabei helfen kann, es wiederzugewinnen.",
@@ -196,6 +164,38 @@
       }
     },
     {
+      "title": "Beauvoirs Leserinnen und ich",
+      "url": "https://www.philomag.de/artikel/beauvoirs-leserinnen-und-ich",
+      "description": "Simone de Beauvoir erreichte Tausende von Leserinnen und veränderte, wie diese sich und ihr Leben sahen. Das gilt auch für die Historikerin Marine Rouch, die die Briefe studierte, die Beauvoir erhielt.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Eine Antikolonialistin?",
+      "url": "https://www.philomag.de/artikel/eine-antikolonialistin",
+      "description": "Beauvoir beklagte nicht nur die Unterdrückung der Frau, sondern engagierte sich auch gegen Rassismus und Kolonialismus. Doch wie weit reichte ihr Blick? Zwei Perspektiven.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Quellen der Inspiration",
       "url": "https://www.philomag.de/artikel/quellen-der-inspiration-2",
       "description": "Häufig wird Beauvoirs Philosophie vor allem als eine durch Sartre beeinflusste verstanden. Dabei griff sie in ihren Schriften auf zahlreiche unterschiedliche Denker zurück. Eine Auswahl.",
@@ -212,35 +212,35 @@
       }
     },
     {
-      "title": "Eine Reisende",
-      "url": "https://www.philomag.de/artikel/eine-reisende",
-      "description": "Beauvoir wollte sich selbst ein Bild von den gesellschaftlichen und politischen Umständen in der Welt machen. Ein besonderes Interesse galt sozialistisch regierten Ländern. Ein Einblick in drei Reisen.",
+      "title": "Existenzialismus als Lebensgefühl",
+      "url": "https://www.philomag.de/artikel/existenzialismus-als-lebensgefuehl",
+      "description": "Beauvoir begriff sich selbst lange Zeit nicht als Existenzialistin. Die Annahmen dieser Strömung sah sie nicht als philosophische Position, sondern als offensichtliche Wahrheit.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Eine notwendige Liebe",
+      "url": "https://www.philomag.de/artikel/eine-notwendige-liebe",
+      "description": "Sartre und Beauvoir: Ihre intellektuelle und romantische Beziehung sorgte zeitlebens und darüber hinaus für Gesprächsstoff – als Ideal, Legende, Rätsel oder dunkle Geschichte. Die Beauvoir-Biografin Kate Kirkpatrick über bewusste Selbstdarstellung und unauflösbare Ambiguität.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Beauvoir in Amerika",
-      "url": "https://www.philomag.de/artikel/beauvoir-amerika",
-      "description": "Die Fahrt durch ein fremdes Land kann den Blick für Aspekte der Welt schärfen, die in der Vertrautheit der Heimat schwer zu erkennen sind. Für Simone de Beauvoir bot ihre Reise durch die USA Einsichten, die auch in ihrem Hauptwerk  Das andere Geschlecht  Ausdruck finden.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 0
+        "total": 5
       }
     }
   ]

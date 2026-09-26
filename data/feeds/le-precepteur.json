@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-25T21:47:33.569282+00:00",
+  "fetchedAt": "2026-09-26T19:15:11.172049+00:00",
   "items": [
     {
       "title": "D'où vient votre jalousie ?",
@@ -14,6 +14,22 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "Nous consommons les êtres humains",
+      "url": "https://www.youtube.com/shorts/K3N8iEkdujU",
+      "description": "Au XXIe siècle, le sociologue Zygmunt Bauman développe une idée devenue célèbre : dans nos sociétés modernes, l’amour aurait perdu sa solidité. Il serait devenu liquide. Dans cette vidéo, je vous explique pourquoi, selon lui, les applications de rencontre et la logique de consommation nous poussent à traiter les relations humaines comme des produits remplaçables.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #bauman #relations #amour #sociologie",
+      "date": "2026-08-30",
+      "thumbnail": "https://i4.ytimg.com/vi/K3N8iEkdujU/hqdefault.jpg",
+      "videoId": "K3N8iEkdujU",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 40
@@ -65,22 +81,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "PÉD*CRIMINALITÉ - La morale des puissants",
-      "url": "https://www.youtube.com/watch?v=SORktjbtJ10",
-      "description": "VOIR L'ENTRETIEN EN INTÉGRALITÉ :\n\n▶️ https://youtu.be/hr7MIRDy92M\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA ",
-      "date": "2026-09-18",
-      "thumbnail": "https://i4.ytimg.com/vi/SORktjbtJ10/hqdefault.jpg",
-      "videoId": "SORktjbtJ10",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {

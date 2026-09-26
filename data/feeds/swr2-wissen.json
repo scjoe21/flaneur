@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-25T21:48:00.668232+00:00",
+  "fetchedAt": "2026-09-26T19:15:48.402077+00:00",
   "items": [
     {
       "title": "Verschweigen, flunkern, lügen – Warum wir nicht so ehrlich sind, wie wir glauben",
@@ -180,19 +180,19 @@
       }
     },
     {
-      "title": "Suizide – Wie lassen sie sich verhindern?",
-      "url": "https://www.swr.de/swrkultur/wissen/suizide-wie-lassen-sie-sich-verhindern-102.html",
-      "description": "Es gibt wirksame Therapien und Hilfsangebote, aber nationale Präventionsprogramme für besonders gefährdete Personen fehlen: Männer, Ältere, psychisch Kranke und Alkoholabhängige.",
-      "date": "Thu, 10 Sep 2026",
+      "title": "Die Sprache der Wale – Lässt sie sich übersetzen?",
+      "url": "https://www.swr.de/swrkultur/wissen/die-sprache-der-wale-laesst-sie-sich-uebersetzen-100.html",
+      "description": "Die Klänge der Orcas und Grindwale kommen unserer Sprache recht nahe. Es gibt sogar Dialekte unter ihnen. Sie \"sehen\" sich auch vor allem akustisch.",
+      "date": "Sun, 27 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-09-25T21:47:40.862101+00:00",
+  "fetchedAt": "2026-09-26T19:15:20.771228+00:00",
   "items": [
     {
       "title": "Perché sappiamo tutto e non facciamo niente?",
@@ -103,7 +103,7 @@
       "title": "PAURA NON ABBIAMO",
       "url": "https://www.youtube.com/watch?v=UYftYV_HyYM",
       "description": "Le donne che hanno attraversato la Repubblica\n\nOspiti:\nSerena Dandini\nMaura Gancitano",
-      "date": "2026-09-23",
+      "date": "2026-09-26",
       "thumbnail": "https://i2.ytimg.com/vi/UYftYV_HyYM/hqdefault.jpg",
       "videoId": "UYftYV_HyYM",
       "priority": 5,
@@ -164,10 +164,26 @@
       }
     },
     {
+      "title": "PIÙ FUTURO NELLE NOSTRE VITE",
+      "url": "https://www.youtube.com/watch?v=CPHFwAISwng",
+      "description": "Per una sovranità dell’immaginazione\n\nOspiti:\nGuido Girardi\nBruno Giussani\nAndrea Colamedici",
+      "date": "2026-09-23",
+      "thumbnail": "https://i4.ytimg.com/vi/CPHFwAISwng/hqdefault.jpg",
+      "videoId": "CPHFwAISwng",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "NESSUNO CREA DA SOLO",
       "url": "https://www.youtube.com/watch?v=dfb7X87-Ric",
       "description": "Cinema, arte e il mestiere di fare insieme\n\nOspiti:\nCarlo Cresto-Dina\nEnric Puig Punyet",
-      "date": "2026-09-25",
+      "date": "2026-09-26",
       "thumbnail": "https://i1.ytimg.com/vi/dfb7X87-Ric/hqdefault.jpg",
       "videoId": "dfb7X87-Ric",
       "priority": 0,
@@ -218,22 +234,6 @@
       "date": "2026-09-23",
       "thumbnail": "https://i1.ytimg.com/vi/0haD9BExLYY/hqdefault.jpg",
       "videoId": "0haD9BExLYY",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "PIÙ FUTURO NELLE NOSTRE VITE",
-      "url": "https://www.youtube.com/watch?v=CPHFwAISwng",
-      "description": "Per una sovranità dell’immaginazione\n\nOspiti:\nGuido Girardi\nBruno Giussani\nAndrea Colamedici",
-      "date": "2026-09-23",
-      "thumbnail": "https://i4.ytimg.com/vi/CPHFwAISwng/hqdefault.jpg",
-      "videoId": "CPHFwAISwng",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-25T21:47:34.258465+00:00",
+  "fetchedAt": "2026-09-26T19:15:12.908071+00:00",
   "items": [
     {
       "title": "“Comment habiter mon corps ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
@@ -52,19 +52,19 @@
       }
     },
     {
-      "title": "Comment expliquer le succès des protéines ? La chronique d’Anne-Sophie Moreau",
-      "url": "https://www.philomag.com/articles/comment-expliquer-le-succes-des-proteines-la-chronique-danne-sophie-moreau",
+      "title": "Bien dans son corps ? Dialogue entre Margaux Cassan et Claire Marin",
+      "url": "https://www.philomag.com/articles/bien-dans-son-corps-dialogue-entre-margaux-cassan-et-claire-marin",
       "description": "",
-      "date": "Sat, 19 Sep 2026",
+      "date": "Sat, 26 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -113,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Paul Cezanne, peintre et influenceur philosophique",
+      "url": "https://www.philomag.com/articles/paul-cezanne-peintre-et-influenceur-philosophique",
+      "description": "",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/les-humains-rient-mais-et-les-animaux-les-enfants-repondent-comme-des-grands",
       "description": "",
       "date": "Sun, 20 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le “visage” chez Levinas, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/le-visage-chez-levinas-cest-quoi",
-      "description": "",
-      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

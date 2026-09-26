@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-25T21:47:52.733844+00:00",
+  "fetchedAt": "2026-09-26T19:15:38.947424+00:00",
   "items": [
     {
       "title": "The Two-Year Temper Tantrum to Come",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "How to Regulate the Ghosts",
-      "url": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-trump/688726/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Trump Should Stop Hosting Summits",
       "url": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/?utm_source=feed",
       "description": "",
@@ -97,6 +81,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Modern Media Weaken the Presidency",
+      "url": "https://www.theatlantic.com/ideas/2026/09/modern-media-presidential-power/688784/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Lenders Don’t Trust the United States Anymore",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-national-debt-interest-rates/688783/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "In Defense of Guilt by Association",
       "url": "https://www.theatlantic.com/ideas/2026/09/vance-sayed-piker-carlson-friendships/688657/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Curious Left-Wing Argument Against New AI Regulations",
-      "url": "https://www.theatlantic.com/ideas/2026/09/ai-regulation-anti-monopoly-challenge/688707/?utm_source=feed",
       "description": "",
       "date": "2026-09-21",
       "thumbnail": "",

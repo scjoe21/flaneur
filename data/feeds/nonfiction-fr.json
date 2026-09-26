@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-09-25T21:47:55.602267+00:00",
+  "fetchedAt": "2026-09-26T19:15:44.124381+00:00",
   "items": [
     {
       "title": "« Saint-Nazaire au travail »",
@@ -17,22 +17,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
-      }
-    },
-    {
-      "title": "Saint-Nazaire au travail : les marins de l'estuaire",
-      "url": "https://www.nonfiction.fr/article-12810-saint-nazaire-au-travail-les-marins-de-lestuaire.htm",
-      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
-      "date": "Tue, 01 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
       }
     },
     {
@@ -113,6 +97,22 @@
         "flaneur": 16,
         "novelty": 0,
         "total": 16
+      }
+    },
+    {
+      "title": "Clémentine Mélois : objets inanimés…",
+      "url": "https://www.nonfiction.fr/article-12853-clementine-melois-objets-inanimes.htm",
+      "description": "Ce n’est pas parce qu’elle a quitté l’Oulipo que Clémentine Mélois renie l’héritage de Georges Perec, notamment dans son goût pour les listes et pour l’infra-ordinaire. Mais elle dit sa relation aux menues choses de l’existence dans une langue qui lui est propre. \r\n\r\n  Un goût prononcé pour l’infra-ordinaire  \r\n\r\n Les objets semblent bien avoir une âme dans ce roman qui en dit plus sur eux que sur la vie sentimentale des personnages du couple qui a duré sept ans : «  J’ai entendu qu’au Moyen Âge",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
       }
     },
     {
