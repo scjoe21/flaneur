@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-26T19:15:12.908071+00:00",
+  "fetchedAt": "2026-09-27T20:07:34.513101+00:00",
   "items": [
     {
       "title": "“Comment habiter mon corps ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Comment Aristote a-t-il pris sa revanche sur Platon ?",
+      "url": "https://www.philomag.com/articles/comment-aristote-t-il-pris-sa-revanche-sur-platon",
+      "description": "",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -88,22 +104,6 @@
       "url": "https://www.philomag.com/articles/10-ans-de-tiktok-le-nouvel-age-du-divertissement",
       "description": "",
       "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Andy Warhol, l’homme qui voulait “devenir une machine”",
-      "url": "https://www.philomag.com/articles/andy-warhol-lhomme-qui-voulait-devenir-une-machine",
-      "description": "",
-      "date": "Sat, 19 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

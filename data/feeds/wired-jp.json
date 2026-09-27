@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-26T19:16:03.001363+00:00",
+  "fetchedAt": "2026-09-27T20:08:12.293006+00:00",
   "items": [
     {
       "title": "音楽家・TOWA TEIと映像ディレクター・中村剛、AIとの“共創”を語る",
@@ -52,38 +52,6 @@
       }
     },
     {
-      "title": "金星が衛星を“飲み込んで”いた可能性が浮上",
-      "url": "https://wired.jp/article/venus-moon-swallowed-tidal-collapse/",
-      "description": "地球とよく似た質量と大きさをもつ金星がなぜ月をもたないのかは、天文学における大きな謎のひとつだった。その回答になりうる説が、このほど発表された。それは金星が自分の衛星を“飲み込んで”いたというものだ。",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "「iPhone 18 Pro／Pro Max」レビュー：可変絞りが写真好きには魅力的",
-      "url": "https://wired.jp/review/apple-iphone-18-pro-and-iphone-18-pro-max/",
-      "description": "折り畳み式の「iPhone Duo」に注目が集まるなか、従来型のiPhone 18 Proシリーズも、可変絞りを搭載したカメラでしっかり存在感を示している。",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Polymarketの次なる賭けは「メディア企業」",
       "url": "https://wired.jp/article/prediction-markets-polymarket-media-company-kalshi/",
       "description": "予測市場は金融サービスか、ギャンブルか──。その位置づけを巡る法廷闘争の陰で、PolymarketやKalshiは独自のコンテンツを発信し、新たなメディアとして影響力を広げている。",
@@ -97,6 +65,86 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“肉食バエ”によるヒトへの感染、メキシコと中米で拡大中",
+      "url": "https://wired.jp/article/flesh-eating-screwworm-spreads-mexico-central-america/",
+      "description": "生きた肉を食い荒らす寄生バエ「ラセンウジバエ」による感染が、中米からメキシコにかけて拡大を続けている。米国では家畜への感染拡大が夏にピークを越えたとみられるが、封じ込めはなお道半ばだ。",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "正体不明の“ダークマターの兆候”が波紋を呼んでいる",
+      "url": "https://wired.jp/article/lz-dark-matter-anomalous-event-higgsino-interpretation/",
+      "description": "暗黒物質の直接検出を目的とした実験で、既知の背景ノイズではうまく説明できない単一の粒子相互作用が記録された。まだ暗黒物質の発見とは断定できないが、その解釈をめぐって議論が活発化している。",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "トルコの巨大植毛産業を支える、イノベーションと職人技",
+      "url": "https://wired.jp/article/how-turkey-hacked-the-hair-transplant-industry/",
+      "description": "世界中の人々が、植毛を求めてトルコへ向かっている。改造された歯科技工用モーターからAIによる毛包解析まで、数十億ドル規模に成長したトルコの植毛産業は、職人技と工学的創意工夫が交差する技術的進化によって築かれてきた。",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "ChatGPTはあなたについて何を「知っている」のか？ 回答に影響するメモリの管理方法",
+      "url": "https://wired.jp/article/how-to-use-memory-in-chatgpt/",
+      "description": "ChatGPTは、ユーザーとの過去のやりとりから好みや関心、必要な情報を記憶し、その後の回答に反映する。その仕組みを理解することで、AIをさらに上手く活用できる。",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "更新された地図に見る、イスラエルがかき消したパレスチナ国家という希望",
+      "url": "https://wired.jp/article/new-maps-show-how-israel-has-thwarted-hopes-for-a-palestinian-state/",
+      "description": "ヨルダン川西岸地区に猛烈な勢いで拡大する入植地は、「二国家解決」をほぼ実現不可能に陥れた。『The New Yorker』のレポート。",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
       "description": "がんによって働きを変えられた免疫細胞にmRNAを届ける「スマート」ナノ粒子を、アデレード大学の研究チームが開発した。マウスを使った実験では免疫細胞の働きが活発になり、腫瘍の増殖が鈍化した。",
       "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "【試乗レポート】フェラーリ「Luce」は正真正銘の“フェラーリ”だ",
-      "url": "https://wired.jp/article/first-drive-ferrari-luce/",
-      "description": "『WIRED』は、フェラーリ初のEV「Luce」にいち早く試乗した。その走りは驚くべきものだった。往年の熱狂的フェラーリファンを満足させる要素は十分にある。",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AI開発を減速させても、脆弱性「発見」の急増は止まらない",
-      "url": "https://wired.jp/article/kernel-panic-ai-vulnerability-explosion/",
-      "description": "AI企業は、業界全体で開発ペースを落とす協定を模索している。その一方で、AIを活用した脆弱性の発見は増え続け、その対応を担う人手が追いついていない。",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "最も危険なAIハッキング能力は“ヒューマン・イン・ザ・ループ”で発揮される",
-      "url": "https://wired.jp/article/sz-the-most-dangerous-ai-hacking-techniques-still-have-human-input/",
-      "description": "セキュリティ研究者のジェームズ・ケトルがAIのハッキング能力の限界を試みた結果、人間の専門知識と組み合わせることで最強になることを発見した。",
-      "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

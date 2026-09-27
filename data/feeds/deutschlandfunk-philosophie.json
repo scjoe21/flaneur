@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-26T19:15:15.675571+00:00",
+  "fetchedAt": "2026-09-27T20:07:36.643707+00:00",
   "items": [
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 15
+      }
+    },
+    {
+      "title": "Wo beginnt, wo endet politische Verantwortung?",
+      "url": "https://www.deutschlandfunkkultur.de/philosophicum-lech-dialog-wo-beginnt-wo-endet-politische-verantwortung-100.html",
+      "description": "Rechtsruck, Klimakrise und KI-Revolution: Die liberale Demokratie steht unter Druck. Die Journalistin Anna Schneider und der Philosoph Stefan Gosepath diskutieren kontrovers über Horizonte sowie Grenzen politischer Verantwortung.  Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-2-jugend-zwischen-lust-und-laehmung-100.html",
       "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 09 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lebenszeiten 1: Kindheit - Zwischen Entfaltung und Entfremdung",
-      "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-1-kindheit-zwischen-entfaltung-und-entfremdung-100.html",
-      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

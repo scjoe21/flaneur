@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-09-26T19:15:13.228592+00:00",
+  "fetchedAt": "2026-09-27T20:07:34.747623+00:00",
   "items": [
     {
       "title": "Écrans, IA, réseaux sociaux : et si on arrêtait de dire que les jeunes sont devenus « débiles » ?",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 29
+      }
+    },
+    {
+      "title": "Faut-il faire une croix sur les cimetières ?",
+      "url": "https://usbeketrica.com/fr/article/faut-il-faire-une-croix-sur-les-cimetieres",
+      "description": "Entre baisse de la fréquentation et manque de place dans les grandes villes, les cimetières français font grise mine. Sans compter qu’ils doivent désormais faire face aux conséquences du dérèglement climatique et aux pollutions qu’ils génèrent. De quoi remettre leur modèle en question... Ce qu'on s'appliquait à faire dans le numéro 47 de notre magazine FUTUR, dont est issu cet article.",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/les-genes-ne-sont-pas-des-tyrans-tout-puissants-gaelle-pontarotti-philosophie",
       "description": "Peut-on échapper à son destin ? Entretien avec la philosophe des sciences Gaëlle Pontarotti, qui propose une nouvelle conception de l’hérédité à l’aune des dernières recherches scientifiques sur le sujet.",
       "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "En Inde, une start-up dépiste les cancers avec des chiens augmentés à l'IA",
-      "url": "https://usbeketrica.com/fr/article/en-inde-une-start-up-depiste-les-cancers-avec-des-chiens-augmentes-a-l-ia",
-      "description": "La start-up indienne Dognosis mise sur le flair canin, boosté par des capteurs et de l'intelligence artificielle, pour dépister précocement une vingtaine de cancers. Une idée pas tout à fait neuve, mais qui pourrait enfin trouver sa place dans un système de santé où le dépistage reste, aujourd'hui encore, largement insuffisant.",
-      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-26T19:15:48.402077+00:00",
+  "fetchedAt": "2026-09-27T20:08:00.291059+00:00",
   "items": [
     {
       "title": "Verschweigen, flunkern, lügen – Warum wir nicht so ehrlich sind, wie wir glauben",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "Gefahren für den Fötus – Was unsere Gesundheit vor der Geburt prägt",
+      "url": "https://www.swr.de/swrkultur/wissen/gefahren-fuer-den-foetus-was-unsere-gesundheit-vor-der-geburt-praegt-100.html",
+      "description": "Unsere Umwelt beeinflusst, wie gesund wir sind. Mit der Exposom-Forschung lässt sich jetzt noch besser verstehen, was uns krank machen kann – schon bevor wir auf die Welt kommen.",
+      "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -142,22 +158,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "25 Jahre nach 9/11 – Die lange Spur des Islamismus in Deutschland",
-      "url": "https://www.swr.de/swrkultur/wissen/25-jahre-nach-911-die-lange-spur-des-islamismus-in-deutschland-100.html",
-      "description": "Die Anschläge auf das World Trade Center und das Pentagon waren eine Zäsur. Sie veränderten in Deutschland den Umgang mit islamistischen Gruppierungen wie Al-Qaida grundlegend.",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20

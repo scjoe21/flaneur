@@ -1,8 +1,24 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-26T19:15:39.630247+00:00",
+  "fetchedAt": "2026-09-27T20:07:54.337675+00:00",
   "items": [
+    {
+      "title": "The Weasel and the Meaning of It All: Annie Dillard on How to Live",
+      "url": "https://www.themarginalian.org/2026/09/27/annie-dillard-weasel/",
+      "description": "Suppose we answer the most important question of existence in the affirmative. There is then only one question remaining: How shall we live this life? Despite all the technologies of thought and feeling we have invented to divine an answer — philosophy and poetry, scripture and self-help — life stares mutely back at us, immense and indifferent, having abled us with opposable thumbs and handicapped us with a consciousness capable of self-reference that renders us dissatisfied with the banality of",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 25,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "How to Be a Poet: Elizabeth Alexander on the Yin-Yang of Connection and Contradiction",
       "url": "https://www.themarginalian.org/2026/09/23/elizabeth-alexander-signas-across-vast-distances/",
@@ -52,22 +68,6 @@
       }
     },
     {
-      "title": "Edward Abbey on How to Live and How to Die",
-      "url": "https://www.themarginalian.org/2026/09/19/edward-abbey-live-die/",
-      "description": "The summer after graduating high school, knowing he would face conscription into the military as soon as his eighteenth birthday arrived, Edward Abbey (January 29, 1927–March 14, 1989) set out to get to know the land he was being asked to die for. He hitchhiked and hopped freight trains, rode in ramshackle busses and walked sweltering miles across the American Southwest. Upon returning home to Pennsylvania, he was promptly drafted and spent two reluctant years as a military police officer in occ",
-      "date": "Sat, 19 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
       "title": "Emerson on How to Trust Yourself",
       "url": "https://www.themarginalian.org/2026/09/24/emerson-character-solitude-nature/",
       "description": "\"It is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.\"",
@@ -96,22 +96,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 5,
-        "total": 25
-      }
-    },
-    {
-      "title": "Are You Working: In Defense of the Invisible Labors of Creativitiy",
-      "url": "https://www.themarginalian.org/2026/09/20/leo-lionni-frederick/",
-      "description": "Once, at the gym with a physicist friend, I was struck by how no one else in the room had any idea that while she was sweating on the treadmill with a blank stare into space, she was doing advanced mathematics working out the logic of black holes. Another time, on the train with a poet friend, none of the other passengers could have known that behind her faraway look she was doing the invisible labor that would eventually win her the Pulitzer. “Artists are always working, though they may not see",
-      "date": "Sun, 20 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 25
       }
     },
@@ -148,6 +132,38 @@
       }
     },
     {
+      "title": "Hermann Hesse on Discovering the Soul Beneath the Self and the Key to Finding Peace",
+      "url": "https://www.themarginalian.org/2026/09/26/hesse-soul/",
+      "description": "\"Self-hate is really the same thing as sheer egoism, and in the long run breeds the same cruel isolation and despair.\"",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 23,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 5,
+        "total": 23
+      }
+    },
+    {
+      "title": "How to Handle a Narcissistic and Abusive Parent: Kafka’s Remarkable Letter to Father",
+      "url": "https://www.themarginalian.org/2026/09/26/franz-kafka-letter-father/",
+      "description": "\"It is, after all, not necessary to fly right into the middle of the sun, but it is necessary to crawl to a clean little spot on earth where the sun sometimes shines and one can warm oneself a little.\"",
+      "date": "Sat, 26 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "How to Speak Forest",
       "url": "https://www.themarginalian.org/2026/09/25/a-forest-language-hannah-fries/",
       "description": "“The tree which moves some to tears of joy is in the eyes of others only a green thing that stands in the way,” William Blake wrote in his most passionate letter. “As a man is, so he sees.” Because we are social apes who descended from the trees and invented language to tell each other what we see, saying is a way of seeing. To name something is to instate it in the family of things, to make it a node in the relational web we call reality. A word can be a pinhole, pinching a vista of complexity…",
@@ -161,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Do Not Spare Yourself: An Antidote to Feeling Like You Are Waiting to Start Living",
+      "url": "https://www.themarginalian.org/2026/09/27/no-te-salves/",
+      "description": "The only thing more dangerous than wanting to save another person — a dangerous desire too often mistaken for love — is wanting to save yourself, to spare yourself the disappointment and heartbreak and loss inseparable from being a creature with hopes and longings constantly colliding with reality, with the indifference of time and chance, with the opposing hopes and longings of others. We have, of course, always invented institutions of salvation — religion to save us from our sins, therapy to ",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "Steinbeck and the Difficult Art of the Friend Breakup",
-      "url": "https://www.themarginalian.org/2026/09/21/john-steinbeck-george-albee-friend-breakup-letter/",
-      "description": "\"I can’t consider you a friend when out of every contact there comes some intentionally wounding thing.\"",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "The Science of Waiting and the Art of Delay",
       "url": "https://www.themarginalian.org/2026/09/21/wait-frank-partnoy/",
       "description": "Exploring the intersection of time and decision-making to shine a light on what it means to be human.",
       "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Courage to Be Yourself: E.E. Cummings on Art, Life, and Being Unafraid to Feel",
-      "url": "https://www.themarginalian.org/2026/09/20/e-e-cummings-advice/",
-      "description": "\"To be nobody-but-yourself — in a world which is doing its best, night and day, to make you everybody else — means to fight the hardest battle which any human being can fight.\"",
-      "date": "Sun, 20 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

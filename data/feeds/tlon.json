@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-09-26T19:15:20.771228+00:00",
+  "fetchedAt": "2026-09-27T20:07:41.368065+00:00",
   "items": [
     {
       "title": "Perché sappiamo tutto e non facciamo niente?",
@@ -87,7 +87,7 @@
       "title": "IL SÉ DIGITALE",
       "url": "https://www.youtube.com/watch?v=z-55zjouJcI",
       "description": "Per una politica del sentire\n\nOspiti:\nVittorio Gallese\nAndrea Colamedici",
-      "date": "2026-09-23",
+      "date": "2026-09-26",
       "thumbnail": "https://i3.ytimg.com/vi/z-55zjouJcI/hqdefault.jpg",
       "videoId": "z-55zjouJcI",
       "priority": 10,
@@ -164,10 +164,26 @@
       }
     },
     {
+      "title": "ATTRAVERSARE LA PAROLA",
+      "url": "https://www.youtube.com/watch?v=0haD9BExLYY",
+      "description": "Le donne che hanno cambiato il mondo scrivendo\n\nOspiti:\nDacia Maraini\nMaura Gancitano",
+      "date": "2026-09-23",
+      "thumbnail": "https://i1.ytimg.com/vi/0haD9BExLYY/hqdefault.jpg",
+      "videoId": "0haD9BExLYY",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "PIÙ FUTURO NELLE NOSTRE VITE",
       "url": "https://www.youtube.com/watch?v=CPHFwAISwng",
       "description": "Per una sovranità dell’immaginazione\n\nOspiti:\nGuido Girardi\nBruno Giussani\nAndrea Colamedici",
-      "date": "2026-09-23",
+      "date": "2026-09-27",
       "thumbnail": "https://i4.ytimg.com/vi/CPHFwAISwng/hqdefault.jpg",
       "videoId": "CPHFwAISwng",
       "priority": 0,
@@ -218,22 +234,6 @@
       "date": "2026-09-23",
       "thumbnail": "https://i2.ytimg.com/vi/uMFdrGiXaiE/hqdefault.jpg",
       "videoId": "uMFdrGiXaiE",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "ATTRAVERSARE LA PAROLA",
-      "url": "https://www.youtube.com/watch?v=0haD9BExLYY",
-      "description": "Le donne che hanno cambiato il mondo scrivendo\n\nOspiti:\nDacia Maraini\nMaura Gancitano",
-      "date": "2026-09-23",
-      "thumbnail": "https://i1.ytimg.com/vi/0haD9BExLYY/hqdefault.jpg",
-      "videoId": "0haD9BExLYY",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-26T19:15:38.947424+00:00",
+  "fetchedAt": "2026-09-27T20:07:53.444327+00:00",
   "items": [
+    {
+      "title": "Why Empathy Is Now ‘Toxic,’ ‘Suicidal,’ and a ‘Sin’",
+      "url": "https://www.theatlantic.com/ideas/2026/09/maga-right-christianity-empathy-toxic/688755/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "The Two-Year Temper Tantrum to Come",
       "url": "https://www.theatlantic.com/ideas/2026/09/trump-white-house-press-fight/688788/?utm_source=feed",
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/?utm_source=feed",
       "description": "",
       "date": "2026-09-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "In Defense of Guilt by Association",
-      "url": "https://www.theatlantic.com/ideas/2026/09/vance-sayed-piker-carlson-friendships/688657/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-21",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

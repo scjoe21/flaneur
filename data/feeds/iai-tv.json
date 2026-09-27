@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-09-26T19:15:51.885310+00:00",
+  "fetchedAt": "2026-09-27T20:08:03.191210+00:00",
   "items": [
     {
       "title": "Why A.I. isn't as intelligent as it appears | Simon Baron-Cohen",
@@ -74,22 +74,6 @@
       "date": "2026-09-12",
       "thumbnail": "https://i2.ytimg.com/vi/eVRy7I2Zb9Y/hqdefault.jpg",
       "videoId": "eVRy7I2Zb9Y",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Should we re-industrialise America? | Catherine Liu, Yaron Brook",
-      "url": "https://www.youtube.com/shorts/6dO_9mVljB0",
-      "description": "",
-      "date": "2026-09-11",
-      "thumbnail": "https://i3.ytimg.com/vi/6dO_9mVljB0/hqdefault.jpg",
-      "videoId": "6dO_9mVljB0",
       "priority": 15,
       "scoreDetail": {
         "daily": 15,
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Fundamental Being | Jessica Frazier",
+      "url": "https://www.youtube.com/shorts/wJsR5OnjobA",
+      "description": "",
+      "date": "2026-09-27",
+      "thumbnail": "https://i4.ytimg.com/vi/wJsR5OnjobA/hqdefault.jpg",
+      "videoId": "wJsR5OnjobA",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

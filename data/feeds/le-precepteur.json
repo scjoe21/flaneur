@@ -1,8 +1,24 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-26T19:15:11.172049+00:00",
+  "fetchedAt": "2026-09-27T20:07:33.999063+00:00",
   "items": [
+    {
+      "title": "La fausse générosité",
+      "url": "https://www.youtube.com/shorts/ciMhydDOk7s",
+      "description": "Au XVIIᵉ siècle, La Rochefoucauld développe une idée particulièrement dérangeante : l’amour-propre ne se dissimule pas uniquement derrière nos défauts, mais aussi derrière nos plus belles qualités. Dans cette vidéo, je vous explique pourquoi la générosité, le pardon ou l’humilité peuvent parfois servir l’image admirable que nous voulons avoir de nous-mêmes.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #larochefoucauld #amourpropre #générosité #orgueil #morale",
+      "date": "2026-09-27",
+      "thumbnail": "https://i4.ytimg.com/vi/ciMhydDOk7s/hqdefault.jpg",
+      "videoId": "ciMhydDOk7s",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "D'où vient votre jalousie ?",
       "url": "https://www.youtube.com/shorts/jSsuDKLdVmo",
@@ -14,22 +30,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "Nous consommons les êtres humains",
-      "url": "https://www.youtube.com/shorts/K3N8iEkdujU",
-      "description": "Au XXIe siècle, le sociologue Zygmunt Bauman développe une idée devenue célèbre : dans nos sociétés modernes, l’amour aurait perdu sa solidité. Il serait devenu liquide. Dans cette vidéo, je vous explique pourquoi, selon lui, les applications de rencontre et la logique de consommation nous poussent à traiter les relations humaines comme des produits remplaçables.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #bauman #relations #amour #sociologie",
-      "date": "2026-08-30",
-      "thumbnail": "https://i4.ytimg.com/vi/K3N8iEkdujU/hqdefault.jpg",
-      "videoId": "K3N8iEkdujU",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 40
