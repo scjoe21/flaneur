@@ -1,24 +1,8 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-02T19:51:50.748716+00:00",
+  "fetchedAt": "2026-10-02T22:31:02.193408+00:00",
   "items": [
-    {
-      "title": "Jonathan Gingerich: „Frei sein heißt, das Gegebene überschreiten zu können“",
-      "url": "https://www.philomag.de/artikel/jonathan-gingerich-frei-sein-heisst-das-gegebene-ueberschreiten-zu-koennen",
-      "description": "Wie sieht ein selbstbestimmtes Leben aus? Wie gutes Handeln? In ihren frühen Schriften entwickelt Beauvoir eine Ethik der Freiheit. Diese zeigt, so Jonathan Gingerich, dass Selbstbestimmung mit anderen und gegen unsere Ängste immer wieder neu errungen werden muss.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
     {
       "title": "Simon Goldstein: „Die KI wird vielleicht die Berufsphilosophen ersetzen, aber niemals die Freude am Denken“",
       "url": "https://www.philomag.de/artikel/simon-goldstein-die-ki-wird-vielleicht-die-berufsphilosophen-ersetzen-aber-niemals-die",
@@ -72,54 +56,6 @@
       "url": "https://www.philomag.de/artikel/palmen-ab-ins-paradies-oder",
       "description": "Palmen sind nicht nur exotisches Sinnbild für Strand, Sonne und Meer, sondern auch Teil einer jahrtausendealten Kunst- und Kulturgeschichte. Dabei hat die Pflanze auch ihre Schattenseiten, wie Jutta Person in ihrem Buch  Palmen  zeigt. Sie ist Symbol eines europäischen Kolonialismus.",
       "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Judith Butler: „Frauwerden ist ein offener Prozess“",
-      "url": "https://www.philomag.de/artikel/judith-butler-frauwerden-ist-ein-offener-prozess",
-      "description": "Das andere Geschlecht  stellt unser Verständnis von Frau, Mann und ihrem Verhältnis infrage – und wurde damit zu einem wegweisenden Text. Im Interview erklärt Judith Butler, was Beauvoirs Analyse so bedeutsam macht und wie die Gender-Theorie daran anschließt, aber auch darüber hinausreicht.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Die Relevanz des Leibes",
-      "url": "https://www.philomag.de/artikel/die-relevanz-des-leibes",
-      "description": "In  Das andere Geschlecht  problematisiert Beauvoir den weiblichen Körper als Einschränkung einer selbstbestimmten Existenz. Gleichzeitig verleiht sie leiblichen Erfahrungen Gewicht. Daraus lassen sich gerade heute wichtige Schlüsse ziehen.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Silvia Federici: „Wer die eigene Versklavung erkennt, geht bereits über sie hinaus“",
-      "url": "https://www.philomag.de/artikel/silvia-federici-wer-die-eigene-versklavung-erkennt-geht-bereits-ueber-sie-hinaus",
-      "description": "Lässt sich Hausarbeit gerecht gestalten? Die marxistische, feministische Denkerin Silvia Federici sieht in ihr einen verborgenen Wert. Ein Gespräch über ihre Gemeinsamkeiten mit sowie Unterschiede zu Beauvoir und über die Aktualität von  Das andere Geschlecht.",
-      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -196,6 +132,38 @@
       }
     },
     {
+      "title": "Lori Jo Marso: „Beauvoir eröffnet das Potenzial für kollektiven Widerstand“",
+      "url": "https://www.philomag.de/artikel/lori-jo-marso-beauvoir-eroeffnet-das-potenzial-fuer-kollektiven-widerstand",
+      "description": "Bisweilen wird Beauvoir als weiße und bürgerliche Theoretikerin abgetan. Im Gespräch erläutert Lori Marso, dass ihr politisches Denken umfassender war. Es trägt zum Verständnis verschiedener Formen der Unterdrückung bei – auch heute.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Die neue Sonderausgabe: Beauvoir",
+      "url": "https://www.philomag.de/artikel/die-neue-sonderausgabe-beauvoir",
+      "description": "Simone de Beauvoir legte präzise und schonungslos offen, was Frauen davon abhält, ein selbstbestimmtes Leben zu führen – und schrieb Geschichte. Früh entwickelte sie ihre eigene Version des Existenzialismus: Freiheit muss erst handelnd erkämpft werden – mit anderen und gegen Widerstände. So schärft Beauvoir den Blick für das, was auch heute noch einer selbstbestimmten Existenz im Wege steht. Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Schall und Wahn",
       "url": "https://www.philomag.de/artikel/schall-und-wahn",
       "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
@@ -224,6 +192,38 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "Simone de Beauvoir: „Auch Genossen sind Paschas“",
+      "url": "https://www.philomag.de/artikel/simone-de-beauvoir-auch-genossen-sind-paschas",
+      "description": "Als Beauvoir  Das andere Geschlecht  verfasste, verstand sie sich nicht als Feministin. Dies änderte sich später. Im Gespräch mit Alice Schwarzer sprach Beauvoir 1976 über ihre Rolle in der Frauenbewegung und weshalb auch Linke in Sachen Gleichberechtigung dazulernen müssen.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Mit Beauvoir das Haus der Herrschenden einreißen",
+      "url": "https://www.philomag.de/artikel/mit-beauvoir-das-haus-der-herrschenden-einreissen",
+      "description": "Dass viele Frauen nicht bloß sexistisch, sondern zugleich rassistisch unterdrückt werden, nahm Beauvoir kaum in den Blick. Dennoch kann ihre Ethik den intersektionalen Feminismus heute bereichern.",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
         "total": 5
       }
     },

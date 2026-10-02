@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-02T19:52:28.565989+00:00",
+  "fetchedAt": "2026-10-02T22:31:40.764731+00:00",
   "items": [
     {
       "title": "能力資本主義の申し子としてのソーシャルイノベーション｜Social Innovation",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "止められるお金、止められないお金。線を引くのは資本主義か、民主主義か｜Crypto Matters",
+      "url": "https://wired.jp/article/sz-crypto-matters-who-can-stop-crypto-currency/",
+      "description": "世界有数の暗号資産取引所への攻撃で、流出を止められた額はわずか0.1%。明暗を分けた資産の「種類」とその仕組みから、いま暗号資産の世界で起きている地殻変動を考察する。",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -55,22 +71,6 @@
       "title": "AIの“集合知”で自律的に動くマルウェア、新たな追跡ツールで判明",
       "url": "https://wired.jp/article/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
       "description": "シスコのサイバーセキュリティ研究部門Cisco Talosは、AIを利用するマルウェアを追跡する新たな枠組みを開発した。すでに複数の大規模言語モデルに次の行動を問い合わせ、人間の指示なしで動くマルウェアも見つかっている。",
-      "date": "Tue, 29 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "窃盗犯が盗んだ「NVIDIA」ロゴ入りトレーラー。中身は20トン近くの砂だった",
-      "url": "https://wired.jp/article/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
-      "description": "チップを狙ったとみられる窃盗犯が、砂を積んだトレーラーを残していった。AI向けの半導体やデータセンター機器の価値が高まるなか、それらを狙った貨物窃盗が相次いでいる。",
       "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",

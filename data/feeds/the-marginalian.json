@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-02T19:52:06.455398+00:00",
+  "fetchedAt": "2026-10-02T22:31:18.345158+00:00",
   "items": [
     {
       "title": "The Weasel and the Meaning of It All: Annie Dillard on How to Live",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
-      "title": "Nietzsche on How to Find Yourself and the True Value of Education",
-      "url": "https://www.themarginalian.org/2026/09/25/nietzsche-find-yourself-schopenhauer-as-educator/",
-      "description": "\"No one can build you the bridge on which you, and only you, must cross the river of life.\"",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
         "total": 24
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Common Language of Science: Einstein’s Clarion Call to Divided Humanity in a Rare 1941 Recording",
+      "url": "https://www.themarginalian.org/2026/10/02/albert-einstein-the-common-language-of-science/",
+      "description": "“Perfection of means and confusion of goals seem — in my opinion — to characterize our age.”",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]
