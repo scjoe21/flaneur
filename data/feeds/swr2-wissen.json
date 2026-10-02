@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-09-27T20:08:00.291059+00:00",
+  "fetchedAt": "2026-10-02T19:52:16.548341+00:00",
   "items": [
     {
       "title": "Verschweigen, flunkern, lügen – Warum wir nicht so ehrlich sind, wie wir glauben",
@@ -17,6 +17,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 43
+      }
+    },
+    {
+      "title": "Hannah Arendt – Freiheit und Verantwortung",
+      "url": "https://www.swr.de/swrkultur/wissen/hannah-arendt-widerstand-revolution-und-freiheit-104.html",
+      "description": "\"Der Sinn von Politik ist Freiheit\", sagt die jüdische Philosophin Hannah Arendt (1906 - 1975). Doch wie entsteht Freiheit? Und warum ist sie immer wieder bedroht?",
+      "date": "Fri, 2 Oct 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -84,41 +100,9 @@
       }
     },
     {
-      "title": "Magersucht therapieren – Wie wichtig Familie, Darm und Körperbilder sind",
-      "url": "https://www.swr.de/swrkultur/wissen/magersucht-therapieren-wie-wichtig-familie-darm-und-koerperbilder-sind-100.html",
-      "description": "Zu Hause wohnen, statt stationär behandelt werden. Die Körperwahrnehmung durch Einsatz von VR-Brillen verändern. Gene und Darm berücksichtigen. Neues aus der Magersucht-Therapie.",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Epigenetik – Wie beeinflusst die Umwelt unsere Gene?",
-      "url": "https://www.swr.de/swrkultur/wissen/epigenetik-wie-beeinflusst-die-umwelt-unsere-gene-100.html",
-      "description": "Werden Traumata und schlechte Ernährungsgewohnheiten \"vererbt\"? So einfach, wie oft dargestellt, sind die Vorgänge nicht. Die Epigenetik hat die Biologie jedoch revolutioniert.",
-      "date": "Sun, 13 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
       "title": "Richtig Laufen – Wie der Ausdauersport Körper und Psyche stärkt",
       "url": "https://www.swr.de/swrkultur/wissen/richtig-laufen-wie-der-ausdauersport-koerper-und-psyche-staerk-100.html",
-      "description": "Laufclubs boomen, immer mehr Menschen trainieren für einen Marathon. Regelmäßiges Laufen stärkt das Herz-Kreislauf-System und hilft, Stress abzubauen – auch ohne extreme Distanz.\nVon Klara Laue (2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/richtig-laufen-ausdauersport\nHörtipps:\nUnsere Muskeln – Kraftpakete für ein gesundes Leben\nhttps://www.ardsounds.de/episode/urn:ard:episode:23ee5d3b8313b11b/\nFit durch Protein-Supplemente? – Wie sich Sportler richtig ernähren\nhttps://www.ardsounds.de/e",
+      "description": "Laufclubs boomen, immer mehr Menschen trainieren für einen Marathon. Regelmäßiges Laufen stärkt das Herz-Kreislauf-System und hilft, Stress abzubauen – auch ohne extreme Distanz.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
@@ -164,19 +148,51 @@
       }
     },
     {
-      "title": "Faszination Oktoberfest – Mehr als Massenrausch in Tracht",
-      "url": "https://www.swr.de/swrkultur/wissen/faszination-oktoberfest-mehr-als-massenrausch-in-tracht-100.html",
-      "description": "Das größte Volksfest der Welt verbindet die Menschen miteinander: 16 Tage lang feiern und den Alltag vergessen. Es ist eine logistische Meisterleistung und ein wirtschaftlicher Jackpot für München.\nVon Sarah Rondot (SWR 2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/faszination-oktoberfest\nTipps für den sicheren Wiesn-Besuch\nhttps://sicherewiesn.de/wordpress/\nLiteratur:\nSimone Egger: Das Dirndl. Ein modernes Kleid, das vieles gleichzeitig sein kann. In: Michaela Breit, Karl Murr (Hg.): Dir",
-      "date": "Fri, 18 Sep 2026",
+      "title": "Trotz Auschwitz: Jüdisches Leben in Deutschland nach 1945 in Original-Tondokumenten",
+      "url": "https://www.swr.de/swrkultur/wissen/trotz-auschwitz-juedisches-leben-in-deutschland-nach-1945-in-original-tondokumenten-104.html",
+      "description": "Die Befreiung der Vernichtungslager bedeutet den Neubeginn für den Wiederaufbau einer jüdischen Gemeinschaft in Deutschland, die sich keineswegs allein über den Holocaust definiert.",
+      "date": "Fri, 2 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 5
+      }
+    },
+    {
+      "title": "Franz von Assisi – Radikaler Prophet der Armut",
+      "url": "https://www.swr.de/swrkultur/wissen/franz-von-assisi-radikaler-prophet-der-armut-100.html",
+      "description": "Franz von Assisi stellt mit seiner radikalen Armutsidee die Macht der Kirche infrage und wird doch bis heute von ihr vereinnahmt.",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Erdgas aus Deutschland – Umstrittene Bohrprojekte und die Suche nach Alternativen",
+      "url": "https://www.swr.de/swrkultur/wissen/erdgas-aus-deutschland-umstrittene-bohrprojekte-und-die-suche-nach-alternativen-100.html",
+      "description": "Deutschland deckt nur fünf Prozent des Erdgasbedarfs aus eigener Förderung. Niedersachsen hat mehrere neue Bohrprojekte genehmigt. Ein Verstoß gegen die Ziele der Klimaneutralität?",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -196,51 +212,35 @@
       }
     },
     {
-      "title": "Gesund zunehmen – Was hilft bei Gewichtsverlust?",
-      "url": "https://www.swr.de/swrkultur/wissen/gesund-zunehmen-was-hilft-bei-gewichtsverlust-100.html",
-      "description": "Wer aufgrund einer Darmerkrankung, Krebs, Stress oder altersbedingtem Muskelabbau Gewicht verloren hat, benötigt oft Unterstützung beim Zunehmen. Das geht mit proteinreicher Kost.",
-      "date": "Thu, 17 Sep 2026",
+      "title": "Schlaganfall – Schnell handeln, besser vorbeugen und therapieren",
+      "url": "https://www.swr.de/swrkultur/wissen/schlaganfall-schnell-handeln-besser-vorbeugen-und-therapieren-100.html",
+      "description": "Der Schlaganfall ist die häufigste Ursache für bleibende Behinderungen im Erwachsenenalter. Jede Minute zählt, um möglichst viel Hirngewebe zu retten.",
+      "date": "Fri, 2 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Polen rüstet auf – Auf dem Weg zur stärksten Armee der EU",
-      "url": "https://www.swr.de/swrkultur/wissen/polen-ruestet-auf-auf-dem-weg-zur-staerksten-armee-der-eu-100.html",
-      "description": "Seit 2022 steckt Polen viel Geld und Engagement in Aufrüstung und Sicherheit. Das Land will für den Ernstfall gewappnet sein – und trainiert auch Jugendliche an der Waffe.",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Mit der Seilbahn durch die Stadt – Bald auch in Deutschland?",
-      "url": "https://www.swr.de/swrkultur/wissen/mit-der-seilbahn-durch-die-stadt-bald-auch-in-deutschland-100.html",
-      "description": "In Paris hat der Verkehrsverbund die längste innerstädtische Seilbahn Europas eröffnet – gebaut in nur drei Jahren. Jetzt planen Bonn und Herne Deutschlands erste ÖPNV-Seilbahn.",
-      "date": "Tue, 15 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "Sprachstörungen behandeln – Wem Logopädie nützen kann",
+      "url": "https://www.swr.de/swrkultur/wissen/sprachstoerungen-behandeln-wem-logopaedie-nuetzen-kann-100.html",
+      "description": "Die Zahl der Kinder mit Sprachentwicklungsstörung steigt. Von Logopädie können aber auch Schlaganfall-Betroffene, Demenz-Erkrankte und Säuglinge mit Fütterstörung profitieren.",
+      "date": "Thu, 1 Oct 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

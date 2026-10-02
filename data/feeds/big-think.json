@@ -1,24 +1,8 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-10-02T10:14:28.623639+00:00",
+  "fetchedAt": "2026-10-02T19:52:05.468175+00:00",
   "items": [
-    {
-      "title": "The director of Donnie Darko on why the film is so misunderstood",
-      "url": "https://bigthink.com/series/conversations/richard-kelly-donnie-darko/",
-      "description": "Donnie Darko turns 25 this year — and heads back to theaters on October 2nd. To mark it, director Richard Kelly sits down with Big Think’s Executive Editor Stephen Johnson for a wide-ranging conversation about the film’s cult afterlife, including the story of the meeting where Francis Ford Coppola circled a single line of dialogue and told him that’s what the movie was really about. \n Kelly walks through the true origin of the bunny mask (it started as an Easter costume note and ended up part wo",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/BTC-Richard-Kelly-YT-Thumbnail-2-no-TOT-for-BT-Website.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 43,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 5,
-        "total": 43
-      }
-    },
     {
       "title": "Francis Fukuyama on why we’re better than our ancestors",
       "url": "https://bigthink.com/mini-philosophy/francis-fukuyama-on-why-were-better-than-our-ancestors/",
@@ -49,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "3 social skills you should never outsource to AI",
+      "url": "https://bigthink.com/mind-behavior/social-skills-you-should-never-outsource-to-ai/",
+      "description": "“AI is helping me with my social skills,” one of my therapy clients told me. He experienced social anxiety and had started asking AI for scripts to say whenever he felt nervous. \n At a recent dinner party, when he felt overwhelmed by all the insightful questions the other guests were asking, he slipped away for a restroom break. He asked AI to create a list of questions that would make him a more interesting conversationalist so he could be well-liked. He returned to the dinner table armed with ",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/dont-outsource-social-skills-2-ai.gif?w=640",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {

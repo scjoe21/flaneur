@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-02T10:14:03.298173+00:00",
+  "fetchedAt": "2026-10-02T19:51:44.761965+00:00",
   "items": [
+    {
+      "title": "Pourquoi restons-nous si attachés à ceux qui nous ont quittés ?",
+      "url": "https://www.philomag.com/articles/pourquoi-restons-nous-si-attaches-ceux-qui-nous-ont-quittes",
+      "description": "",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Philolive! : le premier festival de philosophie à Paris",
       "url": "https://www.philomag.com/articles/philolive-le-premier-festival-de-philosophie-paris",
@@ -68,24 +84,8 @@
       }
     },
     {
-      "title": "“L’IA remplacera peut-être les philosophes de profession, mais jamais le plaisir de penser”",
-      "url": "https://www.philomag.com/articles/lia-remplacera-peut-etre-les-philosophes-de-profession-mais-jamais-le-plaisir-de-penser",
-      "description": "",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Poison et remède : le pouvoir inégalé du “pharmakon”",
-      "url": "https://www.philomag.com/articles/poison-et-remede-le-pouvoir-inegale-du-pharmakon",
+      "title": "Poison et remède : le pouvoir démesuré du “pharmakon”",
+      "url": "https://www.philomag.com/articles/poison-et-remede-le-pouvoir-demesure-du-pharmakon",
       "description": "",
       "date": "Thu, 01 Oct 2026",
       "thumbnail": "",

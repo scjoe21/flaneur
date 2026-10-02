@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-02T10:14:02.895972+00:00",
+  "fetchedAt": "2026-10-02T19:51:44.246909+00:00",
   "items": [
     {
       "title": "Allons à l’immédiat 3/3 : Pourquoi ne peut-on pas avoir tout, tout de suite ?",
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 34
+      }
+    },
+    {
+      "title": "Adèle Yon, écrivaine, sur le cinéaste Eisenstein : art du montage et recette du pathos",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/adele-yon-sur-l-oeuvre-de-serguei-eisenstein-9739083",
+      "description": "durée : 00:58:10  - Avec philosophie - par : Géraldine Mosna-Savoye - Comment l'art du montage et la recette du pathétique du cinéaste et théoricien Sergueï Eisenstein ont-ils influencé l'écriture d'Adèle Yon, l'autrice qui a marqué avec \"Mon vrai nom est Élisabeth\" ? Elle revient sur cette oeuvre dont la fameuse recette a été pervertie par Hollywood...\n  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Adèle Yon Romancière, Docteure SACRe - ENS \n\nVous aimez",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -209,22 +225,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
-      }
-    },
-    {
-      "title": "Adèle Yon sur l'oeuvre de Sergueï Eisenstein",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/adele-yon-sur-l-oeuvre-de-serguei-eisenstein-9739083",
-      "description": "durée : 00:58:10  - Avec philosophie - par : Géraldine Mosna-Savoye - Adèle Yon, autrice qui a marqué avec \"Mon vrai nom est Élisabeth\", revient sur l'oeuvre du cinéaste et théoricien du cinéma soviétique Sergueï Eisenstein.  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Adèle Yon Romancière, Docteure SACRe - ENS \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {

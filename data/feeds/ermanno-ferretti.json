@@ -1,7 +1,7 @@
 {
   "sourceId": "ermanno-ferretti",
   "sourceName": "Ermanno Ferretti",
-  "fetchedAt": "2026-10-02T10:14:35.199275+00:00",
+  "fetchedAt": "2026-10-02T19:52:16.946962+00:00",
   "items": [
     {
       "title": "\"Il mondo nuovo\" di Aldous Huxley [Un libro in un minuto #004]",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "La Natura benigna, la noia e il piacere per Leopardi [Dentro alla filosofia, episodio 407]",
+      "url": "https://www.youtube.com/watch?v=QWM3AK1OxSc",
+      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nIl pessimismo leopardiano da storico divenne cosmico: vediamo come il poeta cambiò idea.\n\n💁 Vuoi sostenere il canale?\nTi piacciono o ti sono utili i video e vuoi dare un segno tangibile per permettermi di continuare a realizzarne? Puoi farlo in uno di questi modi:\n- Abbonati al canale: https://www.youtube.com/channel/UC_2OzUw2mnLmlqFEzNzzUjw/join\n- Fai una donazione diretta: https://www.paypal.com/dona",
+      "date": "2026-10-02",
+      "thumbnail": "https://i2.ytimg.com/vi/QWM3AK1OxSc/hqdefault.jpg",
+      "videoId": "QWM3AK1OxSc",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "\"Il processo\" di Franz Kafka [Un libro in un minuto #003]",
       "url": "https://www.youtube.com/shorts/FqjOlo8LlHQ",
       "description": "Una mattina due uomini entrano nella camera di Josef K. e gli comunicano che è in arresto. Così comincia “Il processo”.\n\nUn libro tipicamente kafkiano: se non fosse che, nel romanzo, Josef è oppresso non solo dal sistema, ma anche dal suo bisogno di razionalità.\n\n👉 La condizione di Josef K. è davvero simile alla nostra? Ti sei mai sentito come lui?\n\n👉 Ho parlato di Franz Kafka anche in tre video lunghi su YouTube, dove approfondisco il suo pensiero.\n\n#kafka #ilprocesso #unlibroinunminuto #letter",
@@ -64,22 +80,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 25
-      }
-    },
-    {
-      "title": "\"L'interpretazione dei sogni\" di Sigmund Freud - audiolibro spiegato parte 21",
-      "url": "https://www.youtube.com/watch?v=FpMIm-Uf1mE",
-      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nProsegue la lettura del capolavoro di Freud, con qualche altro sogno e un po' di interpretazioni sessuali.\n\nSommario dei contenuti:\n00:00 Intro\n00:44 Chi sono (e cosa faccio qui)\n01:32 Come procederemo\n02:41 Lettura: I due contenuti\n09:52 Commento: Connessioni arbitrarie?\n14:05 Lettura: La teoria di Robert\n18:28 Commento: Non è uno scaricamento\n19:49 Lettura: Fatti importanti o irrilevanti?\n25:46 Comme",
-      "date": "2026-09-19",
-      "thumbnail": "https://i3.ytimg.com/vi/FpMIm-Uf1mE/hqdefault.jpg",
-      "videoId": "FpMIm-Uf1mE",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 25
       }
     },

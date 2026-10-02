@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-02T10:14:29.429621+00:00",
+  "fetchedAt": "2026-10-02T19:52:06.222496+00:00",
   "items": [
     {
       "title": "Why China Will Rule AI",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Return Of The Repressed In Germany",
+      "url": "https://www.noemamag.com/return-of-the-repressed-in-germany",
+      "description": "The post  Return Of The Repressed In Germany  appeared first on  NOEMA .",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/the-gen-z-revolt-sweeping-south-asia",
       "description": "The post  The Gen Z Revolt Sweeping South Asia  appeared first on  NOEMA .",
       "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Whose AI Will Rule The World?",
-      "url": "https://www.noemamag.com/whose-ai-will-rule-the-world",
-      "description": "The post  Whose AI Will Rule The World?  appeared first on  NOEMA .",
-      "date": "Thu, 10 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

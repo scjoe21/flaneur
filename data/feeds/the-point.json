@@ -1,7 +1,7 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-10-02T10:14:38.274859+00:00",
+  "fetchedAt": "2026-10-02T19:52:20.591787+00:00",
   "items": [
     {
       "title": "Student of Desire",
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Flowers for Frank",
+      "url": "https://thepointmag.com/criticism/flowers-for-frank/",
+      "description": "The End of History and the Last Man  is famously talked about more than it is read; as a teenager, however, I did not know this, so after seeing it referenced on multiple blogs, I assumed I had to trudge through the thing. \n The post  Flowers for Frank  appeared first on  The Point Magazine .",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "After the Sublime",
       "url": "https://thepointmag.com/criticism/after-the-sublime/",
       "description": "The problem with  Backrooms —like much of the online content that inspired it—is less that it relies too much on vibe and more that it fails to understand what makes that vibe interesting in the first place. \n The post  After the Sublime  appeared first on  The Point Magazine .",
@@ -120,22 +136,6 @@
       "url": "https://thepointmag.com/politics/no-country-for-tech-bros/",
       "description": "As the public face of Silicon Valley secessionism, Srinivasan’s Network State Conference seemed like a prime window into the techno-capitalist frontier. \n The post  No Country for Tech Bros  appeared first on  The Point Magazine .",
       "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "We Were the 99 Percent",
-      "url": "https://thepointmag.com/politics/we-were-the-99-percent/",
-      "description": "As the global tides have continued to shift rightward, I’ve found myself going back to those initial days of Occupy, looking for clues. What was it about the movement that captured the imagination of an entire generation? \n The post  We Were the 99 Percent  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
