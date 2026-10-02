@@ -1,19 +1,19 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-09-27T20:07:42.857705+00:00",
+  "fetchedAt": "2026-10-02T10:14:20.645129+00:00",
   "items": [
     {
-      "title": "Intelligenza artificiale, i primi tremila anni",
-      "url": "https://www.iltascabile.com/scienze/intelligenza-artificiale-primi-3000-anni/",
-      "description": "Come i miti antichi, la filosofia e la letteratura hanno “programmato” l’IA di oggi, e incideranno su quella del futuro. \n L'articolo  Intelligenza artificiale, i primi tremila anni  proviene da  Il Tascabile .",
-      "date": "Mon, 14 Sep 2026",
+      "title": "Uno nuovo, più razzista e più violento",
+      "url": "https://www.iltascabile.com/linguaggi/nuovo-razzista-violento/",
+      "description": "Vivere i fascismi come un’allucinazione: la parabola della politica dentro un’informazione corrotta. \n L'articolo  Uno nuovo, più razzista e più violento  proviene da  Il Tascabile .",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -36,35 +36,67 @@
       }
     },
     {
-      "title": "Alla ricerca dell’anticanone",
-      "url": "https://www.iltascabile.com/letterature/ricerca-anticanone/",
-      "description": "Tra autrici da riscoprire, figure anomale e letture inattese, una riflessione sui modi di raccontare la letteratura. \n L'articolo  Alla ricerca dell’anticanone  proviene da  Il Tascabile .",
-      "date": "Wed, 16 Sep 2026",
+      "title": "Il peso invisibile dell’aria",
+      "url": "https://www.iltascabile.com/scienze/il-peso-invisibile-dellaria/",
+      "description": "I danni dell’inquinamento atmosferico non compromettono solo i nostri polmoni, ma anche il cervello, il sonno, la salute mentale. E a pagare il prezzo maggiore sono le fasce più vulnerabili. Una riflessione su cosa significa rivendicare il diritto a respirare. \n L'articolo  Il peso invisibile dell’aria  proviene da  Il Tascabile .",
+      "date": "Mon, 28 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 8,
+      "priority": 9,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 8
-      }
-    },
-    {
-      "title": "La scuola ridotta a fabbrica",
-      "url": "https://www.iltascabile.com/societa/scuola-ridotta-fabbrica/",
-      "description": "La riforma degli istituti tecnici è la conferma di una scuola sempre più ancella del mercato, dove la  skolé  diventa un lusso per pochi. \n L'articolo  La scuola ridotta a fabbrica  proviene da  Il Tascabile .",
-      "date": "Tue, 15 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 4
+        "total": 9
+      }
+    },
+    {
+      "title": "L’affaire Arday-fus",
+      "url": "https://www.iltascabile.com/societa/affaire-arday-fus/",
+      "description": "Nathan Cofnas e la scienza della disuguaglianza. \n L'articolo  L’affaire Arday-fus  proviene da  Il Tascabile .",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Bristol di Jean Echenoz",
+      "url": "https://www.iltascabile.com/recensioni/bristol-jean-echenoz/",
+      "description": "L'articolo  Bristol di Jean Echenoz  proviene da  Il Tascabile .",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Il desiderio lesbico di contaminarsi",
+      "url": "https://www.iltascabile.com/linguaggi/desiderio-lesbico-contaminarsi/",
+      "description": "Tra spettri, schermi e fluidi: cosa significa essere ridott* a un ricettacolo del desiderio di qualcun altro. \n L'articolo  Il desiderio lesbico di contaminarsi  proviene da  Il Tascabile .",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/societa/origini-neoluddismo/",
       "description": "La lunga parabola del rifiuto della tecnica, dall’antichità agli interrogativi dell’IA. \n L'articolo  Alle origini del neoluddismo  proviene da  Il Tascabile .",
       "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Coinquilini bestiali di Nicola Bressi",
-      "url": "https://www.iltascabile.com/recensioni/coinquilini-bestiali-nicola-bressi/",
-      "description": "L'articolo  Coinquilini bestiali di Nicola Bressi  proviene da  Il Tascabile .",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La trappola del significato",
-      "url": "https://www.iltascabile.com/linguaggi/trappola-significato/",
-      "description": "Didascalie, fraintendimenti e linguaggi impossibili nella pratica di Monia Ben Hamouda. \n L'articolo  La trappola del significato  proviene da  Il Tascabile .",
-      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

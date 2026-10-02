@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-09-27T20:07:54.337675+00:00",
+  "fetchedAt": "2026-10-02T10:14:29.880753+00:00",
   "items": [
     {
       "title": "The Weasel and the Meaning of It All: Annie Dillard on How to Live",
@@ -20,10 +20,26 @@
       }
     },
     {
-      "title": "How to Be a Poet: Elizabeth Alexander on the Yin-Yang of Connection and Contradiction",
-      "url": "https://www.themarginalian.org/2026/09/23/elizabeth-alexander-signas-across-vast-distances/",
-      "description": "“The poets (by which I mean all artists) are finally the only people who know the truth about us,” James Baldwin wrote. “Soldiers don’t. Statesmen don’t. Priests don’t. Union leaders don’t. Only poets.” No matter how slant they may tell it, that truth tells us back to ourselves, helps us tell each other what it is like to be alive. It is not simple work, for its raw material is complexity. It is not easy work, for it demands a constant balancing act between passion and precision. Like most labor",
-      "date": "Wed, 23 Sep 2026",
+      "title": "C.S. Lewis on How to Structure the Days of a Creative Life and Train the Receptive Imagination",
+      "url": "https://www.themarginalian.org/2026/09/29/c-s-lewis-schedule/",
+      "description": "There are, in my experience, two fundaments of the creative life: putting yourself regularly in the path of wonder and getting out of your own way in order to receive what you encounter there. Wonder, like enchantment, is not something you can control or plan for or will — it is something that befalls you, overcomes you, pours upon you spontaneous and unbidden. Paradoxically, what makes such spontaneity possible is structure — an organizing principle for the hours of the day that makes room, and",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
+    {
+      "title": "Orcas and the Price of Consciousness: Lessons in Love and Loss from Earth’s Most Successful and Creative Predator",
+      "url": "https://www.themarginalian.org/2026/09/28/orcas/",
+      "description": "Marbling the waters of every ocean with their billows of black and white, orcas are Earth’s most creative and most successful apex predator. Although they are known as killer whales, they are the largest member of the dolphin family. Older than great white sharks, they hunt everything from seals a tenth their size to moose bathing in the shallows to Earth’s largest animal — the blue whale, whose tongue alone can weigh as much as a female orca. The secret to these staggering feats is not brute fo",
+      "date": "Mon, 28 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -36,67 +52,19 @@
       }
     },
     {
-      "title": "How to Hold the Darkness: Notes on Living Through Uncertainty",
-      "url": "https://www.themarginalian.org/2026/09/22/francis-weller-ordinary/",
-      "description": "There are times in life when the continent of certainty parts underfoot and, as the ash cloud of the old world rains darkness upon us, we are asked to swim in the rivers of lava that will make the new. “Almost it would appear that it is useless in such confusion to ask,” wrote Virginia Woolf of such times, “those questions as to what, and why, and wherefore.” Unlike her staunchly secularized contemporaries, who shuddered to speak of the soul for fear of being seen as anti-intellectual, Woolf dev",
-      "date": "Tue, 22 Sep 2026",
+      "title": "Inner Space, Outer Space, and How to Be an Astronaut in the Cosmos of Connection: Eric Berne on the Key to True Intimacy",
+      "url": "https://www.themarginalian.org/2026/09/28/eric-berne-intimacy/",
+      "description": "\"A star is the glowing light inside the other person, distantly seen, brave soul’s tiny flame, too bright to approach without great courage and integrity.\"",
+      "date": "Mon, 28 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "How to Fall in Love Better: A Field Guide to Enlightened Enchantment",
-      "url": "https://www.themarginalian.org/2026/09/24/love-enchantment/",
-      "description": "Enchantment, J.R.R. Tolkien believed, is “as necessary for the health and complete functioning of the Human as is sunlight for physical life.” But enchantment is a story we tell ourselves that tells us back to ourselves, and like every story, it can be true or false. Love is the most powerful enchantment we know, the most transformative if true and the most dangerous if false. “When we are falsely enchanted, we desire either to possess the enchanting being or be possessed by it,” W.H. Auden obse",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 29
-      }
-    },
-    {
-      "title": "Emerson on How to Trust Yourself",
-      "url": "https://www.themarginalian.org/2026/09/24/emerson-character-solitude-nature/",
-      "description": "\"It is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude.\"",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "The Vampire Problem: The Paradoxical Psychology of Why It Is So Hard to Change",
-      "url": "https://www.themarginalian.org/2026/09/22/transformative-experience-vampire-problem/",
-      "description": "\"Many of [life's] big decisions involve choices to have experiences that teach us things we cannot know about from any other source but the experience itself.\"",
-      "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
+        "total": 24
       }
     },
     {
@@ -116,22 +84,6 @@
       }
     },
     {
-      "title": "The Three Elements of the Good Life",
-      "url": "https://www.themarginalian.org/2026/09/23/carl-rogers-good-life/",
-      "description": "To be a true person is to be entirely oneself in every circumstance, with all the courage and vulnerability this requires. And yet because a person is a confederacy of parts often at odds and sometimes at war with each other, being true is not a pledge to be a paragon of cohesion, predictable and perfectly self-consistent — the impossibility of that is the price of our complex consciousness — but a promise to own every part of yourself, even those that challenge your preferred self-image and fal",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
       "title": "Hermann Hesse on Discovering the Soul Beneath the Self and the Key to Finding Peace",
       "url": "https://www.themarginalian.org/2026/09/26/hesse-soul/",
       "description": "\"Self-hate is really the same thing as sheer egoism, and in the long run breeds the same cruel isolation and despair.\"",
@@ -145,6 +97,22 @@
         "flaneur": 8,
         "novelty": 5,
         "total": 23
+      }
+    },
+    {
+      "title": "What Happens When We Die",
+      "url": "https://www.themarginalian.org/2026/09/30/alan-lightman-death/",
+      "description": "\"How can a creature who will certainly die have an understanding of things that will exist forever?\"",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -180,6 +148,38 @@
       }
     },
     {
+      "title": "How to Say “YES” to Life",
+      "url": "https://www.themarginalian.org/2026/10/01/yes/",
+      "description": "It started with an urn for living gone wrong, the clay kiltering off center, resisting my every effort to force it back into shape. The harder I pushed to control it, the more it took on a life of its own, folding like flesh, bending like mind. I pushed and despaired, pushed and despaired, until, exhausted and exasperated, I gave up and simply let my hands follow the momentum of the clay, saying “YES” to its will. And then, magic: I watched the vessel turn into what I could have never imagined, ",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "David Bowie Answers the Famous Proust Questionnaire",
+      "url": "https://www.themarginalian.org/2026/09/29/david-bowie-proust-questionnaire-vanity-fair/",
+      "description": "\"Q: What do you regard as the lowest depth of misery? A: Living in fear.\"",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Do Not Spare Yourself: An Antidote to Feeling Like You Are Waiting to Start Living",
       "url": "https://www.themarginalian.org/2026/09/27/no-te-salves/",
       "description": "The only thing more dangerous than wanting to save another person — a dangerous desire too often mistaken for love — is wanting to save yourself, to spare yourself the disappointment and heartbreak and loss inseparable from being a creature with hopes and longings constantly colliding with reality, with the indifference of time and chance, with the opposing hopes and longings of others. We have, of course, always invented institutions of salvation — religion to save us from our sins, therapy to ",
@@ -196,10 +196,10 @@
       }
     },
     {
-      "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/09/22/dostoyevsky-execution-life/",
-      "description": "\"To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that’s what life is all about, that's its task.\"",
-      "date": "Tue, 22 Sep 2026",
+      "title": "Bertrand Russell on the Secret of Happiness",
+      "url": "https://www.themarginalian.org/2026/09/28/bertrand-russell-happiness/",
+      "description": "\"Let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile.\"",
+      "date": "Mon, 28 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "A Stoic’s Key to Peace of Mind: Seneca on the Antidote to Anxiety",
-      "url": "https://www.themarginalian.org/2026/09/23/seneca-anxiety/",
-      "description": "\"There are more things ... likely to frighten us than there are to crush us; we suffer more often in imagination than in reality.\"",
-      "date": "Wed, 23 Sep 2026",
+      "title": "Richard Dawkins on the Luckiness of Death",
+      "url": "https://www.themarginalian.org/2026/10/01/richard-dawkins-death/",
+      "description": "\"The potential people who could have been here in my place but who will in fact never see the light of day outnumber the sand grains of Arabia.\"",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -228,19 +228,19 @@
       }
     },
     {
-      "title": "The Science of Waiting and the Art of Delay",
-      "url": "https://www.themarginalian.org/2026/09/21/wait-frank-partnoy/",
-      "description": "Exploring the intersection of time and decision-making to shine a light on what it means to be human.",
-      "date": "Mon, 21 Sep 2026",
+      "title": "James Baldwin’s Advice on Writing",
+      "url": "https://www.themarginalian.org/2026/09/30/james-baldwin-advice-on-writing/",
+      "description": "\"Talent is insignificant. I know a lot of talented ruins. Beyond talent lie all the usual words: discipline, love, luck, but most of all, endurance.\"",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 0,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 0
+        "total": 5
       }
     }
   ]

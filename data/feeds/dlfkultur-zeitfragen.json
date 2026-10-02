@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-09-27T20:07:58.447066+00:00",
+  "fetchedAt": "2026-10-02T10:14:33.896756+00:00",
   "items": [
     {
       "title": "Gesundheitstrend Breathwork - Was Atmen bewirken kann",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "Das gebrochene Versprechen der Maschinen",
-      "url": "https://www.deutschlandfunkkultur.de/endlich-faul-sein-das-gebrochene-versprechen-der-maschinen-100.html",
-      "description": "Maschinen sollten die Arbeit erleichtern und uns mehr Freiheit schenken. Doch oft erhöhen sie Tempo und Leistungsdruck. Mit dem Einsatz von KI und Robotern stellt sich die alte Frage neu: Warum arbeiten wir eigentlich immer mehr – statt weniger? Land, Ulrich www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 01 Sep 2026",
+      "title": "Kunstfreiheit: Wie Osteuropas Künstler autoritären Regierungen trotzen",
+      "url": "https://www.deutschlandfunkkultur.de/feindbild-kunst-wie-osteuropas-kuenstlerinnen-autoritaeren-regierungen-trotzen-100.html",
+      "description": "Was passiert, wenn Kunst dem Staat plötzlich als Feindbild gilt? Eine Reise zu Künstlerinnen und Künstlern in Polen, der Slowakei und Serbien mit der Frage: Können ihre Erfahrungen ein Blaupause für Deutschland sein? Ressel, Siegfried www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 45,
+      "priority": 43,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 45
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 43
       }
     },
     {
@@ -65,6 +65,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Zwischen Kometen und Labor - Wo beginnt das Leben?",
+      "url": "https://www.deutschlandfunkkultur.de/wo-beginnt-leben-zwischen-kometen-und-labor-100.html",
+      "description": "Wie aus Mikroben Pflanzen und Menschen wurden, kann die Biologie erklären. Woher die erste Zelle kam, weiß sie bis heute nicht. Inzwischen stellen Forschende die frühe Erde im Labor nach und prüfen, was dort tatsächlich abläuft. Tolzmann, Jan www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Barrierefreiheit im Netz per Gesetz: Eine Bilanz nach einem Jahr",
+      "url": "https://www.deutschlandfunkkultur.de/barrierefreiheit-im-netz-gesetz-100.html",
+      "description": "Onlinebanking, Ticketkauf, Shopping: Nur ein Bruchteil der digitalen Infrastrukturen ist barrierefrei. Seit letztem Jahr verpflichtet ein Gesetz Unternehmen dazu, ihre Angebote inklusiv zu gestalten. Was hat sich seitdem getan? (Aktualisierte Wdh. vom 30.06.26) Morgenthaler, Ronja www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -97,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Steueroasen in Deutschland - Kann denn Steuernsparen Sünde sein?",
+      "url": "https://www.deutschlandfunkkultur.de/steueroasen-deutschland-gewerbesteuer-100.html",
+      "description": "Ein leeres Büro, ein Firmenschild und schon fließen Millionen. Gemeinden locken milliardenschwere Unternehmen mit Dumping-Steuersätzen an. Doch anderswo fehlt das Geld für Schulen, Kitas und Straßen. Wer zahlt am Ende die Zeche? Kiesel, Heiner www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 24
       }
     },
     {
@@ -164,22 +212,6 @@
       }
     },
     {
-      "title": "Die neue Wirklichkeit der Geschlechtskrankheiten",
-      "url": "https://www.deutschlandfunkkultur.de/sex-syphilis-superkeime-die-neue-wirklichkeit-der-geschlechtskrankheiten-100.html",
-      "description": "Dating-Apps, sexuelle Freiheit und moderne Aids-Prävention verändern unseren Umgang mit Sex: Die Zahl der Geschlechtskrankheiten steigt seit Jahren. Doch das ist nicht nur eine schlechte Nachricht. Penzel, Marius www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
       "title": "Auf die Straße! Über die Macht der Proteste",
       "url": "https://www.deutschlandfunkkultur.de/auf-die-strasse-ueber-die-macht-der-strassenproteste-100.html",
       "description": "Der Straßenprotest hat eine lange Geschichte. Auch im Internetzeitalter wird er genutzt, um Positionen klar zu machen und Rechte durchzusetzen - überall auf der Welt. Was verbindet die Protestgenerationen über die Jahrzehnte hinweg? Fuchs, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -200,38 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/breaking-news-9-11-als-medienereignis-100.html",
       "description": "Die Anschläge auf das World Trade Center in New York am 11. September 2001 erschütterten die Welt - auch durch dramatische Bilder in Echtzeit. Medien verstärkten die Wirkung des Terrors. Welche Lehren lassen sich aus der Berichterstattung ziehen? Spittler, Christoph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
       "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Nach 9/11 - Die lange Spur des Islamismus in Deutschland",
-      "url": "https://www.deutschlandfunkkultur.de/25jahre-nach-9-11-die-lange-spur-des-islamismus-in-deutschland-100.html",
-      "description": "Die Anschläge vom 11. September 2001 in den USA haben auch Deutschlands Sicherheitsarchitektur grundlegend verändert: Sie schufen ein neues Bewusstsein für die Gefahr. Al-Qaida oder der IS rückten in den Fokus - und mit ihnen weitere Islamisten. Röhmel, Joseph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 07 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "80 Jahre RIAS - Nachbar, Popstar, kalter Krieger",
-      "url": "https://www.deutschlandfunkkultur.de/nachbar-popstar-kalter-krieger-80-jahre-rias-100.html",
-      "description": "Mit dem Kalten Krieg wurde ein Radiosender zur Stimme Westberlins. Millionen Menschen, auch in der DDR, hörten dem Radio im amerikanischen Sektor zu. Der RIAS berichtete über Blockade, Aufstand und Mauerbau. Vor 80 Jahren ging er auf Sendung. Von Ralf Bei der Kellen, Martin Hartwig und Lydia Heller www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

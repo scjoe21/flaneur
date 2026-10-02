@@ -1,22 +1,22 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-09-27T20:07:34.747623+00:00",
+  "fetchedAt": "2026-10-02T10:14:03.625380+00:00",
   "items": [
     {
-      "title": "Écrans, IA, réseaux sociaux : et si on arrêtait de dire que les jeunes sont devenus « débiles » ?",
-      "url": "https://usbeketrica.com/fr/article/ecrans-ia-reseaux-sociaux-et-si-on-arretait-de-dire-que-les-jeunes-sont-devenus-debiles",
-      "description": "Nos enfants sont-ils vraiment devenus des crétins digitaux ? Attention, anxiété, sommeil, solitude, pornographie : le pédopsychiatre Bruno Falissard a épluché la littérature scientifique pour faire le point sur l’impact des écrans sur nos enfants et ados. Entretien.",
-      "date": "Thu, 17 Sep 2026",
+      "title": "Comment en finir avec la tyrannie du présent en politique ?",
+      "url": "https://usbeketrica.com/fr/article/comment-en-finir-avec-la-tyrannie-du-present-en-politique-interview-pierre-rosanvallon",
+      "description": "Notre époque est en mal d’avenir. Face à la crise climatique et aux crispations économiques, sociales et géopolitiques, hommes d’État et citoyens semblent avoir renoncé à se projeter. Une victoire du court-termisme que l’historien et sociologue Pierre Rosanvallon dissèque dans son dernier ouvrage, La Tyrannie du présent (Seuil, 2026), nouvel opus de son cycle de réflexion sur la « crise démocratique » que traversent nos sociétés. Entretien.",
+      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 29,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 30,
+        "phil": 5,
         "flaneur": 4,
-        "novelty": 5,
-        "total": 29
+        "novelty": 0,
+        "total": 39
       }
     },
     {
@@ -36,35 +36,19 @@
       }
     },
     {
-      "title": "« IApocalypse » : pourquoi OpenAI et Anthropic agitent le scénario du pire",
-      "url": "https://usbeketrica.com/fr/article/iapocalypse-pourquoi-openai-et-anthropic-agitent-le-scenario-du-pire",
-      "description": "Depuis la démission fracassante du chercheur Jacob Coxon de son poste au sein du géant de l’IA Anthropic, début septembre, les alertes catastrophistes se multiplient. Coups marketing ou reflet d’un vrai risque galopant ? Décryptage.",
-      "date": "Thu, 17 Sep 2026",
+      "title": "3 métiers du futur pour mieux gérer votre argent",
+      "url": "https://usbeketrica.com/fr/article/demain-saurons-nous-gerer-notre-argent",
+      "description": "Money doctor, coach patrimonial de famille ou prospectiviste ès fortune… Ces trois professions qui n’existent pas encore tout à fait sont-elles pertinentes ? Sous quelles conditions ? La réponse avec Audrey Koenig, directrice générale de Natixis Wealth Management, et Benoît Peloille, Chief Investment Officer de la branche.",
+      "date": "Mon, 28 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "4 romans de science-fiction pour repenser la solitude",
-      "url": "https://usbeketrica.com/fr/article/4-romans-de-science-fiction-pour-repenser-la-solitude",
-      "description": "La solitude a toujours été un thème sous-jacent de la science-fiction. Qu’il s’agisse de décrire le rapport de l’homme à l’immensité de l’espace ou notre isolement face à l’altérité, la thématique est présente dans une kyrielle d’œuvres, allant du space opera à la dystopie post-apocalyptique. Dans le dossier dédié à la solitude de notre magazine n°49, on vous partageait une sélection de roman qui explorent cette thématique.",
-      "date": "Sat, 12 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 19
+        "total": 15
       }
     },
     {
@@ -180,22 +164,6 @@
       }
     },
     {
-      "title": "Le jour où il faudra arrêter de parler pour sauver l'humanité",
-      "url": "https://usbeketrica.com/fr/article/le-jour-ou-il-faudra-arreter-de-parler-pour-sauver-l-humanite",
-      "description": "FICTION LECTEUR // En 2028, l’OMS interdit la voix humaine. Les chefs d’État donnent six semaines pour constituer ses archives vocales personnelles. Dans cette fiction prospective, Adrien Moret, Directeur de la stratégie de l'agence de communication luxe HELMUT et lecteur d'Usbek & Rica,  imagine ce que le silence aurait à nous dire si il s'imposait...",
-      "date": "Thu, 10 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 8,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 8
-      }
-    },
-    {
       "title": "C’est prouvé, lire pour le plaisir fait du bien à votre cerveau",
       "url": "https://usbeketrica.com/fr/article/c-est-prouve-lire-pour-le-plaisir-fait-du-bien-a-votre-cerveau",
       "description": "Une étude de l’université Cambridge pointe les nombreux bienfaits associés à la lecture « pour le plaisir », c’est-à-dire effectuée «de plein gré, en anticipant la satisfaction que procurera l’acte de lire ». Chez les enfants et les adolescents, mais pas que.",
@@ -212,19 +180,51 @@
       }
     },
     {
-      "title": "La « route de la soie polaire », vraie alternative et mirage géopolitique ?",
-      "url": "https://usbeketrica.com/fr/article/la-route-de-la-soie-polaire-vraie-alternative-et-mirage-geopolitique-chine-russie",
-      "description": "Le recul des glaciers de l’Arctique trace un nouveau passage pour la flotte de commerce entre l’Asie et l’Europe. Un raccourci établi dans un contexte géopolitique sous tension, révélant les nouvelles ambitions sino-russes dans le commerce maritime et fragilisant l'écosystème qu'il traverse.",
-      "date": "Mon, 14 Sep 2026",
+      "title": "Qui de la Chine ou des États-Unis remportera la course à l’IA ?",
+      "url": "https://usbeketrica.com/fr/article/qui-de-la-chine-ou-des-etats-unis-remportera-la-course-a-l-ia",
+      "description": "Parti vivre en Chine de 2017 à 2023, Dan Wang a tiré de son long séjour une lecture singulière de l’accélérationnisme made in China, de la vision du futur du pays et du modèle américain auquel il se mesure. Une réflexion qu’il développe avec rigueur dans son nouvel essai, La Chine à toute vitesse. Entretien.",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "L’immobilité est devenue le vrai risque : ayons du culot en entreprise",
+      "url": "https://usbeketrica.com/fr/article/l-immobilite-est-devenue-le-vrai-risque-ayons-du-culot-en-entreprise",
+      "description": "En amont du salon BIG de Bpifrance, qui se tiendra le 8 octobre à l'Accor Arena pour une 12e édition placée sous le signe du culot, Paul-François Fournier, directeur exécutif Innovation de Bpifrance et auteur d'Innovation² (Anne Carrière, 2024), appelle les grands groupes à oser se transformer pour passer à l'échelle les innovations des start-up.",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "On a vu « Digger », la comédie catastrophe la plus attendue de la rentrée",
+      "url": "https://usbeketrica.com/fr/article/on-a-vu-digger-la-comedie-catastrophe-la-plus-attendue-de-la-rentree",
+      "description": "Un Tom Cruise survolté campe Digger Rockwell, dirigeant d’une compagnie pétrolière surpuissante, sur le point de déclencher une catastrophe planétaire. En salles ce mercredi 30 septembre.",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

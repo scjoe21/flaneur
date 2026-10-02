@@ -1,13 +1,45 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-09-27T20:07:51.478115+00:00",
+  "fetchedAt": "2026-10-02T10:14:27.314778+00:00",
   "items": [
     {
-      "title": "How to uncover your blind spots",
-      "url": "https://psyche.co/guides/how-to-uncover-your-blind-spots",
-      "description": "We all have parts of ourselves others know but we don’t. Gain greater self-awareness by seeing yourself from the outside in - by Jennifer Farrell Read on Psyche",
-      "date": "Mon, 14 Sep 2026",
+      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
+      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
+      "description": "As a neurosurgeon and a son, I’ve come to see the parallel processes underlying growing tumours and stressed-out minds - by Sasi S Senga Read on Psyche",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "When you feel moral disgust, what’s the emotion telling you?",
+      "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
+      "description": "Some actions and words provoke instant revulsion. To know if we can trust that gut feeling, we should probe why we have it - by Brandon Yip Read on Psyche",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Can he teach the teachers?",
+      "url": "https://psyche.co/portraits/he-mapped-the-learning-brain-then-came-the-hard-part",
+      "description": "The neuroscientist Stanislas Dehaene wants to bring four decades of findings on how the brain learns into the classroom. But evidence alone can’t overcome the politics in education - by Nancy Averett Read on Psyche",
+      "date": "Mon, 28 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -36,58 +68,26 @@
       }
     },
     {
-      "title": "How to cope with the stress of anti-LGBTQ+ prejudice",
-      "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
-      "description": "A queer psychologist shares skills from dialectical behaviour therapy to help you cope and find joy in a stigmatising world - by Kiki Fehling Read on Psyche",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "My name is Annabel",
-      "url": "https://psyche.co/videos/step-into-the-joyful-world-of-annabel-a-performer-with-down-syndrome",
-      "description": "A creative collaboration between participant and filmmaker explores how it feels to live and perform with Down syndrome - Directed by Ida Joglar Watch on Psyche",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Why women’s laughter has long been treated as a threat",
-      "url": "https://psyche.co/ideas/why-womens-laughter-has-long-been-treated-as-a-threat",
-      "description": "Traditional patriarchy has always told women not to laugh. Today, female laughter still disturbs a male-dominated world - by Abílio Almeida Read on Psyche",
-      "date": "Fri, 11 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "The way we talk to bots matters even if they aren’t conscious",
       "url": "https://psyche.co/ideas/the-way-we-talk-to-bots-matters-even-if-they-arent-conscious",
       "description": "If more and more of our daily interactions are ungracious exchanges with machines, we should expect it to change us - by HennyGe Wichers Read on Psyche",
       "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "How to find calm and joy as a queer person",
+      "url": "https://psyche.co/guides/how-to-cope-with-the-stress-of-anti-lgbtq-prejudice",
+      "description": "A queer psychologist shares skills from dialectical behaviour therapy to help you care for yourself in a stigmatising world - by Kiki Fehling Read on Psyche",
+      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -116,22 +116,6 @@
       }
     },
     {
-      "title": "Terminal lucidity: when dying dementia patients regain awareness",
-      "url": "https://psyche.co/ideas/terminal-lucidity-when-dying-dementia-patients-regain-awareness",
-      "description": "The reports span centuries and cultures. If they’re real, memory and identity might be far more recoverable than we thought - by Ariel Zeleznikow-Johnston Read on Psyche",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Lesser choices",
       "url": "https://psyche.co/videos/an-intimate-account-of-illegal-abortion-in-1969-from-mother-to-daughter",
       "description": "Estelle recalls being blindfolded and fearful in Mexico City – a timely vision of a world without abortion rights - Directed by Courtney Stephens Watch on Psyche",
@@ -145,6 +129,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Ask me anything",
+      "url": "https://psyche.co/videos/what-happens-when-a-sudanese-refugee-lets-strangers-ask-him-anything",
+      "description": "As the Netherlands adopts its strictest-ever asylum policy, Abdulaal Hussein creates space for candid conversation - Directed by Wyneke van Nieuwenhuyzen Watch on Psyche",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -180,19 +180,51 @@
       }
     },
     {
-      "title": "A brief history of Viagra",
-      "url": "https://psyche.co/videos/viagra-has-its-upsides-sure-but-has-it-changed-sex-for-the-better",
-      "description": "Discovered by accident, it became the fastest-selling drug of the century. Did it revolutionise sex or reinforce old ideas? - Video by BBC Ideas, The Open University Watch on Psyche",
-      "date": "Wed, 16 Sep 2026",
+      "title": "Journaling to remember",
+      "url": "https://psyche.co/notes-to-self/remembering-the-ephemera-of-my-life-gives-it-meaning",
+      "description": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "The full-service grandad",
+      "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
+      "description": "I thought I was a present father; my sons said otherwise. When my granddaughter arrived I made an offer - by Liam Heneghan Read on Psyche",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The end of humanity",
+      "url": "https://psyche.co/videos/when-tech-titans-tell-us-to-adapt-or-die-we-neednt-listen",
+      "description": "Instead of accepting that humanity will soon be obsolete, we can build a better future with respect for human traditions - A film by Andreas Dürr and Jan-Marc Furer Watch on Psyche",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://psyche.co/ideas/what-does-it-mean-to-have-relationship-ambivalence",
       "description": "When a relationship provokes both strong positive and negative feelings in you, it can take a toll – here’s what’s going on - by Francesca Righetti Read on Psyche",
       "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Go ahead, jump on the bandwagon",
-      "url": "https://psyche.co/notes-to-self/why-we-should-embrace-fair-weather-fandom",
-      "description": "Rooting for a team and other collective experiences are opportunities to be seized – even if only once in a while - by Hannah Seo Read on Psyche",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Say yes to regret",
-      "url": "https://psyche.co/turning-points/how-a-to-do-task-stopped-the-ruminative-loop-of-my-grief",
-      "description": "After my husband died, I fell into a dark ruminative spiral. The way back would begin at 2pm tomorrow - by Sandra Lamb Read on Psyche",
-      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

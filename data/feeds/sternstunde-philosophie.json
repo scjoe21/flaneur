@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-09-27T20:07:40.975613+00:00",
+  "fetchedAt": "2026-10-02T10:14:19.080409+00:00",
   "items": [
     {
       "title": "Wie Tiere den Tod verstehen – und was das über uns verrät | Sternstunde Philosophie | SRF Kultur",
@@ -100,19 +100,35 @@
       }
     },
     {
-      "title": "Wie sieht die Zukunft des Sterbens aus? | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=l0eNcB3ELSA",
-      "description": "Die Arbeit von Sterbeforscherin Elisabeth Kübler-Ross veränderte den Umgang mit dem Tod grundlegend. Diese Tage hätte sie ihren 100. Geburtstag gefeiert. Und heute, in einer zunehmend alternden Gesellschaft, stellt sich dringlicher denn je die Frage: Wie werden wir in Zukunft sterben? \n\nThemen in dieser Folge:\n00:00 Was bedeutet es, sich rechtzeitig auf den Tod vorzubereiten? \n06:58 Stirbt es sich als gläubiger Mensch einfacher, wenn man an ein Leben nach dem Tod glaubt? \n15:02 Was meint G.D. Bo",
-      "date": "2026-06-29",
-      "thumbnail": "https://i1.ytimg.com/vi/l0eNcB3ELSA/hqdefault.jpg",
-      "videoId": "l0eNcB3ELSA",
-      "priority": 40,
+      "title": "Saving the world with chemistry? Nobel Laureate Omar Yaghi | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=i0Vw1pQsXRI",
+      "description": "His life story is the stuff of movies: A Palestinian refugee boy becomes a Nobel laureate in chemistry. His research has the potential to change the world: It extracts drinking water from the air and could reduce CO2 emissions. Barbara Bleisch meets this exceptional talent.\n\nTopics in this episode:\n00:00 How did you find out about the Nobel Prize nomination?\n10:24 What are MOFs?\n26:00 How did you get into chemistry?\n39:44 Has the ‘American Dream’ come true for you?\n\n🔔 Subscribe to SRF Kultur Ste",
+      "date": "2026-09-28",
+      "thumbnail": "https://i2.ytimg.com/vi/i0Vw1pQsXRI/hqdefault.jpg",
+      "videoId": "i0Vw1pQsXRI",
+      "priority": 39,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
+    {
+      "title": "Die Welt retten mit Chemie? Nobelpreisträger Omar Yaghi | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=GT_5cWTzJ1g",
+      "description": "Seine Lebensgeschichte ist filmreif: Aus einem palästinensischen Flüchtlingsjungen wird ein Nobelpreisträger in Chemie. Seine Forschungsarbeiten haben das Zeug, die Welt zu verändern: Sie könnten CO2-Emmissionen senken und Trinkwasser aus der Luft gewinnen. Barbara Bleisch trifft das Ausnahmetalent.\n\nThemen in dieser Folge:\n00:00 Wie haben Sie von der Nobelpreis-Nomination erfahren? \n10:24 Was sind MOFs? \n26:00 Wie kamen Sie zur Chemie? \n39:44 Ist für Sie der «American Dream» wahr geworden?\n\nWas",
+      "date": "2026-09-28",
+      "thumbnail": "https://i4.ytimg.com/vi/GT_5cWTzJ1g/hqdefault.jpg",
+      "videoId": "GT_5cWTzJ1g",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
+        "total": 35
       }
     },
     {
@@ -224,22 +240,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Achtsamkeit – Wird uns hier was vorgegaukelt, Kathrin Fischer?",
-      "url": "https://www.youtube.com/watch?v=GhnYbEMYXRA",
-      "description": "Kathrin Fischer hinterfragt in ihrem Buch „Achtsam geht die Welt zugrunde“ den Boom der Achtsamkeit und bezeichnet ihn sogar als Ideologie. Statt Gelassenheit fordert sie Wut – als Antwort auf eine Welt, die Überforderung individualisiert. Ist Achtsamkeit wirklich eine Mogelpackung?\n\nWas, wenn Achtsamkeit nicht befreit, sondern befriedet? Die Podcasterin und Buchautorin Kathrin Fischer argumentiert gegen den Trend, individuelles Verhalten zu optimieren, statt gesellschaftliche Verhältnisse zu ve",
-      "date": "2026-06-30",
-      "thumbnail": "https://i4.ytimg.com/vi/GhnYbEMYXRA/hqdefault.jpg",
-      "videoId": "GhnYbEMYXRA",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 15
       }
     }

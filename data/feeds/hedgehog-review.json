@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-09-27T20:08:03.317319+00:00",
+  "fetchedAt": "2026-10-02T10:14:38.380724+00:00",
   "items": [
     {
       "title": "Twain’s Patriotism",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Do Insects Matter More than People?",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/do-insects-matter-more-than-people",
+      "description": "On insects and philosophy.",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -40,6 +56,22 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/slouching-toward-paris",
       "description": "Two memoirs from the Theory Generation.",
       "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "She Also Found It at the Movies",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
+      "description": "Pauline Kael’s film criticism was useless to me but I loved reading her reviews anyway.",
+      "date": "Wed, 02 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -116,42 +148,10 @@
       }
     },
     {
-      "title": "She Also Found It at the Movies",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
-      "description": "",
-      "date": "Wed, 02 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
       "title": "Growing Old in Academe",
       "url": "https://hedgehogreview.com/web-features/thr/posts/growing-old-in-academe",
       "description": "When my gossip cohort disappeared, I knew I had been hanging on to teaching too long.",
       "date": "Wed, 19 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Read the Novels and Forget Everything Else",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-      "description": "Patrick O’Brian’s life may have been one of dissimulation but his Aubrey-Maturin novels still offer the nutmeg of consolation for thousands of readers.",
-      "date": "Wed, 29 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

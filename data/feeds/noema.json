@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-09-27T20:07:53.830934+00:00",
+  "fetchedAt": "2026-10-02T10:14:29.429621+00:00",
   "items": [
     {
       "title": "Why China Will Rule AI",
@@ -52,35 +52,35 @@
       }
     },
     {
-      "title": "A New Kind Of Creative Poverty",
-      "url": "https://www.noemamag.com/a-new-kind-of-creative-poverty",
-      "description": "The post  A New Kind Of Creative Poverty  appeared first on  NOEMA .",
-      "date": "Wed, 09 Sep 2026",
+      "title": "The AIs Are Not Going Rogue",
+      "url": "https://www.noemamag.com/the-ais-are-not-going-rogue",
+      "description": "The post  The AIs Are Not Going Rogue  appeared first on  NOEMA .",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Your Perception Of Time Is, In Fact, Warped",
-      "url": "https://www.noemamag.com/your-perception-of-time-is-in-fact-warped",
-      "description": "The post  Your Perception Of Time Is, In Fact, Warped  appeared first on  NOEMA .",
-      "date": "Thu, 03 Sep 2026",
+      "title": "Noema’s AI Reading List",
+      "url": "https://www.noemamag.com/noemas-ai-reading-list",
+      "description": "The post  Noema’s AI Reading List  appeared first on  NOEMA .",
+      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

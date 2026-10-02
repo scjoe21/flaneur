@@ -1,24 +1,8 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-09-27T20:08:07.669548+00:00",
+  "fetchedAt": "2026-10-02T10:14:42.395860+00:00",
   "items": [
-    {
-      "title": "労働の発明―アダム・スミスと17世紀",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/idonotlikework/36666",
-      "description": "アダム・スミスは、前回紹介したマンデヴィルが投げかけた「豊かさと道徳は共存可能か」という問いに正面から向き合い、両者は共存できると主張した経済学者でした。『国富論』の17年前に書かれた、もう一つの主著『道徳感情論』にお […]",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
     {
       "title": "なぜ極右はメディアに強いのか",
       "url": "https://shinsho-plus.shueisha.co.jp/column/nazekyokuu_france/36819",
@@ -33,22 +17,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
-      }
-    },
-    {
-      "title": "【選択的夫婦別姓】なぜ旧姓の通称使用こそが「戸籍の根幹」を揺るがすのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/news/36702",
-      "description": "高市政権は、「戸籍の根幹」が揺らぐとして「選択的夫婦別姓」ではなく「旧姓の通称使用」を進めようとしている。ここでいう「戸籍の根幹」とは、戸籍が家族の同姓を定めていることを指しているようである。 　しかし戸籍は、もともと […]",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -84,6 +52,22 @@
       }
     },
     {
+      "title": "悲惨なイメージが繫ぐもの",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/tadashi_tamura/36826",
+      "description": "塚本晋也監督の映画『ネルソンさん、あなたは人を殺しましたか？』を観に行った。一八歳で米軍の海兵隊に入隊しヴェトナム戦争に従軍したアレン・ネルソンが、帰還後にPTSDをわずらい、苦しみながら、そこから抜け出すことを目指し […]",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "自由は、管理の反対側にあるのではない",
       "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/36808",
       "description": "前回、私はクロスプレイ東松山を「余計なお世話としてのアート」と呼んでみました。　もちろん、それは悪口ではありません。デイサービスという、時間も役割も責任も細かく組まれた場所に、アーティストが滞在する。そのこと自体が、す […]",
@@ -100,19 +84,35 @@
       }
     },
     {
-      "title": "コロニアルからポストコロニアルへ　歴史の生き証人マハティールの語る平和論",
-      "url": "https://shinsho-plus.shueisha.co.jp/review/36732",
-      "description": "今年101歳を迎えたマハティールは、類いまれな記憶力と医師として培った論理的思考力、観察力とを備え、1964年に国会議員となり1981年に首相に就任、2020年に二度目の政権を退くまで通算約24年間国政を率いてきた。本 […]",
-      "date": "Fri, 18 Sep 2026",
+      "title": "【11月7日】『ショパン・コンクールよ、どこへいく』刊行記念対談イベントを開催！",
+      "url": "https://shinsho-plus.shueisha.co.jp/information/36915",
+      "description": "2026年11月7日　17:00～18:30 会員　4,323円 一般　5,423円 朝日カルチャーセンター・横浜教室 https://www.asahiculture.com/asahiculture/wp/schoo […]",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "「レクリエーション」では収まらない！？",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/36906",
+      "description": "デイサービスには、「レクリエーション」と呼ばれる時間があります。昼食のあと、フロアの椅子の向きが少し変わり、職員が前に立つ。今日は歌なのか、体操なのか、季節に合わせた制作やクイズなのか。利用者さんはそれぞれの席で、その […]",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

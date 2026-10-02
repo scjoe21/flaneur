@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-09-27T20:07:33.999063+00:00",
+  "fetchedAt": "2026-10-02T10:14:02.321792+00:00",
   "items": [
     {
       "title": "La fausse générosité",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "5 choses que vous faites sans savoir pourquoi",
+      "url": "https://www.youtube.com/shorts/M47yjTXieDI",
+      "description": "Et vous, laquelle de ces cinq choses vous correspond le plus ?",
+      "date": "2026-10-01",
+      "thumbnail": "https://i2.ytimg.com/vi/M47yjTXieDI/hqdefault.jpg",
+      "videoId": "M47yjTXieDI",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -180,19 +196,19 @@
       }
     },
     {
-      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
-      "url": "https://www.youtube.com/shorts/RhMeiWDQgew",
-      "description": "Complétez ma liste en commentaire ⬇️",
-      "date": "2026-09-04",
-      "thumbnail": "https://i3.ytimg.com/vi/RhMeiWDQgew/hqdefault.jpg",
-      "videoId": "RhMeiWDQgew",
-      "priority": 5,
+      "title": "5 choses qui vous empêchent d'être heureux",
+      "url": "https://www.youtube.com/shorts/PEbQZeIdNRQ",
+      "description": "Et vous, laquelle de ces choses vous empêche le plus d'être heureux ?",
+      "date": "2026-09-29",
+      "thumbnail": "https://i1.ytimg.com/vi/PEbQZeIdNRQ/hqdefault.jpg",
+      "videoId": "PEbQZeIdNRQ",
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-09-15",
       "thumbnail": "https://i2.ytimg.com/vi/IQ7ZYala-Lw/hqdefault.jpg",
       "videoId": "IQ7ZYala-Lw",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Tier list des philosophes par ordre de difficulté",
-      "url": "https://www.youtube.com/shorts/Zfv1SIJM1kA",
-      "description": "Êtes-vous d'accord avec mon classement ?",
-      "date": "2026-09-02",
-      "thumbnail": "https://i3.ytimg.com/vi/Zfv1SIJM1kA/hqdefault.jpg",
-      "videoId": "Zfv1SIJM1kA",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

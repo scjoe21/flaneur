@@ -1,24 +1,8 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-09-27T20:07:50.548290+00:00",
+  "fetchedAt": "2026-10-02T10:14:26.687900+00:00",
   "items": [
-    {
-      "title": "Once upon a screen: explosive paradox",
-      "url": "https://aeon.co/videos/are-we-ever-really-done-seeing-a-movie-on-platoon-and-memory",
-      "description": "Decades after seeing ‘Platoon’, Kevin recalls how the film stirred generational trauma in his family and racism at school - by Aeon Video Watch on Aeon",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
-      }
-    },
     {
       "title": "How the West was fun",
       "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
@@ -52,10 +36,10 @@
       }
     },
     {
-      "title": "Chasing la dolce vita",
-      "url": "https://aeon.co/essays/italianness-is-a-state-of-travelling-in-both-directions",
-      "description": "Homecomings, fantasies, food and ghosts – how the myth of eternal return keeps the Italian diaspora in a state of longing - by Ben Faccini Read on Aeon",
-      "date": "Tue, 15 Sep 2026",
+      "title": "Reason is more than a tool",
+      "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
+      "description": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -68,10 +52,10 @@
       }
     },
     {
-      "title": "The bombarding of childhood",
-      "url": "https://aeon.co/essays/its-not-just-screen-time-kids-are-bombarded-by-hectic-media",
-      "description": "It’s not just screen time: the problem with children’s media is that it has become relentlessly hectic, loud and bright - by Natalia Kucirkova Read on Aeon",
-      "date": "Mon, 14 Sep 2026",
+      "title": "Paternity is poetical",
+      "url": "https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows",
+      "description": "The notion that fatherhood and creativity are at odds is plain wrong, as both poetry and neuroscience are showing us - by Daniel Swift Read on Aeon",
+      "date": "Mon, 28 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Don’t use the ‘C-word’",
+      "url": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
+      "description": "A cancer diagnosis carries with it fear and upheaval. For many patients the cellular changes do not warrant the label - by Matthew R Cooperberg Read on Aeon",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -116,19 +116,35 @@
       }
     },
     {
-      "title": "The meaning of fake marble",
-      "url": "https://aeon.co/videos/the-millennia-long-history-of-our-obsession-with-fake-marble",
-      "description": "From ancient Roman frescoes to modern kitchen benchtops, our desire to recreate marble is about more than cutting costs - by Aeon Video Watch on Aeon",
-      "date": "Wed, 16 Sep 2026",
+      "title": "Life on a hair trigger",
+      "url": "https://aeon.co/essays/early-violence-is-a-bad-teacher-but-the-mind-can-learn-anew",
+      "description": "A world of violence sustains itself through guns, poverty and other social ills, but also through the minds it creates - by Megan Kang Read on Aeon",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Affect theory",
+      "url": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
+      "description": "In the mid-1990s, thinkers pushed back against the idea we’re built by language, turning to feeling and the body instead - by Aeon Video Watch on Aeon",
+      "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -164,22 +180,6 @@
       }
     },
     {
-      "title": "Who will taste the cherries?",
-      "url": "https://aeon.co/essays/if-computers-count-all-the-petals-who-tastes-the-cherries",
-      "description": "The computist has one dream: to debug the subjectivity out of all of human knowledge, creating a pure, frictionless world - by Liam Spradlin Read on Aeon",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Sound guardians",
       "url": "https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost",
       "description": "As Indonesia builds a new capital city, the race is on to preserve the sounds of the rainforest before they vanish forever - by Aeon Video Watch on Aeon",
@@ -196,42 +196,42 @@
       }
     },
     {
+      "title": "Green tree ants are famous in the tropics",
+      "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
+      "description": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Passportless mess",
+      "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
+      "description": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Where a land ethic blooms",
       "url": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
       "description": "Caring for this planet entails decisions that are intimate, about our farms, our homes, our human and our wild neighbours - by Craig Maier Read on Aeon",
       "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Animal eye",
-      "url": "https://aeon.co/videos/the-alien-worlds-beside-our-own-a-journey-into-animal-eyes",
-      "description": "Probing the biology, beauty and mystery of animal eyes, this short poetic documentary explores an alien world - by Aeon Video Watch on Aeon",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Penchants of the polymaths",
-      "url": "https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation",
-      "description": "The fathers of Islamic science hold lessons for students: breadth over specialisation, and never let constraints get in the way - by Mariam Sabri Read on Aeon",
-      "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

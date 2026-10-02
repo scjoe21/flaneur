@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-09-27T20:08:01.451037+00:00",
+  "fetchedAt": "2026-10-02T10:14:35.855873+00:00",
   "items": [
     {
       "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "Travel anxiety: five tips from major thinkers to calm your nerves",
-      "url": "https://theconversation.com/travel-anxiety-five-tips-from-major-thinkers-to-calm-your-nerves-284676",
-      "description": "",
-      "date": "2026-06-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "What do human relationships with chatbots say about friendship? A philosopher considers",
       "url": "https://theconversation.com/what-do-human-relationships-with-chatbots-say-about-friendship-a-philosopher-considers-284188",
       "description": "",
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 5
+      }
+    },
+    {
+      "title": "Stoicism isn’t just for men – despite what the manosphere would tell you",
+      "url": "https://theconversation.com/stoicism-isnt-just-for-men-despite-what-the-manosphere-would-tell-you-292647",
+      "description": "",
+      "date": "2026-09-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

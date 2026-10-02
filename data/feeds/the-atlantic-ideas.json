@@ -1,8 +1,72 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-09-27T20:07:53.444327+00:00",
+  "fetchedAt": "2026-10-02T10:14:29.109180+00:00",
   "items": [
+    {
+      "title": "How the Culture War Put Public Schools at Risk",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-school-vouchers-teachers-ideology/688816/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "How Biden Averted a War With Iran",
+      "url": "https://www.theatlantic.com/ideas/2026/09/israel-biden-gaza-hamas-netanyahu/688750/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Why Americans Stopped Throwing Dinner Parties",
+      "url": "https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-01",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Why Did Wallace Shawn Liken Israelis to Nazis?",
+      "url": "https://www.theatlantic.com/ideas/2026/09/wallace-shawn-israel-palestine/688822/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-29",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Why Empathy Is Now ‘Toxic,’ ‘Suicidal,’ and a ‘Sin’",
       "url": "https://www.theatlantic.com/ideas/2026/09/maga-right-christianity-empathy-toxic/688755/?utm_source=feed",
@@ -20,83 +84,131 @@
       }
     },
     {
-      "title": "The Two-Year Temper Tantrum to Come",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-white-house-press-fight/688788/?utm_source=feed",
+      "title": "Eric Schmitt’s Very Bad Day at Work",
+      "url": "https://www.theatlantic.com/ideas/2026/09/maga-senate-hearing-eric-schmitt/688839/?utm_source=feed",
       "description": "",
-      "date": "2026-09-25",
+      "date": "2026-09-30",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
-      "title": "How to Destroy a Lesbian Bar",
-      "url": "https://www.theatlantic.com/ideas/2026/09/bar-masking-greenfield-boston-globe/688772/?utm_source=feed",
+      "title": "The Great Data-Center Rebellion",
+      "url": "https://www.theatlantic.com/magazine/2026/11/data-center-resistance-movement/688671/?utm_source=feed",
       "description": "",
-      "date": "2026-09-25",
+      "date": "2026-09-30",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
-      "title": "Why <em>Fauda</em> Is So Popular in the Arab World",
-      "url": "https://www.theatlantic.com/ideas/2026/09/fauda-israeli-tv-show-popularity/688766/?utm_source=feed",
+      "title": "The Problem With Democrats’ Favorite Policy Proposal",
+      "url": "https://www.theatlantic.com/ideas/2026/09/universal-child-care-democrats/688794/?utm_source=feed",
       "description": "",
-      "date": "2026-09-24",
+      "date": "2026-09-28",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
-      "title": "Why I’m Sending My Black Son to Private School",
-      "url": "https://www.theatlantic.com/ideas/2026/09/public-school-nikole-hannah-jones/688746/?utm_source=feed",
+      "title": "A Terrible Way to Die, a Terrifying Way to Survive",
+      "url": "https://www.theatlantic.com/ideas/2026/10/christa-pike-tennessee-lethal-injection/688859/?utm_source=feed",
       "description": "",
-      "date": "2026-09-23",
+      "date": "2026-10-01",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 0
       }
     },
     {
-      "title": "Trump Should Stop Hosting Summits",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-xi-summit-china/688776/?utm_source=feed",
+      "title": "Want to Reform Democracy? Start Here.",
+      "url": "https://www.theatlantic.com/ideas/2026/10/pardon-power-congres-expand/688836/?utm_source=feed",
       "description": "",
-      "date": "2026-09-24",
+      "date": "2026-10-01",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 0
+      }
+    },
+    {
+      "title": "A Near Disaster on Flydubai",
+      "url": "https://www.theatlantic.com/ideas/2026/09/flydubai-plane-attack-israel/688848/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Only Trump Gets to Criticize the Supreme Court",
+      "url": "https://www.theatlantic.com/ideas/2026/09/trump-supreme-court-justices/688830/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Babies Left Behind in America",
+      "url": "https://www.theatlantic.com/magazine/2026/11/trump-ice-family-separation/688695/?utm_source=feed",
+      "description": "",
+      "date": "2026-09-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,118 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/09/trump-national-debt-interest-rates/688783/?utm_source=feed",
       "description": "",
       "date": "2026-09-26",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Americans Having the Most Sex",
-      "url": "https://www.theatlantic.com/ideas/2026/09/religion-sex-recession-marriage/688774/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Let’s Get Specific About These Doomsday Scenarios",
-      "url": "https://www.theatlantic.com/ideas/2026/09/ai-extinction-scenarios/688769/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Another Female Democrat Is Mean, Apparently",
-      "url": "https://www.theatlantic.com/ideas/2026/09/peltola-democratic-staffers-complain/688770/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Nikole Hannah-Jones Faced Too Much Apathy to Win",
-      "url": "https://www.theatlantic.com/ideas/2026/09/hannah-jones-school-choice-response/688758/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "David Ellison Will Get Control of CNN After All",
-      "url": "https://www.theatlantic.com/ideas/2026/09/david-ellison-cnn-control/688740/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The ‘New Word’ Trump Hates",
-      "url": "https://www.theatlantic.com/ideas/2026/09/affordability-politics-democrats-policy/688736/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Israel Can’t Postpone Its Reckoning Forever",
-      "url": "https://www.theatlantic.com/ideas/2026/09/israel-secular-religious-divide/688649/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-22",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

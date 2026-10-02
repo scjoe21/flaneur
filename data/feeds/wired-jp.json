@@ -1,13 +1,29 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-09-27T20:08:12.293006+00:00",
+  "fetchedAt": "2026-10-02T10:14:47.300703+00:00",
   "items": [
     {
-      "title": "音楽家・TOWA TEIと映像ディレクター・中村剛、AIとの“共創”を語る",
-      "url": "https://wired.jp/article/towa-tei-takeshi-nakamura-zambient-ai-interview/",
-      "description": "TOWA TEIが新アルバム『ZAMBIENT』を発売した。楽曲やMVの制作にAIを活用したという新作のキーワードは「雑」。その言葉にはどんな意図があるのか、AIとの“共創”で何が見えてきたのか──。TEIと映像ディレクターの中村剛が語り合った。",
-      "date": "Fri, 25 Sep 2026",
+      "title": "能力資本主義の申し子としてのソーシャルイノベーション｜Social Innovation",
+      "url": "https://wired.jp/article/sz-social-innovation-meritocratic-capitalism/",
+      "description": "「善き社会を作ろうとする歩みが社会の息吹を消していく」。人類学者・磯野真穂の新著『社会が壊れるその前に』は、儀礼や形式から解放されたはずの現代社会が「能力」という新たな信仰に縛られていると説く。",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "ブラックジャックをするAI同士が結託、人間には見抜きにくい「秘密の暗号」を生み出した",
+      "url": "https://wired.jp/article/ai-agent-collusion-card-counting-secrets/",
+      "description": "研究チームがAIエージェントにブラックジャックのカード・カウンティングをさせたところ、互いに情報を伝える合図を編み出した。複数のエージェントによる「共謀」は、AIが社会に広く導入されたとき、新たなリスクになり得る。",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,10 +36,10 @@
       }
     },
     {
-      "title": "スマートフォンを折り畳む“必然”はどこにある？ iPhone Duoが置いた「基準点」の意味",
-      "url": "https://wired.jp/article/iphone-duo-sets-foldable-benchmark/",
-      "description": "「iPhone Duo」は折り畳みスマートフォンとして後発だが、どこか既存の製品とは異なる感触がある。実際に体験して見えてきたのは、アップルの狙いが目先のシェアをとりにいくことではない、ということだ。",
-      "date": "Fri, 25 Sep 2026",
+      "title": "現実の「ディスクロージャー・デイ」は、スピルバーグの新作とはまったく違うものになる",
+      "url": "https://wired.jp/article/sz-real-life-disclosure-day-wont-look-like-steven-spielberg-movie/",
+      "description": "ヒッグス粒子や重力波の検出のように歳月をかけて成功した科学的発見の経緯が、エイリアン存在の真偽を確認するために必要なことを教えてくれる。",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +52,10 @@
       }
     },
     {
-      "title": "“ハエの脳”に『WIRED』の記事ネタを考えさせてみた",
-      "url": "https://wired.jp/article/i-trained-a-fly-on-wired-story-ideas/",
-      "description": "ショウジョウバエの脳の地図「コネクトーム」を使い、記事の企画案を考える「PitchFly」をつくってみた。すると、予想の斜め上をいく奇妙な企画案が次々と生まれた。",
-      "date": "Wed, 23 Sep 2026",
+      "title": "AIの“集合知”で自律的に動くマルウェア、新たな追跡ツールで判明",
+      "url": "https://wired.jp/article/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
+      "description": "シスコのサイバーセキュリティ研究部門Cisco Talosは、AIを利用するマルウェアを追跡する新たな枠組みを開発した。すでに複数の大規模言語モデルに次の行動を問い合わせ、人間の指示なしで動くマルウェアも見つかっている。",
+      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,26 +68,26 @@
       }
     },
     {
-      "title": "Polymarketの次なる賭けは「メディア企業」",
-      "url": "https://wired.jp/article/prediction-markets-polymarket-media-company-kalshi/",
-      "description": "予測市場は金融サービスか、ギャンブルか──。その位置づけを巡る法廷闘争の陰で、PolymarketやKalshiは独自のコンテンツを発信し、新たなメディアとして影響力を広げている。",
-      "date": "Thu, 24 Sep 2026",
+      "title": "窃盗犯が盗んだ「NVIDIA」ロゴ入りトレーラー。中身は20トン近くの砂だった",
+      "url": "https://wired.jp/article/thieves-stole-nvidia-trailers-they-got-20-tons-of-sand/",
+      "description": "チップを狙ったとみられる窃盗犯が、砂を積んだトレーラーを残していった。AI向けの半導体やデータセンター機器の価値が高まるなか、それらを狙った貨物窃盗が相次いでいる。",
+      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     },
     {
-      "title": "“肉食バエ”によるヒトへの感染、メキシコと中米で拡大中",
-      "url": "https://wired.jp/article/flesh-eating-screwworm-spreads-mexico-central-america/",
-      "description": "生きた肉を食い荒らす寄生バエ「ラセンウジバエ」による感染が、中米からメキシコにかけて拡大を続けている。米国では家畜への感染拡大が夏にピークを越えたとみられるが、封じ込めはなお道半ばだ。",
-      "date": "Sun, 27 Sep 2026",
+      "title": "史上最年少の太陽系外惑星、地球から約450光年の位置に発見される",
+      "url": "https://wired.jp/article/youngest-exoplanet-elias-2-24-b/",
+      "description": "誕生から100万年未満という観測史上最も若い太陽系外惑星「Elias 2-24b」が確認された。惑星の形成に関する理論に見直しを迫るかもしれない。",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,10 +100,10 @@
       }
     },
     {
-      "title": "正体不明の“ダークマターの兆候”が波紋を呼んでいる",
-      "url": "https://wired.jp/article/lz-dark-matter-anomalous-event-higgsino-interpretation/",
-      "description": "暗黒物質の直接検出を目的とした実験で、既知の背景ノイズではうまく説明できない単一の粒子相互作用が記録された。まだ暗黒物質の発見とは断定できないが、その解釈をめぐって議論が活発化している。",
-      "date": "Sun, 27 Sep 2026",
+      "title": "ボーズが有線イヤフォンを復活させた。その立役者はティーンエイジャーたちだ",
+      "url": "https://wired.jp/article/bose-to-release-wired-headphones-after-10-years/",
+      "description": "「Bose Noise Cancelling Wired Earbuds」は、ティーンエイジャーの好みに着想を得て開発された、ボーズにとって2015年以来となる新作の有線ヘッドフォンだ。『WIRED』は一足早く、その音を試聴した。",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +116,10 @@
       }
     },
     {
-      "title": "トルコの巨大植毛産業を支える、イノベーションと職人技",
-      "url": "https://wired.jp/article/how-turkey-hacked-the-hair-transplant-industry/",
-      "description": "世界中の人々が、植毛を求めてトルコへ向かっている。改造された歯科技工用モーターからAIによる毛包解析まで、数十億ドル規模に成長したトルコの植毛産業は、職人技と工学的創意工夫が交差する技術的進化によって築かれてきた。",
-      "date": "Sun, 27 Sep 2026",
+      "title": "尿から“がんの兆し”を読み取り、早期発見を当たり前に：Craif",
+      "url": "https://wired.jp/article/vol59-craif-ryuichi-onose-ai-startups/",
+      "description": "人工知能（AI）の活用が医療分野においても加速するなか、人々がより長く健康に生きられる未来の実現に向けて情熱を燃やす研究者や医師たち、そして注目のスタートアップやベンチャーを紹介する。",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +132,10 @@
       }
     },
     {
-      "title": "ChatGPTはあなたについて何を「知っている」のか？ 回答に影響するメモリの管理方法",
-      "url": "https://wired.jp/article/how-to-use-memory-in-chatgpt/",
-      "description": "ChatGPTは、ユーザーとの過去のやりとりから好みや関心、必要な情報を記憶し、その後の回答に反映する。その仕組みを理解することで、AIをさらに上手く活用できる。",
-      "date": "Sun, 27 Sep 2026",
+      "title": "アップル「Apple Watch Ultra 4」レビュー：数日間の冒険を支える、長時間バッテリーのタフなモデル",
+      "url": "https://wired.jp/review/apple-watch-ultra-4/",
+      "description": "最新の「Apple Watch Ultra」は、強化されたバッテリーと新たなヘルスケア指標を備え、長時間のアウトドア活動にも対応する。一方で、「Series 12」では、はるかに手頃な価格でほぼ同じ体験を得られる。",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +148,10 @@
       }
     },
     {
-      "title": "更新された地図に見る、イスラエルがかき消したパレスチナ国家という希望",
-      "url": "https://wired.jp/article/new-maps-show-how-israel-has-thwarted-hopes-for-a-palestinian-state/",
-      "description": "ヨルダン川西岸地区に猛烈な勢いで拡大する入植地は、「二国家解決」をほぼ実現不可能に陥れた。『The New Yorker』のレポート。",
-      "date": "Sat, 26 Sep 2026",
+      "title": "iPhone Duoを使って見えた、従来の折り畳みスマートフォンからの進化のポイント",
+      "url": "https://wired.jp/article/iphone-duo-hands-on-foldable-evolution/",
+      "description": "アップル初の折り畳みスマートフォン「iPhone Duo」は、従来の折り畳みスマートフォンからいかに進化しているのか。実際に使ってみると、さまざまな違いが見えてきた。",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "アップル「Apple Watch Series 12」レビュー：健康機能と使い勝手が進化した、堅実な新モデル",
-      "url": "https://wired.jp/review/apple-watch-series-12/",
-      "description": "アップルの最新スマートウォッチは、より詳細な健康状態のモニタリングや高速充電、すっきりしたインターフェイスを備える。完成度の高い一台に仕上がっている一方、新機能の一部にはプライバシー上の懸念もある。",
-      "date": "Sat, 26 Sep 2026",
+      "title": "OpenAI、Hugging Faceへのハッキングを巡り提訴される",
+      "url": "https://wired.jp/article/openai-sued-over-the-hugging-face-hack/",
+      "description": "カリフォルニア州の非営利団体が、AIエージェントによるHugging Faceへのハッキングを巡りOpenAIを提訴した。自律的なAIの行為を巡る法的責任のあり方が問われている。",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +180,10 @@
       }
     },
     {
-      "title": "プラスチックとサンゴの破片が一体化、沖縄で「プラスティコーラル」が発見された",
-      "url": "https://wired.jp/article/plastic-fused-with-coral-fragments-plasticoral-found-in-okinawa/",
-      "description": "熱で溶けたプラスチックがサンゴの破片と一体化した新たなプラスチック汚染の形態が、沖縄の海岸で確認された。「プラスティコーラル」と名付けられたこの形態は、サンゴ礁の生態系に及ぶ長期的な影響を示す証しだという。",
-      "date": "Sat, 26 Sep 2026",
+      "title": "重さ100gの「Meta VR Glasses」を体験して見えてきた未来",
+      "url": "https://wired.jp/article/meta-vr-glasses-apple-vision-pro-different-approach/",
+      "description": "メタ・プラットフォームズが重さ100gのVRデバイス「Meta VR Glasses」を発表した。いち早く体験して感じたことは、空間コンピューティングに対するアップルとのアプローチの違いだ。",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "「音」の力を視覚で体感するポップアップ「SOUND & VISION」by Marshall：WIRED WHITE LIST",
-      "url": "https://wired.jp/article/marshall-soundandvision-leonardvernhet/",
-      "description": "Marshallが「Pitch Black Collection」第2弾の発売を記念し、Permanent Filesと共創したポップアップを東京・青山で9月28日（月）まで開催中。",
-      "date": "Sat, 26 Sep 2026",
+      "title": "OpenAI、「GPT-6.1 Astra」の10月リリースを中止。安全基準を満たせず",
+      "url": "https://wired.jp/article/openai-delays-release-of-latest-model-over-safety-concerns/",
+      "description": "OpenAIは「GPT-6.1 Astra」について、安全基準を満たすため、さらなる改善を進めると発表した。また、オーストラリア政府のウェブサイトへの不正アクセスを巡る対応について謝罪した。",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +212,10 @@
       }
     },
     {
-      "title": "【2026年9月】U-NEXTでいま観るべきおすすめ映画31選｜ジャンル別・シーン別で紹介",
-      "url": "https://wired.jp/article/u-next-best-shows-2026/",
-      "description": "新作から独占配信、アート映画、SF、邦画まで、U-NEXTで観るべきおすすめ映画をピックアップ。映画をより深く楽しむための活用法もあわせて紹介する。",
-      "date": "Sat, 26 Sep 2026",
+      "title": "未来を“解く”技術＝リジェネラティブ・テクノロジーとは何か──『FUTURES LITERACY　未来という難問を解く』から",
+      "url": "https://wired.jp/article/book-futures-literacy-regenerative-technology/",
+      "description": "未来を固定化するのではなく、何度でも繰り返し「新たな可能性を発現させる」ような技術をいかにして手にできるだろうか？",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "OpenAIのAIエージェントが豪州政府サイトに侵入、政府が知ったのは数カ月後",
-      "url": "https://wired.jp/article/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/",
-      "description": "オーストラリアの首相は、OpenAIのAIエージェントによる政府サイトへの不正アクセスを巡り、通知の遅れとその方法を批判した。同国政府は現在、OpenAIが法律に違反した可能性を調査している。",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "mRNAで免疫細胞を再びがんと闘う味方に。新たな治療の可能性",
-      "url": "https://wired.jp/article/smart-nanoparticles-deliver-mrna-directly-to-tumors-in-new-cancer-therapy/",
-      "description": "がんによって働きを変えられた免疫細胞にmRNAを届ける「スマート」ナノ粒子を、アデレード大学の研究チームが開発した。マウスを使った実験では免疫細胞の働きが活発になり、腫瘍の増殖が鈍化した。",
-      "date": "Thu, 24 Sep 2026",
+      "title": "タラリコとオソフが築く〈パープル〉なアメリカ？──「アメリカン・ドッペルゲンガー」by 池田純一#17",
+      "url": "https://wired.jp/article/american-doppelganger-17/",
+      "description": "11月3日（火）に実施される中間選挙まで1カ月あまり。「現職大統領の所属政党」が劣勢になりがちなのは毎度のことだが、今回はトランプ陣営の失策も重なり、上院・下院ともに民主党が過半数を奪う可能性も見えてきた。注目州はどこなのか？ 状況を整理する。",
+      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

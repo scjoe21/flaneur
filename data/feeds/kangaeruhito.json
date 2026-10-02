@@ -1,7 +1,7 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-09-27T20:08:04.264718+00:00",
+  "fetchedAt": "2026-10-02T10:14:39.248931+00:00",
   "items": [
     {
       "title": "14．孤独とポリフォニー",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 14
+      }
+    },
+    {
+      "title": "実はまた入院してました",
+      "url": "https://kangaeruhito.jp/article/764326",
+      "description": "最初に書きますが、心臓病に関する記述を読むと不安になる方は、読まない方がいいかもしれないです！（怖いことは書いてないけど）　ここで引き返してください！ 　私自身、書くべきかどうか、若干迷ったのだが、書くことにする。 　 […]",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
       }
     },
     {
@@ -49,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "13．ヴィチェンツァの米軍基地へ",
+      "url": "https://kangaeruhito.jp/article/764323",
+      "description": "晩夏の提案 　9月に入り、イタリアは相変わらず暑く乾いた空気に包まれ続けていたが、社会は寝坊を怒られて無理やり起き上がった子供のように、まずは商店や会社や工場といった経済を動かす機関からのろのろと動き始めていた。リアーノ […]",
+      "date": "Sun, 27 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://kangaeruhito.jp/interview/764247",
       "description": "（第1回　天皇への“ねじれ”） （第2回　戦前と戦後の“連続性”を救い出す） 1990年代、日本の右傾化 國分　この対談では、新刊『天皇への敗北』における大きなテーマである日本国憲法、とりわけ立憲主義についてあらためて熟 […]",
       "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "二十四、無力の力",
-      "url": "https://kangaeruhito.jp/article/764269",
-      "description": "曹洞宗の僧侶として、道元禅師と並んで世上有名なのは、良寛和尚（1758‐1831）だろう。和尚が道元禅師の門下であることを知る人も、そう多くあるまい。 　その独特の書をはじめ、数々の逸話でも知られているが、和尚の言葉と […]",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "9. オニオングレイヴィの功罪",
-      "url": "https://kangaeruhito.jp/article/764276",
-      "description": "カレーの宿命 　前節を読まれた皆さんの、心のツッコミが聞こえてくるようです。 「それじゃあ全部同じような味になるのでは？」 　はい、その通りです。『ザ・カレー・シークレット』のほとんどのカレーは、共通のカレーソースがベー […]",
-      "date": "Fri, 04 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

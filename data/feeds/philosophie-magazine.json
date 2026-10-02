@@ -1,86 +1,22 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-09-27T20:07:34.513101+00:00",
+  "fetchedAt": "2026-10-02T10:14:03.298173+00:00",
   "items": [
     {
-      "title": "“Comment habiter mon corps ?” Le nouveau numéro de Philosophie magazine sort ce jeudi !",
-      "url": "https://www.philomag.com/articles/comment-habiter-mon-corps-le-nouveau-numero-de-philosophie-magazine-sort-ce-jeudi",
+      "title": "Philolive! : le premier festival de philosophie à Paris",
+      "url": "https://www.philomag.com/articles/philolive-le-premier-festival-de-philosophie-paris",
       "description": "",
-      "date": "Thu, 24 Sep 2026",
+      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Comment Aristote a-t-il pris sa revanche sur Platon ?",
-      "url": "https://www.philomag.com/articles/comment-aristote-t-il-pris-sa-revanche-sur-platon",
-      "description": "",
-      "date": "Sun, 27 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Pourquoi Ivan Illich est-il un pionnier du vélo ?",
-      "url": "https://www.philomag.com/articles/pourquoi-ivan-illich-est-il-un-pionnier-du-velo",
-      "description": "",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Pourquoi Edgar Morin est-il si populaire en Amérique latine ?",
-      "url": "https://www.philomag.com/articles/pourquoi-edgar-morin-est-il-si-populaire-en-amerique-latine",
-      "description": "",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Bien dans son corps ? Dialogue entre Margaux Cassan et Claire Marin",
-      "url": "https://www.philomag.com/articles/bien-dans-son-corps-dialogue-entre-margaux-cassan-et-claire-marin",
-      "description": "",
-      "date": "Sat, 26 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
@@ -116,6 +52,102 @@
       }
     },
     {
+      "title": "Andy Warhol, l’homme qui voulait “devenir une machine”",
+      "url": "https://www.philomag.com/articles/andy-warhol-lhomme-qui-voulait-devenir-une-machine",
+      "description": "",
+      "date": "Sat, 19 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "“L’IA remplacera peut-être les philosophes de profession, mais jamais le plaisir de penser”",
+      "url": "https://www.philomag.com/articles/lia-remplacera-peut-etre-les-philosophes-de-profession-mais-jamais-le-plaisir-de-penser",
+      "description": "",
+      "date": "Wed, 16 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Poison et remède : le pouvoir inégalé du “pharmakon”",
+      "url": "https://www.philomag.com/articles/poison-et-remede-le-pouvoir-inegale-du-pharmakon",
+      "description": "",
+      "date": "Thu, 01 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "D’où vient l’idée d’éco-région ?",
+      "url": "https://www.philomag.com/articles/dou-vient-lidee-deco-region",
+      "description": "",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "2036 : quand l’Ukraine sera la nouvelle puissance européenne",
+      "url": "https://www.philomag.com/articles/2036-quand-lukraine-sera-la-nouvelle-puissance-europeenne",
+      "description": "",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Faut-il avoir un corps pour être un bon romancier ?",
+      "url": "https://www.philomag.com/articles/faut-il-avoir-un-corps-pour-etre-un-bon-romancier",
+      "description": "",
+      "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Paul Cezanne, peintre et influenceur philosophique",
       "url": "https://www.philomag.com/articles/paul-cezanne-peintre-et-influenceur-philosophique",
       "description": "",
@@ -132,40 +164,8 @@
       }
     },
     {
-      "title": "Notre corps est un paysage : l'édito d’Alexandre Lacroix",
-      "url": "https://www.philomag.com/articles/notre-corps-est-un-paysage-ledito-dalexandre-lacroix",
-      "description": "",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
       "title": "L’“alignement” des IA, enjeu du siècle ?",
       "url": "https://www.philomag.com/articles/lalignement-des-ia-enjeu-du-siecle",
-      "description": "",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Avons-nous plusieurs corps ?",
-      "url": "https://www.philomag.com/articles/avons-nous-plusieurs-corps",
       "description": "",
       "date": "Thu, 24 Sep 2026",
       "thumbnail": "",
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "“Les humains rient, mais et les animaux ?” Les enfants répondent… comme des grands !",
-      "url": "https://www.philomag.com/articles/les-humains-rient-mais-et-les-animaux-les-enfants-repondent-comme-des-grands",
+      "title": "Le “visage” chez Levinas, c’est quoi ?",
+      "url": "https://www.philomag.com/articles/le-visage-chez-levinas-cest-quoi",
       "description": "",
-      "date": "Sun, 20 Sep 2026",
+      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

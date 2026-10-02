@@ -1,54 +1,54 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-09-27T20:07:34.163798+00:00",
+  "fetchedAt": "2026-10-02T10:14:02.895972+00:00",
   "items": [
     {
-      "title": "Infantisme, l'oppression impensée : Quelle vérité sort de la bouche des enfants ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-que-l-infantisme-8668056",
-      "description": "durée : 00:57:58  - Avec philosophie - par : Géraldine Mosna-Savoye - Pour comprendre vraiment la langue des enfants, selon Marguerite Duras, il faut les observer dans leurs paroles et leurs silences : mais qui parle quand un enfant parle ? Comment écouter, recueillir et interpréter cette langue fluide et encore en construction ?  - équipe : Manon de La Selle, Anaïs Ysebaert, Axel Dubois, Anna Pheulpin, Carla Michel, Pauline Haies, Nicolas Berger - invités : Laurence Joseph Psychologue clinicien",
-      "date": "Tue, 22 Sep 2026",
+      "title": "Allons à l’immédiat 3/3 : Pourquoi ne peut-on pas avoir tout, tout de suite ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-ne-peut-on-pas-avoir-tout-tout-de-suite-3629071",
+      "description": "durée : 00:03:19  - Avec philosophie - par : Frédéric Worms - Dès la naissance, notre besoin de réponse immédiate est vital. Mais comment composer avec l'urgence, l'impatience humaine et les limites du réel ? Du nourrisson qui a faim à l'enfant impatient qui exige une glace, jusqu'aux urgences climatiques, découvrez l'analyse du philosophe.  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 47,
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "Allons à l’immédiat 2/3 : Comment peut-on revenir à l'immédiat ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-peut-on-revenir-a-l-immediat-9100136",
+      "description": "durée : 00:03:30  - Avec philosophie - par : Frédéric Worms - L'immédiat est-il l'absence de relation ou un contact direct avec le réel ? Avons-nous toujours besoin de médiations pour comprendre le monde ? Entre urgence vitale et querelle philosophique, explorons ce paradoxe avec Frédéric Worms.  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 29 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
       "scoreDetail": {
         "daily": 15,
-        "phil": 15,
-        "flaneur": 12,
-        "novelty": 5,
-        "total": 47
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 10,
+        "total": 39
       }
     },
     {
-      "title": "Comment la répartition peut-elle être juste ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-la-repartition-peut-elle-etre-juste-7486206",
-      "description": "durée : 00:03:40  - Avec philosophie - par : Frédéric Worms - Comment parvenir à une répartition juste des biens entre les êtres humains ? Le philosophe Frédéric Worms interroge le sentiment d'injustice face aux inégalités et montre comment la participation collective peut fonder une société plus juste.  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 15 Sep 2026",
+      "title": "Les réseaux sociaux, pas si démocratiques !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/les-reseaux-sociaux-pas-si-democratiques-1813151",
+      "description": "durée : 00:03:19  - Avec philosophie - par : Anne Alombert - Pensez-vous vraiment choisir ce que vous regardez sur votre fil d'actualité ? Anne Alombert examine le pouvoir invisible des algorithmes sur nos attentions et explore, avec Bernard Stiegler, les conditions d'un environnement numérique plus démocratique.  - équipe : Camille Renard, Virginie Le Duault, Thomas Jost, Jean-Ghislain Maige \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 45,
+      "priority": 35,
       "scoreDetail": {
         "daily": 20,
-        "phil": 25,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
-    {
-      "title": "Comment participer à l'histoire ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-participer-a-l-histoire-8090124",
-      "description": "durée : 00:03:46  - Avec philosophie - par : Frédéric Worms - Face aux crises climatiques et aux conflits mondiaux, chacun éprouve le besoin d'agir et de contribuer au monde.  Comment la justice peut-elle répondre à ce désir de participation et permettre à chacun de prendre part à l'histoire ?  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
+        "novelty": 5,
+        "total": 35
       }
     },
     {
@@ -68,23 +68,39 @@
       }
     },
     {
-      "title": "Pourquoi l'apprentissage implique-t-il l'erreur ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-l-apprentissage-implique-t-il-l-erreur-9281398",
-      "description": "durée : 00:03:27  - Avec philosophie - par : Frédéric Worms - Comment définir l'erreur ? Peut-on apprendre sans se tromper ? Que signifie vraiment le proverbe \"L'erreur est humaine\"? De Bachelard à Foucault, Frédéric Worms montre que l'erreur loin d'être un simple défaut, est au cœur de l'apprentissage et peut-être une chance.  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 21 Sep 2026",
+      "title": "Marx avant \"Le Capital\" : \"Manuscrits de 1844\", Marx écolo avant l'heure",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-mardi-29-septembre-2026-8718526",
+      "description": "durée : 00:58:20  - Avec philosophie - par : Géraldine Mosna-Savoye - En 1844, 23 ans avant \"Le Capital\", Karl Marx rédige un ensemble de notes critiquant l'économie politique. La nature y est mentionnée partout, et Marx se questionne : le travail nous rend-il étranger à celle-ci ? De quoi donner forme à ce qui sera l’un de ses grands concepts, celui d’aliénation.   - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaer",
+      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 34,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
       }
     },
     {
-      "title": "Comment les biais aggravent-ils les erreurs ?",
+      "title": "Allons à l’immédiat 1/3 : Pourquoi a-t-on besoin de l'immédiat ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-a-t-on-besoin-de-l-immediat-3747750",
+      "description": "durée : 00:03:28  - Avec philosophie - par : Frédéric Worms - Il y a des choses qui n'attendent pas ; elles doivent être faites ici et maintenant. Dans cette chronique, le philosophe Frédéric Worms s'interroge sur notre rapport paradoxal à l'immédiat. Pourquoi avons-nous tant besoin de ce qui arrive tout de suite, sans délai ni médiation ?  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 34
+      }
+    },
+    {
+      "title": "Cherchez l’erreur 3/3 : Comment les biais aggravent-ils les erreurs ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-les-biais-aggravent-ils-les-erreurs-1136600",
       "description": "durée : 00:03:28  - Avec philosophie - par : Frédéric Worms - L'erreur accompagne tout apprentissage et participe au progrès de la connaissance. Mais lorsqu'elle est renforcée par des biais, individuels ou collectifs, elle peut devenir persistante et produire des effets sociaux, politiques ou moraux considérables.  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Wed, 23 Sep 2026",
@@ -100,51 +116,35 @@
       }
     },
     {
-      "title": "Comment l'erreur reste-t-elle humaine ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-l-erreur-reste-t-elle-humaine-5558875",
-      "description": "durée : 00:03:39  - Avec philosophie - par : Frédéric Worms - Même les \"intelligences\" artificielles les plus performantes nous avertissent elles-mêmes qu'elles peuvent se tromper. Que nous apprend cette persistance de l'erreur ? Sa détection et sa correction pourraient-elles devenir l'une des tâches essentielles de la connaissance ?  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 22 Sep 2026",
+      "title": "Marx avant \"Le Capital\" : Marx face à la révolution de 1848 : autopsie d'un échec",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/marx-face-a-la-revolution-de-1848-autopsie-d-un-echec-8218421",
+      "description": "durée : 00:57:49  - Avec philosophie - par : Géraldine Mosna-Savoye - En 1848, la France connaît une révolution sanglante, le plus grand massacre depuis la Saint-Barthélemy. Marx, en publiciste, observe les événements, et fait une analyse à chaud qui dissèque l'échec de cette révolution. Comment cela a-t-il pu arriver, et quelles leçons en tirer ?  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies -",
+      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 29,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 10,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
+        "total": 29
       }
     },
     {
-      "title": "Pourquoi sommes-nous accros à l’IA",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/pourquoi-sommes-nous-accros-a-l-ia-5314709",
-      "description": "durée : 00:02:58  - Avec philosophie - par : Anne Alombert - Et si l'IA était moins un outil qu'une drogue pour l'esprit ? Elle vous fait gagner du temps, mais vous rend aussi dépendant. De Platon à ChatGPT, Anne Alombert interroge notre dépendance croissante aux technologies qui écrivent, mémorisent et résument à notre place.  - équipe : Virginie Le Duault, Camille Renard, Ludovic Auger, Massimo Bellini, Thomas Jost \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vo",
-      "date": "Thu, 17 Sep 2026",
+      "title": "Albert Camus au pouvoir : redonnons du sens au monde !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/albert-camus-redonnons-du-sens-au-monde-7916424",
+      "description": "durée : 00:59:47  - Avec philosophie - par : Laurence Devillairs - Et si Camus prenait le pouvoir ? Langage politique, révolte, justice, compromis, refus de la violence : que nous apprendrait aujourd’hui la pensée de celui qui voulait rester lucide sans désespérer ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Jean Yves Guérin Professeur émérite de littérature française à l'université de la Sorbonne nouvelle , Perrine Simon-Nahum Directrice de recherche au CNRS, professeure à l'Éc",
+      "date": "Sat, 26 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Confucius, un savoir-être sans confusion : L'art de gouverner sans théorie ni manuel",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/que-garder-de-confucius-pour-bien-gouverner-6343420",
-      "description": "durée : 00:58:16  - Avec philosophie - par : Géraldine Mosna-Savoye - Figurez-vous que la politique n'intéressait pas Confucius ! Pourtant, sa pensée, reprise, commentée, analysée pendant des siècles, est devenue une doctrine... Revenons, au-delà de toute théorie, à son art des bonnes manières, de la finesse, de la morale, en vue de l'harmonie sociale.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités ",
-      "date": "Wed, 16 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 20,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -164,19 +164,35 @@
       }
     },
     {
-      "title": "Infantisme, l'oppression impensée : Qu'est-ce que l'infantisme ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-lundi-21-septembre-2026-2794721",
-      "description": "durée : 00:58:20  - Avec philosophie - par : Géraldine Mosna-Savoye - Racisme, antisémitisme, sexisme : vous êtes-vous déjà dit qu'il existait un continuum entre les discriminations, jusqu'à celles subies par les enfants ? Peut-être pas, car il est admis qu'un enfant doit obéir à un adulte. Pour sortir de cet impensé, il fallait donc créer un mot : l'infantisme.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies ",
-      "date": "Mon, 21 Sep 2026",
+      "title": "Marx avant \"Le Capital\" : \"Manifeste du parti communiste\", militer pour mieux penser",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-mercredi-30-septembre-2026-6799940",
+      "description": "durée : 00:58:01  - Avec philosophie - par : Géraldine Mosna-Savoye - Avant ses 30 ans, avec son ami Engels, Marx rédige ce texte d'intervention commandé par la Ligue des communistes. Il veut fournir un cadre théorique à la colère des prolétaires, alors que la tension monte en Europe... Ont-ils voulu faire de leur pensée un mode d'action ?  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités",
+      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
+        "daily": 5,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
+      }
+    },
+    {
+      "title": "Marx avant \"Le Capital\" : Clasher Proudhon pour en finir avec l'anarchie ⚡",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-lundi-28-septembre-2026-5175984",
+      "description": "durée : 00:58:25  - Avec philosophie - par : Géraldine Mosna-Savoye - On évoque souvent la polémique entre les deux philosophes Marx et Proudhon, pourtant, la vérité se situerait peut-être plutôt du côté d'une obsession de Marx envers Proudhon... Et si penser contre Proudhon lui avait-il permis de penser... tout court ?  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Anne-Sophie Chamb",
+      "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -196,16 +212,16 @@
       }
     },
     {
-      "title": "Édouard Louis, écrivain : \"Primo Levi nous avertit, plus la violence est extrême, plus il faut s'y confronter\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/edouard-louis-sur-les-naufrages-et-les-rescapes-quarante-ans-apres-auschwitz-de-primo-levi-7159952",
-      "description": "durée : 00:59:57  - Avec philosophie - par : Géraldine Mosna-Savoye - Édouard Louis évoque sa lecture des \"Naufragés et les rescapés : Quarante ans après Auschwitz\" de Primo Levi, une déflagration. Un livre trop peu connu, trop peu lu, qui témoigne pourtant d'une pensée philosophique politique précise chez cet écrivain italien qu'il faut lire, encore et toujours.  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger - invités : Édouard Louis Écrivain français \n\nVous aimez ce podcast ? Po",
-      "date": "Fri, 18 Sep 2026",
+      "title": "Adèle Yon sur l'oeuvre de Sergueï Eisenstein",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/adele-yon-sur-l-oeuvre-de-serguei-eisenstein-9739083",
+      "description": "durée : 00:58:10  - Avec philosophie - par : Géraldine Mosna-Savoye - Adèle Yon, autrice qui a marqué avec \"Mon vrai nom est Élisabeth\", revient sur l'oeuvre du cinéaste et théoricien du cinéma soviétique Sergueï Eisenstein.  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Adèle Yon Romancière, Docteure SACRe - ENS \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -216,22 +232,6 @@
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:59:18  - Avec philosophie - par : Géraldine Mosna-Savoye - L'académicienne Chantal Thomas a choisi d'évoquer trois livres qui l'ont accompagnée à différents âges de sa vie, trois livres nés d'une même plume, celle de la géniale Colette. De la voracité des écolières à l'avidité qui résiste au passage du temps, elle nous embarque dans sa \"féerie simple\".   - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes ",
       "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Confucius, un savoir-être sans confusion : Confucius, d’ennemi de Mao à superstar !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/confucius-d-ennemi-de-mao-a-superstar-4184437",
-      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Mosna-Savoye - Pendant plus de deux millénaires, Confucius a régné. Les choses changent au XXe siècle, d'abord à la fin de l'Empire en 1911, puis avec Mao et sa révolution culturelle. Poussiéreux, obstacle au progrès, il est devenu l'ennemi à abattre. Mais le confucianisme est résistant... et il est de retour !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Hai",
-      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,

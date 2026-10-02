@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-09-27T20:07:56.302044+00:00",
+  "fetchedAt": "2026-10-02T10:14:32.033720+00:00",
   "items": [
     {
       "title": "« Saint-Nazaire au travail »",
@@ -20,6 +20,22 @@
       }
     },
     {
+      "title": "Comment faire vivre le pluralisme ?",
+      "url": "https://www.nonfiction.fr/article-12866-comment-faire-vivre-le-pluralisme.htm",
+      "description": "Le pluralisme paraît constitutif de la démocratie ; mais encore faut-il savoir comment le faire exister concrètement. Dans  Le point de vue manquant , le sociologue Arnaud Esquerre s’intéresse aux règles et aux pratiques qui organisent la coexistence des points de vue dans l’espace public, en particulier dans les médias. Son enquête auprès de journalistes et de producteurs de Radio France montre comment ceux-ci cherchent à identifier le « point de vue manquant », plutôt qu’à réduire le débat à l",
+      "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "Penser les religions autrement : un entretien croisé",
       "url": "https://www.nonfiction.fr/article-12818-penser-les-religions-autrement-un-entretien-croise.htm",
       "description": "Peut-on encore parler de « la religion » comme d’un objet homogène ? Les livres de Nathalie Heinich,  La religion n’existe pas , et de Paul Seabright,  La Divine Économie , répondent à cette question en déplaçant profondément le regard porté sur les phénomènes religieux. Leurs démarches sont pourtant très différentes : la première relève de la sociologie et de l’épistémologie, le second mobilise les outils de l’économie. Mais leurs analyses se rejoignent sur un point essentiel : pour comprendre ",
@@ -32,22 +48,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Comment la gauche pourrait gagner ?",
-      "url": "https://www.nonfiction.fr/article-12819-comment-la-gauche-pourrait-gagner.htm",
-      "description": "Pourquoi la gauche peine-t-elle aujourd'hui à reconquérir les classes populaires alors qu'elle a longtemps su les représenter et les mobiliser ? Dans  Organiser la victoire  (Le Bord de l'eau, 2026), Noé Girardot-Champsaur, communicant chez Bona fidé et expert associé à la Fondation Jean-Jaurès, défend l'idée que cette crise relève moins d’un déficit programmatique que d’une crise organisationnelle. Pour retrouver une majorité, la gauche doit reconstruire ses méthodes de recrutement, de formatio",
-      "date": "Thu, 03 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
