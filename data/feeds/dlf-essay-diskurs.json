@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-10-02T22:31:22.753808+00:00",
+  "fetchedAt": "2026-10-03T19:17:58.076082+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -148,26 +148,26 @@
       }
     },
     {
-      "title": "Der neue Reaktionär - Curtis Yarvin und die Versuchung der smarten Tyrannei",
-      "url": "https://www.deutschlandfunk.de/curtis-yarvin-demokratie-jd-vance-peter-thiel-trump-usa-100.html",
-      "description": "Curtis Yarvin träumt vom Ende der Demokratie und einem amerikanischen Autokraten. Seine autoritären Ideen treffen den Nerv einer erschöpften Zeit und begeistern rechte Eliten wie Tech-Milliardär Peter Thiel oder US-Vizepräsident J. D. Vance. Von Ava Kofman www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 19 Jul 2026",
+      "title": "Kommunikationsfreiheit - Das Recht, die Macht und die Bedingungen offener Diskurse",
+      "url": "https://www.deutschlandfunk.de/das-recht-die-macht-und-die-bedingungen-offener-diskurse-100.html",
+      "description": "Offene Diskurse sind die Bedingung gelingender Demokratie. Und das Recht hat die Aufgabe, Bedingungen herzustellen, die eine freie individuelle und öffentliche Meinungsbildung weitestgehend ermöglichen. Von Valerie Rhein www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sat, 03 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "Kritik der einfachen Vernunft - Nuancen: Die Welt des Dazwischen",
-      "url": "https://www.deutschlandfunk.de/nuancen-die-welt-des-dazwischen-100.html",
-      "description": "In einer Zeit, die geprägt ist vom Entweder-oder, von Polarisierungen und populistischen Vereinfachungen, gehen die Zwischentöne verloren, und damit die Nuancen, die uns genau davor bewahren können. Es gilt, sie wiederzugewinnen. Von Thomas Palzer www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 21 Jun 2026",
+      "title": "Der neue Reaktionär - Curtis Yarvin und die Versuchung der smarten Tyrannei",
+      "url": "https://www.deutschlandfunk.de/curtis-yarvin-demokratie-jd-vance-peter-thiel-trump-usa-100.html",
+      "description": "Curtis Yarvin träumt vom Ende der Demokratie und einem amerikanischen Autokraten. Seine autoritären Ideen treffen den Nerv einer erschöpften Zeit und begeistern rechte Eliten wie Tech-Milliardär Peter Thiel oder US-Vizepräsident J. D. Vance. Von Ava Kofman www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 19 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

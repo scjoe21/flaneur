@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-10-02T22:31:17.296028+00:00",
+  "fetchedAt": "2026-10-03T19:17:52.635084+00:00",
   "items": [
     {
       "title": "Francis Fukuyama on why we’re better than our ancestors",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "Everyone in the room thinks they’re the only one struggling",
+      "url": "https://bigthink.com/work-wise/everyone-in-the-room-thinks-theyre-the-only-one-struggling/",
+      "description": "The connective ritual behind my closest friendships and the best teams asks the same question: What are you working on that you need help with? \n During my PhD, I regularly participated in something called Shut Up and Write. The idea was (wait for it) to be quiet and work, but in a room full of people doing the same. Two hours, sometimes three, broken into 25-minute blocks with five-minute breaks and coffee in between. \n I went to my first one because I was stuck, but also because I was promised",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/work-wise_work-together_compressed.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "The Second Amendment has a hidden origin story",
       "url": "https://bigthink.com/series/conversations/mini-philosophy-malcolm-gladwell/",
       "description": "Malcolm Gladwell argues that almost everything most people believe about the Second Amendment is wrong. Guns weren’t widely owned in 18th-century America. The militias didn’t win the Revolutionary War. And the amendment that guaranteed their survival was written to protect one thing in particular: the armed slave patrols that Southern plantation owners depended on. \n In conversation with Jonny Thomson, Gladwell traces that history into the present — why originalism gave the right a blank cheque,",
@@ -129,22 +145,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Psychedelics have brought mysticism into modern medicine. Researchers are listening.",
-      "url": "https://bigthink.com/the-well/psychedelics-have-brought-mysticism-into-modern-medicine-researchers-are-listening/",
-      "description": "Millions of Americans now use psychedelics, as mounting evidence suggests that substances like psilocybin, ketamine and ayahuasca may help alleviate depression and other mental health conditions. “Psychedelic medicine” is becoming increasingly mainstream, with pharmaceutical giant Eli Lilly  recently agreeing  to acquire one such drug developer for up to $3.8 billion. \n But when you speak to someone who took psychedelics with therapeutic intentions, they don’t just say they feel better. They tal",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/The-Well-Aidan-Seale-Feldman-Art.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

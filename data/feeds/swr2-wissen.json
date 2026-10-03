@@ -1,24 +1,8 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-02T22:31:26.397853+00:00",
+  "fetchedAt": "2026-10-03T19:18:02.197069+00:00",
   "items": [
-    {
-      "title": "Verschweigen, flunkern, lügen – Warum wir nicht so ehrlich sind, wie wir glauben",
-      "url": "https://www.swr.de/swrkultur/wissen/verschweigen-flunkern-luegen-warum-wir-nicht-so-ehrlich-sind-wie-wir-glauben-100.html",
-      "description": "Falsche Höflichkeiten, kleine Notlügen, das Verschweigen schmerzhafter Wahrheiten: Solche \"Unehrlichkeiten\" sind für die meisten Alltag. Welches Verhältnis haben wir zur Wahrheit?",
-      "date": "Sun, 20 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 43,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 43
-      }
-    },
     {
       "title": "Hannah Arendt – Freiheit und Verantwortung",
       "url": "https://www.swr.de/swrkultur/wissen/hannah-arendt-widerstand-revolution-und-freiheit-104.html",
@@ -132,19 +116,19 @@
       }
     },
     {
-      "title": "Professor Chatbot – Wie KI die Forschung beschleunigt und gefährdet",
-      "url": "https://www.swr.de/swrkultur/wissen/professor-chatbot-wie-ki-die-forschung-beschleunigt-und-gefaehrdet-100.html",
-      "description": "KI bewältigt Datenanalysen in Sekunden, hilft bei Diagnostik und Forschungsanträgen. Doch Forschenden droht ein De-Skilling. Schon jetzt fluten Paper Mills die Wissenschaftscommunity.",
-      "date": "Sat, 19 Sep 2026",
+      "title": "Václav Havel – Vom Bürgerrechtler zum tschechischen Präsidenten",
+      "url": "https://www.swr.de/swrkultur/wissen/vaclav-havel-vom-buergerrechtler-zum-tschechischen-praesidenten-100.html",
+      "description": "Freiheit, Ehrlichkeit, Mut: Erst landete Václav Havel dafür im Gefängnis, dann wurde er Präsident Tschechiens. Aus Furcht vor Russland führte er sein Land in EU und NATO.",
+      "date": "Sat, 3 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 5
       }
     },
     {
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Menschenkenntnis – Kann man sie lernen?",
+      "url": "https://www.swr.de/swrkultur/wissen/menschenkenntnis-kann-man-sie-lernen-100.html",
+      "description": "Studien zeigen, dass wir unsere Menschenkenntnis oft überschätzen. Der viel beschworene \"erste Eindruck\", auf den wir so viel geben, kann ziemlich täuschen.",
+      "date": "Sun, 4 Oct 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-02T22:30:56.612799+00:00",
+  "fetchedAt": "2026-10-03T19:17:29.174860+00:00",
   "items": [
     {
       "title": "Allons à l’immédiat 3/3 : Pourquoi ne peut-on pas avoir tout, tout de suite ?",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
-      }
-    },
-    {
-      "title": "Infantisme, l'oppression impensée : Qu'est-ce qu'une éducation non infantiste ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-qu-une-education-non-infantiste-1366767",
-      "description": "durée : 00:58:10  - Avec philosophie - par : Géraldine Mosna-Savoye - L'enfant est un impensé philosophique : lorsqu'il est décrit, il n'apparaît que comme un être inachevé. Tout reste alors à écrire. À commencer par le début, l'éducation des enfants. Comment la repenser ? Comment sortir de nos préjugés infantistes ? C'est le projet de l'émission du jour.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invit",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 5,
         "total": 35
@@ -225,6 +209,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Saint Augustin au pouvoir : ne succombons pas au défaitisme !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/saint-augustin-au-pouvoir-ne-succombons-pas-au-defaitisme-1219219",
+      "description": "durée : 01:00:02  - Avec philosophie - par : Laurence Devillairs - Et si saint Augustin devenait chef de gouvernement ? Justice, sobriété, spiritualité, rapport au temps : que ferait cet évêque face aux crises d’un monde en mutation ? Et que peut encore nous apprendre sa pensée sur l’exercice du pouvoir ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Jean-Marie Salamito , Pierre Descotes maître de conférences HDR à l’Université Paris-Sorbonne \n\nVous aimez ce podcast ? Pour écouter ",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

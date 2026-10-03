@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-10-02T22:30:57.479837+00:00",
+  "fetchedAt": "2026-10-03T19:17:30.910983+00:00",
   "items": [
     {
       "title": "Comment en finir avec la tyrannie du présent en politique ?",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "300 mots de moins par an : la conversation est en voie de disparition",
+      "url": "https://usbeketrica.com/fr/article/300-mots-de-moins-par-an-la-conversation-est-en-voie-de-disparition",
+      "description": "Pour la première fois, une équipe de recherche aux États-Unis a chiffré l’ampleur du déclin de la conversation en société. Un recul discret, mais colossal sur le long terme, qui interroge moins notre vocabulaire que la reconfiguration permanente de nos sociétés gangrenées - entre autres - par les écrans et la solitude. Enquête.",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -94,22 +110,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Comment l’industrie de l’IA dope la production de PFAS",
-      "url": "https://usbeketrica.com/fr/article/comment-l-industrie-de-l-ia-dope-la-production-de-pfas",
-      "description": "Derrière les milliards brassés par la course à l'intelligence artificielle, se joue une autre ruée vers l’or, beaucoup moins médiatisée : celle des industriels de la chimie qui fournissent une partie des produits nécessaires à la fabrication des infrastructures qui sous-tendent les systèmes d’IA. Parmi ces substances, on retrouve les très controversés « polluants éternels ».",
-      "date": "Sat, 19 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

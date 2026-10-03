@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-10-02T22:31:21.043238+00:00",
+  "fetchedAt": "2026-10-03T19:17:56.485837+00:00",
   "items": [
     {
       "title": "« Saint-Nazaire au travail »",
@@ -164,19 +164,19 @@
       }
     },
     {
-      "title": "L'ordre néolibéral : entretien avec Jacques Rigaudiat",
-      "url": "https://www.nonfiction.fr/article-12825-lordre-neoliberal-entretien-avec-jacques-rigaudiat.htm",
-      "description": "Dans  Ordre néolibéral et haine de la démocratie  (PUF, 2026), Jacques Rigaudiat propose de considérer le néolibéralisme moins comme une doctrine économique que comme un projet politique global. De la financiarisation de l’économie à la transformation du rapport salarial, de l’essor de l’ homo economicus  à la mise à distance des choix collectifs, il analyse les institutions qui ont permis son installation et les effets de cet ordre sur la démocratie. Dans cet entretien, il revient sur sa genèse",
-      "date": "Sat, 05 Sep 2026",
+      "title": "Karachi, une ville à l'épreuve de l'émeute",
+      "url": "https://www.nonfiction.fr/article-12873-karachi-une-ville-a-lepreuve-de-lemeute.htm",
+      "description": "Avec  Quand la ville brûle  (Anamosa, 2026), Laurent Gayer revient sur les émeutes qui ont embrasé Karachi après l’assassinat de Benazir Bhutto en décembre 2007, à travers le récit de Waseem Yaqoob, alors pris dans la tourmente. Ce témoignage lui permet de revisiter ses travaux sur la violence urbaine et les formes d’organisation de la ville. Le livre contient également des photographies prises par l’auteur à Karachi, dont nous reproduisons ici quelques exemples. \r\n\r\n   \r\n\r\n  Nonfiction : Vous ê",
+      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     }
   ]

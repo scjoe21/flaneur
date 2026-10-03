@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-02T22:31:40.764731+00:00",
+  "fetchedAt": "2026-10-03T19:18:14.204962+00:00",
   "items": [
     {
       "title": "能力資本主義の申し子としてのソーシャルイノベーション｜Social Innovation",
@@ -68,19 +68,51 @@
       }
     },
     {
-      "title": "AIの“集合知”で自律的に動くマルウェア、新たな追跡ツールで判明",
-      "url": "https://wired.jp/article/a-tool-for-tracking-ai-integrated-malware-uncovered-an-autonomous-command-system/",
-      "description": "シスコのサイバーセキュリティ研究部門Cisco Talosは、AIを利用するマルウェアを追跡する新たな枠組みを開発した。すでに複数の大規模言語モデルに次の行動を問い合わせ、人間の指示なしで動くマルウェアも見つかっている。",
-      "date": "Tue, 29 Sep 2026",
+      "title": "人間の脳は、異なる2つの“部品”からつくられていた：研究結果",
+      "url": "https://wired.jp/article/human-brain-two-developmental-origins/",
+      "description": "人間の脳は単一の細胞群から成長するひとつの器官ではなく、異なる発生起源をもつ2つの細胞群からつくられている可能性が、スタンフォード大学などの研究で示された。これにより疾患の研究にも新たな道が拓かれることになりそうだ。",
+      "date": "Sat, 03 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Geminiがユーザーに代わって電話。グーグル「Pixel 11」の新機能とは",
+      "url": "https://wired.jp/article/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
+      "description": "グーグルは、「Pixel 11」シリーズ向けに、Geminiがユーザーに代わって電話をかける新機能「Call for Me」を発表した。米国で英語のみ利用できる。AI同士が電話で会話する未来も現実味を帯びてきた。",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "太陽系外惑星からの電波、その発生源が初めて特定される",
+      "url": "https://wired.jp/article/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/",
+      "description": "天文学者たちは、電波望遠鏡で捉えた電波放射の発生源を、太陽系外惑星「がか座β星b」まで突き止めた。惑星の磁場にかかわる活動によって生じた現象だと考えられる。",
+      "date": "Fri, 02 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://wired.jp/article/openai-delays-release-of-latest-model-over-safety-concerns/",
       "description": "OpenAIは「GPT-6.1 Astra」について、安全基準を満たすため、さらなる改善を進めると発表した。また、オーストラリア政府のウェブサイトへの不正アクセスを巡る対応について謝罪した。",
       "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "未来を“解く”技術＝リジェネラティブ・テクノロジーとは何か──『FUTURES LITERACY　未来という難問を解く』から",
-      "url": "https://wired.jp/article/book-futures-literacy-regenerative-technology/",
-      "description": "未来を固定化するのではなく、何度でも繰り返し「新たな可能性を発現させる」ような技術をいかにして手にできるだろうか？",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "タラリコとオソフが築く〈パープル〉なアメリカ？──「アメリカン・ドッペルゲンガー」by 池田純一#17",
-      "url": "https://wired.jp/article/american-doppelganger-17/",
-      "description": "11月3日（火）に実施される中間選挙まで1カ月あまり。「現職大統領の所属政党」が劣勢になりがちなのは毎度のことだが、今回はトランプ陣営の失策も重なり、上院・下院ともに民主党が過半数を奪う可能性も見えてきた。注目州はどこなのか？ 状況を整理する。",
-      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-02T22:31:18.345158+00:00",
+  "fetchedAt": "2026-10-03T19:17:54.154621+00:00",
   "items": [
     {
       "title": "The Weasel and the Meaning of It All: Annie Dillard on How to Live",
@@ -17,6 +17,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "How Do You Know That You Love Somebody? Philosopher Martha Nussbaum’s Incompleteness Theorem of the Heart’s Truth, from Plato to Proust",
+      "url": "https://www.themarginalian.org/2026/10/02/martha-nussbaum-loves-knowledge/",
+      "description": "\"The alternations between love and its denial, suffering and denial of suffering … constitute the most essential and ubiquitous structural feature of the human heart.\"",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "The Dandelion and the Meaning of Life: G.K. Chesterton on How to Live in Wonder",
+      "url": "https://www.themarginalian.org/2026/10/03/g-k-chesterton-dandelion/",
+      "description": "Recovering the \"forgotten blaze or burst of astonishment at our own existence\" alive in the back of our modernity-deadened minds.",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -52,6 +84,22 @@
       }
     },
     {
+      "title": "Ocean of Stars: A Painted Poem About How to Bear the Astonishment of Life",
+      "url": "https://www.themarginalian.org/2026/10/02/ocean-of-stars-azita-ardakani/",
+      "description": "Here we are, bewildered miracles of chemistry and chance, trembling embers of dead stars capable of sign and song, a wild bet against probability that won. We have dreamt up origin myths and cosmological models, built the Taj Mahal and the Large Hadron Collider, to fathom where we came from and where we are going. We have invented mathematics to describe the mystery we live in and poetry to describe the mystery we are. But beneath it all, we are born knowing — though we spend our lives unlearnin",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "Inner Space, Outer Space, and How to Be an Astronaut in the Cosmos of Connection: Eric Berne on the Key to True Intimacy",
       "url": "https://www.themarginalian.org/2026/09/28/eric-berne-intimacy/",
       "description": "\"A star is the glowing light inside the other person, distantly seen, brave soul’s tiny flame, too bright to approach without great courage and integrity.\"",
@@ -68,58 +116,10 @@
       }
     },
     {
-      "title": "Hermann Hesse on Discovering the Soul Beneath the Self and the Key to Finding Peace",
-      "url": "https://www.themarginalian.org/2026/09/26/hesse-soul/",
-      "description": "\"Self-hate is really the same thing as sheer egoism, and in the long run breeds the same cruel isolation and despair.\"",
-      "date": "Sun, 27 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 23,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 5,
-        "total": 23
-      }
-    },
-    {
       "title": "What Happens When We Die",
       "url": "https://www.themarginalian.org/2026/09/30/alan-lightman-death/",
       "description": "\"How can a creature who will certainly die have an understanding of things that will exist forever?\"",
       "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "How to Handle a Narcissistic and Abusive Parent: Kafka’s Remarkable Letter to Father",
-      "url": "https://www.themarginalian.org/2026/09/26/franz-kafka-letter-father/",
-      "description": "\"It is, after all, not necessary to fly right into the middle of the sun, but it is necessary to crawl to a clean little spot on earth where the sun sometimes shines and one can warm oneself a little.\"",
-      "date": "Sat, 26 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "How to Speak Forest",
-      "url": "https://www.themarginalian.org/2026/09/25/a-forest-language-hannah-fries/",
-      "description": "“The tree which moves some to tears of joy is in the eyes of others only a green thing that stands in the way,” William Blake wrote in his most passionate letter. “As a man is, so he sees.” Because we are social apes who descended from the trees and invented language to tell each other what we see, saying is a way of seeing. To name something is to instate it in the family of things, to make it a node in the relational web we call reality. A word can be a pinhole, pinching a vista of complexity…",
-      "date": "Sat, 26 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,

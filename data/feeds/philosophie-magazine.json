@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-02T22:30:57.155290+00:00",
+  "fetchedAt": "2026-10-03T19:17:30.569919+00:00",
   "items": [
     {
       "title": "Pourquoi restons-nous si attachés à ceux qui nous ont quittés ?",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "“L’arpentage”, la solution miracle pour réapprendre à lire ?",
+      "url": "https://www.philomag.com/articles/larpentage-la-solution-miracle-pour-reapprendre-lire",
+      "description": "",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/histoire-culturelle-de-lia-retracer-les-origines-dun-mythe-moderne",
       "description": "",
       "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le “visage” chez Levinas, c’est quoi ?",
-      "url": "https://www.philomag.com/articles/le-visage-chez-levinas-cest-quoi",
-      "description": "",
-      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
