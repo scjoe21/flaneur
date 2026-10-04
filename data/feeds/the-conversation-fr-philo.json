@@ -1,24 +1,8 @@
 {
   "sourceId": "the-conversation-fr-philo",
   "sourceName": "The Conversation France — Philosophie",
-  "fetchedAt": "2026-10-03T19:17:54.971329+00:00",
+  "fetchedAt": "2026-10-04T20:09:10.885569+00:00",
   "items": [
-    {
-      "title": "IA : pourquoi former une « tête bien faite » n’a jamais été aussi crucial",
-      "url": "https://theconversation.com/ia-pourquoi-former-une-tete-bien-faite-na-jamais-ete-aussi-crucial-278556",
-      "description": "",
-      "date": "2026-03-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
     {
       "title": "Donner à manger, un geste politique ?",
       "url": "https://theconversation.com/donner-a-manger-un-geste-politique-285792",
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Non, le stoïcisme n'est pas ce « truc de mecs » revendiqué par les masculinistes",
+      "url": "https://theconversation.com/non-le-sto-cisme-nest-pas-ce-truc-de-mecs-revendique-par-les-masculinistes-293412",
+      "description": "",
+      "date": "2026-10-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

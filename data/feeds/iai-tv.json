@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-03T19:18:06.278940+00:00",
+  "fetchedAt": "2026-10-04T20:09:18.301947+00:00",
   "items": [
     {
       "title": "Understanding the development of consciousness | Eva Jablonka",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 30
+      }
+    },
+    {
+      "title": "The Empty Brain | Victoria Trumbull",
+      "url": "https://www.youtube.com/watch?v=3dryKlK8p38",
+      "description": "Victoria Trumbull discusses how we remember and the brain.\n\nAre your memories merely illusions\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/memories-are-not-stored-in-the-brain-victoria-trumbull?stage=Stage?utm_source=YouTube&utm_medium=description\n\nWe often assume that our memories are stored in our brains, just like a hard drive stores data. However, philosopher of time Victoria Trumbull argues this is a radical mistake. Drawing on the philosophy of mind and cogn",
+      "date": "2026-10-04",
+      "thumbnail": "https://i4.ytimg.com/vi/3dryKlK8p38/hqdefault.jpg",
+      "videoId": "3dryKlK8p38",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -100,6 +116,22 @@
       }
     },
     {
+      "title": "What actually are memories? | Victoria Trumbull",
+      "url": "https://www.youtube.com/shorts/zdGbV88_718",
+      "description": "",
+      "date": "2026-10-04",
+      "thumbnail": "https://i3.ytimg.com/vi/zdGbV88_718/hqdefault.jpg",
+      "videoId": "zdGbV88_718",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 10
+      }
+    },
+    {
       "title": "Free will is real, and science proves it | George Ellis",
       "url": "https://www.youtube.com/watch?v=oRKaSp5UmO8",
       "description": "George Ellis lays out his theory for free will and agency in humans, grounding his claims in physics and molecular biology.\n\nAre we more than mere echoes of the Big Bang?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/free-will-is-real?utm_source=YouTube&utm_medium=description\n\nModern science has begun to treat free will as a comforting illusion. Join leading cosmologist and collaborator of Stephen Hawking, George Ellis, as he argues that this is a mistake. Free will",
@@ -122,22 +154,6 @@
       "date": "2026-09-20",
       "thumbnail": "https://i1.ytimg.com/vi/LAIPI9bi7F4/hqdefault.jpg",
       "videoId": "LAIPI9bi7F4",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Will open borders lead us to utopia or social ruin? | James Orr, Michael Ignatieff, Gillian Tett",
-      "url": "https://www.youtube.com/watch?v=HlpsVgqipKk",
-      "description": "Michael Ignatieff, James Orr and Gillian Tett discuss immigration policy.\n\nIs Britain European?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/patriotism-populism-and-the-fate-of-nations?utm_source=YouTube&utm_medium=description\n\n\"In the 21st century, we are defined not by our borders, but by our bonds,\" said President Obama. For decades, in response to an increasingly global economy, the direction of travel had been the softening of borders and a suspicion of nati",
-      "date": "2026-09-15",
-      "thumbnail": "https://i1.ytimg.com/vi/HlpsVgqipKk/hqdefault.jpg",
-      "videoId": "HlpsVgqipKk",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,
@@ -218,22 +234,6 @@
       "date": "2026-09-18",
       "thumbnail": "https://i2.ytimg.com/vi/1LGVaHU1uRk/hqdefault.jpg",
       "videoId": "1LGVaHU1uRk",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Thatcher's curse on education | Guy Standing",
-      "url": "https://www.youtube.com/shorts/nrfegDKq8e0",
-      "description": "",
-      "date": "2026-09-16",
-      "thumbnail": "https://i3.ytimg.com/vi/nrfegDKq8e0/hqdefault.jpg",
-      "videoId": "nrfegDKq8e0",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

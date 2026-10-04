@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-03T19:17:36.522329+00:00",
+  "fetchedAt": "2026-10-04T20:08:56.308991+00:00",
   "items": [
     {
       "title": "Jonathan Gingerich: „Frei sein heißt, das Gegebene überschreiten zu können“",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "Warum Beauvoir de Sade las",
+      "url": "https://www.philomag.de/artikel/warum-beauvoir-de-sade-las",
+      "description": "Marquis de Sade, dem wir gewaltvolle pornografische Werke wie  Die 120 Tage von Sodom  und den Begriff Sadismus verdanken, ist eine verstörende Gestalt. Weshalb plädiert die Feministin Beauvoir dafür, sich gewinnbringend mit ihm zu beschäftigen?",
+      "date": "Fri, 25 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "Palmen: Ab ins Paradies, oder?",
       "url": "https://www.philomag.de/artikel/palmen-ab-ins-paradies-oder",
       "description": "Palmen sind nicht nur exotisches Sinnbild für Strand, Sonne und Meer, sondern auch Teil einer jahrtausendealten Kunst- und Kulturgeschichte. Dabei hat die Pflanze auch ihre Schattenseiten, wie Jutta Person in ihrem Buch  Palmen  zeigt. Sie ist Symbol eines europäischen Kolonialismus.",
@@ -87,38 +103,6 @@
       "title": "Judith Butler: „Frauwerden ist ein offener Prozess“",
       "url": "https://www.philomag.de/artikel/judith-butler-frauwerden-ist-ein-offener-prozess",
       "description": "Das andere Geschlecht  stellt unser Verständnis von Frau, Mann und ihrem Verhältnis infrage – und wurde damit zu einem wegweisenden Text. Im Interview erklärt Judith Butler, was Beauvoirs Analyse so bedeutsam macht und wie die Gender-Theorie daran anschließt, aber auch darüber hinausreicht.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Die Relevanz des Leibes",
-      "url": "https://www.philomag.de/artikel/die-relevanz-des-leibes",
-      "description": "In  Das andere Geschlecht  problematisiert Beauvoir den weiblichen Körper als Einschränkung einer selbstbestimmten Existenz. Gleichzeitig verleiht sie leiblichen Erfahrungen Gewicht. Daraus lassen sich gerade heute wichtige Schlüsse ziehen.",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Silvia Federici: „Wer die eigene Versklavung erkennt, geht bereits über sie hinaus“",
-      "url": "https://www.philomag.de/artikel/silvia-federici-wer-die-eigene-versklavung-erkennt-geht-bereits-ueber-sie-hinaus",
-      "description": "Lässt sich Hausarbeit gerecht gestalten? Die marxistische, feministische Denkerin Silvia Federici sieht in ihr einen verborgenen Wert. Ein Gespräch über ihre Gemeinsamkeiten mit sowie Unterschiede zu Beauvoir und über die Aktualität von  Das andere Geschlecht.",
       "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
@@ -152,6 +136,22 @@
       "url": "https://www.philomag.de/artikel/mein-beauvoir-erlebnis",
       "description": "Simone de Beauvoirs Werke zählen zu jenen, die das Leben nicht nur interpretieren, sondern auch zu ändern vermögen. Acht Intellektuelle berichten, wie die Beauvoir-Lektüre sie geprägt hat.",
       "date": "Mon, 28 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Feminismus ohne Frauen",
+      "url": "https://www.philomag.de/artikel/feminismus-ohne-frauen",
+      "description": "Dem akademischen Queerfeminismus scheint das weibliche Subjekt abhandenzukommen. Wie Beauvoir dabei helfen kann, es wiederzugewinnen.",
+      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-10-03T19:17:34.117344+00:00",
+  "fetchedAt": "2026-10-04T20:08:53.707093+00:00",
   "items": [
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
@@ -68,19 +68,19 @@
       }
     },
     {
-      "title": "Tourismus - Die koloniale Kehrseite des Reisens",
-      "url": "https://www.deutschlandfunkkultur.de/tourismus-die-koloniale-kehrseite-der-reisewut-100.html",
-      "description": "Sommer bedeutet für viele Menschen in Deutschland: verreisen. Aber wer darf sich auf der Welt eigentlich bewegen und wer nicht? Für Sinthujan Varatharajah ist Tourismus keine harmlose Freizeitbeschäftigung, sondern Teil einer kolonialen Gegenwart. Rohde, Stephanie; Varatharajah, Sinthujan www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 09 Aug 2026",
+      "title": "Zum 100. Geburtstag Michel Foucaults: Das Lachen des Philosophen",
+      "url": "https://www.deutschlandfunkkultur.de/zum-100-geburtstag-michel-foucaults-das-lachen-des-philosophen-100.html",
+      "description": "Wenige Denker sind heute so einflussreich wie Michel Foucault (1926-1984) mit seinen Gedanken zu Macht und Biopolitik, Selbstsorge und Sexualität. Ulrich Johannes Schneider hat ihn noch live erlebt und weiß: Wer ihm zuhört, findet auch Humor. Aguigah, René; Schneider, Ulrich Johannes www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 04 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 15
+        "novelty": 0,
+        "total": 20
       }
     },
     {

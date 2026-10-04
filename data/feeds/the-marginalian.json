@@ -1,24 +1,8 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-03T19:17:54.154621+00:00",
+  "fetchedAt": "2026-10-04T20:09:10.117579+00:00",
   "items": [
-    {
-      "title": "The Weasel and the Meaning of It All: Annie Dillard on How to Live",
-      "url": "https://www.themarginalian.org/2026/09/27/annie-dillard-weasel/",
-      "description": "Suppose we answer the most important question of existence in the affirmative. There is then only one question remaining: How shall we live this life? Despite all the technologies of thought and feeling we have invented to divine an answer — philosophy and poetry, scripture and self-help — life stares mutely back at us, immense and indifferent, having abled us with opposable thumbs and handicapped us with a consciousness capable of self-reference that renders us dissatisfied with the banality of",
-      "date": "Sun, 27 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
     {
       "title": "How Do You Know That You Love Somebody? Philosopher Martha Nussbaum’s Incompleteness Theorem of the Heart’s Truth, from Plato to Proust",
       "url": "https://www.themarginalian.org/2026/10/02/martha-nussbaum-loves-knowledge/",
@@ -100,6 +84,22 @@
       }
     },
     {
+      "title": "Dostoyevsky on What Makes a Good Person",
+      "url": "https://www.themarginalian.org/2026/10/04/dostoyevsy-good-person/",
+      "description": "We know good people when we encounter them, when they fall upon our lives like a sunbeam, like a song. But we don’t always know what makes them good. It has, of course, a lot to do with kindness. It has to do with their capacity to give, and also to receive. It has to do with their courage of uncertainty. And yet like all the great truths, the essence of a person, the goodness of a person, is both clear and ineffable. In the bleak Siberian winter of 1856, Fyodor Dostoyevsky (November 11, 1821–Fe",
+      "date": "Sun, 04 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "Inner Space, Outer Space, and How to Be an Astronaut in the Cosmos of Connection: Eric Berne on the Key to True Intimacy",
       "url": "https://www.themarginalian.org/2026/09/28/eric-berne-intimacy/",
       "description": "\"A star is the glowing light inside the other person, distantly seen, brave soul’s tiny flame, too bright to approach without great courage and integrity.\"",
@@ -164,22 +164,6 @@
       }
     },
     {
-      "title": "Do Not Spare Yourself: An Antidote to Feeling Like You Are Waiting to Start Living",
-      "url": "https://www.themarginalian.org/2026/09/27/no-te-salves/",
-      "description": "The only thing more dangerous than wanting to save another person — a dangerous desire too often mistaken for love — is wanting to save yourself, to spare yourself the disappointment and heartbreak and loss inseparable from being a creature with hopes and longings constantly colliding with reality, with the indifference of time and chance, with the opposing hopes and longings of others. We have, of course, always invented institutions of salvation — religion to save us from our sins, therapy to ",
-      "date": "Sun, 27 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Bertrand Russell on the Secret of Happiness",
       "url": "https://www.themarginalian.org/2026/09/28/bertrand-russell-happiness/",
       "description": "\"Let your interests be as wide as possible, and let your reactions to the things and persons that interest you be as far as possible friendly rather than hostile.\"",
@@ -225,6 +209,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Against Brute Force: D.H. Lawrence on the Superpower of Vulnerability",
+      "url": "https://www.themarginalian.org/2026/10/03/d-h-lawrence-brute-force/",
+      "description": "\"Brute force crushes many plants. Yet the plants rise again. The Pyramids will not last a moment compared with the daisy.\"",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

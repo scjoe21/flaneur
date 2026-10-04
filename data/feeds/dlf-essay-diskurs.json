@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-10-03T19:17:58.076082+00:00",
+  "fetchedAt": "2026-10-04T20:09:13.073527+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -148,6 +148,22 @@
       }
     },
     {
+      "title": "Unsere nihilistische Gegenwart - Der Aufstieg autoritärer Macht und die Krise des Liberalismus",
+      "url": "https://www.deutschlandfunk.de/der-aufstieg-autoritaerer-macht-und-die-krise-des-liberalismus-100.html",
+      "description": "Nach dem Fall der Mauer und dem Sieg des Westens glaubte man, der Liberalismus sei das Ende der Geschichte. Heute dagegen scheint die Geschichte des Liberalismus selbst zu Ende zu gehen. Von Thomas Assheuer www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 04 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Kommunikationsfreiheit - Das Recht, die Macht und die Bedingungen offener Diskurse",
       "url": "https://www.deutschlandfunk.de/das-recht-die-macht-und-die-bedingungen-offener-diskurse-100.html",
       "description": "Offene Diskurse sind die Bedingung gelingender Demokratie. Und das Recht hat die Aufgabe, Bedingungen herzustellen, die eine freie individuelle und öffentliche Meinungsbildung weitestgehend ermöglichen. Von Valerie Rhein www.deutschlandfunk.de, Essay und Diskurs",
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Textilgeschichte - Zwischen Monogramm und Moderne – von der bürgerlichen Aussteuer zur autonomen Kunst",
-      "url": "https://www.deutschlandfunk.de/zwischen-monogramm-und-moderne-von-der-buergerlichen-aussteuer-zur-autonomen-kunst-100.html",
-      "description": "Leibwäsche, Nachtwäsche, Bettwäsche, Tischwäsche: Mehr als 700 Stücke konnte eine bürgerliche Aussteuer um 1900 umfassen. Hier wird die Geschichte bürgerlichen Wohnens, der Emanzipation von Frauen, aber auch die Entwicklung der Textilkunst kenntlich. Von Hilka Dirks www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 28 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

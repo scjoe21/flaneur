@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-03T19:18:14.204962+00:00",
+  "fetchedAt": "2026-10-04T20:09:28.386474+00:00",
   "items": [
     {
       "title": "能力資本主義の申し子としてのソーシャルイノベーション｜Social Innovation",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "慢性的なストレスが、心臓を傷つける“隠れた炎症”を招く可能性がある：研究結果",
+      "url": "https://wired.jp/article/chronic-stress-hidden-inflammation-heart-risk/",
+      "description": "自覚症状のないまま体内で持続する“隠れた炎症”が心臓の構造を変え、心疾患リスクを高めている可能性が、英国の大規模研究で示された。体脂肪や喫煙だけでなく、精神状態や社会経済的地位も関連しているという。",
+      "date": "Sun, 04 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -52,19 +68,51 @@
       }
     },
     {
-      "title": "現実の「ディスクロージャー・デイ」は、スピルバーグの新作とはまったく違うものになる",
-      "url": "https://wired.jp/article/sz-real-life-disclosure-day-wont-look-like-steven-spielberg-movie/",
-      "description": "ヒッグス粒子や重力波の検出のように歳月をかけて成功した科学的発見の経緯が、エイリアン存在の真偽を確認するために必要なことを教えてくれる。",
-      "date": "Wed, 30 Sep 2026",
+      "title": "シャオミの新型SUV「SkyNomad」、欧米メーカーを揺さぶる価格と装備",
+      "url": "https://wired.jp/article/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
+      "description": "シャオミが、欧米の高級SUV顔負けの装備を満載した新型車を発表した。床暖房や冷蔵庫、回転式シートを備え、航続距離は約1,600kmだという。それでいて、中国での価格は約500万円からだ。",
+      "date": "Sun, 04 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "理解できない世界とどう向き合うか──CERNで活動する田中ゆりが語る科学と芸術",
+      "url": "https://wired.jp/article/yuri-tanaka-interview/",
+      "description": "科学は世界をどこまで解明できるのだろうか。そして、理解しきれないものと人間はどう向き合えばいいのか。CERNで科学者らとの学際的な協働を続けるアーティスト／研究者・田中ゆりに、科学と芸術、そして想像力の役割について聞いた。",
+      "date": "Sun, 04 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "火山噴火を「天気予報」のように予測できる日は来るのか",
+      "url": "https://wired.jp/article/physics-predict-volcanic-eruptions/",
+      "description": "火山は複雑で、いまだ謎が多い。噴火を予測するには地下の物理現象を解き明かし、膨大な観測データを蓄積する必要がある。科学者たちは観測網や機械学習を駆使し、噴火に至るプロセスの解明を目指している。",
+      "date": "Sat, 03 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/iphone-duo-hands-on-foldable-evolution/",
       "description": "アップル初の折り畳みスマートフォン「iPhone Duo」は、従来の折り畳みスマートフォンからいかに進化しているのか。実際に使ってみると、さまざまな違いが見えてきた。",
       "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "OpenAI、Hugging Faceへのハッキングを巡り提訴される",
-      "url": "https://wired.jp/article/openai-sued-over-the-hugging-face-hack/",
-      "description": "カリフォルニア州の非営利団体が、AIエージェントによるHugging Faceへのハッキングを巡りOpenAIを提訴した。自律的なAIの行為を巡る法的責任のあり方が問われている。",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "重さ100gの「Meta VR Glasses」を体験して見えてきた未来",
-      "url": "https://wired.jp/article/meta-vr-glasses-apple-vision-pro-different-approach/",
-      "description": "メタ・プラットフォームズが重さ100gのVRデバイス「Meta VR Glasses」を発表した。いち早く体験して感じたことは、空間コンピューティングに対するアップルとのアプローチの違いだ。",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "OpenAI、「GPT-6.1 Astra」の10月リリースを中止。安全基準を満たせず",
-      "url": "https://wired.jp/article/openai-delays-release-of-latest-model-over-safety-concerns/",
-      "description": "OpenAIは「GPT-6.1 Astra」について、安全基準を満たすため、さらなる改善を進めると発表した。また、オーストラリア政府のウェブサイトへの不正アクセスを巡る対応について謝罪した。",
-      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

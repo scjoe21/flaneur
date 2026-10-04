@@ -1,7 +1,7 @@
 {
   "sourceId": "doppiozero",
   "sourceName": "Doppiozero",
-  "fetchedAt": "2026-10-03T19:17:45.732412+00:00",
+  "fetchedAt": "2026-10-04T20:09:02.460939+00:00",
   "items": [
     {
       "title": "La guerra non è un videogame",
@@ -33,6 +33,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 23
+      }
+    },
+    {
+      "title": "Occhio Rotondo 73. Disturbante",
+      "url": "https://www.doppiozero.com/occhio-rotondo-73-disturbante",
+      "description": "Occhio Rotondo 73. Disturbante \n \n Marco Belpoliti \n Anita Romanello \n Dom, 04/10/2026 - 03:05 \n \n\n             Le fotografie di Bruce Gilden sono disturbanti, non c’è alcun dubbio. Possiedono, come questo ritratto di donna, qualcosa di molesto, fastidioso e imbarazzante. Perché mai fotografare in questo modo i volti delle persone, e poi perché proprio queste persone? Chi ha visitato la bella mostra di Gilden,  A Closer Look , alla lettera: “uno sguardo più approfondito” o ravvicinato, a Brescia",
+      "date": "Sun, 04 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -84,18 +100,18 @@
       }
     },
     {
-      "title": "Matematici del Novacene",
-      "url": "https://www.doppiozero.com/matematici-del-novacene",
-      "description": "Matematici del Novacene \n \n Luca Barbieri Viale \n Anita Romanello \n Mar, 29/09/2026 - 03:10 \n \n\n             L’8 settembre 2026 non è soltanto una data da registrare negli annali della storia della scienza; è, con ogni probabilità, il primo giorno del  Novacene . Quando OpenAI ha annunciato di aver risolto il problema della regolarità delle equazioni di Navier-Stokes – uno dei sette Problemi del Millennio che da quasi un secolo tormenta i matematici di tutto il mondo –, ha fatto qualcosa di più ",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Winnicot e i genitori sempre inadeguati",
+      "url": "https://www.doppiozero.com/winnicot-e-i-genitori-sempre-inadeguati",
+      "description": "Winnicot e i genitori sempre inadeguati \n \n Moreno Montanari \n Anita Romanello \n Dom, 04/10/2026 - 03:10 \n \n\n             È risaputo: non c’è nessuno che faccia sentire in colpa e inadeguati i genitori quanto Donald Woods Winnicott. I suoi concetti di madre e di ambiente sufficientemente buoni hanno regolarmente prodotto vissuti fallimentari in chi è chiamata a un compito che, del resto, è davvero delicatissimo. Per questo il volumetto  Colloqui con i genitori , da poco uscito per i tipi della R",
+      "date": "Sun, 04 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 10
       }
     },
@@ -148,35 +164,19 @@
       }
     },
     {
-      "title": "Acemoglu: Nobel, economia e AI",
-      "url": "https://www.doppiozero.com/acemoglu-nobel-economia-e-ai",
-      "description": "Acemoglu: Nobel, economia e AI \n \n Alfredo Gigliobianco \n Anita Romanello \n Mer, 30/09/2026 - 02:55 \n \n\n             Due anni fa ci siamo fatti scappare Acemoglu. Ha preso il premio Nobel per l’economia e non lo abbiamo commentato. Però ci rifacciamo quest’anno. L’occasione è di quelle un po’ mondane, una polemicuzza da niente, che sarà sicuramente dimenticata fra qualche mese. Oggi però se ne parla, il che ci dà il destro per discutere non solo delle tesi Acemoglu e compagni, ma anche del rappo",
-      "date": "Wed, 30 Sep 2026",
+      "title": "La Macondo d’Armenia",
+      "url": "https://www.doppiozero.com/la-macondo-darmenia",
+      "description": "La Macondo d’Armenia \n \n Simone Nebbia \n Anita Romanello \n Dom, 04/10/2026 - 03:00 \n \n\n             All’inizio è una donna, vive da sola in una fattoria semisperduta dove coltiva piante e alleva animali; compie azioni semplici, ognuna con una qualche prospettiva di continuità e conservazione – il becchime ai polli, l’acqua all’orto, la protezione contro il possibile temporale, le provviste da tenere al fresco per un’altra stagione – poi si mette a letto e, vittima di un sanguinamento che non si ",
+      "date": "Sun, 04 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Anna Kańtoch, stagioni nere",
-      "url": "https://www.doppiozero.com/anna-kantoch-stagioni-nere",
-      "description": "Anna Kańtoch, stagioni nere \n \n Alessandro Mezzena Lona \n Anita Romanello \n Mar, 29/09/2026 - 03:05 \n \n\n             “Una storia è qualcosa che non si può controllare”: era il 1971 e Stanley Kubrick aveva le idee ben chiare, mentre si apprestava a girare il suo  Arancia meccanica , ispirandosi al romanzo di Anthony Burgess. Così dicendo, il regista nato a New York non alludeva soltanto al fatto che, trasferendo la trama e i personaggi di un libro sul grande schermo, era necessario introdurre num",
-      "date": "Tue, 29 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
