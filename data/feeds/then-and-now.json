@@ -1,7 +1,7 @@
 {
   "sourceId": "then-and-now",
   "sourceName": "Then & Now",
-  "fetchedAt": "2026-10-09T11:04:39.832817+00:00",
+  "fetchedAt": "2026-10-09T20:04:11.748066+00:00",
   "items": [
     {
       "title": "The New Age of Remote War",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Is Fascism in our nature?",
+      "url": "https://www.youtube.com/watch?v=Aw3QOeanKYw",
+      "description": "",
+      "date": "2026-10-09",
+      "thumbnail": "https://i2.ytimg.com/vi/Aw3QOeanKYw/hqdefault.jpg",
+      "videoId": "Aw3QOeanKYw",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-02-16",
       "thumbnail": "https://i1.ytimg.com/vi/l1kNDirtExg/hqdefault.jpg",
       "videoId": "l1kNDirtExg",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Forget Trump, do this instead...",
-      "url": "https://www.youtube.com/watch?v=6OTQfhV6uuQ",
-      "description": "",
-      "date": "2026-02-12",
-      "thumbnail": "https://i3.ytimg.com/vi/6OTQfhV6uuQ/hqdefault.jpg",
-      "videoId": "6OTQfhV6uuQ",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

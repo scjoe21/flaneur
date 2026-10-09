@@ -1,329 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W15",
-      "tags": [
-        "자유의지",
-        "결정론",
-        "도덕철학",
-        "신경과학",
-        "에피쿠로스",
-        "쾌락주의",
-        "행복론",
-        "욕망",
-        "몽테뉴",
-        "수상록",
-        "자기인식",
-        "자기탐구",
-        "절제",
-        "도파민",
-        "디지털경제",
-        "자본주의",
-        "기후변화",
-        "생태철학",
-        "한스요나스",
-        "책임윤리",
-        "환경",
-        "쇼펜하우어",
-        "의지",
-        "쾌락의쳇바퀴",
-        "불교철학",
-        "니체",
-        "힘에의 의지",
-        "자기극복",
-        "르상티망",
-        "롤랑바르트",
-        "소비주의",
-        "광고",
-        "신화론",
-        "정체성",
-        "스피노자",
-        "코나투스",
-        "존재론",
-        "능동감정",
-        "아리스토텔레스",
-        "중용",
-        "번아웃",
-        "덕윤리",
-        "에우다이모니아",
-        "돌봄윤리",
-        "페미니즘",
-        "캐롤길리건",
-        "감정노동",
-        "젠더",
-        "버트런드러셀",
-        "질투",
-        "비교",
-        "소셜미디어",
-        "스토아철학",
-        "마르쿠스아우렐리우스",
-        "명상록",
-        "자기훈련",
-        "미니멀리즘",
-        "소로",
-        "소유",
-        "주의경제",
-        "중독",
-        "의지력",
-        "사회철학",
-        "연결",
-        "요한하리"
-      ],
-      "articles": [
-        {
-          "title": "자유의지는 환상인가 — 결정론과 책임의 문제",
-          "summary": "우리의 모든 선택이 사실은 뇌의 화학반응과 과거 경험의 산물이라면, 도덕적 책임은 여전히 유효한가? 몽시외 피가 자유의지 논쟁을 일상의 언어로 풀어낸다.",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "자유의지",
-            "결정론",
-            "도덕철학",
-            "신경과학"
-          ],
-          "sourceUrl": "https://www.youtube.com/@MonsieurPhi",
-          "originalTitle": ""
-        },
-        {
-          "title": "에피쿠로스의 쾌락주의 — 오해와 진실",
-          "summary": "에피쿠로스는 '즐기며 살라'고 했지만, 그것은 우리가 상상하는 향락과 거리가 멀다. 물, 빵, 우정 — 그의 철학이 말하는 진짜 행복의 조건.",
-          "philosopher": "에피쿠로스 (Epicurus)",
-          "philosophers": [
-            "에피쿠로스 (Epicurus)",
-            "아리스토텔레스 (Aristotle)"
-          ],
-          "tags": [
-            "에피쿠로스",
-            "쾌락주의",
-            "행복론",
-            "욕망"
-          ],
-          "sourceUrl": "https://www.youtube.com/@LePrecepteur",
-          "originalTitle": ""
-        },
-        {
-          "title": "몽테뉴의 자기 탐구 — 나를 모르면서 어떻게 절제할 수 있는가",
-          "summary": "몽테뉴는 평생 자신을 관찰하고 기록했다. 수상록은 철학 논문이 아니라 자기 실험의 일지다. 욕망을 다스리기 위해 먼저 해야 할 일은 자신이 무엇을 원하는지 아는 것이다.",
-          "philosopher": "몽테뉴 (Michel de Montaigne)",
-          "philosophers": [
-            "몽테뉴 (Michel de Montaigne)",
-            "루소 (Jean-Jacques Rousseau)",
-            "사르트르 (Jean-Paul Sartre)"
-          ],
-          "tags": [
-            "몽테뉴",
-            "수상록",
-            "자기인식",
-            "자기탐구",
-            "절제"
-          ],
-          "sourceUrl": "https://www.youtube.com/@LePrecepteur",
-          "originalTitle": ""
-        },
-        {
-          "title": "도파민 경제 — 뇌가 더 많은 것을 원하도록 설계된 이유",
-          "summary": "스마트폰 알림, 소셜미디어 좋아요, 도박 기계 — 이것들은 모두 같은 뇌 회로를 공략한다. 게르트 쇼벨이 신경과학과 자본주의의 교차점을 탐구한다.",
-          "philosopher": "아리스토텔레스 (Aristotle)",
-          "philosophers": [
-            "아리스토텔레스 (Aristotle)"
-          ],
-          "tags": [
-            "도파민",
-            "신경과학",
-            "디지털경제",
-            "욕망",
-            "자본주의"
-          ],
-          "sourceUrl": "https://www.zdf.de/wissen/scobel",
-          "originalTitle": ""
-        },
-        {
-          "title": "기후 불안과 무력감 — 철학은 무엇을 할 수 있는가",
-          "summary": "기후변화를 알면서도 행동하지 못하는 것은 게으름이 아니라 심리적 방어기제다. 쇼벨이 생태적 위기 앞에서의 인간 심리와 철학적 행위성을 탐구한다.",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "기후변화",
-            "생태철학",
-            "한스요나스",
-            "책임윤리",
-            "환경"
-          ],
-          "sourceUrl": "https://www.zdf.de/wissen/scobel",
-          "originalTitle": ""
-        },
-        {
-          "title": "쇼펜하우어의 의지 — 욕망은 왜 채워지지 않는가",
-          "summary": "원하던 것을 얻는 순간 새로운 욕망이 생긴다. 쇼펜하우어는 이것이 인간의 본질적 조건이라고 봤다. 그렇다면 우리는 영원히 불만족에 운명지워진 것인가?",
-          "philosopher": "쇼펜하우어 (Schopenhauer)",
-          "philosophers": [
-            "쇼펜하우어 (Schopenhauer)",
-            "니체 (Friedrich Nietzsche)"
-          ],
-          "tags": [
-            "쇼펜하우어",
-            "의지",
-            "욕망",
-            "쾌락의쳇바퀴",
-            "불교철학"
-          ],
-          "sourceUrl": "https://www.zdf.de/wissen/scobel",
-          "originalTitle": ""
-        },
-        {
-          "title": "니체의 '힘에의 의지' — 지배욕인가 자기극복인가",
-          "summary": "니체의 가장 오해받는 개념. 힘에의 의지는 타인을 지배하려는 욕망이 아니라 자기 자신을 극복하려는 창조적 충동이다. 릭 두페르의 니체 읽기.",
-          "philosopher": "니체 (Friedrich Nietzsche)",
-          "philosophers": [
-            "니체 (Friedrich Nietzsche)"
-          ],
-          "tags": [
-            "니체",
-            "힘에의 의지",
-            "자기극복",
-            "르상티망"
-          ],
-          "sourceUrl": "https://www.youtube.com/@RickDuFer",
-          "originalTitle": ""
-        },
-        {
-          "title": "소비주의 신화학 — 광고는 어떻게 욕망을 만드는가",
-          "summary": "롤랑 바르트의 신화론으로 현대 광고를 해부한다. 애플은 기기를 팔지 않고 정체성을 판다. 이탈리아 철학 집단 Tlon의 분석.",
-          "philosopher": "바르트 (Roland Barthes)",
-          "philosophers": [
-            "바르트 (Roland Barthes)"
-          ],
-          "tags": [
-            "롤랑바르트",
-            "소비주의",
-            "광고",
-            "신화론",
-            "정체성"
-          ],
-          "sourceUrl": "https://www.youtube.com/@tlon_it",
-          "originalTitle": ""
-        },
-        {
-          "title": "스피노자의 코나투스 — 욕망은 악이 아니라 존재의 본질이다",
-          "summary": "스피노자에게 욕망은 죄가 아니었다. 존재하려는 충동, 코나투스가 인간 행동의 근원이다. 그렇다면 문제는 욕망을 없애는 것이 아니라 어떤 욕망과 관계 맺을 것인가다.",
-          "philosopher": "스피노자 (Baruch Spinoza)",
-          "philosophers": [
-            "스피노자 (Baruch Spinoza)",
-            "노자 (Laozi)"
-          ],
-          "tags": [
-            "스피노자",
-            "코나투스",
-            "욕망",
-            "존재론",
-            "능동감정"
-          ],
-          "sourceUrl": "https://www.youtube.com/@RickDuFer",
-          "originalTitle": ""
-        },
-        {
-          "title": "절제는 덕인가 — 아리스토텔레스의 중용과 현대인의 번아웃",
-          "summary": "아리스토텔레스는 덕을 과잉과 결핍 사이의 중간으로 봤다. 현대의 '열심히 살기' 문화는 어떤 덕목을 추구하다 오히려 덕에서 멀어지게 하는가.",
-          "philosopher": "아리스토텔레스 (Aristotle)",
-          "philosophers": [
-            "아리스토텔레스 (Aristotle)"
-          ],
-          "tags": [
-            "아리스토텔레스",
-            "중용",
-            "번아웃",
-            "덕윤리",
-            "에우다이모니아"
-          ],
-          "sourceUrl": "https://philosophynow.org",
-          "originalTitle": ""
-        },
-        {
-          "title": "페미니즘과 돌봄 윤리 — 자기희생은 덕인가 착취인가",
-          "summary": "캐롤 길리건의 돌봄 윤리는 전통 도덕철학이 남성적 자율성 개념에 기반했다고 비판한다. 돌봄을 수행하는 사람들은 왜 항상 더 많이 절제해야 하는가.",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "돌봄윤리",
-            "페미니즘",
-            "캐롤길리건",
-            "감정노동",
-            "젠더"
-          ],
-          "sourceUrl": "https://www.overthinkpodcast.com",
-          "originalTitle": ""
-        },
-        {
-          "title": "버트런드 러셀의 행복론 — 질투는 왜 현대 불행의 핵심인가",
-          "summary": "러셀은 1930년에 행복의 가장 큰 적 중 하나로 질투를 꼽았다. 소셜미디어가 없던 시대의 통찰이 오늘날 더 날카롭게 들린다.",
-          "philosopher": "버트런드 러셀 (Bertrand Russell)",
-          "philosophers": [
-            "버트런드 러셀 (Bertrand Russell)"
-          ],
-          "tags": [
-            "버트런드러셀",
-            "행복론",
-            "질투",
-            "비교",
-            "소셜미디어"
-          ],
-          "sourceUrl": "https://philosophynow.org",
-          "originalTitle": ""
-        },
-        {
-          "title": "마르쿠스 아우렐리우스의 일기 — 황제가 매일 자신에게 상기시킨 것",
-          "summary": "로마 황제이자 스토아 철학자. 그는 무한한 권력을 가졌지만 매일 일기에 절제와 겸손을 상기했다. 명상록에서 배우는 자기 훈련의 실천.",
-          "philosopher": "마르쿠스 아우렐리우스 (Marcus Aurelius)",
-          "philosophers": [
-            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
-          ],
-          "tags": [
-            "스토아철학",
-            "마르쿠스아우렐리우스",
-            "명상록",
-            "자기훈련",
-            "절제"
-          ],
-          "sourceUrl": "https://dailystoic.com",
-          "originalTitle": ""
-        },
-        {
-          "title": "미니멀리즘은 철학인가 미학인가 — 소유와 존재의 문제",
-          "summary": "인스타그램의 미니멀리즘은 빈 벽과 흰 셔츠다. 하지만 철학적 미니멀리즘은 더 급진적인 질문을 던진다. 나는 소유하는 것인가, 소유당하는 것인가.",
-          "philosopher": "소로 (Henry David Thoreau)",
-          "philosophers": [
-            "소로 (Henry David Thoreau)"
-          ],
-          "tags": [
-            "미니멀리즘",
-            "소로",
-            "소유",
-            "주의경제",
-            "존재론"
-          ],
-          "sourceUrl": "https://bigthink.com",
-          "originalTitle": ""
-        },
-        {
-          "title": "중독의 철학 — 의지력 부족인가 환경의 실패인가",
-          "summary": "우리는 중독을 개인의 나약함으로 본다. 하지만 신경과학과 사회철학은 다른 설명을 제시한다. 욕망이 통제 불능이 될 때 책임은 어디에 있는가.",
-          "philosopher": "마르쿠스 아우렐리우스 (Marcus Aurelius)",
-          "philosophers": [
-            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
-          ],
-          "tags": [
-            "중독",
-            "의지력",
-            "사회철학",
-            "연결",
-            "요한하리"
-          ],
-          "sourceUrl": "https://bigthink.com",
-          "originalTitle": ""
-        }
-      ]
-    },
-    {
       "week": "2026-W17",
       "tags": [
         "인식적 불의",
@@ -7252,6 +6929,282 @@
           ],
           "sourceUrl": "https://wired.jp/article/sz-social-innovation-meritocratic-capitalism/",
           "originalTitle": "能力資本主義の申し子としてのソーシャルイノベーション｜Social Innovation"
+        }
+      ]
+    },
+    {
+      "week": "2026-W42",
+      "tags": [
+        "재난",
+        "책임 귀속",
+        "기후위기",
+        "진정성",
+        "자기표현",
+        "정체성",
+        "애도",
+        "상실",
+        "지속적 유대",
+        "교육",
+        "학습",
+        "감정과 기억",
+        "중독",
+        "자율성",
+        "마약 정책",
+        "권력과 양심",
+        "시민 저항",
+        "창조",
+        "의미",
+        "칼비노",
+        "불안",
+        "풍요의 역설",
+        "자유의 현기증",
+        "용기",
+        "두려움",
+        "인지습관",
+        "기후정의",
+        "행성적사유",
+        "번영과평등",
+        "경제학",
+        "권력",
+        "탈정치화",
+        "진단언어",
+        "의료철학",
+        "분류의 권력",
+        "아이디어",
+        "창조성",
+        "문화적맥락",
+        "동물윤리",
+        "도덕적 감수성",
+        "생태",
+        "동화",
+        "결말",
+        "도덕교육",
+        "기대",
+        "행복",
+        "스토아철학",
+        "협력",
+        "게임이론",
+        "사회적딜레마",
+        "표준시",
+        "지식과 권력",
+        "식민주의"
+      ],
+      "articles": [
+        {
+          "title": "산불 탓을 방화범에게 돌리는 이유",
+          "summary": "대형 산불 앞에서 우리는 왜 구조적 원인 대신 개인 범인을 찾으려 하는가?",
+          "philosopher": "",
+          "tags": [
+            "재난",
+            "책임 귀속",
+            "기후위기"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=_WvCG8guEo4",
+          "originalTitle": "Feux de forêt : pourquoi on accuse toujours les pyromanes."
+        },
+        {
+          "title": "진심이 새로운 방패가 되다",
+          "summary": "진정성의 시대, 솔직함은 덕인가 아니면 새로운 형태의 자기과시인가",
+          "philosopher": "샤를 테일러 (Charles Taylor)",
+          "tags": [
+            "진정성",
+            "자기표현",
+            "정체성"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/la-sincerite-notre-nouveau-rempart",
+          "originalTitle": "La sincérité, notre nouveau rempart"
+        },
+        {
+          "title": "떠난 사람을 왜 우리는 놓지 못하는가",
+          "summary": "사랑하는 이를 잃은 뒤에도 그 존재가 우리 안에 살아있는 이유는 무엇인가?",
+          "philosopher": "프란시스 베이컨 (Francis Bacon)",
+          "tags": [
+            "애도",
+            "상실",
+            "지속적 유대"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/pourquoi-restons-nous-si-attaches-ceux-qui-nous-ont-quittes",
+          "originalTitle": "Pourquoi restons-nous si attachés à ceux qui nous ont quittés ?"
+        },
+        {
+          "title": "감동이 클수록 배움은 사라진다",
+          "summary": "수업이 쇼가 될 때, 학생의 뇌에서는 정작 중요한 것이 지워진다",
+          "philosopher": "헤닝 베크 (Henning Beck)",
+          "tags": [
+            "교육",
+            "학습",
+            "감정과 기억"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/ilxMejsnM-A",
+          "originalTitle": "Warum zu viel Entertainment den Lernerfolg killt #LehrerInfluencer #Schule #TikTok #NANO"
+        },
+        {
+          "title": "마약을 직접 복용하는 과학자",
+          "summary": "헤로인을 스스로 사용하는 신경과학자가 말하는 중독과 자유의 경계",
+          "philosopher": "칼 하트 (Carl Hart)",
+          "tags": [
+            "중독",
+            "자율성",
+            "마약 정책"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=KOtZZ8lC774",
+          "originalTitle": "Carl Hart: Besser leben mit Heroin und Kokain? | Sternstunde Philosophie | SRF Kultur"
+        },
+        {
+          "title": "극작가가 대통령이 될 때",
+          "summary": "무대 위의 언어가 광장의 정치가 된 순간, 바츨라프 하벨이 보여준 것은 무엇인가?",
+          "philosopher": "바츨라프 하벨 (Václav Havel)",
+          "tags": [
+            "진정성",
+            "권력과 양심",
+            "시민 저항"
+          ],
+          "sourceUrl": "https://www.swr.de/swrkultur/wissen/vaclav-havel-vom-buergerrechtler-zum-tschechischen-praesidenten-100.html",
+          "originalTitle": "Václav Havel – Vom Bürgerrechtler zum tschechischen Präsidenten"
+        },
+        {
+          "title": "아무도 보지 않아도 만드는 이유",
+          "summary": "눈도 없는 존재가 눈을 위한 집을 짓는다—창조의 본질적 역설",
+          "philosopher": "이탈로 칼비노 (Italo Calvino)",
+          "tags": [
+            "창조",
+            "의미",
+            "칼비노"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=-IkUxPCUv10",
+          "originalTitle": "Il racconto di Calvino che mi ha cambiato la vita"
+        },
+        {
+          "title": "태양왕보다 편한 우리가 왜 더 힘든가",
+          "summary": "역사상 가장 풍요로운 세대가 가장 취약한 이유는 무엇인가?",
+          "philosopher": "쇠렌 키르케고르 (Søren Kierkegaard)",
+          "tags": [
+            "불안",
+            "풍요의 역설",
+            "자유의 현기증"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=oD_OyhVP7pk",
+          "originalTitle": "Viviamo meglio del Re Sole. Allora perché stiamo così male?"
+        },
+        {
+          "title": "용기는 두려움의 반대가 아니다",
+          "summary": "두려움을 없애는 게 아니라 다르게 보는 법—용기의 철학적 재발견",
+          "philosopher": "버지니아 레이 (Virginia Held)",
+          "tags": [
+            "용기",
+            "두려움",
+            "인지습관"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/scienze/coraggio-medicina/",
+          "originalTitle": "Il coraggio come medicina"
+        },
+        {
+          "title": "번영·평등·자연은 하나다: 바버라 워드의 유산",
+          "summary": "지구를 하나의 공동 집으로 본 선구자, 그 통찰이 지금 왜 더 절실한가",
+          "philosopher": "바버라 워드 (Barbara Ward)",
+          "tags": [
+            "기후정의",
+            "행성적사유",
+            "번영과평등"
+          ],
+          "sourceUrl": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+          "originalTitle": "Barbara Ward’s vision"
+        },
+        {
+          "title": "경제학자들이 놓치는 것: 권력의 문제",
+          "summary": "숫자와 모델 뒤에 가려진 경제학의 정치적 본질을 묻다",
+          "philosopher": "잉그리드 하볼드 크반그라벤 (Ingrid Harvold Kvangraven)",
+          "tags": [
+            "경제학",
+            "권력",
+            "탈정치화"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=khRj9CUKevA",
+          "originalTitle": "What economists do not understand | Ingrid Harvold Kvangraven"
+        },
+        {
+          "title": "암이라는 단어가 당신을 먼저 죽인다",
+          "summary": "진단명 하나가 삶 전체를 바꿀 때, 언어는 치료인가 폭력인가?",
+          "philosopher": "이언 해킹 (Ian Hacking)",
+          "tags": [
+            "진단언어",
+            "의료철학",
+            "분류의 권력"
+          ],
+          "sourceUrl": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
+          "originalTitle": "Don’t use the ‘C-word’"
+        },
+        {
+          "title": "잠든 아이디어는 어떻게 세상을 바꾸는가",
+          "summary": "수십 년 동안 잊혔다가 갑자기 세상을 바꾸는 아이디어—그 잠의 정체는 무엇인가?",
+          "philosopher": "데이비드 번 (David Byrne)",
+          "tags": [
+            "아이디어",
+            "창조성",
+            "문화적맥락"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
+          "originalTitle": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World"
+        },
+        {
+          "title": "곤충은 인간보다 중요한가",
+          "summary": "벌레 한 마리의 죽음 앞에서 우리가 느끼는 무감각은 무엇을 말해주는가",
+          "philosopher": "피터 싱어 (Peter Singer)",
+          "tags": [
+            "동물윤리",
+            "도덕적 감수성",
+            "생태"
+          ],
+          "sourceUrl": "https://hedgehogreview.com/web-features/thr/posts/do-insects-matter-more-than-people",
+          "originalTitle": "Do Insects Matter More than People?"
+        },
+        {
+          "title": "동화는 왜 불행한 결말을 두려워하지 않는가",
+          "summary": "착하면 보상받는다는 동화의 약속, 그 이면에 감춰진 더 날카로운 진실",
+          "philosopher": "비스와바 쉼보르스카 (Wisława Szymborska)",
+          "tags": [
+            "동화",
+            "결말",
+            "도덕교육"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/05/wislawa-szymborska-fairy-tales-fear/",
+          "originalTitle": "The Importance of Being Scared: Polish Nobel Laureate Wisława Szymborska on Fairy Tales and the Necessity of Fear"
+        },
+        {
+          "title": "기대하지 않는 삶의 철학",
+          "summary": "덴마크인의 행복 비결은 낙관도 체념도 아닌 '기대 없는 현실 수용'이었다",
+          "philosopher": "스토아 철학자들 (Stoics)",
+          "tags": [
+            "기대",
+            "행복",
+            "스토아철학"
+          ],
+          "sourceUrl": "https://gendai.media/articles/-/171850",
+          "originalTitle": "デンマーク人の「幸福度の高さ」の背景にあったのは「期待しない精神」だった…「憧れの北欧暮らし」の裏側にあるもの"
+        },
+        {
+          "title": "왜 우리는 협력에 실패하는가",
+          "summary": "설거지통 앞의 냉전부터 기후 협약까지, 협력을 가로막는 구조를 게임이론으로 풀다",
+          "philosopher": "로버트 액셀로드 (Robert Axelrod)",
+          "tags": [
+            "협력",
+            "게임이론",
+            "사회적딜레마"
+          ],
+          "sourceUrl": "https://keisobiblio.com/2026/10/02/atogakitachiyomi_shakaitekidilemma/",
+          "originalTitle": "あとがきたちよみ『社会的ジレンマ――ゲーム理論・計算社会科学・因果推論からの解明』"
+        },
+        {
+          "title": "시간과 공간을 표준화한 자, 세계를 얻었는가",
+          "summary": "경도와 시간대가 통일된 순간, 우리는 무엇을 잃었는가?",
+          "philosopher": "에드워드 사이드 (Edward Said)",
+          "tags": [
+            "표준시",
+            "지식과 권력",
+            "식민주의"
+          ],
+          "sourceUrl": "https://www.webchikuma.com/n/n15e8b14f81c0",
+          "originalTitle": "「ここはどこ？」は難しい――石橋悠人『世界地図と地球の時間』ためし読み"
         }
       ]
     }

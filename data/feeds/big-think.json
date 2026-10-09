@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-10-09T11:04:40.878792+00:00",
+  "fetchedAt": "2026-10-09T20:04:12.907606+00:00",
   "items": [
     {
       "title": "If AI becomes conscious, how would we treat it? Animals may hold a clue.",
@@ -24,7 +24,7 @@
       "url": "https://bigthink.com/books/why-we-ask-why/",
       "description": "With frustration and fascination, I’ve come to begrudgingly accept that the questions I’m most interested in surface when I’m least equipped to answer them. Lights off, eyes closed, the pull of sleep growing stronger — a memory flashes across my mind. As I sink into it, the images turn into questions:  Did I mess that up at work? What did they mean by that? Did I make the right decision? \n During my most recent late-night ruminations, I turned over the confusing behavior of someone I just met. W",
       "date": "Thu, 08 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/asking-why.jpg?quality=85&w=640",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/asking-why-square.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 40,
       "scoreDetail": {
@@ -52,34 +52,18 @@
       }
     },
     {
-      "title": "IceCube, high-energy neutrinos, and Francis Halzen win 2026’s Physics Nobel",
-      "url": "https://bigthink.com/starts-with-a-bang/icecube-high-energy-neutrinos-francis-halzen-win-2026-physics-nobel/",
-      "description": "There’s a whole entire Universe out there, and the more we learn about it as it actually is, the greater our potential becomes to achieve great things as a civilization, even if the path from knowledge to improving humanity is far from clear. The Nobel Prize was set up more than 100 years ago with the express purpose of rewarding those whose work provides the “greatest benefit to humankind” in a number of disciplines, including physics. We couldn’t foresee that: \n \n measuring  the universality o",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/Halzen.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 35
-      }
-    },
-    {
-      "title": "Reading habits for the new literary ‘dark ages’",
-      "url": "https://bigthink.com/books/the-new-literary-dark-ages/",
-      "description": "The 18th-century writer and polymath Samuel Johnson was seldom seen without a book. People say he read in bed and while walking. He even read at dinner, the pages folded over his lap like a “dog who holds a bone in his paws in reserve while he eats something else,” as his biographer, James Boswell,  put it . \n The fact that today, Johnson is perhaps best known as the face of an  internet meme  — which, ironically, shows him looking at a text in annoyed befuddlement — tells us pretty much everyth",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/reading-dark-ages_42d8b4.jpg?quality=85&w=640",
+      "title": "The theory that connects the origin of life to the rise of intelligence",
+      "url": "https://bigthink.com/series/full-interview/agi-life-consciousness/",
+      "description": "From von Neumann’s blueprint, which predated the discovery of DNA, to viral genes that now help form our memories and placentas, Blaise Agüera y Arcas argues that function defines life more than material does, and that AI belongs in the same story. He explains why he thinks AGI is already here, and gives a blueprint for using AI without sacrificing your own mind. \n This video  The theory that connects the origin of life to the rise of intelligence  is featured on  Big Think .",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/A1-Web-Aguera-y-Arcas-1.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 29,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 4,
-        "novelty": 5,
+        "novelty": 0,
         "total": 29
       }
     },
@@ -116,22 +100,6 @@
       }
     },
     {
-      "title": "Pure sulfur discovered on Mars, making Martian concrete possible",
-      "url": "https://bigthink.com/starts-with-a-bang/sulfur-mars-martian-concrete-possible/",
-      "description": "If we ever hope to build a base, a city, or a full-fledged colony on another world, the first steps are to build structures that can support human existence. The Moon is the closest option, but it has many limitations: its gravity is greatly reduced, it has practically no atmosphere at all, and nearly all of the resources humans would need must be brought from Earth. Mars is a little more interesting, with substantial reserves of (solid and gaseous) water, a different mineralogy from Earth, and ",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/coversulfur.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 18,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 18
-      }
-    },
-    {
       "title": "AI won’t replace biologists — it’ll just join the staff",
       "url": "https://bigthink.com/the-well/ai-wont-replace-biologists/",
       "description": "Jennifer Doudna, Nobel Prize winner, biochemist, and CRISPR co-inventor, breaks down how AI is already reshaping experimental biology: speeding up mundane tasks like data cleanup and formatting, and increasingly helping spot patterns in large datasets that would be nearly impossible to catch by hand. But Doudna draws a clear line — AI agents can execute a protocol, not design one, and they still can’t make the on-the-fly judgment calls a researcher makes in the lab every day. Her take on the fut",
@@ -145,6 +113,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "The Onion co-founder recommends 5 satires that roasted the world (for the better)",
+      "url": "https://bigthink.com/books/5-satires-that-roasted-the-world/",
+      "description": "In 1599, John Whitgift, the Archbishop of Canterbury, and Richard Bancroft, the Bishop of London, issued an edict that became the “ most sweeping and stringent ” instance of censorship in the early modern period. Now known as the “ Bishops’ Ban ,” it came with a list of books that should “be taken wheresoever they maye be found” and “bee presentlye brought to the Bishop of London to be brunte.”  \n The list included some unlicensed histories and plays, but satire dominated the auto-da-fé — notabl",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/roast-the-world.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "The hidden mass extinction happening inside your body",
+      "url": "https://bigthink.com/series/conversations/martin-blaser-microbes/",
+      "description": "There’s a mass extinction happening inside your body. Dr. Martin Blaser is a physician and microbiologist who has spent over 30 years studying the microbes that live on and in us. He’s also the author of “Missing Microbes” and co-author of the 2025 paper “The Invisible Extinction.”  \n \n This video  The hidden mass extinction happening inside your body  is featured on  Big Think .",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/CL2-Martin-Blaser-1-for-BT_Website.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

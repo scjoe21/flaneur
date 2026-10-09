@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-09T11:04:42.209819+00:00",
+  "fetchedAt": "2026-10-09T20:04:13.673329+00:00",
   "items": [
     {
       "title": "Why China Will Rule AI",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "We Are Already Post-Human",
+      "url": "https://www.noemamag.com/we-are-already-post-human",
+      "description": "The post  We Are Already Post-Human  appeared first on  NOEMA .",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
       "description": "The post  Let The People Set The Pace Of Frontier AI  appeared first on  NOEMA .",
       "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A New Form Of Life",
-      "url": "https://www.noemamag.com/a-new-form-of-life",
-      "description": "The post  A New Form Of Life  appeared first on  NOEMA .",
-      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

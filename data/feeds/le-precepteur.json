@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-09T11:04:17.862263+00:00",
+  "fetchedAt": "2026-10-09T20:03:53.994757+00:00",
   "items": [
     {
       "title": "La fausse générosité",
@@ -100,19 +100,19 @@
       }
     },
     {
-      "title": "KANT - Penser par soi-même",
-      "url": "https://www.youtube.com/watch?v=vmxrTwPuWMc",
+      "title": "PARMÉNIDE VS HÉRACLITE - L'être et le devenir",
+      "url": "https://www.youtube.com/watch?v=e5Hzfv0EfYs",
       "description": "-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx (lien rému",
-      "date": "2026-09-11",
-      "thumbnail": "https://i3.ytimg.com/vi/vmxrTwPuWMc/hqdefault.jpg",
-      "videoId": "vmxrTwPuWMc",
-      "priority": 15,
+      "date": "2026-10-09",
+      "thumbnail": "https://i2.ytimg.com/vi/e5Hzfv0EfYs/hqdefault.jpg",
+      "videoId": "e5Hzfv0EfYs",
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {

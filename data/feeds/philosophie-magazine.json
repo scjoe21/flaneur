@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-09T11:04:19.056749+00:00",
+  "fetchedAt": "2026-10-09T20:03:54.974141+00:00",
   "items": [
     {
       "title": "Pourquoi les démocraties occidentales ont-elles fait le choix du pétrole ?",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "La sincérité, notre nouveau rempart",
+      "url": "https://www.philomag.com/articles/la-sincerite-notre-nouveau-rempart",
+      "description": "",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/paul-cezanne-peintre-et-influenceur-philosophique",
       "description": "",
       "date": "Sat, 26 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’“alignement” des IA, enjeu du siècle ?",
-      "url": "https://www.philomag.com/articles/lalignement-des-ia-enjeu-du-siecle",
-      "description": "",
-      "date": "Thu, 24 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

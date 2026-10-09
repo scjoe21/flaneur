@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-09T11:04:54.121217+00:00",
+  "fetchedAt": "2026-10-09T20:04:23.461755+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -180,6 +180,22 @@
       }
     },
     {
+      "title": "What neurophysiology gets wrong | Victoria Trumbull",
+      "url": "https://www.youtube.com/shorts/jXUdYk9Smko",
+      "description": "",
+      "date": "2026-10-09",
+      "thumbnail": "https://i3.ytimg.com/vi/jXUdYk9Smko/hqdefault.jpg",
+      "videoId": "jXUdYk9Smko",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Financial Subordination | Ingrid Harvold Kvangraven",
       "url": "https://www.youtube.com/shorts/Tp3hjs8wzZ8",
       "description": "",
@@ -218,22 +234,6 @@
       "date": "2026-09-25",
       "thumbnail": "https://i2.ytimg.com/vi/miXOv-0-awI/hqdefault.jpg",
       "videoId": "miXOv-0-awI",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Disability or difference? | Simon Baron-Cohen",
-      "url": "https://www.youtube.com/shorts/EXKsTmNTIec",
-      "description": "",
-      "date": "2026-09-19",
-      "thumbnail": "https://i2.ytimg.com/vi/EXKsTmNTIec/hqdefault.jpg",
-      "videoId": "EXKsTmNTIec",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,
