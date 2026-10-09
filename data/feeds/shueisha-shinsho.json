@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-10-09T20:04:27.822808+00:00",
+  "fetchedAt": "2026-10-09T22:52:05.625294+00:00",
   "items": [
     {
       "title": "等身大の両岸問題",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "牡丹社事件と清末の偉人たち",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36887",
+      "description": "文・写真／前川仁之 　墾丁（第一回参照）で泊まった翌朝、大きな荷物は宿に置き、自転車で台湾島最南端へ向かった。ふつうに台湾一周の旅にこだわるのなら、最南端の碑からそのまま国道で東海岸を目指すのだが、私にはそうできないわけ […]",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "現代台湾の「蔣経国現象」に見る台湾人のリアリズム",
       "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36829",
       "description": "文・写真／前川仁之 　2026年初春。台湾島最南端、恒春半島の墾丁ケンティンはこの島で最初の国家公園に指定された、風光明媚なリゾート地だ。ここはもう北回帰線より南の熱帯地域。長大な海外線を持つわりにはビーチの少ない台湾島 […]",
@@ -136,22 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/36906",
       "description": "デイサービスには、「レクリエーション」と呼ばれる時間があります。昼食のあと、フロアの椅子の向きが少し変わり、職員が前に立つ。今日は歌なのか、体操なのか、季節に合わせた制作やクイズなのか。利用者さんはそれぞれの席で、その […]",
       "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "大型補強と19歳の坂本勇人―2008年編",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/hara_giants/36822",
-      "description": "監督・原辰徳の40代最後のシーズンは、歓喜と絶望で幕を閉じた。 　2007年、監督復帰2シーズン目で5年ぶりのリーグ優勝を達成するも、この年からセ・リーグでも導入されたクライマックスシリーズの第2ステージでは、落合博満 […]",
-      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
