@@ -1,13 +1,61 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-04T20:09:28.386474+00:00",
+  "fetchedAt": "2026-10-09T11:05:03.828403+00:00",
   "items": [
     {
-      "title": "能力資本主義の申し子としてのソーシャルイノベーション｜Social Innovation",
-      "url": "https://wired.jp/article/sz-social-innovation-meritocratic-capitalism/",
-      "description": "「善き社会を作ろうとする歩みが社会の息吹を消していく」。人類学者・磯野真穂の新著『社会が壊れるその前に』は、儀礼や形式から解放されたはずの現代社会が「能力」という新たな信仰に縛られていると説く。",
-      "date": "Thu, 01 Oct 2026",
+      "title": "片山真理（アーティスト）：「わたし」を撮り、「わたしたち」を写す",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-mari-katayama/",
+      "description": "食べたものが体をつくって出ていくように、制度やルールもわたしたちの中を通っていく。そう考えるアーティストの片山真理は、セルフポートレートなどの作品を通じて、対立を生まない構造と誰もが共有しうる理解を探り続けている。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "梅原大吾（プロゲーマー）：ぶざまな姿を晒しても、挑み続ける",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-daigo-umehara/",
+      "description": "10代にして世界の頂点を知ってもなお、プロゲーマーの梅原大吾は勝つことだけに価値を置かない。それでも45歳のいま、競技の世界に身を置き続けるのはなぜなのか。そこには、勝ち負けでは測れない理由がある。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "濱口竜介（映画監督）：失敗を重ねた先には、深い快楽が待っている",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-ryusuke-hamaguchi/",
+      "description": "世界的な評価を得てもなお、映画監督の濱口竜介は失敗することを恐れない。先人の試行錯誤に学び、人と場への信頼を育みながら、その先に訪れる「深い快楽」を追い求めて映画を撮り続けている。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "今村久美（認定NPO法人カタリバ代表理事）：子どもも大人も、ルールをつくる側へ",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-kumi-imamura/",
+      "description": "被災地での居場所づくりから不登校支援まで、設立から25年にわたり子どもたちと向き合ってきた認定NPO法人カタリバ代表理事の今村久美。支援する側とされる側を固定せず、誰もが「ルールメイキング」に加われる社会の姿を、彼女はどう描いているのか。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -20,26 +68,122 @@
       }
     },
     {
-      "title": "慢性的なストレスが、心臓を傷つける“隠れた炎症”を招く可能性がある：研究結果",
-      "url": "https://wired.jp/article/chronic-stress-hidden-inflammation-heart-risk/",
-      "description": "自覚症状のないまま体内で持続する“隠れた炎症”が心臓の構造を変え、心疾患リスクを高めている可能性が、英国の大規模研究で示された。体脂肪や喫煙だけでなく、精神状態や社会経済的地位も関連しているという。",
-      "date": "Sun, 04 Oct 2026",
+      "title": "川崎和也（スペキュラティヴ・ファッションデザイナー）：“共犯関係”を広げ、サプライチェーンをハックする",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-kazuya-kawasaki/",
+      "description": "服をつくれば、捨てられる生地がどうしても生まれる。その廃棄を設計段階から減らすシステムを手がけるSynfluxの代表でスペキュラティヴ・ファッションデザイナーの川崎和也は、「つくるな」と言いたいわけではない。見据えるのは、減らすことの先にあるものづくりだ。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "止められるお金、止められないお金。線を引くのは資本主義か、民主主義か｜Crypto Matters",
-      "url": "https://wired.jp/article/sz-crypto-matters-who-can-stop-crypto-currency/",
-      "description": "世界有数の暗号資産取引所への攻撃で、流出を止められた額はわずか0.1%。明暗を分けた資産の「種類」とその仕組みから、いま暗号資産の世界で起きている地殻変動を考察する。",
-      "date": "Fri, 02 Oct 2026",
+      "title": "木村ミサ（KAWAII LAB.総合プロデューサー）：「カワイイ」の正解を、ひとつにしない",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-misa-kimura/",
+      "description": "「カワイイ」に、正解はひとつしかないのだろうか。FRUITS ZIPPERをはじめ5組のアイドルグループを生み出してきたKAWAII LAB.総合プロデューサーの木村ミサは、その意味を更新し、押し広げることこそがイノベーションだと語る。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "小田凱人（プロ車いすテニスプレーヤー）：“普通ではない考え”を伝えていくために",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-tokito-oda/",
+      "description": "史上最年少の世界ランキング1位、パリ・パラリンピックでの金メダル獲得、生涯ゴールデンスラム達成。限界を突破し続けるプロ車いすテニスプレーヤー・小田凱人は、自らの社会的使命を20歳の若さで自覚している。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "宮田裕章（慶應義塾大学医学部教授）：“ざらつき”を消さずに、未来をつくる",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-hiroaki-miyata/",
+      "description": "医療のデータサイエンスからアート、教育、大阪・関西万博へ。慶應義塾大学医学部教授の宮田裕章は、多様な活動を「Better Co-being」をめぐる一貫した実践だと語る。人がそれぞれに違ったまま、ともによりよく生き、新しい価値を生む営みを続けるには、何が必要なのか。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "為末大（東京大学教授／元陸上競技選手）：身体の喜びを起点に、これからの「人間」を描き直す",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-dai-tamesue/",
+      "description": "言葉にならない身体の感覚を、最も言葉に頼る学問の世界で記述する──。元陸上競技選手の為末大は、その矛盾を引き受けてアカデミアへ進んだ。「遊び」を手がかりに描こうとするのは、環境と影響し合いながら生きる人間の姿だ。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "秋吉浩気（建築家／VUILD代表）：建築の表現を、人間の手に取り戻す",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-koki-akiyoshi/",
+      "description": "建設費の高騰と職人不足によって、建築の自由な表現は失われつつある。AIとロボティクスによる一品生産の自動化を進める建築家の秋吉浩気は、いかにしてその表現を人間の手に取り戻そうとしているのか。「WIRED Innovation Awards 2026」受賞者インタビュー。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "スピルバーグの夢見た〈希望〉の国アメリカが“開示”された日──『ディスクロージャー・デイ』　池田純一レビュー",
+      "url": "https://wired.jp/article/disclosure-day-review-junichi-ikeda/",
+      "description": "エイリアンの存在を80年間秘匿してきた組織の言い分は、なぜこれほどいまの米国に響くのか。未知から目を背けないフロンティア精神をポスト・トゥルースの時代に蘇らせた映画『ディスクロージャー・デイ』を読み解く。",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "イノベーションは、もっと身近であっていい：「WIRED Innovation Awards 2026」へ向けた対話",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-dialogue/",
+      "description": "2025年に復活を遂げた「WIRED Innovation Awards」が今年も始動した。6年ぶりに開催された昨年のアワードは、パートナーである積水ハウスに何を残したのか。積水ハウスの常務執行役員 コミュニケーションデザイン部長・足立紀生と『WIRED』日本版編集長の松島倫明が、その成果や今年の展望について語り合った。",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,10 +196,10 @@
       }
     },
     {
-      "title": "ブラックジャックをするAI同士が結託、人間には見抜きにくい「秘密の暗号」を生み出した",
-      "url": "https://wired.jp/article/ai-agent-collusion-card-counting-secrets/",
-      "description": "研究チームがAIエージェントにブラックジャックのカード・カウンティングをさせたところ、互いに情報を伝える合図を編み出した。複数のエージェントによる「共謀」は、AIが社会に広く導入されたとき、新たなリスクになり得る。",
-      "date": "Fri, 02 Oct 2026",
+      "title": "AIエージェントが職場に押し寄せる。だが、人間はまだ準備ができていない",
+      "url": "https://wired.jp/article/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
+      "description": "人間のように振る舞うAIが、これから新たな働き手として続々と加わるだろう。わたしたちは、便利なツールから「同僚」へと変わる存在とどう向き合い、どこに線を引くべきなのか。",
+      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,10 +212,10 @@
       }
     },
     {
-      "title": "シャオミの新型SUV「SkyNomad」、欧米メーカーを揺さぶる価格と装備",
-      "url": "https://wired.jp/article/xiaomi-has-a-luxury-suv-all-western-brands-should-fear/",
-      "description": "シャオミが、欧米の高級SUV顔負けの装備を満載した新型車を発表した。床暖房や冷蔵庫、回転式シートを備え、航続距離は約1,600kmだという。それでいて、中国での価格は約500万円からだ。",
-      "date": "Sun, 04 Oct 2026",
+      "title": "Mac Studio（M5 Ultra）レビュー：最先端クラスのAIモデルをローカルで動かす実力",
+      "url": "https://wired.jp/review/apple-mac-studio-m5-ultra-2026/",
+      "description": "M5 Ultraを搭載したMac Studioは、AI性能が飛躍的に向上した。最先端クラスの大規模言語モデルをローカルで動かせるなど、小型ながら圧倒的な性能を備えている。",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,154 +228,10 @@
       }
     },
     {
-      "title": "理解できない世界とどう向き合うか──CERNで活動する田中ゆりが語る科学と芸術",
-      "url": "https://wired.jp/article/yuri-tanaka-interview/",
-      "description": "科学は世界をどこまで解明できるのだろうか。そして、理解しきれないものと人間はどう向き合えばいいのか。CERNで科学者らとの学際的な協働を続けるアーティスト／研究者・田中ゆりに、科学と芸術、そして想像力の役割について聞いた。",
-      "date": "Sun, 04 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "火山噴火を「天気予報」のように予測できる日は来るのか",
-      "url": "https://wired.jp/article/physics-predict-volcanic-eruptions/",
-      "description": "火山は複雑で、いまだ謎が多い。噴火を予測するには地下の物理現象を解き明かし、膨大な観測データを蓄積する必要がある。科学者たちは観測網や機械学習を駆使し、噴火に至るプロセスの解明を目指している。",
-      "date": "Sat, 03 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "人間の脳は、異なる2つの“部品”からつくられていた：研究結果",
-      "url": "https://wired.jp/article/human-brain-two-developmental-origins/",
-      "description": "人間の脳は単一の細胞群から成長するひとつの器官ではなく、異なる発生起源をもつ2つの細胞群からつくられている可能性が、スタンフォード大学などの研究で示された。これにより疾患の研究にも新たな道が拓かれることになりそうだ。",
-      "date": "Sat, 03 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Geminiがユーザーに代わって電話。グーグル「Pixel 11」の新機能とは",
-      "url": "https://wired.jp/article/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/",
-      "description": "グーグルは、「Pixel 11」シリーズ向けに、Geminiがユーザーに代わって電話をかける新機能「Call for Me」を発表した。米国で英語のみ利用できる。AI同士が電話で会話する未来も現実味を帯びてきた。",
-      "date": "Sat, 03 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "太陽系外惑星からの電波、その発生源が初めて特定される",
-      "url": "https://wired.jp/article/scientists-detect-radio-signals-from-exoplanet-for-first-time-in-history/",
-      "description": "天文学者たちは、電波望遠鏡で捉えた電波放射の発生源を、太陽系外惑星「がか座β星b」まで突き止めた。惑星の磁場にかかわる活動によって生じた現象だと考えられる。",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "史上最年少の太陽系外惑星、地球から約450光年の位置に発見される",
-      "url": "https://wired.jp/article/youngest-exoplanet-elias-2-24-b/",
-      "description": "誕生から100万年未満という観測史上最も若い太陽系外惑星「Elias 2-24b」が確認された。惑星の形成に関する理論に見直しを迫るかもしれない。",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "ボーズが有線イヤフォンを復活させた。その立役者はティーンエイジャーたちだ",
-      "url": "https://wired.jp/article/bose-to-release-wired-headphones-after-10-years/",
-      "description": "「Bose Noise Cancelling Wired Earbuds」は、ティーンエイジャーの好みに着想を得て開発された、ボーズにとって2015年以来となる新作の有線ヘッドフォンだ。『WIRED』は一足早く、その音を試聴した。",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "尿から“がんの兆し”を読み取り、早期発見を当たり前に：Craif",
-      "url": "https://wired.jp/article/vol59-craif-ryuichi-onose-ai-startups/",
-      "description": "人工知能（AI）の活用が医療分野においても加速するなか、人々がより長く健康に生きられる未来の実現に向けて情熱を燃やす研究者や医師たち、そして注目のスタートアップやベンチャーを紹介する。",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "アップル「Apple Watch Ultra 4」レビュー：数日間の冒険を支える、長時間バッテリーのタフなモデル",
-      "url": "https://wired.jp/review/apple-watch-ultra-4/",
-      "description": "最新の「Apple Watch Ultra」は、強化されたバッテリーと新たなヘルスケア指標を備え、長時間のアウトドア活動にも対応する。一方で、「Series 12」では、はるかに手頃な価格でほぼ同じ体験を得られる。",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "iPhone Duoを使って見えた、従来の折り畳みスマートフォンからの進化のポイント",
-      "url": "https://wired.jp/article/iphone-duo-hands-on-foldable-evolution/",
-      "description": "アップル初の折り畳みスマートフォン「iPhone Duo」は、従来の折り畳みスマートフォンからいかに進化しているのか。実際に使ってみると、さまざまな違いが見えてきた。",
-      "date": "Thu, 01 Oct 2026",
+      "title": "1,100万円のG-SHOCK、ブルーサファイアクリスタルの「MRG-D5000」とは",
+      "url": "https://wired.jp/article/casio-crystal-g-shock-is-the-most-expensive-ever-made/",
+      "description": "「MRG-D5000」は、ブルーサファイアクリスタルから削り出したアウターケースとベゼルに、G-SHOCKならではの耐衝撃性能を備える。カシオの8年におよぶ開発の集大成だ。",
+      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

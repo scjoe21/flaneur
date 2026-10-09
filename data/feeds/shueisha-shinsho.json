@@ -1,22 +1,22 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-10-04T20:09:22.661604+00:00",
+  "fetchedAt": "2026-10-09T11:04:57.974959+00:00",
   "items": [
     {
-      "title": "なぜ極右はメディアに強いのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/nazekyokuu_france/36819",
-      "description": "「スマートフォンを開き、画面をスクロールすると流れてくるショート動画。大きな字幕、怒った顔、耳に残る強烈なスローガン。給与明細から引かれる税金は高いし、そういえば最近街中に外国人が増えたような気がする。ニュースでは誰も自 […]",
-      "date": "Fri, 25 Sep 2026",
+      "title": "等身大の両岸問題",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36845",
+      "description": "文・写真／前川仁之 「あなたが考える、中国との最良の関係は？」 　この第５問は私が用意していた100人アンケートの中でいちばん神経を使う問いだった。自由記述にしたのは、相手の心理になるべく負荷をかけたくないからだ。 　台 […]",
+      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 14,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 14
+        "total": 15
       }
     },
     {
@@ -36,19 +36,35 @@
       }
     },
     {
-      "title": "ニューヨーク市はなぜ100万本の木を植えたのか？",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/36779",
-      "description": "2026年７月、私はマンハッタンでニューヨーク市の公園局が行う街路樹の手入れボランティアに参加した。晴天で朝から気温はぐんぐん上がっていた。目の前の通りには黄色いタクシー「イエローキャブ」が行き交っている。木の根元から […]",
-      "date": "Mon, 21 Sep 2026",
+      "title": "国家を超える原住民の壮大な価値観",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36864",
+      "description": "文・写真／前川仁之 　台湾島の地理はたのしい変化に富んでいる。九州よりも少し小さい島に、3000メートル級の山が269座もひしめいている、という数字からも急峻な様が想像されよう。しかも島の中ほどを北回帰線が通っており、自 […]",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
+      }
+    },
+    {
+      "title": "人と自然と、長い歴史。「液体」の背後にあるものに思いを馳せる、イタリアワインの楽しみ方",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/sakurai_tanaka/36965",
+      "description": "田中優子さん（以下、田中）　私、『グラスの中のイタリア』を拝読して、本当に晴れ晴れとした気持ちになる本だなっていうふうに思ったんですね。 櫻井芙紗子さん（以下、櫻井）　ありがとうございます。 田中　後で現地の映像なども見 […]",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
       }
     },
     {
@@ -68,25 +84,41 @@
       }
     },
     {
-      "title": "自由は、管理の反対側にあるのではない",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/36808",
-      "description": "前回、私はクロスプレイ東松山を「余計なお世話としてのアート」と呼んでみました。　もちろん、それは悪口ではありません。デイサービスという、時間も役割も責任も細かく組まれた場所に、アーティストが滞在する。そのこと自体が、す […]",
-      "date": "Fri, 25 Sep 2026",
+      "title": "現代台湾の「蔣経国現象」に見る台湾人のリアリズム",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36829",
+      "description": "文・写真／前川仁之 　2026年初春。台湾島最南端、恒春半島の墾丁ケンティンはこの島で最初の国家公園に指定された、風光明媚なリゾート地だ。ここはもう北回帰線より南の熱帯地域。長大な海外線を持つわりにはビーチの少ない台湾島 […]",
+      "date": "Wed, 07 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "【福祉排外主義】「医療費削減」のためにやり玉に挙げられがちな高齢者……　「もっと負担を増やしても平気」なのか？",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36934",
+      "description": "前回に続き、高齢者世代に対する高額療養費制度〈見直し〉の影響について、考察を続けよう。 　今年８月に〈見直し〉が実施された際には、その制度変更がもたらす問題は、テレビや新聞・オンラインメディアでも様々に取り上げられた。 […]",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
       "title": "【11月7日】『ショパン・コンクールよ、どこへいく』刊行記念対談イベントを開催！",
       "url": "https://shinsho-plus.shueisha.co.jp/information/36915",
-      "description": "2026年11月7日　17:00～18:30 会員　4,323円 一般　5,423円 朝日カルチャーセンター・横浜教室 https://www.asahiculture.com/asahiculture/wp/schoo […]",
+      "description": "2026年11月7日　17:00～18:30 会員　4,323円 一般　5,423円 申し込みは下記よりご確認ください https://www.asahiculture.com/asahiculture/asp-weba […]",
       "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -120,38 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/column/hara_giants/36822",
       "description": "監督・原辰徳の40代最後のシーズンは、歓喜と絶望で幕を閉じた。 　2007年、監督復帰2シーズン目で5年ぶりのリーグ優勝を達成するも、この年からセ・リーグでも導入されたクライマックスシリーズの第2ステージでは、落合博満 […]",
       "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "デイサービスに、アーティストがいる",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/36764",
-      "description": "埼玉県東松山市にある「デイサービス楽らく」。ここの一日は、私の都合とは関わりなく始まります。 　朝、送迎車が戻ってくると、利用者さんが一人、また一人とフロアに入ってくる。職員は名前を呼び、顔色や息づかいから体調を読み取 […]",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "「祖国」へ向かう出征",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/sanga_manshukokugun/36722",
-      "description": "2016年夏、私は中国東北部の長(ちょう)春(しゅん)市から、東へおよそ110キロ離れた吉(きつ)林(りん)市に向かう列車に揺られていた。 　長春は、かつて満洲国の首都であった。1932年、満洲国の建国とともに「新京」 […]",
-      "date": "Fri, 18 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "tlon",
   "sourceName": "Tlon",
-  "fetchedAt": "2026-10-04T20:08:58.964775+00:00",
+  "fetchedAt": "2026-10-09T11:04:28.380681+00:00",
   "items": [
     {
       "title": "Perché sappiamo tutto e non facciamo niente?",
@@ -33,6 +33,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "Prima i modelli, poi la ribellione #substack #shorts",
+      "url": "https://www.youtube.com/shorts/bk8COIY_L58",
+      "description": "This is a clip from https://www.tlonletter.it/p/nessuno-sa-come-si-fa-il-genitore?utm_source=youtube_shorts\n\nSee the full video: https://www.youtube.com/watch?v=AzM1Ntfe2gk\n\n#shorts #substack",
+      "date": "2026-10-05",
+      "thumbnail": "https://i3.ytimg.com/vi/bk8COIY_L58/hqdefault.jpg",
+      "videoId": "bk8COIY_L58",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Nessuno sa come si fa il genitore (e nemmeno il figlio di genitori anziani)",
+      "url": "https://www.youtube.com/watch?v=AzM1Ntfe2gk",
+      "description": "torna il podcast della Tlonletter!\n\nhttps://www.tlonletter.it/p/nessuno-sa-come-si-fa-il-genitore?utm_source=youtube",
+      "date": "2026-10-05",
+      "thumbnail": "https://i2.ytimg.com/vi/AzM1Ntfe2gk/hqdefault.jpg",
+      "videoId": "AzM1Ntfe2gk",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -122,38 +154,6 @@
       "date": "2026-09-23",
       "thumbnail": "https://i3.ytimg.com/vi/2aJCCZEkq_I/hqdefault.jpg",
       "videoId": "2aJCCZEkq_I",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Vanity, Narcissism, and the Ego #substack #shorts",
-      "url": "https://www.youtube.com/shorts/qg_IBOeWi14",
-      "description": "This is a clip from https://www.tlonletter.it/p/il-nostro-bisogno-di-sacro?utm_source=youtube_shorts\n\nSee the full video: https://www.youtube.com/watch?v=fFIerzhh7kA\n\n#shorts #substack",
-      "date": "2026-08-31",
-      "thumbnail": "https://i2.ytimg.com/vi/qg_IBOeWi14/hqdefault.jpg",
-      "videoId": "qg_IBOeWi14",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Spirituality isn't a finish line #substack #shorts",
-      "url": "https://www.youtube.com/shorts/bcBVW_3AO7E",
-      "description": "This is a clip from https://www.tlonletter.it/p/il-nostro-bisogno-di-sacro?utm_source=youtube_shorts\n\nSee the full video: https://www.youtube.com/watch?v=fFIerzhh7kA\n\n#shorts #substack",
-      "date": "2026-08-31",
-      "thumbnail": "https://i3.ytimg.com/vi/bcBVW_3AO7E/hqdefault.jpg",
-      "videoId": "bcBVW_3AO7E",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,

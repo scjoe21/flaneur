@@ -1,22 +1,22 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-10-04T20:08:51.711292+00:00",
+  "fetchedAt": "2026-10-09T11:04:19.446745+00:00",
   "items": [
     {
-      "title": "Comment en finir avec la tyrannie du présent en politique ?",
+      "title": "Pierre Rosanvallon : « On doit mettre en place un parlement des générations »",
       "url": "https://usbeketrica.com/fr/article/comment-en-finir-avec-la-tyrannie-du-present-en-politique-interview-pierre-rosanvallon",
       "description": "Notre époque est en mal d’avenir. Face à la crise climatique et aux crispations économiques, sociales et géopolitiques, hommes d’État et citoyens semblent avoir renoncé à se projeter. Une victoire du court-termisme que l’historien et sociologue Pierre Rosanvallon dissèque dans son dernier ouvrage, La Tyrannie du présent (Seuil, 2026), nouvel opus de son cycle de réflexion sur la « crise démocratique » que traversent nos sociétés. Entretien.",
       "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 39,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 30,
+        "daily": 15,
         "phil": 5,
         "flaneur": 4,
         "novelty": 0,
-        "total": 39
+        "total": 24
       }
     },
     {
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Le futur de la médecine s’écrit en France, mais pour qui et comment ?",
+      "url": "https://usbeketrica.com/fr/article/le-futur-de-la-medecine-s-ecrit-en-france-mais-pour-qui-et-comment",
+      "description": "En apprenant à l'organisme à détruire ses propres tumeurs, la médecine cellulaire signe une rupture majeure. Reste le plus dur : transformer cet exploit hospitalier en traitement accessible sans céder notre souveraineté industrielle. Décryptage avec Béatrice de Keukeleire, responsable sectorielle Innovation santé chez Bpifrance.",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -68,54 +84,6 @@
       }
     },
     {
-      "title": "Et si la banque de demain nous protégeait de ses propres algorithmes ?",
-      "url": "https://usbeketrica.com/fr/article/et-si-la-banque-de-demain-nous-protegeait-de-ses-propres-algorithmes",
-      "description": "Dans un avenir où des plateformes pilotées par l’intelligence artificielle gèrent notre argent à notre place, à quoi pourrait encore servir une agence bancaire ? Avec la banque fictive Verso, l'agence frog imagine un lieu physique chargé de rendre les décisions financières compréhensibles, contestables et, surtout, dignes de confiance.",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Et si la gare de demain devenait notre premier refuge climatique ?",
-      "url": "https://usbeketrica.com/fr/article/et-si-la-gare-de-demain-devenait-notre-premier-refuge-climatique",
-      "description": "Tours, 2033. Alors que le thermomètre menace d’atteindre 46 degrés, une mère et ses enfants sont évacués vers une gare transformée en abri. Avec Lieux de résistance, l'agence frog imagine des services publics capables d’anticiper les catastrophes, de protéger les plus vulnérables et de mobiliser les citoyens. Une fiction désirable, traversée par des choix très politiques.",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "« Les populistes mènent une guerre d’usure, en minant la démocratie de l’intérieur jour après jour »",
-      "url": "https://usbeketrica.com/fr/article/les-populistes-menent-une-guerre-d-usure-en-minant-la-democratie-de-l-interieur-jour-apres-jour-antonio-scurati-mussolini",
-      "description": "Et si la politique désordonnée, les décisions chaotiques, la langue acrimonieuse des leaders populistes et souverainistes d’aujourd’hui étaient les héritières de tactiques élaborées et éprouvées par Mussolini ? Dans le dossier de notre magazine dédié aux penseurs qui nous outillent pour sortir du chaos, on a posé la question a Antonio Scurati, auteur de M., saga de cinq romans documentaires consacrés au dictateur italien, dont le dernier opus, La fin et le commencement, vient de paraître aux édi",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Archéologie : l’IA peut-elle vraiment retracer le passé ?",
       "url": "https://usbeketrica.com/fr/article/archeologie-l-ia-peut-elle-vraiment-retracer-le-passe",
       "description": "Faire renaître des papyrus antiques de leurs cendres : c’est la promesse faite par l’IA à l’humanité. Si elle semble en voie d’être tenue à Herculanum, bien d’autres intelligences nourries au « deep learning » aident les chercheurs à combler les lacunes du passé. Mais les outils ont beau se multiplier, les incertitudes quant aux résultats fournis, eux, demeurent.",
@@ -132,51 +100,83 @@
       }
     },
     {
-      "title": "Dans un monde de pénurie, le magasin de demain doit-il optimiser nos choix grâce à nos données personnelles ?",
-      "url": "https://usbeketrica.com/fr/article/dans-un-monde-de-penurie-le-magasin-de-demain-doit-il-optimiser-nos-choix-grace-a-nos-donnees-personnelles",
-      "description": "Dans un futur de pénuries durables, l'agence frog imagine deux magasins. Le premier sait tout de nous et transforme chaque visite en expérience sur mesure. Le second ne collecte rien, mais ne propose presque plus rien à choisir. Une fiction qui pose une question embarrassante : le respect de la vie privée deviendra-t-il le prix de la standardisation ?",
-      "date": "Wed, 23 Sep 2026",
+      "title": "On a vu « The Social Reckoning », la vraie-fausse suite de « The Social Network »",
+      "url": "https://usbeketrica.com/fr/article/on-a-vu-the-social-reckoning-la-vraie-fausse-suite-de-the-social-network-zuckerberg",
+      "description": "Moins un portrait réactualisé de Mark Zuckerberg qu’une chronique journalistique des « Facebook Files », dévoilés en 2021 par le Wall Street Journal et la lanceuse d’alerte Frances Haugen, The Social Reckoning est sorti en salles ce mercredi 7 octobre.",
+      "date": "Wed, 07 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 9,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 9
       }
     },
     {
-      "title": "Intergénérationnel au travail : 4 clichés à oublier",
-      "url": "https://usbeketrica.com/fr/article/intergenerationnel-au-travail-4-cliches-a-oublier",
-      "description": "Alors que l’espérance de vie s’allonge en même temps que les carrières, la question de l’intergénérationnel dans le monde du travail est plus que jamais d’actualité. Cependant, les seniors comme les plus jeunes font toujours l’objet de clichés tenaces. Caroline Diard, professeure de droit des affaires et management RH au sein de l’école de commerce TBS Education, et Gilles Vermot-Desroches, Directeur de la citoyenneté Schneider-Electric et conseiller au CESE, défont quatre idées reçues parmi les",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "C’est prouvé, lire pour le plaisir fait du bien à votre cerveau",
-      "url": "https://usbeketrica.com/fr/article/c-est-prouve-lire-pour-le-plaisir-fait-du-bien-a-votre-cerveau",
-      "description": "Une étude de l’université Cambridge pointe les nombreux bienfaits associés à la lecture « pour le plaisir », c’est-à-dire effectuée «de plein gré, en anticipant la satisfaction que procurera l’acte de lire ». Chez les enfants et les adolescents, mais pas que.",
-      "date": "Wed, 23 Sep 2026",
+      "title": "Santé mentale : faut-il réparer le travail plutôt que soigner le salarié ?",
+      "url": "https://usbeketrica.com/fr/article/sante-mentale-faut-il-reparer-le-travail-plutot-que-soigner-le-salarie",
+      "description": "À l’occasion de la journée mondiale de la santé mentale du 10 octobre prochain, nous avons interrogé Stéphanie Gallioz, experte Santé au travail chez Syndex, Jérôme Crest, cofondateur d'Holivia et Ludovic Demierre, directeur des ressources humaines du groupe VINCI pour mieux comprendre les causes de l’usure professionnelle et les pistes d’amélioration qui peuvent émerger si l’entreprise change de focale et repense son organisation.",
+      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Science-fiction : « Il n’y a pas de crise ou de panne des imaginaires ! »",
+      "url": "https://usbeketrica.com/fr/article/science-fiction-il-n-y-a-pas-de-crise-ou-de-panne-des-imaginaires",
+      "description": "À l’occasion de la parution de l’ouvrage collectif Politiques de la science-fiction (éd. Actu SF, 2026), nous avons discuté avec deux de ses co-auteurs, l’essayiste Ariel Kyrou et l’universitaire Thomas Arcisweski. L’occasion de se pencher sur les fantasmes et idées reçues souvent associées à la SF.",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "« On assiste à une repolitisation massive des citoyens depuis 15 ans »",
+      "url": "https://usbeketrica.com/fr/article/on-assiste-a-une-repolitisation-massive-des-citoyens-depuis-15-ans",
+      "description": "Entretien avec l’historien belge Anton Jäger, qui a forgé le concept d’« hyperpolitique » pour décrire notre époque, marquée selon lui par « une politisation généralisée des individus incapable de convertir cette intensité en changements durables ».",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Et si écrire avec l’IA n’était pas si dramatique que ça ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-ecrire-avec-l-ia-n-etait-pas-si-dramatique-qu-on-veut-bien-le-dire",
+      "description": "Tribune // Depuis deux semaines, le monde littéraire est secoué par « l’affaire Thélyson Orélien », du nom de cet écrivain haïtien accusé d’avoir largement eu recours à l’IA pour écrire son premier roman. Mais ce qui choque, dans cette histoire, c’est moins le recours à une assistance technologique puissante que la brutale perte de prestige de la figure de l’écrivain, observe le romancier et journaliste Éric Senabre, collaborateur régulier d’Usbek & Rica, qui esquisse dans cette tribune les cont",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
@@ -193,6 +193,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "L’AbortOmat, le distributeur de pilule abortive qui contourne la loi anti-IVG en Pologne",
+      "url": "https://usbeketrica.com/fr/article/l-abortomat-le-distributeur-de-pilule-abortive-qui-contourne-la-loi-anti-ivg-en-pologne",
+      "description": "A Varsovie, le premier distributeur de pilules abortives a vu le jour au sein du centre d’avortement de la capitale. Baptisé « AbortOmat », il permet de contourner l’une des législations les plus restrictives d’Europe en matière d'interruption volontaire de grossesse (IVG).",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/on-a-vu-digger-la-comedie-catastrophe-la-plus-attendue-de-la-rentree",
       "description": "Un Tom Cruise survolté campe Digger Rockwell, dirigeant d’une compagnie pétrolière surpuissante, sur le point de déclencher une catastrophe planétaire. En salles ce mercredi 30 septembre.",
       "date": "Tue, 29 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "« Les gènes ne sont pas des tyrans tout-puissants »",
-      "url": "https://usbeketrica.com/fr/article/les-genes-ne-sont-pas-des-tyrans-tout-puissants-gaelle-pontarotti-philosophie",
-      "description": "Peut-on échapper à son destin ? Entretien avec la philosophe des sciences Gaëlle Pontarotti, qui propose une nouvelle conception de l’hérédité à l’aune des dernières recherches scientifiques sur le sujet.",
-      "date": "Fri, 25 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

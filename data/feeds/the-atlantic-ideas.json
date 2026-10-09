@@ -1,93 +1,29 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-10-04T20:09:09.174546+00:00",
+  "fetchedAt": "2026-10-09T11:04:41.443493+00:00",
   "items": [
     {
-      "title": "How the Culture War Put Public Schools at Risk",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-school-vouchers-teachers-ideology/688816/?utm_source=feed",
+      "title": "Russia Needs to Tell the Truth About a Plague Death",
+      "url": "https://www.theatlantic.com/ideas/2026/10/russia-siberia-pneumonic-plague/688895/?utm_source=feed",
       "description": "",
-      "date": "2026-09-30",
+      "date": "2026-10-06",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 10
       }
     },
     {
-      "title": "How Biden Averted a War With Iran",
-      "url": "https://www.theatlantic.com/ideas/2026/09/israel-biden-gaza-hamas-netanyahu/688750/?utm_source=feed",
+      "title": "If You Want a Real Digital Commons, Build It Yourself",
+      "url": "https://www.theatlantic.com/ideas/2026/10/rappler-philippines-digital-commons/688927/?utm_source=feed",
       "description": "",
-      "date": "2026-09-28",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Why Americans Stopped Throwing Dinner Parties",
-      "url": "https://www.theatlantic.com/ideas/2026/10/americans-socialization-dinner-decline-hosting/688846/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "Why Did Wallace Shawn Liken Israelis to Nazis?",
-      "url": "https://www.theatlantic.com/ideas/2026/09/wallace-shawn-israel-palestine/688822/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-29",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Why Empathy Is Now ‘Toxic,’ ‘Suicidal,’ and a ‘Sin’",
-      "url": "https://www.theatlantic.com/ideas/2026/09/maga-right-christianity-empathy-toxic/688755/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Eric Schmitt’s Very Bad Day at Work",
-      "url": "https://www.theatlantic.com/ideas/2026/09/maga-senate-hearing-eric-schmitt/688839/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-30",
+      "date": "2026-10-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,26 +36,10 @@
       }
     },
     {
-      "title": "The Great Data-Center Rebellion",
-      "url": "https://www.theatlantic.com/magazine/2026/11/data-center-resistance-movement/688671/?utm_source=feed",
+      "title": "The Simple Truth Behind Jane Doe’s Story",
+      "url": "https://www.theatlantic.com/ideas/2026/10/jane-doe-cornell-7-story/688912/?utm_source=feed",
       "description": "",
-      "date": "2026-09-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Problem With Democrats’ Favorite Policy Proposal",
-      "url": "https://www.theatlantic.com/ideas/2026/09/universal-child-care-democrats/688794/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-28",
+      "date": "2026-10-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -129,6 +49,134 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Violence Sweeping France Was Never Really About Schools",
+      "url": "https://www.theatlantic.com/ideas/2026/10/france-schools-student-protest/688903/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "Churches Are Finally Making the Moral Case Against Sports Betting",
+      "url": "https://www.theatlantic.com/ideas/2026/10/gambling-betting-religious-leaders/688893/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-06",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The GOP’s Message to Immigrants",
+      "url": "https://www.theatlantic.com/ideas/2026/10/republicans-immigrants-reagan-trump/688925/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-09",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What I Saw at New York’s Anti-Israel October 7 Rallies",
+      "url": "https://www.theatlantic.com/ideas/2026/10/october-7-new-york-israel-mamdani/688932/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-08",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Three Years After October 7, I Moved Back to Nahal Oz",
+      "url": "https://www.theatlantic.com/ideas/2026/10/nahal-oz-israel-elections-netanyahu/688902/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Hegseth’s One Percent",
+      "url": "https://www.theatlantic.com/ideas/2026/10/pete-hegseth-military-superiority-bible/688887/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Using the Power of the Government to Win Elections",
+      "url": "https://www.theatlantic.com/ideas/2026/10/government-neutrality-elections/688877/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What Is Zionism?",
+      "url": "https://www.theatlantic.com/ideas/2026/10/zionism-israel-palestine-history/688834/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/10/pardon-power-congres-expand/688836/?utm_source=feed",
       "description": "",
       "date": "2026-10-01",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Near Disaster on Flydubai",
-      "url": "https://www.theatlantic.com/ideas/2026/09/flydubai-plane-attack-israel/688848/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Only Trump Gets to Criticize the Supreme Court",
-      "url": "https://www.theatlantic.com/ideas/2026/09/trump-supreme-court-justices/688830/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-30",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Babies Left Behind in America",
-      "url": "https://www.theatlantic.com/magazine/2026/11/trump-ice-family-separation/688695/?utm_source=feed",
-      "description": "",
-      "date": "2026-09-28",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

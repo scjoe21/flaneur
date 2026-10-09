@@ -1,38 +1,22 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-10-04T20:09:06.509398+00:00",
+  "fetchedAt": "2026-10-09T11:04:37.963795+00:00",
   "items": [
     {
-      "title": "How the West was fun",
-      "url": "https://aeon.co/videos/at-an-old-west-theme-park-tourists-play-in-a-past-that-never-existed",
-      "description": "Be it movie mythos or nostalgia for a ‘simpler’ time, there’s an undeniable allure in stepping into the American West - by Aeon Video Watch on Aeon",
-      "date": "Wed, 23 Sep 2026",
+      "title": "How to assemble science",
+      "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
+      "description": "Humanity produces a staggering amount of new knowledge every day. The question is how to make sense of it all - by Helen Pearson Read on Aeon",
+      "date": "Tue, 06 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Cosmic amnesia",
-      "url": "https://aeon.co/essays/black-holes-ring-like-bells-what-happens-next-is-stranger",
-      "description": "A black hole rings like a struck bell, then settles into silence, forgetting almost everything about its history. Why? - by Richard Dyer Read on Aeon",
-      "date": "Fri, 18 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
+      "priority": 25,
       "scoreDetail": {
         "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 25
       }
     },
     {
@@ -68,6 +52,22 @@
       }
     },
     {
+      "title": "I won’t remain alone",
+      "url": "https://aeon.co/videos/an-iranian-couple-seek-out-the-recipient-of-their-late-sons-heart",
+      "description": "In the wake of tragedy, an elderly couple must make a choice: should they let their son go to save the lives of others? - by Aeon Video Watch on Aeon",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Don’t use the ‘C-word’",
       "url": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
       "description": "A cancer diagnosis carries with it fear and upheaval. For many patients the cellular changes do not warrant the label - by Matthew R Cooperberg Read on Aeon",
@@ -100,19 +100,19 @@
       }
     },
     {
-      "title": "He was probably right",
-      "url": "https://aeon.co/essays/a-good-sceptic-has-more-than-doubt-and-less-than-certainty",
-      "description": "Cicero’s life and thought are a testament to the idea of probabilia: we should be confident in our beliefs, but never certain - by Massimo Pigliucci Read on Aeon",
-      "date": "Mon, 21 Sep 2026",
+      "title": "Barbara Ward’s vision",
+      "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
+      "description": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on Aeon",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -148,42 +148,10 @@
       }
     },
     {
-      "title": "Britain’s last great airship",
-      "url": "https://aeon.co/videos/before-the-hindenburg-there-was-r101-britains-ill-fated-airship",
-      "description": "The remarkable engineering and tragic demise of the vessel that would end Britain’s dream to dominate the skies - by Aeon Video Watch on Aeon",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Toadstools and toxins",
-      "url": "https://aeon.co/essays/a-scientists-search-for-answers-about-amanita-muscaria-gummies",
-      "description": "When I found the mushroom Amanita muscaria being sold in candy wrappers, I uncovered legal loopholes, dangerous dosages and more - by Eric Leas Read on Aeon",
-      "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Sound guardians",
-      "url": "https://aeon.co/videos/indonesia-is-building-a-new-capital-city-whats-being-lost",
-      "description": "As Indonesia builds a new capital city, the race is on to preserve the sounds of the rainforest before they vanish forever - by Aeon Video Watch on Aeon",
-      "date": "Mon, 21 Sep 2026",
+      "title": "Evolution of Manhattan",
+      "url": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
+      "description": "From Lenape land to sprawling metropolis, this detailed timelapse animation captures the making of Manhattan - by Aeon Video Watch on Aeon",
+      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -193,6 +161,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "All-around junior male",
+      "url": "https://aeon.co/videos/a-traditional-inuit-game-of-balance-and-strength-stylishly-captured",
+      "description": "A ball suspended in mid-air meets an athlete’s determination: in the one-foot high kick, competitors must defy gravity - by Aeon Video Watch on Aeon",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "The ghetto on the lagoon",
+      "url": "https://aeon.co/essays/the-making-of-the-ghetto-on-a-venetian-island-in-1516",
+      "description": "Sixteenth-century Venice wanted to expel its Jews but couldn’t do without them. Its compromise was the world’s first ghetto - by Alexander Lee Read on Aeon",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "A life in episodes",
+      "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
+      "description": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past - by Thomas Söderqvist Read on Aeon",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
       "description": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon",
       "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Where a land ethic blooms",
-      "url": "https://aeon.co/essays/a-prairie-enthusiast-in-search-of-a-farming-land-ethic",
-      "description": "Caring for this planet entails decisions that are intimate, about our farms, our homes, our human and our wild neighbours - by Craig Maier Read on Aeon",
-      "date": "Thu, 24 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

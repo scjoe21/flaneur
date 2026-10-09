@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-10-04T20:09:11.904435+00:00",
+  "fetchedAt": "2026-10-09T11:04:45.060921+00:00",
   "items": [
     {
       "title": "« Saint-Nazaire au travail »",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "Penser les religions autrement : un entretien croisé",
-      "url": "https://www.nonfiction.fr/article-12818-penser-les-religions-autrement-un-entretien-croise.htm",
-      "description": "Peut-on encore parler de « la religion » comme d’un objet homogène ? Les livres de Nathalie Heinich,  La religion n’existe pas , et de Paul Seabright,  La Divine Économie , répondent à cette question en déplaçant profondément le regard porté sur les phénomènes religieux. Leurs démarches sont pourtant très différentes : la première relève de la sociologie et de l’épistémologie, le second mobilise les outils de l’économie. Mais leurs analyses se rejoignent sur un point essentiel : pour comprendre ",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
       "title": "Quand l'épargne manque de dettes",
       "url": "https://www.nonfiction.fr/article-12860-quand-lepargne-manque-de-dettes.htm",
       "description": "Dans  Géopolitique de la dette , Anton Brender propose de regarder autrement l’accumulation des dettes qui inquiète aujourd’hui les économies occidentales. Son analyse prend une actualité particulière avec le tournant engagé par Donald Trump, qui remet en cause les équilibres financiers internationaux construits autour du rôle des États-Unis comme principal emprunteur de l’épargne mondiale. \r\n\r\n Il revient ici sur la genèse de ce livre, sur ce qu’il prolonge de ses travaux précédents et sur les ",
@@ -64,22 +48,6 @@
         "phil": 0,
         "flaneur": 4,
         "novelty": 5,
-        "total": 19
-      }
-    },
-    {
-      "title": "Dossier sur le néolibéralisme : Le néolibéralisme contre la démocratie",
-      "url": "https://www.nonfiction.fr/article-12816-dossier-sur-le-neoliberalisme-le-neoliberalisme-contre-la-democratie.htm",
-      "description": "Le néolibéralisme a profondément transformé nos économies et nos sociétés. Depuis les années 1970, le marché et la concurrence ont progressivement cessé d’être de simples mécanismes économiques pour devenir des principes d’organisation de la vie collective. Une question se pose alors, plus politique qu’économique : jusqu’où les sociétés peuvent-elles laisser les mécanismes de marché déterminer leurs choix collectifs ? \r\n\r\n Cette question se pose avec une acuité particulière au moment où le néoli",
-      "date": "Sat, 05 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
         "total": 19
       }
     },
@@ -116,6 +84,22 @@
       }
     },
     {
+      "title": "Olivier Roy : quand le populisme veut restaurer une culture disparue",
+      "url": "https://www.nonfiction.fr/article-12877-olivier-roy-quand-le-populisme-veut-restaurer-une-culture-disparue.htm",
+      "description": "Dans  L’Impossible contre-révolution culturelle , Olivier Roy prolonge la réflexion engagée dans  L’Aplatissement du monde. La crise de la culture et l'empire des normes  (Seuil, 2022) sur la déculturation des sociétés contemporaines. Il examine cette fois les courants populistes et néoréactionnaires qui prétendent restaurer une culture mise à mal par les transformations sociales. Mais, selon lui, leur projet est miné par une contradiction fondamentale : eux-mêmes sont les produits du monde qu’i",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 13,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 13
+      }
+    },
+    {
       "title": "Michel Butor, 1926-2026 : entretien avec Nathalie Piégay",
       "url": "https://www.nonfiction.fr/article-12843-michel-butor-1926-2026-entretien-avec-nathalie-piegay.htm",
       "description": "Michel Butor (1926-2016) aurait eu 100 ans ce 14 septembre. L’occasion pour les éditeurs (Minuit, Droz, le Canoë) de republier certains de ses livres augmentés de commentaires signés de deux éminentes butoriennes – la regrettée Mireille Calle-Gruber d’une part, Nathalie Piégay d’autre part. Et l’occasion pour nonfiction.fr d’interroger cette dernière, professeure de littérature du XX e  siècle à l’université de Genève, sur ces rééditions bien sûr, mais aussi sur ce qui rend Butor et son œuvre, a",
@@ -145,6 +129,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Le commerce international à l’épreuve des rivalités géopolitiques",
+      "url": "https://www.nonfiction.fr/article-12872-le-commerce-international-a-lepreuve-des-rivalites-geopolitiques.htm",
+      "description": "Alors que les tensions commerciales et les rivalités géopolitiques bouleversent les règles des échanges mondiaux, le commerce international est redevenu un objet éminemment politique. Dans  Le commerce international , paru dans la collection « Repères » de La Découverte, l’économiste Sébastien Jean revient sur les mécanismes, les effets et les enjeux de ces échanges, ainsi que sur les transformations de l’ordre commercial mondial. Nous l’avons interrogé sur la politique commerciale de Donald Tru",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

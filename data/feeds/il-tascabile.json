@@ -1,8 +1,24 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-10-04T20:09:00.416609+00:00",
+  "fetchedAt": "2026-10-09T11:04:30.376520+00:00",
   "items": [
+    {
+      "title": "Il coraggio come medicina",
+      "url": "https://www.iltascabile.com/scienze/coraggio-medicina/",
+      "description": "Per secoli l’abbiamo considerato l’opposto della paura. In realtà è una disposizione cognitiva e comportamentale che aiuta a ricalibrare il modo in cui guardiamo la realtà. \n L'articolo  Il coraggio come medicina  proviene da  Il Tascabile .",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 25
+      }
+    },
     {
       "title": "Uno nuovo, più razzista e più violento",
       "url": "https://www.iltascabile.com/linguaggi/nuovo-razzista-violento/",
@@ -17,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "Il punto di fuga della corsa all’IA",
-      "url": "https://www.iltascabile.com/scienze/punto-fuga-corsa-ia/",
-      "description": "Ai vertici del mondo IA ci sono molte persone sinceramente convinte che una superintelligenza artificiale risolverà ogni nostro problema, o ci porterà all’estinzione. Prospettive senza vero fondamento, ma utili a distrarre dai problemi reali. Una conversazione con Adam Becker. \n L'articolo  Il punto di fuga della corsa all’IA  proviene da  Il Tascabile .",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Guerra alla Terra di Danilo Zagaria",
+      "url": "https://www.iltascabile.com/recensioni/guerra-terra-danilo-zagaria/",
+      "description": "L'articolo  Guerra alla Terra di Danilo Zagaria  proviene da  Il Tascabile .",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "L’affaire Arday-fus",
       "url": "https://www.iltascabile.com/societa/affaire-arday-fus/",
       "description": "Nathan Cofnas e la scienza della disuguaglianza. \n L'articolo  L’affaire Arday-fus  proviene da  Il Tascabile .",
@@ -65,6 +81,54 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "L’anoressia mima la morte",
+      "url": "https://www.iltascabile.com/linguaggi/anoressia-mima-morte/",
+      "description": "Intervista a Eugenio Giannetta su  Corpo libero. Il mondo maschile dei disturbi dell’alimentazione . \n L'articolo  L’anoressia mima la morte  proviene da  Il Tascabile .",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Divenire flusso",
+      "url": "https://www.iltascabile.com/linguaggi/divenire-flusso/",
+      "description": "Il sacrificio del mondo materiale in dieci anni di immaginario, dal falso analogico all’immagine senza corpo. \n L'articolo  Divenire flusso  proviene da  Il Tascabile .",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Meritocrazia vs comunismo delle qualità",
+      "url": "https://www.iltascabile.com/societa/meritocrazia-comunismo-qualita/",
+      "description": "Da Platone alle banche del tempo: superare il dispositivo della competizione neoliberale e socializzare le qualità personali per divenire comunità solidale. \n L'articolo  Meritocrazia vs comunismo delle qualità  proviene da  Il Tascabile .",
+      "date": "Tue, 06 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -88,70 +152,6 @@
       "url": "https://www.iltascabile.com/linguaggi/desiderio-lesbico-contaminarsi/",
       "description": "Tra spettri, schermi e fluidi: cosa significa essere ridott* a un ricettacolo del desiderio di qualcun altro. \n L'articolo  Il desiderio lesbico di contaminarsi  proviene da  Il Tascabile .",
       "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Interrogare la sfinge di Renzo Guolo",
-      "url": "https://www.iltascabile.com/recensioni/interrogare-sfinge-renzo-guolo/",
-      "description": "L'articolo  Interrogare la sfinge di Renzo Guolo  proviene da  Il Tascabile .",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Minuscolo, enorme, sottomarino",
-      "url": "https://www.iltascabile.com/linguaggi/minuscolo-enorme-sottomarino/",
-      "description": "Un’esperienza del sé nell’abisso della materia: la pratica d’occasione dell’ Immenso spermatozoo sottomarino  di Gabriele Silli. \n L'articolo  Minuscolo, enorme, sottomarino  proviene da  Il Tascabile .",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Suoni dall’estinzione",
-      "url": "https://www.iltascabile.com/linguaggi/suoni-estinzione/",
-      "description": "Dall’omologazione dei grandi raduni di massa ai miceli sotterranei: un decennio musicale sul ciglio dell’apocalisse. \n L'articolo  Suoni dall’estinzione  proviene da  Il Tascabile .",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Alle origini del neoluddismo",
-      "url": "https://www.iltascabile.com/societa/origini-neoluddismo/",
-      "description": "La lunga parabola del rifiuto della tecnica, dall’antichità agli interrogativi dell’IA. \n L'articolo  Alle origini del neoluddismo  proviene da  Il Tascabile .",
-      "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

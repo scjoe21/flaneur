@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-04T20:08:50.160221+00:00",
+  "fetchedAt": "2026-10-09T11:04:17.862263+00:00",
   "items": [
     {
       "title": "La fausse générosité",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Les ignorants qui croient savoir",
-      "url": "https://www.youtube.com/shorts/c010nonp_DE",
-      "description": "Au Ve siècle avant notre ère, Socrate défend une idée essentielle : le véritable savoir commence lorsque l’on prend conscience de son ignorance. Plus de deux mille ans plus tard, l’effet Dunning-Kruger semble lui donner raison. Dans cette vidéo, je vous explique pourquoi l’ignorance peut produire une illusion de compétence et pourquoi la vraie connaissance nous rend souvent plus humbles.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #socrate #dunningkruger #savoir",
-      "date": "2026-09-06",
-      "thumbnail": "https://i4.ytimg.com/vi/c010nonp_DE/hqdefault.jpg",
-      "videoId": "c010nonp_DE",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
@@ -132,6 +116,38 @@
       }
     },
     {
+      "title": "5 nouvelles questions qui vont vous empêcher de dormir",
+      "url": "https://www.youtube.com/shorts/7xpGecZg8Tc",
+      "description": "Et vous, quelle question vous empêche de dormir ?",
+      "date": "2026-10-08",
+      "thumbnail": "https://i4.ytimg.com/vi/7xpGecZg8Tc/hqdefault.jpg",
+      "videoId": "7xpGecZg8Tc",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "5 questions qui vont vous empêcher de dormir",
+      "url": "https://www.youtube.com/shorts/ULzQPNZl72s",
+      "description": "Et vous, quelle question vous empêche de dormir ?",
+      "date": "2026-10-06",
+      "thumbnail": "https://i2.ytimg.com/vi/ULzQPNZl72s/hqdefault.jpg",
+      "videoId": "ULzQPNZl72s",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "ALDOUS HUXLEY - Le meilleur des mondes",
       "url": "https://www.youtube.com/watch?v=_Dt4nhRtfJ4",
       "description": "ESSAYEZ MYHERITAGE GRATUITEMENT PENDANT 14 JOURS :\n\n▶️ https://bit.ly/LePrecepteur\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPO",
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "10 philosophes résumés en une phrase choc",
-      "url": "https://www.youtube.com/shorts/Pt_Y7VPb5B0",
-      "description": "Et vous, quelle est votre philosophie ?",
-      "date": "2026-09-10",
-      "thumbnail": "https://i1.ytimg.com/vi/Pt_Y7VPb5B0/hqdefault.jpg",
-      "videoId": "Pt_Y7VPb5B0",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

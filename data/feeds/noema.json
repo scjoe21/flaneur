@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-04T20:09:09.670027+00:00",
+  "fetchedAt": "2026-10-09T11:04:42.209819+00:00",
   "items": [
     {
       "title": "Why China Will Rule AI",
@@ -20,22 +20,6 @@
       }
     },
     {
-      "title": "Conceding AI Danger Raises, Not Reduces, Public Anxiety",
-      "url": "https://www.noemamag.com/conceding-ai-danger-raises-not-reduces-public-anxiety",
-      "description": "The post  Conceding AI Danger Raises, Not Reduces, Public Anxiety  appeared first on  NOEMA .",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "The End Of Upward Mobility",
       "url": "https://www.noemamag.com/the-end-of-upward-mobility",
       "description": "The post  The End Of Upward Mobility  appeared first on  NOEMA .",
@@ -49,6 +33,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Does Claude Feel The Whip?",
+      "url": "https://www.noemamag.com/does-claude-feel-the-whip",
+      "description": "The post  Does Claude Feel The Whip?  appeared first on  NOEMA .",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Americans Are Losing The Long Game",
+      "url": "https://www.noemamag.com/americans-are-losing-the-long-game",
+      "description": "The post  Americans Are Losing The Long Game  appeared first on  NOEMA .",
+      "date": "Tue, 06 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/a-new-form-of-life",
       "description": "The post  A New Form Of Life  appeared first on  NOEMA .",
       "date": "Tue, 15 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Gen Z Revolt Sweeping South Asia",
-      "url": "https://www.noemamag.com/the-gen-z-revolt-sweeping-south-asia",
-      "description": "The post  The Gen Z Revolt Sweeping South Asia  appeared first on  NOEMA .",
-      "date": "Fri, 11 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

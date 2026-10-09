@@ -1,7 +1,7 @@
 {
   "sourceId": "pursuit-of-wonder",
   "sourceName": "Pursuit of Wonder",
-  "fetchedAt": "2026-10-04T20:09:10.603955+00:00",
+  "fetchedAt": "2026-10-09T11:04:43.069783+00:00",
   "items": [
     {
       "title": "Synchronicity: Carl Jung’s Most Disturbing Theory About Reality",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "You’re too self-aware. And that’s why things feel weird.",
-      "url": "https://www.youtube.com/watch?v=--AoFg5xglI",
-      "description": "Get my new book, The Terrible Paradox of Self-Awareness, here: https://www.amazon.com/gp/product/B0FCDCCNJR?&_encoding=UTF8&tag=andrewsmcmeelpublishing-20\nOther retailers: https://publishing.andrewsmcmeel.com/book/the-terrible-paradox-of-self-awareness/\n\nThank you so much for all your support.",
-      "date": "2026-03-10",
-      "thumbnail": "https://i2.ytimg.com/vi/--AoFg5xglI/hqdefault.jpg",
-      "videoId": "--AoFg5xglI",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
-      }
-    },
-    {
       "title": "This Nobel Prize Winner Has a Really Strange Theory About the Mind",
       "url": "https://www.youtube.com/watch?v=BrxheXPuCJ4",
       "description": "Use code WONDERFB50 to get 50% OFF your first Factor box plus free breakfast for 1 year at https://bit.ly/4eMWNAz.\n\nIn this video, we explore one of the strangest Nobel Prize speeches ever given. Instead of reflecting on his career, thanking anyone, or discussing culture or art, author and Nobel laureate J. M. Coetzee told a short parable that seemingly undermined the very nature of the self and reality. \n\nGet my new book, \"The Terrible Paradox of Self-Awareness\": https://www.amazon.com/gp/produ",
@@ -161,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Time Doesn’t Exist. Let Me Explain with a Story.",
+      "url": "https://www.youtube.com/watch?v=jDU6kdoBegc",
+      "description": "Check out \"The Book\" here: https://mdsh.io/pursuitofwonder. Use code WONDER  for 10% off. Thank you to @HungryMindsArt for sponsoring this video.\n\nIn this video, we explore the somewhat terrifying and potentially illusory nature of time. Evidence suggests that ancient humans lived, in a sense, outside of time. In fact, some human cultures today live without any conceptions of past or future. And you have actually experienced this as well—waking life outside time—as a child. For the first several",
+      "date": "2026-10-07",
+      "thumbnail": "https://i3.ytimg.com/vi/jDU6kdoBegc/hqdefault.jpg",
+      "videoId": "jDU6kdoBegc",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 15
       }
     },
     {

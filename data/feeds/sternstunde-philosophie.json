@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-10-04T20:08:58.714987+00:00",
+  "fetchedAt": "2026-10-09T11:04:28.014244+00:00",
   "items": [
     {
       "title": "Wie Tiere den Tod verstehen – und was das über uns verrät | Sternstunde Philosophie | SRF Kultur",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Carl Hart: Besser leben mit Heroin und Kokain? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=KOtZZ8lC774",
+      "description": "Carl Hart forscht an der Columbia Universität in New York zu Drogen und konsumiert selbst regelmässig Substanzen wie Heroin oder Kokain. Olivia Röllin spricht mit ihm über Sucht und Abhängigkeit und das Recht des Einzelnen, sein Bewusstsein durch Drogen zu verändern.\n\nAufgewachsen in einem armen Viertel in Miami, erlebte Carl Hart Drogenhandel, Gewalt und Kriminalität aus nächster Nähe. Als Wissenschaftler begann er später, über Drogen zu forschen, um etwas gegen die Verbreitung von Crack zu unt",
+      "date": "2026-10-05",
+      "thumbnail": "https://i4.ytimg.com/vi/KOtZZ8lC774/hqdefault.jpg",
+      "videoId": "KOtZZ8lC774",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
       }
     },
     {
@@ -132,19 +148,19 @@
       }
     },
     {
-      "title": "Best of Zimmer 42: Liebe ohne Besitzanspruch",
-      "url": "https://www.youtube.com/watch?v=sv2SZ0B-DXI",
-      "description": "Wie viele Menschen liebt ihr? Klar, viele lieben gleichzeitig ihre Freundinnen und eigenen Kinder, vielleicht die Tante und die Eltern. Aber romantisch? Scheitert die Idee von mehreren Liebesbeziehungen nicht an den Ressourcen – ganz zu schweigen von der Eifersucht?\n\nEifersucht, Besitzansprüche oder Kontrolle – in vielen Zweierbeziehungen werden sie zu Fallen. Toni Loh, Professur für Angewandte Ethik an der Hochschule Bonn-Rhein-Siegen, plädiert im Zimmer 42 für eine offenere Form der Liebe, die",
-      "date": "2026-08-11",
-      "thumbnail": "https://i4.ytimg.com/vi/sv2SZ0B-DXI/hqdefault.jpg",
-      "videoId": "sv2SZ0B-DXI",
-      "priority": 30,
+      "title": "Entscheidungen: Kopf oder Bauch, Verena Utikal?",
+      "url": "https://www.youtube.com/watch?v=2Rx7w4nX38I",
+      "description": "Die Pro- und Kontra-Liste wächst, doch die Entscheidung wird nicht leichter. Kein Wunder, sagt Verhaltensökonomin Verena Utikal: Mit solchen Listen fokussieren wir allein auf den Kopf und negieren den Bauch. Im «Zimmer 42» erklärt sie, warum manchmal ausgerechnet der Münzwurf die Rettung sein kann.\n\nOb klein oder gross, Entscheidungen prägen unser Leben. Wechsle ich den Job? Ist die Beziehung noch die richtige für mich? Und was gibt es heute zu essen? In unserer Multioptionsgesellschaft schwingt",
+      "date": "2026-10-06",
+      "thumbnail": "https://i3.ytimg.com/vi/2Rx7w4nX38I/hqdefault.jpg",
+      "videoId": "2Rx7w4nX38I",
+      "priority": 34,
       "scoreDetail": {
         "daily": 25,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
+        "total": 34
       }
     },
     {
@@ -161,6 +177,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 29
+      }
+    },
+    {
+      "title": "Living Better with Heroin and Cocaine? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=5xGTwxBeS4o",
+      "description": "Carl Hart conducts research on drugs at Columbia University in New York and regularly uses substances such as heroin and cocaine himself. Olivia Röllin speaks with him about addiction and dependency, and the individual’s right to alter their state of consciousness through drugs.\n\n🔔 Subscribe to SRF Kultur Sternstunden on YouTube now 👉 https://www.youtube.com/srfkultur?sub_confirmation=1\n\nGrowing up in a poor neighborhood in Miami, Carl Hart experienced drug trafficking, violence, and crime first",
+      "date": "2026-10-05",
+      "thumbnail": "https://i2.ytimg.com/vi/5xGTwxBeS4o/hqdefault.jpg",
+      "videoId": "5xGTwxBeS4o",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -193,38 +225,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "Narzissmus – Warum hungern wir so nach Anerkennung, Thomas Fuchs?",
-      "url": "https://www.youtube.com/watch?v=we_MYXWwiRo",
-      "description": "Narzissten gelten als selbstverliebte Egomanen. Doch der Psychiater und Philosoph Thomas Fuchs widerspricht: Im Kern steckt kein Übermass, sondern ein Mangel – ein fragiler Selbstwert, geprägt durch fehlende Zuwendung in der Kindheit.\n\n«Das narzisstische Subjekt kreist um sich selbst, aber ohne sich zu finden», schreiben Thomas Arnold und Thomas Fuchs in ihrem neuen Buch «Das Unersättliche Selbst. Phänomenologie des Narzissmus». Denn die Suche verharrt im Aussen, während das eigene Innere kalt u",
-      "date": "2026-07-14",
-      "thumbnail": "https://i4.ytimg.com/vi/we_MYXWwiRo/hqdefault.jpg",
-      "videoId": "we_MYXWwiRo",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Wie finde ich aus der Erschöpfung, Thomas Fuchs?",
-      "url": "https://www.youtube.com/watch?v=WzDoHqn5JGU",
-      "description": "Erschöpft, leer, ausgebrannt: Immer mehr Menschen fühlen sich an der Grenze ihrer Kräfte. Der Philosoph und Psychiater Thomas Fuchs erklärt im «Zimmer 42», woher unsere Müdigkeit kommt – und wie wir aus der Erschöpfung herausfinden.\n\nDie Arbeitslast hat im Vergleich zu früher nicht wesentlich zugenommen, sagt Thomas Fuchs im Gespräch mit Barbara Bleisch. Dennoch beobachtet er in seiner Praxis, dass immer mehr Menschen von tiefer Erschöpfung berichten. Verändert habe sich vor allem das hohe Tempo",
-      "date": "2026-07-28",
-      "thumbnail": "https://i4.ytimg.com/vi/WzDoHqn5JGU/hqdefault.jpg",
-      "videoId": "WzDoHqn5JGU",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {

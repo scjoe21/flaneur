@@ -1,8 +1,24 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-04T20:08:50.739937+00:00",
+  "fetchedAt": "2026-10-09T11:04:18.487981+00:00",
   "items": [
+    {
+      "title": "Pourquoi l'insulte est-elle injuste ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-l-insulte-est-elle-injuste-8755627",
+      "description": "durée : 00:03:58  - Avec philosophie - par : Frédéric Worms - Dans la vie quotidienne comme sur le plan politique, nous réagissons avec force face aux insultes. Mais quelle est la nature exacte de cet acte de violence ? Comment le droit distingue-t-il l'insulte, l'injure et la diffamation ?  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 48,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 10,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 48
+      }
+    },
     {
       "title": "Allons à l’immédiat 3/3 : Pourquoi ne peut-on pas avoir tout, tout de suite ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-ne-peut-on-pas-avoir-tout-tout-de-suite-3629071",
@@ -20,19 +36,83 @@
       }
     },
     {
-      "title": "Allons à l’immédiat 2/3 : Comment peut-on revenir à l'immédiat ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-peut-on-revenir-a-l-immediat-9100136",
-      "description": "durée : 00:03:30  - Avec philosophie - par : Frédéric Worms - L'immédiat est-il l'absence de relation ou un contact direct avec le réel ? Avons-nous toujours besoin de médiations pour comprendre le monde ? Entre urgence vitale et querelle philosophique, explorons ce paradoxe avec Frédéric Worms.  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Pourquoi le pouvoir ne doit-il insulter personne ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-le-pouvoir-ne-doit-il-insulter-personne-1273622",
+      "description": "durée : 00:03:37  - Avec philosophie - par : Frédéric Worms - Réapparaissant dans le discours politique, l'insulte réduit l'adversaire ou les citoyens à des êtres inférieurs, autorise indirectement la violence. Une réflexion sur l'éthique du langage en démocratie et le risque de l'injure dans la vie publique.  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 06 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 39,
+      "priority": 43,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 39
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 43
+      }
+    },
+    {
+      "title": "\"Phèdre\" de Platon : bien parler d'amour, bien parler tout court... : Qu'est-ce qu'un bon discours ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-qu-un-bon-discours-2441638",
+      "description": "durée : 00:58:03  - Avec philosophie - par : Géraldine Mosna-Savoye - Au petit matin, Socrate parti pour une promenade, rencontre Phèdre qui sort d’une nuit de discussion enflammée à propos d’amour...\nMais comment bien parler d’amour ? et comment bien parler tout court ?   - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Létitia Mouze Maîtresse de conférences HDR à l'université Toulouse",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 43,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 43
+      }
+    },
+    {
+      "title": "\"Phèdre\" de Platon : bien parler d'amour, bien parler tout court... : Platon et l’écriture : pourquoi il en a tout dit et pourquoi c’est encore vrai ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-ecriture-corrompt-elle-la-pensee-5751690",
+      "description": "durée : 00:58:54  - Avec philosophie - par : Géraldine Mosna-Savoye - Socrate questionnait les usages de l'écriture, et pourtant, Platon a mis par écrit, dans une forme fictive, ses dialogues : y aurait-il là trahison ? Au fond, écrire est-ce figer la pensée ?   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Dimitri El Murr Philosophe, professeur en histoire de la philosophie ancienne et directeur ",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "\"Phèdre\" de Platon : bien parler d'amour, bien parler tout court... 1 : Comment élever son âme ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/comment-elever-son-ame-3847221",
+      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Mosna-Savoye - Voyage halluciné dans le cosmos à bord d'un attelage tiré par deux chevaux - dont l'un, mal luné -, en compagnie de Platon et tout un tas d'âmes emplumées. Direction ? Vers le ciel des Idées et au-delà.  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Anne Merker Professeure de philosophie spécialisée en histoire de ",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "\"Phèdre\" de Platon : bien parler d'amour, bien parler tout court... : Socrate contre l'emprise amoureuse",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/faut-il-preferer-le-sexe-entre-amis-4953622",
+      "description": "durée : 00:58:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Et s'il y avait un amour négatif, dévorant, maladif ? Et si pour s'en protéger, Platon nous conseillait de modérer nos passions en couchant avec... nos amis, pourquoi pas ? Socrate, quelques siècles avant notre ère, pose en tout cas parfaitement les termes qui décrivent le phénomène de l'emprise.  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaer",
+      "date": "Tue, 06 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -52,41 +132,9 @@
       }
     },
     {
-      "title": "Marx avant \"Le Capital\" : \"Manuscrits de 1844\", Marx écolo avant l'heure",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-mardi-29-septembre-2026-8718526",
-      "description": "durée : 00:58:20  - Avec philosophie - par : Géraldine Mosna-Savoye - En 1844, 23 ans avant \"Le Capital\", Karl Marx rédige un ensemble de notes critiquant l'économie politique. La nature y est mentionnée partout, et Marx se questionne : le travail nous rend-il étranger à celle-ci ? De quoi donner forme à ce qui sera l’un de ses grands concepts, celui d’aliénation.   - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaer",
-      "date": "Tue, 29 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
-      }
-    },
-    {
-      "title": "Allons à l’immédiat 1/3 : Pourquoi a-t-on besoin de l'immédiat ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-a-t-on-besoin-de-l-immediat-3747750",
-      "description": "durée : 00:03:28  - Avec philosophie - par : Frédéric Worms - Il y a des choses qui n'attendent pas ; elles doivent être faites ici et maintenant. Dans cette chronique, le philosophe Frédéric Worms s'interroge sur notre rapport paradoxal à l'immédiat. Pourquoi avons-nous tant besoin de ce qui arrive tout de suite, sans délai ni médiation ?  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 34
-      }
-    },
-    {
       "title": "Adèle Yon, écrivaine, sur le cinéaste Eisenstein : art du montage et recette du pathos",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/adele-yon-sur-l-oeuvre-de-serguei-eisenstein-9739083",
-      "description": "durée : 00:58:10  - Avec philosophie - par : Géraldine Mosna-Savoye - Comment l'art du montage et la recette du pathétique du cinéaste et théoricien Sergueï Eisenstein ont-ils influencé l'écriture d'Adèle Yon, l'autrice qui a marqué avec \"Mon vrai nom est Élisabeth\" ? Elle revient sur cette oeuvre dont la fameuse recette a été pervertie par Hollywood...\n  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Adèle Yon Romancière, Docteure SACRe - ENS \n\nVous aimez",
+      "description": "durée : 00:58:10  - Avec philosophie - par : Géraldine Mosna-Savoye - Comment l'art du montage et la recette du pathétique du cinéaste et théoricien Sergueï Eisenstein ont-ils influencé l'écriture d'Adèle Yon, l'autrice qui a marqué avec \"Mon vrai nom est Élisabeth\" ? Elle revient sur cette oeuvre dont la fameuse recette a été pervertie par Hollywood...\n  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger, Phane Montet - invités : Adèle Yon Romancière, Docteure SACRe - ENS \n\nVous aimez",
       "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -94,22 +142,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Cherchez l’erreur 3/3 : Comment les biais aggravent-ils les erreurs ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-les-biais-aggravent-ils-les-erreurs-1136600",
-      "description": "durée : 00:03:28  - Avec philosophie - par : Frédéric Worms - L'erreur accompagne tout apprentissage et participe au progrès de la connaissance. Mais lorsqu'elle est renforcée par des biais, individuels ou collectifs, elle peut devenir persistante et produire des effets sociaux, politiques ou moraux considérables.  - équipe : Virginie Le Duault, Sam  Baquiast \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -132,34 +164,50 @@
       }
     },
     {
-      "title": "Albert Camus au pouvoir : redonnons du sens au monde !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/albert-camus-redonnons-du-sens-au-monde-7916424",
-      "description": "durée : 00:59:47  - Avec philosophie - par : Laurence Devillairs - Et si Camus prenait le pouvoir ? Langage politique, révolte, justice, compromis, refus de la violence : que nous apprendrait aujourd’hui la pensée de celui qui voulait rester lucide sans désespérer ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Jean Yves Guérin Professeur émérite de littérature française à l'université de la Sorbonne nouvelle , Perrine Simon-Nahum Directrice de recherche au CNRS, professeure à l'Éc",
-      "date": "Sat, 26 Sep 2026",
+      "title": "Commment l'insulte dégrade-t-elle le monde ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/commment-l-insulte-degrade-t-elle-le-monde-5393604",
+      "description": "durée : 00:03:31  - Avec philosophie - par : Frédéric Worms -  Quand l'espace de la parole publique est maltraité par l'insulte de plus en plus présente dans les sphères sociale et politique, cette dernière devient un danger de dégradation pour le monde.  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 28,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 28
+      }
+    },
+    {
+      "title": "Plonger dans sa psyché 3/5 : Frédéric Gros : \"Selon Foucault, la folie n'est rien d'autre que l'inquiétude de la raison\"",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:59:04  - Avec philosophie - par : Géraldine Mosna-Savoye - Le philosophe Frédéric Gros nous parle de l'\"Histoire de la folie à l'âge classique\", texte qui l'a bouleversé et dans lequel Michel Foucault trace une ligne de crête entre l'exaltation de la raison et l'idéalisation de la folie. Comment appréhender la folie sans l'enfermer dans le pouvoir médical ?  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel \n\nVous aimez ce podcast ? Pour écouter tous les épiso",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 20,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Sommes-nous ventriloqués par l’IA ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/sommes-nous-ventriloques-par-l-ia-9794383",
-      "description": "durée : 00:03:19  - Avec philosophie - par : Anne Alombert - ChatGPT et les autres IA génératives produisent du langage. Mais à force de les consulter, finissent-elles par façonner le nôtre ? La philosophe Anne Alombert interroge l’influence des algorithmes sur notre manière de penser et de nous exprimer.  - équipe : Virginie Le Duault, Camille Renard, Thomas Jost, Jean-Ghislain Maige \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 24 Sep 2026",
+      "title": "Face à l’IA, l’urgence d’une culture technique",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/face-a-l-ia-l-urgence-d-une-culture-technique-6562574",
+      "description": "durée : 00:03:10  - Avec philosophie - par : Anne Alombert - Moins on comprend l’IA, plus on l’utilise. Ce paradoxe révèle une forme d’aliénation que le philosophe Gilbert Simondon avait déjà identifiée : la méconnaissance de la technique. Anne Alombert interroge notre fascination pour la technologique et les conditions de notre liberté.  - équipe : Camille Renard, Virginie Le Duault, Thomas Jost, Jean-Ghislain Maige \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vo",
+      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 0,
         "phil": 15,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 10,
         "total": 25
       }
     },
@@ -180,38 +228,6 @@
       }
     },
     {
-      "title": "Marx avant \"Le Capital\" : Clasher Proudhon pour en finir avec l'anarchie ⚡",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-lundi-28-septembre-2026-5175984",
-      "description": "durée : 00:58:25  - Avec philosophie - par : Géraldine Mosna-Savoye - On évoque souvent la polémique entre les deux philosophes Marx et Proudhon, pourtant, la vérité se situerait peut-être plutôt du côté d'une obsession de Marx envers Proudhon... Et si penser contre Proudhon lui avait-il permis de penser... tout court ?  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Anne-Sophie Chamb",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Infantisme, l'oppression impensée : \"Le Club des Cinq\" : ne les libérez pas, ils s'en chargent !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-jeudi-24-septembre-2026-6305758",
-      "description": "durée : 00:58:54  - Avec philosophie - par : Géraldine Mosna-Savoye - Insupportables mioches ou petits génies, voire les deux en même temps, les enfants, des contes aux fictions, des sagas aux bandes dessinées, condensent tous les travers et désirs que les grands leur font porter... Prenons l'exemple du fameux Club des Cinq, car eux, ont réussi à s'en émanciper !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert - invités : Mathilde Lévêqu",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
       "title": "Saint Augustin au pouvoir : ne succombons pas au défaitisme !",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/saint-augustin-au-pouvoir-ne-succombons-pas-au-defaitisme-1219219",
       "description": "durée : 01:00:02  - Avec philosophie - par : Laurence Devillairs - Et si saint Augustin devenait chef de gouvernement ? Justice, sobriété, spiritualité, rapport au temps : que ferait cet évêque face aux crises d’un monde en mutation ? Et que peut encore nous apprendre sa pensée sur l’exercice du pouvoir ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Jean-Marie Salamito , Pierre Descotes maître de conférences HDR à l’Université Paris-Sorbonne \n\nVous aimez ce podcast ? Pour écouter ",
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "\"Claudine à l'école\" de Colette par l'académicienne Chantal Thomas",
-      "url": "https://www.radiofrance.fr",
-      "description": "durée : 00:59:18  - Avec philosophie - par : Géraldine Mosna-Savoye - L'académicienne Chantal Thomas a choisi d'évoquer trois livres qui l'ont accompagnée à différents âges de sa vie, trois livres nés d'une même plume, celle de la géniale Colette. De la voracité des écolières à l'avidité qui résiste au passage du temps, elle nous embarque dans sa \"féerie simple\".   - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes ",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     }
   ]

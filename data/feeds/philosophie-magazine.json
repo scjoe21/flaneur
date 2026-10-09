@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-04T20:08:51.080776+00:00",
+  "fetchedAt": "2026-10-09T11:04:19.056749+00:00",
   "items": [
+    {
+      "title": "Pourquoi les démocraties occidentales ont-elles fait le choix du pétrole ?",
+      "url": "https://www.philomag.com/articles/pourquoi-les-democraties-occidentales-ont-elles-fait-le-choix-du-petrole",
+      "description": "",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Pourquoi restons-nous si attachés à ceux qui nous ont quittés ?",
       "url": "https://www.philomag.com/articles/pourquoi-restons-nous-si-attaches-ceux-qui-nous-ont-quittes",
@@ -36,6 +52,22 @@
       }
     },
     {
+      "title": "Olga L. Lizzini : “Pour Avicenne, la santé de l’âme dépend directement de notre rapport à la vérité”",
+      "url": "https://www.philomag.com/articles/olga-l-lizzini-pour-avicenne-la-sante-de-lame-depend-directement-de-notre-rapport-la",
+      "description": "",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Clémence Guetté : “Je défends une lecture matérialiste de l’amitié”",
       "url": "https://www.philomag.com/articles/clemence-guette-je-defends-une-lecture-materialiste-de-lamitie",
       "description": "",
@@ -52,42 +84,10 @@
       }
     },
     {
-      "title": "10 ans de TikTok : le nouvel âge du divertissement",
-      "url": "https://www.philomag.com/articles/10-ans-de-tiktok-le-nouvel-age-du-divertissement",
+      "title": "Faut-il maîtriser ses désirs ou les écouter ?",
+      "url": "https://www.philomag.com/articles/faut-il-maitriser-ses-desirs-ou-les-ecouter",
       "description": "",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Andy Warhol, l’homme qui voulait “devenir une machine”",
-      "url": "https://www.philomag.com/articles/andy-warhol-lhomme-qui-voulait-devenir-une-machine",
-      "description": "",
-      "date": "Sat, 19 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "“L’arpentage”, la solution miracle pour réapprendre à lire ?",
-      "url": "https://www.philomag.com/articles/larpentage-la-solution-miracle-pour-reapprendre-lire",
-      "description": "",
-      "date": "Sat, 03 Oct 2026",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +100,58 @@
       }
     },
     {
-      "title": "Poison et remède : le pouvoir démesuré du “pharmakon”",
-      "url": "https://www.philomag.com/articles/poison-et-remede-le-pouvoir-demesure-du-pharmakon",
+      "title": "Catho de gauche cherche ‘katechon’ désespérément",
+      "url": "https://www.philomag.com/articles/catho-de-gauche-cherche-katechon-desesperement",
       "description": "",
-      "date": "Thu, 01 Oct 2026",
+      "date": "Thu, 08 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Omri Boehm : “Inventer un nouveau point d’Archimède entre Israéliens et Palestiniens”",
+      "url": "https://www.philomag.com/articles/omri-boehm-inventer-un-nouveau-point-darchimede-entre-israeliens-et-palestiniens",
+      "description": "",
+      "date": "Tue, 06 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Et si demain, on avait tous le même visage ?",
+      "url": "https://www.philomag.com/articles/et-si-demain-avait-tous-le-meme-visage",
+      "description": "",
+      "date": "Mon, 05 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“L’arpentage”, la solution miracle pour réapprendre à lire ?",
+      "url": "https://www.philomag.com/articles/larpentage-la-solution-miracle-pour-reapprendre-lire",
+      "description": "",
+      "date": "Sat, 03 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -184,54 +232,6 @@
       "url": "https://www.philomag.com/articles/lalignement-des-ia-enjeu-du-siecle",
       "description": "",
       "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Catherine Ringer-Céline Dion : la diva punk et la vestale christique",
-      "url": "https://www.philomag.com/articles/catherine-ringer-celine-dion-la-diva-punk-et-la-vestale-christique",
-      "description": "",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Julian Baggini : “L’école anglaise a opéré un retour aux fondamentaux, mais ses bons résultats Pisa doivent être pris avec des pincettes”",
-      "url": "https://www.philomag.com/articles/julian-baggini-lecole-anglaise-opere-un-retour-aux-fondamentaux-mais-ses-bons-resultats",
-      "description": "",
-      "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Histoire culturelle de l’IA” : retracer les origines d'un mythe moderne",
-      "url": "https://www.philomag.com/articles/histoire-culturelle-de-lia-retracer-les-origines-dun-mythe-moderne",
-      "description": "",
-      "date": "Tue, 22 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

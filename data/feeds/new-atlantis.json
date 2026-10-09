@@ -1,7 +1,7 @@
 {
   "sourceId": "new-atlantis",
   "sourceName": "The New Atlantis",
-  "fetchedAt": "2026-10-04T20:09:10.488824+00:00",
+  "fetchedAt": "2026-10-09T11:04:42.860041+00:00",
   "items": [
     {
       "title": "Why I Do Not Have AC",
@@ -49,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
+      }
+    },
+    {
+      "title": "Are We Really on the Path to AGI?",
+      "url": "https://www.thenewatlantis.com/publications/are-we-really-on-the-path-to-agi",
+      "description": "Sometimes, a curious amateur’s eye can discern tensions in the work of professionals that the intensity of their focused labor keeps them from seeing clearly themselves. Such amateurs point to questions more than answers, but innocent questions sometimes clear a path toward answers, too. This is the spirit in which what follows is put forward. This year, I’ve found myself a curious amateur working to engage with the enormously impressive conceptual and practical work that is pushing forward the ",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.thenewatlantis.com/publications/winning-strategy-infertility-treatment",
       "description": "Ari Schulman: Emma, you are a policy leader on the subject of restorative reproductive medicine, which, as I understand it, argues that something has gone wrong with conventional fertility treatments, especially in the prominence of IVF. It also has a different prescription, an idea of a sort of new scientific field and medical practice that still needs to be developed. Is that right? What is RRM? Emma Waters: Restorative reproductive medicine is an umbrella term that refers to three distinct me",
       "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "AI’s Builders Are Both Arrogant and Afraid",
-      "url": "https://www.thenewatlantis.com/publications/ai-builders-are-arrogant-and-afraid",
-      "description": "The builders of the terrible, doomed tower of Babel sought to reach the sky to make a name for themselves. Was their sin one of overweening ambition? In his new encyclical, Magnifica Humanitas, Pope Leo XIV says the builders are animated by pride, yes, but also by fear. Like all idolators, the architects of Babel want both too much and too little. They want to reach the sky — but they do not want to find anyone waiting there, offering them a hand up. They want to build a god of their own — one t",
-      "date": "Tue, 23 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

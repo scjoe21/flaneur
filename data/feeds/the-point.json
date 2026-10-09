@@ -1,24 +1,8 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-10-04T20:09:18.389126+00:00",
+  "fetchedAt": "2026-10-09T11:04:54.303170+00:00",
   "items": [
-    {
-      "title": "Student of Desire",
-      "url": "https://thepointmag.com/criticism/student-of-desire/",
-      "description": "It’s one thing to think abstractly about what men want, as a literary or philosophical question, or even to decry sexism as a social phenomenon; it’s another to be a single woman in New York City seeking love and partnership, and to worry that what you have to offer is not especially desired by those you are attracted to. \n The post  Student of Desire  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
     {
       "title": "Internal Goods",
       "url": "https://thepointmag.com/politics/internal-goods/",
@@ -97,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Rejecting Enlightenment",
+      "url": "https://thepointmag.com/dialogue/rejecting-enlightenment/",
+      "description": "“I felt the need to tell my story, and to do so in public, where I’m held accountable by the moral gaze of another person—but at the same time not to reduce it, or simplify it.” \n The post  Rejecting Enlightenment  appeared first on  The Point Magazine .",
+      "date": "Tue, 06 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

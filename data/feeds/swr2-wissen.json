@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-04T20:09:15.128534+00:00",
+  "fetchedAt": "2026-10-09T11:04:50.347489+00:00",
   "items": [
     {
       "title": "Hannah Arendt – Freiheit und Verantwortung",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Echte Pausen – Warum Abschalten für unser Gehirn so wichtig ist",
-      "url": "https://www.swr.de/swrkultur/wissen/echte-pausen-warum-abschalten-fuer-unser-gehirn-so-wichtig-ist-100.html",
-      "description": "Viele Menschen sehnen sich nach Erholung – und können kaum abschalten. Sobald Leerlauf entsteht, greifen sie zum Handy. Die Hirnforschung zeigt: Unser Gehirn braucht das Nichtstun.",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -52,42 +36,26 @@
       }
     },
     {
-      "title": "Transrapid, Flugtaxis, Hyperloop – Warum es neuartige Verkehrstechnik so schwer hat",
-      "url": "https://www.swr.de/swrkultur/wissen/transrapid-flugtaxis-hyperloop-warum-es-neuartige-verkehrstechnik-so-schwer-hat-100.html",
-      "description": "Passagiere in Kabinen sausen durch ein Vakuum-Rohr. Diese Hyperloop-Technik soll in Deutschland erprobt werden. Doch es ist schwer, neue Verkehrsmittel zu etablieren. Das zeigen Beispiele wie Transrapid, Flugtaxis oder Fracht-Zeppeline.\nVon Dirk Asendorpf (SWR 2026)\nManuskript und mehr zur Sendung:\nhttp://swr.li/neue-verkehrstechnik\nInfos:\nInstitute of Hyperloop Technology, FH Emden-Leer\nhttps://iht.hs-emden-leer.de/\nHyperloop-Forschung an der TU München\nhttps://tumhyperloop.com/\nFörderverein Tr",
-      "date": "Tue, 22 Sep 2026",
+      "title": "Neue Bäume fürs Stadtklima – Wie Kommunen auf den Engpass reagieren",
+      "url": "https://www.swr.de/swrkultur/wissen/neue-baeume-fuers-stadtklima-wie-kommunen-auf-den-engpass-reagieren-100.html",
+      "description": "Verbesserte Pflanzmethoden, neue Arten und Bäume in mobilen Containern sollen für mehr Stadtgrün sorgen. Wenn der Nachschub aus Baumschulen stockt, züchten Städte Pflanzen selbst.",
+      "date": "Tue, 6 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Weg von Google und Paypal – Wie die EU digital unabhängiger werden will",
-      "url": "https://www.swr.de/swrkultur/wissen/weg-von-google-und-paypal-wie-die-eu-digital-unabhaengiger-werden-will-100.html",
-      "description": "Suchmaschinen, online Bezahlen, Cloud-Server: Die meisten digitalen Dienastleistungen in der EU übernehmen Big-Tech-Konzerne aus den USA. Die Abhängigkeit ist ein Problem.",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
+      "priority": 24,
       "scoreDetail": {
         "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 25
+        "total": 24
       }
     },
     {
-      "title": "Richtig Laufen – Wie der Ausdauersport Körper und Psyche stärkt",
-      "url": "https://www.swr.de/swrkultur/wissen/richtig-laufen-wie-der-ausdauersport-koerper-und-psyche-staerk-100.html",
-      "description": "Laufclubs boomen, immer mehr Menschen trainieren für einen Marathon. Regelmäßiges Laufen stärkt das Herz-Kreislauf-System und hilft, Stress abzubauen – auch ohne extreme Distanz.",
-      "date": "Fri, 25 Sep 2026",
+      "title": "Jüdisches Leben in Deutschland – Sichtbar bleiben trotz Bedrohung",
+      "url": "https://www.swr.de/swrkultur/wissen/juedisches-leben-in-deutschland-sichtbar-bleiben-trotz-bedrohung-100.html",
+      "description": "Mit dem Hamas-Überfall auf Israel 2023 stieg auch der Antisemitismus hierzulande sprunghaft an. Menschen jüdischen Glaubens sind so bedroht wie nie seit dem Zweiten Weltkrieg.",
+      "date": "Mon, 5 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -100,19 +68,35 @@
       }
     },
     {
-      "title": "Opfer von Gewaltverbrechen – Was ihnen wirklich hilft",
-      "url": "https://www.swr.de/swrkultur/wissen/opfer-von-gewaltverbrechen-was-ihnen-wirklich-hilft-100.html",
-      "description": "Angebote, die Opfer unterstützen, mit physischen und psychischen Folgen einer Tat umzugehen, sind rechtlich garantiert. Viele Betroffene wissen aber nicht, wo sie Hilfe kriegen.",
-      "date": "Thu, 24 Sep 2026",
+      "title": "Organisierte Kriminalität in Europa (3/3) – Die EU-Ermittler",
+      "url": "https://www.swr.de/swrkultur/wissen/organisierte-kriminalitaet-in-europa-33-die-eu-ermittler-100.html",
+      "description": "Um den Bossen das Handwerk zu legen, müssen die Ermittler der Spur des Geldes folgen, international zusammenarbeiten, Daten austauschen. Dann erfolgt am \"Action Day\" der Zugriff.",
+      "date": "Wed, 7 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 20
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Organisierte Kriminalität in Europa (2/3) – Die vielen Komplizen",
+      "url": "https://www.swr.de/swrkultur/wissen/organisierte-kriminalitaet-in-europa-23-die-vielen-komplizen-100.html",
+      "description": "Viele stützen das System – ob bewusst oder unbewusst: Konsumentinnen von Drogen. Freier von Zwangsprostituierten. Käufer von gefälschten Markenartikeln. Menschen, die sich bestechen lassen.",
+      "date": "Wed, 7 Oct 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Organisierte Kriminalität in Europa (1/3) – Die Kriminellen",
+      "url": "https://www.swr.de/swrkultur/wissen/organisierte-kriminalitaet-in-europa-13-die-kriminellen-100.html",
+      "description": "In 731 Netzwerken der organisierten Kriminalität sind mindestens 400.000 Mitglieder tätig. Sie gelten als besonders brutal und skrupellos. Viele sind drogenabhängig und paranoid. Bosse sind oft manipulativ und gefühlskalt.",
+      "date": "Wed, 7 Oct 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
