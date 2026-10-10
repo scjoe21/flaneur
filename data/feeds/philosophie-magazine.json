@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-09T22:51:24.871700+00:00",
+  "fetchedAt": "2026-10-10T20:09:27.300497+00:00",
   "items": [
+    {
+      "title": "Anne Carson, le paradoxe de l’amour",
+      "url": "https://www.philomag.com/articles/anne-carson-le-paradoxe-de-lamour",
+      "description": "",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 15
+      }
+    },
     {
       "title": "Pourquoi les démocraties occidentales ont-elles fait le choix du pétrole ?",
       "url": "https://www.philomag.com/articles/pourquoi-les-democraties-occidentales-ont-elles-fait-le-choix-du-petrole",
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "Clémence Guetté : “Je défends une lecture matérialiste de l’amitié”",
-      "url": "https://www.philomag.com/articles/clemence-guette-je-defends-une-lecture-materialiste-de-lamitie",
+      "title": "Peut-on se détacher de son corps ?",
+      "url": "https://www.philomag.com/articles/peut-se-detacher-de-son-corps",
       "description": "",
-      "date": "Fri, 25 Sep 2026",
+      "date": "Sat, 10 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/faut-il-avoir-un-corps-pour-etre-un-bon-romancier",
       "description": "",
       "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Paul Cezanne, peintre et influenceur philosophique",
-      "url": "https://www.philomag.com/articles/paul-cezanne-peintre-et-influenceur-philosophique",
-      "description": "",
-      "date": "Sat, 26 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

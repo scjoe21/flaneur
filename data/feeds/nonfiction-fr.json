@@ -1,24 +1,8 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-10-09T22:51:55.230581+00:00",
+  "fetchedAt": "2026-10-10T20:09:47.157006+00:00",
   "items": [
-    {
-      "title": "« Saint-Nazaire au travail »",
-      "url": "https://www.nonfiction.fr/article-12854-saint-nazaire-au-travail.htm",
-      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Nonfiction partage, par épisodes, les propos recueillis auprès de ces travailleurs, dans une série intitulée « Saint-Nazaire au travail ».  \r\n\r\n  L’intégralité des récits sur ce thème sont à découvrir sur le site de la Compagnie Pourquoi se",
-      "date": "Sun, 13 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
     {
       "title": "Comment faire vivre le pluralisme ?",
       "url": "https://www.nonfiction.fr/article-12866-comment-faire-vivre-le-pluralisme.htm",
@@ -97,6 +81,22 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 13
+      }
+    },
+    {
+      "title": "Capitale animale. Les bêtes de Paris et la guerre de 1870",
+      "url": "https://www.nonfiction.fr/article-12875-capitale-animale-les-betes-de-paris-et-la-guerre-de-1870.htm",
+      "description": "Le tableau  Le Dépeceur de rats  de Narcisse Chaillou (1870) illustre combien les Parisiens, contraints à se nourrir d’animaux inhabituels, ont été marqués par le siège de la capitale. Mais les animaux parisiens, tel le rat de la peinture, ont eux aussi été mis à rude épreuve par la guerre franco-prussienne, le siège de Paris, puis la Commune.  L’Année terrible des animaux. Un regard inédit sur le Siège et la Commune de Paris 1870-1871  retrace leur histoire. Son auteur, Nicolas Baron, est spéci",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

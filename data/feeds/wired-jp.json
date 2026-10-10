@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-09T22:52:13.699565+00:00",
+  "fetchedAt": "2026-10-10T20:10:02.456853+00:00",
   "items": [
     {
       "title": "片山真理（アーティスト）：「わたし」を撮り、「わたしたち」を写す",
@@ -148,58 +148,10 @@
       }
     },
     {
-      "title": "秋吉浩気（建築家／VUILD代表）：建築の表現を、人間の手に取り戻す",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-koki-akiyoshi/",
-      "description": "建設費の高騰と職人不足によって、建築の自由な表現は失われつつある。AIとロボティクスによる一品生産の自動化を進める建築家の秋吉浩気は、いかにしてその表現を人間の手に取り戻そうとしているのか。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "スピルバーグの夢見た〈希望〉の国アメリカが“開示”された日──『ディスクロージャー・デイ』　池田純一レビュー",
-      "url": "https://wired.jp/article/disclosure-day-review-junichi-ikeda/",
-      "description": "エイリアンの存在を80年間秘匿してきた組織の言い分は、なぜこれほどいまの米国に響くのか。未知から目を背けないフロンティア精神をポスト・トゥルースの時代に蘇らせた映画『ディスクロージャー・デイ』を読み解く。",
-      "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "イノベーションは、もっと身近であっていい：「WIRED Innovation Awards 2026」へ向けた対話",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-dialogue/",
-      "description": "2025年に復活を遂げた「WIRED Innovation Awards」が今年も始動した。6年ぶりに開催された昨年のアワードは、パートナーである積水ハウスに何を残したのか。積水ハウスの常務執行役員 コミュニケーションデザイン部長・足立紀生と『WIRED』日本版編集長の松島倫明が、その成果や今年の展望について語り合った。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "AIエージェントが職場に押し寄せる。だが、人間はまだ準備ができていない",
-      "url": "https://wired.jp/article/ai-agents-are-about-to-flood-the-workforce-no-ones-ready-for-it/",
-      "description": "人間のように振る舞うAIが、これから新たな働き手として続々と加わるだろう。わたしたちは、便利なツールから「同僚」へと変わる存在とどう向き合い、どこに線を引くべきなのか。",
-      "date": "Thu, 08 Oct 2026",
+      "title": "【11月9日開催】「人と地球の健康」を、リジェネラティブに描き出す：THE REGENERATIVE PLANET SUMMIT",
+      "url": "https://wired.jp/article/the-regenerative-planet-summit-2026/",
+      "description": "人と地球の健康を包括的に考える「プラネタリーヘルス」の視点から、リジェネラティブな惑星とビジネスの未来を描き出す1dayカンファレンス「THE REGENERATIVE PLANET SUMMIT」の開催が決定。",
+      "date": "Sat, 10 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -212,9 +164,57 @@
       }
     },
     {
-      "title": "Mac Studio（M5 Ultra）レビュー：最先端クラスのAIモデルをローカルで動かす実力",
-      "url": "https://wired.jp/review/apple-mac-studio-m5-ultra-2026/",
-      "description": "M5 Ultraを搭載したMac Studioは、AI性能が飛躍的に向上した。最先端クラスの大規模言語モデルをローカルで動かせるなど、小型ながら圧倒的な性能を備えている。",
+      "title": "暗闇でも飛べる小型ドローン、その秘密は“ヒゲ”にあり",
+      "url": "https://wired.jp/article/whisker-based-tactile-flight-tiny-drones/",
+      "description": "ネズミなどのヒゲを模した軽量な触覚センサーを、オランダの研究チームが開発した。小型ドローンに取り付けることで、ガラスのような透明な壁を避けて飛びながら、視覚に頼ることなく壁に囲まれた部屋の出口も見つけられるという。",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "大胆な人工衛星救出ミッションはこうして記録的短時間で実現した",
+      "url": "https://wired.jp/article/sz-a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
+      "description": "老朽化したNASAの観測衛星「スウィフト」の軌道を引き上げる救出ミッションが失敗に終わった。だがこのミッションの実現そのものが、不可能を現実にする異例のものだった。",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "光で神経細胞を制御するノーベル賞受賞技術、その原点は藻類だった",
+      "url": "https://wired.jp/article/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/",
+      "description": "光遺伝学は、光を使って生きた脳内の個々の神経細胞をオン・オフする技術だ。神経科学を大きく変えたこの分野は、光を素早く感知する単細胞の藻類の研究から生まれた。",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“あなた専用のAIエージェント”の座を巡る競争が始まった",
+      "url": "https://wired.jp/article/ai-agents-dots-devday-muse-battling-it-out/",
+      "description": "OpenAIの「Dots」とメタの「Muse」など、一般ユーザー向けのAIエージェントが登場している。実際に使ってみると、その便利さは確かなものだった。いずれ、あなたも使うことになるかもしれない。",
       "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "1,100万円のG-SHOCK、ブルーサファイアクリスタルの「MRG-D5000」とは",
-      "url": "https://wired.jp/article/casio-crystal-g-shock-is-the-most-expensive-ever-made/",
-      "description": "「MRG-D5000」は、ブルーサファイアクリスタルから削り出したアウターケースとベゼルに、G-SHOCKならではの耐衝撃性能を備える。カシオの8年におよぶ開発の集大成だ。",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Mac Studio（M5 Ultra）レビュー：最先端クラスのAIモデルをローカルで動かす実力",
+      "url": "https://wired.jp/review/apple-mac-studio-m5-ultra-2026/",
+      "description": "M5 Ultraを搭載したMac Studioは、AI性能が飛躍的に向上した。最先端クラスの大規模言語モデルをローカルで動かせるなど、小型ながら圧倒的な性能を備えている。",
+      "date": "Fri, 09 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "monsieur-phi",
   "sourceName": "Monsieur Phi",
-  "fetchedAt": "2026-10-09T22:51:24.074359+00:00",
+  "fetchedAt": "2026-10-10T20:09:26.110123+00:00",
   "items": [
     {
       "title": "Ce qu'on sait de la philosophie antique pourrait bientôt radicalement changer",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Pourquoi cette histoire de pilules nous rend fou",
-      "url": "https://www.youtube.com/watch?v=lo7iJnq_U9M",
-      "description": "Merci à Green-Got ! Vous avez 3 mois de compte Premium offerts avec le code MONSIEURPHI (pour les 1000 premiers) : https://bit.ly/monsieurPhi\n\nVous pouvez me retrouver avec Redek dans @PodcastLectures où on se lit des textes qu'on aime et on en discute. Le premier épisode sur les débuts est par ici : https://youtu.be/cM37nU8Cnak\nC'est aussi sur Spotify : https://open.spotify.com/show/3tB6LnAkJkXxL8Jhli8CMI\n\nSommaire\n\n0:00 - Intro : une simple histoire de pilules\n3:38 - Sponso Green-Got\n5:21 - Le",
-      "date": "2025-05-02",
-      "thumbnail": "https://i1.ytimg.com/vi/lo7iJnq_U9M/hqdefault.jpg",
-      "videoId": "lo7iJnq_U9M",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Généalogie des grands modèles de langage",
+      "url": "https://www.youtube.com/watch?v=PUxgpy81Cnc",
+      "description": "Merci à NordVPN pour le partenariat sur cette vidéo. Retrouvez l'offre sponsorisée ici :  https://nordvpn.com/monsieurphi\n\nPetit appel pour figuration dans le public du Late Show du Siècle le 21 octobre ! En deux mots : on tourne dans le beau théâtre Victor Hugo à Fougères (pas loin de Rennes) et on voudrait remplir la salle une fois pour filmer des plans du public (qui seront réutilisés sur tous les épisodes du Late Show, on ne le fera pas chaque fois, magie du montage). Si ça vous dit de passe",
+      "date": "2026-10-10",
+      "thumbnail": "https://i1.ytimg.com/vi/PUxgpy81Cnc/hqdefault.jpg",
+      "videoId": "PUxgpy81Cnc",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-09T22:51:53.116120+00:00",
+  "fetchedAt": "2026-10-10T20:09:44.944773+00:00",
   "items": [
     {
       "title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "The Importance of Being Scared: Polish Nobel Laureate Wisława Szymborska on Fairy Tales and the Necessity of Fear",
-      "url": "https://www.themarginalian.org/2026/10/05/wislawa-szymborska-fairy-tales-fear/",
-      "description": "\"Andersen had the courage to write stories with unhappy endings. He didn’t believe that you should try to be good because it pays ... but because evil stems from intellectual and emotional stuntedness and is the one form of poverty that should be shunned.\"",
-      "date": "Mon, 05 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
-      }
-    },
-    {
       "title": "A Constellation of Amazements: An Illustrated Love Letter to the Joy of Collecting Things",
       "url": "https://www.themarginalian.org/2026/10/06/these-are-my-rocks/",
       "description": "We are hunter-gatherers with a capacity for amazement, wired to search for an organizing principle by which to contain the chaos of reality. We organize what we find into categories and hierarchies, hovering over which is one of the strangest things about being human: preference. How odd to have a strong feeling about a color or an object or a sequence of chords. And yet our preferences are how we sculpt the self from the monolith of the species. Preference taken to its highest form touches amaz",
@@ -100,6 +84,22 @@
       }
     },
     {
+      "title": "How to Doubt Your Way into a Truer Life",
+      "url": "https://www.themarginalian.org/2026/10/09/jeff-foster-indecision/",
+      "description": "The most maddening thing about life is also the most beautiful: its indeterminacy. The course of our lives, the fate of our species, the future of the universe: all undecided. But because possibility is the hardest thing to bear, we sedate ourselves with certainty — even though we know that liminality is the most generative place, that to believe is to doubt, that we are most creative when we attempt what is not certain. (“Whatever inspiration is,” one of my favorite poets reflected in her Nobel",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "Nietzsche on Walking and Creativity",
       "url": "https://www.themarginalian.org/2026/10/05/nietzsche-walking/",
       "description": "\"Our first questions about the value of a book, of a human being, or a musical composition are: Can they walk? Even more, can they dance?\"",
@@ -113,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
+      }
+    },
+    {
+      "title": "How Memory Makes Us and Breaks Truth: The Rashomon Effect and the Science of How Memories Form and Falter in the Brain",
+      "url": "https://www.themarginalian.org/2026/10/09/rashomon-effect-memory/",
+      "description": "\"We are our memory… that chimerical museum of shifting shapes, that pile of broken mirrors.”",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -177,22 +193,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "The Secret Power of Ambivalence",
-      "url": "https://www.themarginalian.org/2026/10/09/jeff-foster-indecision/",
-      "description": "The most maddening thing about life is also the most beautiful: its indeterminacy. The course of our lives, the fate of our species, the future of the universe: all undecided. But because possibility is the hardest thing to bear, we sedate ourselves with certainty — even though we know that liminality is the most generative place, that to believe is to doubt, that we are most creative when we attempt what is not certain. (“Whatever inspiration is,” one of my favorite poets reflected in her Nobel",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

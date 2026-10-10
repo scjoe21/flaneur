@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-09T22:51:24.473187+00:00",
+  "fetchedAt": "2026-10-10T20:09:26.921312+00:00",
   "items": [
     {
       "title": "Pourquoi l'insulte est-elle injuste ?",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Simone Weil au pouvoir : défendons nos besoins essentiels !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/simone-weil-au-pouvoir-reparons-le-monde-3346412",
+      "description": "durée : 00:59:39  - Avec philosophie - par : Laurence Devillairs - Et si Simone Weil était au pouvoir ? Entre méfiance envers la politique, attention à l’autre, enracinement, sens du travail et beauté du monde, quelle société imaginerait-elle aujourd’hui ?\n  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Robert Chenavier Agrégé et docteur en philosophie, président de l'Association pour l'étude de la pensée de Simone Weil et directeur de la publication des \"Cahiers Simone Weil\" \n\nVous",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -209,22 +225,6 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 25
-      }
-    },
-    {
-      "title": "Marx avant \"Le Capital\" : \"Manifeste du parti communiste\", militer pour mieux penser",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-mercredi-30-septembre-2026-6799940",
-      "description": "durée : 00:58:01  - Avec philosophie - par : Géraldine Mosna-Savoye - Avant ses 30 ans, avec son ami Engels, Marx rédige ce texte d'intervention commandé par la Ligue des communistes. Il veut fournir un cadre théorique à la colère des prolétaires, alors que la tension monte en Europe... Ont-ils voulu faire de leur pensée un mode d'action ?  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
       }
     },
     {

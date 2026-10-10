@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-09T22:52:01.726638+00:00",
+  "fetchedAt": "2026-10-10T20:09:52.959510+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 35
+      }
+    },
+    {
+      "title": "Has the internet actually shortened our attention spans? | Doctorow, Wales, Harrington",
+      "url": "https://www.youtube.com/watch?v=x-R0Gngda2Q",
+      "description": "Cory Doctorow, Mary Harrington and Jimmy Wales discuss the impact of the internet on literacy.\n\nIs digital media making us dumber?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/gutenberg-vs-zuckerberg2?utm_source=YouTube&utm_medium=description\n\nGutenberg’s printing press transformed the world. The surge in literacy and the democratisation of knowledge helped ignite the Enlightenment. 500 years later, the internet is initiating a new transformation. Zuckerberg clai",
+      "date": "2026-10-10",
+      "thumbnail": "https://i1.ytimg.com/vi/x-R0Gngda2Q/hqdefault.jpg",
+      "videoId": "x-R0Gngda2Q",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 30
       }
     },
     {
@@ -144,22 +160,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 10,
-        "total": 10
-      }
-    },
-    {
-      "title": "Free will is real, and science proves it | George Ellis",
-      "url": "https://www.youtube.com/watch?v=oRKaSp5UmO8",
-      "description": "George Ellis lays out his theory for free will and agency in humans, grounding his claims in physics and molecular biology.\n\nAre we more than mere echoes of the Big Bang?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/free-will-is-real?utm_source=YouTube&utm_medium=description\n\nModern science has begun to treat free will as a comforting illusion. Join leading cosmologist and collaborator of Stephen Hawking, George Ellis, as he argues that this is a mistake. Free will",
-      "date": "2026-09-19",
-      "thumbnail": "https://i4.ytimg.com/vi/oRKaSp5UmO8/hqdefault.jpg",
-      "videoId": "oRKaSp5UmO8",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 10
       }
     },
