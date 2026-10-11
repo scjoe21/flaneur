@@ -1,7 +1,7 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-10-10T20:09:53.403750+00:00",
+  "fetchedAt": "2026-10-11T20:57:40.550086+00:00",
   "items": [
     {
       "title": "Why Old Dogs Might Be Able to Teach Alzheimer’s Researchers New Tricks",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 5,
         "total": 29
+      }
+    },
+    {
+      "title": "A Distant Planet Emitted a Burst of Radio Waves. Why?",
+      "url": "https://nautil.us/a-distant-planet-emitted-a-burst-of-radio-waves-why-1285695/",
+      "description": "Astronomers pinpoint the origin of a 10 billion‑year‑old millisecond signal from space \n The post  A Distant Planet Emitted a Burst of Radio Waves. Why?  appeared first on  Nautilus .",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/file-20261007-50-3g8dq3.avif?w=564",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -137,22 +153,6 @@
       "description": "Morning on the Red Planet \n The post  This Photo of the Martian Dawn Could Be Curiosity’s Most Serene Image Yet  appeared first on  Nautilus .",
       "date": "Fri, 09 Oct 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/01-dawn.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Our Ancient Ancestors’ Lost Habitat Revealed by 700,000-Year-Old Elephant’s Tooth",
-      "url": "https://nautil.us/our-ancient-ancestors-lost-habitat-revealed-by-700000-year-old-elephants-tooth-1285654/",
-      "description": "An elephant’s tooth never forgets \n The post  Our Ancient Ancestors’ Lost Habitat Revealed by 700,000-Year-Old Elephant’s Tooth  appeared first on  Nautilus .",
-      "date": "Thu, 08 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Area-B-2022-tel-24-1.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

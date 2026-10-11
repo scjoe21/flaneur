@@ -1,8 +1,24 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-10T20:09:44.944773+00:00",
+  "fetchedAt": "2026-10-11T20:57:27.616881+00:00",
   "items": [
+    {
+      "title": "James Baldwin on How Love (Finally) Finds You",
+      "url": "https://www.themarginalian.org/2026/10/11/baldwin-love/",
+      "description": "Our language betrays our self-betrayals: We speak of finding love, as if it were an undiscovered eighth continent or a habitable world in another solar system, as if it got lost like the Little Red Riding Hood or the names of the women who painted the caves. Like the paradoxical notion of finding yourself, the notion of finding love pulsates with equal parts helplessness and hubris — a rueful recognition that something is missing from your life and a belief that it falls on you to do the looking",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 33,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 5,
+        "total": 33
+      }
+    },
     {
       "title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
       "url": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
@@ -68,6 +84,22 @@
       }
     },
     {
+      "title": "Elizabeth Gilbert on Love, Loss, and How to Move Through Grief as Grief Moves Through You",
+      "url": "https://www.themarginalian.org/2026/10/10/elizabeth-gilbert-ted-podcast-love-loss/",
+      "description": "\"Grief is a force of energy that cannot be controlled or predicted. It comes and goes on its own schedule. Grief does not obey your plans, or your wishes. Grief will do whatever it wants to you, whenever it wants to. In that regard, Grief has a lot in common with Love.\"",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "How to Remake Yourself When You Are Undone: Lincoln and the Gift of His Suicidal Depression",
       "url": "https://www.themarginalian.org/2026/10/08/lincoln-melancholy-depression/",
       "description": "Life-affirming inspiration from a man who knew intimately “that intensity of thought, which will some times wear the sweetest idea thread-bare and turn it to the bitterness of death.”",
@@ -81,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "The Madman Who Saved Mothers: The Invention of Handwashing and the Bittersweet True Love Story Behind ‘Frankenstein’",
+      "url": "https://www.themarginalian.org/2026/10/11/wollstonecraft-godwin-semmelweis/",
+      "description": "This essay is adapted from Traversal. “Death may snatch me from you, before you can weigh my advice,” Mary Wollstonecraft wrote in the philosophical novel she wouldn’t live to finish, addressing a daughter she was yet to have. “Always appear what you are, and you will not pass through existence without enjoying its genuine blessings, love and respect.” In late 1791, as important men were sitting down in America to make ten amendments to the young country’s constitution, which they called a Unive",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
       }
     },
     {
@@ -100,10 +148,10 @@
       }
     },
     {
-      "title": "Nietzsche on Walking and Creativity",
-      "url": "https://www.themarginalian.org/2026/10/05/nietzsche-walking/",
-      "description": "\"Our first questions about the value of a book, of a human being, or a musical composition are: Can they walk? Even more, can they dance?\"",
-      "date": "Mon, 05 Oct 2026",
+      "title": "Dostoyevsky on What Makes a Good Person",
+      "url": "https://www.themarginalian.org/2026/10/04/dostoyevsy-good-person/",
+      "description": "We know good people when we encounter them, when they fall upon our lives like a sunbeam, like a song. But we don’t always know what makes them good. It has, of course, a lot to do with kindness. It has to do with their capacity to give, and also to receive. It has to do with their courage of uncertainty. And yet like all the great truths, the essence of a person, the goodness of a person, is both clear and ineffable. In the bleak Siberian winter of 1856, Fyodor Dostoyevsky (November 11, 1821–Fe",
+      "date": "Sun, 04 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 24,
@@ -164,38 +212,6 @@
       }
     },
     {
-      "title": "Loneliness, Resilience, and the Right Choice: Poet Diane Ackerman on What She Learned While Working at a Suicide Prevention Hotline",
-      "url": "https://www.themarginalian.org/2026/10/05/diane-ackerman-a-slender-thread/",
-      "description": "\"So often loneliness comes from being out of touch with parts of oneself.\"",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "David Bowie on Creativity and His Advice to Artists",
-      "url": "https://www.themarginalian.org/2026/10/05/david-bowie-creativity-advice/",
-      "description": "\"It's terribly dangerous for an artist to fulfill other people's expectations\"",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Improvisation and the Quantum of Consciousness",
       "url": "https://www.themarginalian.org/2026/10/08/improvisation/",
       "description": "Inside the brain's secret portal to remembering the future.",
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/10/07/walt-whitman-specimen-days-meaning-of-life/",
       "description": "\"Tone your wants and tastes low down enough, and make much of negatives, and of mere daylight and the skies.\"",
       "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Mister Rogers on the Most Important Mindset for a Parent",
-      "url": "https://www.themarginalian.org/2026/10/05/mister-rogers-parenting/",
-      "description": "\"It’s part of being human to fall short of that total acceptance and ultimate understanding — and often far short.\"",
-      "date": "Mon, 05 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

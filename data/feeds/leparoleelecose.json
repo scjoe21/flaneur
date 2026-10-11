@@ -1,8 +1,24 @@
 {
   "sourceId": "leparoleelecose",
   "sourceName": "Le parole e le cose",
-  "fetchedAt": "2026-10-10T20:09:37.971028+00:00",
+  "fetchedAt": "2026-10-11T20:57:20.143809+00:00",
   "items": [
+    {
+      "title": "Calore",
+      "url": "https://www.leparoleelecose.it/calore/",
+      "description": "di Paolo Puppa     Sta seduto da ore, come ogni giorno, sulla poltrona marrone, la Frau di pelle ormai logora per il consumo di tanti anni. Il plaid sulle ginocchia, a dargli conforto contro il freddo di ottobre, il telecomando alla mercé della sua mano. La postura ricalca in tutto quella di suo padre, …  read more  \"Calore\"",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "Ti con zero. La freccia del tempo, il tempo della freccia",
       "url": "https://www.leparoleelecose.it/ti-con-zero-la-freccia-del-tempo-il-tempo-della-freccia/",
@@ -84,19 +100,19 @@
       }
     },
     {
-      "title": "Tifiamo rivolta. Spartakus, La luce dell’eclissi e Malamovida",
-      "url": "https://www.leparoleelecose.it/tifiamo-rivolta-spartakus-la-luce-delleclissi-e-malamovida/",
-      "description": "di Luciano Mazziotta   Che cosa hanno in comune Furio Jesi, Vincenzo Frungillo e la techno? Partirei, prima di tutto, da una questione esperienziale: Jesi è l’autore sul quale sto concentrando questi anni; Vincenzo Frungillo uno tra i poeti che stimo nella landa della letteratura italiana contemporanea, e la techno organizza e ha organizzato una …  read more  \"Tifiamo rivolta. Spartakus, La luce dell’eclissi e Malamovida\"",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Sul corriere dell’università",
+      "url": "https://www.leparoleelecose.it/sul-corriere-delluniversita/",
+      "description": "di John Milton (traduzione e nota di Giovanni Parrini)     SUL CORRIERE DELL’UNIVERSITA’   che si ammalò di peste, durante la sua assenza, trovandosi nell’impedimento di raggiungere Londra, a causa del morbo.   Qui, giace il vecchio Hobson, cui la morte ha rotto il sottopancia(1) e l’ha lasciato nella polvere oppure, venti a uno, …  read more  \"Sul corriere dell’università\"",
+      "date": "Sun, 11 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.leparoleelecose.it/54622-2/",
       "description": "di Letizia Imola   [Presentiamo cinque poesie dalla raccolta d’esordio di Letizia Imola, Un effetto sommario, uscita nella collana per opere prime “Le civette” di NEM editore diretta da Viviana Faschi.]     La dedica   Non stavo facendo nulla avevo tentato di farle vento con uno dei suoi ventagli e mi ha delicatamente respinta …  read more  \"Un effetto sommario\"",
       "date": "Sun, 04 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ad Alba: l’inattualità dei CSI",
-      "url": "https://www.leparoleelecose.it/ad-alba-linattualita-dei-csi/",
-      "description": "di Gianluca Gemmani   Ad Alba sorgeva la stella della sera; stagliandosi sopra il verde crepuscolo delle Langhe, che riflette le colline. Una luce profonda e flebile, che emerge e resiste anche nella notte più buia. Alcuni dicono che sia lo stesso corpo celeste che si scorge al mattino, tra i bagliori dell’alba; altri, più …  read more  \"Ad Alba: l’inattualità dei CSI\"",
-      "date": "Sat, 03 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

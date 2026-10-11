@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-09T22:51:58.323040+00:00",
+  "fetchedAt": "2026-10-11T20:57:35.978712+00:00",
   "items": [
     {
       "title": "Hannah Arendt – Freiheit und Verantwortung",
@@ -20,22 +20,6 @@
       }
     },
     {
-      "title": "Gefahren für den Fötus – Was unsere Gesundheit vor der Geburt prägt",
-      "url": "https://www.swr.de/swrkultur/wissen/gefahren-fuer-den-foetus-was-unsere-gesundheit-vor-der-geburt-praegt-100.html",
-      "description": "Unsere Umwelt beeinflusst, wie gesund wir sind. Mit der Exposom-Forschung lässt sich jetzt noch besser verstehen, was uns krank machen kann – schon bevor wir auf die Welt kommen.",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Neue Bäume fürs Stadtklima – Wie Kommunen auf den Engpass reagieren",
       "url": "https://www.swr.de/swrkultur/wissen/neue-baeume-fuers-stadtklima-wie-kommunen-auf-den-engpass-reagieren-100.html",
       "description": "Verbesserte Pflanzmethoden, neue Arten und Bäume in mobilen Containern sollen für mehr Stadtgrün sorgen. Wenn der Nachschub aus Baumschulen stockt, züchten Städte Pflanzen selbst.",
@@ -49,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
+      }
+    },
+    {
+      "title": "Fleischfressende Pflanzen – Wie sie jagen, schnappen und verdauen",
+      "url": "https://www.swr.de/swrkultur/wissen/fleischfressende-pflanzen-wie-sie-jagen-schnappen-und-verdauen-100.html",
+      "description": "Pflanzen, die Tiere \"fressen\", scheinen die natürliche Ordnung auf den Kopf zu stellen. Wie \"jagen\" sie ihre Beute? Und wie konnten sie sich in der Evolution entwickeln?",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -164,19 +164,19 @@
       }
     },
     {
-      "title": "Die Sprache der Wale – Lässt sie sich übersetzen?",
-      "url": "https://www.swr.de/swrkultur/wissen/die-sprache-der-wale-laesst-sie-sich-uebersetzen-100.html",
-      "description": "Die Klänge der Orcas und Grindwale kommen unserer Sprache recht nahe. Es gibt sogar Dialekte unter ihnen. Sie \"sehen\" sich auch vor allem akustisch.",
-      "date": "Sun, 27 Sep 2026",
+      "title": "Panzer statt Pkw – Rettet Rüstung die deutsche Autoindustrie?",
+      "url": "https://www.swr.de/swrkultur/wissen/panzer-statt-pkw-rettet-ruestung-die-deutsche-autoindustrie-100.html",
+      "description": "Der Staat investiert Milliarden in neue Rüstungsaufträge und Rüstungskonzerne suchen dringend Fachkräfte und Kapazitäten. Eine Chance für die schwächelnde Automobilindustrie?",
+      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

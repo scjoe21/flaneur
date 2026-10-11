@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-10-10T20:09:29.544545+00:00",
+  "fetchedAt": "2026-10-11T20:57:08.862332+00:00",
   "items": [
     {
       "title": "Chinesisches Denken - Warum chinesische Intellektuelle den Neoliberalismus feiern",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "100 Jahre Foucault – Sein Denken prägt die Gegenwart bis heute",
+      "url": "https://www.deutschlandfunkkultur.de/michel-foucault-auf-der-buchmesse-die-bedingungen-der-gegenwart-denken-100.html",
+      "description": "Michel Foucault ist zu seinem 100. Geburtstag längst ein philosophischer Klassiker geworden – aber einer, dessen Grundideen immer wieder aktualisiert werden können. Was hätte er zur Krise der Demokratie und dem Phänomen der Macht heute zu sagen? Aguigah, René www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/von-der-fitness-zum-extremsport-der-luxus-des-ultra-runnings-100.html",
       "description": "Vom Marathon zum Ultra-Running: auch im Breitensport gibt es einen Trend zu immer extremeren Leistungen. Was treibt die modernen Selbstoptimierer hier an? Nachdenkliches zum Sport mit dem Philosophen Björn Vedder. Newmark, Catherine; Vedder, Björn www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 23 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lebenszeiten 2: Jugend - Zwischen Lust und Lähmung",
-      "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-2-jugend-zwischen-lust-und-laehmung-100.html",
-      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 09 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-10T20:09:52.959510+00:00",
+  "fetchedAt": "2026-10-11T20:57:40.075161+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -164,19 +164,19 @@
       }
     },
     {
-      "title": "Continuity after death | Àlex Gómez-Marín",
-      "url": "https://www.youtube.com/shorts/LAIPI9bi7F4",
+      "title": "Be Silent | Erling Kagge",
+      "url": "https://www.youtube.com/shorts/02luaTMFVu4",
       "description": "",
-      "date": "2026-09-20",
-      "thumbnail": "https://i1.ytimg.com/vi/LAIPI9bi7F4/hqdefault.jpg",
-      "videoId": "LAIPI9bi7F4",
-      "priority": 5,
+      "date": "2026-10-11",
+      "thumbnail": "https://i1.ytimg.com/vi/02luaTMFVu4/hqdefault.jpg",
+      "videoId": "02luaTMFVu4",
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-10-10T20:09:48.235265+00:00",
+  "fetchedAt": "2026-10-11T20:57:32.356749+00:00",
   "items": [
     {
       "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
@@ -148,6 +148,22 @@
       }
     },
     {
+      "title": "Naher Osten: Beirut, Stadt der offenen Wunden",
+      "url": "https://www.deutschlandfunk.de/beirut-naher-osten-buergerkrieg-wiederaufbau-100.html",
+      "description": "Beirut wurde einst als Paris des Nahen Ostens verklärt und später zum Sinnbild eines nicht enden wollenden Bürgerkriegs. Mounir Zahran legt verschiedene Zeitschichten dieser Stadt frei - eine Spurensuche zwischen Wiederaufbau und neuem Grauen. Von Mounir Zahran www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
       "title": "Unsere nihilistische Gegenwart - Der Aufstieg autoritärer Macht und die Krise des Liberalismus",
       "url": "https://www.deutschlandfunk.de/der-aufstieg-autoritaerer-macht-und-die-krise-des-liberalismus-100.html",
       "description": "Nach dem Fall der Mauer und dem Sieg des Westens glaubte man, der Liberalismus sei das Ende der Geschichte. Heute dagegen scheint die Geschichte des Liberalismus selbst zu Ende zu gehen. Von Thomas Assheuer www.deutschlandfunk.de, Essay und Diskurs",
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunk.de/der-toetende-mensch-folgen-der-dissoziativen-globalisierung-102.html",
       "description": "9/11 markiert eine Zeitenwende. Mit Terror und Krieg in diesem Ausmaß tritt der tötende Mensch ins Zentrum der Geschichte, einer Geschichte der dissoziativen Globalisierung als Epoche neuer Feindbilder. Von Volker Demuth www.deutschlandfunk.de, Essay und Diskurs",
       "date": "Sun, 13 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Lob in Rot - The Church of Ketchup",
-      "url": "https://www.deutschlandfunk.de/ketchup-usa-ernaehrung-antiamerikanismus-100.html",
-      "description": "Ketchup ist in Deutschland zum Symbol für alles Banausige geworden, das aus den USA stammt. Im Windschatten des „Coca-Kolonialismus“ wurde er zum Kristallisationspunkt des westdeutschen Nachkriegs-Antiamerikanismus (Erstsendedatum: 01.01.2025). Von Holm Friebe und Rainer Kirberg www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 05 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-10T20:10:02.456853+00:00",
+  "fetchedAt": "2026-10-11T20:57:49.330010+00:00",
   "items": [
     {
       "title": "片山真理（アーティスト）：「わたし」を撮り、「わたしたち」を写す",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "梅原大吾（プロゲーマー）：ぶざまな姿を晒しても、挑み続ける",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-daigo-umehara/",
-      "description": "10代にして世界の頂点を知ってもなお、プロゲーマーの梅原大吾は勝つことだけに価値を置かない。それでも45歳のいま、競技の世界に身を置き続けるのはなぜなのか。そこには、勝ち負けでは測れない理由がある。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -68,83 +52,19 @@
       }
     },
     {
-      "title": "川崎和也（スペキュラティヴ・ファッションデザイナー）：“共犯関係”を広げ、サプライチェーンをハックする",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-kazuya-kawasaki/",
-      "description": "服をつくれば、捨てられる生地がどうしても生まれる。その廃棄を設計段階から減らすシステムを手がけるSynfluxの代表でスペキュラティヴ・ファッションデザイナーの川崎和也は、「つくるな」と言いたいわけではない。見据えるのは、減らすことの先にあるものづくりだ。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
+      "title": "着せ替え可能な「Beats 360」からARTE TOKYO（東京国際文化芸術祭）まで",
+      "url": "https://wired.jp/article/insider-beats-artetokyo-nozawaonsendistillery-americanexpress-mirror-sksjapan/",
+      "description": "最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
+      "date": "Sun, 11 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "木村ミサ（KAWAII LAB.総合プロデューサー）：「カワイイ」の正解を、ひとつにしない",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-misa-kimura/",
-      "description": "「カワイイ」に、正解はひとつしかないのだろうか。FRUITS ZIPPERをはじめ5組のアイドルグループを生み出してきたKAWAII LAB.総合プロデューサーの木村ミサは、その意味を更新し、押し広げることこそがイノベーションだと語る。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "小田凱人（プロ車いすテニスプレーヤー）：“普通ではない考え”を伝えていくために",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-tokito-oda/",
-      "description": "史上最年少の世界ランキング1位、パリ・パラリンピックでの金メダル獲得、生涯ゴールデンスラム達成。限界を突破し続けるプロ車いすテニスプレーヤー・小田凱人は、自らの社会的使命を20歳の若さで自覚している。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "宮田裕章（慶應義塾大学医学部教授）：“ざらつき”を消さずに、未来をつくる",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-hiroaki-miyata/",
-      "description": "医療のデータサイエンスからアート、教育、大阪・関西万博へ。慶應義塾大学医学部教授の宮田裕章は、多様な活動を「Better Co-being」をめぐる一貫した実践だと語る。人がそれぞれに違ったまま、ともによりよく生き、新しい価値を生む営みを続けるには、何が必要なのか。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "為末大（東京大学教授／元陸上競技選手）：身体の喜びを起点に、これからの「人間」を描き直す",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-dai-tamesue/",
-      "description": "言葉にならない身体の感覚を、最も言葉に頼る学問の世界で記述する──。元陸上競技選手の為末大は、その矛盾を引き受けてアカデミアへ進んだ。「遊び」を手がかりに描こうとするのは、環境と影響し合いながら生きる人間の姿だ。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -161,6 +81,86 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "イノベーションは、もっと身近であっていい：「WIRED Innovation Awards 2026」へ向けた対話",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-dialogue/",
+      "description": "2025年に復活を遂げた「WIRED Innovation Awards」が今年も始動した。6年ぶりに開催された昨年のアワードは、パートナーである積水ハウスに何を残したのか。積水ハウスの常務執行役員 コミュニケーションデザイン部長・足立紀生と『WIRED』日本版編集長の松島倫明が、その成果や今年の展望について語り合った。",
+      "date": "Fri, 09 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "南極の氷でニュートリノを捉える。ノーベル物理学賞を支えた「アイスキューブ」の技術",
+      "url": "https://wired.jp/article/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/",
+      "description": "南極の氷を利用した観測所は、捉えることが難しいニュートリノを検出し、宇宙の謎に迫っている。ノーベル物理学賞に決まったフランシス・ハルツェンのチームに所属する研究者が、観測技術と研究の意義を解説する。",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "ChatGPTに「Intelligent UI」登場──「説明する」より「見せる」チャットボットへ",
+      "url": "https://wired.jp/article/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
+      "description": "OpenAIがChatGPTに、質問に応じてインタラクティブな回答を生成する「Intelligent UI」を導入した。AIがユーザーごとにUIを変えることで、ソフトウェアデザインのあり方も変わるかもしれない。",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "腸の健康とアルツハイマー病の新たな関連性",
+      "url": "https://wired.jp/article/vinculo-entre-las-bacterias-del-intestino-y-el-alzheimer/",
+      "description": "最新研究は、腸内細菌が産生するある代謝物が脳を保護するバリアを弱め、認知症に関連する変性を促進させる可能性があることを発見した。",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "ロボタクシーはあなたを監視している",
+      "url": "https://wired.jp/article/when-the-robotaxis-are-watching-you/",
+      "description": "ウェイモやZoox、テスラの自律走行タクシーに搭載されたカメラやセンサーは、乗客にも向けられている。安全確保のために集められるデータは、どう使われるのか。プライバシーを守るルールは、まだ十分に整っていない。",
+      "date": "Sat, 10 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,8 +1,24 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-10T20:09:26.242634+00:00",
+  "fetchedAt": "2026-10-11T20:57:04.896905+00:00",
   "items": [
+    {
+      "title": "L'anneau qui vous rend invisible",
+      "url": "https://www.youtube.com/shorts/uzaT0NxF_44",
+      "description": "Au IVᵉ siècle avant notre ère, Platon rapporte l’histoire de l’Anneau de Gygès, Un objet capable de rendre son propriétaire invisible et de lui permettre d’agir sans jamais être puni. Dans cette vidéo, je vous explique pourquoi cette expérience de pensée remet en question l’origine de notre morale : sommes-nous réellement justes, ou avons-nous simplement peur d’être découverts ?\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #platon #anneaudegyges #morale #justice",
+      "date": "2026-10-11",
+      "thumbnail": "https://i2.ytimg.com/vi/uzaT0NxF_44/hqdefault.jpg",
+      "videoId": "uzaT0NxF_44",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 25,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
+      }
+    },
     {
       "title": "La fausse générosité",
       "url": "https://www.youtube.com/shorts/ciMhydDOk7s",
@@ -10,22 +26,6 @@
       "date": "2026-09-27",
       "thumbnail": "https://i4.ytimg.com/vi/ciMhydDOk7s/hqdefault.jpg",
       "videoId": "ciMhydDOk7s",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "D'où vient votre jalousie ?",
-      "url": "https://www.youtube.com/shorts/jSsuDKLdVmo",
-      "description": "Au XIXe siècle, Friedrich Nietzsche s’intéresse aux sentiments qui se cachent derrière nos jugements moraux. Dans cette vidéo, je vous explique comment, selon lui, la frustration peut se transformer en ressentiment et nous pousser à mépriser ce que nous désirons secrètement, jusqu’à présenter notre impuissance comme une forme de supériorité morale.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #nietzsche #ressentiment #frustration #morale #psychologie #désir",
-      "date": "2026-09-13",
-      "thumbnail": "https://i3.ytimg.com/vi/jSsuDKLdVmo/hqdefault.jpg",
-      "videoId": "jSsuDKLdVmo",
       "priority": 40,
       "scoreDetail": {
         "daily": 20,

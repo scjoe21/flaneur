@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-10-10T20:09:42.014935+00:00",
+  "fetchedAt": "2026-10-11T20:57:25.107357+00:00",
   "items": [
     {
       "title": "Lani Watson on the Power of Questions",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "Samuel Scheffler on Grief and Time",
-      "url": "https://philosophybites.libsyn.com/samuel-scheffler-on-grief-and-time",
-      "description": "Grief is affected by the passage of time in a way that some attitudes and emotions aren't. Samuel Scheffler explores why this might be so in this episode of the Philosophy Bites podcast.",
-      "date": "Fri, 21 Nov 2025",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Nilanjan Das on Buddhist Philosophy and Caste",
       "url": "https://philosophybites.libsyn.com/nilanjan-das-on-buddhist-philosophy-and-caste",
       "description": "There is a long tradition of caste in South Asia. In this episode of the Philosophy Bites podcast Nilanjan Das discusses a pre-modern philosophical critic of the whole system, and particularly of its underlying metaphysical assumptions.   This episode was supported by the Ideas Workshop, part of the Open Society Foundations",
@@ -177,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "Heather Widdows on the Beauty Ideal",
+      "url": "https://philosophybites.libsyn.com/heather-widdows-on-the-beauty-ideal",
+      "description": "Which physical characteristics does a woman have to have to be considered beautiful? Are there many different cultural variations on this? Heather Widdows, author of Perfect Me, thinks that today there is a single set of charactestics and that pressure to conform with these has pernicious effects.",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
