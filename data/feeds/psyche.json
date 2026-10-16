@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-10-16T08:40:39.340804+00:00",
+  "fetchedAt": "2026-10-16T18:44:36.670198+00:00",
   "items": [
     {
       "title": "How to ignite your creativity",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Why long-brewing physical and mental breakdowns feel so sudden",
-      "url": "https://psyche.co/ideas/why-long-brewing-physical-and-mental-breakdowns-feel-so-sudden",
-      "description": "As a neurosurgeon and a son, I’ve come to see the parallel processes underlying growing tumours and stressed-out minds - by Sasi S Senga Read on Psyche",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -84,6 +68,22 @@
       }
     },
     {
+      "title": "The social construction of emotions",
+      "url": "https://psyche.co/videos/dont-reduce-emotions-to-biology-theyre-contingent-and-emergent",
+      "description": "Are our emotions universal? How two landmark studies upended our view of emotions – and challenged colonial stereotypes - Video by Then & Now Watch on Psyche",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "How to handle jealous feelings",
       "url": "https://psyche.co/guides/how-to-handle-jealous-feelings",
       "description": "Jealousy can be a useful, insightful emotion – if you manage it well. Get curious about your jealousy to get a grip on it - by Carla Marie Manly Read on Psyche",
@@ -129,6 +129,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Deciding to detransition",
+      "url": "https://psyche.co/turning-points/transitioning-made-me-happy-but-it-came-with-a-high-price",
+      "description": "For two years, I lived as a trans woman – happy with my body, but fearful of the world it moved in - by André Aram Read on Psyche",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://psyche.co/videos/whats-it-like-to-remember-your-past-but-forget-your-present",
       "description": "A filmmaker tries to reconstruct her brother’s faltering experience of time: adrift and without continuity - Directed by Nora Štrbová Watch on Psyche",
       "date": "Mon, 05 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Journaling to remember",
-      "url": "https://psyche.co/notes-to-self/remembering-the-ephemera-of-my-life-gives-it-meaning",
-      "description": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche",
-      "date": "Fri, 02 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

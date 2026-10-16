@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-16T08:41:04.705233+00:00",
+  "fetchedAt": "2026-10-16T18:45:00.907395+00:00",
   "items": [
     {
       "title": "医師は「AI時代に自分たちに残された仕事は？」と自問を始めている",
@@ -65,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "アニメの中の宇宙人：第1回_1958年の火星人──国産アニメ最初の宇宙人を探す",
+      "url": "https://wired.jp/article/ryota-fujitsu-aliens-in-anime-1/",
+      "description": "20世紀後半、アニメは、さまざまな設定＆デザインの「宇宙人」を描いてきた。アニメ評論家・藤津亮太がその慧眼で斬り込む「アニメの中の宇宙人」論が連載開始！",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -215,22 +231,6 @@
       "title": "デジタル先進国エストニアはこうしてAI活用を推し進めている",
       "url": "https://wired.jp/article/sz-the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
       "description": "公共サービスの99％でオンライン化が実現しているエストニアでは、行政の自動化が人間を排除しないかたちで進んでいる。",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "ヒト胚のゲノム編集は「道義的責務」──バイオテック企業の創業者が主張",
-      "url": "https://wired.jp/article/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
-      "description": "ヒト胚のゲノム編集は、次世代にも影響が及ぶリスクから多くの国で規制されている。一方、Origin Genomicsの創業者キャシー・タイは、遺伝性疾患の予防に向け、将来の実用化を見据えた研究や規制整備の必要性を訴える。",
       "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",

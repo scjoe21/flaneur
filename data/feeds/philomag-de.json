@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-16T08:40:26.125003+00:00",
+  "fetchedAt": "2026-10-16T18:44:21.250048+00:00",
   "items": [
     {
       "title": "Olga L. Lizzini: „Für Avicenna hängt die Gesundheit der Seele unmittelbar von unserem Verhältnis zur Wahrheit ab“",
@@ -36,8 +36,8 @@
       }
     },
     {
-      "title": "Vergesellschaftung, einst Politik der Mitte",
-      "url": "https://www.philomag.de/artikel/vergesellschaftung-einst-politik-der-mitte",
+      "title": "Politik der Gemeinwirtschaft",
+      "url": "https://www.philomag.de/artikel/politik-der-gemeinwirtschaft",
       "description": "Der Plan der Linken, Wohnungen zu vergesellschaften, wird heute als Eintritt in den Kommunismus kritisiert. Dabei wurde Vergesellschaftung ehemals als dessen Gegenteil begriffen.",
       "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
@@ -96,22 +96,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Depression: Woran kranken unsere Gesellschaften?",
-      "url": "https://www.philomag.de/artikel/depression-woran-kranken-unsere-gesellschaften",
-      "description": "Sind Sie eher Prozac oder Paroxetin? Effexor oder Seroplex? Wenn Ihnen diese Namen nichts sagen, gehören Sie zu den wenigen, die vom modernen Übel der Depression verschont sind. Samuel Lacroix fragt nach den Hintergründen dieser psychischen Krankheit und geht mit einem Philosophen auf die Reise, der selbst schwer depressiv war.",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 20
       }
     },
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Sollten wir Freunde vor Fehlern bewahren?",
+      "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
+      "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-10-16T08:40:41.079824+00:00",
+  "fetchedAt": "2026-10-16T18:44:37.713975+00:00",
   "items": [
     {
       "title": "Mimetic desire, social contagion, and the fight for your true self",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Beyond religion and atheism: The secret third answer to big questions",
+      "url": "https://bigthink.com/series/full-interview/symes-god-atheism/",
+      "description": "For decades, atheists have used one move to dismantle the case for God: swap in an evil one and show that the arguments work just as well. Philosopher Jack Symes was convinced by it, and was 50,000 words into a book defending atheism when he noticed that the exercise kept tipping toward goodness. He threw out the manuscript and started over. \n \n This video  Beyond religion and atheism: The secret third answer to big questions  is featured on  Big Think .",
+      "date": "Thu, 15 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/D1-Web-Symes.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
       "title": "How to become a great conversationalist",
       "url": "https://bigthink.com/mind-behavior/how-to-become-a-great-conversationalist/",
       "description": "A while back, I was at a party in London where a friend introduced me to an actress who had just been in a big theater production. I was excited to talk with her. Throughout our conversation, she asked brilliant questions, and I enjoyed answering them. She was great at making people feel seen and important. But whenever I asked her something back, with real curiosity about her life, she gave a brief, polite answer and turned the spotlight back on me: “But enough about me, tell me more about you.",
@@ -56,7 +72,7 @@
       "url": "https://bigthink.com/perception-box/what-total-darkness-reveals-about-who-you-really-are/",
       "description": "Could removing light be a key to discovering who you really are? \n That’s one idea behind dark retreats*, an experience that’s about as close to a complete sensory deprivation chamber as you can get. Participants spend extended periods in total darkness, stripping away the inputs and distractions of everyday life.  \n Andrew Holecek, an interdisciplinary scholar-practitioner in Tibetan Buddhism and other nondual wisdom traditions, believes in the transformative power of dark retreats.  \n Holecek ",
       "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/UC-Holecek-Web.png?quality=80&w=640",
       "videoId": "",
       "priority": 28,
       "scoreDetail": {
@@ -81,22 +97,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "Before Jules Verne, Edgar Allan Poe imagined the Space Age",
-      "url": "https://bigthink.com/books/edgar-allan-poe-imagined-the-space-age/",
-      "description": "It may be tempting to dismiss out of hand the notion that Edgar Allan Poe — popularly conceived of today as an almost mythic figure cloaked in ravens and tell-tale hearts — was the “grandfather of realistic spaceflight fiction” and had a significant effect on the conceptual development of the spacecraft. But it is no tall tale. The young orphan who walked the night-lit streets of Baltimore, the first American city with gas streetlamps, had a mind that strove to encompass not only the macabre but",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/spaceflight-narrative_excerpt.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 17,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 12,
-        "novelty": 0,
-        "total": 17
       }
     },
     {

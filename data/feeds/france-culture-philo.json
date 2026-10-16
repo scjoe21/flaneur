@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-16T08:40:19.999188+00:00",
+  "fetchedAt": "2026-10-16T18:44:14.125723+00:00",
   "items": [
     {
       "title": "Pourquoi l'humaniste est-il politique ?",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 50
-      }
-    },
-    {
-      "title": "Pourquoi le pouvoir ne doit-il insulter personne ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-le-pouvoir-ne-doit-il-insulter-personne-1273622",
-      "description": "durée : 00:03:37  - Avec philosophie - par : Frédéric Worms - Réapparaissant dans le discours politique, l'insulte réduit l'adversaire ou les citoyens à des êtres inférieurs, autorise indirectement la violence. Une réflexion sur l'éthique du langage en démocratie et le risque de l'injure dans la vie publique.  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 43,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 43
       }
     },
     {
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 25
+      }
+    },
+    {
+      "title": "Iris Brey, autrice : \"La grossesse est la chose la plus queer pour Maggie Nelson, la transformation suprême\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/iris-brey-autrice-sur-les-argonautes-de-maggie-nelson-3305451",
+      "description": "durée : 00:59:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Retour sur \"Les Argonautes\" de Maggie Nelson, un texte fondateur écrit en 2015 pour penser la maternité et l'amour en dehors des normes hétéronormatives.  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger - invités : Iris Brey Autrice et réalisatrice \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-16T08:40:53.748426+00:00",
+  "fetchedAt": "2026-10-16T18:44:51.506757+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -84,38 +84,6 @@
       }
     },
     {
-      "title": "Has feminism limited women's freedom? | Kathleen Stock, Minna Salami, Lucy Jones, Mary Harrington",
-      "url": "https://www.youtube.com/watch?v=QGoM02b71v8",
-      "description": "Mary Harrington, Lucy Jones, Minna Salami and Kathleen Stock discuss whether equality of outcome is the right aim for feminism\n\nIs equality of outcome the wrong goal for feminism?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/gender-equality-and-the-freedom-trap?utm_source=YouTube&utm_medium=description\n\nWe believed that freedom would do the work of equality, that once women could make their own choices, the rest would take care of itself. But studies show that th",
-      "date": "2026-09-26",
-      "thumbnail": "https://i2.ytimg.com/vi/QGoM02b71v8/hqdefault.jpg",
-      "videoId": "QGoM02b71v8",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Can we ever be sure that animals are conscious? | Martine Nida-Rümelin",
-      "url": "https://www.youtube.com/watch?v=Yvnl7Iw1IYQ",
-      "description": "Martine Nida-Rümelin discusses what it means for a being to be conscious.\n\nWhere do you draw the line between conscious and non-conscious beings?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/you-are-not-your-brain?utm_source=YouTube&utm_medium=description\n\nConscious beings such as ravens, dolphins and human beings stand in sharp contrast to mere things. They are something over and above their body and brain. What makes you you is not your particular personality. Jo",
-      "date": "2026-10-14",
-      "thumbnail": "https://i2.ytimg.com/vi/Yvnl7Iw1IYQ/hqdefault.jpg",
-      "videoId": "Yvnl7Iw1IYQ",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Has Europe become merely a museum of fallen empires? | Tett, Corbyn, Ignatieff",
       "url": "https://www.youtube.com/watch?v=P-aDGdjhOxw",
       "description": "Jeremy Corbyn, Gillian Tett and Michael Ignatieff discuss the future of Europe\n\nDo you agree with Gillian that \"Europe can't compete\"\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-end-of-the-great-alliance?utm_source=YouTube&utm_medium=description\n\nCentral to the West has been the allegiance of the US and Europe. But Trump's December 2025 Strategic Review outlined a very different world order in which the US is not necessarily allied to Europe at all. Instead,",
@@ -161,6 +129,38 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 10
+      }
+    },
+    {
+      "title": "What does it mean for a being to be conscious? | Martine Nida-Rümelin",
+      "url": "https://www.youtube.com/watch?v=Yvnl7Iw1IYQ",
+      "description": "Martine Nida-Rümelin discusses what it means for a being to be conscious.\n\nWhere do you draw the line between conscious and non-conscious beings?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/you-are-not-your-brain?utm_source=YouTube&utm_medium=description\n\nConscious beings such as ravens, dolphins and human beings stand in sharp contrast to mere things. They are something over and above their body and brain. What makes you you is not your particular personality. Jo",
+      "date": "2026-10-14",
+      "thumbnail": "https://i2.ytimg.com/vi/Yvnl7Iw1IYQ/hqdefault.jpg",
+      "videoId": "Yvnl7Iw1IYQ",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Hippocampal Mystery | Victoria Trumbull",
+      "url": "https://www.youtube.com/shorts/UoeiiqT2mnI",
+      "description": "",
+      "date": "2026-10-16",
+      "thumbnail": "https://i2.ytimg.com/vi/UoeiiqT2mnI/hqdefault.jpg",
+      "videoId": "UoeiiqT2mnI",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

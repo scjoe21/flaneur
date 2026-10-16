@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-16T08:40:20.794222+00:00",
+  "fetchedAt": "2026-10-16T18:44:15.245077+00:00",
   "items": [
     {
       "title": "Anne Carson, le paradoxe de l’amour",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "“Les Misérables” : un périple philosophique… et religieux",
+      "url": "https://www.philomag.com/articles/les-miserables-un-periple-philosophique-et-religieux",
+      "description": "",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/et-si-demain-avait-tous-le-meme-visage",
       "description": "",
       "date": "Mon, 05 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“L’arpentage”, la solution miracle pour réapprendre à lire ?",
-      "url": "https://www.philomag.com/articles/larpentage-la-solution-miracle-pour-reapprendre-lire",
-      "description": "",
-      "date": "Sat, 03 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

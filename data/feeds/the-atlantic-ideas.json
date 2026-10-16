@@ -1,8 +1,24 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-10-16T08:40:41.633082+00:00",
+  "fetchedAt": "2026-10-16T18:44:38.189361+00:00",
   "items": [
+    {
+      "title": "What Newsrooms Should Know Before They Take Money From OpenAI",
+      "url": "https://www.theatlantic.com/ideas/2026/10/newsrooms-journalism-openai-funding/689043/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "The Rise of In-Office Remote Work",
       "url": "https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/?utm_source=feed",
@@ -36,19 +52,19 @@
       }
     },
     {
-      "title": "A Left-Wing Politics Based on Calling People Names",
-      "url": "https://www.theatlantic.com/ideas/2026/10/influencer-who-wants-democrats-fight-dirty/688965/?utm_source=feed",
+      "title": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/?utm_source=feed",
       "description": "",
-      "date": "2026-10-11",
+      "date": "2026-10-16",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "The Only Thing the Houthis Have Done Successfully",
       "url": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Admiral McRaven: Public Execution Is Shameless and Ignoble",
-      "url": "https://www.theatlantic.com/ideas/2026/10/public-execution-nidal-hasan/688970/?utm_source=feed",
       "description": "",
       "date": "2026-10-11",
       "thumbnail": "",

@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-16T08:40:42.120500+00:00",
+  "fetchedAt": "2026-10-16T18:44:38.910062+00:00",
   "items": [
     {
       "title": "An Inside Look At How To Tame Unstoppable AI",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "When The Present Eats The Future",
+      "url": "https://www.noemamag.com/when-the-present-eats-the-future",
+      "description": "The post  When The Present Eats The Future  appeared first on  NOEMA .",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/now-entering-the-era-of-bleh",
       "description": "The post  Now Entering: The Era Of Bleh  appeared first on  NOEMA .",
       "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Let The People Set The Pace Of Frontier AI",
-      "url": "https://www.noemamag.com/let-the-people-decide-the-pace-of-frontier-ai",
-      "description": "The post  Let The People Set The Pace Of Frontier AI  appeared first on  NOEMA .",
-      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

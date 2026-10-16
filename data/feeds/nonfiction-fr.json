@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-10-16T08:40:45.107346+00:00",
+  "fetchedAt": "2026-10-16T18:44:41.993491+00:00",
   "items": [
     {
       "title": "Saint-Nazaire au travail : celles qui écoutent",
@@ -33,22 +33,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
-      }
-    },
-    {
-      "title": "Quand l'épargne manque de dettes",
-      "url": "https://www.nonfiction.fr/article-12860-quand-lepargne-manque-de-dettes.htm",
-      "description": "Dans  Géopolitique de la dette , Anton Brender propose de regarder autrement l’accumulation des dettes qui inquiète aujourd’hui les économies occidentales. Son analyse prend une actualité particulière avec le tournant engagé par Donald Trump, qui remet en cause les équilibres financiers internationaux construits autour du rôle des États-Unis comme principal emprunteur de l’épargne mondiale. \r\n\r\n Il revient ici sur la genèse de ce livre, sur ce qu’il prolonge de ses travaux précédents et sur les ",
-      "date": "Sun, 20 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 19
       }
     },
     {
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Le Crépuscule des dieux : Wagner en majesté",
+      "url": "https://www.nonfiction.fr/article-12884-le-crepuscule-des-dieux-wagner-en-majeste.htm",
+      "description": "Avec  Le Crépuscule des dieux , la Tétralogie de Richard Wagner s’achève à l’Opéra Bastille dans un embrasement musical qui finit par emporter presque toutes les réserves. Au fil du cycle, la mise en scène de Calixto Bieito a gagné en pertinence — du moins en sobriété. Après les costumes et les décors souvent agressivement laids des deux premiers volets, les derniers épisodes offrent heureusement un univers visuel moins systématiquement hostile, où quelques images suffisent parfois à laisser per",
+      "date": "Thu, 15 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {

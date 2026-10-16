@@ -1,230 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W17",
-      "tags": [
-        "인식적 불의",
-        "편견",
-        "목소리",
-        "욕망 조작",
-        "소비주의",
-        "무의식",
-        "감각",
-        "현상학",
-        "몸의 경험",
-        "분노",
-        "젠더권력",
-        "감정의정치학",
-        "카리스마",
-        "대중심리",
-        "권위의본질",
-        "탄소시장",
-        "환경식민주의",
-        "원주민권리",
-        "AI창조",
-        "고통과예술",
-        "장인정신",
-        "마찰없는삶",
-        "존재의공허",
-        "소비사회",
-        "소속감",
-        "불완전성",
-        "정체성",
-        "책임",
-        "공적영역",
-        "특권",
-        "감시",
-        "공간권력",
-        "규범",
-        "호명",
-        "엘리트",
-        "능력주의"
-      ],
-      "articles": [
-        {
-          "title": "당신의 말은 왜 믿어지지 않는가",
-          "summary": "편견이 타인의 목소리를 지우는 순간, 우리는 그것을 알아챌 수 있을까?",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "인식적 불의",
-            "편견",
-            "목소리"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/injustice-epistemique-de-miranda-fricker-pourquoi-sommes-nous-victimes-de-nos-prejuges",
-          "originalTitle": "“Injustice épistémique”, de Miranda Fricker : pourquoi sommes-nous victimes de nos préjugés ?"
-        },
-        {
-          "title": "광고는 왜 이성이 아닌 욕망에 말을 거는가",
-          "summary": "우리가 물건을 사는 이유가 필요해서가 아니라면, 그 이유는 도대체 어디서 오는가?",
-          "philosopher": "프로이트 (Sigmund Freud)",
-          "philosophers": [
-            "프로이트 (Sigmund Freud)"
-          ],
-          "tags": [
-            "욕망 조작",
-            "소비주의",
-            "무의식"
-          ],
-          "sourceUrl": "https://www.youtube.com/shorts/ggSmMmyRCfc",
-          "originalTitle": "Manipuler nos désirs"
-        },
-        {
-          "title": "우리는 왜 바삭함에 열광하는가",
-          "summary": "음식의 소리가 맛의 일부라면, 우리의 감각은 어디서 끝나고 어디서 시작되는가?",
-          "philosopher": "메를로퐁티 (Maurice Merleau-Ponty)",
-          "philosophers": [
-            "메를로퐁티 (Maurice Merleau-Ponty)"
-          ],
-          "tags": [
-            "감각",
-            "현상학",
-            "몸의 경험"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/succes-du-tasty-crousty-pourquoi-raffole-t-du-croustillant",
-          "originalTitle": "Succès du “tasty crousty” : pourquoi raffole-t-on du croustillant ?"
-        },
-        {
-          "title": "분노할 권리는 누구에게 있는가",
-          "summary": "여성의 분노는 왜 '히스테리'가 되고 남성의 분노는 '정당한 분개'가 되는가?",
-          "philosopher": "누스바움 (Martha Nussbaum)",
-          "philosophers": [
-            "누스바움 (Martha Nussbaum)"
-          ],
-          "tags": [
-            "분노",
-            "젠더권력",
-            "감정의정치학"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=b0DPs9AdHDE",
-          "originalTitle": "Female Rage: Warum wir Frauen ihre Wut verbieten | NANO Doku"
-        },
-        {
-          "title": "우리는 왜 잘못된 사람을 따르는가",
-          "summary": "카리스마 앞에서 우리의 이성은 얼마나 쉽게 무너지는가?",
-          "philosopher": "막스 베버 (Max Weber)",
-          "philosophers": [
-            "막스 베버 (Max Weber)"
-          ],
-          "tags": [
-            "카리스마",
-            "대중심리",
-            "권위의본질"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=yvZiO8v2Hlg",
-          "originalTitle": "Warum wir den falschen Menschen folgen | NANO Doku"
-        },
-        {
-          "title": "탄소 크레딧이라는 새로운 식민주의",
-          "summary": "기업의 탄소 상쇄 거래가 원주민의 땅과 자유를 어떻게 빼앗는가?",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "탄소시장",
-            "환경식민주의",
-            "원주민권리"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=cutseUhyUuc",
-          "originalTitle": "Wie Brasiliens Indigene gegen den CO₂-Zertifikatehandel kämpfen | NANO Doku"
-        },
-        {
-          "title": "AI를 부러워하는 우리—고통 없는 창조의 유혹",
-          "summary": "AI가 두렵다고 말하면서도, 우리는 정말 AI를 부러워하는 건 아닐까?",
-          "philosopher": "쇼펜하우어 (Schopenhauer)",
-          "philosophers": [
-            "쇼펜하우어 (Schopenhauer)"
-          ],
-          "tags": [
-            "AI창조",
-            "고통과예술",
-            "장인정신"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=J3kA2R62ykM",
-          "originalTitle": "IL BUDDHA DI SILICIO: Arte, Intelligenza Artificiale e la nostra FUGA dal DOLORE"
-        },
-        {
-          "title": "'휴가촌 사회'—우리는 진짜 삶을 잃어가고 있는가",
-          "summary": "마찰 없이 매끄러운 세상, 그 편안함이 오히려 삶을 텅 비게 만든다.",
-          "philosopher": "헤겔 (Hegel)",
-          "philosophers": [
-            "헤겔 (Hegel)",
-            "플라톤 (Plato)",
-            "기 드보르 (Guy Debord)"
-          ],
-          "tags": [
-            "마찰없는삶",
-            "존재의공허",
-            "소비사회"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=1t0Jy_N-Izs",
-          "originalTitle": "La società del \"Villaggio Vacanze\": stiamo perdendo la capacità di vivere? con Simone Regazzoni"
-        },
-        {
-          "title": "불완전한 몸으로 세상에 속한다는 것",
-          "summary": "완벽함이 기준이 된 세상에서, 불완전한 나는 어디에 속하는가?",
-          "philosopher": "클레르 마랭 (Claire Marin)",
-          "philosophers": [
-            "클레르 마랭 (Claire Marin)",
-            "메를로퐁티 (Maurice Merleau-Ponty)"
-          ],
-          "tags": [
-            "소속감",
-            "불완전성",
-            "정체성"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=X6uxYOB227M",
-          "originalTitle": "Festival del Pensare Contemporaneo 2025 | LA NOSTRA IMPERFEZIONE NEL MONDO"
-        },
-        {
-          "title": "억만장자의 현실은 왜 따로 존재하는가",
-          "summary": "제프 베조스의 비밀 리트릿에서 목격한, 결과 없는 세계의 철학적 의미",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)",
-            "장자 (Zhuangzi)"
-          ],
-          "tags": [
-            "책임",
-            "공적영역",
-            "특권"
-          ],
-          "sourceUrl": "https://www.theatlantic.com/magazine/2026/05/billionaire-consequence-free-reality/686588/?utm_source=feed",
-          "originalTitle": "What I Learned About Billionaires at Jeff Bezos’s Private Retreat"
-        },
-        {
-          "title": "지하철 개찰구 하나가 도시를 바꿨다",
-          "summary": "샌프란시스코는 어떻게 무임승차 문제를 해결했고, 그것이 말해주는 것은 무엇인가",
-          "philosopher": "푸코 (Michel Foucault)",
-          "philosophers": [
-            "푸코 (Michel Foucault)"
-          ],
-          "tags": [
-            "감시",
-            "공간권력",
-            "규범"
-          ],
-          "sourceUrl": "https://www.theatlantic.com/ideas/2026/04/fare-gate-society-bart/686868/?utm_source=feed",
-          "originalTitle": "San Francisco Solved Metro Vandalism With One Neat Trick"
-        },
-        {
-          "title": "스탠퍼드 신입생들은 왜 세계를 지배하려 하는가",
-          "summary": "엘리트 대학 캠퍼스에서 자라나는 권력 욕망, 그것은 어디서 오는가",
-          "philosopher": "알튀세르 (Louis Althusser)",
-          "philosophers": [
-            "알튀세르 (Louis Althusser)",
-            "마이클 샌델 (Michael Sandel)"
-          ],
-          "tags": [
-            "호명",
-            "엘리트",
-            "능력주의"
-          ],
-          "sourceUrl": "https://www.theatlantic.com/ideas/2026/04/stanford-students-power/686920/?utm_source=feed",
-          "originalTitle": "The Stanford Freshmen Who Want to Rule the World"
-        }
-      ]
-    },
-    {
       "week": "2026-W18",
       "tags": [
         "디지털 소비",
@@ -7205,6 +6981,282 @@
           ],
           "sourceUrl": "https://www.webchikuma.com/n/n15e8b14f81c0",
           "originalTitle": "「ここはどこ？」は難しい――石橋悠人『世界地図と地球の時間』ためし読み"
+        }
+      ]
+    },
+    {
+      "week": "2026-W43",
+      "tags": [
+        "사랑",
+        "욕망",
+        "결핍",
+        "인공지능",
+        "관계",
+        "정체성",
+        "넛지",
+        "선택 설계",
+        "자유주의적 개입주의",
+        "상속세",
+        "불평등",
+        "노동과 자본",
+        "노동",
+        "인정 이론",
+        "탈산업화",
+        "젠더",
+        "수행성",
+        "페미니즘",
+        "기후 정의",
+        "책임",
+        "글로벌 불평등",
+        "자기극복",
+        "성장",
+        "상실",
+        "돌봄",
+        "부모됨",
+        "취약성",
+        "탈숙련화",
+        "신체 감각",
+        "기술 의존",
+        "희망",
+        "유토피아",
+        "정치철학",
+        "기술과 도덕",
+        "원격 폭력",
+        "상상력의 한계",
+        "공간",
+        "공동체",
+        "어둠",
+        "자아",
+        "티베트 불교",
+        "예측",
+        "불확실성",
+        "자율성",
+        "장인정신",
+        "예술과 공동체",
+        "장소의 철학",
+        "음식의 위계",
+        "단순함의 철학",
+        "미식 문화",
+        "노화",
+        "몸의 정치학",
+        "항노화 기술"
+      ],
+      "articles": [
+        {
+          "title": "사랑은 왜 우리를 완전하게 만들지 않는가",
+          "summary": "사랑할수록 더 결핍을 느끼는 역설—앤 카슨이 발견한 욕망의 구조.",
+          "philosopher": "앤 카슨 (Anne Carson)",
+          "tags": [
+            "사랑",
+            "욕망",
+            "결핍"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/anne-carson-le-paradoxe-de-lamour",
+          "originalTitle": "Anne Carson, le paradoxe de l’amour"
+        },
+        {
+          "title": "인간과 AI 사이, 경계는 흐려지는가",
+          "summary": "AI가 인간처럼 느껴지는 순간, 우리는 그 관계를 어떻게 불러야 하는가",
+          "philosopher": "루시아노 플로리디 (Luciano Floridi)",
+          "tags": [
+            "인공지능",
+            "관계",
+            "정체성"
+          ],
+          "sourceUrl": "https://theconversation.com/un-espace-liminal-entre-les-humains-et-lia-la-frontiere-sera-t-elle-moins-discernable-quon-voudrait-le-croire-287736",
+          "originalTitle": "Un « espace liminal » entre les humains et l’IA : la frontière sera-t-elle moins discernable qu’on voudrait le croire ?"
+        },
+        {
+          "title": "넛지를 넘어서: 우리의 선택은 누가 설계하는가",
+          "summary": "작은 개입으로 행동을 바꾸는 넛지, 그것은 자유를 돕는가 아니면 조용히 빼앗는가?",
+          "philosopher": "캐스 선스타인 (Cass Sunstein)",
+          "tags": [
+            "넛지",
+            "선택 설계",
+            "자유주의적 개입주의"
+          ],
+          "sourceUrl": "https://usbeketrica.com/fr/article/du-nudge-au-boost-comment-repenser-nos-comportements-dans-les-transports",
+          "originalTitle": "Du nudge au boost : comment repenser nos comportements dans les transports ?"
+        },
+        {
+          "title": "상속은 왜 노동보다 적게 과세되는가",
+          "summary": "아무것도 하지 않아도 받는 돈이 가장 적게 세금을 내는 사회, 그 역설은 무엇을 말하는가?",
+          "philosopher": "존 스튜어트 밀 (John Stuart Mill)",
+          "tags": [
+            "상속세",
+            "불평등",
+            "노동과 자본"
+          ],
+          "sourceUrl": "https://www.swr.de/swrkultur/wissen/gerechter-erben-wie-die-besteuerung-fairer-werden-kann-102.html",
+          "originalTitle": "Gerechter erben – Wie die Besteuerung fairer werden kann"
+        },
+        {
+          "title": "공장이 사라질 때 자부심도 사라지는가",
+          "summary": "매달 1만 개씩 증발하는 산업 일자리—그 자리에 무엇이 남고, 무엇이 사라지는가?",
+          "philosopher": "악셀 호네트 (Axel Honneth)",
+          "tags": [
+            "노동",
+            "인정 이론",
+            "탈산업화"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/der-industriearbeiter-abgesang-auf-einen-deutschen-helden-100.html",
+          "originalTitle": "Der Industriearbeiter - Abgesang auf einen deutschen Helden"
+        },
+        {
+          "title": "여성이 된다는 것은 끝이 없다",
+          "summary": "보부아르의 선언이 반세기 후 버틀러를 만나 다시 질문이 된다",
+          "philosopher": "주디스 버틀러 (Judith Butler)",
+          "tags": [
+            "젠더",
+            "수행성",
+            "페미니즘"
+          ],
+          "sourceUrl": "https://www.philomag.de/artikel/judith-butler-frauwerden-ist-ein-offener-prozess",
+          "originalTitle": "Judith Butler: „Frauwerden ist ein offener Prozess“"
+        },
+        {
+          "title": "기후 피해, 누가 빚을 갚아야 하는가",
+          "summary": "빙하가 무너져 네팔 마을이 사라졌다—그 청구서는 누구에게 가야 하는가",
+          "philosopher": "헨리 슈 (Henry Shue)",
+          "tags": [
+            "기후 정의",
+            "책임",
+            "글로벌 불평등"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/scienze/rompe-paga/",
+          "originalTitle": "Chi rompe e chi paga"
+        },
+        {
+          "title": "성장하려면 무언가를 죽여야 한다",
+          "summary": "선택할 때마다 가능성이 죽는다—그 상실 없이 진짜 변화는 없다",
+          "philosopher": "니체 (Friedrich Nietzsche)",
+          "tags": [
+            "자기극복",
+            "성장",
+            "상실"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=3MxgMIx8pAY",
+          "originalTitle": "Uccidi una parte di te, oppure lei ucciderà TE: la lezione dei Serpenti e di Nietzsche"
+        },
+        {
+          "title": "부모 노릇은 아무도 가르쳐주지 않는다",
+          "summary": "아이를 키우는 법도, 늙은 부모를 돌보는 법도—우리는 언제나 처음이다",
+          "philosopher": "",
+          "tags": [
+            "돌봄",
+            "부모됨",
+            "취약성"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=AzM1Ntfe2gk",
+          "originalTitle": "Nessuno sa come si fa il genitore (e nemmeno il figlio di genitori anziani)"
+        },
+        {
+          "title": "기술이 몸의 감각을 지운다",
+          "summary": "스마트폰이 길을 찾아주는 사이, 우리의 몸은 조용히 길 잃는 법을 잊어간다.",
+          "philosopher": "멜라니 챌린저 (Melanie Challenger)",
+          "tags": [
+            "탈숙련화",
+            "신체 감각",
+            "기술 의존"
+          ],
+          "sourceUrl": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+          "originalTitle": "Deskilling the body"
+        },
+        {
+          "title": "희망은 세계를 구하는가 파괴하는가",
+          "summary": "희망이 때로 우리를 기만한다면, 우리는 여전히 희망해야 하는가?",
+          "philosopher": "에른스트 블로흐 (Ernst Bloch)",
+          "tags": [
+            "희망",
+            "유토피아",
+            "정치철학"
+          ],
+          "sourceUrl": "https://philosophynow.org/issues/176/Fraudulent_Hope",
+          "originalTitle": "Fraudulent Hope?"
+        },
+        {
+          "title": "기술이 도덕감각을 마비시킬 때",
+          "summary": "버튼 하나로 수천 명을 죽이는 세상, 우리의 양심은 어디로 갔는가?",
+          "philosopher": "귄터 안더스 (Günther Anders)",
+          "tags": [
+            "기술과 도덕",
+            "원격 폭력",
+            "상상력의 한계"
+          ],
+          "sourceUrl": "https://philosophynow.org/issues/176/Gunther_Anders_1902-1992",
+          "originalTitle": "Günther Anders (1902-1992)"
+        },
+        {
+          "title": "사무실 안의 재택근무",
+          "summary": "회사에 나와서도 혼자인 시대, 우리는 함께 있는 것인가 아닌가?",
+          "philosopher": "레이 올든버그 (Ray Oldenburg)",
+          "tags": [
+            "공간",
+            "노동",
+            "공동체"
+          ],
+          "sourceUrl": "https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/?utm_source=feed",
+          "originalTitle": "The Rise of In-Office Remote Work"
+        },
+        {
+          "title": "완전한 어둠 속에서 나는 누구인가",
+          "summary": "빛과 소음이 사라질 때, 우리는 비로소 자신의 진짜 얼굴과 마주한다",
+          "philosopher": "앤드류 홀레첵 (Andrew Holecek)",
+          "tags": [
+            "어둠",
+            "자아",
+            "티베트 불교"
+          ],
+          "sourceUrl": "https://bigthink.com/perception-box/what-total-darkness-reveals-about-who-you-really-are/",
+          "originalTitle": "What total darkness reveals about who you really are"
+        },
+        {
+          "title": "우리는 왜 예언에 끌리는가",
+          "summary": "불확실한 미래 앞에서 인간은 왜 알고리즘과 예언자에게 손을 내미는가",
+          "philosopher": "카리사 벨리스 (Carissa Véliz)",
+          "tags": [
+            "예측",
+            "불확실성",
+            "자율성"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/13/carissa-veliz-prophecy/",
+          "originalTitle": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies"
+        },
+        {
+          "title": "폐허의 마을이 세계의 연극 성지가 됐다",
+          "summary": "인구 400명 산골 마을에서 예술이 뿌리내릴 때, 장소와 공동체는 어떻게 변하는가",
+          "philosopher": "리처드 세넷 (Richard Sennett)",
+          "tags": [
+            "장인정신",
+            "예술과 공동체",
+            "장소의 철학"
+          ],
+          "sourceUrl": "https://gendai.media/articles/-/172021",
+          "originalTitle": "「新興宗教か」と疑われた過去も…世界が注目！「演劇の聖地」となった人口400人の限界集落で今起こっていること"
+        },
+        {
+          "title": "달(dal)이라는 이름의 철학",
+          "summary": "가장 단순한 음식이 가장 깊은 사유를 품고 있다면, 우리는 무엇을 먹고 있는 것인가?",
+          "philosopher": "마이클 크로논 (Michael Cronon)",
+          "tags": [
+            "음식의 위계",
+            "단순함의 철학",
+            "미식 문화"
+          ],
+          "sourceUrl": "https://kangaeruhito.jp/article/764345",
+          "originalTitle": "11.最後はダール"
+        },
+        {
+          "title": "피부의 시계를 되돌릴 수 있는가",
+          "summary": "노화를 수치로 측정하고 되돌리려는 욕망, 그것은 과학인가 새로운 불안인가?",
+          "philosopher": "시몬 드 보부아르 (Simone de Beauvoir)",
+          "tags": [
+            "노화",
+            "몸의 정치학",
+            "항노화 기술"
+          ],
+          "sourceUrl": "https://wired.jp/article/new-anti-aging-drug-trial-for-skin/",
+          "originalTitle": "肌の生物学的年齢を巻き戻せるか。新たな治療薬の可能性"
         }
       ]
     }

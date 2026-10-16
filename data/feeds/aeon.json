@@ -1,8 +1,24 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-10-16T08:40:38.352896+00:00",
+  "fetchedAt": "2026-10-16T18:44:35.249959+00:00",
   "items": [
+    {
+      "title": "How to be a (Roman) man",
+      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+      "description": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on Aeon",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "How to assemble science",
       "url": "https://aeon.co/essays/the-life-saving-scientific-knowledge-hiding-in-plain-sight",
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/essays/what-i-have-learned-from-posting-episodes-of-my-life-on-facebook",
       "description": "For a decade, I’ve posted episodes of my memoir to Facebook. My readers correct my understanding of my past - by Thomas Söderqvist Read on Aeon",
       "date": "Mon, 05 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Green tree ants are famous in the tropics",
-      "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
-      "description": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon",
-      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
