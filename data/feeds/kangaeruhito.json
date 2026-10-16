@@ -1,7 +1,7 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-10-11T20:57:41.181715+00:00",
+  "fetchedAt": "2026-10-16T08:40:55.089788+00:00",
   "items": [
     {
       "title": "14．孤独とポリフォニー",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "第5回　理論を適用する前に知っておくべきこと――移民と国家統合（2）",
+      "url": "https://kangaeruhito.jp/article/764348",
+      "description": "真理（verum）は作られたもの(factum) 　いかなる専門分野であれ、研究が一つの論理と推論だけで完結し、向き合った問題の最終解答が与えられて研究が完了する、ということにはならないようだ。ある問題にひとつの解が見つ […]",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -100,19 +116,35 @@
       }
     },
     {
-      "title": "5．アファンタジア――頭にシーンが浮かばない",
-      "url": "https://kangaeruhito.jp/article/764288",
-      "description": "なぜ脳内で「リンゴ」が思い浮かばないのか？   　目を閉じて、真っ赤なリンゴを思い浮かべてください。頭の中には今、何が見えていますか。光沢のある赤い皮、少し歪んだ自然な丸み、へたの周りのくぼみ。人によっては、甘 […]",
-      "date": "Sun, 20 Sep 2026",
+      "title": "12.ビリヤニは肉料理である",
+      "url": "https://kangaeruhito.jp/article/764373",
+      "description": "「インドの炊き込みご飯」への違和感 　ビリヤニはよく「インドの炊き込みご飯」と説明されます。確かにこれはバスマティライスなどの米とチキンやマトンをはじめとする各種具材をスパイスを効かせて炊いたものなので、説明として決して […]",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "山野井春絵さんの連載が、『友達になって後悔してる』として10月19日に発売！",
+      "url": "https://kangaeruhito.jp/news/764370",
+      "description": "山野井春絵さんの連載「友達になって後悔してる」が、『友達になって後悔してる』として、10月19日に新潮新書より発売されます！   　ずっと友達だと思っていたのに――。「LINEが既読スルー」。突然のサインに「 […]",
+      "date": "Thu, 15 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://kangaeruhito.jp/article/764321",
       "description": "母親が亡くなった。あと1か月で96歳というところだったので、まずは天寿と言ってよかろう。 　しかも、亡くなったのは、私の住職寺の大きな盆行事を終えた直後で、東京経由で青森に帰る途中だった。最後まで息子思いの母親で、あり […]",
       "date": "Sun, 04 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "10. カレーの「汁」",
-      "url": "https://kangaeruhito.jp/article/764279",
-      "description": "「肉系カレー」の本質 　今回もカレーレシピ本 “The Curry Secret” のレシピをとっかかりにして始めていきます。どんだけこの本が好きなんだよ⁉︎って話ですけど、ええ好きですとも、と開き直ってお […]",
-      "date": "Thu, 17 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "「もっと頑張ろう」「もう頑張らなくていい」――より良い人生を送るためには、どちらの道を選ぶべきか？",
-      "url": "https://kangaeruhito.jp/trial/764292",
-      "description": "悩み多き人生から抜け出したい――そんな思いを抱えながら書店に行くと、さまざまなハウツーやライフハックを教えてくれる「もっと頑張ろう」系の本と、ありのままの自分を優しく肯定してくれる「もう頑張らなくていい」系の本が目に飛 […]",
-      "date": "Thu, 17 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

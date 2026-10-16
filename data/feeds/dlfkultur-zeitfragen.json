@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-10-11T20:57:33.318530+00:00",
+  "fetchedAt": "2026-10-16T08:40:47.231991+00:00",
   "items": [
     {
       "title": "Junge Pflegende - Wie viel Verantwortung verträgt eine Kindheit?",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Der Industriearbeiter - Abgesang auf einen deutschen Helden",
+      "url": "https://www.deutschlandfunkkultur.de/der-industriearbeiter-abgesang-auf-einen-deutschen-helden-100.html",
+      "description": "Der Industriearbeiter war nach 1945 in Ost- und Westdeutschland Motor und Symbolfigur des wirtschaftlichen Aufschwungs. Vom alten Arbeiterstolz scheint nicht mehr viel übrig zu sein. Jeden Monat gehen über 10.000 Industriearbeitsplätze verloren. Köppchen, Ulrike www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Faszinierende Welt der Algen - Wie winkende Hände im Meer",
       "url": "https://www.deutschlandfunkkultur.de/wie-winkende-haende-im-meer-online-100.html",
       "description": "Algen wachsen in Seen, Ozeanen und sogar im Eis: Sie sind die anpassungsfähigsten, vitalsten und fruchtbarsten pflanzlichen Organismen der Erde. Jede Algenzelle kann sich selbst versorgen. Ihr ungeheures Potenzial begeistert nicht nur Forscher. Gerk, Andrea www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "Frieden - Spurensuche zu einem Begriff zwischen Kitsch und Krieg",
-      "url": "https://www.deutschlandfunkkultur.de/wem-gehoert-der-frieden-suche-nach-einem-begriff-zwischen-kitsch-und-krieg-100.html",
-      "description": "Wer für Frieden eintritt, gilt heute schnell als weltfremd - \"Kriegstüchtigkeit\" ist das Gebot der Stunde. Dabei tarnt sich auch der Krieg gern als Frieden: als Schutz, Verteidigung, Befreiung. Wie kam es dazu? Peikert, Linda www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 16 Sep 2026",
+      "title": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
+      "url": "https://www.deutschlandfunkkultur.de/die-kohlenstoffwende-alternative-rohstoffquellen-fuer-die-chemieindustrie-100.html",
+      "description": "Ob Medikamente, Kunststoffe oder Kosmetika: In allen steckt Kohlenstoff. Dieser stammt aus Erdöl und Erdgas. Damit ist die Chemieindustrie von Importen abhängig. Kann eine Kohlenstoffwende mit neuen Rohstoffquellen gelingen? Neumeier, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -116,19 +132,19 @@
       }
     },
     {
-      "title": "Zukunft ohne Kinder? - Gründe für den Geburtenknick",
-      "url": "https://www.deutschlandfunkkultur.de/in-zukunft-ohne-kinder-gruende-fuer-den-geburtenknick-100.html",
-      "description": "In Deutschland werden immer weniger Kinder geboren: 2025 waren es rund 654.000 - der niedrigste Wert seit 1946. Die Gründe dafür sind vielfältig. Auch die Krisen der vergangenen Jahre wirken sich auf Kinderwunsch und Familienplanung aus. Böckmann, Clemens www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 17 Sep 2026",
+      "title": "Handyspiele: Zeitverschwendung, Entspannung und Big Business",
+      "url": "https://www.deutschlandfunkkultur.de/verdaddel-ich-mein-leben-handyspiele-als-zeitfresser-und-milliardengeschaeft-100.html",
+      "description": "Ob in Bahn, Warteschlange oder Cafe - das Handy ist fast immer zur Hand. Erstaunlich viele spielen. Der Markt für Games wächst kontinuierlich. Sind Handyspiele ultimative Zeittötungsmaschinen, die vom Leben abhalten? Oder helfen sie auch zu entspannen? Spittler, Christoph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 24,
       "scoreDetail": {
         "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 25
+        "total": 24
       }
     },
     {
@@ -152,38 +168,6 @@
       "url": "https://www.deutschlandfunkkultur.de/stuttgart-21-was-die-deutsche-bahn-aus-dem-desaster-lernen-kann-100.html",
       "description": "Explodierende Kosten, eine um über zehn Jahre verschobene Eröffnung: Das Bahnprojekt Stuttgart 21 ist zur Chiffre für das Versagen der deutschen Verkehrspolitik geworden. Was hat die Bahn daraus für das nächste Großprojekt in Hamburg-Altona gelernt? Reischke, Martin www.deutschlandfunkkultur.de, Zeitfragen. Feature",
       "date": "Tue, 22 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "EU sanktioniert Publizisten: Meinungsfreiheit in Gefahr?",
-      "url": "https://www.deutschlandfunkkultur.de/eu-sanktionen-russland-hybrider-krieg-meinungsfreiheit-100.html",
-      "description": "Konten werden eingefroren, die Reisefreiheit beschränkt: Seit 2025 sanktioniert die EU Publizisten, die angeblich Russlands hybriden Krieg gegen Westeuropa unterstützen. Kritiker bemängeln, dass rechtsstaatliche Prinzipien unterlaufen würden. Kruchem, Thomas www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 21 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Die Spitzenküche erfindet sich neu",
-      "url": "https://www.deutschlandfunkkultur.de/am-limit-des-guten-geschmacks-wie-sich-die-spitzenkueche-neu-erfindet-100.html",
-      "description": "Die Gäste sparen, Energie- und Mietkosten steigen, Personal ist knapp: Auch Sternerestaurants haben mit Problemen zu kämpfen. Deswegen ändern manche Spitzenköche ihre Ausrichtung: Einfache Küche zu erschwinglichen Preisen ist angesagt. Mayer, Verena Carola www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 15 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -225,6 +209,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Über Durchhalten und Resilienz - Juden in Deutschland unter Druck",
+      "url": "https://www.deutschlandfunkkultur.de/ueber-durchhalten-und-resilienz-juden-in-deutschland-unter-druck-100.html",
+      "description": "Seit dem Terroranschlag der Hamas auf Israel am 7. Oktober 2023 hat sich auch das Leben jüdischer Menschen in Deutschland verändert. Viele fühlen sich seither zunehmend bedroht und erleben wachsenden Antisemitismus. Bathe, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

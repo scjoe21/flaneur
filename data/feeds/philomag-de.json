@@ -1,24 +1,8 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-11T20:57:11.552054+00:00",
+  "fetchedAt": "2026-10-16T08:40:26.125003+00:00",
   "items": [
-    {
-      "title": "Jonathan Gingerich: „Frei sein heißt, das Gegebene überschreiten zu können“",
-      "url": "https://www.philomag.de/artikel/jonathan-gingerich-frei-sein-heisst-das-gegebene-ueberschreiten-zu-koennen",
-      "description": "Wie sieht ein selbstbestimmtes Leben aus? Wie gutes Handeln? In ihren frühen Schriften entwickelt Beauvoir eine Ethik der Freiheit. Diese zeigt, so Jonathan Gingerich, dass Selbstbestimmung mit anderen und gegen unsere Ängste immer wieder neu errungen werden muss.",
-      "date": "Mon, 05 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
     {
       "title": "Olga L. Lizzini: „Für Avicenna hängt die Gesundheit der Seele unmittelbar von unserem Verhältnis zur Wahrheit ab“",
       "url": "https://www.philomag.de/artikel/olga-l-lizzini-fuer-avicenna-haengt-die-gesundheit-der-seele-unmittelbar-von-unserem",
@@ -36,35 +20,67 @@
       }
     },
     {
-      "title": "Simon Goldstein: „Die KI wird vielleicht die Berufsphilosophen ersetzen, aber niemals die Freude am Denken“",
-      "url": "https://www.philomag.de/artikel/simon-goldstein-die-ki-wird-vielleicht-die-berufsphilosophen-ersetzen-aber-niemals-die",
-      "description": "Zum ersten Mal hat eine wissenschaftliche Zeitschrift einen Artikel veröffentlicht, der vollständig von einer KI verfasst wurde. Simon Goldstein, der Philosoph hinter dieser Veröffentlichung, erläutert den Sinn dieses Vorhabens und wie er die Zukunft des Fachgebiets sieht.",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Die Schüler Frankreichs kommen zu Wort",
+      "url": "https://www.philomag.de/artikel/die-schueler-frankreichs-kommen-zu-wort",
+      "description": "Was denken die wütenden Schüler, die seit zehn Tagen in ganz Frankreich demonstrieren und Gymnasien blockieren? Um das herauszufinden, haben wir fünf von ihnen fast zwei Stunden lang mit einer Philosophielehrerin an einen Tisch gebracht. Die Idee dahinter war simpel: Wir wollten sie dazu einladen, die Gründe für ihren Protest, aber auch ihre Sorgen und Hoffnungen in Worte zu fassen.",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 20
       }
     },
     {
-      "title": "Dirk Braunstein: „Nazis waren immer die anderen“",
-      "url": "https://www.philomag.de/artikel/dirk-braunstein-nazis-waren-immer-die-anderen",
-      "description": "Wie hartnäckig hielt sich nationalsozialistisches Denken nach 1945? Der Philosoph und Archivar Dirk Braunstein erforscht das nahezu vergessene „Gruppenexperiment“ des Instituts für Sozialforschung. Im Gespräch erläutert er, was die von Theodor W. Adorno geleitete Studie über autoritäre Denkmuster, Selbstentlastung und deren Fortwirken bis heute verrät.",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Vergesellschaftung, einst Politik der Mitte",
+      "url": "https://www.philomag.de/artikel/vergesellschaftung-einst-politik-der-mitte",
+      "description": "Der Plan der Linken, Wohnungen zu vergesellschaften, wird heute als Eintritt in den Kommunismus kritisiert. Dabei wurde Vergesellschaftung ehemals als dessen Gegenteil begriffen.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 20
+      }
+    },
+    {
+      "title": "Judith Butler: „Frauwerden ist ein offener Prozess“",
+      "url": "https://www.philomag.de/artikel/judith-butler-frauwerden-ist-ein-offener-prozess",
+      "description": "Das andere Geschlecht  stellt unser Verständnis von Frau, Mann und ihrem Verhältnis infrage – und wurde damit zu einem wegweisenden Text. Im Interview erklärt Judith Butler, was Beauvoirs Analyse so bedeutsam macht und wie die Gender-Theorie daran anschließt, aber auch darüber hinausreicht.",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Der Weltgeist und die Geopolitik",
+      "url": "https://www.philomag.de/artikel/der-weltgeist-und-die-geopolitik",
+      "description": "Vor über 60 Jahren diskutierten der französische Philosoph Alexandre Kojève und der deutsche Staatsrechtler Carl Schmitt über die heraufziehende Weltordnung. Die Berührungspunkte beider Denker, die sich in zentralen Fragen uneins waren, könnten für unsere heutige geopolitische Situation wegweisend sein.",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -100,19 +116,19 @@
       }
     },
     {
-      "title": "Palmen: Ab ins Paradies, oder?",
-      "url": "https://www.philomag.de/artikel/palmen-ab-ins-paradies-oder",
-      "description": "Palmen sind nicht nur exotisches Sinnbild für Strand, Sonne und Meer, sondern auch Teil einer jahrtausendealten Kunst- und Kulturgeschichte. Dabei hat die Pflanze auch ihre Schattenseiten, wie Jutta Person in ihrem Buch  Palmen  zeigt. Sie ist Symbol eines europäischen Kolonialismus.",
-      "date": "Thu, 01 Oct 2026",
+      "title": "Was bleibt vom Liberalismus?",
+      "url": "https://www.philomag.de/artikel/was-bleibt-vom-liberalismus",
+      "description": "Von dem Liberalismus als politischer Idee, die Fortschrittsglaube und Wirtschaftsfreiheit sowie Emanzipation und Eigentumssicherheit in sich verband, sind heute vor allem zwei verkürzte Formen übrig: Marktliberalismus und Kulturliberalismus. Über die Entwicklung und die heutigen Probleme des Liberalismus.",
+      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 19
       }
     },
     {
@@ -132,35 +148,35 @@
       }
     },
     {
-      "title": "Das Leben ein Abenteuer",
-      "url": "https://www.philomag.de/artikel/das-leben-ein-abenteuer",
-      "description": "Beauvoir wollte nicht Ergebene ihres Schicksals, sondern Urheberin ihrer eigenen Geschichte sein. Doch auch sie wird hineingeboren in gesellschaftliche Umstände. Über den Weg einer eigensinnigen Denkerin und die Begegnungen, die sie prägten.",
-      "date": "Thu, 01 Oct 2026",
+      "title": "Naomi Klein: „COVID hat die Tech-Endzeitanhänger radikalisiert”",
+      "url": "https://www.philomag.de/artikel/naomi-klein-covid-hat-die-tech-endzeitanhaenger-radikalisiert",
+      "description": "In ihrem neuen Buch  Endzeitfaschismus  analysieren Naomi Klein und Astra Taylor was religiöse Fundamentalisten, Ethnonationalisten und die Tech-Eliten eint: die Vorstellung einer kommenden Apokalypse. Ein Gespräch über Endzeitfantasien, Bunker, KI und den Zusammenbruch der bestehenden Weltordnung.",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 9,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
+        "total": 9
       }
     },
     {
-      "title": "Existenzialismus als Lebensgefühl",
-      "url": "https://www.philomag.de/artikel/existenzialismus-als-lebensgefuehl",
-      "description": "Beauvoir begriff sich selbst lange Zeit nicht als Existenzialistin. Die Annahmen dieser Strömung sah sie nicht als philosophische Position, sondern als offensichtliche Wahrheit.",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Foucault und das moderne Subjekt",
+      "url": "https://www.philomag.de/artikel/foucault-und-das-moderne-subjekt",
+      "description": "Michel Foucaults Geburtstag jährt sich zum 100. Mal. Mit seiner genealogischen Methode demontierte der Philosoph die Vorstellung vom autonomen Subjekt und wies es folgenreich als Effekt von Disziplinartechniken aus. Als Lebenskunst rückte Foucault in späteren Jahren die Selbstgestaltung in den Fokus. In Selbstpraktiken erprobt sich ein ephemeres, freieres Selbstverhältnis – ein Motiv, dem Foucault auch persönlich verpflichtet blieb.",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -196,26 +212,10 @@
       }
     },
     {
-      "title": "Schall und Wahn",
-      "url": "https://www.philomag.de/artikel/schall-und-wahn",
-      "description": "Die schottische Band Arab Strap besingt die menschliche Existenz mitreißend-rau als fragmentarische Herausforderung.",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Beauvoir in Amerika",
-      "url": "https://www.philomag.de/artikel/beauvoir-amerika",
-      "description": "Die Fahrt durch ein fremdes Land kann den Blick für Aspekte der Welt schärfen, die in der Vertrautheit der Heimat schwer zu erkennen sind. Für Simone de Beauvoir bot ihre Reise durch die USA Einsichten, die auch in ihrem Hauptwerk  Das andere Geschlecht  Ausdruck finden.",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Scheue Leoparden",
+      "url": "https://www.philomag.de/artikel/scheue-leoparden",
+      "description": "Giuseppe Tomasi di Lampedusas Roman  Der Leopard  ist schon konservativ, reaktionär, kommunistisch und liberal ausgelegt worden. Heute drängt sich eine andere Lesart auf: Wenn der Untergang unabwendbar ist, sollte man ihn mit Würde ertragen.",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Der Gaukler Gottes",
-      "url": "https://www.philomag.de/artikel/der-gaukler-gottes",
-      "description": "Der Todestag von Franz von Assisi jährt sich zum 800. Mal. Der Heilige hat besonders Schriftsteller des 20. Jahrhunderts inspiriert, die in ihm ein Vorbild für ein radikales, den Armen zugewandtes Leben erkannten. Heute sind es neben den sozialen vor allem die ökologischen Aspekte von Franziskus’ Wirken, die zukunftsweisend erscheinen.",
-      "date": "Sun, 04 Oct 2026",
+      "title": "Beauvoir in Amerika",
+      "url": "https://www.philomag.de/artikel/beauvoir-amerika",
+      "description": "Die Fahrt durch ein fremdes Land kann den Blick für Aspekte der Welt schärfen, die in der Vertrautheit der Heimat schwer zu erkennen sind. Für Simone de Beauvoir bot ihre Reise durch die USA Einsichten, die auch in ihrem Hauptwerk  Das andere Geschlecht  Ausdruck finden.",
+      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

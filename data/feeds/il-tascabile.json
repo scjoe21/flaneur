@@ -1,7 +1,7 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-10-11T20:57:16.823994+00:00",
+  "fetchedAt": "2026-10-16T08:40:31.578389+00:00",
   "items": [
     {
       "title": "Il coraggio come medicina",
@@ -20,10 +20,10 @@
       }
     },
     {
-      "title": "Uno nuovo, più razzista e più violento",
-      "url": "https://www.iltascabile.com/linguaggi/nuovo-razzista-violento/",
-      "description": "Vivere i fascismi come un’allucinazione: la parabola della politica dentro un’informazione corrotta. \n L'articolo  Uno nuovo, più razzista e più violento  proviene da  Il Tascabile .",
-      "date": "Wed, 30 Sep 2026",
+      "title": "Il sociale e il parasociale",
+      "url": "https://www.iltascabile.com/linguaggi/sociale-parasociale/",
+      "description": "Tra Guccini,  ghosting  e spunte blu: breve storia di come le tre gomitate di Zuckerberg ci hanno resi cose di Internet. \n L'articolo  Il sociale e il parasociale  proviene da  Il Tascabile .",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -36,19 +36,51 @@
       }
     },
     {
-      "title": "Il peso invisibile dell’aria",
-      "url": "https://www.iltascabile.com/scienze/il-peso-invisibile-dellaria/",
-      "description": "I danni dell’inquinamento atmosferico non compromettono solo i nostri polmoni, ma anche il cervello, il sonno, la salute mentale. E a pagare il prezzo maggiore sono le fasce più vulnerabili. Una riflessione su cosa significa rivendicare il diritto a respirare. \n L'articolo  Il peso invisibile dell’aria  proviene da  Il Tascabile .",
-      "date": "Mon, 28 Sep 2026",
+      "title": "Chi rompe e chi paga",
+      "url": "https://www.iltascabile.com/scienze/rompe-paga/",
+      "description": "Il crollo del Langtang Lirung ha devastato il Nepal, Paese responsabile di una quota minima delle emissioni globali. La sua richiesta di risarcimento ricorda che i danni climatici non sono una questione di solidarietà, ma di debito. \n L'articolo  Chi rompe e chi paga  proviene da  Il Tascabile .",
+      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Sex addiction?",
+      "url": "https://www.iltascabile.com/societa/sex-addiction/",
+      "description": "Che cosa significa davvero parlare di “dipendenza sessuale”, tra perdita di controllo, sofferenza personale e il rischio di trasformare in patologia modi diversi di vivere la sessualità. \n L'articolo  Sex addiction?  proviene da  Il Tascabile .",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
+      }
+    },
+    {
+      "title": "Oltre la legge del padre",
+      "url": "https://www.iltascabile.com/letterature/oltre-legge-padre/",
+      "description": "In cerca di frasi vere nell’Austria del dopoguerra tra corpi isterici e interpassività nella prosa di Ingeborg Bachmann. \n L'articolo  Oltre la legge del padre  proviene da  Il Tascabile .",
+      "date": "Thu, 15 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -68,19 +100,19 @@
       }
     },
     {
-      "title": "L’affaire Arday-fus",
-      "url": "https://www.iltascabile.com/societa/affaire-arday-fus/",
-      "description": "Nathan Cofnas e la scienza della disuguaglianza. \n L'articolo  L’affaire Arday-fus  proviene da  Il Tascabile .",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Bologna non è un’isola felice di Salvatore Papa",
+      "url": "https://www.iltascabile.com/recensioni/bologna-non-isola-felice-salvatore-papa/",
+      "description": "L'articolo  Bologna non è un’isola felice di Salvatore Papa  proviene da  Il Tascabile .",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/societa/meritocrazia-comunismo-qualita/",
       "description": "Da Platone alle banche del tempo: superare il dispositivo della competizione neoliberale e socializzare le qualità personali per divenire comunità solidale. \n L'articolo  Meritocrazia vs comunismo delle qualità  proviene da  Il Tascabile .",
       "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bristol di Jean Echenoz",
-      "url": "https://www.iltascabile.com/recensioni/bristol-jean-echenoz/",
-      "description": "L'articolo  Bristol di Jean Echenoz  proviene da  Il Tascabile .",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Il desiderio lesbico di contaminarsi",
-      "url": "https://www.iltascabile.com/linguaggi/desiderio-lesbico-contaminarsi/",
-      "description": "Tra spettri, schermi e fluidi: cosa significa essere ridott* a un ricettacolo del desiderio di qualcun altro. \n L'articolo  Il desiderio lesbico di contaminarsi  proviene da  Il Tascabile .",
-      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

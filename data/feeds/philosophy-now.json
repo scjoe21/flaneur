@@ -1,77 +1,77 @@
 {
   "sourceId": "philosophy-now",
   "sourceName": "Philosophy Now",
-  "fetchedAt": "2026-10-11T20:57:23.198196+00:00",
+  "fetchedAt": "2026-10-16T08:40:37.291746+00:00",
   "items": [
     {
-      "title": "Why Classical Liberals Should Embrace Foucault",
-      "url": "https://philosophynow.org/issues/175/Why_Classical_Liberals_Should_Embrace_Foucault",
-      "description": "Muzainy Shahiefisally argues that Foucault really is on the side of freedom.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "To Philosophize is to Learn How to Say Goodbye",
+      "url": "https://philosophynow.org/issues/176/To_Philosophize_is_to_Learn_How_to_Say_Goodbye",
+      "description": "Scott F. Parker reflects on philosophy as a preparation for death.",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "When Truth Loses its Witnesses",
+      "url": "https://philosophynow.org/issues/176/When_Truth_Loses_its_Witnesses",
+      "description": "Mohsen Askari on why not all political narratives should be treated as equal.",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Günther Anders (1902-1992)",
+      "url": "https://philosophynow.org/issues/176/Gunther_Anders_1902-1992",
+      "description": "Clive Webb on how Anders warned humanity about the moral costs of technological progress.",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
+    {
+      "title": "‘Why is there something rather than nothing?’",
+      "url": "https://philosophynow.org/issues/176/Why_is_there_something_rather_than_nothing",
+      "description": "Andrew Brenner tries to make sense of the question.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Hustle Culture & the Illusion of Freedom",
-      "url": "https://philosophynow.org/issues/175/Hustle_Culture_and_the_Illusion_of_Freedom",
-      "description": "Daneyal Afaqui critiques modern work culture, with input from Theodor Adorno.",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Just War Theory",
-      "url": "https://philosophynow.org/issues/175/Just_War_Theory",
-      "description": "Keith Tidman thinks the world’s bristling arsenals and proneness to wars makes it all the more urgent.",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Between Missiles & Morality",
-      "url": "https://philosophynow.org/issues/175/Between_Missiles_and_Morality",
-      "description": "AmirAli Maleki considers Hart, al-Farabi, and the Puzzled Man in wartime.",
-      "date": "Mon, 03 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "News: August/September 2026",
-      "url": "https://philosophynow.org/issues/175/News_August_September_2026",
-      "description": "Jobs bonanza as AI companies recruit philosophers • Researchers learn to ‘unwrap’ charred philosophy scrolls from Herculaneum — News reports by Anja Steinbauer",
-      "date": "Mon, 03 Aug 2026",
+      "title": "News: October/November 2026",
+      "url": "https://philosophynow.org/issues/176/News_October_November_2026",
+      "description": "Nussbaum wins Kluge Prize • Edgar Morin dead at 104 • Dundee Philosophy fights back • AI’s plan to enslave humanity continues — News reports by Anja Steinbauer",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,10 +84,10 @@
       }
     },
     {
-      "title": "What is Analytic Philosophy?",
-      "url": "https://philosophynow.org/issues/175/What_is_Analytic_Philosophy",
-      "description": "Alexander Jeuk analyses philosophical analysis with a philosophical eye.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Causation: A History",
+      "url": "https://philosophynow.org/issues/176/Causation_A_History",
+      "description": "Peter Keeble causes us to think about causation.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +100,10 @@
       }
     },
     {
-      "title": "What is Human Experience?: Psychology vs Philosophy",
-      "url": "https://philosophynow.org/issues/175/What_is_Human_Experience_Psychology_vs_Philosophy",
-      "description": "Ayten Nevzat watches philosophy give birth to a science.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Fraudulent Hope?",
+      "url": "https://philosophynow.org/issues/176/Fraudulent_Hope",
+      "description": "Alice Figes agrees with Ernst Bloch that hope can build worlds or destroy them, and philosophy’s task is to tell the difference.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -116,10 +116,10 @@
       }
     },
     {
-      "title": "Mental Continental",
-      "url": "https://philosophynow.org/issues/175/Mental_Continental",
+      "title": "Let’s Get Metaphysical",
+      "url": "https://philosophynow.org/issues/176/Lets_Get_Metaphysical",
       "description": "by Rick Lewis",
-      "date": "Mon, 03 Aug 2026",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +132,10 @@
       }
     },
     {
-      "title": "Philosophical Power Couples",
-      "url": "https://philosophynow.org/issues/175/Philosophical_Power_Couples",
+      "title": "Philosophers on AI",
+      "url": "https://philosophynow.org/issues/176/Philosophers_on_AI",
       "description": "by Matt Qvortrup",
-      "date": "Mon, 03 Aug 2026",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +148,10 @@
       }
     },
     {
-      "title": "Simone Weil & Animal Suffering",
-      "url": "https://philosophynow.org/issues/175/Simone_Weil_and_Animal_Suffering",
-      "description": "Michela Dianetti & Chiara Li Mandri say non-human beings don’t need to be persons for us to care about them. Simone Weil offers another way.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Classical Indian & Modern Scientific Metaphysics",
+      "url": "https://philosophynow.org/issues/176/Classical_Indian_and_Modern_Scientific_Metaphysics",
+      "description": "Mansi Tripathi hosts a trialogue.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +164,10 @@
       }
     },
     {
-      "title": "Jacques Derrida (1930-2004)",
-      "url": "https://philosophynow.org/issues/175/Jacques_Derrida_1930-2004",
-      "description": "by Terence Green",
-      "date": "Mon, 03 Aug 2026",
+      "title": "The Nature of Reality",
+      "url": "https://philosophynow.org/issues/176/The_Nature_of_Reality",
+      "description": "Simon Everson says Immanuel Kant can help with quantum mechanics.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +180,10 @@
       }
     },
     {
-      "title": "The Strength of Quiet Rebellion",
-      "url": "https://philosophynow.org/issues/175/The_Strength_of_Quiet_Rebellion",
-      "description": "T.S. Carney on Ernst Jünger and internal sovereignty.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "What is Metaphysics?",
+      "url": "https://philosophynow.org/issues/176/What_is_Metaphysics",
+      "description": "Sajid Bijapure asks what it does, and what it might do in the future.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +196,10 @@
       }
     },
     {
-      "title": "Fun With Deleuze & Guattari",
-      "url": "https://philosophynow.org/issues/175/Fun_With_Deleuze_and_Guattari",
-      "description": "D.E. Tarkington offers some cool conceptual tricks to impress your friends at parties.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Chair Ontology",
+      "url": "https://philosophynow.org/issues/176/Chair_Ontology",
+      "description": "by Dylan Skurka",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "The Simulacrum Conceals, or Time Beguiles?",
-      "url": "https://philosophynow.org/issues/175/The_Simulacrum_Conceals_or_Time_Beguiles",
-      "description": "by Shivangi Mishra",
-      "date": "Mon, 03 Aug 2026",
+      "title": "Does Feminism Need More Than Liberalism?",
+      "url": "https://philosophynow.org/issues/176/Does_Feminism_Need_More_Than_Liberalism",
+      "description": "Vanessa Yeung considers feminist responses to Rawlsian liberalism.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Boredom",
-      "url": "https://philosophynow.org/issues/175/Boredom",
-      "description": "Cheryl Fok searches for the source, and its relief.",
-      "date": "Mon, 03 Aug 2026",
+      "title": "In Defence of Hope",
+      "url": "https://philosophynow.org/issues/176/In_Defence_of_Hope",
+      "description": "Sam Nuttall hopes to defend it with the help of Gabriel Marcel and Ernst Bloch.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

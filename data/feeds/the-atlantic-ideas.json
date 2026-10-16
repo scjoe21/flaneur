@@ -1,22 +1,38 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-10-11T20:57:26.855135+00:00",
+  "fetchedAt": "2026-10-16T08:40:41.633082+00:00",
   "items": [
     {
-      "title": "Russia Needs to Tell the Truth About a Plague Death",
-      "url": "https://www.theatlantic.com/ideas/2026/10/russia-siberia-pneumonic-plague/688895/?utm_source=feed",
+      "title": "The Rise of In-Office Remote Work",
+      "url": "https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/?utm_source=feed",
       "description": "",
-      "date": "2026-10-06",
+      "date": "2026-10-14",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Invasion of the Self-Replicating AI-Malware Botnet",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-malware-botnet/688997/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -36,202 +52,186 @@
       }
     },
     {
-      "title": "If You Want a Real Digital Commons, Build It Yourself",
-      "url": "https://www.theatlantic.com/ideas/2026/10/rappler-philippines-digital-commons/688927/?utm_source=feed",
+      "title": "0 for 26: The Trump Administration’s Astonishing Losing Record",
+      "url": "https://www.theatlantic.com/ideas/2026/10/doj-lawsuits-voter-rolls-losing/689003/?utm_source=feed",
       "description": "",
-      "date": "2026-10-08",
+      "date": "2026-10-15",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Simple Truth Behind Jane Doe’s Story",
-      "url": "https://www.theatlantic.com/ideas/2026/10/jane-doe-cornell-7-story/688912/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Violence Sweeping France Was Never Really About Schools",
-      "url": "https://www.theatlantic.com/ideas/2026/10/france-schools-student-protest/688903/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "novelty": 0,
+        "total": 0
       }
     },
     {
-      "title": "Churches Are Finally Making the Moral Case Against Sports Betting",
-      "url": "https://www.theatlantic.com/ideas/2026/10/gambling-betting-religious-leaders/688893/?utm_source=feed",
+      "title": "The Non-AI AI Jobs",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-new-job-creation/689000/?utm_source=feed",
       "description": "",
-      "date": "2026-10-06",
+      "date": "2026-10-15",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "Iran, Afghanistan, America?",
+      "title": "Kimberly Guilfoyle Broke Trump’s Most Important Rule",
+      "url": "https://www.theatlantic.com/ideas/2026/10/kimberly-guilfoyle-trump-greece-davos/688996/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump’s Affection for Russia Is No Mystery",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trump-russia-putin-oil/688986/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What If AI Is the End of the World?",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-end-of-world-meaning/688977/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Man Who Wanted to Understand Every Aspect of Jewish Life",
+      "url": "https://www.theatlantic.com/magazine/2026/11/an-sky-jewish-ethnography-ukraine/688697/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Choose Your Overlord",
+      "url": "https://www.theatlantic.com/magazine/2026/11/bezos-musk-billionaire-space-race/688690/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump’s Message to Ukraine Is Now Crystal Clear",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trump-ukraine-putin-fuel/688974/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Tragedy of AI Coding",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-programming-big-tech-regulations/688960/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What Hasan Piker Believes",
+      "url": "https://www.theatlantic.com/ideas/2026/10/hasan-piker-podcast-democrat/688956/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Only Thing the Houthis Have Done Successfully",
+      "url": "https://www.theatlantic.com/ideas/2026/10/only-thing-houthis-have-done-successfully/688972/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Admiral McRaven: Public Execution Is Shameless and Ignoble",
       "url": "https://www.theatlantic.com/ideas/2026/10/public-execution-nidal-hasan/688970/?utm_source=feed",
       "description": "",
       "date": "2026-10-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "All the Things You’re Not Allowed to Say In Texas",
-      "url": "https://www.theatlantic.com/ideas/2026/10/texas-university-censorship-free-speech/688827/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump Is an Easy Mark for Putin",
-      "url": "https://www.theatlantic.com/ideas/2026/10/trumps-diesel-deal-sells-out-ukraine/688964/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Public Execution Won’t Have the Effect Trump Intends",
-      "url": "https://www.theatlantic.com/ideas/2026/10/public-execution-livestream-nidal-hasan/688955/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Real Harm of a Public Execution",
-      "url": "https://www.theatlantic.com/ideas/2026/10/public-killing-death-humanity/688954/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The GOP’s Message to Immigrants",
-      "url": "https://www.theatlantic.com/ideas/2026/10/republicans-immigrants-reagan-trump/688925/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What I Saw at New York’s Anti-Israel October 7 Rallies",
-      "url": "https://www.theatlantic.com/ideas/2026/10/october-7-new-york-israel-mamdani/688932/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-08",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Three Years After October 7, I Moved Back to Nahal Oz",
-      "url": "https://www.theatlantic.com/ideas/2026/10/nahal-oz-israel-elections-netanyahu/688902/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Hegseth’s One Percent",
-      "url": "https://www.theatlantic.com/ideas/2026/10/pete-hegseth-military-superiority-bible/688887/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

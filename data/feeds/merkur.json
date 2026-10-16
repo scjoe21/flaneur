@@ -1,7 +1,7 @@
 {
   "sourceId": "merkur",
   "sourceName": "Merkur",
-  "fetchedAt": "2026-10-11T20:57:13.715375+00:00",
+  "fetchedAt": "2026-10-16T08:40:28.559547+00:00",
   "items": [
     {
       "title": "Generation als Ersatzkonflikt. Zur Konjunktur eines Deutungsmusters in Zeiten gesellschaftlicher Transformation",
@@ -132,22 +132,6 @@
       }
     },
     {
-      "title": "The Palestinian Messenger (of Old News)",
-      "url": "https://www.merkur-zeitschrift.de/2026/01/23/the-palestinian-messenger-of-old-news/",
-      "description": "Berlin, August 2025 In the course of the year that Bashir Bashir and I spent as co-fellows at Berlin’s renowned Wissenschaftskolleg, he presented himself to the German public twice, once in an interview and once in a lecture. The Frankfurter Allgemeine Zeitung, one of the country’s most influential newspapers, took these appearances as occasions to […] \n Der Beitrag  The Palestinian Messenger (of Old News)  erschien zuerst auf  Merkur .",
-      "date": "Fri, 23 Jan 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Abend der Wunder. Maxim Znak, Maria Kolesnikova und Herta Müller sprechen in Berlin über die Macht von Briefen und Büchern",
       "url": "https://www.merkur-zeitschrift.de/2026/04/28/abend-der-wunder-maxim-znak-maria-kolesnikova-und-herta-mueller-sprechen-in-berlin-ueber-die-macht-von-briefen-und-buechern/",
       "description": "Am Beginn der Lesung von Zekamerone zählt Katharina Raabe vom Suhrkamp-Verlag die Wunder auf, die an diesem Nachmittag im Gorki-Theater zusammenkommen. Am Anfang stand ein Manuskript, das der belarussische Schriftsteller und Jurist Maxim Znak 2022 mithilfe eines gewöhnlichen Strafgefangenen aus einem Minsker Untersuchungsgefängnis geschmuggelt hatte. 2023 las Herta Müller im Gorki-Theater die Geschichten aus dem […] \n Der Beitrag  Abend der Wunder. Maxim Znak, Maria Kolesnikova und Herta Müller ",
@@ -161,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Chat mit Claude (19.4. bis 16.5.2026)",
+      "url": "https://www.merkur-zeitschrift.de/2026/10/14/chat-mit-claude-19-4-bis-16-5-2026/",
+      "description": "Im Septemberheft des Merkur (Nr. 928) erschien unter dem Titel „Wem gehört die Maschine?“ ein (hier nachlesbarer) Beitrag von Peter Michael Witt. Es handelte sich um die destillierte Fassung eines Dialogs zwischen Mensch (Peter Michael Witt) und Large Language Model (Claude von Anthropic), dessen ursprüngliche Prompts und Antworten wir hier dokumentieren.   Hat sich schon […] \n Der Beitrag  Chat mit Claude (19.4. bis 16.5.2026)  erschien zuerst auf  Merkur .",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     }
   ]

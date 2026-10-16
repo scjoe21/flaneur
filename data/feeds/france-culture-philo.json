@@ -1,38 +1,22 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-11T20:57:05.169822+00:00",
+  "fetchedAt": "2026-10-16T08:40:19.999188+00:00",
   "items": [
     {
-      "title": "Pourquoi l'insulte est-elle injuste ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-l-insulte-est-elle-injuste-8755627",
-      "description": "durée : 00:03:58  - Avec philosophie - par : Frédéric Worms - Dans la vie quotidienne comme sur le plan politique, nous réagissons avec force face aux insultes. Mais quelle est la nature exacte de cet acte de violence ? Comment le droit distingue-t-il l'insulte, l'injure et la diffamation ?  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 05 Oct 2026",
+      "title": "Pourquoi l'humaniste est-il politique ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mardi-13-octobre-2026-3735774",
+      "description": "durée : 00:03:04  - Avec philosophie - par : Frédéric Worms - De la morale aux lois : repenser l'humanisme en politique  - équipe : Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 48,
+      "priority": 50,
       "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 48
-      }
-    },
-    {
-      "title": "Allons à l’immédiat 3/3 : Pourquoi ne peut-on pas avoir tout, tout de suite ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-ne-peut-on-pas-avoir-tout-tout-de-suite-3629071",
-      "description": "durée : 00:03:19  - Avec philosophie - par : Frédéric Worms - Dès la naissance, notre besoin de réponse immédiate est vital. Mais comment composer avec l'urgence, l'impatience humaine et les limites du réel ? Du nourrisson qui a faim à l'enfant impatient qui exige une glace, jusqu'aux urgences climatiques, découvrez l'analyse du philosophe.  - équipe : Virginie Le Duault, Colin Gruel \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 44
+        "daily": 20,
+        "phil": 25,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 50
       }
     },
     {
@@ -52,19 +36,19 @@
       }
     },
     {
-      "title": "\"Phèdre\" de Platon : bien parler d'amour, bien parler tout court... : Qu'est-ce qu'un bon discours ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/qu-est-ce-qu-un-bon-discours-2441638",
-      "description": "durée : 00:58:03  - Avec philosophie - par : Géraldine Mosna-Savoye - Au petit matin, Socrate parti pour une promenade, rencontre Phèdre qui sort d’une nuit de discussion enflammée à propos d’amour...\nMais comment bien parler d’amour ? et comment bien parler tout court ?   - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Létitia Mouze Maîtresse de conférences HDR à l'université Toulouse",
-      "date": "Mon, 05 Oct 2026",
+      "title": "Envie de dormir : troubles dans le sommeil : Insomnie, tout s’oppose à ma nuit",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/insomnie-tout-s-oppose-a-ma-nuit-6082696",
+      "description": "durée : 00:58:27  - Avec philosophie - par : Géraldine Mosna-Savoye - Compter les moutons, trouver la position idéale ou le bon oreiller n'est pas une question individuelle. C'est un acte politique. Dormir, est-ce que cela pourrait devenir un acte de résistance ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Claire Pagès Professeure de philosophie à l'Université Paris Nanterre \n\nVous aimez ce pod",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 43,
+      "priority": 40,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 25,
         "phil": 15,
-        "flaneur": 8,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 43
+        "total": 40
       }
     },
     {
@@ -116,42 +100,58 @@
       }
     },
     {
-      "title": "\"Phèdre\" de Platon : bien parler d'amour, bien parler tout court... : Socrate contre l'emprise amoureuse",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/faut-il-preferer-le-sexe-entre-amis-4953622",
-      "description": "durée : 00:58:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Et s'il y avait un amour négatif, dévorant, maladif ? Et si pour s'en protéger, Platon nous conseillait de modérer nos passions en couchant avec... nos amis, pourquoi pas ? Socrate, quelques siècles avant notre ère, pose en tout cas parfaitement les termes qui décrivent le phénomène de l'emprise.  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaer",
-      "date": "Tue, 06 Oct 2026",
+      "title": "Comment l'humanisme peut-il éviter l'anthropocentrisme ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-l-humanisme-peut-il-eviter-l-anthropocentrisme-5390845",
+      "description": "durée : 00:03:42  - Avec philosophie - par : Frédéric Worms - Comment l’humanisme, depuis la Renaissance, au centre de la réflexion, peut-il, aujourd'hui, respecter la valeur de toute forme de vie sans placer l’être humain au-dessus de la nature ?  - équipe : Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 34,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 15,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 35
+        "total": 34
       }
     },
     {
-      "title": "Les réseaux sociaux, pas si démocratiques !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/les-reseaux-sociaux-pas-si-democratiques-1813151",
-      "description": "durée : 00:03:19  - Avec philosophie - par : Anne Alombert - Pensez-vous vraiment choisir ce que vous regardez sur votre fil d'actualité ? Anne Alombert examine le pouvoir invisible des algorithmes sur nos attentions et explore, avec Bernard Stiegler, les conditions d'un environnement numérique plus démocratique.  - équipe : Camille Renard, Virginie Le Duault, Thomas Jost, Jean-Ghislain Maige \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 01 Oct 2026",
+      "title": "Envie de dormir : troubles dans le sommeil : Lacan : “Le réveil total, c'est la mort”",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/lacan-on-ne-se-reveille-jamais-1635507",
+      "description": "durée : 00:58:01  - Avec philosophie - par : Géraldine Mosna-Savoye - Que projetons-nous dans le sommeil, au-delà du besoin physiologique, au-delà de sa nécessité biologique ? Le voyons-nous comme un écran à la réalité, une échappée du quotidien ? Ou mieux : comme le lieu où peuvent enfin se déployer nos désirs ?   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Deborah Gutermann-Jacquet Psychanalys",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
+      }
+    },
+    {
+      "title": "Envie de dormir : troubles dans le sommeil : Neurologie : que fait-on quand on dort ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/neurologie-que-fait-on-quand-on-dort-7781311",
+      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Mosna-Savoye - Ce n'est que dans les années 1950 que la recherche scientifique s'est penchée sur notre sommeil, et depuis, les découvertes se sont multipliées... Que se passe-t-il lorsqu'on dort ? Comment rêve-t-on et comment étudier ce phénomène ? De l'hypnagogie au sommeil local, on explore le sommeil.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - in",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
       "scoreDetail": {
         "daily": 20,
         "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 35
+        "novelty": 0,
+        "total": 30
       }
     },
     {
-      "title": "Adèle Yon, écrivaine, sur le cinéaste Eisenstein : art du montage et recette du pathos",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/adele-yon-sur-l-oeuvre-de-serguei-eisenstein-9739083",
-      "description": "durée : 00:58:10  - Avec philosophie - par : Géraldine Mosna-Savoye - Comment l'art du montage et la recette du pathétique du cinéaste et théoricien Sergueï Eisenstein ont-ils influencé l'écriture d'Adèle Yon, l'autrice qui a marqué avec \"Mon vrai nom est Élisabeth\" ? Elle revient sur cette oeuvre dont la fameuse recette a été pervertie par Hollywood...\n  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger, Phane Montet - invités : Adèle Yon Romancière, Docteure SACRe - ENS \n\nVous aimez",
-      "date": "Fri, 02 Oct 2026",
+      "title": "Comment être humaniste aujourd'hui ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-lundi-12-octobre-2026-4327532",
+      "description": "durée : 00:03:41  - Avec philosophie - par : Frédéric Worms - Comment aujourd'hui penser l'humanisme, dans une époque marquée par la violence et la destruction ?   - équipe : Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -161,22 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
-      }
-    },
-    {
-      "title": "Marx avant \"Le Capital\" : Marx face à la révolution de 1848 : autopsie d'un échec",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/marx-face-a-la-revolution-de-1848-autopsie-d-un-echec-8218421",
-      "description": "durée : 00:57:49  - Avec philosophie - par : Géraldine Mosna-Savoye - En 1848, la France connaît une révolution sanglante, le plus grand massacre depuis la Saint-Barthélemy. Marx, en publiciste, observe les événements, et fait une analyse à chaud qui dissèque l'échec de cette révolution. Comment cela a-t-il pu arriver, et quelles leçons en tirer ?  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies -",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {
@@ -228,19 +212,35 @@
       }
     },
     {
-      "title": "Saint Augustin au pouvoir : ne succombons pas au défaitisme !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/saint-augustin-au-pouvoir-ne-succombons-pas-au-defaitisme-1219219",
-      "description": "durée : 01:00:02  - Avec philosophie - par : Laurence Devillairs - Et si saint Augustin devenait chef de gouvernement ? Justice, sobriété, spiritualité, rapport au temps : que ferait cet évêque face aux crises d’un monde en mutation ? Et que peut encore nous apprendre sa pensée sur l’exercice du pouvoir ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Jean-Marie Salamito , Pierre Descotes maître de conférences HDR à l’Université Paris-Sorbonne \n\nVous aimez ce podcast ? Pour écouter ",
-      "date": "Sat, 03 Oct 2026",
+      "title": "Envie de dormir : troubles dans le sommeil : Anton Tchekhov, fatigué de la vie",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/anton-tchekhov-fatigue-de-la-vie-3043627",
+      "description": "durée : 00:58:18  - Avec philosophie - par : Géraldine Mosna-Savoye - “Il n'est pas de plus grand plaisir dans la vie que de s'endormir quand on a sommeil”, signé Tchekhov. Et dormir, ça le connaît. Il est l'auteur de la nouvelle \"Envie de dormir\", mais qui décrit tout sauf un plaisir. Ici, il s'agit de fatigue existentielle, et elle traverse toute son œuvre.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - i",
+      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Non, nos psys ne peuvent pas être automatisés !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/non-nos-psys-ne-peuvent-pas-etre-automatises-6777170",
+      "description": "durée : 00:03:22  - Avec philosophie - par : Anne Alombert - En 2026, près d'un jeune sur deux considère son chatbot comme un psy. Pourtant, ce phénomène ne date pas d'hier : dès 1966, ELIZA suscitait déjà un fort attachement émotionnel. Son inventeur, Joseph Weizenbaum, n'a cessé d'alerter sur les risques d'une psychothérapie automatisée.  - équipe : Thomas Jost, Virginie Le Duault, Camille Renard - invités : Anne Alombert Philosophe, maîtresse de conférences en philosophe contemporaine à l'Uni",
+      "date": "Thu, 15 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     }
   ]

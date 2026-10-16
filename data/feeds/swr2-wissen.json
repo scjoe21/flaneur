@@ -1,22 +1,54 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-11T20:57:35.978712+00:00",
+  "fetchedAt": "2026-10-16T08:40:49.660568+00:00",
   "items": [
     {
-      "title": "Hannah Arendt – Freiheit und Verantwortung",
-      "url": "https://www.swr.de/swrkultur/wissen/hannah-arendt-widerstand-revolution-und-freiheit-104.html",
-      "description": "\"Der Sinn von Politik ist Freiheit\", sagt die jüdische Philosophin Hannah Arendt (1906 - 1975). Doch wie entsteht Freiheit? Und warum ist sie immer wieder bedroht?",
-      "date": "Fri, 2 Oct 2026 ",
+      "title": "Die Wechseljahre – Welche Therapien möglich und nötig sind (1/2)",
+      "url": "https://www.swr.de/swrkultur/wissen/die-wechseljahre-welche-therapien-moeglich-und-noetig-sind-102.html",
+      "description": "Über \"die Wechseljahre\" wissen selbst Frauen oft nur wenig. Etwa dass das Östrogen schon mit Anfang, Mitte 40 zu sinken beginnt. Und dass die Hormonersatztherapie gut wirkt und weitgehend sicher ist.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/wechseljahre-therapien-teil1\nHörtipp:\nDie Wechseljahre – Wie Arbeitgeber und Gesellschaft Frauen unterstützen (2/2)\nhttps://www.ardaudiothek.de/episode/urn:ard:episode:df73b208bf56c1ba/\nInfos und Tipps:\nDie Menopause Rat",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 44,
       "scoreDetail": {
         "daily": 30,
         "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "Die Wechseljahre – Wie Arbeitgeber und Gesellschaft Frauen unterstützen (2/2)",
+      "url": "https://www.swr.de/swrkultur/wissen/die-wechseljahre-wie-arbeitgeber-und-gesellschaft-frauen-unterstuetzen-100.html",
+      "description": "Hitzewallungen und Stimmungsschwankungen können die Arbeitsleistung von Frauen beeinträchtigen. Aufklärung, Verständnis von Führungskräften und anderen Frauen sowie flexible Arbeitszeiten helfen.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/wechseljahre-unterstützung-teil2\nHörtipp:\nDie Wechseljahre – Welche Therapien möglich und nötig sind (1/2)\nhttps://www.ardaudiothek.de/episode/urn:ard:episode:c273aab212c59173/\nBei Fragen und Anregungen schreibt uns:\ndaswiss",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
+        "total": 30
+      }
+    },
+    {
+      "title": "Gerechter erben – Wie die Besteuerung fairer werden kann",
+      "url": "https://www.swr.de/swrkultur/wissen/gerechter-erben-wie-die-besteuerung-fairer-werden-kann-102.html",
+      "description": "In Deutschland werden Erbschaften effektiv mit drei Prozent besteuert, Arbeit mit 30 Prozent. Das ist ungerecht, weil für eine Erbschaft niemand arbeiten muss und viele niemals etwas erben. Von Kristin Langen und Vanessa Guinan-Bank (SWR 2024/2025) | Manuskript und mehr zur Sendung: http://swr.li/erbschaftssteuer-gerechter-erben | Bei Fragen und Anregungen schreibt uns: daswissen@swr.de | Folgt uns auf Mastodon: https://ard.social/@DasWissen",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -68,6 +100,38 @@
       }
     },
     {
+      "title": "Wer arm ist, stirbt früher – Wege aus dem ungleichen Gesundheitsrisiko",
+      "url": "https://www.swr.de/swrkultur/wissen/wer-arm-ist-stirbt-frueher-wege-aus-dem-ungleichen-gesundheitsrisiko-100.html",
+      "description": "Fitness und ausgewogene Ernährung können sich nicht alle leisten: Armut bedingt oft ein riskanteres Gesundheitsverhalten, weil Wissen fehlt und wenig Geld meist Stress bedeutet.",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Berufsverbot – Dürfen Rechtsextreme für den Staat arbeiten?",
+      "url": "https://www.swr.de/swrkultur/wissen/berufsverbot-duerfen-rechtsextreme-fuer-den-staat-arbeiten-100.html",
+      "description": "Lehrkräfte, Richter, Polizistinnen – nicht erst seit den AfD-Wahlerfolgen wollen manche Bundesländer Beamte stärker auf ihre politische Gesinnung überprüfen.",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Organisierte Kriminalität in Europa (3/3) – Die EU-Ermittler",
       "url": "https://www.swr.de/swrkultur/wissen/organisierte-kriminalitaet-in-europa-33-die-eu-ermittler-100.html",
       "description": "Um den Bossen das Handwerk zu legen, müssen die Ermittler der Spur des Geldes folgen, international zusammenarbeiten, Daten austauschen. Dann erfolgt am \"Action Day\" der Zugriff.",
@@ -116,51 +180,19 @@
       }
     },
     {
-      "title": "Trotz Auschwitz: Jüdisches Leben in Deutschland nach 1945 in Original-Tondokumenten",
-      "url": "https://www.swr.de/swrkultur/wissen/trotz-auschwitz-juedisches-leben-in-deutschland-nach-1945-in-original-tondokumenten-104.html",
-      "description": "Die Befreiung der Vernichtungslager bedeutet den Neubeginn für den Wiederaufbau einer jüdischen Gemeinschaft in Deutschland, die sich keineswegs allein über den Holocaust definiert.",
-      "date": "Fri, 2 Oct 2026 ",
+      "title": "Wenn Chatbots die Karriere mitbestimmen – KI in der Personalauswahl",
+      "url": "https://www.swr.de/swrkultur/wissen/wenn-chatbots-die-karriere-mitbestimmen-ki-in-der-personalauswahl-100.html",
+      "description": "Durch KI hoffen Personalabteilungen, Bewerber objektiver und effizienter beurteilen zu können. Dafür muss die KI aber perfekt trainiert sein. Auch Bewerberinnen nutzen KI.",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Franz von Assisi – Radikaler Prophet der Armut",
-      "url": "https://www.swr.de/swrkultur/wissen/franz-von-assisi-radikaler-prophet-der-armut-100.html",
-      "description": "Franz von Assisi stellt mit seiner radikalen Armutsidee die Macht der Kirche infrage und wird doch bis heute von ihr vereinnahmt.",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Erdgas aus Deutschland – Umstrittene Bohrprojekte und die Suche nach Alternativen",
-      "url": "https://www.swr.de/swrkultur/wissen/erdgas-aus-deutschland-umstrittene-bohrprojekte-und-die-suche-nach-alternativen-100.html",
-      "description": "Deutschland deckt nur fünf Prozent des Erdgasbedarfs aus eigener Förderung. Niedersachsen hat mehrere neue Bohrprojekte genehmigt. Ein Verstoß gegen die Ziele der Klimaneutralität?",
-      "date": "Tue, 29 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/menschenkenntnis-kann-man-sie-lernen-100.html",
       "description": "Studien zeigen, dass wir unsere Menschenkenntnis oft überschätzen. Der viel beschworene \"erste Eindruck\", auf den wir so viel geben, kann ziemlich täuschen.",
       "date": "Sun, 4 Oct 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Schlaganfall – Schnell handeln, besser vorbeugen und therapieren",
-      "url": "https://www.swr.de/swrkultur/wissen/schlaganfall-schnell-handeln-besser-vorbeugen-und-therapieren-100.html",
-      "description": "Der Schlaganfall ist die häufigste Ursache für bleibende Behinderungen im Erwachsenenalter. Jede Minute zählt, um möglichst viel Hirngewebe zu retten.",
-      "date": "Fri, 2 Oct 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sprachstörungen behandeln – Wem Logopädie nützen kann",
-      "url": "https://www.swr.de/swrkultur/wissen/sprachstoerungen-behandeln-wem-logopaedie-nuetzen-kann-100.html",
-      "description": "Die Zahl der Kinder mit Sprachentwicklungsstörung steigt. Von Logopädie können aber auch Schlaganfall-Betroffene, Demenz-Erkrankte und Säuglinge mit Fütterstörung profitieren.",
-      "date": "Thu, 1 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

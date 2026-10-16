@@ -1,8 +1,24 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-10-11T20:57:30.393885+00:00",
+  "fetchedAt": "2026-10-16T08:40:45.107346+00:00",
   "items": [
+    {
+      "title": "Saint-Nazaire au travail : celles qui écoutent",
+      "url": "https://www.nonfiction.fr/article-12871-saint-nazaire-au-travail-celles-qui-ecoutent.htm",
+      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
+      "date": "Wed, 30 Sep 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Comment faire vivre le pluralisme ?",
       "url": "https://www.nonfiction.fr/article-12866-comment-faire-vivre-le-pluralisme.htm",
@@ -49,6 +65,22 @@
         "flaneur": 16,
         "novelty": 0,
         "total": 16
+      }
+    },
+    {
+      "title": "Quand le pouvoir s'attaque aux mots",
+      "url": "https://www.nonfiction.fr/article-12878-quand-le-pouvoir-sattaque-aux-mots.htm",
+      "description": "Et si l’autoritarisme commençait par les mots ? C’est la question qui traverse  D’abord ils sont venus chercher les mots , le nouveau livre de Cécile Alduy. Professeure à Stanford et spécialiste de l’analyse du discours politique, elle étudie depuis plusieurs années la manière dont l’extrême droite mène sa « guerre culturelle ». Avec le retour de Donald Trump à la Maison-Blanche, son objet d’étude est devenu une réalité institutionnelle : des mots disparaissent des sites et documents administrat",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -100,22 +132,6 @@
       }
     },
     {
-      "title": "Michel Butor, 1926-2026 : entretien avec Nathalie Piégay",
-      "url": "https://www.nonfiction.fr/article-12843-michel-butor-1926-2026-entretien-avec-nathalie-piegay.htm",
-      "description": "Michel Butor (1926-2016) aurait eu 100 ans ce 14 septembre. L’occasion pour les éditeurs (Minuit, Droz, le Canoë) de republier certains de ses livres augmentés de commentaires signés de deux éminentes butoriennes – la regrettée Mireille Calle-Gruber d’une part, Nathalie Piégay d’autre part. Et l’occasion pour nonfiction.fr d’interroger cette dernière, professeure de littérature du XX e  siècle à l’université de Genève, sur ces rééditions bien sûr, mais aussi sur ce qui rend Butor et son œuvre, a",
-      "date": "Mon, 14 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Foucault cases à cases",
       "url": "https://www.nonfiction.fr/article-12865-foucault-cases-a-cases.htm",
       "description": "Le genre biographique en bande dessinée est en plein essor. Ces biographies dessinées peuvent adopter un modèle didactique, en revenant sur la vie du sujet en question de manière chronologique et en s’efforçant de restituer un maximum d’informations.  Foucault. Vies parallèles  de Morvandiau et Mathieu Potte-Bonneville s’écarte clairement d’une telle option, sûrement difficile à appliquer pour un monument intellectuel comme Michel Foucault. En parallèle, à l’occasion du centenaire de sa naissanc",
@@ -136,22 +152,6 @@
       "url": "https://www.nonfiction.fr/article-12872-le-commerce-international-a-lepreuve-des-rivalites-geopolitiques.htm",
       "description": "Alors que les tensions commerciales et les rivalités géopolitiques bouleversent les règles des échanges mondiaux, le commerce international est redevenu un objet éminemment politique. Dans  Le commerce international , paru dans la collection « Repères » de La Découverte, l’économiste Sébastien Jean revient sur les mécanismes, les effets et les enjeux de ces échanges, ainsi que sur les transformations de l’ordre commercial mondial. Nous l’avons interrogé sur la politique commerciale de Donald Tru",
       "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "La guerre d’Espagne, autopsie de la démocratie",
-      "url": "https://www.nonfiction.fr/article-12844-la-guerre-despagne-autopsie-de-la-democratie.htm",
-      "description": "De juillet 1936 à 1939, les franquistes exécutent 120 000 personnes. Au-delà de ce seul chiffre, comprendre la guerre d’Espagne implique une plongée dans les années 20 et 30 afin de saisir la dimension symbolique portée par cette guerre. Les historiens Mercedes Yusta, François Godicheau et Pierre Salmon proposent un livre écrit à six mains qui réinscrit cette guerre dans l’histoire européenne, et plus largement celle du XX e  siècle. Face au soutien d’Hitler et de Mussolini à Franco, les interve",
-      "date": "Sun, 13 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

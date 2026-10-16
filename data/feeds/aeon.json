@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-10-11T20:57:23.773716+00:00",
+  "fetchedAt": "2026-10-16T08:40:38.352896+00:00",
   "items": [
     {
       "title": "How to assemble science",
@@ -20,35 +20,51 @@
       }
     },
     {
-      "title": "Reason is more than a tool",
-      "url": "https://aeon.co/essays/why-real-intelligence-is-something-more-than-optimisation",
-      "description": "If intelligence is merely optimisation then machines will outrun us. Kant tells us why human reason is so much more - by Sasha Mudd Read on Aeon",
-      "date": "Thu, 01 Oct 2026",
+      "title": "The secrets of Hohle Fels cave",
+      "url": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
+      "description": "Why aren’t we all Neanderthals? These ancient bird figurines suggest that art was essential to our evolutionary success - by Aeon Video Watch on Aeon",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
       }
     },
     {
-      "title": "Paternity is poetical",
-      "url": "https://aeon.co/essays/when-a-man-becomes-a-father-and-a-poetic-revolution-follows",
-      "description": "The notion that fatherhood and creativity are at odds is plain wrong, as both poetry and neuroscience are showing us - by Daniel Swift Read on Aeon",
-      "date": "Mon, 28 Sep 2026",
+      "title": "Deskilling the body",
+      "url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
+      "description": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending - by Melanie Challenger Read on Aeon",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 14,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Is everything conscious?",
+      "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
+      "description": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on Aeon",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -68,35 +84,19 @@
       }
     },
     {
-      "title": "Don’t use the ‘C-word’",
-      "url": "https://aeon.co/essays/we-need-a-better-way-to-describe-what-is-often-called-cancer",
-      "description": "A cancer diagnosis carries with it fear and upheaval. For many patients the cellular changes do not warrant the label - by Matthew R Cooperberg Read on Aeon",
-      "date": "Tue, 29 Sep 2026",
+      "title": "The ladder of knowledge",
+      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
+      "description": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 9,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Reasoning together",
-      "url": "https://aeon.co/essays/habermass-theory-of-truth-meant-he-changed-his-mind",
-      "description": "Jürgen Habermas, the great defender of deliberative democracy, lived up to its demands: he never feared changing his mind - by Emilie Prattico Read on Aeon",
-      "date": "Fri, 25 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 9
       }
     },
     {
@@ -132,22 +132,6 @@
       }
     },
     {
-      "title": "Affect theory",
-      "url": "https://aeon.co/videos/beyond-the-mind-body-divide-on-the-affective-turn-in-the-humanities",
-      "description": "In the mid-1990s, thinkers pushed back against the idea we’re built by language, turning to feeling and the body instead - by Aeon Video Watch on Aeon",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Evolution of Manhattan",
       "url": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
       "description": "From Lenape land to sprawling metropolis, this detailed timelapse animation captures the making of Manhattan - by Aeon Video Watch on Aeon",
@@ -177,6 +161,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Into the fire",
+      "url": "https://aeon.co/videos/the-all-female-team-defusing-isiss-deadly-landmine-legacy",
+      "description": "These women once fled ISIS. Now they defuse the landmines the militants left behind in their Yazidi homeland in northern Iraq - by Aeon Video Watch on Aeon",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Africa’s cultural landmarks: tombs of Buganda kings",
+      "url": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
+      "description": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda - by Aeon Video Watch on Aeon",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://aeon.co/videos/green-tree-ants-have-been-successful-for-ages-enter-the-imposters",
       "description": "In tropical forests ruled by aggressive ants, these species have adopted a ‘fake it till you make it’ survival strategy - by Aeon Video Watch on Aeon",
       "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Passportless mess",
-      "url": "https://aeon.co/videos/searching-for-a-local-legend-a-filmmaker-stumbles-into-a-tragicomedy",
-      "description": "A fool, a genius, or ‘a man who destroys everything’? Piecing together Zoran, a mythic figure of Belgrade - by Aeon Video Watch on Aeon",
-      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

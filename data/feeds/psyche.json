@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-10-11T20:57:25.316452+00:00",
+  "fetchedAt": "2026-10-16T08:40:39.340804+00:00",
   "items": [
     {
       "title": "How to ignite your creativity",
@@ -36,35 +36,19 @@
       }
     },
     {
-      "title": "When you feel moral disgust, what’s the emotion telling you?",
-      "url": "https://psyche.co/ideas/when-you-feel-moral-disgust-whats-the-emotion-telling-you",
-      "description": "Some actions and words provoke instant revulsion. To know if we can trust that gut feeling, we should probe why we have it - by Brandon Yip Read on Psyche",
-      "date": "Tue, 29 Sep 2026",
+      "title": "How mental disorders play havoc with our motivation",
+      "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
+      "description": "Feeling energised to do something depends on a cost-benefit analysis that psychiatric conditions scramble in different ways - by Matthias Pillny Read on Psyche",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Can he teach the teachers?",
-      "url": "https://psyche.co/portraits/he-mapped-the-learning-brain-then-came-the-hard-part",
-      "description": "The neuroscientist Stanislas Dehaene wants to bring four decades of findings on how the brain learns into the classroom. But evidence alone can’t overcome the politics in education - by Nancy Averett Read on Psyche",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -100,6 +84,22 @@
       }
     },
     {
+      "title": "How to handle jealous feelings",
+      "url": "https://psyche.co/guides/how-to-handle-jealous-feelings",
+      "description": "Jealousy can be a useful, insightful emotion – if you manage it well. Get curious about your jealousy to get a grip on it - by Carla Marie Manly Read on Psyche",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "A psychological guide to climbing out of debt",
       "url": "https://psyche.co/guides/a-psychological-guide-to-climbing-out-of-debt",
       "description": "Debt is as much an emotional challenge as a financial one. Follow this therapist’s advice to create a plan that works - by Vicky Reynal Read on Psyche",
@@ -113,6 +113,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Black men suffer racial trauma yet are seen as the threat",
+      "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
+      "description": "The very conditions that subject Black men to chronic strain make it hard for them to receive the help they need and deserve - by Yamonte Cooper Read on Psyche",
+      "date": "Sun, 11 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "What is hidden in the photographs we keep of each other?",
+      "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
+      "description": "Returning to family photo albums in my mother’s apartment in Japan, I was struck by the stories the images didn’t tell - by Sawa Kurotani Read on Psyche",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -164,19 +196,19 @@
       }
     },
     {
-      "title": "Signs of a highly sensitive person",
-      "url": "https://psyche.co/videos/how-to-know-if-youre-highly-sensitive-and-what-to-do-about-it",
-      "description": "Do you cry at paintings and recoil from crowds? A psychologist explores the telltale signs of a ‘highly sensitive person’ - Video by Dr Julie Watch on Psyche",
-      "date": "Fri, 25 Sep 2026",
+      "title": "Chu Prayad",
+      "url": "https://psyche.co/videos/a-bangkok-cabbie-finds-balance-in-a-thrilling-street-sport",
+      "description": "Power, precision and acrobatic high kicks – the Southeast Asian sport of sepak takraw offers Prayad relief from the road - Directed by Habib Yazdi and Joseph Marra Watch on Psyche",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://psyche.co/notes-to-self/remembering-the-ephemera-of-my-life-gives-it-meaning",
       "description": "By cataloguing the ephemera that slip between the headlines of my days, future me has a ready reckoner of my life - by Anandi Mishra Read on Psyche",
       "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The full-service grandad",
-      "url": "https://psyche.co/turning-points/i-am-a-full-service-grandad-where-are-the-others",
-      "description": "I thought I was a present father; my sons said otherwise. When my granddaughter arrived I made an offer - by Liam Heneghan Read on Psyche",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The end of humanity",
-      "url": "https://psyche.co/videos/when-tech-titans-tell-us-to-adapt-or-die-we-neednt-listen",
-      "description": "Instead of accepting that humanity will soon be obsolete, we can build a better future with respect for human traditions - A film by Andreas Dürr and Jan-Marc Furer Watch on Psyche",
-      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

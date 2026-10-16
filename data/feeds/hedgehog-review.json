@@ -1,8 +1,24 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-10-11T20:57:40.455291+00:00",
+  "fetchedAt": "2026-10-16T08:40:54.138360+00:00",
   "items": [
+    {
+      "title": "The Digital Hive and the End of a Common World",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/the-digital-hive-and-the-end-of-a-common-world",
+      "description": "Social media has upended the idea that journalistic sources create and disseminate the news to the audience.",
+      "date": "Wed, 07 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Twain’s Patriotism",
       "url": "https://hedgehogreview.com/web-features/thr/posts/twains-patriotism",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Alignment Problems",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/alignment-problems",
+      "description": "What does one do at a Pro-Human Assembly?",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -88,38 +120,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/sound-and-fury-politics",
       "description": "Wokeness and hyperpolitics are not the same thing.",
       "date": "Wed, 26 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Banality of Antisemitism",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/the-banality-of-antisemitism",
-      "description": "Hate for the other comes not only from our hate for who we are but also for what we are not.",
-      "date": "Wed, 12 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Plato’s Warning Has Been Vindicated",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/platos-warning-has-been-vindicated",
-      "description": "We now believe that our newest tools, once perfected, will relieve us of the need to be informed at all.",
-      "date": "Wed, 05 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

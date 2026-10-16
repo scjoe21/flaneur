@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-11T20:57:05.748231+00:00",
+  "fetchedAt": "2026-10-16T08:40:20.794222+00:00",
   "items": [
     {
       "title": "Anne Carson, le paradoxe de l’amour",
@@ -36,26 +36,10 @@
       }
     },
     {
-      "title": "Pourquoi restons-nous si attachés à ceux qui nous ont quittés ?",
-      "url": "https://www.philomag.com/articles/pourquoi-restons-nous-si-attaches-ceux-qui-nous-ont-quittes",
+      "title": "Michel Foucault, le Monte-Cristo de la philosophie",
+      "url": "https://www.philomag.com/articles/michel-foucault-le-monte-cristo-de-la-philosophie",
       "description": "",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Philolive! : le premier festival de philosophie à Paris",
-      "url": "https://www.philomag.com/articles/philolive-le-premier-festival-de-philosophie-paris",
-      "description": "",
-      "date": "Tue, 29 Sep 2026",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -68,8 +52,8 @@
       }
     },
     {
-      "title": "Olga L. Lizzini : “Pour Avicenne, la santé de l’âme dépend directement de notre rapport à la vérité”",
-      "url": "https://www.philomag.com/articles/olga-l-lizzini-pour-avicenne-la-sante-de-lame-depend-directement-de-notre-rapport-la",
+      "title": "“Pour Avicenne, la santé de l’âme dépend directement de notre rapport à la vérité”",
+      "url": "https://www.philomag.com/articles/pour-avicenne-la-sante-de-lame-depend-directement-de-notre-rapport-la-verite",
       "description": "",
       "date": "Mon, 05 Oct 2026",
       "thumbnail": "",
@@ -81,6 +65,54 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Michel Foucault en 7 “punchlines” expliquées",
+      "url": "https://www.philomag.com/articles/michel-foucault-en-7-punchlines-expliquees",
+      "description": "",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Michel Foucault a 100 ans : parcours d’une œuvre incontournable",
+      "url": "https://www.philomag.com/articles/michel-foucault-100-ans-parcours-dune-oeuvre-incontournable",
+      "description": "",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Les lycéens ont la parole",
+      "url": "https://www.philomag.com/articles/les-lyceens-ont-la-parole",
+      "description": "",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/larpentage-la-solution-miracle-pour-reapprendre-lire",
       "description": "",
       "date": "Sat, 03 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "D’où vient l’idée d’éco-région ?",
-      "url": "https://www.philomag.com/articles/dou-vient-lidee-deco-region",
-      "description": "",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "2036 : quand l’Ukraine sera la nouvelle puissance européenne",
-      "url": "https://www.philomag.com/articles/2036-quand-lukraine-sera-la-nouvelle-puissance-europeenne",
-      "description": "",
-      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

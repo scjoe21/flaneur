@@ -1,38 +1,38 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-11T20:57:27.300440+00:00",
+  "fetchedAt": "2026-10-16T08:40:42.120500+00:00",
   "items": [
     {
-      "title": "Why China Will Rule AI",
-      "url": "https://www.noemamag.com/why-china-will-rule-ai",
-      "description": "The post  Why China Will Rule AI  appeared first on  NOEMA .",
-      "date": "Tue, 22 Sep 2026",
+      "title": "An Inside Look At How To Tame Unstoppable AI",
+      "url": "https://www.noemamag.com/an-inside-look-at-how-to-tame-unstoppable-ai",
+      "description": "The post  An Inside Look At How To Tame Unstoppable AI  appeared first on  NOEMA .",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 19,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
+        "total": 19
       }
     },
     {
-      "title": "The End Of Upward Mobility",
-      "url": "https://www.noemamag.com/the-end-of-upward-mobility",
-      "description": "The post  The End Of Upward Mobility  appeared first on  NOEMA .",
-      "date": "Thu, 17 Sep 2026",
+      "title": "What We Can Save In A Time Of Endings",
+      "url": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
+      "description": "The post  What We Can Save In A Time Of Endings  appeared first on  NOEMA .",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

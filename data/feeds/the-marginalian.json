@@ -1,8 +1,24 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-11T20:57:27.616881+00:00",
+  "fetchedAt": "2026-10-16T08:40:42.508935+00:00",
   "items": [
+    {
+      "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
+      "url": "https://www.themarginalian.org/2026/10/13/carissa-veliz-prophecy/",
+      "description": "This is our paradox: We know that uncertainty is the substrate of the universe, is the crucible of creativity, is the path to truth, and yet we spend our lives searching for certainty. The word auspicious derives from the Latin auspex — one who examines the flight of birds for omens and divinations of the future. Today, our birds are made of bits — wind-up larks of our own making we call algorithms — but they serve the same function: to let us believe that we can divine the future in order to re",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 39
+      }
+    },
     {
       "title": "James Baldwin on How Love (Finally) Finds You",
       "url": "https://www.themarginalian.org/2026/10/11/baldwin-love/",
@@ -17,6 +33,22 @@
         "flaneur": 8,
         "novelty": 5,
         "total": 33
+      }
+    },
+    {
+      "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
+      "url": "https://www.themarginalian.org/2026/10/12/hermann-hesse-books-poem/",
+      "description": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. We read for the assurance that others have lived through what we are living through. “You think your pain and your heartbreak are unprecedented in the history of the world, but then you read,” James Baldwin reflected in his most personal interview. And yet whi",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -36,51 +68,35 @@
       }
     },
     {
-      "title": "Vincent van Gogh on Fear, Taking Risks, and How Inspired Mistakes Propel Us Forward",
-      "url": "https://www.themarginalian.org/2026/10/07/van-gogh-fear-risk/",
-      "description": "\"However meaningless and vain, however dead life appears, the man of faith, of energy, of warmth... steps in and does something.\"",
-      "date": "Thu, 08 Oct 2026",
+      "title": "How Not to Waste Your Life",
+      "url": "https://www.themarginalian.org/2026/10/15/hawthorne-life/",
+      "description": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of planetary motion; not realizing that the measure of an unwasted life is not what outlives it but how it was lived — how much integrity and authenticity and creative vitality filled these numbered days, these unrepeatable hours. Most of us will not leave behind a re",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 29,
       "scoreDetail": {
         "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 30
+        "total": 29
       }
     },
     {
-      "title": "But We Had Music: Nick Cave Reads an Animated Poem about How to Be More Alive",
-      "url": "https://www.themarginalian.org/2026/10/06/but-we-had-music/",
-      "description": "How, knowing that even the universe is dying, do we bear our lives? Most readily, through friendship, through connection, through co-creating the world we want to live in for the brief time we have together on this lonely, perfect planet. The seventh annual Universe in Verse — a many-hearted labor of love, celebrating the wonder of reality through science and poetry — occasioned a joyous collaboration with Australian musician and writer Nick Cave and Brazilian artist and filmmaker Daniel Bruson ",
-      "date": "Wed, 07 Oct 2026",
+      "title": "How to Hold Your Helplessness: Nobel Laureate Bertrand Russell’s Salve for the Anxiety of Overwhelm",
+      "url": "https://www.themarginalian.org/2026/10/15/new-hopes-for-a-changing-world-russell/",
+      "description": "\"A way of life cannot be successful so long as it is a mere intellectual conviction. It must be deeply felt, deeply believed, dominant even in dreams.\"",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 30,
+        "daily": 25,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "A Constellation of Amazements: An Illustrated Love Letter to the Joy of Collecting Things",
-      "url": "https://www.themarginalian.org/2026/10/06/these-are-my-rocks/",
-      "description": "We are hunter-gatherers with a capacity for amazement, wired to search for an organizing principle by which to contain the chaos of reality. We organize what we find into categories and hierarchies, hovering over which is one of the strangest things about being human: preference. How odd to have a strong feeling about a color or an object or a sequence of chords. And yet our preferences are how we sculpt the self from the monolith of the species. Preference taken to its highest form touches amaz",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 28,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 28
+        "total": 25
       }
     },
     {
@@ -148,22 +164,6 @@
       }
     },
     {
-      "title": "Dostoyevsky on What Makes a Good Person",
-      "url": "https://www.themarginalian.org/2026/10/04/dostoyevsy-good-person/",
-      "description": "We know good people when we encounter them, when they fall upon our lives like a sunbeam, like a song. But we don’t always know what makes them good. It has, of course, a lot to do with kindness. It has to do with their capacity to give, and also to receive. It has to do with their courage of uncertainty. And yet like all the great truths, the essence of a person, the goodness of a person, is both clear and ineffable. In the bleak Siberian winter of 1856, Fyodor Dostoyevsky (November 11, 1821–Fe",
-      "date": "Sun, 04 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
       "title": "How Memory Makes Us and Breaks Truth: The Rashomon Effect and the Science of How Memories Form and Falter in the Brain",
       "url": "https://www.themarginalian.org/2026/10/09/rashomon-effect-memory/",
       "description": "\"We are our memory… that chimerical museum of shifting shapes, that pile of broken mirrors.”",
@@ -180,35 +180,51 @@
       }
     },
     {
-      "title": "Why Are We Not Better Than We Are",
-      "url": "https://www.themarginalian.org/2026/10/07/jon-mooallem-serious-face-poetry/",
-      "description": "\"...a stillness in which the germ of what is not yet palpable pauses and gathers to begin one more time.\"",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "How to Criticize with Kindness: Philosopher Daniel Dennett on the Four Steps to Arguing Intelligently",
-      "url": "https://www.themarginalian.org/2026/10/06/daniel-dennett-rapoport-rules-criticism/",
-      "description": "\"Just how charitable are you supposed to be when criticizing the views of an opponent?\"",
-      "date": "Tue, 06 Oct 2026",
+      "title": "Nobel Laureate Doris Lessing on Breaking Free from the Prisons We Choose to Live Inside",
+      "url": "https://www.themarginalian.org/2026/10/13/doris-lessing-massey-lectures/",
+      "description": "This is the history of the world: revolutionaries turning into tyrants, leaders who claim to stand with the masses turning the individuals within them on each other, stirring certainties and self-righteousness to distract from the uncomfortable unknowns, from the great open question of what makes us and keeps us human, and human together. This is also the history of the world: artists — those lighthouses of the spirit — speaking truth to power, placing imagination ahead of ideology, the soul abo",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "An Introvert’s Field Guide to Friendship: Thoreau on the Challenges and Rewards of Candid Connection",
+      "url": "https://www.themarginalian.org/2026/10/14/thoreau-friendship/",
+      "description": "\"We only need to be as true to others as we are to ourselves that there may be ground enough for friendship.\"",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+      "url": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
+      "description": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts take place.\"",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Walt Whitman, Shortly After His Paralytic Stroke, on What Makes Life Worth Living",
-      "url": "https://www.themarginalian.org/2026/10/07/walt-whitman-specimen-days-meaning-of-life/",
-      "description": "\"Tone your wants and tastes low down enough, and make much of negatives, and of mere daylight and the skies.\"",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-11T20:57:04.896905+00:00",
+  "fetchedAt": "2026-10-16T08:40:19.664738+00:00",
   "items": [
     {
       "title": "L'anneau qui vous rend invisible",
@@ -180,6 +180,22 @@
       }
     },
     {
+      "title": "Si tu as aimé ce film, lis ce philosophe",
+      "url": "https://www.youtube.com/shorts/QfoKf8pL4L4",
+      "description": "⬇️ Complétez la liste en commentaire",
+      "date": "2026-10-13",
+      "thumbnail": "https://i2.ytimg.com/vi/QfoKf8pL4L4/hqdefault.jpg",
+      "videoId": "QfoKf8pL4L4",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "10 visions de l'amour",
       "url": "https://www.youtube.com/shorts/9eTW0aoqkwg",
       "description": "Et vous, quelle est votre vision de l'amour ?",
@@ -218,22 +234,6 @@
       "date": "2026-09-18",
       "thumbnail": "https://i4.ytimg.com/vi/7BiLILZNx4g/hqdefault.jpg",
       "videoId": "7BiLILZNx4g",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "10 philosophes du plus optimiste au plus pessimiste",
-      "url": "https://www.youtube.com/shorts/IQ7ZYala-Lw",
-      "description": "Êtes-vous d'accord avec mon classement ?",
-      "date": "2026-09-15",
-      "thumbnail": "https://i2.ytimg.com/vi/IQ7ZYala-Lw/hqdefault.jpg",
-      "videoId": "IQ7ZYala-Lw",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

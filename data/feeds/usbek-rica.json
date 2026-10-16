@@ -1,38 +1,38 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-10-11T20:57:06.022125+00:00",
+  "fetchedAt": "2026-10-16T08:40:21.115218+00:00",
   "items": [
     {
-      "title": "Pierre Rosanvallon : « On doit mettre en place un parlement des générations »",
-      "url": "https://usbeketrica.com/fr/article/comment-en-finir-avec-la-tyrannie-du-present-en-politique-interview-pierre-rosanvallon",
-      "description": "Notre époque est en mal d’avenir. Face à la crise climatique et aux crispations économiques, sociales et géopolitiques, hommes d’État et citoyens semblent avoir renoncé à se projeter. Une victoire du court-termisme que l’historien et sociologue Pierre Rosanvallon dissèque dans son dernier ouvrage, La Tyrannie du présent (Seuil, 2026), nouvel opus de son cycle de réflexion sur la « crise démocratique » que traversent nos sociétés. Entretien.",
-      "date": "Tue, 29 Sep 2026",
+      "title": "Du nudge au boost : comment repenser nos comportements dans les transports ?",
+      "url": "https://usbeketrica.com/fr/article/du-nudge-au-boost-comment-repenser-nos-comportements-dans-les-transports",
+      "description": "Depuis une vingtaine d’années, les « nudges », ces petits coups de pouce qui modifient notre environnement pour orienter nos comportements, se sont imposés comme un outil phare des politiques publiques. De la mouche dans l’urinoir aux escaliers colorés à proximité des escalators, vous en avez forcément croisé.",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 25,
         "phil": 5,
         "flaneur": 4,
-        "novelty": 0,
-        "total": 24
+        "novelty": 5,
+        "total": 39
       }
     },
     {
-      "title": "Faut-il faire une croix sur les cimetières ?",
-      "url": "https://usbeketrica.com/fr/article/faut-il-faire-une-croix-sur-les-cimetieres",
-      "description": "Entre baisse de la fréquentation et manque de place dans les grandes villes, les cimetières français font grise mine. Sans compter qu’ils doivent désormais faire face aux conséquences du dérèglement climatique et aux pollutions qu’ils génèrent. De quoi remettre leur modèle en question... Ce qu'on s'appliquait à faire dans le numéro 47 de notre magazine FUTUR, dont est issu cet article.",
-      "date": "Sun, 27 Sep 2026",
+      "title": "Alexandra Bell, la femme qui veut empêcher l'apocalypse",
+      "url": "https://usbeketrica.com/fr/article/alexandra-bell-la-femme-qui-veut-empecher-l-apocalypse",
+      "description": "Lors de la conférence de révision, en avril 2026, du Traité de non-prolifération, pierre angulaire de l’équilibre nucléaire mondial depuis 1968, Alexandra Bell s’époumonait : il nous reste peu de temps pour infléchir le cours de l’Histoire et restaurer les conditions de notre sécurité. 85 secondes, pour être précis. Comment le sait-elle ? Elle dirige le comité de l’horloge de l’apocalypse, un projet qui calcule chaque année le temps qui subsiste avant la fin du monde. Un outil au croisement des ",
+      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
       }
     },
     {
@@ -52,55 +52,39 @@
       }
     },
     {
-      "title": "300 mots de moins par an : la conversation est en voie de disparition",
-      "url": "https://usbeketrica.com/fr/article/300-mots-de-moins-par-an-la-conversation-est-en-voie-de-disparition",
-      "description": "Pour la première fois, une équipe de recherche aux États-Unis a chiffré l’ampleur du déclin de la conversation en société. Un recul discret, mais colossal sur le long terme, qui interroge moins notre vocabulaire que la reconfiguration permanente de nos sociétés gangrenées - entre autres - par les écrans et la solitude. Enquête.",
-      "date": "Sat, 03 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "3 métiers du futur pour mieux gérer votre argent",
-      "url": "https://usbeketrica.com/fr/article/demain-saurons-nous-gerer-notre-argent",
-      "description": "Money doctor, coach patrimonial de famille ou prospectiviste ès fortune… Ces trois professions qui n’existent pas encore tout à fait sont-elles pertinentes ? Sous quelles conditions ? La réponse avec Audrey Koenig, directrice générale de Natixis Wealth Management, et Benoît Peloille, Chief Investment Officer de la branche.",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Archéologie : l’IA peut-elle vraiment retracer le passé ?",
-      "url": "https://usbeketrica.com/fr/article/archeologie-l-ia-peut-elle-vraiment-retracer-le-passe",
-      "description": "Faire renaître des papyrus antiques de leurs cendres : c’est la promesse faite par l’IA à l’humanité. Si elle semble en voie d’être tenue à Herculanum, bien d’autres intelligences nourries au « deep learning » aident les chercheurs à combler les lacunes du passé. Mais les outils ont beau se multiplier, les incertitudes quant aux résultats fournis, eux, demeurent.",
-      "date": "Fri, 25 Sep 2026",
+      "title": "Mouvement lycéen : offrir un nouveau cadre démocratique à une génération « hyperpolitique »",
+      "url": "https://usbeketrica.com/fr/article/mouvement-lyceen-offrir-un-nouveau-cadre-democratique-a-la-generation-hyperpolitique",
+      "description": "Édito // Le mouvement lycéen qui dure depuis près d'un mois révèle au grand jour une génération bien plus éveillée politiquement qu'on ne veut bien le dire. Des jeunes qui, même si beaucoup d'entre eux sont encore mineurs, méritent qu'on leur offre un cadre démocratique digne de ce nom, estime Blaise Mao, rédacteur en chef d'Usbek & Rica.",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 5,
+        "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "On a vu « The Social Reckoning », la vraie-fausse suite de « The Social Network »",
+      "title": "L'IA va-t-elle faire disparaître les métiers du marketing et de la communication ?",
+      "url": "https://usbeketrica.com/fr/article/l-ia-va-t-elle-faire-disparaitre-les-metiers-du-marketing-et-de-la-communication",
+      "description": "TRIBUNE // Plus l’IA rend la production facile, plus il devient difficile d’émerger. Pour le marketing et la communication, la valeur se déplace, transformant les métiers au passage, assure Julien Féré, Docteur en sciences de l’information et de la communication au CELSA Paris Sorbonne et co-auteur de l'ouvrage collectif Dessous des métiers du marketing et de la communication (éditions Ellipses, 2026).",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "« The Social Reckoning », la vraie-fausse suite de « The Social Network »",
       "url": "https://usbeketrica.com/fr/article/on-a-vu-the-social-reckoning-la-vraie-fausse-suite-de-the-social-network-zuckerberg",
       "description": "Moins un portrait réactualisé de Mark Zuckerberg qu’une chronique journalistique des « Facebook Files », dévoilés en 2021 par le Wall Street Journal et la lanceuse d’alerte Frances Haugen, The Social Reckoning est sorti en salles ce mercredi 7 octobre.",
       "date": "Wed, 07 Oct 2026",
@@ -113,6 +97,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Où est passé le fun ? Au Futur Festival d’Usbek & Rica !",
+      "url": "https://usbeketrica.com/fr/article/ou-est-passe-le-fun-au-futur-festival-d-usbek-rica",
+      "description": "Le Futur Festival, organisé par Usbek & Rica, revient pour une nouvelle édition, les 27 et 28 novembre prochains au Théâtre de la Concorde, à Paris. Deux jours de débats, de rencontres et d’expériences pour répondre à la question suivante « Où est passé le fun ? ».",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "En entreprise, le futur sera senior ou ne sera pas",
+      "url": "https://usbeketrica.com/fr/article/en-entreprise-le-futur-sera-senior-ou-ne-sera-pas",
+      "description": "C’est l’une des thématiques phares du deuxième volume de Recettes Humaines. Les entreprises françaises regorgent de ressources précieuses et qualifiées : leurs employés seniors. Valoriser ces salariés et les mélanger aux autres générations afin qu’ils transmettent leur savoir sera l’un des enjeux cruciaux de la transition démographique, selon Frédérique Jeske, conférencière et experte seniors.",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "À l'expo « Pavillon Playground » à Namur, on joue pour mieux déjouer",
+      "url": "https://usbeketrica.com/fr/article/expo-pavillon-playground-a-namur-jouer-pour-mieux-dejouer-kik-festival",
+      "description": "À Namur, l’exposition Pavillon Playground réunit jusqu’au 25 octobre puis du 6 janvier au 11 avril 2027 une dizaine d’œuvres qui réinventent nos manières de jouer, d’interagir et de faire collectif. À cette occasion, le journaliste et conférencier Adrien Cornelissen, spécialiste de la création en environnement numérique et coordinateur de HACNUMedia, signe cette tribune sur ces expériences collaboratives, contrôleurs alternatifs et dispositifs poétiques qui dessinent un autre rapport au numériqu",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -148,19 +180,19 @@
       }
     },
     {
-      "title": "« On assiste à une repolitisation massive des citoyens depuis 15 ans »",
-      "url": "https://usbeketrica.com/fr/article/on-assiste-a-une-repolitisation-massive-des-citoyens-depuis-15-ans",
-      "description": "Entretien avec l’historien belge Anton Jäger, qui a forgé le concept d’« hyperpolitique » pour décrire notre époque, marquée selon lui par « une politisation généralisée des individus incapable de convertir cette intensité en changements durables ».",
-      "date": "Mon, 05 Oct 2026",
+      "title": "5 œuvres numériques pour résister sous les pixels",
+      "url": "https://usbeketrica.com/fr/article/5-oeuvres-numeriques-pour-resister-sous-les-pixels",
+      "description": "Le festival Octobre Numérique - Faire Monde, dont Usbek & Rica est partenaire, déploie à travers Arles de nombreuses œuvres numériques et vidéoludiques qui invitent à explorer la notion de résistance. On vous présente cinq d’entre elles, à découvrir jusqu'au 8 novembre.",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
@@ -180,19 +212,19 @@
       }
     },
     {
-      "title": "Qui de la Chine ou des États-Unis remportera la course à l’IA ?",
-      "url": "https://usbeketrica.com/fr/article/qui-de-la-chine-ou-des-etats-unis-remportera-la-course-a-l-ia",
-      "description": "Parti vivre en Chine de 2017 à 2023, Dan Wang a tiré de son long séjour une lecture singulière de l’accélérationnisme made in China, de la vision du futur du pays et du modèle américain auquel il se mesure. Une réflexion qu’il développe avec rigueur dans son nouvel essai, La Chine à toute vitesse. Entretien.",
-      "date": "Thu, 01 Oct 2026",
+      "title": "L’IA, dernier « pilier » de la croissance mondiale ?",
+      "url": "https://usbeketrica.com/fr/article/l-ia-dernier-pilier-de-la-croissance-mondiale-prevision-economie-fmi",
+      "description": "Une économie à deux vitesses, avec une inflation galopante d’un côté et des investissements exponentiels dans l’intelligence artificielle de l’autre : tel est le tableau que brosse le Fonds monétaire international (FMI) dans son dernier état des lieux de la croissance mondiale. Un équilibre périlleux, qui ravive les craintes de bulle financière. Décryptage.",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/l-abortomat-le-distributeur-de-pilule-abortive-qui-contourne-la-loi-anti-ivg-en-pologne",
       "description": "A Varsovie, le premier distributeur de pilules abortives a vu le jour au sein du centre d’avortement de la capitale. Baptisé « AbortOmat », il permet de contourner l’une des législations les plus restrictives d’Europe en matière d'interruption volontaire de grossesse (IVG).",
       "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’immobilité est devenue le vrai risque : ayons du culot en entreprise",
-      "url": "https://usbeketrica.com/fr/article/l-immobilite-est-devenue-le-vrai-risque-ayons-du-culot-en-entreprise",
-      "description": "En amont du salon BIG de Bpifrance, qui se tiendra le 8 octobre à l'Accor Arena pour une 12e édition placée sous le signe du culot, Paul-François Fournier, directeur exécutif Innovation de Bpifrance et auteur d'Innovation² (Anne Carrière, 2024), appelle les grands groupes à oser se transformer pour passer à l'échelle les innovations des start-up.",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "On a vu « Digger », la comédie catastrophe la plus attendue de la rentrée",
-      "url": "https://usbeketrica.com/fr/article/on-a-vu-digger-la-comedie-catastrophe-la-plus-attendue-de-la-rentree",
-      "description": "Un Tom Cruise survolté campe Digger Rockwell, dirigeant d’une compagnie pétrolière surpuissante, sur le point de déclencher une catastrophe planétaire. En salles ce mercredi 30 septembre.",
-      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

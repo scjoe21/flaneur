@@ -1,61 +1,13 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-11T20:57:49.330010+00:00",
+  "fetchedAt": "2026-10-16T08:41:04.705233+00:00",
   "items": [
     {
-      "title": "片山真理（アーティスト）：「わたし」を撮り、「わたしたち」を写す",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-mari-katayama/",
-      "description": "食べたものが体をつくって出ていくように、制度やルールもわたしたちの中を通っていく。そう考えるアーティストの片山真理は、セルフポートレートなどの作品を通じて、対立を生まない構造と誰もが共有しうる理解を探り続けている。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "濱口竜介（映画監督）：失敗を重ねた先には、深い快楽が待っている",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-ryusuke-hamaguchi/",
-      "description": "世界的な評価を得てもなお、映画監督の濱口竜介は失敗することを恐れない。先人の試行錯誤に学び、人と場への信頼を育みながら、その先に訪れる「深い快楽」を追い求めて映画を撮り続けている。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "今村久美（認定NPO法人カタリバ代表理事）：子どもも大人も、ルールをつくる側へ",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-kumi-imamura/",
-      "description": "被災地での居場所づくりから不登校支援まで、設立から25年にわたり子どもたちと向き合ってきた認定NPO法人カタリバ代表理事の今村久美。支援する側とされる側を固定せず、誰もが「ルールメイキング」に加われる社会の姿を、彼女はどう描いているのか。「WIRED Innovation Awards 2026」受賞者インタビュー。",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "着せ替え可能な「Beats 360」からARTE TOKYO（東京国際文化芸術祭）まで",
-      "url": "https://wired.jp/article/insider-beats-artetokyo-nozawaonsendistillery-americanexpress-mirror-sksjapan/",
-      "description": "最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
-      "date": "Sun, 11 Oct 2026",
+      "title": "医師は「AI時代に自分たちに残された仕事は？」と自問を始めている",
+      "url": "https://wired.jp/article/sz-ai-has-human-doctors-asking-whats-left-for-us/",
+      "description": "最近のある論文は、AIは医師よりも診療がうまいだけでなく、人間がループに入らない方が正確な診断を下すと主張する。それを喜んでいないのが誰かは、お察しの通りだ。",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,26 +20,10 @@
       }
     },
     {
-      "title": "【11月9日開催】「人と地球の健康」を、リジェネラティブに描き出す：THE REGENERATIVE PLANET SUMMIT",
-      "url": "https://wired.jp/article/the-regenerative-planet-summit-2026/",
-      "description": "人と地球の健康を包括的に考える「プラネタリーヘルス」の視点から、リジェネラティブな惑星とビジネスの未来を描き出す1dayカンファレンス「THE REGENERATIVE PLANET SUMMIT」の開催が決定。",
-      "date": "Sat, 10 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "イノベーションは、もっと身近であっていい：「WIRED Innovation Awards 2026」へ向けた対話",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-dialogue/",
-      "description": "2025年に復活を遂げた「WIRED Innovation Awards」が今年も始動した。6年ぶりに開催された昨年のアワードは、パートナーである積水ハウスに何を残したのか。積水ハウスの常務執行役員 コミュニケーションデザイン部長・足立紀生と『WIRED』日本版編集長の松島倫明が、その成果や今年の展望について語り合った。",
-      "date": "Fri, 09 Oct 2026",
+      "title": "ティム・オライリーはAIを愛している──オープンソースである限りは",
+      "url": "https://wired.jp/article/sz-tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
+      "description": "テックビジョナリーのティム・オライリーは、「大手AIラボは人々のニーズをわかっていない」と指摘する。フロンティアAIによるブレイクスルーが、実際には人々が必要としているものを遠ざけているというのだ。",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +36,42 @@
       }
     },
     {
-      "title": "南極の氷でニュートリノを捉える。ノーベル物理学賞を支えた「アイスキューブ」の技術",
-      "url": "https://wired.jp/article/a-scientist-working-on-the-icecube-neutrino-detector-explains-the-nobel-prize-winning-technology/",
-      "description": "南極の氷を利用した観測所は、捉えることが難しいニュートリノを検出し、宇宙の謎に迫っている。ノーベル物理学賞に決まったフランシス・ハルツェンのチームに所属する研究者が、観測技術と研究の意義を解説する。",
-      "date": "Sun, 11 Oct 2026",
+      "title": "ゾーラン・マムダニが進めるニューヨーク市のシビックテック改革",
+      "url": "https://wired.jp/article/sz-mamdani-assembles-his-nyc-tech-team/",
+      "description": "ニューヨーク市長のマムダニは、かつて合衆国デジタル・サービスで働いていた人材を集め、ソフトウェアを使って市民向けサービスを徹底的に見直すべく奔走している。",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "未来ではなく「過去」に賭ける予測市場が登場",
+      "url": "https://wired.jp/article/a-prediction-market-about-the-past-sure-why-not/",
+      "description": "予測市場の人気が高まるなか、新たな取引プラットフォーム「Verifact Markets」がスタートした。すでに起きた出来事の真偽を取引対象とし、未来を占う従来の仕組みを過去へと広げようとしている。",
+      "date": "Wed, 14 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "テスラの新型「ロードスター」が“飛んだ”",
+      "url": "https://wired.jp/article/tesla-roadster-2-launch/",
+      "description": "テスラが新型高級スポーツカー「ロードスター」をテキサス州で披露した。4基のスラスターを使い、車体を空中に浮かせる実演も行なった。2017年の発表から9年を経て、生産は2028年に開始する予定だ。",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +84,10 @@
       }
     },
     {
-      "title": "ChatGPTに「Intelligent UI」登場──「説明する」より「見せる」チャットボットへ",
-      "url": "https://wired.jp/article/openai-chatgpt-intelligent-ui-is-more-show-than-tell/",
-      "description": "OpenAIがChatGPTに、質問に応じてインタラクティブな回答を生成する「Intelligent UI」を導入した。AIがユーザーごとにUIを変えることで、ソフトウェアデザインのあり方も変わるかもしれない。",
-      "date": "Sun, 11 Oct 2026",
+      "title": "アマゾンの新型Alexaタブレットが示す、スマートフォン再挑戦への道筋",
+      "url": "https://wired.jp/article/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
+      "description": "アマゾンの新型「Alexa Tablet」は、AIアシスタント「Alexa+」を中心に据えた高級路線のタブレット端末だ。そして、その機能と設計からは、開発が噂されるアマゾン製スマートフォンの方向性が見えてくる。",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +100,10 @@
       }
     },
     {
-      "title": "腸の健康とアルツハイマー病の新たな関連性",
-      "url": "https://wired.jp/article/vinculo-entre-las-bacterias-del-intestino-y-el-alzheimer/",
-      "description": "最新研究は、腸内細菌が産生するある代謝物が脳を保護するバリアを弱め、認知症に関連する変性を促進させる可能性があることを発見した。",
-      "date": "Sun, 11 Oct 2026",
+      "title": "肌の生物学的年齢を巻き戻せるか。新たな治療薬の可能性",
+      "url": "https://wired.jp/article/new-anti-aging-drug-trial-for-skin/",
+      "description": "バイオテック企業Rubedo Life Sciencesは、細胞老化を標的とするクリーム状の治療薬を開発している。小規模な臨床試験では、4週間の使用後、参加者の肌の生物学的年齢が平均で約2歳若くなったと推定された。",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +116,10 @@
       }
     },
     {
-      "title": "ロボタクシーはあなたを監視している",
-      "url": "https://wired.jp/article/when-the-robotaxis-are-watching-you/",
-      "description": "ウェイモやZoox、テスラの自律走行タクシーに搭載されたカメラやセンサーは、乗客にも向けられている。安全確保のために集められるデータは、どう使われるのか。プライバシーを守るルールは、まだ十分に整っていない。",
-      "date": "Sat, 10 Oct 2026",
+      "title": "徹底解説：ネパールの“雨なき大洪水”が、甚大な被害を巻き起こしたメカニズム",
+      "url": "https://wired.jp/article/nepal-flash-flood-rock-ice-avalanche-explained/",
+      "description": "ネパールで8月26日に発生した大洪水は、激しい濁流が山間の村々を押し流すなどして多くの犠牲者を出した。雨が降らないなか突如として発生した今回の洪水は、いかにして甚大な被害をもたらしたのか。そのメカニズムを解説する。",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +132,10 @@
       }
     },
     {
-      "title": "暗闇でも飛べる小型ドローン、その秘密は“ヒゲ”にあり",
-      "url": "https://wired.jp/article/whisker-based-tactile-flight-tiny-drones/",
-      "description": "ネズミなどのヒゲを模した軽量な触覚センサーを、オランダの研究チームが開発した。小型ドローンに取り付けることで、ガラスのような透明な壁を避けて飛びながら、視覚に頼ることなく壁に囲まれた部屋の出口も見つけられるという。",
-      "date": "Sat, 10 Oct 2026",
+      "title": "アップル初のスマートディスプレイ「HomeView」は、まるで巨大なApple Watch",
+      "url": "https://wired.jp/article/apple-homeview-smart-display/",
+      "description": "アップル初のスマートディスプレイ「HomeView」が登場した。スマートホーム機器を操作できるほか、ユーザーを識別し、一人ひとりに合わせてアプリや個人のメッセージを表示できる。成功の鍵を握るのはSiri AIの実力だ。",
+      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +148,10 @@
       }
     },
     {
-      "title": "大胆な人工衛星救出ミッションはこうして記録的短時間で実現した",
-      "url": "https://wired.jp/article/sz-a-bold-satellite-rescue-mission-came-together-in-record-time-but-will-it-work/",
-      "description": "老朽化したNASAの観測衛星「スウィフト」の軌道を引き上げる救出ミッションが失敗に終わった。だがこのミッションの実現そのものが、不可能を現実にする異例のものだった。",
-      "date": "Sat, 10 Oct 2026",
+      "title": "アップルはスマートホーム市場で巻き返せるか。Siri AIと新製品で戦略を刷新",
+      "url": "https://wired.jp/article/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
+      "description": "アップルが本格的に取り組むスマートホーム戦略。『WIRED』はその新製品をひと足先に見ることができた。",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +164,10 @@
       }
     },
     {
-      "title": "光で神経細胞を制御するノーベル賞受賞技術、その原点は藻類だった",
-      "url": "https://wired.jp/article/the-science-behind-the-nobel-winning-technology-that-controls-neurons-with-light/",
-      "description": "光遺伝学は、光を使って生きた脳内の個々の神経細胞をオン・オフする技術だ。神経科学を大きく変えたこの分野は、光を素早く感知する単細胞の藻類の研究から生まれた。",
-      "date": "Sat, 10 Oct 2026",
+      "title": "藤井太洋書き下ろし小説『大久保セブン』：エピソード2「マグノリア・ハウス」-4",
+      "url": "https://wired.jp/article/taiyo-fujii-okubo-seven-8/",
+      "description": "腕利きハッカーのセブンと「歌舞伎町防犯協会」を営む大熊は、思わぬ筋から、とあるゲーム開発会社がランサムウェアの被害に遭っている事実を掴む。SF作家・藤井太洋の書き下ろしクライム小説。",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +180,10 @@
       }
     },
     {
-      "title": "“あなた専用のAIエージェント”の座を巡る競争が始まった",
-      "url": "https://wired.jp/article/ai-agents-dots-devday-muse-battling-it-out/",
-      "description": "OpenAIの「Dots」とメタの「Muse」など、一般ユーザー向けのAIエージェントが登場している。実際に使ってみると、その便利さは確かなものだった。いずれ、あなたも使うことになるかもしれない。",
-      "date": "Fri, 09 Oct 2026",
+      "title": "サム・アルトマンが支援のMerge Labsにライバル、超音波BCIの新興企業が始動",
+      "url": "https://wired.jp/article/bridge-neurotech-startup-rival-sam-altman-merge-labs/",
+      "description": "ブレイン・コンピューター・インターフェース（BCI）の開発競争が激化するなか、Bridge Neurotechが参入した。脳に電極を埋め込むことなく、超音波を使って脳活動を読みとるウェアラブルBCIの開発を目指している。",
+      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +196,42 @@
       }
     },
     {
-      "title": "Mac Studio（M5 Ultra）レビュー：最先端クラスのAIモデルをローカルで動かす実力",
-      "url": "https://wired.jp/review/apple-mac-studio-m5-ultra-2026/",
-      "description": "M5 Ultraを搭載したMac Studioは、AI性能が飛躍的に向上した。最先端クラスの大規模言語モデルをローカルで動かせるなど、小型ながら圧倒的な性能を備えている。",
-      "date": "Fri, 09 Oct 2026",
+      "title": "リスクの高いAI研究をあえて“公開”──Trillium Labsが目指す新たな研究のかたち",
+      "url": "https://wired.jp/article/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
+      "description": "最先端のAI研究所の多くが研究を非公開にするなか、Trillium LabsはAIの自己改善や強化学習に関する研究を公開しようとしている。外部からの検証を促すことが、AIのリスク軽減につながると考えている。",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "デジタル先進国エストニアはこうしてAI活用を推し進めている",
+      "url": "https://wired.jp/article/sz-the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
+      "description": "公共サービスの99％でオンライン化が実現しているエストニアでは、行政の自動化が人間を排除しないかたちで進んでいる。",
+      "date": "Mon, 12 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "ヒト胚のゲノム編集は「道義的責務」──バイオテック企業の創業者が主張",
+      "url": "https://wired.jp/article/biotech-founder-cathy-tie-moral-case-gene-editing-human-embryos/",
+      "description": "ヒト胚のゲノム編集は、次世代にも影響が及ぶリスクから多くの国で規制されている。一方、Origin Genomicsの創業者キャシー・タイは、遺伝性疾患の予防に向け、将来の実用化を見据えた研究や規制整備の必要性を訴える。",
+      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

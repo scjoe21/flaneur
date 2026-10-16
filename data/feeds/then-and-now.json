@@ -1,8 +1,40 @@
 {
   "sourceId": "then-and-now",
   "sourceName": "Then & Now",
-  "fetchedAt": "2026-10-11T20:57:25.489922+00:00",
+  "fetchedAt": "2026-10-16T08:40:39.601846+00:00",
   "items": [
+    {
+      "title": "yes, neoliberalism turned a generation anxious...",
+      "url": "https://www.youtube.com/watch?v=PlQaDgbbdQE",
+      "description": "From BURNOUT: The Complete Guide to an Exhausted World\nhttps://www.youtube.com/watch?v=_fV5JF5Hf68",
+      "date": "2026-10-15",
+      "thumbnail": "https://i1.ytimg.com/vi/PlQaDgbbdQE/hqdefault.jpg",
+      "videoId": "PlQaDgbbdQE",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "yes, we work more now than ever...",
+      "url": "https://www.youtube.com/watch?v=ad4YVtZP7dc",
+      "description": "From BURNOUT: The Complete Guide to an Exhausted World\nhttps://youtu.be/_fV5JF5Hf68?si=0yexyTVfAUpvKOpn",
+      "date": "2026-10-12",
+      "thumbnail": "https://i2.ytimg.com/vi/ad4YVtZP7dc/hqdefault.jpg",
+      "videoId": "ad4YVtZP7dc",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
     {
       "title": "The New Age of Remote War",
       "url": "https://www.youtube.com/watch?v=4fs9deveV1g",
@@ -17,22 +49,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Political 'theory' is not static",
-      "url": "https://www.youtube.com/watch?v=PXm8WhodUVI",
-      "description": "",
-      "date": "2026-02-18",
-      "thumbnail": "https://i1.ytimg.com/vi/PXm8WhodUVI/hqdefault.jpg",
-      "videoId": "PXm8WhodUVI",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-02-19",
       "thumbnail": "https://i2.ytimg.com/vi/iHAZQ6Pkb7c/hqdefault.jpg",
       "videoId": "iHAZQ6Pkb7c",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What's Happening When Our Attention is Captured?",
-      "url": "https://www.youtube.com/shorts/l1kNDirtExg",
-      "description": "What's Happening When Our Attention is Captured?",
-      "date": "2026-02-16",
-      "thumbnail": "https://i1.ytimg.com/vi/l1kNDirtExg/hqdefault.jpg",
-      "videoId": "l1kNDirtExg",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

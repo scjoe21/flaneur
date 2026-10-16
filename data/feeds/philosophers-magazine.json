@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophers-magazine",
   "sourceName": "The Philosophers' Magazine (TPM)",
-  "fetchedAt": "2026-10-11T20:57:39.928102+00:00",
+  "fetchedAt": "2026-10-16T08:40:53.579071+00:00",
   "items": [
+    {
+      "title": "Capturing the Gods",
+      "url": "https://philosophersmag.com/capturing-the-gods/",
+      "description": "Joshua Bennett reviews Kwame Anthony Appiah’s study of how thinking about religion shaped early social science. \n The post  Capturing the Gods  first appeared on  The Philosophers' Magazine .",
+      "date": "Thu, 15 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "The Commentator Vanishes",
       "url": "https://philosophersmag.com/the-commentator-vanishes/",
@@ -52,19 +68,19 @@
       }
     },
     {
-      "title": "Hyperintensionality: For or Against? Part II",
-      "url": "https://philosophersmag.com/hyperintensionality-for-or-against-part-ii/",
-      "description": "Kit Fine and Timothy Williamson debate the nature and existence of hyperintensionality (Part II). \n The post  Hyperintensionality: For or Against? Part II  first appeared on  The Philosophers' Magazine .",
-      "date": "Sat, 04 Apr 2026",
+      "title": "Testimony",
+      "url": "https://philosophersmag.com/testimony/",
+      "description": "A tribute to Anand Vaidya: Manjula Menon discusses the significance of extraordinary experiences to three authors of science fiction, Philip K. Dick, Konstantin Tsiolkovsky and Aldous Huxley. \n The post  Testimony  first appeared on  The Philosophers' Magazine .",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://philosophersmag.com/phaedo-2-judgement-day/",
       "description": "Can you blog your way to Elysium? \n The post  Phaedo 2: Judgement Day  first appeared on  The Philosophers' Magazine .",
       "date": "Mon, 15 Jun 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Rise of Epistemic Autocracy",
-      "url": "https://philosophersmag.com/the-rise-of-epistemic-autocracy/",
-      "description": "Miroslav Imbrišević critiques the hypothesis of social kinds which mandate deference from non-members. \n The post  The Rise of Epistemic Autocracy  first appeared on  The Philosophers' Magazine .",
-      "date": "Mon, 08 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
