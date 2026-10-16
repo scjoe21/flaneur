@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-16T18:44:39.117621+00:00",
+  "fetchedAt": "2026-10-16T21:38:38.016685+00:00",
   "items": [
     {
       "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Sleeping Beauties: David Byrne on Why Transformative Ideas Fall Dormant and How They Awaken to Change the World",
-      "url": "https://www.themarginalian.org/2026/10/08/david-byrne-sleeping-beauties/",
-      "description": "Each time you look up at the night sky, you see only ancient signals — by the time a photon has reached your pupil, the star that emitted it may be long dead. The great wonder is that its light can traverse immense expanses of space and time to gladden the darkness of today, to cast wonder upon this lonely planet. An idea is a signal that may travel across immense expanses of space and time before it touches the world. Transformative ideas can and often do fall on the closed eyes of their epoch.",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -116,19 +100,19 @@
       }
     },
     {
-      "title": "How to Remake Yourself When You Are Undone: Lincoln and the Gift of His Suicidal Depression",
-      "url": "https://www.themarginalian.org/2026/10/08/lincoln-melancholy-depression/",
-      "description": "Life-affirming inspiration from a man who knew intimately “that intensity of thought, which will some times wear the sweetest idea thread-bare and turn it to the bitterness of death.”",
-      "date": "Thu, 08 Oct 2026",
+      "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
+      "url": "https://www.themarginalian.org/2026/10/16/dostoyevsky-dream/",
+      "description": "\"And it is so simple... You will instantly find how to live.\"",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 25
+        "total": 24
       }
     },
     {
@@ -212,10 +196,10 @@
       }
     },
     {
-      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
-      "url": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
-      "description": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts take place.\"",
-      "date": "Tue, 13 Oct 2026",
+      "title": "The Other Significant Others: Living and Loving Outside the Confines of Conventional Friendship and Compulsory Coupledom",
+      "url": "https://www.themarginalian.org/2026/10/16/the-other-significant-others/",
+      "description": "\"While we weaken friendships by expecting too little of them, we undermine romantic relationships by expecting too much of them.\"",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -228,16 +212,32 @@
       }
     },
     {
-      "title": "Improvisation and the Quantum of Consciousness",
-      "url": "https://www.themarginalian.org/2026/10/08/improvisation/",
-      "description": "Inside the brain's secret portal to remembering the future.",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Bruce Springsteen on Surviving Depression and His Strategy for Living Through the Visitations of the Darkness",
+      "url": "https://www.themarginalian.org/2026/10/16/bruce-springsteen-depression/",
+      "description": "\"If you can acknowledge it and you can relax with it a little bit, very often it shortens its duration.\"",
+      "date": "Fri, 16 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
+      "url": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
+      "description": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts take place.\"",
+      "date": "Tue, 13 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
