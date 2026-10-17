@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-16T21:38:54.432968+00:00",
+  "fetchedAt": "2026-10-17T18:35:00.016107+00:00",
   "items": [
+    {
+      "title": "ザ・ノース・フェイス、60年の重みと終わらない探求",
+      "url": "https://wired.jp/article/thenorthface-60-neverstopexploringexhibition/",
+      "description": "ザ・ノース・フェイスの「NEVER STOP EXPLORING EXHIBITION」で、名作ギアから自然とのかかわりまでを貫く思想に触れる。",
+      "date": "Sat, 17 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "医師は「AI時代に自分たちに残された仕事は？」と自問を始めている",
       "url": "https://wired.jp/article/sz-ai-has-human-doctors-asking-whats-left-for-us/",
@@ -36,19 +52,35 @@
       }
     },
     {
-      "title": "ゾーラン・マムダニが進めるニューヨーク市のシビックテック改革",
-      "url": "https://wired.jp/article/sz-mamdani-assembles-his-nyc-tech-team/",
-      "description": "ニューヨーク市長のマムダニは、かつて合衆国デジタル・サービスで働いていた人材を集め、ソフトウェアを使って市民向けサービスを徹底的に見直すべく奔走している。",
-      "date": "Tue, 13 Oct 2026",
+      "title": "見ごろを迎えるオリオン座流星群とは？",
+      "url": "https://wired.jp/article/orionid-meteor-shower-halleys-comet-fragments/",
+      "description": "ハレー彗星が残した小さな破片が夜空を流れるオリオン座流星群が、10月22日ごろにピークを迎える。暗い空で観察できる条件が揃えば、1時間あたり5〜10個程度の流れ星が見られるかもしれない。",
+      "date": "Sat, 17 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "テック富裕層が支援する「Praxis」、AGI時代を見据えた都市開発をウルグアイで計画",
+      "url": "https://wired.jp/article/a-community-of-millionaires-plans-to-build-its-first-ai-backed-tech-libertarian-autonomous-nation-in-uruguay/",
+      "description": "「世界初のデジタル国家」を自称するPraxisが、ウルグアイでの都市開発を通じて、独自のコミュニティづくりを進めようとしている。テクノリバタリアンが掲げる構想は、富や権力の集中への懸念も呼んでいる。",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
@@ -65,6 +97,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "メタ、「Muse Wonder」で再びAIの最前線へ",
+      "url": "https://wired.jp/article/muse-wonder-puts-meta-back-at-the-ai-frontier/",
+      "description": "メタが新AIモデル「Muse Wonder」と「Muse Wonder Full」を発表した。かつて「Llama」シリーズでAI開発を先導したメタは、高い性能と安全性を追求した新モデルで、再びAI開発の最前線を目指す。",
+      "date": "Sat, 17 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "病気の原因が謎？ 「メタゲノム解析」を試してみるといい",
+      "url": "https://wired.jp/article/sz-stumped-by-a-medical-mystery-try-metagenomics/",
+      "description": "医師には思いもよらない病因を提示し、体内に潜むウイルス・細菌・真菌の遺伝子のかけらを探し出すメタゲノム解析が、迅速な診断と病気特定のための選択肢となっている。",
+      "date": "Fri, 16 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -168,70 +232,6 @@
       "url": "https://wired.jp/article/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
       "description": "アップルが本格的に取り組むスマートホーム戦略。『WIRED』はその新製品をひと足先に見ることができた。",
       "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "藤井太洋書き下ろし小説『大久保セブン』：エピソード2「マグノリア・ハウス」-4",
-      "url": "https://wired.jp/article/taiyo-fujii-okubo-seven-8/",
-      "description": "腕利きハッカーのセブンと「歌舞伎町防犯協会」を営む大熊は、思わぬ筋から、とあるゲーム開発会社がランサムウェアの被害に遭っている事実を掴む。SF作家・藤井太洋の書き下ろしクライム小説。",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "サム・アルトマンが支援のMerge Labsにライバル、超音波BCIの新興企業が始動",
-      "url": "https://wired.jp/article/bridge-neurotech-startup-rival-sam-altman-merge-labs/",
-      "description": "ブレイン・コンピューター・インターフェース（BCI）の開発競争が激化するなか、Bridge Neurotechが参入した。脳に電極を埋め込むことなく、超音波を使って脳活動を読みとるウェアラブルBCIの開発を目指している。",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "リスクの高いAI研究をあえて“公開”──Trillium Labsが目指す新たな研究のかたち",
-      "url": "https://wired.jp/article/trillium-labs-wants-to-do-high-risk-ai-research-in-the-open/",
-      "description": "最先端のAI研究所の多くが研究を非公開にするなか、Trillium LabsはAIの自己改善や強化学習に関する研究を公開しようとしている。外部からの検証を促すことが、AIのリスク軽減につながると考えている。",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "デジタル先進国エストニアはこうしてAI活用を推し進めている",
-      "url": "https://wired.jp/article/sz-the-28-million-dollar-mistake-that-inspired-estonias-ai-fuckup-finder/",
-      "description": "公共サービスの99％でオンライン化が実現しているエストニアでは、行政の自動化が人間を排除しないかたちで進んでいる。",
-      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-16T21:38:43.542836+00:00",
+  "fetchedAt": "2026-10-17T18:34:46.652677+00:00",
   "items": [
     {
       "title": "Die Wechseljahre – Welche Therapien möglich und nötig sind (1/2)",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Aufmerksamkeit lernen – Wie wir uns besser konzentrieren können",
+      "url": "https://www.swr.de/swrkultur/wissen/aufmerksamkeit-lernen-wie-wir-uns-besser-konzentrieren-koennen-100.html",
+      "description": "Smartphone, Social Media und Benachrichtigungen konkurrieren permanent um unsere Aufmerksamkeit. Doch verkümmert dadurch unsere Konzentrationsfähigkeit?",
+      "date": "Sun, 18 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Václav Havel – Vom Bürgerrechtler zum tschechischen Präsidenten",
-      "url": "https://www.swr.de/swrkultur/wissen/vaclav-havel-vom-buergerrechtler-zum-tschechischen-praesidenten-100.html",
-      "description": "Freiheit, Ehrlichkeit, Mut: Erst landete Václav Havel dafür im Gefängnis, dann wurde er Präsident Tschechiens. Aus Furcht vor Russland führte er sein Land in EU und NATO.",
-      "date": "Sat, 3 Oct 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

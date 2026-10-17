@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-16T21:38:47.455440+00:00",
+  "fetchedAt": "2026-10-17T18:34:51.182089+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 35
+      }
+    },
+    {
+      "title": "Reconceptualising Causality | Avshalom Elitzur",
+      "url": "https://www.youtube.com/watch?v=l8oJ878kJ64",
+      "description": "Avshalom Elitzur discusses quantum mechanics and the nature of reality.\n\nDo you think that cause can come before effect?\n\nWatch more content like this now at https://iai.tv/video/quantum-measurement-influences-the-past-with-avshalom-elitzur?utm_source=YouTube&utm_medium=description\n\nWe think that the future follows the past; causes preceed effects. But theoretical physicist Avshalom Elitzur argues that quantum physics alters our conception of time and causation: a measurement done in the present",
+      "date": "2026-10-17",
+      "thumbnail": "https://i1.ytimg.com/vi/l8oJ878kJ64/hqdefault.jpg",
+      "videoId": "l8oJ878kJ64",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-09-30",
       "thumbnail": "https://i1.ytimg.com/vi/Tp3hjs8wzZ8/hqdefault.jpg",
       "videoId": "Tp3hjs8wzZ8",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Fundamental Being | Jessica Frazier",
-      "url": "https://www.youtube.com/shorts/wJsR5OnjobA",
-      "description": "",
-      "date": "2026-09-27",
-      "thumbnail": "https://i4.ytimg.com/vi/wJsR5OnjobA/hqdefault.jpg",
-      "videoId": "wJsR5OnjobA",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

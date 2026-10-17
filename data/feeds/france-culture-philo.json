@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-16T21:38:18.942967+00:00",
+  "fetchedAt": "2026-10-17T18:34:09.889674+00:00",
   "items": [
     {
       "title": "Pourquoi l'humaniste est-il politique ?",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "\"Phèdre\" de Platon : bien parler d'amour, bien parler tout court... 1 : Comment élever son âme ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/comment-elever-son-ame-3847221",
-      "description": "durée : 00:58:08  - Avec philosophie - par : Géraldine Mosna-Savoye - Voyage halluciné dans le cosmos à bord d'un attelage tiré par deux chevaux - dont l'un, mal luné -, en compagnie de Platon et tout un tas d'âmes emplumées. Direction ? Vers le ciel des Idées et au-delà.  - équipe : Frédéric Worms, Nicolas Berger, Phane Montet, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Anne Merker Professeure de philosophie spécialisée en histoire de ",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 25
+      }
+    },
+    {
+      "title": "Thomas Hobbes au pouvoir : l'homme est-il un loup pour l'homme ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/thomas-hobbes-au-pouvoir-l-homme-est-il-un-loup-pour-l-homme-4447910",
+      "description": "durée : 01:00:02  - Avec philosophie - par : Laurence Devillairs - Marqué par les conflits de son époque, Thomas Hobbes ferait de la sécurité et de la paix civile ses priorités. Renforcer l’autorité de l’État, garantir l’application des lois, prévenir les violences : jusqu’où irait-il pour protéger les citoyens, et quelle place laisserait-il à leurs libertés ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Luc Foisneau Directeur de recherche au CNRS en philosophie politique, Laurenc",
+      "date": "Sat, 17 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
