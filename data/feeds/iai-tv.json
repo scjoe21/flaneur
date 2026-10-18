@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-17T18:34:51.182089+00:00",
+  "fetchedAt": "2026-10-18T19:25:12.922484+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -32,22 +32,6 @@
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Understanding the development of consciousness | Eva Jablonka",
-      "url": "https://www.youtube.com/watch?v=UXxHg7JWRcs",
-      "description": "Eva Jablonka discusses evolution and epigenetics.\n\nIs there more to evolution than genetics?\n\nMany view the questions of consciousness as fundamentally unanswerable. But evolutionary biologist Eva Jablonka argues that by studying the evolutionary origins of consciousness, we can better understand its nature and work out what we should and shouldn't attribute consciousness to. Jablonka argues that a certain type of learning actually constitutes consciousness and satisfies all the conditions that ",
-      "date": "2026-09-29",
-      "thumbnail": "https://i2.ytimg.com/vi/UXxHg7JWRcs/hqdefault.jpg",
-      "videoId": "UXxHg7JWRcs",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 10,
         "total": 35
       }
     },
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Monkeys can't type 'bananas' | Denis Noble",
+      "url": "https://www.youtube.com/shorts/M-R_hjHFN0M",
+      "description": "",
+      "date": "2026-10-18",
+      "thumbnail": "https://i2.ytimg.com/vi/M-R_hjHFN0M/hqdefault.jpg",
+      "videoId": "M-R_hjHFN0M",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

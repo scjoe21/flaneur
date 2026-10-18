@@ -1,22 +1,22 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-10-17T18:34:42.638022+00:00",
+  "fetchedAt": "2026-10-18T19:25:04.415995+00:00",
   "items": [
     {
-      "title": "Verkehrswende - Der Kampf ums Auto – Freiheit, Klima und die Zukunft der Städte",
-      "url": "https://www.deutschlandfunk.de/der-kampf-ums-auto-freiheit-klima-und-die-zukunft-der-staedte-100.html",
-      "description": "Kaum ein Gebrauchsobjekt spaltet die Gesellschaft so wie das Auto: Für die einen ist es ein ökologisches Problem, das Straßen verstopft und Atemluft verschmutzt. Für die anderen ein notwendiges Transportmittel und Ausdruck individueller Freiheit. Von Niklas Maak www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 12 Jul 2026",
+      "title": "Wie das Leistungsprinzip den Sozialstaat zu verändern droht",
+      "url": "https://www.deutschlandfunk.de/recht-der-staerkeren-leistungsprinzip-sozialstaat-kuerzungen-de-gregorio-100.html",
+      "description": "Der Sozialstaat steht unter Druck: Kürzungen bei Gesundheit, Pflege und Inklusion folgen einer alten Logik – der Macht des Stärkeren. Woher kommt dieses Denken, und welche Gesellschaft entsteht, wenn Leistungsfähigkeit über Teilhabe entscheidet? Von Lea De Gregorio www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 18 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 44,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
-        "flaneur": 4,
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 44
+        "total": 25
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-17T18:34:46.652677+00:00",
+  "fetchedAt": "2026-10-18T19:25:08.208016+00:00",
   "items": [
     {
       "title": "Die Wechseljahre – Welche Therapien möglich und nötig sind (1/2)",
@@ -180,6 +180,22 @@
       }
     },
     {
+      "title": "Raus aus dem Extremismus – Strategien für Rechte und Islamisten",
+      "url": "https://www.swr.de/swrkultur/wissen/raus-aus-dem-extremismus-strategien-fuer-rechte-und-islamisten-100.html",
+      "description": "Die politisch motivierte Kriminalität in Deutschland wächst. Dagegen hilft auch, Extremisten einen Ausstieg aus ihrer Szene zu ermöglichen. Doch das ist aufwendig und der Erfolg vieler Ausstiegsprogramme ungewiss.",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Wenn Chatbots die Karriere mitbestimmen – KI in der Personalauswahl",
       "url": "https://www.swr.de/swrkultur/wissen/wenn-chatbots-die-karriere-mitbestimmen-ki-in-der-personalauswahl-100.html",
       "description": "Durch KI hoffen Personalabteilungen, Bewerber objektiver und effizienter beurteilen zu können. Dafür muss die KI aber perfekt trainiert sein. Auch Bewerberinnen nutzen KI.",
@@ -216,22 +232,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/organisierte-kriminalitaet-in-europa-13-die-kriminellen-100.html",
       "description": "In 731 Netzwerken der organisierten Kriminalität sind mindestens 400.000 Mitglieder tätig. Sie gelten als besonders brutal und skrupellos. Viele sind drogenabhängig und paranoid. Bosse sind oft manipulativ und gefühlskalt.",
       "date": "Wed, 7 Oct 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Menschenkenntnis – Kann man sie lernen?",
-      "url": "https://www.swr.de/swrkultur/wissen/menschenkenntnis-kann-man-sie-lernen-100.html",
-      "description": "Studien zeigen, dass wir unsere Menschenkenntnis oft überschätzen. Der viel beschworene \"erste Eindruck\", auf den wir so viel geben, kann ziemlich täuschen.",
-      "date": "Sun, 4 Oct 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

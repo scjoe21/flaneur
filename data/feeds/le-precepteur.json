@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-17T18:34:08.867817+00:00",
+  "fetchedAt": "2026-10-18T19:24:34.712921+00:00",
   "items": [
     {
       "title": "L'anneau qui vous rend invisible",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 45
+      }
+    },
+    {
+      "title": "Le mérite n'existe pas",
+      "url": "https://www.youtube.com/shorts/6DfUkQGWzKU",
+      "description": "Au XXIe siècle, le philosophe américain Michael Sandel remet en question l'un des grands idéaux de nos sociétés : la méritocratie. Dans cette vidéo, je vous explique pourquoi, selon lui, notre réussite ne dépend pas uniquement de nos efforts, mais aussi de circonstances que nous ne maîtrisons pas. Et comment cette illusion du mérite peut transformer la réussite en orgueil et l'échec en humiliation.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #michaelsandel #méri",
+      "date": "2026-10-18",
+      "thumbnail": "https://i3.ytimg.com/vi/6DfUkQGWzKU/hqdefault.jpg",
+      "videoId": "6DfUkQGWzKU",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "3 cas terrifiants où l'IA a désobéi",
-      "url": "https://www.youtube.com/shorts/ZFFqAhVqKic",
-      "description": "Et si l'IA était capable de faire des choses qu'elle n'est pas censée pouvoir faire ?... Mentir, faire du chantage, laisser mourir quelqu'un : ça vous paraît impossible ? Et pourtant...\n \n➡️ L'IA qui a menti : https://www.axios.com/2024/12/13/ai-reasoning-models-scheme-skills\n \n➡️ L'IA qui a fait du chantage : https://fortune.com/2025/06/23/ai-models-blackmail-existence-goals-threatened-anthropic-openai-xai-google\n \n➡️ L'IA qui a laissé mourir quelqu'un : https://www.anthropic.com/research/agent",
-      "date": "2026-09-16",
-      "thumbnail": "https://i3.ytimg.com/vi/ZFFqAhVqKic/hqdefault.jpg",
-      "videoId": "ZFFqAhVqKic",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

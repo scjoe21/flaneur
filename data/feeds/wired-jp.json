@@ -1,8 +1,40 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-17T18:35:00.016107+00:00",
+  "fetchedAt": "2026-10-18T19:25:21.913758+00:00",
   "items": [
+    {
+      "title": "iPhone DuoとAIの融合から、“ポストスマートフォン”のかたちが見えてきた",
+      "url": "https://wired.jp/article/iphone-duo-ai-post-smartphone/",
+      "description": "「AIの時代に乗り遅れた」と言われてきたアップル。しかし、9月9日（西海岸時間）に発表されたiPhone Duoをはじめとする製品群は、アプリを操作することさえ意識しなくて済む新たな時代の到来を予感させる。",
+      "date": "Sun, 18 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "スーパー・エルニーニョと温暖化が重なると、何が起きるのか？",
+      "url": "https://wired.jp/article/super-el-nino-climate-change-connections/",
+      "description": "観測史上最強となる可能性がある今年のエルニーニョ。気候変動とどう影響し合い、温暖化した世界に何をもたらすのか。科学者たちが、その答えを追っている。",
+      "date": "Sun, 18 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "ザ・ノース・フェイス、60年の重みと終わらない探求",
       "url": "https://wired.jp/article/thenorthface-60-neverstopexploringexhibition/",
@@ -24,22 +56,6 @@
       "url": "https://wired.jp/article/sz-ai-has-human-doctors-asking-whats-left-for-us/",
       "description": "最近のある論文は、AIは医師よりも診療がうまいだけでなく、人間がループに入らない方が正確な診断を下すと主張する。それを喜んでいないのが誰かは、お察しの通りだ。",
       "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "ティム・オライリーはAIを愛している──オープンソースである限りは",
-      "url": "https://wired.jp/article/sz-tech-visionary-says-the-big-ai-labs-dont-get-what-people-want/",
-      "description": "テックビジョナリーのティム・オライリーは、「大手AIラボは人々のニーズをわかっていない」と指摘する。フロンティアAIによるブレイクスルーが、実際には人々が必要としているものを遠ざけているというのだ。",
-      "date": "Wed, 14 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,19 +100,51 @@
       }
     },
     {
-      "title": "未来ではなく「過去」に賭ける予測市場が登場",
-      "url": "https://wired.jp/article/a-prediction-market-about-the-past-sure-why-not/",
-      "description": "予測市場の人気が高まるなか、新たな取引プラットフォーム「Verifact Markets」がスタートした。すでに起きた出来事の真偽を取引対象とし、未来を占う従来の仕組みを過去へと広げようとしている。",
-      "date": "Wed, 14 Oct 2026",
+      "title": "アマゾンの新しい「Kindle」シリーズは、軽く、薄く、よりメタリックに",
+      "url": "https://wired.jp/article/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
+      "description": "来年、発売20周年を迎えるKindleが、ひと足早く大幅な刷新を遂げた。アルミニウム製の新モデルや大胆な新色が登場し、より薄く、軽くなった電子書籍リーダーは、読書体験をどう変えるのか。",
+      "date": "Sun, 18 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "「太陽光を遮る」机上演習。その結末は想像以上に深刻だった",
+      "url": "https://wired.jp/article/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
+      "description": "地球を冷やすソーラージオエンジニアリングを巡り、科学者や軍関係者らが国際交渉を模擬した。そこで浮かび上がったのは、科学より国益と疑念が優先され、協調が崩れていくという地政学的リスクだった。",
+      "date": "Sat, 17 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "ルッキズムと闘うために何をすべきか？",
+      "url": "https://wired.jp/article/sz-should-we-do-more-to-fight-lookism/",
+      "description": "ドラマ『ダウンタイム』でも話題になったルッキズム。容姿や外見で人を判断し差別する風潮は、世界に広く浸透し、かつ黙認されている。わたしたちは美醜について、正面から語り合うべきなのだろうか？",
+      "date": "Sat, 17 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/new-anti-aging-drug-trial-for-skin/",
       "description": "バイオテック企業Rubedo Life Sciencesは、細胞老化を標的とするクリーム状の治療薬を開発している。小規模な臨床試験では、4週間の使用後、参加者の肌の生物学的年齢が平均で約2歳若くなったと推定された。",
       "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "徹底解説：ネパールの“雨なき大洪水”が、甚大な被害を巻き起こしたメカニズム",
-      "url": "https://wired.jp/article/nepal-flash-flood-rock-ice-avalanche-explained/",
-      "description": "ネパールで8月26日に発生した大洪水は、激しい濁流が山間の村々を押し流すなどして多くの犠牲者を出した。雨が降らないなか突如として発生した今回の洪水は、いかにして甚大な被害をもたらしたのか。そのメカニズムを解説する。",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "アップル初のスマートディスプレイ「HomeView」は、まるで巨大なApple Watch",
-      "url": "https://wired.jp/article/apple-homeview-smart-display/",
-      "description": "アップル初のスマートディスプレイ「HomeView」が登場した。スマートホーム機器を操作できるほか、ユーザーを識別し、一人ひとりに合わせてアプリや個人のメッセージを表示できる。成功の鍵を握るのはSiri AIの実力だ。",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "アップルはスマートホーム市場で巻き返せるか。Siri AIと新製品で戦略を刷新",
-      "url": "https://wired.jp/article/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/",
-      "description": "アップルが本格的に取り組むスマートホーム戦略。『WIRED』はその新製品をひと足先に見ることができた。",
-      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

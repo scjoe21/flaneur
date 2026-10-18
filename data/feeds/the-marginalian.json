@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-17T18:34:35.661871+00:00",
+  "fetchedAt": "2026-10-18T19:24:59.931008+00:00",
   "items": [
     {
       "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
@@ -20,34 +20,50 @@
       }
     },
     {
-      "title": "James Baldwin on How Love (Finally) Finds You",
-      "url": "https://www.themarginalian.org/2026/10/11/baldwin-love/",
-      "description": "Our language betrays our self-betrayals: We speak of finding love, as if it were an undiscovered eighth continent or a habitable world in another solar system, as if it got lost like the Little Red Riding Hood or the names of the women who painted the caves. Like the paradoxical notion of finding yourself, the notion of finding love pulsates with equal parts helplessness and hubris — a rueful recognition that something is missing from your life and a belief that it falls on you to do the looking",
-      "date": "Sun, 11 Oct 2026",
+      "title": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
+      "url": "https://www.themarginalian.org/2026/10/18/refiguring/",
+      "description": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, the person who had your best idea, the person who made your worst mistake, the person who over and over mistook fear for love, the person who thought orange was a good idea. Somehow, you have to grow arms long enough to wrap them around all those people and a heart wide enough to ",
+      "date": "Sun, 18 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 33,
+      "priority": 34,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 5,
-        "total": 33
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
       }
     },
     {
-      "title": "Hermann Hesse on How to Read a Book and How to Read Yourself",
-      "url": "https://www.themarginalian.org/2026/10/12/hermann-hesse-books-poem/",
-      "description": "Books show us what it is like to be another and at the same time return us to ourselves. We read to learn how to live — how to love and how to suffer, how to grieve and how to be glad. We read to clarify ourselves and to anneal our values. We read for the assurance that others have lived through what we are living through. “You think your pain and your heartbreak are unprecedented in the history of the world, but then you read,” James Baldwin reflected in his most personal interview. And yet whi",
-      "date": "Tue, 13 Oct 2026",
+      "title": "Bloom: A Touching Animated Short Film about Depression and What It Takes to Recover the Light of Being",
+      "url": "https://www.themarginalian.org/2026/10/17/bloom-depression/",
+      "description": "How the warm rays of hope and healing enter the dark inner chamber of leaden loneliness through the unexpected cracks of kindness.",
+      "date": "Sat, 17 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
+      }
+    },
+    {
+      "title": "How to Unself in Order to Be Who You Really Are",
+      "url": "https://www.themarginalian.org/2026/10/18/iris-murdoch-unselfing/",
+      "description": "\"The self, the place where we live, is a place of illusion. Goodness is connected with the attempt to see the unself... to pierce the veil of selfish consciousness and join the world as it really is.\"",
+      "date": "Sun, 18 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 30
       }
     },
@@ -84,42 +100,10 @@
       }
     },
     {
-      "title": "Elizabeth Gilbert on Love, Loss, and How to Move Through Grief as Grief Moves Through You",
-      "url": "https://www.themarginalian.org/2026/10/10/elizabeth-gilbert-ted-podcast-love-loss/",
-      "description": "\"Grief is a force of energy that cannot be controlled or predicted. It comes and goes on its own schedule. Grief does not obey your plans, or your wishes. Grief will do whatever it wants to you, whenever it wants to. In that regard, Grief has a lot in common with Love.\"",
-      "date": "Sun, 11 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
       "url": "https://www.themarginalian.org/2026/10/16/dostoyevsky-dream/",
       "description": "\"And it is so simple... You will instantly find how to live.\"",
       "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
-      "title": "The Madman Who Saved Mothers: The Invention of Handwashing and the Bittersweet True Love Story Behind ‘Frankenstein’",
-      "url": "https://www.themarginalian.org/2026/10/11/wollstonecraft-godwin-semmelweis/",
-      "description": "This essay is adapted from Traversal. “Death may snatch me from you, before you can weigh my advice,” Mary Wollstonecraft wrote in the philosophical novel she wouldn’t live to finish, addressing a daughter she was yet to have. “Always appear what you are, and you will not pass through existence without enjoying its genuine blessings, love and respect.” In late 1791, as important men were sitting down in America to make ten amendments to the young country’s constitution, which they called a Unive",
-      "date": "Sun, 11 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 24,
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Celebrating 20 Years of The Marginalian and the Search for Meaning: Free Livestream This Friday",
+      "url": "https://www.themarginalian.org/2026/10/18/20/",
+      "description": "At the dawn of my twenties, lonely, destitute, and disoriented by the demands of making a new life in an alien world, I started keeping notes on my search for meaning while working four jobs to pay my way through college. On October 23, 2006, I began sharing my discoveries — passages from books, links to neuroscience studies, reproductions of 16th-century Japanese woodcuts — in an office email to seven colleagues. They in turn began sharing it with friends, who began sharing it with friends. The",
+      "date": "Sun, 18 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
       }
     },
     {
