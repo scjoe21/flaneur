@@ -1,8 +1,24 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-10-23T19:04:48.206738+00:00",
+  "fetchedAt": "2026-10-23T21:37:19.734154+00:00",
   "items": [
+    {
+      "title": "How Multiple Births Can Accelerate A Mother’s Biological Age",
+      "url": "https://nautil.us/how-multiple-births-can-accelerate-a-mothers-biological-age-1286063/",
+      "description": "As any mom can tell you, having a baby takes a big toll. Growing an entire new human being inside your body demands a lot of resources, energy, and time and it can lead to dramatic physiological changes. There’s some evidence that child-bearing  benefits longevity , but pregnancy can  accelerate biological aging  as well. Now, a new  review  is trying to resolve this tension in the literature.    \n Two geneticists from Harvard Medical School surveyed data gathered from studies that measured the ",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2671078591.jpg?w=564",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "A New Fossil Hints at the Surprising Origins of Snakes",
       "url": "https://nautil.us/a-new-fossil-hints-at-the-surprising-origins-of-snakes-1286024/",
@@ -16,22 +32,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 5,
-        "total": 15
-      }
-    },
-    {
-      "title": "How Crocodiles Survived the Asteroid That Killed the Dinosaurs",
-      "url": "https://nautil.us/how-crocodiles-survived-the-asteroid-that-killed-the-dinosaurs-1286003/",
-      "description": "They knew the most important rule in real estate \n The post  How Crocodiles Survived the Asteroid That Killed the Dinosaurs  appeared first on  Nautilus .",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Crocodilian-surviving-dinosaur-extinction-by-Davide-Bonadonna.jpg?w=564",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 15
       }
     },
