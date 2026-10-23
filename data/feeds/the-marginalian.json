@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-23T09:00:11.404020+00:00",
+  "fetchedAt": "2026-10-23T19:04:37.025309+00:00",
   "items": [
     {
       "title": "20 Truths about Life from 20 Years of The Marginalian: A Ceramics and Lichen Raffle",
@@ -148,6 +148,22 @@
       }
     },
     {
+      "title": "How to Be Transformed When Things Fall Apart",
+      "url": "https://www.themarginalian.org/2026/10/23/when-things-fall-apart-pema-chodron/",
+      "description": "\"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us.\"",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "How to Stop Waiting and Start Living: A Jolt from Henry James",
       "url": "https://www.themarginalian.org/2026/10/20/henry-james-the-beast-in-the-jungle/",
       "description": "\"It wouldn't have been failure to be bankrupt, dishonoured, pilloried, hanged; it was failure not to be anything.\"",
@@ -161,22 +177,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "Celebrating 20 Years of The Marginalian and the Search for Meaning: Free Livestream This Friday",
-      "url": "https://www.themarginalian.org/2026/10/18/20/",
-      "description": "At the dawn of my twenties, lonely, destitute, and disoriented by the demands of making a new life in an alien world, I started keeping notes on my search for meaning while working four jobs to pay my way through college. On October 23, 2006, I began sharing my discoveries — passages from books, links to neuroscience studies, reproductions of 16th-century Japanese woodcuts — in an office email to seven colleagues. They in turn began sharing it with friends, who began sharing it with friends. The",
-      "date": "Sun, 18 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
       }
     },
     {

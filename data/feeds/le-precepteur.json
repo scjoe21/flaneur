@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-23T08:59:39.611660+00:00",
+  "fetchedAt": "2026-10-23T19:04:11.113876+00:00",
   "items": [
     {
       "title": "L'anneau qui vous rend invisible",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "Les réseaux sociaux sont votre prison",
-      "url": "https://www.youtube.com/shorts/2RiooPdHTq8",
-      "description": "Au XXe siècle, Michel Foucault développe une idée troublante : la surveillance la plus efficace n’est pas celle qui nous observe en permanence, mais celle qui nous pousse à nous surveiller nous-mêmes. Dans cette vidéo, je vous explique pourquoi, selon lui, le pouvoir fonctionne d’autant mieux qu’il entre dans nos esprits et pourquoi les réseaux sociaux peuvent nous transformer en nos propres gardiens.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #foucault #panopt",
-      "date": "2026-09-20",
-      "thumbnail": "https://i3.ytimg.com/vi/2RiooPdHTq8/hqdefault.jpg",
-      "videoId": "2RiooPdHTq8",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
-      }
-    },
-    {
       "title": "Affaire Thélyson Orélien : un roman écrit par une IA ?",
       "url": "https://www.youtube.com/shorts/JPsRcxqRTh4",
       "description": "Un écrivain est soupçonné d'avoir utilisé une IA pour écrire son dernier roman. Cette affaire soulève plusieurs questions : un livre généré par IA mérite-t-il un prix littéraire ? Pourquoi personne n'a rien vu ? Et qu'en est-il du fossé entre écrivains et IA ?",
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "HPI, TDAH, AUTISME... Quand les réseaux sociaux nous diagnostiquent",
+      "url": "https://www.youtube.com/watch?v=hjf5i4ydx9w",
+      "description": "-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx (lien rému",
+      "date": "2026-10-23",
+      "thumbnail": "https://i1.ytimg.com/vi/hjf5i4ydx9w/hqdefault.jpg",
+      "videoId": "hjf5i4ydx9w",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

@@ -1,293 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W18",
-      "tags": [
-        "디지털 소비",
-        "가짜 지혜",
-        "스토아철학",
-        "자기기만",
-        "선택의 윤리",
-        "실존주의",
-        "사법 정의",
-        "진실의 정치",
-        "공공성",
-        "자기사랑",
-        "아리스토텔레스",
-        "자기계발",
-        "신체의 자유",
-        "보부아르",
-        "이란 여성운동",
-        "중년의 욕망",
-        "푸코",
-        "섹슈얼리티",
-        "허무주의",
-        "예측시장",
-        "미래",
-        "장인정신",
-        "소외",
-        "손노동",
-        "몸",
-        "미디어",
-        "현존",
-        "위선",
-        "도덕감정",
-        "생태학",
-        "두려움",
-        "자연윤리",
-        "독서",
-        "문학",
-        "진리탐색",
-        "창작",
-        "질투",
-        "글쓰기",
-        "종교",
-        "기술",
-        "탈주술화",
-        "도덕",
-        "진정성",
-        "소셜미디어"
-      ],
-      "articles": [
-        {
-          "title": "유튜브가 파는 '가짜 스토아 철학'",
-          "summary": "클릭 한 번으로 얻은 지혜, 그것은 정말 지혜인가?",
-          "philosopher": "소크라테스 (Socrates)",
-          "philosophers": [
-            "소크라테스 (Socrates)",
-            "에픽테토스 (Epictetus)",
-            "플라톤 (Plato)",
-            "세네카 (Seneca)",
-            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
-          ],
-          "tags": [
-            "디지털 소비",
-            "가짜 지혜",
-            "스토아철학"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=rJE2qkP0Gk4",
-          "originalTitle": "La sagesse selon YouTube : plongée dans un océan de contenu généré par IA"
-        },
-        {
-          "title": "빨간 약이냐 파란 약이냐, 그 선택의 철학",
-          "summary": "매트릭스의 그 장면이 우리 일상 깊숙이 들어와 있다면?",
-          "philosopher": "사르트르 (Jean-Paul Sartre)",
-          "philosophers": [
-            "사르트르 (Jean-Paul Sartre)",
-            "볼테르 (Voltaire)"
-          ],
-          "tags": [
-            "자기기만",
-            "선택의 윤리",
-            "실존주의"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=lo7iJnq_U9M",
-          "originalTitle": "Pourquoi cette histoire de pilules nous rend fou"
-        },
-        {
-          "title": "진실 없는 재판, 정의는 가능한가",
-          "summary": "유죄 협상으로 빠르게 닫히는 법정, 그 속에서 진실은 어디로 가는가?",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "사법 정의",
-            "진실의 정치",
-            "공공성"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/avec-le-plaider-coupable-la-justice-se-detourne-de-la-recherche-de-la-verite-entretien",
-          "originalTitle": "“Avec le plaider-coupable, la justice se détourne de la recherche de la vérité” : entretien avec le magistrat Denis Salas"
-        },
-        {
-          "title": "자기 자신을 사랑한다는 것의 의미",
-          "summary": "거울 앞에서 나를 바라볼 때, 그것은 사랑인가 자기기만인가?",
-          "philosopher": "아리스토텔레스 (Aristotle)",
-          "philosophers": [
-            "아리스토텔레스 (Aristotle)"
-          ],
-          "tags": [
-            "자기사랑",
-            "아리스토텔레스",
-            "자기계발"
-          ],
-          "sourceUrl": "https://www.hoheluft-magazin.de/2022/11/wie-schoen-dass-ich-geboren-bin/",
-          "originalTitle": "Wie schön, dass ich geboren bin!"
-        },
-        {
-          "title": "머리카락이 날리는 거리에서",
-          "summary": "히잡을 벗어던지는 여성들, 그 몸짓은 왜 세계를 흔들었나?",
-          "philosopher": "보부아르 (Simone de Beauvoir)",
-          "philosophers": [
-            "보부아르 (Simone de Beauvoir)"
-          ],
-          "tags": [
-            "신체의 자유",
-            "보부아르",
-            "이란 여성운동"
-          ],
-          "sourceUrl": "https://www.hoheluft-magazin.de/2022/10/frauen-leben-freiheit/",
-          "originalTitle": "Frauen. Leben. Freiheit."
-        },
-        {
-          "title": "욕망에는 유통기한이 없다",
-          "summary": "50대 이후의 성을 금기시하는 사회, 그 침묵은 무엇을 감추는가?",
-          "philosopher": "푸코 (Michel Foucault)",
-          "philosophers": [
-            "푸코 (Michel Foucault)",
-            "프로이트 (Sigmund Freud)"
-          ],
-          "tags": [
-            "중년의 욕망",
-            "푸코",
-            "섹슈얼리티"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=7YFNYkgds9Q",
-          "originalTitle": "Warum Lust kein Verfallsdatum hat | NANO Doku"
-        },
-        {
-          "title": "미래에 베팅하는 사람들",
-          "summary": "재앙을 예측하고 돈을 버는 시대, 우리는 미래를 포기한 걸까?",
-          "philosopher": "니체 (Friedrich Nietzsche)",
-          "philosophers": [
-            "니체 (Friedrich Nietzsche)"
-          ],
-          "tags": [
-            "허무주의",
-            "예측시장",
-            "미래"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=SLAEDgfMdSg",
-          "originalTitle": "Il Nichilismo Finanziario, l'Azzardo sul Futuro e la spaventosa ascesa di Polymarket"
-        },
-        {
-          "title": "손으로 만드는 것의 철학",
-          "summary": "AI가 모든 것을 만드는 시대, 손의 느림이 돌아오고 있다",
-          "philosopher": "마르크스 (Karl Marx)",
-          "philosophers": [
-            "마르크스 (Karl Marx)"
-          ],
-          "tags": [
-            "장인정신",
-            "소외",
-            "손노동"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=F12y5yrXd5k",
-          "originalTitle": "Il Signore degli Anelli come non l'hai mai visto: magia e artigianato - con Pierpaolo Errico"
-        },
-        {
-          "title": "몸은 어디에 있는가",
-          "summary": "화면과 현실 사이를 오가는 몸, 우리는 지금 어디에 존재하는가?",
-          "philosopher": "매클루언 (Marshall McLuhan)",
-          "philosophers": [
-            "매클루언 (Marshall McLuhan)"
-          ],
-          "tags": [
-            "몸",
-            "미디어",
-            "현존"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=sE-4Leh5HqM",
-          "originalTitle": "Festival del Pensare Contemporaneo 2025 | IL CORPO DEL FUTURO E IL FUTURO DEI CORPI"
-        },
-        {
-          "title": "우리가 정말 혐오하는 건 위선이 아니다",
-          "summary": "위선자를 향한 분노의 밑바닥에 숨겨진 진짜 감정은 무엇인가?",
-          "philosopher": "아리스토텔레스 (Aristotle)",
-          "philosophers": [
-            "아리스토텔레스 (Aristotle)",
-            "니체 (Friedrich Nietzsche)"
-          ],
-          "tags": [
-            "위선",
-            "도덕감정",
-            "자기기만"
-          ],
-          "sourceUrl": "https://philosophynow.org/issues/173/Why_Do_People_Hate_Hypocrisy",
-          "originalTitle": "Why Do People Hate Hypocrisy?"
-        },
-        {
-          "title": "자연을 두려워하지 않을 때 파괴가 시작된다",
-          "summary": "죽어가는 늑대의 눈에서 한 생태학자가 본 것은 무엇이었나?",
-          "philosopher": "하이데거 (Martin Heidegger)",
-          "philosophers": [
-            "하이데거 (Martin Heidegger)"
-          ],
-          "tags": [
-            "생태학",
-            "두려움",
-            "자연윤리"
-          ],
-          "sourceUrl": "https://aeon.co/essays/have-you-forgotten-what-it-means-to-be-afraid-of-nature?utm_source=rss-feed",
-          "originalTitle": "No nature without fear"
-        },
-        {
-          "title": "책 읽기는 정말 우리에게 유익한가?",
-          "summary": "독서가 미덕이라는 믿음, 그 이면에 숨겨진 불편한 질문들",
-          "philosopher": "사르트르 (Jean-Paul Sartre)",
-          "philosophers": [
-            "사르트르 (Jean-Paul Sartre)",
-            "바르트 (Roland Barthes)"
-          ],
-          "tags": [
-            "독서",
-            "문학",
-            "진리탐색"
-          ],
-          "sourceUrl": "https://aeon.co/essays/the-role-of-literature-as-the-key-to-personal-freedom?utm_source=rss-feed",
-          "originalTitle": "Does reading do us any good?"
-        },
-        {
-          "title": "질투와 경외 사이, 글쓰기의 역설",
-          "summary": "타인의 완벽한 문장 앞에서 느끼는 분노는 창작의 적인가, 엔진인가?",
-          "philosopher": "키르케고르 (Kierkegaard)",
-          "philosophers": [
-            "키르케고르 (Kierkegaard)",
-            "바르트 (Roland Barthes)"
-          ],
-          "tags": [
-            "창작",
-            "질투",
-            "글쓰기"
-          ],
-          "sourceUrl": "https://bigthink.com/mini-philosophy/philip-pullman-the-thing-every-writer-needs-to-overcome/",
-          "originalTitle": "Philip Pullman: The thing every writer needs to overcome"
-        },
-        {
-          "title": "실리콘밸리는 왜 가톨릭으로 향하는가",
-          "summary": "AI 시대의 테크 엘리트들이 고해성사와 라틴 미사에서 찾는 것은 무엇인가?",
-          "philosopher": "하이데거 (Martin Heidegger)",
-          "philosophers": [
-            "하이데거 (Martin Heidegger)",
-            "막스 베버 (Max Weber)"
-          ],
-          "tags": [
-            "종교",
-            "기술",
-            "탈주술화"
-          ],
-          "sourceUrl": "https://www.theatlantic.com/ideas/2026/04/silicon-valley-catholicism-ai-leo/686948/?utm_source=feed",
-          "originalTitle": "Why Silicon Valley Is Turning to the Catholic Church"
-        },
-        {
-          "title": "우리의 도덕 감각은 지금 어디로 가는가",
-          "summary": "콘텐츠 크리에이터의 절도 고백에 열광하는 시대, 무엇이 옳음을 결정하는가?",
-          "philosopher": "니체 (Friedrich Nietzsche)",
-          "philosophers": [
-            "니체 (Friedrich Nietzsche)",
-            "뒤르켐 (Emile Durkheim)"
-          ],
-          "tags": [
-            "도덕",
-            "진정성",
-            "소셜미디어"
-          ],
-          "sourceUrl": "https://www.theatlantic.com/ideas/2026/04/hasan-piker-stealing-podcast/686917/?utm_source=feed",
-          "originalTitle": "Something Is Happening to America’s Moral Code"
-        }
-      ]
-    },
-    {
       "week": "2026-W19",
       "tags": [
         "관용의역설",
@@ -7257,6 +6970,279 @@
           ],
           "sourceUrl": "https://wired.jp/article/new-anti-aging-drug-trial-for-skin/",
           "originalTitle": "肌の生物学的年齢を巻き戻せるか。新たな治療薬の可能性"
+        }
+      ]
+    },
+    {
+      "week": "2026-W44",
+      "tags": [
+        "여성 연대",
+        "차이의 정치학",
+        "교차성",
+        "시간",
+        "지각",
+        "반복",
+        "폭력",
+        "사회적 배제",
+        "청년",
+        "복지국가",
+        "성과주의",
+        "존엄",
+        "기억",
+        "장소",
+        "권위",
+        "자율성",
+        "AI와 복종",
+        "자연",
+        "생태",
+        "인간과 환경",
+        "책임",
+        "창조와 거부",
+        "인간 본성",
+        "파라소셜",
+        "디지털 관계",
+        "고독",
+        "권력분립",
+        "민주주의",
+        "정치철학",
+        "직관",
+        "인식론",
+        "판단",
+        "표상",
+        "역사의식",
+        "이야기",
+        "상실",
+        "상상력",
+        "시선",
+        "관찰",
+        "경이",
+        "비자아화",
+        "주의",
+        "도덕적 인식",
+        "우정",
+        "소외",
+        "관계의 소유",
+        "농업",
+        "얼굴 인식",
+        "신경학",
+        "지각의 철학"
+      ],
+      "articles": [
+        {
+          "title": "자매애는 존재하는가",
+          "summary": "여성 연대의 이상이 차이를 지울 때, 진짜 연대는 어디서 시작되는가?",
+          "philosopher": "오드르 로드 (Audre Lorde)",
+          "tags": [
+            "여성 연대",
+            "차이의 정치학",
+            "교차성"
+          ],
+          "sourceUrl": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-sororite-n-existe-pas-8906770",
+          "originalTitle": "Philosopher avec Audre Lorde : \"La sororité n'existe pas\""
+        },
+        {
+          "title": "모네의 연작이 말하는 시간",
+          "summary": "같은 풍경을 수십 번 그린 화가, 그가 진짜 그리려 했던 것은 무엇인가?",
+          "philosopher": "클로드 모네 (Claude Monet)",
+          "tags": [
+            "시간",
+            "지각",
+            "반복"
+          ],
+          "sourceUrl": "https://theconversation.com/les-series-de-monet-meditations-sur-le-temps-293564",
+          "originalTitle": "Les séries de Monet, méditations sur le temps"
+        },
+        {
+          "title": "거리의 분노가 말하는 것",
+          "summary": "불타는 거리 뒤에 숨겨진 침묵의 폭력, 우리는 그것을 보고 있는가?",
+          "philosopher": "마르크 크레퐁 (Marc Crépon)",
+          "tags": [
+            "폭력",
+            "사회적 배제",
+            "청년"
+          ],
+          "sourceUrl": "https://usbeketrica.com/fr/article/le-gouvernement-peine-systematiquement-a-ouvrir-le-dialogue-et-a-entendre-ce-que-la-rue-lui-dit-marc-crepon-violence",
+          "originalTitle": "« Le gouvernement peine systématiquement à ouvrir le dialogue et à entendre ce que la rue lui dit »"
+        },
+        {
+          "title": "능력 있어야 보호받는 사회의 역설",
+          "summary": "성과를 낼 수 있는 사람만 복지를 누린다면, 사회는 무엇을 위해 존재하는가?",
+          "philosopher": "카타리나 피스토르 (Katharina Pistor)",
+          "tags": [
+            "복지국가",
+            "성과주의",
+            "존엄"
+          ],
+          "sourceUrl": "https://www.deutschlandfunk.de/recht-der-staerkeren-leistungsprinzip-sozialstaat-kuerzungen-de-gregorio-100.html",
+          "originalTitle": "Wie das Leistungsprinzip den Sozialstaat zu verändern droht"
+        },
+        {
+          "title": "같은 장소, 세 번의 시간—페렉의 실험",
+          "summary": "12년 동안 같은 파리 거리를 기록한 작가, 그가 쫓은 것은 장소인가 기억인가?",
+          "philosopher": "조르주 페렉 (Georges Perec)",
+          "tags": [
+            "기억",
+            "장소",
+            "시간"
+          ],
+          "sourceUrl": "https://www.merkur-zeitschrift.de/2026/10/20/rue-keller/",
+          "originalTitle": "Rue Keller"
+        },
+        {
+          "title": "좋은 권위와 나쁜 권위를 어떻게 구별하는가",
+          "summary": "AI에게, 전문가에게, 국가에게 우리는 언제 복종해야 하고 언제 저항해야 하는가?",
+          "philosopher": "리스츠 히른 (Lisz Hirn)",
+          "tags": [
+            "권위",
+            "자율성",
+            "AI와 복종"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/autoritaet-lisz-hirn-100.html",
+          "originalTitle": "Autorität: Worauf wir hören sollten - und worauf nicht"
+        },
+        {
+          "title": "인간이 만든 자연은 자연인가",
+          "summary": "수백 년간 인간이 가꿔온 석호, 그것은 보존해야 할 자연인가 아닌가?",
+          "philosopher": "티머시 모턴 (Timothy Morton)",
+          "tags": [
+            "자연",
+            "생태",
+            "인간과 환경"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/scienze/come-si-fa-laguna/",
+          "originalTitle": "Come si fa una laguna"
+        },
+        {
+          "title": "우리는 왜 괴물에게서 나를 보는가",
+          "summary": "프랑켄슈타인의 괴물이 불편한 이유—그것이 우리를 너무 닮았기 때문이다",
+          "philosopher": "메리 셸리 (Mary Shelley)",
+          "tags": [
+            "책임",
+            "창조와 거부",
+            "인간 본성"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=Ld3TCCKlaV0",
+          "originalTitle": "“Ero buono. È il mondo che mi ha reso malvagio” - Cosa Frankenstein può insegnarti su di TE"
+        },
+        {
+          "title": "팔로우하지만 친구는 아닌 사이",
+          "summary": "좋아요를 누르고 댓글을 달지만, 우리는 정말 연결되어 있는가?",
+          "philosopher": "",
+          "tags": [
+            "파라소셜",
+            "디지털 관계",
+            "고독"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/linguaggi/sociale-parasociale/",
+          "originalTitle": "Il sociale e il parasociale"
+        },
+        {
+          "title": "권력이 균형을 잃을 때 민주주의는 무너진다",
+          "summary": "견제 없는 권력이 민주주의를 어떻게 조용히 잠식하는지, 몽테스키외가 경고한다",
+          "philosopher": "몽테스키외 (Montesquieu)",
+          "tags": [
+            "권력분립",
+            "민주주의",
+            "정치철학"
+          ],
+          "sourceUrl": "https://theconversation.com/political-power-without-balance-leads-to-the-erosion-of-democracy-what-montesquieu-can-teach-modern-day-france-294737",
+          "originalTitle": "Political power without balance leads to the erosion of democracy, what Montesquieu can teach modern-day France"
+        },
+        {
+          "title": "왜 우리는 '느낌'을 믿어야 하는가",
+          "summary": "낯선 사람이 왠지 수상하다는 느낌, 그 직관은 과연 지식이 될 수 있는가?",
+          "philosopher": "마크 모펫 (Marc A. Moffett)",
+          "tags": [
+            "직관",
+            "인식론",
+            "판단"
+          ],
+          "sourceUrl": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
+          "originalTitle": "How intuitions work"
+        },
+        {
+          "title": "시간은 언제부터 선이 되었는가",
+          "summary": "시간을 선으로 그리기 시작한 순간, 인간은 역사와 삶을 어떻게 다르게 경험하게 됐는가?",
+          "philosopher": "크리스토프 뤼티 (Christoph Lüthy)",
+          "tags": [
+            "시간",
+            "표상",
+            "역사의식"
+          ],
+          "sourceUrl": "https://philosophersmag.com/when-time-became-a-line/",
+          "originalTitle": "When Time Became a Line"
+        },
+        {
+          "title": "동화가 부서진 마음에 건네는 것",
+          "summary": "상실 앞에서 우리가 오래된 이야기로 돌아가는 이유는 무엇인가",
+          "philosopher": "우르줄라 K. 르귄 (Ursula K. Le Guin)",
+          "tags": [
+            "이야기",
+            "상실",
+            "상상력"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/22/wood/",
+          "originalTitle": "How to Hold Your Heart with Golden Hands"
+        },
+        {
+          "title": "본다는 것의 비밀: 호손의 시선",
+          "summary": "제대로 본다는 것은 무엇인가—눈을 뜨고도 보지 못하는 우리의 일상",
+          "philosopher": "나다니엘 호손 (Nathaniel Hawthorne)",
+          "tags": [
+            "시선",
+            "관찰",
+            "경이"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/22/nathaniel-hawthorne-nature/",
+          "originalTitle": "Nathaniel Hawthorne on How to Look and Really See"
+        },
+        {
+          "title": "나를 지워야 비로소 세계가 보인다",
+          "summary": "자아를 내려놓는 순간, 우리는 더 선명하게 세계와 연결될 수 있다",
+          "philosopher": "아이리스 머독 (Iris Murdoch)",
+          "tags": [
+            "비자아화",
+            "주의",
+            "도덕적 인식"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/18/iris-murdoch-unselfing/",
+          "originalTitle": "How to Unself in Order to Be Who You Really Are"
+        },
+        {
+          "title": "친구를 섞으면 안 된다는 감각",
+          "summary": "내가 연결해준 두 친구가 나를 빼고 친해질 때, 그 소외감의 정체는 무엇인가?",
+          "philosopher": "아리스토텔레스 (Aristotle)",
+          "tags": [
+            "우정",
+            "소외",
+            "관계의 소유"
+          ],
+          "sourceUrl": "https://kangaeruhito.jp/article/764396",
+          "originalTitle": "【書籍未収録エピソード特別公開①】友達は、まぜるな危険　〜I can’t stop the loneliness〜"
+        },
+        {
+          "title": "밭에서 배우는 삶의 철학",
+          "summary": "양배추를 심으며 깨닫는 것—자연과 함께 사는 일은 왜 우리를 겸손하게 만드는가?",
+          "philosopher": "존 뮤어 (John Muir)",
+          "tags": [
+            "농업",
+            "자연",
+            "시간"
+          ],
+          "sourceUrl": "https://kangaeruhito.jp/article/764377",
+          "originalTitle": "第1回　キャベツの顔つき"
+        },
+        {
+          "title": "당신의 얼굴을 알아보지 못하는 사람들",
+          "summary": "30년을 함께 산 남편의 얼굴도 낯선 그녀, 우리는 타인을 어떻게 인식하는가?",
+          "philosopher": "올리버 색스 (Oliver Sacks)",
+          "tags": [
+            "얼굴 인식",
+            "신경학",
+            "지각의 철학"
+          ],
+          "sourceUrl": "https://kangaeruhito.jp/article/764387",
+          "originalTitle": "6．相貌失認――顔を見分けるのが苦手"
         }
       ]
     }

@@ -1,24 +1,8 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-23T08:59:39.889919+00:00",
+  "fetchedAt": "2026-10-23T19:04:11.579406+00:00",
   "items": [
-    {
-      "title": "Pourquoi l'humaniste est-il politique ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mardi-13-octobre-2026-3735774",
-      "description": "durée : 00:03:04  - Le Pourquoi du comment : philo - par : Frédéric Worms - De la morale aux lois : repenser l'humanisme en politique  - équipe : Virginie Le Duault, Corinne Amar, Sorj Leroy \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 45
-      }
-    },
     {
       "title": "Envie de dormir : troubles dans le sommeil : Lacan : “Le réveil total, c'est la mort”",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/lacan-on-ne-se-reveille-jamais-1635507",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Jean-Luc Marion, philosophe : \"Avec le 'Cantique des cantiques', même le caniche a sa part d'infini\"",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/le-souffle-de-la-pensee-emission-du-vendredi-23-octobre-2026-9869312",
+      "description": "durée : 00:58:55  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Le \"Cantique des cantiques\" est le seul texte de toute la Bible dans lequel le nom de Dieu n'est pas prononcé ! Un manuscrit qui, parce qu'il est un chant d'amour, lance un défi à la philosophie et à la théologie. Un texte difficile, qui a pu l'être même pour Jean-Luc Marion !  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger, Pauline Haies - invités : Jean-Luc Marion Philosophe et académicien français \n\nVou",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

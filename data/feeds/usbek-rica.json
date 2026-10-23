@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-10-23T08:59:40.925628+00:00",
+  "fetchedAt": "2026-10-23T19:04:16.657181+00:00",
   "items": [
     {
       "title": "Du nudge au boost : comment repenser nos comportements dans les transports ?",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Effets spéciaux : « Grâce à l’IA, on rentre plus tôt du boulot ! »",
+      "url": "https://usbeketrica.com/fr/article/effets-speciaux-grace-a-l-ia-on-rentre-plus-tot-du-boulot",
+      "description": "L’IA va-t-elle vraiment mettre au chômage toute l’industrie des effets spéciaux ? De passage au KIKK Festival, à Namur, en Belgique, David Sheldon-Hicks, fin connaisseur du milieu et dirigeant de la société Territory Studio, défend une approche à la fois « optimiste et précautionneuse ».",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
       "title": "« À ton éveil, fends la cosse » : notre avis sur le nouveau roman de SF de Becky Chambers",
       "url": "https://usbeketrica.com/fr/article/a-ton-eveil-fends-la-cosse-notre-avis-sur-le-nouveau-roman-de-sf-de-becky-chambers",
       "description": "Après le succès fulgurant de sa duologie Histoire de moine et de robot, Becky Chambers revient à ses premiers amours avec un space opera intimiste. Direction la planète volcanique Fortune où la pilote Cora et la pépiniériste Signy tentent de survivre tant bien que mal, dans l'espoir de jours meilleurs. Un récit grandiose et touchant.",
@@ -158,22 +174,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "En entreprise, le futur sera senior ou ne sera pas",
-      "url": "https://usbeketrica.com/fr/article/en-entreprise-le-futur-sera-senior-ou-ne-sera-pas",
-      "description": "C’est l’une des thématiques phares du deuxième volume de Recettes Humaines. Les entreprises françaises regorgent de ressources précieuses et qualifiées : leurs employés seniors. Valoriser ces salariés et les mélanger aux autres générations afin qu’ils transmettent leur savoir sera l’un des enjeux cruciaux de la transition démographique, selon Frédérique Jeske, conférencière et experte seniors.",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

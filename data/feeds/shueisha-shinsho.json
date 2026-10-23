@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-10-23T09:00:27.780637+00:00",
+  "fetchedAt": "2026-10-23T19:04:52.160259+00:00",
   "items": [
     {
       "title": "等身大の両岸問題",
@@ -49,6 +49,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "道徳は「アップデート」できるのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/tadashi_tamura/37281",
+      "description": "「企業名　●●件」。この見出しだけで、何のニュースなのかわかってしまうようになった。スマートフォンを開くたびに、よく見知った企業が顧客の個人情報を漏洩させてしまったというニュースアプリの通知が目に入る。ある企業のうかつ […]",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36887",
       "description": "文・写真／前川仁之 　墾丁（第一回参照）で泊まった翌朝、大きな荷物は宿に置き、自転車で台湾島最南端へ向かった。ふつうに台湾一周の旅にこだわるのなら、最南端の碑からそのまま国道で東海岸を目指すのだが、私にはそうできないわけ […]",
       "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "現代台湾の「蔣経国現象」に見る台湾人のリアリズム",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36829",
-      "description": "文・写真／前川仁之 　2026年初春。台湾島最南端、恒春半島の墾丁ケンティンはこの島で最初の国家公園に指定された、風光明媚なリゾート地だ。ここはもう北回帰線より南の熱帯地域。長大な海外線を持つわりにはビーチの少ない台湾島 […]",
-      "date": "Wed, 07 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

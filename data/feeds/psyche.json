@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-10-23T09:00:01.179320+00:00",
+  "fetchedAt": "2026-10-23T19:04:33.400584+00:00",
   "items": [
+    {
+      "title": "Can you ever really think what someone else is thinking?",
+      "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+      "description": "To see how communication truly works, we should set aside the notion that different people can share the same thoughts - by Víctor Verdejo Read on Psyche",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
     {
       "title": "How to live a life of awe",
       "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
@@ -30,22 +46,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "How to ignite your creativity",
-      "url": "https://psyche.co/videos/ten-crafty-ideas-to-escape-the-doom-scroll-and-start-making-things",
-      "description": "Turn a mistake into art, write your own postcard: crafty ideas to escape the doom-scroll and jumpstart your creative practice - Video by Struthless Watch on Psyche",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 25

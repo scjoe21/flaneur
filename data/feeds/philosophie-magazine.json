@@ -1,24 +1,8 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-23T08:59:40.344830+00:00",
+  "fetchedAt": "2026-10-23T19:04:12.377643+00:00",
   "items": [
-    {
-      "title": "Anne Carson, le paradoxe de l’amour",
-      "url": "https://www.philomag.com/articles/anne-carson-le-paradoxe-de-lamour",
-      "description": "",
-      "date": "Sat, 10 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 15
-      }
-    },
     {
       "title": "Michel Foucault, le Monte-Cristo de la philosophie",
       "url": "https://www.philomag.com/articles/michel-foucault-le-monte-cristo-de-la-philosophie",
@@ -33,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Les jeunes, catalyseurs de l’IA au travail malgré eux",
+      "url": "https://www.philomag.com/articles/les-jeunes-catalyseurs-de-lia-au-travail-malgre-eux",
+      "description": "",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -65,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“La Gradiva” : vivre, jouir, mourir et philosopher à Pompéi",
+      "url": "https://www.philomag.com/articles/la-gradiva-vivre-jouir-mourir-et-philosopher-pompei",
+      "description": "",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/homme-femme-une-experience-differente-du-corps",
       "description": "",
       "date": "Sun, 11 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Peut-on se détacher de son corps ?",
-      "url": "https://www.philomag.com/articles/peut-se-detacher-de-son-corps",
-      "description": "",
-      "date": "Sat, 10 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

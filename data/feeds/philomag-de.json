@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-23T08:59:46.758966+00:00",
+  "fetchedAt": "2026-10-23T19:04:21.433445+00:00",
   "items": [
     {
       "title": "Gibt es Parallelwelten?",
@@ -148,22 +148,6 @@
       }
     },
     {
-      "title": "Judith Butler: „Frauwerden ist ein offener Prozess“",
-      "url": "https://www.philomag.de/artikel/judith-butler-frauwerden-ist-ein-offener-prozess",
-      "description": "Das andere Geschlecht  stellt unser Verständnis von Frau, Mann und ihrem Verhältnis infrage – und wurde damit zu einem wegweisenden Text. Im Interview erklärt Judith Butler, was Beauvoirs Analyse so bedeutsam macht und wie die Gender-Theorie daran anschließt, aber auch darüber hinausreicht.",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Beauvoirs Leserinnen und ich",
       "url": "https://www.philomag.de/artikel/beauvoirs-leserinnen-und-ich",
       "description": "Simone de Beauvoir erreichte Tausende von Leserinnen und veränderte, wie diese sich und ihr Leben sahen. Das gilt auch für die Historikerin Marine Rouch, die die Briefe studierte, die Beauvoir erhielt.",
@@ -193,6 +177,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Prometheus – Spiegel des Menschen",
+      "url": "https://www.philomag.de/artikel/prometheus-spiegel-des-menschen",
+      "description": "Ob als Rebell, als Schöpfer der Zivilisation und Fortschrittsbringer: Prometheus diente seit jeher als Projektionsfläche für Selbstbilder und Wünsche des Menschen. In seinem jüngst erschienenen Buch folgt Jonas Grethlein nun den Spuren des Mythos.",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

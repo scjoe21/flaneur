@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-23T09:00:10.900544+00:00",
+  "fetchedAt": "2026-10-23T19:04:36.309465+00:00",
   "items": [
     {
       "title": "An Inside Look At How To Tame Unstoppable AI",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Noema’s AI Reading List",
+      "url": "https://www.noemamag.com/noemas-ai-reading-list-2",
+      "description": "The post  Noema’s AI Reading List  appeared first on  NOEMA .",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/the-ais-are-not-going-rogue",
       "description": "The post  The AIs Are Not Going Rogue  appeared first on  NOEMA .",
       "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Noema’s AI Reading List",
-      "url": "https://www.noemamag.com/noemas-ai-reading-list",
-      "description": "The post  Noema’s AI Reading List  appeared first on  NOEMA .",
-      "date": "Tue, 29 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

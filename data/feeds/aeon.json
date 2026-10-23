@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-10-23T08:59:59.599052+00:00",
+  "fetchedAt": "2026-10-23T19:04:32.567548+00:00",
   "items": [
     {
       "title": "How intuitions work",
@@ -164,19 +164,19 @@
       }
     },
     {
-      "title": "Evolution of Manhattan",
-      "url": "https://aeon.co/videos/manhattans-evolution-over-centuries-captured-via-meticulous-animation",
-      "description": "From Lenape land to sprawling metropolis, this detailed timelapse animation captures the making of Manhattan - by Aeon Video Watch on Aeon",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Traction!",
+      "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
+      "description": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on Aeon",
+      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {

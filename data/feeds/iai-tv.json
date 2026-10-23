@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-23T09:00:23.503653+00:00",
+  "fetchedAt": "2026-10-23T19:04:47.705088+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "Memories are not stored in the brain | Victoria Trumbull",
-      "url": "https://www.youtube.com/watch?v=3dryKlK8p38",
-      "description": "Victoria Trumbull discusses how we remember and the brain.\n\nAre your memories merely illusions?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/memories-are-not-stored-in-the-brain-victoria-trumbull?stage=Stage?utm_source=YouTube&utm_medium=description\n\nWe often assume that our memories are stored in our brains, just like a hard drive stores data. However, philosopher of time Victoria Trumbull argues this is a radical mistake. Drawing on the philosophy of mind and cog",
-      "date": "2026-10-04",
-      "thumbnail": "https://i4.ytimg.com/vi/3dryKlK8p38/hqdefault.jpg",
-      "videoId": "3dryKlK8p38",
-      "priority": 25,
+      "title": "How do we use democracy | Curtis Yarvin",
+      "url": "https://www.youtube.com/shorts/h5VbTzIebYA",
+      "description": "",
+      "date": "2026-10-23",
+      "thumbnail": "https://i1.ytimg.com/vi/h5VbTzIebYA/hqdefault.jpg",
+      "videoId": "h5VbTzIebYA",
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 15
       }
     },
     {
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Consciousness is biology's biggest blunder | Denis Noble",
+      "url": "https://www.youtube.com/watch?v=V9BARG_8H38",
+      "description": "Denis Noble discusses the flaws in modern evolutionary theories.\n\nHas biology got it wrong?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\nBiology has sequenced the human genome and predicted protein structures, yet consciousness remains elusive. Join mathematical biologist, Denis Noble, as he calls out biology's biggest blunder--the self replicating process of DNA and RNA are not pe",
+      "date": "2026-10-23",
+      "thumbnail": "https://i3.ytimg.com/vi/V9BARG_8H38/hqdefault.jpg",
+      "videoId": "V9BARG_8H38",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Genetics and the Infinite Monkey Theorem | Jablonka, Noble, Okasha",
       "url": "https://www.youtube.com/watch?v=5tMZwQOaZNI",
       "description": "Eva Jablonka, Denis Noble and Samir Okasha  discuss evolution.\n\nDo you think epigenetics fundamentally changes our theories of evolution?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-not-so-blind-watchmaker?utm_source=YouTube&utm_medium=description\n\nFor over a century, evolution has been understood as a simple and powerful story: random genetic changes occur, and natural selection preserves those that enhance survival. Life has “no purpose in mind”. It just h",
@@ -128,22 +144,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "What actually are memories? | Victoria Trumbull",
-      "url": "https://www.youtube.com/shorts/zdGbV88_718",
-      "description": "",
-      "date": "2026-10-04",
-      "thumbnail": "https://i3.ytimg.com/vi/zdGbV88_718/hqdefault.jpg",
-      "videoId": "zdGbV88_718",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 10,
         "total": 10
       }
     },

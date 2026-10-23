@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-23T09:00:34.780834+00:00",
+  "fetchedAt": "2026-10-23T19:04:58.049555+00:00",
   "items": [
     {
       "title": "防災グッズおすすめ14選：WIRED SHOPPING GUIDE",
@@ -65,6 +65,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "太陽光で充電できる風変わりな電動スクーター「Lightfoot」を試した",
+      "url": "https://wired.jp/article/lightfoot-scooter-first-ride/",
+      "description": "ソーラーパネルを搭載したOtherlabの「Lightfoot」は、太陽光発電によって航続距離を延ばせる電動スクーターだ。奇抜な見た目だが走行性能は高く、実際に乗ってみると、その魅力と課題が見えてきた。",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
       "description": "マスクは今回の中間選挙で、大統領選並みの選挙運動体制を構築している。共和党の投票促進活動を事実上掌握するその資金力を、『WIRED』が独自に集計・分析したデータから読み解く。",
       "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "うるう秒に終止符。「たった1秒」がもたらしてきた影響",
-      "url": "https://wired.jp/article/leap-second-is-abolished-bipm-says/",
-      "description": "うるう秒の廃止が正式に決まった。世界の時計が時刻調整のための“プラス1秒”に別れを告げるのは、2027年5月だ。",
-      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

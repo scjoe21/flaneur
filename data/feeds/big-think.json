@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-10-23T09:00:09.803360+00:00",
+  "fetchedAt": "2026-10-23T19:04:34.813215+00:00",
   "items": [
+    {
+      "title": "You can’t eliminate uncertainty — but you can prevent it from paralyzing you",
+      "url": "https://bigthink.com/books/safer-book/",
+      "description": "At the time of this writing, there is no consensus about how COVID started.  \n My colleagues and I tried to harness that uncertainty as a strength. Rather than waiting for certainty to arrive, we began acting in its absence. Not knowing the origins of COVID meant we were forced — as we readied the country and world for future unknown threats — to make ourselves safer from all potential causes: natural spillovers, lab accidents, and biological weapons. Through the fall 2022 and into 2023, we work",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/safer_excerpt.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Mapped: Every known (and suspected) road in the Roman Empire",
       "url": "https://bigthink.com/strange-maps/roman-road-networks/",
@@ -36,35 +52,19 @@
       }
     },
     {
-      "title": "My chatbot comforted me when I thought I was dying. Was that friendship?",
-      "url": "https://bigthink.com/mini-philosophy/my-chatbot-comforted-me-when-i-thought-i-was-dying-was-that-friendship/",
-      "description": "Last December, I thought I was going to die. I don’t mean that in a “the Reaper gets us all” kind of philosophical platitude, but in a very real, very immediate sense. I remember thinking, “So, this is it?” \n I had tonsillitis. Growing up, my mum had told me that I’d had my tonsils removed, but either she or the surgeon was lying because after two weeks of worsening symptoms, the out-of-hours doctor at my local hospital told me I had a pretty egregious case of tonsillitis. I hadn’t eaten for fiv",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/ai-friends.jpg?quality=85&w=640",
+      "title": "Cosmology’s oldest question: How the universe will end",
+      "url": "https://bigthink.com/series/the-big-think-interview/universe-dark-energy/",
+      "description": "By the end of the 20th century, physicists believed they had answered one of cosmology’s oldest questions: the universe would expand forever, its galaxies drifting into isolation until only our immediate neighborhood remained. Astrophysicist Ethan Siegel explains how that conclusion was reached. Now new measurements of galaxies across vast stretches of cosmic time suggest dark energy may not be constant after all. \n This video  Cosmology’s oldest question: How the universe will end  is featured ",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/B1-Web-Siegel.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Why the AI boom is creating a hunger for human connection",
-      "url": "https://bigthink.com/the-outlast-journal/why-the-ai-boom-is-creating-a-hunger-for-human-connection/",
-      "description": "At a recent technology conference, Marc Lore, the billionaire cofounder of Diapers.com and Jet.com, was describing his newest venture.  \n It’s called Wonder, and it operates about 120 “tech-enabled” kitchens across the northeastern U.S., each one a fast-casual storefront that Lore calls a “programmable culinary platform”: an all-electric kitchen with a 700-ingredient library, a staff of up to 12, and a growing complement of conveyors and robotic arms capable of preparing meals from 30 different ",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/hunger-for-connection_LEAD.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
