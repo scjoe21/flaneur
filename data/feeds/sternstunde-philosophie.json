@@ -1,8 +1,24 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-10-18T19:24:44.704339+00:00",
+  "fetchedAt": "2026-10-23T08:59:50.263074+00:00",
   "items": [
+    {
+      "title": "Bequeme neue Welt: Verlernen wir das Menschsein? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=MRGIo7BI284",
+      "description": "Apps organisieren unseren Alltag, Algorithmen treffen eine Vorauswahl, KI übernimmt das Denken. Das spart Zeit und Mühe. Philosophin und Astrophysikerin Sibylle Anderl fragt, was wir verlieren, wenn wir uns immer mehr abnehmen lassen, und was es für ein gutes, selbstbestimmtes Leben braucht.\n\nThemen in dieser Folge:\n00:00 Was geht uns mit unserer Bequemlichkeit verloren? Was wird uns genommen? \n17:10 Warum selber Musik machen, wenn KI es doch viel besser kann? \n28:39 Sind wir gerade dabei, die K",
+      "date": "2026-10-19",
+      "thumbnail": "https://i2.ytimg.com/vi/MRGIo7BI284/hqdefault.jpg",
+      "videoId": "MRGIo7BI284",
+      "priority": 59,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 59
+      }
+    },
     {
       "title": "100 Jahre Michel Foucault: Der Wahnsinn der Freiheit | Sternstunde Philosophie | SRF Kultur",
       "url": "https://www.youtube.com/watch?v=liUyOK8W2eM",
@@ -33,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 55
+      }
+    },
+    {
+      "title": "Freundschaften: Besser als Familie, Mareike Fallwickl? | Zimmer 42 – mit Barbara Bleisch | Podcast",
+      "url": "https://www.youtube.com/watch?v=-3Dxg6QGyeE",
+      "description": "Freundschaften geben Halt, stiften Nähe und können ein Leben lang tragen. Warum haben sie gesellschaftlich dennoch einen niedrigeren Stellenwert als Familie und Partnerschaft? Die Schriftstellerin Mareike Fallwickl plädiert für den Wert von Freundschaften als Wahlfamilien (und als Bollwerk gegen die Kälte der Zeit). \n\nThemen in dieser Folge:\n00:00 Intro\n04:43 Familie oder die Wahlfamilie\n11:07 Freundschaften sind Liebesbeziehungen\n30:26 Unterschiede Männer- und Frauenfreundschaften\n41:59 Wie wer",
+      "date": "2026-10-20",
+      "thumbnail": "https://i2.ytimg.com/vi/-3Dxg6QGyeE/hqdefault.jpg",
+      "videoId": "-3Dxg6QGyeE",
+      "priority": 50,
+      "scoreDetail": {
+        "daily": 40,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 50
       }
     },
     {
@@ -78,22 +110,6 @@
       "scoreDetail": {
         "daily": 35,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
-    {
-      "title": "Fat Bodies, Thin Morals: Kate Manne on Fatphobia | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=70W6BCEsKug",
-      "description": "Between Body Positivity and the Ozempic Boom: Philosopher Kate Manne shows why fatphobia is not an acceptable stance in the health debate and challenges common prejudices about the body.\n\n🔔 Subscribe to SRF Kultur Sternstunden on YouTube now 👉 https://www.youtube.com/srfkultur?sub_confirmation=1\n\nMany people view overweight individuals as undisciplined, lazy, or even stupid. Yet body weight is not as easy to control as many think, and moral judgment is therefore misplaced. With the emergence of ",
-      "date": "2026-08-24",
-      "thumbnail": "https://i4.ytimg.com/vi/70W6BCEsKug/hqdefault.jpg",
-      "videoId": "70W6BCEsKug",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 20,
         "flaneur": 0,
         "novelty": 0,
         "total": 45
@@ -177,22 +193,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
-      }
-    },
-    {
-      "title": "Best of Zimmer 42: Mehr Feriengefühl im Alltag",
-      "url": "https://www.youtube.com/watch?v=_hLruZFh6wM",
-      "description": "Wer kennt es nicht: Kaum zurück von den Ferien, ist die Erholung dahin, die volle Mailbox befördert einem mit Wucht zurück in den Alltag. Das liege nicht daran, dass wir falsch Ferien machen, sagt Marco Gebbers. Vielmehr sollten wir die Zeit zwischen den Ferien weniger stressanfällig gestalten.\n\n«Idealerweise gestalten wir den Alltag so, dass wir erholt in die nächsten Ferien gehen», sagt Psychiater Marco Gebbers. Klingt streng – und das ist es auch. Was beim Stressabbau garantiert helfen und in",
-      "date": "2026-08-25",
-      "thumbnail": "https://i4.ytimg.com/vi/_hLruZFh6wM/hqdefault.jpg",
-      "videoId": "_hLruZFh6wM",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
       }
     },
     {

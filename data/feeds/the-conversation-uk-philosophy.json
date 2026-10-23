@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-10-18T19:25:09.465676+00:00",
+  "fetchedAt": "2026-10-23T09:00:20.665866+00:00",
   "items": [
     {
       "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "People are marrying holograms and making friends with chatbots. But can AI bring true happiness?",
-      "url": "https://theconversation.com/people-are-marrying-holograms-and-making-friends-with-chatbots-but-can-ai-bring-true-happiness-284872",
-      "description": "",
-      "date": "2026-06-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
       "title": "When does being ‘apolitical’ become a political act? An ethicist on the Ed Sheeran saga",
       "url": "https://theconversation.com/when-does-being-apolitical-become-a-political-act-an-ethicist-on-the-ed-sheeran-saga-292217",
       "description": "",
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Political power without balance leads to the erosion of democracy, what Montesquieu can teach modern-day France",
+      "url": "https://theconversation.com/political-power-without-balance-leads-to-the-erosion-of-democracy-what-montesquieu-can-teach-modern-day-france-294737",
+      "description": "",
+      "date": "2026-10-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -132,19 +132,19 @@
       }
     },
     {
-      "title": "As the US turns 250, a forgotten founding influence helps explain its current unease",
-      "url": "https://theconversation.com/as-the-us-turns-250-a-forgotten-founding-influence-helps-explain-its-current-unease-284066",
+      "title": "Scientists are growing human brain tissue in living mice – could this make their welfare harder to assess?",
+      "url": "https://theconversation.com/scientists-are-growing-human-brain-tissue-in-living-mice-could-this-make-their-welfare-harder-to-assess-293390",
       "description": "",
-      "date": "2026-07-02",
+      "date": "2026-10-19",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "novelty": 0,
+        "total": 0
       }
     },
     {

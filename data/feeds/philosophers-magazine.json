@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophers-magazine",
   "sourceName": "The Philosophers' Magazine (TPM)",
-  "fetchedAt": "2026-10-18T19:25:12.535659+00:00",
+  "fetchedAt": "2026-10-23T09:00:23.111222+00:00",
   "items": [
     {
       "title": "Capturing the Gods",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "When Time Became a Line",
+      "url": "https://philosophersmag.com/when-time-became-a-line/",
+      "description": "Christoph Lüthy examines the origins of representing time as a line. \n The post  When Time Became a Line  first appeared on  The Philosophers' Magazine .",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://philosophersmag.com/no-humans-are-not-conscious/",
       "description": "Barbara Montero satirizes recent arguments that LLMs are not conscious. \n The post  No, Humans Are Not Conscious  first appeared on  The Philosophers' Magazine .",
       "date": "Wed, 01 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Phaedo 2: Judgement Day",
-      "url": "https://philosophersmag.com/phaedo-2-judgement-day/",
-      "description": "Can you blog your way to Elysium? \n The post  Phaedo 2: Judgement Day  first appeared on  The Philosophers' Magazine .",
-      "date": "Mon, 15 Jun 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

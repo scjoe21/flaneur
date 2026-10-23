@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-18T19:24:59.528829+00:00",
+  "fetchedAt": "2026-10-23T09:00:10.900544+00:00",
   "items": [
     {
       "title": "An Inside Look At How To Tame Unstoppable AI",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Sudan As A Mirror For Today’s World",
+      "url": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
+      "description": "The post  Sudan As A Mirror For Today’s World  appeared first on  NOEMA .",
+      "date": "Tue, 20 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/noemas-ai-reading-list",
       "description": "The post  Noema’s AI Reading List  appeared first on  NOEMA .",
       "date": "Tue, 29 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Now Entering: The Era Of Bleh",
-      "url": "https://www.noemamag.com/now-entering-the-era-of-bleh",
-      "description": "The post  Now Entering: The Era Of Bleh  appeared first on  NOEMA .",
-      "date": "Thu, 24 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

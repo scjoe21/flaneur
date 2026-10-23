@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-18T19:25:12.922484+00:00",
+  "fetchedAt": "2026-10-23T09:00:23.503653+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Plato Matters More Than Ever | Angie Hobbs",
+      "url": "https://www.youtube.com/watch?v=VTR6YOVuRrA",
+      "description": "Angie Hobbs discusses Plato in the modern world.\n\nWhat applications do ancient texts have now? \n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/why-plato-matters-now-angie-hobbs?utm_source=YouTube&utm_medium=description\n\nWe are told ancient philosophy is a relic. Beautiful, perhaps, but largely irrelevant. Join philosopher and author of Why Plato Matters Now, Angie Hobbs, as she makes the case that ancient philosophy and Plato matter more than ever. From fake news and",
+      "date": "2026-10-20",
+      "thumbnail": "https://i3.ytimg.com/vi/VTR6YOVuRrA/hqdefault.jpg",
+      "videoId": "VTR6YOVuRrA",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -70,7 +86,7 @@
     {
       "title": "Memories are not stored in the brain | Victoria Trumbull",
       "url": "https://www.youtube.com/watch?v=3dryKlK8p38",
-      "description": "Victoria Trumbull discusses how we remember and the brain.\n\nAre your memories merely illusions\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/memories-are-not-stored-in-the-brain-victoria-trumbull?stage=Stage?utm_source=YouTube&utm_medium=description\n\nWe often assume that our memories are stored in our brains, just like a hard drive stores data. However, philosopher of time Victoria Trumbull argues this is a radical mistake. Drawing on the philosophy of mind and cogn",
+      "description": "Victoria Trumbull discusses how we remember and the brain.\n\nAre your memories merely illusions?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/memories-are-not-stored-in-the-brain-victoria-trumbull?stage=Stage?utm_source=YouTube&utm_medium=description\n\nWe often assume that our memories are stored in our brains, just like a hard drive stores data. However, philosopher of time Victoria Trumbull argues this is a radical mistake. Drawing on the philosophy of mind and cog",
       "date": "2026-10-04",
       "thumbnail": "https://i4.ytimg.com/vi/3dryKlK8p38/hqdefault.jpg",
       "videoId": "3dryKlK8p38",
@@ -84,16 +100,16 @@
       }
     },
     {
-      "title": "Has Europe become merely a museum of fallen empires? | Tett, Corbyn, Ignatieff",
-      "url": "https://www.youtube.com/watch?v=P-aDGdjhOxw",
-      "description": "Jeremy Corbyn, Gillian Tett and Michael Ignatieff discuss the future of Europe\n\nDo you agree with Gillian that \"Europe can't compete\"\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-end-of-the-great-alliance?utm_source=YouTube&utm_medium=description\n\nCentral to the West has been the allegiance of the US and Europe. But Trump's December 2025 Strategic Review outlined a very different world order in which the US is not necessarily allied to Europe at all. Instead,",
-      "date": "2026-10-01",
-      "thumbnail": "https://i1.ytimg.com/vi/P-aDGdjhOxw/hqdefault.jpg",
-      "videoId": "P-aDGdjhOxw",
+      "title": "Curtis Yarvin challenged on his views on benevolent monarchy",
+      "url": "https://www.youtube.com/watch?v=ddIZAoGQRBY",
+      "description": "Curtis Yarvin discusses the failures of democracy.\n\nWould a return to monarchy be beneficial to you?\n\nWith a free trial, you can watch more talks like this now at https://iai.tv/video/curtis-yarvin-challenged-on-his-argument-for-benevolent-monarchy?utm_source=YouTube&utm_medium=description\n\nWe tend to think that liberal democracy, for all its flaws, is ultimately a just and functioning form of government. Controversial figure Curtis Yarvin, here challenged by the IAI's Alexis Papazoglou, argues ",
+      "date": "2026-10-22",
+      "thumbnail": "https://i1.ytimg.com/vi/ddIZAoGQRBY/hqdefault.jpg",
+      "videoId": "ddIZAoGQRBY",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -218,22 +234,6 @@
       "date": "2026-10-09",
       "thumbnail": "https://i3.ytimg.com/vi/jXUdYk9Smko/hqdefault.jpg",
       "videoId": "jXUdYk9Smko",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Financial Subordination | Ingrid Harvold Kvangraven",
-      "url": "https://www.youtube.com/shorts/Tp3hjs8wzZ8",
-      "description": "",
-      "date": "2026-09-30",
-      "thumbnail": "https://i1.ytimg.com/vi/Tp3hjs8wzZ8/hqdefault.jpg",
-      "videoId": "Tp3hjs8wzZ8",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

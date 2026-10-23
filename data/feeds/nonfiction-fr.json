@@ -1,8 +1,24 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-10-18T19:25:02.401249+00:00",
+  "fetchedAt": "2026-10-23T09:00:14.394555+00:00",
   "items": [
+    {
+      "title": "Saint-Nazaire au travail : nourrir et régaler avec les produits d’ici",
+      "url": "https://www.nonfiction.fr/article-12888-saint-nazaire-au-travail-nourrir-et-regaler-avec-les-produits-dici.htm",
+      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Saint-Nazaire au travail : celles qui écoutent",
       "url": "https://www.nonfiction.fr/article-12871-saint-nazaire-au-travail-celles-qui-ecoutent.htm",
@@ -104,22 +120,6 @@
       "url": "https://www.nonfiction.fr/article-12885-fantomatique-modiano.htm",
       "description": "* Anne Coudreuse a également publié une  critique  du roman de Patrick Modiano.  \r\n\r\n Il y a une sorte de point aveugle dans l’œuvre de Modiano. Une chose non précisément représentable, qu’il n’a pas vécue, mais qui l’habite cependant. Sa conscience vogue sur les ondes de l’espace-temps. Il est, en même temps, là et ailleurs. Il cherche des traces dans son passé et dans celui de personnes qu’il a connues dans les jours lointains de sa jeunesse. Il poursuit notamment l’insaisissable Albert Modian",
       "date": "Sat, 17 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Foucault cases à cases",
-      "url": "https://www.nonfiction.fr/article-12865-foucault-cases-a-cases.htm",
-      "description": "Le genre biographique en bande dessinée est en plein essor. Ces biographies dessinées peuvent adopter un modèle didactique, en revenant sur la vie du sujet en question de manière chronologique et en s’efforçant de restituer un maximum d’informations.  Foucault. Vies parallèles  de Morvandiau et Mathieu Potte-Bonneville s’écarte clairement d’une telle option, sûrement difficile à appliquer pour un monument intellectuel comme Michel Foucault. En parallèle, à l’occasion du centenaire de sa naissanc",
-      "date": "Sun, 27 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,

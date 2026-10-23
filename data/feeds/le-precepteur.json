@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-18T19:24:34.712921+00:00",
+  "fetchedAt": "2026-10-23T08:59:39.611660+00:00",
   "items": [
     {
       "title": "L'anneau qui vous rend invisible",
@@ -180,6 +180,22 @@
       }
     },
     {
+      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
+      "url": "https://www.youtube.com/shorts/q9N2R7fHA9c",
+      "description": "⬇️ Complétez ma liste en commentaire",
+      "date": "2026-10-21",
+      "thumbnail": "https://i2.ytimg.com/vi/q9N2R7fHA9c/hqdefault.jpg",
+      "videoId": "q9N2R7fHA9c",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Si tu as aimé ce film, lis ce philosophe",
       "url": "https://www.youtube.com/shorts/QfoKf8pL4L4",
       "description": "⬇️ Complétez la liste en commentaire",
@@ -218,22 +234,6 @@
       "date": "2026-09-29",
       "thumbnail": "https://i1.ytimg.com/vi/PEbQZeIdNRQ/hqdefault.jpg",
       "videoId": "PEbQZeIdNRQ",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Si tu penses ça, ton philosophe est...",
-      "url": "https://www.youtube.com/shorts/7BiLILZNx4g",
-      "description": "Quel est ton philosophe ?",
-      "date": "2026-09-18",
-      "thumbnail": "https://i4.ytimg.com/vi/7BiLILZNx4g/hqdefault.jpg",
-      "videoId": "7BiLILZNx4g",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

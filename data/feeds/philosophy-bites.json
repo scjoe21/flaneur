@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-10-18T19:24:56.419832+00:00",
+  "fetchedAt": "2026-10-23T09:00:00.808074+00:00",
   "items": [
     {
       "title": "Lani Watson on the Power of Questions",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Daisy Dixon on Depraved Art",
+      "url": "https://philosophybites.libsyn.com/daisy-dixon-on-depraved-art",
+      "description": "Can a work of art be immoral? What does that mean? Daisy Dixon, author of Depraved: The Story of Dangerous Art discusses this question with Nigel Warburton in this episode of the Philosophy Bites podcast.",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://philosophybites.libsyn.com/peter-singer-on-ending-innocent-lives",
       "description": "The utilitarian philosopher Peter Singer has controversial views about when it is acceptable to end a human life. In conversation with David Edmonds he explains his approach, using examples from a range of areas, including infanticide. Some listeners may find some aspects of this discussion disturbing.",
       "date": "Thu, 30 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Angie Hobbs on Plato on Power",
-      "url": "https://philosophybites.libsyn.com/angie-hobbs-on-plato-on-power",
-      "description": "",
-      "date": "Thu, 11 Dec 2025",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

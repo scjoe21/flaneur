@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-18T19:24:35.868030+00:00",
+  "fetchedAt": "2026-10-23T08:59:40.344830+00:00",
   "items": [
     {
       "title": "Anne Carson, le paradoxe de l’amour",
@@ -20,22 +20,6 @@
       }
     },
     {
-      "title": "Pourquoi les démocraties occidentales ont-elles fait le choix du pétrole ?",
-      "url": "https://www.philomag.com/articles/pourquoi-les-democraties-occidentales-ont-elles-fait-le-choix-du-petrole",
-      "description": "",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Michel Foucault, le Monte-Cristo de la philosophie",
       "url": "https://www.philomag.com/articles/michel-foucault-le-monte-cristo-de-la-philosophie",
       "description": "",
@@ -49,6 +33,102 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "André Comte-Sponville : “Je n’aimais pas mon époque, j’ai donc choisi la sagesse”",
+      "url": "https://www.philomag.com/articles/andre-comte-sponville-je-naimais-pas-mon-epoque-jai-donc-choisi-la-sagesse",
+      "description": "",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Étymocurieux : “Les mots ordinaires cachent toujours quelque chose d’extraordinaire”",
+      "url": "https://www.philomag.com/articles/etymocurieux-les-mots-ordinaires-cachent-toujours-quelque-chose-dextraordinaire",
+      "description": "",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "“Naza”, la banalité collatérale du mal",
+      "url": "https://www.philomag.com/articles/naza-la-banalite-collaterale-du-mal",
+      "description": "",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Y aura-t-il une présidentielle au printemps ?",
+      "url": "https://www.philomag.com/articles/y-aura-t-il-une-presidentielle-au-printemps",
+      "description": "",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Violence symbolique... ou réelle ? Le match Aron-Bourdieu",
+      "url": "https://www.philomag.com/articles/violence-symbolique-ou-reelle-le-match-aron-bourdieu",
+      "description": "",
+      "date": "Tue, 20 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Le 17 octobre décrypté en 9 concepts",
+      "url": "https://www.philomag.com/articles/le-17-octobre-decrypte-en-9-concepts",
+      "description": "",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -152,86 +232,6 @@
       "url": "https://www.philomag.com/articles/peut-se-detacher-de-son-corps",
       "description": "",
       "date": "Sat, 10 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La sincérité, notre nouveau rempart",
-      "url": "https://www.philomag.com/articles/la-sincerite-notre-nouveau-rempart",
-      "description": "",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Faut-il maîtriser ses désirs ou les écouter ?",
-      "url": "https://www.philomag.com/articles/faut-il-maitriser-ses-desirs-ou-les-ecouter",
-      "description": "",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Catho de gauche cherche ‘katechon’ désespérément",
-      "url": "https://www.philomag.com/articles/catho-de-gauche-cherche-katechon-desesperement",
-      "description": "",
-      "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Omri Boehm : “Inventer un nouveau point d’Archimède entre Israéliens et Palestiniens”",
-      "url": "https://www.philomag.com/articles/omri-boehm-inventer-un-nouveau-point-darchimede-entre-israeliens-et-palestiniens",
-      "description": "",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Et si demain, on avait tous le même visage ?",
-      "url": "https://www.philomag.com/articles/et-si-demain-avait-tous-le-meme-visage",
-      "description": "",
-      "date": "Mon, 05 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

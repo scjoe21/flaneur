@@ -1,7 +1,7 @@
 {
   "sourceId": "then-and-now",
   "sourceName": "Then & Now",
-  "fetchedAt": "2026-10-18T19:24:56.713165+00:00",
+  "fetchedAt": "2026-10-23T09:00:01.553654+00:00",
   "items": [
     {
       "title": "yes, neoliberalism turned a generation anxious...",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The most useful insight about burnout...",
+      "url": "https://www.youtube.com/watch?v=ztQ1RMtbxog",
+      "description": "From BURNOUT: The Complete Guide to an Exhausted World\nhttps://youtu.be/_fV5JF5Hf68?si=0yexyTVfAUpvKOpn",
+      "date": "2026-10-19",
+      "thumbnail": "https://i3.ytimg.com/vi/ztQ1RMtbxog/hqdefault.jpg",
+      "videoId": "ztQ1RMtbxog",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-02-23",
       "thumbnail": "https://i2.ytimg.com/vi/Ue5qmlev96s/hqdefault.jpg",
       "videoId": "Ue5qmlev96s",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Resisting the Attention Economy",
-      "url": "https://www.youtube.com/shorts/iHAZQ6Pkb7c",
-      "description": "Resisting the Attention Economy",
-      "date": "2026-02-19",
-      "thumbnail": "https://i2.ytimg.com/vi/iHAZQ6Pkb7c/hqdefault.jpg",
-      "videoId": "iHAZQ6Pkb7c",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

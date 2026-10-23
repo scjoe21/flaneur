@@ -1,13 +1,45 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-18T19:25:21.913758+00:00",
+  "fetchedAt": "2026-10-23T09:00:34.780834+00:00",
   "items": [
     {
-      "title": "iPhone DuoとAIの融合から、“ポストスマートフォン”のかたちが見えてきた",
-      "url": "https://wired.jp/article/iphone-duo-ai-post-smartphone/",
-      "description": "「AIの時代に乗り遅れた」と言われてきたアップル。しかし、9月9日（西海岸時間）に発表されたiPhone Duoをはじめとする製品群は、アプリを操作することさえ意識しなくて済む新たな時代の到来を予感させる。",
-      "date": "Sun, 18 Oct 2026",
+      "title": "防災グッズおすすめ14選：WIRED SHOPPING GUIDE",
+      "url": "https://wired.jp/article/best-emergency-preparedness-gear/",
+      "description": "機能やデザインに引かれて選んだ道具が、もしものときにも頼りになる。防災士の視点をヒントに、暮らしのなかで備えにつながる14のアイテムを紹介する。",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "わたしはいまも、iPodは完璧なガジェットだったと確信している",
+      "url": "https://wired.jp/article/im-still-convinced-the-ipod-was-the-perfect-gadget/",
+      "description": "25年前の今日、「1,000曲をポケットに」というキャッチフレーズで発表されたiPod。ネットにつながらない、音楽専用のデバイスが与える幸せを味わえない世代は寂しいと、スティーヴン・レヴィは思っている。",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Nothing「Headphone (1) Pro」レビュー：独自のデザインと自在なEQ設定が光る",
+      "url": "https://wired.jp/review/nothing-headphone-1-pro/",
+      "description": "Nothingのフラッグシップヘッドフォンは、快適な装着感に加え、優れた音質と細かな音質調整機能を備えている。ノイズキャンセリングでは競合に一歩譲るものの、存在感を放つ一台だ。",
+      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,58 +52,10 @@
       }
     },
     {
-      "title": "スーパー・エルニーニョと温暖化が重なると、何が起きるのか？",
-      "url": "https://wired.jp/article/super-el-nino-climate-change-connections/",
-      "description": "観測史上最強となる可能性がある今年のエルニーニョ。気候変動とどう影響し合い、温暖化した世界に何をもたらすのか。科学者たちが、その答えを追っている。",
-      "date": "Sun, 18 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "ザ・ノース・フェイス、60年の重みと終わらない探求",
-      "url": "https://wired.jp/article/thenorthface-60-neverstopexploringexhibition/",
-      "description": "ザ・ノース・フェイスの「NEVER STOP EXPLORING EXHIBITION」で、名作ギアから自然とのかかわりまでを貫く思想に触れる。",
-      "date": "Sat, 17 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "医師は「AI時代に自分たちに残された仕事は？」と自問を始めている",
-      "url": "https://wired.jp/article/sz-ai-has-human-doctors-asking-whats-left-for-us/",
-      "description": "最近のある論文は、AIは医師よりも診療がうまいだけでなく、人間がループに入らない方が正確な診断を下すと主張する。それを喜んでいないのが誰かは、お察しの通りだ。",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "見ごろを迎えるオリオン座流星群とは？",
-      "url": "https://wired.jp/article/orionid-meteor-shower-halleys-comet-fragments/",
-      "description": "ハレー彗星が残した小さな破片が夜空を流れるオリオン座流星群が、10月22日ごろにピークを迎える。暗い空で観察できる条件が揃えば、1時間あたり5〜10個程度の流れ星が見られるかもしれない。",
-      "date": "Sat, 17 Oct 2026",
+      "title": "グーグルからトップAI研究者4人が去り「Discovery Loop」を設立",
+      "url": "https://wired.jp/article/sz-jeff-dean-google-discovery-loop-startup/",
+      "description": "ジェフ・ディーンをはじめとするグーグルの精鋭幹部たちが、創薬からチップ設計まであらゆる分野でAIによるブレークスルーを追求するスタートアップを設立した。",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -84,26 +68,10 @@
       }
     },
     {
-      "title": "テック富裕層が支援する「Praxis」、AGI時代を見据えた都市開発をウルグアイで計画",
-      "url": "https://wired.jp/article/a-community-of-millionaires-plans-to-build-its-first-ai-backed-tech-libertarian-autonomous-nation-in-uruguay/",
-      "description": "「世界初のデジタル国家」を自称するPraxisが、ウルグアイでの都市開発を通じて、独自のコミュニティづくりを進めようとしている。テクノリバタリアンが掲げる構想は、富や権力の集中への懸念も呼んでいる。",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "アマゾンの新しい「Kindle」シリーズは、軽く、薄く、よりメタリックに",
-      "url": "https://wired.jp/article/amazon-kindle-paperwhite-colorsoft-2026-refresh/",
-      "description": "来年、発売20周年を迎えるKindleが、ひと足早く大幅な刷新を遂げた。アルミニウム製の新モデルや大胆な新色が登場し、より薄く、軽くなった電子書籍リーダーは、読書体験をどう変えるのか。",
-      "date": "Sun, 18 Oct 2026",
+      "title": "OpenAI、脳インプラントでがんの検知を目指すスタートアップに出資",
+      "url": "https://wired.jp/article/openai-startup-brain-implants-detect-cancer/",
+      "description": "OpenAI Startup Fundなどが出資するCoherence Neuroは、脳腫瘍に関連する電気信号を検出し、がんの状態の把握や治療につなげる技術を開発している。",
+      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +84,10 @@
       }
     },
     {
-      "title": "「太陽光を遮る」机上演習。その結末は想像以上に深刻だった",
-      "url": "https://wired.jp/article/they-war-gamed-dimming-the-sun-it-went-even-worse-than-you-think/",
-      "description": "地球を冷やすソーラージオエンジニアリングを巡り、科学者や軍関係者らが国際交渉を模擬した。そこで浮かび上がったのは、科学より国益と疑念が優先され、協調が崩れていくという地政学的リスクだった。",
-      "date": "Sat, 17 Oct 2026",
+      "title": "PHPの脆弱性、修正パッチの公開前から攻撃の試み",
+      "url": "https://wired.jp/article/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
+      "description": "プログラミング言語PHPに見つかった2件の重大な脆弱性「PHP2Shell」。AWSの調査で、修正パッチの公開4日前に攻撃が試みられていたことが判明した。",
+      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +100,10 @@
       }
     },
     {
-      "title": "ルッキズムと闘うために何をすべきか？",
-      "url": "https://wired.jp/article/sz-should-we-do-more-to-fight-lookism/",
-      "description": "ドラマ『ダウンタイム』でも話題になったルッキズム。容姿や外見で人を判断し差別する風潮は、世界に広く浸透し、かつ黙認されている。わたしたちは美醜について、正面から語り合うべきなのだろうか？",
-      "date": "Sat, 17 Oct 2026",
+      "title": "広告を見るだけでスパイウェアに感染、ゼロクリック攻撃の“最悪のシナリオ”が現実に",
+      "url": "https://wired.jp/article/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
+      "description": "トロント大学の研究機関Citizen Labが、オンライン広告を通じてスパイウェアに感染させるゼロクリック攻撃の技術的証拠を公開した。利用者は感染に気づきにくく、攻撃の検出も難しい。有効な防御策も限られている。",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +116,10 @@
       }
     },
     {
-      "title": "メタ、「Muse Wonder」で再びAIの最前線へ",
-      "url": "https://wired.jp/article/muse-wonder-puts-meta-back-at-the-ai-frontier/",
-      "description": "メタが新AIモデル「Muse Wonder」と「Muse Wonder Full」を発表した。かつて「Llama」シリーズでAI開発を先導したメタは、高い性能と安全性を追求した新モデルで、再びAI開発の最前線を目指す。",
-      "date": "Sat, 17 Oct 2026",
+      "title": "iPhone Duo先行レビュー：戸惑いの先には、“新しい使い心地”が待っている",
+      "url": "https://wired.jp/article/iphone-duo-review-beyond-learning-curve/",
+      "description": "アップルの「iPhone Duo」を先行レビューして感じたのは、ユーザーに新しい使い方を要求するということ。使いにくいと感じるかもしれないが、それは「ポストスマートフォン」に向けての“成長痛”なのかもしれない。",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +132,10 @@
       }
     },
     {
-      "title": "病気の原因が謎？ 「メタゲノム解析」を試してみるといい",
-      "url": "https://wired.jp/article/sz-stumped-by-a-medical-mystery-try-metagenomics/",
-      "description": "医師には思いもよらない病因を提示し、体内に潜むウイルス・細菌・真菌の遺伝子のかけらを探し出すメタゲノム解析が、迅速な診断と病気特定のための選択肢となっている。",
-      "date": "Fri, 16 Oct 2026",
+      "title": "第2世代のAIネックレス「Friend」はおしゃべりだが、“個性”を失った",
+      "url": "https://wired.jp/article/my-friend-has-no-soul/",
+      "description": "AIチャットボットを搭載したペンダント「Friend」の第2世代モデルが登場した。声で会話できるようになった一方、初代モデルにあった気の強さや独特の個性は薄れた。",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +148,10 @@
       }
     },
     {
-      "title": "アニメの中の宇宙人：第1回_1958年の火星人──国産アニメ最初の宇宙人を探す",
-      "url": "https://wired.jp/article/ryota-fujitsu-aliens-in-anime-1/",
-      "description": "20世紀後半、アニメは、さまざまな設定＆デザインの「宇宙人」を描いてきた。アニメ評論家・藤津亮太がその慧眼で斬り込む「アニメの中の宇宙人」論が連載開始！",
-      "date": "Fri, 16 Oct 2026",
+      "title": "AIデータセンターの排熱が水不足を救うかもしれない",
+      "url": "https://wired.jp/article/startup-atoco-makes-water-from-air-using-data-centers/",
+      "description": "ノーベル化学賞受賞者が創業した米スタートアップAtocoは、金属有機構造体（MOF）を使い、乾燥した空気から水を取り出す技術を開発した。AIデータセンターの排熱と水不足に同時に対処できる可能性がある。",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +164,10 @@
       }
     },
     {
-      "title": "テスラの新型「ロードスター」が“飛んだ”",
-      "url": "https://wired.jp/article/tesla-roadster-2-launch/",
-      "description": "テスラが新型高級スポーツカー「ロードスター」をテキサス州で披露した。4基のスラスターを使い、車体を空中に浮かせる実演も行なった。2017年の発表から9年を経て、生産は2028年に開始する予定だ。",
-      "date": "Fri, 16 Oct 2026",
+      "title": "人気低迷の民主党で抗う「七人の侍」、あるいは「マグニフィセント・セブン」──「アメリカン・ドッペルゲンガー」by 池田純一#18",
+      "url": "https://wired.jp/article/american-doppelganger-18/",
+      "description": "11月初旬に迫った中間選挙。最近の報告では、上院議員選において7つの州が「トスアップ」（接戦）になると発表された。いずれも、従来なら共和党が優勢とされている州ばかり。アメリカのローカルで、いま何が起きているのか？",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +180,10 @@
       }
     },
     {
-      "title": "アマゾンの新型Alexaタブレットが示す、スマートフォン再挑戦への道筋",
-      "url": "https://wired.jp/article/alexa-tablets-blueprint-for-upcoming-amazon-phone/",
-      "description": "アマゾンの新型「Alexa Tablet」は、AIアシスタント「Alexa+」を中心に据えた高級路線のタブレット端末だ。そして、その機能と設計からは、開発が噂されるアマゾン製スマートフォンの方向性が見えてくる。",
-      "date": "Thu, 15 Oct 2026",
+      "title": "パリモーターショー2026で注目の11モデル：EV時代の欧州メーカーは「伝統」で勝負",
+      "url": "https://wired.jp/article/paris-motor-show-2026-11-notable-models/",
+      "description": "「パリモーターショー 2026」では、シトロエン「2 CV」やルノー「エスパス」といった往年の名車がEVとして相次いで“復活”。中国資本のブランドも欧州市場への攻勢を強めている。それらのなかから、注目すべき11モデルを紹介しよう。",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +196,42 @@
       }
     },
     {
-      "title": "肌の生物学的年齢を巻き戻せるか。新たな治療薬の可能性",
-      "url": "https://wired.jp/article/new-anti-aging-drug-trial-for-skin/",
-      "description": "バイオテック企業Rubedo Life Sciencesは、細胞老化を標的とするクリーム状の治療薬を開発している。小規模な臨床試験では、4週間の使用後、参加者の肌の生物学的年齢が平均で約2歳若くなったと推定された。",
-      "date": "Thu, 15 Oct 2026",
+      "title": "日本の火星衛星探査機「MMX」が打ち上げ成功、サンプルリターンを中国と競う",
+      "url": "https://wired.jp/article/mmx-launch-success-mars-moon-sample-return-race/",
+      "description": "JAXAの火星衛星探査機「MMX」が打ち上げに成功した。NASAが火星サンプルリターン計画を事実上断念するなか、火星圏から初めて試料を持ち帰る座を中国の「天問3号」と争う5年間の旅が始まる。",
+      "date": "Tue, 20 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "イーロン・マスク、共和党の中間選挙をほぼ独力で資金面から支える",
+      "url": "https://wired.jp/article/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
+      "description": "マスクは今回の中間選挙で、大統領選並みの選挙運動体制を構築している。共和党の投票促進活動を事実上掌握するその資金力を、『WIRED』が独自に集計・分析したデータから読み解く。",
+      "date": "Tue, 20 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "うるう秒に終止符。「たった1秒」がもたらしてきた影響",
+      "url": "https://wired.jp/article/leap-second-is-abolished-bipm-says/",
+      "description": "うるう秒の廃止が正式に決まった。世界の時計が時刻調整のための“プラス1秒”に別れを告げるのは、2027年5月だ。",
+      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

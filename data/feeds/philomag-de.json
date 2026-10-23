@@ -1,22 +1,118 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-18T19:24:41.525244+00:00",
+  "fetchedAt": "2026-10-23T08:59:46.758966+00:00",
   "items": [
     {
-      "title": "Olga L. Lizzini: „Für Avicenna hängt die Gesundheit der Seele unmittelbar von unserem Verhältnis zur Wahrheit ab“",
-      "url": "https://www.philomag.de/artikel/olga-l-lizzini-fuer-avicenna-haengt-die-gesundheit-der-seele-unmittelbar-von-unserem",
-      "description": "Der muslimische Universalgelehrte Avicenna leistete wesentliche Rezeptionen Aristoteles‘, die unter anderem Thomas von Aquin prägten. Wie Avicenna auf Aristoteles aufbaute und seine Philosophie im  Buch der Genesung  neu- sowie weiterdachte, erklärt die Philosophin Olga L. Lizzini.",
-      "date": "Thu, 08 Oct 2026",
+      "title": "Gibt es Parallelwelten?",
+      "url": "https://www.philomag.de/artikel/gibt-es-parallelwelten",
+      "description": "Manche Versionen unseres Selbst verwirklichen wir nie. Sei es, weil uns die Möglichkeiten fehlen oder weil wir uns anders entschieden haben. Doch was passiert mit unseren Leben, die auch vorstellbar gewesen wären? In der Philosophie und auch in der Physik wird eine faszinierende Annahme vertreten: Unsere ungelebten Existenzen existieren. Nur anderswo.",
+      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 25
+      }
+    },
+    {
+      "title": "Richard David Precht: „Der lange Weg zwischen Frage und Antwort ist eine stetige Arbeit an sich selbst“",
+      "url": "https://www.philomag.de/artikel/richard-david-precht-der-lange-weg-zwischen-frage-und-antwort-ist-eine-stetige-arbeit",
+      "description": "Unserer Gesellschaft droht eine „kulturelle Demenz“, meint Richard David Precht. Denn die künstliche Intelligenz versorge uns mit schnellen Antworten, die wir weder wirklich verstehen noch erinnern. Im Gespräch erklärt er, welche Aufgabe die Schulen heute haben, und erinnert an das humanistische Bildungsideal, das sein Vater noch verkörperte.",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 25
+      }
+    },
+    {
+      "title": "Katharina Pistor: „Die Rechtsordnung muss von innen heraus neugestaltet werden“",
+      "url": "https://www.philomag.de/artikel/katharina-pistor-die-rechtsordnung-muss-von-innen-heraus-neugestaltet-werden",
+      "description": "In ihrem neuen Buch zeigt die Rechtswissenschaftlerin Katharina Pistor, wie eng Kapitalismus und Recht miteinander verwoben sind und dass ersterer auf letzterem fußt. Was das bedeutet, welche Probleme daraus erwachsen und wie das Recht transformiert werden sollte, erklärt sie im Gespräch.",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
       "scoreDetail": {
         "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Die Relevanz des Leibes",
+      "url": "https://www.philomag.de/artikel/die-relevanz-des-leibes",
+      "description": "In  Das andere Geschlecht  problematisiert Beauvoir den weiblichen Körper als Einschränkung einer selbstbestimmten Existenz. Gleichzeitig verleiht sie leiblichen Erfahrungen Gewicht. Daraus lassen sich gerade heute wichtige Schlüsse ziehen.",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 20
+      }
+    },
+    {
+      "title": "Frédéric Gros: „Foucault preist die politische Bedeutung des lokalen Wissens“",
+      "url": "https://www.philomag.de/artikel/frederic-gros-foucault-preist-die-politische-bedeutung-des-lokalen-wissens",
+      "description": "Michel Foucaults Denken kreiste in seinen letzten Lebensjahren um den Begriff der  parrhesia : Dem Wahrsprechen entgegen der vorherrschenden Meinung – auch wenn das gefährlich ist. Der Philosoph Frédéric Gros gibt einen Einblick in Foucaults Spätwerk und erklärt, was Wahrheit für diesen bedeutete.",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Sophia Fritz: „Zum Ideal des Mannseins gehört, niemals Opfer zu sein“",
+      "url": "https://www.philomag.de/artikel/sophia-fritz-zum-ideal-des-mannseins-gehoert-niemals-opfer-zu-sein",
+      "description": "In ihrem jüngst erschienenen Buch untersucht Sophia Fritz, wie die patriarchale Sozialisation Männern schadet und sie daran hindert, ihr eigenes Leiden anzuerkennen. Was gewinnen wir, wenn wir uns von starren Männlichkeitsnormen lösen? Und wie kann das gelingen? Ein Gespräch über soldatische Ideale, fehlende Solidarität und die Sehnsucht nach dem Menschen mit all seinen Emotionen.",
+      "date": "Tue, 20 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Wir Intelligenzbestien",
+      "url": "https://www.philomag.de/artikel/wir-intelligenzbestien",
+      "description": "Der Boom der künstlichen Intelligenz führt dazu, dass auch die menschliche Intelligenz neu und kritisch verhandelt wird. Drei Bücher erforschen aus unterschiedlicher Perspektive, was wir wissen können – und wie wir unsere Klugheit messen wollen.",
+      "date": "Tue, 20 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -68,58 +164,10 @@
       }
     },
     {
-      "title": "Der Weltgeist und die Geopolitik",
-      "url": "https://www.philomag.de/artikel/der-weltgeist-und-die-geopolitik",
-      "description": "Vor über 60 Jahren diskutierten der französische Philosoph Alexandre Kojève und der deutsche Staatsrechtler Carl Schmitt über die heraufziehende Weltordnung. Die Berührungspunkte beider Denker, die sich in zentralen Fragen uneins waren, könnten für unsere heutige geopolitische Situation wegweisend sein.",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Jens Balzer: „Eschatologisierung bedeutet eine Radikalisierung von Politik“",
-      "url": "https://www.philomag.de/artikel/jens-balzer-eschatologisierung-bedeutet-eine-radikalisierung-von-politik",
-      "description": "Sowohl für die russische als auch für die amerikanische Rechte, so zeigt Jens Balzer, spielen religiöse Begründungen von Politik eine große Rolle. Im Zentrum stehen dabei Vorstellungen eines endzeitlichen Kampfes zwischen Gut und Böse. Ein Gespräch über verbreitete Erlösungshoffnungen und überraschende ideologische Verbindungen.",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 20
-      }
-    },
-    {
-      "title": "Was bleibt vom Liberalismus?",
-      "url": "https://www.philomag.de/artikel/was-bleibt-vom-liberalismus",
-      "description": "Von dem Liberalismus als politischer Idee, die Fortschrittsglaube und Wirtschaftsfreiheit sowie Emanzipation und Eigentumssicherheit in sich verband, sind heute vor allem zwei verkürzte Formen übrig: Marktliberalismus und Kulturliberalismus. Über die Entwicklung und die heutigen Probleme des Liberalismus.",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "Carolin Emcke: „Es braucht eine gewisse Bereitschaft für Irritierbarkeit“",
-      "url": "https://www.philomag.de/artikel/carolin-emcke-es-braucht-eine-gewisse-bereitschaft-fuer-irritierbarkeit",
-      "description": "Wie lässt sich dem Leid im Nahen Osten begegnen, ohne es gegeneinander aufzurechnen? Die Autorin Carolin Emcke spricht über die Zumutbarkeit genauer Gewaltbeschreibungen, die Grenzen des deutschen Diskurses und plädiert für eine universalistische Empathie.",
-      "date": "Wed, 07 Oct 2026",
+      "title": "Beauvoirs Leserinnen und ich",
+      "url": "https://www.philomag.de/artikel/beauvoirs-leserinnen-und-ich",
+      "description": "Simone de Beauvoir erreichte Tausende von Leserinnen und veränderte, wie diese sich und ihr Leben sahen. Das gilt auch für die Historikerin Marine Rouch, die die Briefe studierte, die Beauvoir erhielt.",
+      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -164,38 +212,6 @@
       }
     },
     {
-      "title": "Kreis der Existenzialisten",
-      "url": "https://www.philomag.de/artikel/kreis-der-existenzialisten",
-      "description": "In den 1930ern entwickelt sich in Frankreich eine Denkströmung, die als Existenzialismus bekannt wird und Kultstatus erreicht. Ein Überblick zentraler Figuren und Vordenker.",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Die falsche Wärme linker Menschenfreunde",
-      "url": "https://www.philomag.de/artikel/die-falsche-waerme-linker-menschenfreunde",
-      "description": "Dass es Konservativen bei ihrem Antisemitismusvorwurf an die Partei Die Linke nicht um die Bekämpfung von Antisemitismus geht, mag zutreffen. Davon bleibt aber unberührt, dass die Linke als Partei, in der sich vermehrt personalisierende Kapitalismuskritik, völkische Ideologie und Erlösungsantizionismus finden, ein veritables Antisemitismusproblem hat.",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Sollten wir Freunde vor Fehlern bewahren?",
       "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
       "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.de/artikel/scheue-leoparden",
       "description": "Giuseppe Tomasi di Lampedusas Roman  Der Leopard  ist schon konservativ, reaktionär, kommunistisch und liberal ausgelegt worden. Heute drängt sich eine andere Lesart auf: Wenn der Untergang unabwendbar ist, sollte man ihn mit Würde ertragen.",
       "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Beauvoir in Amerika",
-      "url": "https://www.philomag.de/artikel/beauvoir-amerika",
-      "description": "Die Fahrt durch ein fremdes Land kann den Blick für Aspekte der Welt schärfen, die in der Vertrautheit der Heimat schwer zu erkennen sind. Für Simone de Beauvoir bot ihre Reise durch die USA Einsichten, die auch in ihrem Hauptwerk  Das andere Geschlecht  Ausdruck finden.",
-      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

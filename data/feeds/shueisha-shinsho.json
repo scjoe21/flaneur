@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-10-18T19:25:16.795600+00:00",
+  "fetchedAt": "2026-10-23T09:00:27.780637+00:00",
   "items": [
     {
       "title": "等身大の両岸問題",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "なぜ日本政治は液状化したのか？　細川護熙が語る「保守の真髄」",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/jimin_mori/37115",
+      "description": "自民党の保守政治は1990年代から崩れていった。きっかけは1993年８月の細川護熙が率いた8党会派連立政権の誕生に違いない。ここから自民党は1955年の保守合同以来、初めて野に下った。と同時に、対峙してきた革新政党の凋 […]",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -36,6 +52,22 @@
       }
     },
     {
+      "title": "小山美砂×小山田浩子　『ルポ 被爆二世』刊行記念対談【前編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/koyama_oyamada/37132",
+      "description": "小山　今日は広島市在住の小説家、小山田浩子さんをゲストにお招きしました。ゆっくりお話しすることは初めてで、戦争をテーマにいろいろお伺いしたいと思い、お声がけしました。 小山田　私は広島生まれ、広島育ちです。今も広島にいて […]",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "国家を超える原住民の壮大な価値観",
       "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36864",
       "description": "文・写真／前川仁之 　台湾島の地理はたのしい変化に富んでいる。九州よりも少し小さい島に、3000メートル級の山が269座もひしめいている、という数字からも急峻な様が想像されよう。しかも島の中ほどを北回帰線が通っており、自 […]",
@@ -52,35 +84,51 @@
       }
     },
     {
-      "title": "人と自然と、長い歴史。「液体」の背後にあるものに思いを馳せる、イタリアワインの楽しみ方",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/sakurai_tanaka/36965",
-      "description": "田中優子さん（以下、田中）　私、『グラスの中のイタリア』を拝読して、本当に晴れ晴れとした気持ちになる本だなっていうふうに思ったんですね。 櫻井芙紗子さん（以下、櫻井）　ありがとうございます。 田中　後で現地の映像なども見 […]",
-      "date": "Wed, 07 Oct 2026",
+      "title": "【11月7日(土)】『ディープ・ニッポン』刊行記念 アレックス・カー×大島 淳之×清野由美 トークイベント",
+      "url": "https://shinsho-plus.shueisha.co.jp/information/37208",
+      "description": "みなさん、次の旅はどこにしますか？旅は楽しいけれど、どこも混雑が激しくて……という昨今ですが、インバウンドが押し寄せない心静かな日本の「奥」を探訪するのはいかがでしょうか？ 『ディープ・ニッポン』『ニッポン巡礼』『ニッポ […]",
+      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "novelty": 0,
+        "total": 0
       }
     },
     {
-      "title": "悲惨なイメージが繫ぐもの",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/tadashi_tamura/36826",
-      "description": "塚本晋也監督の映画『ネルソンさん、あなたは人を殺しましたか？』を観に行った。一八歳で米軍の海兵隊に入隊しヴェトナム戦争に従軍したアレン・ネルソンが、帰還後にPTSDをわずらい、苦しみながら、そこから抜け出すことを目指し […]",
-      "date": "Tue, 29 Sep 2026",
+      "title": "「新しい戦前」をきちんと理解するために今、大江を読む",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/narita_nagase/37178",
+      "description": "取材・構成：集英社新書編集部　　撮影：五十嵐和博 成田　小森陽一さんとの対談『大江健三郎を読む』が、今年の８月７日、集英社新書として刊行されました。朝日カルチャーセンター新宿校で2024年１月から１年間行った連続講義をも […]",
+      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "小山美砂×小山田浩子　『ルポ 被爆二世』刊行記念対談【後編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/koyama_oyamada/37139",
+      "description": "小山　被爆二世の声をすくい上げることの難しさを振り返ってきました。このあたりは、小山田さんが『作文』で扱った聞き書きの不確かさにつながる話かもしれませんね。 小山田　そうですね。私が祖母に聞き取りをした時、彼女の年齢はす […]",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -104,54 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36829",
       "description": "文・写真／前川仁之 　2026年初春。台湾島最南端、恒春半島の墾丁ケンティンはこの島で最初の国家公園に指定された、風光明媚なリゾート地だ。ここはもう北回帰線より南の熱帯地域。長大な海外線を持つわりにはビーチの少ない台湾島 […]",
       "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "【福祉排外主義】「医療費削減」のためにやり玉に挙げられがちな高齢者……　「もっと負担を増やしても平気」なのか？",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/36934",
-      "description": "前回に続き、高齢者世代に対する高額療養費制度〈見直し〉の影響について、考察を続けよう。 　今年８月に〈見直し〉が実施された際には、その制度変更がもたらす問題は、テレビや新聞・オンラインメディアでも様々に取り上げられた。 […]",
-      "date": "Mon, 05 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "【11月7日】『ショパン・コンクールよ、どこへいく』刊行記念対談イベントを開催！",
-      "url": "https://shinsho-plus.shueisha.co.jp/information/36915",
-      "description": "2026年11月7日　17:00～18:30 会員　4,323円 一般　5,423円 申し込みは下記よりご確認ください https://www.asahiculture.com/asahiculture/asp-weba […]",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "「レクリエーション」では収まらない！？",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/36906",
-      "description": "デイサービスには、「レクリエーション」と呼ばれる時間があります。昼食のあと、フロアの椅子の向きが少し変わり、職員が前に立つ。今日は歌なのか、体操なのか、季節に合わせた制作やクイズなのか。利用者さんはそれぞれの席で、その […]",
-      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

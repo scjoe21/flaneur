@@ -1,13 +1,29 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-10-18T19:24:58.769609+00:00",
+  "fetchedAt": "2026-10-23T09:00:10.298180+00:00",
   "items": [
     {
-      "title": "How the Rabbit Revolution Went Too Far",
-      "url": "https://www.theatlantic.com/ideas/2026/10/vibrators-sexuality-intimacy-loneliness/689004/?utm_source=feed",
+      "title": "Why So Many Men Aren’t Working",
+      "url": "https://www.theatlantic.com/ideas/2026/10/job-market-unemployment-men-screentime/689109/?utm_source=feed",
       "description": "",
-      "date": "2026-10-18",
+      "date": "2026-10-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "The Cynicism of Trump’s Climate Policy",
+      "url": "https://www.theatlantic.com/ideas/2026/10/epa-greenhouse-gas-emissions-power/689070/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-20",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,10 +36,10 @@
       }
     },
     {
-      "title": "What Newsrooms Should Know Before They Take Money From OpenAI",
-      "url": "https://www.theatlantic.com/ideas/2026/10/newsrooms-journalism-openai-funding/689043/?utm_source=feed",
+      "title": "Why Is Strategy So Difficult?",
+      "url": "https://www.theatlantic.com/ideas/2026/10/strategy-military-politics-war/689072/?utm_source=feed",
       "description": "",
-      "date": "2026-10-16",
+      "date": "2026-10-20",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -36,26 +52,58 @@
       }
     },
     {
-      "title": "The Rise of In-Office Remote Work",
-      "url": "https://www.theatlantic.com/ideas/2026/10/in-office-remote-work/688993/?utm_source=feed",
+      "title": "How Corruption Got This Bad",
+      "url": "https://www.theatlantic.com/ideas/2026/10/constitution-trump-doj-supreme-court-corruption/689042/?utm_source=feed",
       "description": "",
-      "date": "2026-10-14",
+      "date": "2026-10-19",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "The Minimal Requirements for a Society Free From Fear",
+      "url": "https://www.theatlantic.com/ideas/2026/10/liberalism-fukuyama-shklar-trump/689040/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-19",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "Theranos-Style Fraud Has Become the Norm",
-      "url": "https://www.theatlantic.com/ideas/2026/10/theranos-trump-nathan-fielder/689001/?utm_source=feed",
+      "title": "What the U.S. Is Really Doing in Venezuela",
+      "url": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/?utm_source=feed",
       "description": "",
-      "date": "2026-10-18",
+      "date": "2026-10-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Bill for Trumpism Comes Due",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trump-budget-deficit-debt/689085/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-21",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,170 +116,122 @@
       }
     },
     {
-      "title": "Invasion of the Self-Replicating AI-Malware Botnet",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-malware-botnet/688997/?utm_source=feed",
+      "title": "America Needs Its Indian Immigrants",
+      "url": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/?utm_source=feed",
       "description": "",
-      "date": "2026-10-15",
+      "date": "2026-10-22",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "America Has a Police Shortage",
-      "url": "https://www.theatlantic.com/ideas/2026/10/police-officers-usa-europe/689006/?utm_source=feed",
+      "title": "Like Ken Paxton, Without the Baggage",
+      "url": "https://www.theatlantic.com/ideas/2026/10/texas-attorney-general-race/689061/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "This Is Not a Cycle of Retribution",
+      "url": "https://www.theatlantic.com/ideas/2026/10/slotkin-trump-investigations-corruption/689092/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "France Will Never Be Enough for the People Desecrating It",
+      "url": "https://www.theatlantic.com/ideas/2026/10/france-protests-macron-government/689089/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Sally Rooney Is Wrong, and So Is What’s Happening to Her",
+      "url": "https://www.theatlantic.com/ideas/2026/10/sally-rooney-free-speech/689087/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "All the President’s Hotties",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trump-physical-appearance-senate-midterms/689084/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Mamdani Is the Centrist We’ve Been Waiting For",
+      "url": "https://www.theatlantic.com/ideas/2026/10/mamdani-leftist-moderate-new-york/689053/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-19",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Siding With Putin Is a Huge Mistake",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trump-putin/689067/?utm_source=feed",
       "description": "",
       "date": "2026-10-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Final Defenders",
-      "url": "https://www.theatlantic.com/ideas/2026/10/capital-punishment-mitigators/688995/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Flying Car Must Never Be Built",
-      "url": "https://www.theatlantic.com/ideas/2026/10/tesla-elon-musk-roadster/689059/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Five Fabulous Days of Katie Zacharia",
-      "url": "https://www.theatlantic.com/ideas/2026/10/katie-zacharia-press-secretary-trump/689055/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Big Tech Oligarchs Have a Terrible Plan for Humanity",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-regulation-transhumanism-oligarchs/689013/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "0 for 26: The Trump Administration’s Astonishing Losing Record",
-      "url": "https://www.theatlantic.com/ideas/2026/10/doj-lawsuits-voter-rolls-losing/689003/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-15",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Non-AI AI Jobs",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-new-job-creation/689000/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-15",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Kimberly Guilfoyle Broke Trump’s Most Important Rule",
-      "url": "https://www.theatlantic.com/ideas/2026/10/kimberly-guilfoyle-trump-greece-davos/688996/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump’s Affection for Russia Is No Mystery",
-      "url": "https://www.theatlantic.com/ideas/2026/10/trump-russia-putin-oil/688986/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What If AI Is the End of the World?",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-end-of-world-meaning/688977/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-13",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

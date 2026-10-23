@@ -1,8 +1,24 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-10-18T19:25:18.285359+00:00",
+  "fetchedAt": "2026-10-23T09:00:29.393542+00:00",
   "items": [
+    {
+      "title": "コヨーテ歩き撮り#260",
+      "url": "https://keisobiblio.com/2026/10/19/coyote260/",
+      "description": "鶴岡市の旧・櫛引町地区を走っていると巨大な彫刻が目に入った。強く惹かれるものあり。気がつくと、あっちにもこっちにも。この土地出身の彫刻家・富樫実の作品だった。彼のすべての彫刻は「空（くう）にかける階段」と題されている。\n\nWhile driving through the former Kushibiki Machi, a massive sculpture caught my eye. Instantly I liked it immensely!  They were everywhere. The sculptures are the work of Togashi Minoru, a native of the area.  Titled “Stairs to the Void,” they truly exude a sense of greatness.",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "あとがきたちよみ『社会的ジレンマ――ゲーム理論・計算社会科学・因果推論からの解明』",
       "url": "https://keisobiblio.com/2026/10/02/atogakitachiyomi_shakaitekidilemma/",
@@ -46,22 +62,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "あとがきたちよみ『「意思能力を欠く者」をめぐる行政対応と法的課題』",
-      "url": "https://keisobiblio.com/2026/09/08/atogakitachiyomi_ishinouryokuwokakumono/",
-      "description": "「はしがき」と「第1章　「意思能力を欠く者」をめぐる行政対応と法的課題──本書の問題意識と行政法・行政法学への示唆」を公開しました。",
-      "date": "Tue, 08 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

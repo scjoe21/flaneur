@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-10-18T19:25:05.584315+00:00",
+  "fetchedAt": "2026-10-23T09:00:16.666489+00:00",
   "items": [
     {
       "title": "Junge Pflegende - Wie viel Verantwortung verträgt eine Kindheit?",
@@ -20,22 +20,6 @@
       }
     },
     {
-      "title": "Klänge, Rhythmen, Emotionen - Wie wirkt Musik im Gehirn?",
-      "url": "https://www.deutschlandfunkkultur.de/klaenge-rhythmen-emotionen-wie-wirkt-musik-im-gehirn-100.html",
-      "description": "Musik bewegt Menschen emotional. Aber warum ist das so? Die Gehirnforschung versucht, das mithilfe von etablierten Modellen des menschlichen Bewusstseins zu erklären. Und das könnte auch der Therapie von Parkinson oder Alzheimer dienen. Proff, Iris www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
-    {
       "title": "Kunstfreiheit: Wie Osteuropas Künstler autoritären Regierungen trotzen",
       "url": "https://www.deutschlandfunkkultur.de/feindbild-kunst-wie-osteuropas-kuenstlerinnen-autoritaeren-regierungen-trotzen-100.html",
       "description": "Was passiert, wenn Kunst dem Staat plötzlich als Feindbild gilt? Eine Reise zu Künstlerinnen und Künstlern in Polen, der Slowakei und Serbien mit der Frage: Können ihre Erfahrungen ein Blaupause für Deutschland sein? Ressel, Siegfried www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -49,6 +33,54 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 43
+      }
+    },
+    {
+      "title": "Wie alt ist unser Körper wirklich?",
+      "url": "https://www.deutschlandfunkkultur.de/wie-alt-ist-unser-koerper-wirklich-100.html",
+      "description": "Das wahre Alter eines Menschen steckt nicht nur im Pass. Forschende können inzwischen messen, wie alt Herz, Leber oder Gehirn wirklich sind - und sie stoßen dabei auf erstaunliche Unterschiede. Westerhaus, Christine www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
+      }
+    },
+    {
+      "title": "50 Jahre Frauenhäuser - Noch immer unverzichtbar",
+      "url": "https://www.deutschlandfunkkultur.de/50-jahre-frauenhaeuser-noch-immer-unverzichtbar-100.html",
+      "description": "Als politischer Protest gegen Gewalt entstanden, als Schutzraum geblieben: Frauenhäuser geben Betroffenen seit 50 Jahren Schutz, Hilfe und neue Perspektiven. Heute werden sie so dringend gebraucht wie damals. Seiler, Christiane www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
+      }
+    },
+    {
+      "title": "Bunkermentalität - Schutzräume in der Zeitenwende",
+      "url": "https://www.deutschlandfunkkultur.de/bunkermentalitaet-schutzraeume-in-der-zeitenwende-100.html",
+      "description": "Deutschland prüft, alte Bunker zu reaktivieren, da der Krieg in Europa neue Sicherheitsängste weckt. Viele Schutzräume dienen heute als Museen oder Kunstorte. Auch Serien wie „Fallout“ und „Silo“ greifen die wachsende Bunkermentalität auf. (Erstsendung am 17.3.26) Spittler, Christoph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -148,26 +180,10 @@
       }
     },
     {
-      "title": "Steueroasen in Deutschland - Kann denn Steuernsparen Sünde sein?",
-      "url": "https://www.deutschlandfunkkultur.de/steueroasen-deutschland-gewerbesteuer-100.html",
-      "description": "Ein leeres Büro, ein Firmenschild und schon fließen Millionen. Gemeinden locken milliardenschwere Unternehmen mit Dumping-Steuersätzen an. Doch anderswo fehlt das Geld für Schulen, Kitas und Straßen. Wer zahlt am Ende die Zeche? Kiesel, Heiner www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 24
-      }
-    },
-    {
-      "title": "Stuttgart 21: Was die Deutsche Bahn aus dem Desaster lernen kann",
-      "url": "https://www.deutschlandfunkkultur.de/stuttgart-21-was-die-deutsche-bahn-aus-dem-desaster-lernen-kann-100.html",
-      "description": "Explodierende Kosten, eine um über zehn Jahre verschobene Eröffnung: Das Bahnprojekt Stuttgart 21 ist zur Chiffre für das Versagen der deutschen Verkehrspolitik geworden. Was hat die Bahn daraus für das nächste Großprojekt in Hamburg-Altona gelernt? Reischke, Martin www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 22 Sep 2026",
+      "title": "Deutsche Autobauer in Serbien: Der Unmut der Beschäftigten wächst",
+      "url": "https://www.deutschlandfunkkultur.de/autoindustrie-warum-deutsche-firmen-produktion-nach-serbien-verlagern-neu-102.html",
+      "description": "Viele deutsche Autobauer lassen in Serbien produzieren. Präsident Aleksandar Vučić bezeichnet deutsche Investoren als Motor der serbischen Ökonomie. Doch die Beschäftigten klagen über prekäre Arbeitsbedingungen, hohen Druck und niedrige Löhne. Steinwender, Lucia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -184,22 +200,6 @@
       "url": "https://www.deutschlandfunkkultur.de/das-rowdytum-und-die-stoerung-des-sozialistischen-gemeinschaftslebens-100.html",
       "description": "In der DDR fielen Personen, die die öffentliche Ordnung \"angreifen, um deren Mißachtung zum Ausdruck zu bringen\" unter den Straftatbestand des Rowdytums. Die Staatsmacht konnte so alles verfolgen, was ihr im Alltag nicht gefiel. Und das tat sie. Klug, Thomas www.deutschlandfunkkultur.de, Zeitfragen. Feature",
       "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "Auf die Straße! Über die Macht der Proteste",
-      "url": "https://www.deutschlandfunkkultur.de/auf-die-strasse-ueber-die-macht-der-strassenproteste-100.html",
-      "description": "Der Straßenprotest hat eine lange Geschichte. Auch im Internetzeitalter wird er genutzt, um Positionen klar zu machen und Rechte durchzusetzen - überall auf der Welt. Was verbindet die Protestgenerationen über die Jahrzehnte hinweg? Fuchs, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 23 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 19,

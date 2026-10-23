@@ -1,26 +1,10 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-18T19:24:59.931008+00:00",
+  "fetchedAt": "2026-10-23T09:00:11.404020+00:00",
   "items": [
     {
-      "title": "NostradamusGPT: The Psychology of Prophecy and How to Break Free from the Prison of Predictive Technologies",
-      "url": "https://www.themarginalian.org/2026/10/13/carissa-veliz-prophecy/",
-      "description": "This is our paradox: We know that uncertainty is the substrate of the universe, is the crucible of creativity, is the path to truth, and yet we spend our lives searching for certainty. The word auspicious derives from the Latin auspex — one who examines the flight of birds for omens and divinations of the future. Today, our birds are made of bits — wind-up larks of our own making we call algorithms — but they serve the same function: to let us believe that we can divine the future in order to re",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 39
-      }
-    },
-    {
-      "title": "Nineteen Truths and One Beguiling Lie about Life from 20 Years of The Marginalian",
+      "title": "20 Truths about Life from 20 Years of The Marginalian: A Ceramics and Lichen Raffle",
       "url": "https://www.themarginalian.org/2026/10/18/refiguring/",
       "description": "It is an odd thing, looking back on your life, trying to recognize in the mirror of memory the people you used to be, finding them strangers: the person who kissed your first kiss, the person who drank your last drink, the person who had your best idea, the person who made your worst mistake, the person who over and over mistook fear for love, the person who thought orange was a good idea. Somehow, you have to grow arms long enough to wrap them around all those people and a heart wide enough to ",
       "date": "Sun, 18 Oct 2026",
@@ -36,19 +20,51 @@
       }
     },
     {
-      "title": "Bloom: A Touching Animated Short Film about Depression and What It Takes to Recover the Light of Being",
-      "url": "https://www.themarginalian.org/2026/10/17/bloom-depression/",
-      "description": "How the warm rays of hope and healing enter the dark inner chamber of leaden loneliness through the unexpected cracks of kindness.",
-      "date": "Sat, 17 Oct 2026",
+      "title": "How to Hold Your Heart with Golden Hands",
+      "url": "https://www.themarginalian.org/2026/10/22/wood/",
+      "description": "One bleak English winter a long time ago, wandering through London in the wake of a relationship that had just unraveled, I walked into an antiquarian bookstore and chanced upon a rare century-old edition of the Brothers Grimm fairy tales — which I had grown up with — illustrated by Arthur Rackham. All fairy tales deal in enchantment, but the Grimms’ are especially powerful cautionary tales about the treacherous line between true and false enchantment in love — something Rackham’s art captured e",
+      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 34,
+      "priority": 33,
       "scoreDetail": {
-        "daily": 30,
+        "daily": 25,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 8,
         "novelty": 0,
-        "total": 34
+        "total": 33
+      }
+    },
+    {
+      "title": "Ursula K. Le Guin on the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/10/22/le-guin-life/",
+      "description": "We are the survivors of immense and minute events — violent cosmic collisions and subtle genetic mutations, the deaths of innumerable suns and the births of innumerable cells, the splitting of continents and the splitting of atoms. Out of it all, we emerged as creatures muzzled by a consciousness that demands we give meaning to our survival. It will not come like alms dropped from the unfeeling hand of the universe. It cannot be found ready-made in the great books and the great teachers, or boug",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Nathaniel Hawthorne on How to Look and Really See",
+      "url": "https://www.themarginalian.org/2026/10/22/nathaniel-hawthorne-nature/",
+      "description": "\"The mystery is revealed, and after a breath or two, becomes just as great a mystery as before.\"",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -68,58 +84,26 @@
       }
     },
     {
-      "title": "How Not to Waste Your Life",
-      "url": "https://www.themarginalian.org/2026/10/15/hawthorne-life/",
-      "description": "“Let me not seem to have lived in vain,” the Danish astronomer Tycho Brahe whispered on his deathbed, not realizing that the astronomical tables he was leaving behind would become the portal through which Kepler arrives at the laws of planetary motion; not realizing that the measure of an unwasted life is not what outlives it but how it was lived — how much integrity and authenticity and creative vitality filled these numbered days, these unrepeatable hours. Most of us will not leave behind a re",
-      "date": "Thu, 15 Oct 2026",
+      "title": "Corrective for a Broken Heart",
+      "url": "https://www.themarginalian.org/2026/10/21/corrective-for-a-broken-heart/",
+      "description": "“Life will break you,” Louise Erdrich wrote in her passionate insistence that “you are here to risk your heart.” It can happen with a shattering, or with a thousand small fissures, but the great paradox — the great salvation — is that every time it happens, you live to see you are unbreakable. And so, a poem. CORRECTIVE FOR A BROKEN HEART by Maria Popova Why all the threadbare drama, the stale catastrophism of calling it broken? It still beats,      doesn’t it, still trembles at the sight of fog",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 29,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 0,
         "flaneur": 4,
-        "novelty": 0,
+        "novelty": 5,
         "total": 29
       }
     },
     {
-      "title": "How to Hold Your Helplessness: Nobel Laureate Bertrand Russell’s Salve for the Anxiety of Overwhelm",
-      "url": "https://www.themarginalian.org/2026/10/15/new-hopes-for-a-changing-world-russell/",
-      "description": "\"A way of life cannot be successful so long as it is a mere intellectual conviction. It must be deeply felt, deeply believed, dominant even in dreams.\"",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "The Day Dostoyevsky Discovered the Meaning of Life in a Dream",
-      "url": "https://www.themarginalian.org/2026/10/16/dostoyevsky-dream/",
-      "description": "\"And it is so simple... You will instantly find how to live.\"",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
-      }
-    },
-    {
-      "title": "The Single Most Effective Remedy for Despair: Advice from T.H. White’s Merlyn",
-      "url": "https://www.themarginalian.org/2026/10/17/t-h-white-once-and-future-king-merlyn/",
-      "description": "\"Learn why the world wags and what wags it. That is the only thing which the mind can never exhaust, never alienate, never be tortured by, never fear or distrust, and never dream of regretting.\"",
-      "date": "Sat, 17 Oct 2026",
+      "title": "How to Be Un-Dead: Notes on Waking Up from the Trance of Near-Living",
+      "url": "https://www.themarginalian.org/2026/10/20/anais-nin-d-h-lawrence/",
+      "description": "\"Life is a process of becoming, a combination of states we have to go through. Where people fail is that they wish to elect a state and remain in it. This is a kind of death.\"",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -132,10 +116,26 @@
       }
     },
     {
-      "title": "The Map to the Route of Your Life",
-      "url": "https://www.themarginalian.org/2026/10/17/benedetti-ruta/",
-      "description": "No one will map for you the path by which you must cross the wilderness of your own life — not your parents or your teachers, not your heroes or your lovers, not the self-help books or Shakespeare’s sonnets. Some may give you signposts, some may become turning points, but it is a path you ultimately make by walking. Along the way, you mistake dreams and desires for destinations, only to find that they have been way-stations — as soon as you attain them, you begin longing for something else. This",
-      "date": "Sat, 17 Oct 2026",
+      "title": "How to Grow Old without Letting Life Become a Parody of Itself",
+      "url": "https://www.themarginalian.org/2026/10/20/simone-de-beauvoir-coming-of-age/",
+      "description": "\"In old age we should wish still to have passions strong enough to prevent us turning in on ourselves.\"",
+      "date": "Tue, 20 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "The Wildest Bet Is the Winning Bet",
+      "url": "https://www.themarginalian.org/2026/10/22/bet/",
+      "description": "We place life’s bets by countless calculations of probability, conscious and unconscious, only to discover over and over how short they fall of the wildest reaches of the possible, which always includes but exceeds the probable. It helps to remember that we ourselves are children of improbability, that everything we treasure exists not because it had to, not because it was likely or necessary, but because the universe took a gamble against the staggering odds otherwise. THE WILDEST BET IS THE WI",
+      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 19,
@@ -148,16 +148,16 @@
       }
     },
     {
-      "title": "Nobel Laureate Doris Lessing on Breaking Free from the Prisons We Choose to Live Inside",
-      "url": "https://www.themarginalian.org/2026/10/13/doris-lessing-massey-lectures/",
-      "description": "This is the history of the world: revolutionaries turning into tyrants, leaders who claim to stand with the masses turning the individuals within them on each other, stirring certainties and self-righteousness to distract from the uncomfortable unknowns, from the great open question of what makes us and keeps us human, and human together. This is also the history of the world: artists — those lighthouses of the spirit — speaking truth to power, placing imagination ahead of ideology, the soul abo",
-      "date": "Tue, 13 Oct 2026",
+      "title": "How to Stop Waiting and Start Living: A Jolt from Henry James",
+      "url": "https://www.themarginalian.org/2026/10/20/henry-james-the-beast-in-the-jungle/",
+      "description": "\"It wouldn't have been failure to be bankrupt, dishonoured, pilloried, hanged; it was failure not to be anything.\"",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -180,26 +180,26 @@
       }
     },
     {
-      "title": "An Introvert’s Field Guide to Friendship: Thoreau on the Challenges and Rewards of Candid Connection",
-      "url": "https://www.themarginalian.org/2026/10/14/thoreau-friendship/",
-      "description": "\"We only need to be as true to others as we are to ourselves that there may be ground enough for friendship.\"",
-      "date": "Wed, 14 Oct 2026",
+      "title": "Introducing the Museum of Delight",
+      "url": "https://www.themarginalian.org/2026/10/22/museum-of-delight/",
+      "description": "After twenty years of making immaterial things with my mind — ideas sculpted of words, questions woven of sentences, translucent vessels for thought and feeling in the shape of poems — I found myself overcome by the urge to make things with my hands out of matter: clay, thread, stone, resin, wood, lichen. They now live in the Museum of Delight. Housed in a decommissioned airstream from the 1950s that took a year to transform, the Museum of Delight is a collaboration with my friend and neighbor R",
+      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 14,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 14
+        "total": 10
       }
     },
     {
-      "title": "The Other Significant Others: Living and Loving Outside the Confines of Conventional Friendship and Compulsory Coupledom",
-      "url": "https://www.themarginalian.org/2026/10/16/the-other-significant-others/",
-      "description": "\"While we weaken friendships by expecting too little of them, we undermine romantic relationships by expecting too much of them.\"",
-      "date": "Fri, 16 Oct 2026",
+      "title": "Love After Life: Nobel-Winning Physicist Richard Feynman’s Extraordinary Letter to His Departed Wife",
+      "url": "https://www.themarginalian.org/2026/10/19/richard-feynman-arline-letter/",
+      "description": "Where the hard edge of physics meets the vulnerable metaphysics of the human heart.",
+      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "Bruce Springsteen on Surviving Depression and His Strategy for Living Through the Visitations of the Darkness",
-      "url": "https://www.themarginalian.org/2026/10/16/bruce-springsteen-depression/",
-      "description": "\"If you can acknowledge it and you can relax with it a little bit, very often it shortens its duration.\"",
-      "date": "Fri, 16 Oct 2026",
+      "title": "When Relationships Change: Anne Morrow Lindbergh on Embracing the Intermittency and Mutability of Love",
+      "url": "https://www.themarginalian.org/2026/10/19/anne-morrow-lindbergh-change/",
+      "description": "\"All living relationships are in process of change, of expansion, and must perpetually be building themselves new forms.\"",
+      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -228,19 +228,19 @@
       }
     },
     {
-      "title": "Probability Theory Pioneer Mark Kac on the Unpredictability of Creativity and the Two Types of Geniuses",
-      "url": "https://www.themarginalian.org/2026/10/13/mark-kac-enigmas-of-chance-geniuses/",
-      "description": "\"Creative people live in two worlds. One is the ordinary world which they share with others and in which they are not in any special way set apart from their fellow men. The other is private and it is in this world that the creative acts take place.\"",
-      "date": "Tue, 13 Oct 2026",
+      "title": "The Constitution of the Inner Country: Leonard Cohen on Language and the Poetry of Presence",
+      "url": "https://www.themarginalian.org/2026/10/20/leonard-cohen-death-of-a-ladys-man-words/",
+      "description": "\"The poem is nothing but information. It is the Constitution of the inner country.\"",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     }
   ]

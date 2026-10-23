@@ -1,54 +1,38 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-10-18T19:25:13.911694+00:00",
+  "fetchedAt": "2026-10-23T09:00:24.763021+00:00",
   "items": [
     {
-      "title": "14．孤独とポリフォニー",
-      "url": "https://kangaeruhito.jp/article/764290",
-      "description": "ジャーナリングは孤独な作業である。日々の感覚を記述し、省察を重ねるためには、注意を自分自身に向ける必要がある。しかし、ジャーナリングの目的は孤独になることではない。ジャーナリング遂行の条件に、孤独があるだけだ。むしろ、 […]",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 14
-      }
-    },
-    {
-      "title": "実はまた入院してました",
-      "url": "https://kangaeruhito.jp/article/764326",
-      "description": "最初に書きますが、心臓病に関する記述を読むと不安になる方は、読まない方がいいかもしれないです！（怖いことは書いてないけど）　ここで引き返してください！ 　私自身、書くべきかどうか、若干迷ったのだが、書くことにする。 　 […]",
-      "date": "Tue, 29 Sep 2026",
+      "title": "15．来し方を株分けする",
+      "url": "https://kangaeruhito.jp/article/764350",
+      "description": "生成ＡＩやスマートフォンに急き立てられるように生きている現代人は果たして、長い時間をかけてゆっくりと味わいを深めていく発酵食品のように、自らの思考を醸成させていくことはできるのか。 　この問いについて考えるために、わた […]",
+      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "本当の贅沢とは何かと考えさせられた。",
-      "url": "https://kangaeruhito.jp/trial/764303",
-      "description": "狭くても明るく居心地が良さそうな場所作りに大成功 　わが家は夫婦と成人した子ども二人の四人家族（大型犬も一匹いる）。百平米に満たない狭い家に暮らしているが、この狭い家の大半が荷物で、私は常に、その処分に悩まされている。も […]",
-      "date": "Wed, 23 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "【書籍未収録エピソード特別公開①】友達は、まぜるな危険　〜I can’t stop the loneliness〜",
+      "url": "https://kangaeruhito.jp/article/764396",
+      "description": "「私を介して知り合った2人は、私をすっ飛ばしていつの間にか距離を縮めていきました」。 　20代で友達2人と同時に距離を置いた経験を持つのは、専業主婦の志麻さん(32)。現在は、夫と1人娘とともに、夫の赴任 […]",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,51 +52,83 @@
       }
     },
     {
-      "title": "母親とのつながり、そしてエロスのゆくえ",
-      "url": "https://kangaeruhito.jp/trial/764340",
-      "description": "夏帆は本当に「主人公」なのか？ 　村上春樹の新作『夏帆』には、これまでのモチーフを受けつつも、新しい興味深い展開が見られる。村上春樹についてこれまで2冊の著書を世に問うてきたのと同じように、ここでの関心はいわゆる文学評論 […]",
-      "date": "Thu, 08 Oct 2026",
+      "title": "【試し読み公開中】はじめに――もっと科学の面白さを伝えたい！",
+      "url": "https://kangaeruhito.jp/trial/764380",
+      "description": "おかげさまで、『すごい科学論文』の第二弾をお届けできることになりました。第一弾を手に取り、「面白かった」「続きを読みたい」と声を寄せてくださった皆様のおかげです。心より御礼を申し上げます。 「すごい」と銘 […]",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "novelty": 0,
+        "total": 0
       }
     },
     {
-      "title": "11.最後はダール",
-      "url": "https://kangaeruhito.jp/article/764345",
-      "description": "カレーマニアの入り口 　ダールとはインドで“豆”を意味しますが、豆を煮込んだ料理もまたダールと呼ばれます。料理としてのダールには様々なバリエーションもありますが、基本的にはごくシンプルで、使われるスパイスも最小限です。  […]",
-      "date": "Tue, 06 Oct 2026",
+      "title": "第1回　キャベツの顔つき",
+      "url": "https://kangaeruhito.jp/article/764377",
+      "description": "絶対に負けられない戦いの季節 　8月から10月は秋冬作の作付けの季節である。キャベツ、ブロッコリー、カリフラワー、大根、人参、小松菜、かぶ、ほうれん草などなど。秋から冬にかけて収穫する野菜の大半は、この時期に種を蒔くか、 […]",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
-      "title": "13．ヴィチェンツァの米軍基地へ",
-      "url": "https://kangaeruhito.jp/article/764323",
-      "description": "晩夏の提案 　9月に入り、イタリアは相変わらず暑く乾いた空気に包まれ続けていたが、社会は寝坊を怒られて無理やり起き上がった子供のように、まずは商店や会社や工場といった経済を動かす機関からのろのろと動き始めていた。リアーノ […]",
-      "date": "Sun, 27 Sep 2026",
+      "title": "どこまでも広がる義父の妄想",
+      "url": "https://kangaeruhito.jp/article/764384",
+      "description": "スポーツの日に、義父の面会に行ってきた。連休が始まった当初は、行く気はなかった。それでも秋の始まりの清々しい天気で気分が良かったこともあったし、施設の近所に用事もあったため、ついでという感じで立ち寄ったのだ。もちろん […]",
+      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "6．相貌失認――顔を見分けるのが苦手",
+      "url": "https://kangaeruhito.jp/article/764387",
+      "description": "見えているけど判別できない 　空港の到着ロビーでの出来事です。長期出張から帰ってきた女性を、出迎えの人々が待っています。その中には、30年連れ添った夫もいました。夫は彼女を見つけて微笑み、手を振ります。しかし、彼女は夫の […]",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "【試し読み】はじめに　もう友達なんていらないなんて、言わないよ絶対。",
+      "url": "https://kangaeruhito.jp/trial/764365",
+      "description": "さようなら、美しきママ友よ 　いつからか、彼女からのＬＩＮＥの返信は遅れがちになった。おやなんだか様子がおかしいな、と気づいたころには、もう手遅れだったと思う。返事の早い人だったが、数日の既読スルーは当たり前、なかなか既 […]",
+      "date": "Sun, 18 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://kangaeruhito.jp/news/764370",
       "description": "山野井春絵さんの連載「友達になって後悔してる」が、『友達になって後悔してる』として、10月19日に新潮新書より発売されます！   　ずっと友達だと思っていたのに――。「LINEが既読スルー」。突然のサインに「 […]",
       "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "二十五、68年目の母子手帳",
-      "url": "https://kangaeruhito.jp/article/764321",
-      "description": "母親が亡くなった。あと1か月で96歳というところだったので、まずは天寿と言ってよかろう。 　しかも、亡くなったのは、私の住職寺の大きな盆行事を終えた直後で、東京経由で青森に帰る途中だった。最後まで息子思いの母親で、あり […]",
-      "date": "Sun, 04 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

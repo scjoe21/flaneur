@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-10-18T19:24:36.436757+00:00",
+  "fetchedAt": "2026-10-23T08:59:40.925628+00:00",
   "items": [
     {
       "title": "Du nudge au boost : comment repenser nos comportements dans les transports ?",
@@ -20,10 +20,26 @@
       }
     },
     {
-      "title": "Alexandra Bell, la femme qui veut empêcher l'apocalypse",
-      "url": "https://usbeketrica.com/fr/article/alexandra-bell-la-femme-qui-veut-empecher-l-apocalypse",
-      "description": "Lors de la conférence de révision, en avril 2026, du Traité de non-prolifération, pierre angulaire de l’équilibre nucléaire mondial depuis 1968, Alexandra Bell s’époumonait : il nous reste peu de temps pour infléchir le cours de l’Histoire et restaurer les conditions de notre sécurité. 85 secondes, pour être précis. Comment le sait-elle ? Elle dirige le comité de l’horloge de l’apocalypse, un projet qui calcule chaque année le temps qui subsiste avant la fin du monde. Un outil au croisement des ",
-      "date": "Mon, 12 Oct 2026",
+      "title": "Crises, déclassement, vulnérabilités : pourquoi devient-il si urgent de repenser notre modèle social ?",
+      "url": "https://usbeketrica.com/fr/article/crises-declassement-vulnerabilites-pourquoi-devient-il-si-urgent-de-repenser-notre-modele-social",
+      "description": "Et si le vrai danger pour notre protection sociale n'était pas qu'elle coûte trop cher, mais qu'elle ait été pensée pour un monde qui n'existe plus ? Conçu en 1945 pour mutualiser des risques connus et assurables, le modèle français doit désormais affronter des chocs corrélés et difficilement assurables dans leur ensemble. C’est ce constat, notamment, qui a conduit le CESE à adopter une résolution ambitieuse « Pour un modèle de société soutenable, durable et inclusive à l’horizon 2050 ».",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
+      }
+    },
+    {
+      "title": "Comment la SF peut réenchanter un imaginaire des services publics",
+      "url": "https://usbeketrica.com/fr/article/comment-la-sf-peut-reenchanter-un-imaginaire-des-services-publics",
+      "description": "Docteure en littératures comparées, DoctriZ fait de la vulgarisation scientifique et de l’éducation populaire sur Twitch. Elle fait également partie du comité littéraire des Utopiales, le festival international de science-fiction de Nantes, dont la thématique de l’édition 2026 est « Perspectives ». Dans cette tribune, elle invite à se réapproprier les imaginaires de la science-fiction pour briser les illusions des discours néolibéraux et ainsi, ouvrir de nouvelles perspectives sur les luttes en ",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -33,6 +49,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Effondrement du courant océanique AMOC : les scientifiques ont une bonne… et une mauvaise nouvelle",
+      "url": "https://usbeketrica.com/fr/article/effondrement-du-courant-oceanique-amoc-les-scientifiques-ont-une-bonne-et-une-mauvaise-nouvelle",
+      "description": "Contrairement à ce que suggéraient jusque-là certaines projections, l’AMOC, ce courant océanique dont dépend notamment le climat tempéré de l’Europe, pourrait finalement résister à une forte hausse des températures, selon une nouvelle étude publiée le 14 octobre dans la revue Science Advances. Mais il y a un mais…",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
+      }
+    },
+    {
+      "title": "« Le gouvernement peine systématiquement à ouvrir le dialogue et à entendre ce que la rue lui dit »",
+      "url": "https://usbeketrica.com/fr/article/le-gouvernement-peine-systematiquement-a-ouvrir-le-dialogue-et-a-entendre-ce-que-la-rue-lui-dit-marc-crepon-violence",
+      "description": "Incendies, pillages, couvre-feu... Depuis le 17 octobre, la violence a envahi les écrans et les discours. Mais de quelle violence parle-t-on ? Pour le philosophe Marc Crépon, qui a consacré de nombreux ouvrages à cette notion, celle qui embrase les vitrines ne doit pas faire oublier une autre violence, plus lente et plus silencieuse : celle que subit une jeunesse qui se sent condamnée à l’inexistence. Entretien.",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
       }
     },
     {
@@ -84,19 +132,19 @@
       }
     },
     {
-      "title": "« The Social Reckoning », la vraie-fausse suite de « The Social Network »",
-      "url": "https://usbeketrica.com/fr/article/on-a-vu-the-social-reckoning-la-vraie-fausse-suite-de-the-social-network-zuckerberg",
-      "description": "Moins un portrait réactualisé de Mark Zuckerberg qu’une chronique journalistique des « Facebook Files », dévoilés en 2021 par le Wall Street Journal et la lanceuse d’alerte Frances Haugen, The Social Reckoning est sorti en salles ce mercredi 7 octobre.",
-      "date": "Wed, 07 Oct 2026",
+      "title": "Ceci n’est pas un contenu",
+      "url": "https://usbeketrica.com/fr/article/ceci-n-est-pas-un-contenu",
+      "description": "ÉDITO // On n’a pas attendu l’intelligence artificielle pour dévaloriser la création humaine. Depuis bientôt deux décennies, l’usage massif et abusif du terme « contenu » a fini par dégrader notre perception des œuvres et de leurs auteurs. Désormais, c’est moins leur signification que leur circulation qui compte. C’est l’angle creusé dans l’édito du nouveau numéro de FUTUR, le magazine d’Usbek & Rica, disponible en librairie depuis le 22 octobre.",
+      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -132,54 +180,6 @@
       }
     },
     {
-      "title": "À l'expo « Pavillon Playground » à Namur, on joue pour mieux déjouer",
-      "url": "https://usbeketrica.com/fr/article/expo-pavillon-playground-a-namur-jouer-pour-mieux-dejouer-kik-festival",
-      "description": "À Namur, l’exposition Pavillon Playground réunit jusqu’au 25 octobre puis du 6 janvier au 11 avril 2027 une dizaine d’œuvres qui réinventent nos manières de jouer, d’interagir et de faire collectif. À cette occasion, le journaliste et conférencier Adrien Cornelissen, spécialiste de la création en environnement numérique et coordinateur de HACNUMedia, signe cette tribune sur ces expériences collaboratives, contrôleurs alternatifs et dispositifs poétiques qui dessinent un autre rapport au numériqu",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Santé mentale : faut-il réparer le travail plutôt que soigner le salarié ?",
-      "url": "https://usbeketrica.com/fr/article/sante-mentale-faut-il-reparer-le-travail-plutot-que-soigner-le-salarie",
-      "description": "À l’occasion de la journée mondiale de la santé mentale du 10 octobre prochain, nous avons interrogé Stéphanie Gallioz, experte Santé au travail chez Syndex, Jérôme Crest, cofondateur d'Holivia et Ludovic Demierre, directeur des ressources humaines du groupe VINCI pour mieux comprendre les causes de l’usure professionnelle et les pistes d’amélioration qui peuvent émerger si l’entreprise change de focale et repense son organisation.",
-      "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Science-fiction : « Il n’y a pas de crise ou de panne des imaginaires ! »",
-      "url": "https://usbeketrica.com/fr/article/science-fiction-il-n-y-a-pas-de-crise-ou-de-panne-des-imaginaires",
-      "description": "À l’occasion de la parution de l’ouvrage collectif Politiques de la science-fiction (éd. Actu SF, 2026), nous avons discuté avec deux de ses co-auteurs, l’essayiste Ariel Kyrou et l’universitaire Thomas Arcisweski. L’occasion de se pencher sur les fantasmes et idées reçues souvent associées à la SF.",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "5 œuvres numériques pour résister sous les pixels",
       "url": "https://usbeketrica.com/fr/article/5-oeuvres-numeriques-pour-resister-sous-les-pixels",
       "description": "Le festival Octobre Numérique - Faire Monde, dont Usbek & Rica est partenaire, déploie à travers Arles de nombreuses œuvres numériques et vidéoludiques qui invitent à explorer la notion de résistance. On vous présente cinq d’entre elles, à découvrir jusqu'au 8 novembre.",
@@ -196,26 +196,10 @@
       }
     },
     {
-      "title": "Et si écrire avec l’IA n’était pas si dramatique que ça ?",
-      "url": "https://usbeketrica.com/fr/article/et-si-ecrire-avec-l-ia-n-etait-pas-si-dramatique-qu-on-veut-bien-le-dire",
-      "description": "Tribune // Depuis deux semaines, le monde littéraire est secoué par « l’affaire Thélyson Orélien », du nom de cet écrivain haïtien accusé d’avoir largement eu recours à l’IA pour écrire son premier roman. Mais ce qui choque, dans cette histoire, c’est moins le recours à une assistance technologique puissante que la brutale perte de prestige de la figure de l’écrivain, observe le romancier et journaliste Éric Senabre, collaborateur régulier d’Usbek & Rica, qui esquisse dans cette tribune les cont",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "L’IA, dernier « pilier » de la croissance mondiale ?",
-      "url": "https://usbeketrica.com/fr/article/l-ia-dernier-pilier-de-la-croissance-mondiale-prevision-economie-fmi",
-      "description": "Une économie à deux vitesses, avec une inflation galopante d’un côté et des investissements exponentiels dans l’intelligence artificielle de l’autre : tel est le tableau que brosse le Fonds monétaire international (FMI) dans son dernier état des lieux de la croissance mondiale. Un équilibre périlleux, qui ravive les craintes de bulle financière. Décryptage.",
-      "date": "Thu, 15 Oct 2026",
+      "title": "Contre les ingénieurs du chaos, devenons des architectes du lien",
+      "url": "https://usbeketrica.com/fr/article/contre-les-ingenieurs-du-chaos-devenons-des-architectes-du-lien",
+      "description": "TRIBUNE // Nous avons obtenu la démocratie parce qu’on ne pouvait pas se passer de nous. Que se passera-t-il quand l’intelligence artificielle le permettra ? Antoine Brachet, directeur associé de bluenove et fondateur du mouvement Bright Mirror, voit dans le lien entre les gens notre dernier levier de pouvoir.",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +212,26 @@
       }
     },
     {
-      "title": "L’AbortOmat, le distributeur de pilules abortives qui contourne la loi anti-IVG en Pologne",
-      "url": "https://usbeketrica.com/fr/article/l-abortomat-le-distributeur-de-pilule-abortive-qui-contourne-la-loi-anti-ivg-en-pologne",
-      "description": "A Varsovie, le premier distributeur de pilules abortives a vu le jour au sein du centre d’avortement de la capitale. Baptisé « AbortOmat », il permet de contourner l’une des législations les plus restrictives d’Europe en matière d'interruption volontaire de grossesse (IVG).",
-      "date": "Fri, 09 Oct 2026",
+      "title": "Dans les coulisses des combats de robots de Las Vegas",
+      "url": "https://usbeketrica.com/fr/article/dans-les-coulisses-des-combats-de-robots-de-las-vegas",
+      "description": "Aux États-Unis, à quelques encablures de la Silicon Valley, deux start-up rivalisent d’ingéniosité pour s’imposer dans le business encore confidentiel des combats de robots humanoïdes. FUTUR a assisté à l’un de ces matchs de boxe high-tech pour son numéro de printemps 2026, où certains attendaient le jour où ces poupées de tôle s'opposeraient à des humains... Jour arrivé le 18 septembre à San Francisco, malgré la tentative de la Commission sportive de l’État de Californie d'interdire ces combats",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "L’IA, dernier « pilier » de la croissance mondiale ?",
+      "url": "https://usbeketrica.com/fr/article/l-ia-dernier-pilier-de-la-croissance-mondiale-prevision-economie-fmi",
+      "description": "Une économie à deux vitesses, avec une inflation galopante d’un côté et des investissements exponentiels dans l’intelligence artificielle de l’autre : tel est le tableau que brosse le Fonds monétaire international (FMI) dans son dernier état des lieux de la croissance mondiale. Un équilibre périlleux, qui ravive les craintes de bulle financière. Décryptage.",
+      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

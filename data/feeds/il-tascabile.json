@@ -1,22 +1,38 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-10-18T19:24:47.139203+00:00",
+  "fetchedAt": "2026-10-23T08:59:52.294861+00:00",
   "items": [
     {
-      "title": "Il coraggio come medicina",
-      "url": "https://www.iltascabile.com/scienze/coraggio-medicina/",
-      "description": "Per secoli l’abbiamo considerato l’opposto della paura. In realtà è una disposizione cognitiva e comportamentale che aiuta a ricalibrare il modo in cui guardiamo la realtà. \n L'articolo  Il coraggio come medicina  proviene da  Il Tascabile .",
-      "date": "Mon, 05 Oct 2026",
+      "title": "Premio di natalità",
+      "url": "https://www.iltascabile.com/societa/premio-natalita/",
+      "description": "Perché di fronte al problema delle “culle vuote” la politica insegue il numero più che l’autodeterminazione e il benessere di chi figli li ha o vorrebbe averli: cosa rivela il modo in cui l’Italia finanzia le nascite. \n L'articolo  Premio di natalità  proviene da  Il Tascabile .",
+      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 35,
       "scoreDetail": {
         "daily": 20,
-        "phil": 0,
+        "phil": 15,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 25
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Come si fa una laguna",
+      "url": "https://www.iltascabile.com/scienze/come-si-fa-laguna/",
+      "description": "Nel dibattito sulla conservazione ricorre spesso l’idea che la natura, per mantenersi tale, dovrebbe escludere la presenza umana. La laguna di Grado, uno degli ambienti costieri più ricchi di biodiversità del Mediterraneo, suggerisce una prospettiva diversa. \n L'articolo  Come si fa una laguna  proviene da  Il Tascabile .",
+      "date": "Mon, 19 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -52,6 +68,22 @@
       }
     },
     {
+      "title": "Autori masticati",
+      "url": "https://www.iltascabile.com/linguaggi/autori-masticati/",
+      "description": "Come il sistema cinematografico ha divorato, digerito e premiato l’anomalia indipendente. \n L'articolo  Autori masticati  proviene da  Il Tascabile .",
+      "date": "Wed, 21 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Sex addiction?",
       "url": "https://www.iltascabile.com/societa/sex-addiction/",
       "description": "Che cosa significa davvero parlare di “dipendenza sessuale”, tra perdita di controllo, sofferenza personale e il rischio di trasformare in patologia modi diversi di vivere la sessualità. \n L'articolo  Sex addiction?  proviene da  Il Tascabile .",
@@ -65,6 +97,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 15
+      }
+    },
+    {
+      "title": "I want to wear your skin as a sweater",
+      "url": "https://www.iltascabile.com/linguaggi/i-want-to-wear-your-skin-as-a-sweater/",
+      "description": "Il destino comune di donne e animali in  Obsession  di Curry Barker. \n L'articolo  I want to wear your skin as a sweater  proviene da  Il Tascabile .",
+      "date": "Thu, 22 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -84,19 +132,19 @@
       }
     },
     {
-      "title": "Guerra alla Terra di Danilo Zagaria",
-      "url": "https://www.iltascabile.com/recensioni/guerra-terra-danilo-zagaria/",
-      "description": "L'articolo  Guerra alla Terra di Danilo Zagaria  proviene da  Il Tascabile .",
-      "date": "Fri, 09 Oct 2026",
+      "title": "Veglia di Georges Saunders",
+      "url": "https://www.iltascabile.com/recensioni/veglia-georges-saunders/",
+      "description": "L'articolo  Veglia di Georges Saunders  proviene da  Il Tascabile .",
+      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -104,54 +152,6 @@
       "url": "https://www.iltascabile.com/recensioni/bologna-non-isola-felice-salvatore-papa/",
       "description": "L'articolo  Bologna non è un’isola felice di Salvatore Papa  proviene da  Il Tascabile .",
       "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’anoressia mima la morte",
-      "url": "https://www.iltascabile.com/linguaggi/anoressia-mima-morte/",
-      "description": "Intervista a Eugenio Giannetta su  Corpo libero. Il mondo maschile dei disturbi dell’alimentazione . \n L'articolo  L’anoressia mima la morte  proviene da  Il Tascabile .",
-      "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Divenire flusso",
-      "url": "https://www.iltascabile.com/linguaggi/divenire-flusso/",
-      "description": "Il sacrificio del mondo materiale in dieci anni di immaginario, dal falso analogico all’immagine senza corpo. \n L'articolo  Divenire flusso  proviene da  Il Tascabile .",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Meritocrazia vs comunismo delle qualità",
-      "url": "https://www.iltascabile.com/societa/meritocrazia-comunismo-qualita/",
-      "description": "Da Platone alle banche del tempo: superare il dispositivo della competizione neoliberale e socializzare le qualità personali per divenire comunità solidale. \n L'articolo  Meritocrazia vs comunismo delle qualità  proviene da  Il Tascabile .",
-      "date": "Tue, 06 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

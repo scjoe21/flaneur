@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-fr-philo",
   "sourceName": "The Conversation France — Philosophie",
-  "fetchedAt": "2026-10-18T19:25:00.903247+00:00",
+  "fetchedAt": "2026-10-23T09:00:12.858661+00:00",
   "items": [
     {
       "title": "Donner à manger, un geste politique ?",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "L’honneur et la vertu chez Aristote et les samouraïs",
-      "url": "https://theconversation.com/lhonneur-et-la-vertu-chez-aristote-et-les-samoura-s-280490",
+      "title": "Les séries de Monet, méditations sur le temps",
+      "url": "https://theconversation.com/les-series-de-monet-meditations-sur-le-temps-293564",
       "description": "",
-      "date": "2026-05-20",
+      "date": "2026-10-20",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
