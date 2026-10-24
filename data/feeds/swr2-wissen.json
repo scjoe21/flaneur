@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-23T21:37:16.381519+00:00",
+  "fetchedAt": "2026-10-24T18:51:19.834047+00:00",
   "items": [
     {
       "title": "Die Wechseljahre – Welche Therapien möglich und nötig sind (1/2)",
@@ -148,19 +148,19 @@
       }
     },
     {
-      "title": "Organisierte Kriminalität in Europa (3/3) – Die EU-Ermittler",
-      "url": "https://www.swr.de/swrkultur/wissen/organisierte-kriminalitaet-in-europa-33-die-eu-ermittler-100.html",
-      "description": "Um den Bossen das Handwerk zu legen, müssen die Ermittler der Spur des Geldes folgen, international zusammenarbeiten, Daten austauschen. Dann erfolgt am \"Action Day\" der Zugriff.",
-      "date": "Wed, 7 Oct 2026 ",
+      "title": "Bürger beteiligen – Was für eine Demokratie wollen die Menschen?",
+      "url": "https://www.swr.de/swrkultur/wissen/buerger-beteiligen-was-fuer-eine-demokratie-wollen-die-buerger-100.html",
+      "description": "Die Eskalation um Stuttgart 21 hat weit über Baden-Württemberg hinaus zu einem Umdenken geführt. Auch andere Länder setzen verstärkt auf Bürgerbeteiligung. Mit positiven Effekten.",
+      "date": "Sun, 25 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {

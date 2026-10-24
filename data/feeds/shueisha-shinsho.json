@@ -1,24 +1,8 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-10-23T21:37:23.675506+00:00",
+  "fetchedAt": "2026-10-24T18:51:27.624807+00:00",
   "items": [
-    {
-      "title": "等身大の両岸問題",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36845",
-      "description": "文・写真／前川仁之 「あなたが考える、中国との最良の関係は？」 　この第５問は私が用意していた100人アンケートの中でいちばん神経を使う問いだった。自由記述にしたのは、相手の心理になるべく負荷をかけたくないからだ。 　台 […]",
-      "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
     {
       "title": "なぜ日本政治は液状化したのか？　細川護熙が語る「保守の真髄」",
       "url": "https://shinsho-plus.shueisha.co.jp/column/jimin_mori/37115",
@@ -49,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "トレイルを作る活動は第二期、YLTクラブへ",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/trail/37102",
+      "description": "山形にトレイルをつくる活動を始めて４年後の2016年。山形ロングトレイルの活動が本格化すればするほど、僕の収益を生まない仕事はどんどん増えていった。もちろん、収益のない団体なので、人を雇うこともできず会計なども僕がする […]",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -84,19 +84,19 @@
       }
     },
     {
-      "title": "国家を超える原住民の壮大な価値観",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/taiwan_bujikou/36864",
-      "description": "文・写真／前川仁之 　台湾島の地理はたのしい変化に富んでいる。九州よりも少し小さい島に、3000メートル級の山が269座もひしめいている、という数字からも急峻な様が想像されよう。しかも島の中ほどを北回帰線が通っており、自 […]",
-      "date": "Fri, 09 Oct 2026",
+      "title": "大江なき今、我々は「戦後」をどう歴史化していくのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/narita_nagase/37185",
+      "description": "取材・構成：集英社新書編集部　　撮影：五十嵐和博 長瀬　今回、事前に成田さんに「2026年の今、読むべき大江健三郎の小説」というテーマで３作品選んでいただきました。どれも「新しい戦前」に生きている僕たちが読むことに意義の […]",
+      "date": "Sat, 24 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

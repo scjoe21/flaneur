@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-10-23T21:37:14.339664+00:00",
+  "fetchedAt": "2026-10-24T18:51:15.534239+00:00",
   "items": [
     {
       "title": "Wie das Leistungsprinzip den Sozialstaat zu verändern droht",
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Feminismus und Sexualität - Vom Glücksversprechen zum Gewaltverbrechen",
+      "url": "https://www.deutschlandfunk.de/feminismus-und-sexualitaet-vom-gluecksversprechen-zum-gewaltverbrechen-102.html",
+      "description": "Seit der Neuen Frauenbewegung der 1970er-Jahre hat sich der Blick auf Lust, Liebe und Geschlechterverhältnisse grundlegend verändert. Eine Geschichte sexueller Emanzipation und ihrer Widersprüche. Sichtermann, Barbara",
+      "date": "Sun, 25 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Unsere nihilistische Gegenwart - Der Aufstieg autoritärer Macht und die Krise des Liberalismus",
       "url": "https://www.deutschlandfunk.de/der-aufstieg-autoritaerer-macht-und-die-krise-des-liberalismus-100.html",
       "description": "Nach dem Fall der Mauer und dem Sieg des Westens glaubte man, der Liberalismus sei das Ende der Geschichte. Heute dagegen scheint die Geschichte des Liberalismus selbst zu Ende zu gehen. Von Thomas Assheuer www.deutschlandfunk.de, Essay und Diskurs",
@@ -190,22 +206,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Der neue Reaktionär - Curtis Yarvin und die Versuchung der smarten Tyrannei",
-      "url": "https://www.deutschlandfunk.de/curtis-yarvin-demokratie-jd-vance-peter-thiel-trump-usa-100.html",
-      "description": "Curtis Yarvin träumt vom Ende der Demokratie und einem amerikanischen Autokraten. Seine autoritären Ideen treffen den Nerv einer erschöpften Zeit und begeistern rechte Eliten wie Tech-Milliardär Peter Thiel oder US-Vizepräsident J. D. Vance. Von Ava Kofman www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 19 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15

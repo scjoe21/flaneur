@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-10-23T21:37:10.335176+00:00",
+  "fetchedAt": "2026-10-24T18:51:10.127632+00:00",
   "items": [
     {
       "title": "You can’t eliminate uncertainty — but you can prevent it from paralyzing you",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "Listen: Stellar streams and the dark Universe",
+      "url": "https://bigthink.com/starts-with-a-bang/stellar-streams-dark-universe/",
+      "description": "When the general public speaks about dark matter, most of the discussion centers on the topic of whether dark matter exists or not: on whether it’s real. But in astrophysical circles, we’re overwhelmingly confident of dark matter’s existence, as we’ve indirectly detected it through an enormous number of independent lines of evidence. Instead, the conversation normally focuses on how to identify and characterize it, with a particular interest in what sorts of measurements can help reveal its unde",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/GCsstream.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "AI is forcing us to reckon with a 400-year-old problem",
       "url": "https://bigthink.com/philosophy/healing-the-cartesian-wound/",
       "description": "Like much modern fantasy, Philip Pullman’s  His Dark Materials  series features magical objects. Each book in the trilogy is named after one; the second is  The Subtle Knife . This knife looks unremarkable, but when wielded by the right person, it can cut a hole in the world — a portal into an alternate universe. Unfortunately, the portal’s edges also turn out to be a wound in the fabric of reality … and the wound bleeds. Sinister, invisible  things  leak out, hungry ghosts that prey upon the li",
@@ -97,22 +113,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
-      }
-    },
-    {
-      "title": "10 perspectives that divide the AI world",
-      "url": "https://bigthink.com/history-society/10-perspectives-that-divide-the-ai-world/",
-      "description": "In November 2022, I took on a writing assignment that, looking back, may have had a bigger impact on my life than any other:  interview ChatGPT . It was the first day that OpenAI’s tool was available to the public, and my goal was to try to make sense of the tech — and then help readers make sense of it — by asking it questions about itself. \n The conversation turned out to be, well, a bit boring. More than half of the AI’s answers started with “As a large language model …,” and its responses te",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/Philosophy_AI_optimized.webp?quality=85&w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {

@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-23T21:37:29.274096+00:00",
+  "fetchedAt": "2026-10-24T18:51:29.967029+00:00",
   "items": [
+    {
+      "title": "“無償で使い放題”だった自然の価値を測定し、資本主義を内側から変えていく｜Think Nature──リジェネラティブ・カンパニー・アワード2026",
+      "url": "https://wired.jp/article/the-regenerative-company-awards-2026-think-nature/",
+      "description": "大学発のシンク・ネイチャーは、マクロ生態学とAIで生物多様性を可視化し、企業や金融機関、自治体の意思決定を変えようとしている。【リジェネラティブ・カンパニー・アワード2026選出】",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
     {
       "title": "防災グッズおすすめ14選：WIRED SHOPPING GUIDE",
       "url": "https://wired.jp/article/best-emergency-preparedness-gear/",
@@ -36,6 +52,70 @@
       }
     },
     {
+      "title": "テスラの新型「ロードスター」はなぜ飛べるのか？ その仕組みを物理学で読み解く",
+      "url": "https://wired.jp/article/physics-behind-tesla-flying-roadster/",
+      "description": "テスラの「ロードスター」は、どうやって空中に跳び上がり、ほかの車両を飛び越え、壁を駆け上がって逆さまの状態でも張り付くのか。『WIRED』に寄稿する物理学者が、摩擦力や圧縮空気の働きを手がかりに解説する。",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "プロデューサー磯山晶が、Netflixで“明るいコメディ”に賭ける理由",
+      "url": "https://wired.jp/article/aki-isoyama-netflix-interview/",
+      "description": "「不適切にもほどがある！」で知られる元TBSプロデューサーの磯山晶がNetflixと新作の複数制作の契約を結び、第1弾となる「俺のこと、なんか言ってた？」を完成させた。一気見とデータが重視される配信の時代に、なぜ磯山は“明るい笑い”に賭けるのか。",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "DJI Osmo Pocket 4Pレビュー：目の前のシーンを撮るカメラの“最適解”",
+      "url": "https://wired.jp/article/dji-osmo-pocket-4p-review/",
+      "description": "ジンバルを搭載したDJIの小型デジタルカメラ「Osmo Pocket」シリーズに加わった二眼タイプの最上位モデル「Osmo Pocket 4P」。実際に使い込んでみて明らかになったのは、中望遠カメラを備えたことの価値の高さだ。",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "遺伝子編集で「エリート作業犬」の開発へ。アンドゥリル共同創業者らが新会社",
+      "url": "https://wired.jp/article/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
+      "description": "米スタートアップWarhoundが、これまで非公開だった事業計画を公表した。まずは犬種特有の健康上の問題を遺伝子編集で解消し、将来的には嗅覚などの能力を強化する構想だという。2億ドルを調達している。",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Nothing「Headphone (1) Pro」レビュー：独自のデザインと自在なEQ設定が光る",
       "url": "https://wired.jp/review/nothing-headphone-1-pro/",
       "description": "Nothingのフラッグシップヘッドフォンは、快適な装着感に加え、優れた音質と細かな音質調整機能を備えている。ノイズキャンセリングでは競合に一歩譲るものの、存在感を放つ一台だ。",
@@ -65,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "約850年前に記録された超新星。その残骸を高精細画像で捉えた",
+      "url": "https://wired.jp/article/humans-watched-this-supernova-explode-nearly-a-millennium-ago-now-you-can-see-it-in-high-definition/",
+      "description": "超新星「SN 1181」の残骸とみられる「Pa 30」のこれまでで最も詳細な画像を、ハワイにある望遠鏡が撮影した。新たな観測によって、糸状に広がる構造が真珠のようなかたちのガスの塊からなることが明らかになった。",
+      "date": "Fri, 23 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,102 +232,6 @@
       "url": "https://wired.jp/article/iphone-duo-review-beyond-learning-curve/",
       "description": "アップルの「iPhone Duo」を先行レビューして感じたのは、ユーザーに新しい使い方を要求するということ。使いにくいと感じるかもしれないが、それは「ポストスマートフォン」に向けての“成長痛”なのかもしれない。",
       "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "第2世代のAIネックレス「Friend」はおしゃべりだが、“個性”を失った",
-      "url": "https://wired.jp/article/my-friend-has-no-soul/",
-      "description": "AIチャットボットを搭載したペンダント「Friend」の第2世代モデルが登場した。声で会話できるようになった一方、初代モデルにあった気の強さや独特の個性は薄れた。",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AIデータセンターの排熱が水不足を救うかもしれない",
-      "url": "https://wired.jp/article/startup-atoco-makes-water-from-air-using-data-centers/",
-      "description": "ノーベル化学賞受賞者が創業した米スタートアップAtocoは、金属有機構造体（MOF）を使い、乾燥した空気から水を取り出す技術を開発した。AIデータセンターの排熱と水不足に同時に対処できる可能性がある。",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "人気低迷の民主党で抗う「七人の侍」、あるいは「マグニフィセント・セブン」──「アメリカン・ドッペルゲンガー」by 池田純一#18",
-      "url": "https://wired.jp/article/american-doppelganger-18/",
-      "description": "11月初旬に迫った中間選挙。最近の報告では、上院議員選において7つの州が「トスアップ」（接戦）になると発表された。いずれも、従来なら共和党が優勢とされている州ばかり。アメリカのローカルで、いま何が起きているのか？",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "パリモーターショー2026で注目の11モデル：EV時代の欧州メーカーは「伝統」で勝負",
-      "url": "https://wired.jp/article/paris-motor-show-2026-11-notable-models/",
-      "description": "「パリモーターショー 2026」では、シトロエン「2 CV」やルノー「エスパス」といった往年の名車がEVとして相次いで“復活”。中国資本のブランドも欧州市場への攻勢を強めている。それらのなかから、注目すべき11モデルを紹介しよう。",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "日本の火星衛星探査機「MMX」が打ち上げ成功、サンプルリターンを中国と競う",
-      "url": "https://wired.jp/article/mmx-launch-success-mars-moon-sample-return-race/",
-      "description": "JAXAの火星衛星探査機「MMX」が打ち上げに成功した。NASAが火星サンプルリターン計画を事実上断念するなか、火星圏から初めて試料を持ち帰る座を中国の「天問3号」と争う5年間の旅が始まる。",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "イーロン・マスク、共和党の中間選挙をほぼ独力で資金面から支える",
-      "url": "https://wired.jp/article/elon-musk-is-almost-single-handedly-funding-the-republicans-midterms-push/",
-      "description": "マスクは今回の中間選挙で、大統領選並みの選挙運動体制を構築している。共和党の投票促進活動を事実上掌握するその資金力を、『WIRED』が独自に集計・分析したデータから読み解く。",
-      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

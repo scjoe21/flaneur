@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-23T21:37:11.369267+00:00",
+  "fetchedAt": "2026-10-24T18:51:11.423148+00:00",
   "items": [
     {
       "title": "20 Truths about Life from 20 Years of The Marginalian: A Ceramics and Lichen Raffle",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
-      }
-    },
-    {
-      "title": "How to Unself in Order to Be Who You Really Are",
-      "url": "https://www.themarginalian.org/2026/10/18/iris-murdoch-unselfing/",
-      "description": "\"The self, the place where we live, is a place of illusion. Goodness is connected with the attempt to see the unself... to pierce the veil of selfish consciousness and join the world as it really is.\"",
-      "date": "Sun, 18 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 5,
         "total": 30
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
+      "url": "https://www.themarginalian.org/2026/10/24/dostoyevsky-execution-life/",
+      "description": "\"To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that’s what life is all about, that's its task.\"",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
