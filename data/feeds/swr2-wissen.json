@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-24T18:51:19.834047+00:00",
+  "fetchedAt": "2026-10-25T19:35:16.299629+00:00",
   "items": [
     {
       "title": "Die Wechseljahre – Welche Therapien möglich und nötig sind (1/2)",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "Fleischfressende Pflanzen – Wie sie jagen, schnappen und verdauen",
-      "url": "https://www.swr.de/swrkultur/wissen/fleischfressende-pflanzen-wie-sie-jagen-schnappen-und-verdauen-100.html",
-      "description": "Pflanzen, die Tiere \"fressen\", scheinen die natürliche Ordnung auf den Kopf zu stellen. Wie \"jagen\" sie ihre Beute? Und wie konnten sie sich in der Evolution entwickeln?",
-      "date": "Sun, 11 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Die Wildkatze ist zurück – Wie Artenschutz gelingt",
       "url": "https://www.swr.de/swrkultur/wissen/die-wildkatze-ist-zurueck-wie-artenschutz-gelingt-100.html",
       "description": "Die Europäische Wildkatze braucht naturbelassene Wälder und grüne Korridore, um von einem Waldgebiet ins andere zu gelangen. Studien zeigen: Die Maßnahmen helfen auch anderen Arten.",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Pilze sammeln – Naturnahes Hobby oder ökologisch fragwürdiger Trend?",
+      "url": "https://www.swr.de/swrkultur/wissen/pilze-sammeln-naturnahes-hobby-oder-oekologisch-fragwuerdiger-trend-100.html",
+      "description": "Pilz-Influencer erreichen auf Social Media ein großes Publikum, geführte Pilz-Sammel-Touren sind gefragt, Start-ups machen den Pilz-Hype zum Business. Doch der Trend hat Kehrseiten.",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

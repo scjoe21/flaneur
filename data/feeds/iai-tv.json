@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-24T18:51:23.948713+00:00",
+  "fetchedAt": "2026-10-25T19:35:20.211605+00:00",
   "items": [
     {
       "title": "How the Left can defeat the Far Right | Jeremy Corbyn, Faiza Shaheen",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Is the self just an illusion? | Julian Baggini",
-      "url": "https://www.youtube.com/watch?v=fjuPhucj8q8",
-      "description": "Julian Baggini explores the idea of an ever-changing self.\n\nAre we more than just one single 'self'? \n\nWith a free trial, you can watch Julian talk about the hidden philosophy of food NOW at https://iai.tv/video/the-hidden-philosophy-of-food?utm_source=YouTube&utm_medium=description\n\nWhen the common-sense and religious concepts of the self come under strain, we are quick to jump to scepticism. Many will tell you that the self is merely an illusion. Baggini thinks it is not that simple.\nHe argues",
-      "date": "2026-10-06",
-      "thumbnail": "https://i3.ytimg.com/vi/fjuPhucj8q8/hqdefault.jpg",
-      "videoId": "fjuPhucj8q8",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
       }
     },
     {
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "A Lettuce is not Happy | Eva Jablonka",
+      "url": "https://www.youtube.com/shorts/CuygR8MLbyg",
+      "description": "",
+      "date": "2026-10-25",
+      "thumbnail": "https://i4.ytimg.com/vi/CuygR8MLbyg/hqdefault.jpg",
+      "videoId": "CuygR8MLbyg",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

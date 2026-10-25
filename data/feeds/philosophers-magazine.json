@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophers-magazine",
   "sourceName": "The Philosophers' Magazine (TPM)",
-  "fetchedAt": "2026-10-24T18:51:23.774466+00:00",
+  "fetchedAt": "2026-10-25T19:35:19.985176+00:00",
   "items": [
     {
       "title": "Capturing the Gods",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Political Stoicism: Lessons from Lipsius",
+      "url": "https://philosophersmag.com/political-stoicism-lessons-from-lipsius/",
+      "description": "Amid uses and misuses of Stoicism in contemporary politics, Wakil Belhaddad makes the case for learning from the political thought of Justus Lipsius (1547–1606). \n The post  Political Stoicism: Lessons from Lipsius  first appeared on  The Philosophers' Magazine .",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://philosophersmag.com/the-necessities-underlying-reality/",
       "description": "James Franklin introduces his recent book on necessities and objectivity. \n The post  There Are Absolute Necessities  first appeared on  The Philosophers' Magazine .",
       "date": "Fri, 24 Jul 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "No, Humans Are Not Conscious",
-      "url": "https://philosophersmag.com/no-humans-are-not-conscious/",
-      "description": "Barbara Montero satirizes recent arguments that LLMs are not conscious. \n The post  No, Humans Are Not Conscious  first appeared on  The Philosophers' Magazine .",
-      "date": "Wed, 01 Jul 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

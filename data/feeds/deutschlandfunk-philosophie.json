@@ -1,8 +1,24 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-10-24T18:50:47.745953+00:00",
+  "fetchedAt": "2026-10-25T19:34:34.258574+00:00",
   "items": [
+    {
+      "title": "Wie Geld Recht spricht",
+      "url": "https://www.deutschlandfunkkultur.de/katharina-pistor-wie-geld-recht-spricht-100.html",
+      "description": "Wohnungskonzerne, Tech-Unternehmen, KI-Firmen: Wer gute Anwälte hat, schreibt die Spielregeln mit. Juristin Katharina Pistor erklärt, warum die Gleichheit vor dem Gesetz oft nichts zählt und wie ein gerechteres Privatrecht aussehen könnte. Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 25 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "Positives Denken – Warum Hoffnung in schwierigen Zeiten wichtig ist",
       "url": "https://www.deutschlandfunkkultur.de/tag-des-positiven-denkens-ohne-hoffnung-sind-wir-blind-100.html",
@@ -148,6 +164,22 @@
       }
     },
     {
+      "title": "Proteste in Frankreich: Dynamit im System",
+      "url": "https://www.deutschlandfunkkultur.de/proteste-in-frankreich-dynamit-im-system-100.html",
+      "description": "Roedig,, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 25 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Menschsein im AI-Zeitalter: Was eine KI niemals könnte",
       "url": "https://www.deutschlandfunkkultur.de/menschsein-im-ai-zeitalter-was-eine-ki-niemals-koennte-100.html",
       "description": "Rehse-Knauf, Luca www.deutschlandfunkkultur.de, Sein und Streit",
@@ -200,38 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/ki-generierte-kulturgueter-der-tod-des-autors-100.html",
       "description": "Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 30 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lebenszeiten 4: Lebensabend – Zwischen Leiden und Loslassen",
-      "url": "https://www.deutschlandfunkkultur.de/lebenszeiten-4-lebensabend-zwischen-leiden-und-loslassen-100.html",
-      "description": "Roedig, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 23 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ultra-Running - Von der Fitness zum Extremsport",
-      "url": "https://www.deutschlandfunkkultur.de/von-der-fitness-zum-extremsport-der-luxus-des-ultra-runnings-100.html",
-      "description": "Vom Marathon zum Ultra-Running: auch im Breitensport gibt es einen Trend zu immer extremeren Leistungen. Was treibt die modernen Selbstoptimierer hier an? Nachdenkliches zum Sport mit dem Philosophen Björn Vedder. Newmark, Catherine; Vedder, Björn www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 23 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

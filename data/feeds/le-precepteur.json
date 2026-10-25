@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-24T18:50:42.987704+00:00",
+  "fetchedAt": "2026-10-25T19:34:29.485411+00:00",
   "items": [
     {
       "title": "L'anneau qui vous rend invisible",
@@ -181,6 +181,22 @@
     },
     {
       "title": "Si vous êtes dans ce cas, lisez ce philosophe",
+      "url": "https://www.youtube.com/shorts/Ww1ytWIHSiU",
+      "description": "⬇️ Complétez ma liste en commentaire",
+      "date": "2026-10-25",
+      "thumbnail": "https://i4.ytimg.com/vi/Ww1ytWIHSiU/hqdefault.jpg",
+      "videoId": "Ww1ytWIHSiU",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
       "url": "https://www.youtube.com/shorts/q9N2R7fHA9c",
       "description": "⬇️ Complétez ma liste en commentaire",
       "date": "2026-10-21",
@@ -202,22 +218,6 @@
       "date": "2026-10-13",
       "thumbnail": "https://i2.ytimg.com/vi/QfoKf8pL4L4/hqdefault.jpg",
       "videoId": "QfoKf8pL4L4",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "10 visions de l'amour",
-      "url": "https://www.youtube.com/shorts/9eTW0aoqkwg",
-      "description": "Et vous, quelle est votre vision de l'amour ?",
-      "date": "2026-09-22",
-      "thumbnail": "https://i2.ytimg.com/vi/9eTW0aoqkwg/hqdefault.jpg",
-      "videoId": "9eTW0aoqkwg",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,

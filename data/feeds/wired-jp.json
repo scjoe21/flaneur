@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-24T18:51:29.967029+00:00",
+  "fetchedAt": "2026-10-25T19:35:25.644266+00:00",
   "items": [
     {
       "title": "“無償で使い放題”だった自然の価値を測定し、資本主義を内側から変えていく｜Think Nature──リジェネラティブ・カンパニー・アワード2026",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "メタはAI「Muse」に性的な会話を許可。人間のアダルトクリエイターからは怒りの声",
+      "url": "https://wired.jp/article/onlyfans-creators-are-pissed-that-meta-lets-muse-talk-dirty/",
+      "description": "メタのAIエージェント「Muse」は、成人ユーザーとの性的なやりとりが可能だ。一方、SNSでの発信を制限されがちなOnlyFansのクリエイターたちは、AI時代の表現や収益をめぐる矛盾を指摘している。",
+      "date": "Sun, 25 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -132,19 +148,35 @@
       }
     },
     {
-      "title": "グーグルからトップAI研究者4人が去り「Discovery Loop」を設立",
-      "url": "https://wired.jp/article/sz-jeff-dean-google-discovery-loop-startup/",
-      "description": "ジェフ・ディーンをはじめとするグーグルの精鋭幹部たちが、創薬からチップ設計まであらゆる分野でAIによるブレークスルーを追求するスタートアップを設立した。",
-      "date": "Wed, 21 Oct 2026",
+      "title": "iPhoneで先住民の言語を使えるようにする、アップルの取り組み",
+      "url": "https://wired.jp/article/how-apple-puts-indigenous-languages-on-the-iphone-keyboard/",
+      "description": "アップルなどのテクノロジー企業は先住民コミュニティと協力し、消滅の危機にある言語をスマートフォンで使えるようにする取り組みを進めている。これは先住民にとって、次世代が母語に触れ、受け継いでいくための重要な手段となる。",
+      "date": "Sat, 24 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "プライバシーは守りたい、でもAIは使いたいあなたへ",
+      "url": "https://wired.jp/article/sz-how-to-use-ai-with-your-privacy-intact/",
+      "description": "AIチャットボットとの会話は、極めて個人的であると同時に、監視されることに対して極めて脆弱でもある。『WIRED』があなた自身の身を守るための方法を紹介しよう。",
+      "date": "Sat, 24 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://wired.jp/article/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/",
       "description": "プログラミング言語PHPに見つかった2件の重大な脆弱性「PHP2Shell」。AWSの調査で、修正パッチの公開4日前に攻撃が試みられていたことが判明した。",
       "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "広告を見るだけでスパイウェアに感染、ゼロクリック攻撃の“最悪のシナリオ”が現実に",
-      "url": "https://wired.jp/article/nightmare-scenario-zero-click-spyware-is-infecting-phones-via-targeted-ads/",
-      "description": "トロント大学の研究機関Citizen Labが、オンライン広告を通じてスパイウェアに感染させるゼロクリック攻撃の技術的証拠を公開した。利用者は感染に気づきにくく、攻撃の検出も難しい。有効な防御策も限られている。",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "iPhone Duo先行レビュー：戸惑いの先には、“新しい使い心地”が待っている",
-      "url": "https://wired.jp/article/iphone-duo-review-beyond-learning-curve/",
-      "description": "アップルの「iPhone Duo」を先行レビューして感じたのは、ユーザーに新しい使い方を要求するということ。使いにくいと感じるかもしれないが、それは「ポストスマートフォン」に向けての“成長痛”なのかもしれない。",
-      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

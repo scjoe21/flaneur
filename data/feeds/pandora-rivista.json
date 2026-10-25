@@ -1,7 +1,7 @@
 {
   "sourceId": "pandora-rivista",
   "sourceName": "Pandora Rivista",
-  "fetchedAt": "2026-10-24T18:51:20.143646+00:00",
+  "fetchedAt": "2026-10-25T19:35:16.567614+00:00",
   "items": [
     {
       "title": "Marco Aime - L'altro come icona del male",
@@ -58,22 +58,6 @@
       "date": "2026-09-03",
       "thumbnail": "https://i2.ytimg.com/vi/EjcRWFiAalU/hqdefault.jpg",
       "videoId": "EjcRWFiAalU",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Annalisa Camilli, Veronica Fernandes, Paolo Giordano - Raccontare la guerra oggi",
-      "url": "https://www.youtube.com/watch?v=0JWy19MGbyA",
-      "description": "Annalisa Camilli - giornalista e saggista - Veronica Fernandes - giornalista e conduttrice televisiva - e Paolo Giordano - scrittore - sono stati ospiti al Festival Essenziale/Presente 2026, che si è svolto dal 4 al 7 giugno a Fiorano Modenese, in un dialogo a partire dal libro \"Da vicino. Raccontare la guerra oggi\" (Einaudi) a cura di Paolo Giordano.\n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una riv",
-      "date": "2026-07-10",
-      "thumbnail": "https://i1.ytimg.com/vi/0JWy19MGbyA/hqdefault.jpg",
-      "videoId": "0JWy19MGbyA",
       "priority": 10,
       "scoreDetail": {
         "daily": 10,
@@ -161,6 +145,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Stefano Nazzi - Profeti del buio",
+      "url": "https://www.youtube.com/watch?v=jspfqPP5xj0",
+      "description": "Stefano Nazzi - giornalista - è stato ospite al Festival del Presente 2026, che si è svolto tra l'1 e il 18 ottobre, in un incontro a partire dal libro \"Profeti del buio. Potere, manipolazione, violenze: i segreti delle sette\" (Mondadori).\n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una rivista cartacea, un archivio online, podcast, festival e ricerche. Scopri Pandora Rivista: https://www.pandorarivist",
+      "date": "2026-10-25",
+      "thumbnail": "https://i3.ytimg.com/vi/jspfqPP5xj0/hqdefault.jpg",
+      "videoId": "jspfqPP5xj0",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
