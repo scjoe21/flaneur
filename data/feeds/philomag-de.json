@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-30T19:54:16.955218+00:00",
+  "fetchedAt": "2026-10-30T22:36:58.490517+00:00",
   "items": [
     {
       "title": "Wie wir die Welt sehen",
@@ -78,38 +78,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Strahlende Zukunft",
-      "url": "https://www.philomag.de/artikel/strahlende-zukunft",
-      "description": "Neue Sensoren für die Nachverfolgung von Waren funktionieren nach einem fotosyntheseähnlichen Prinzip.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Haltung als Selbstschutz",
-      "url": "https://www.philomag.de/artikel/haltung-als-selbstschutz",
-      "description": "Gerade in Nahbeziehungen sind Menschen leicht verletzbar. Wie sich schützen, ohne sich zu verpanzern? Unsere Kolumnistin Millay Hyatt plädiert für innere Festigkeit.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -238,6 +206,38 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Wissen Betroffene mehr?",
+      "url": "https://www.philomag.de/artikel/wissen-betroffene-mehr",
+      "description": "Empathie und Intellekt erlauben es uns, die Erfahrungen anderer nachzuvollziehen. Doch wo liegen die Grenzen unseres Einfühlungsvermögens? Wissen die Ausgegrenzten und Unterdrückten etwas, was andere nie verstehen werden?",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Relikt der Gabe",
+      "url": "https://www.philomag.de/artikel/relikt-der-gabe",
+      "description": "Festgelegte Trinkgeldbeträge an EC-Geräten mehren sich. Doch die Sozialität stiftende Funktion der Gabe geht auf diese Weise verloren.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

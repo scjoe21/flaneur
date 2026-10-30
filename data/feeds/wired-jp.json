@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-30T19:54:57.288471+00:00",
+  "fetchedAt": "2026-10-30T22:37:34.241066+00:00",
   "items": [
+    {
+      "title": "イノベーションの翌朝にゴミを拾うのは誰か｜FUTURE of WORK",
+      "url": "https://wired.jp/article/sz-future-of-work-innovation-repair/",
+      "description": "イノベーションや成果の瞬間は顕彰され注目されるが、翌日以降もそれを保守し修理する人々は見過ごされている。あらゆるものが生成され、つくられていく時代の労働を考える。",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "タッチ対応の新型MacBook Proに触れて見えてきた本当の価値",
       "url": "https://wired.jp/article/apple-macbook-pro-touch-display-hands-on/",
@@ -215,22 +231,6 @@
       "title": "AI時代、人間が書いた本であることを証明する「オーガニック」認証が登場",
       "url": "https://wired.jp/article/organic-literature-books-by-people-stamp-ai/",
       "description": "AI生成された文章が増えるなか、英国のスタートアップが新たな書籍認証制度を立ち上げた。執筆過程を審査するこの仕組みは、AI使用の誤判定を防ぎ、出版業界の信頼を守ることにつながるのだろうか。",
-      "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "人類滅亡のリスクが競争力に？ AnthropicのIPO目論見書が示していること",
-      "url": "https://wired.jp/article/the-anthropic-ipo-is-also-a-doomsday-primer/",
-      "description": "Anthropicの目論見書には、AIが人類の存亡を脅かすリスクが詳述されている。一方、同社はその危険につながりかねない「再帰的自己改善（RSI）」を、競争上の重要な強みと位置づけている。",
       "date": "Tue, 27 Oct 2026",
       "thumbnail": "",
       "videoId": "",
