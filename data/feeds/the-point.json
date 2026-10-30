@@ -1,7 +1,7 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-10-25T19:35:20.425819+00:00",
+  "fetchedAt": "2026-10-30T10:40:38.376383+00:00",
   "items": [
     {
       "title": "Internal Goods",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "After the Post-Avant-Garde",
-      "url": "https://thepointmag.com/criticism/after-the-post-avant-garde/",
-      "description": "When the art market can get by with flashy and ineffectual figurative paintings that are easy to sell on Instagram, it no longer has any reason to care about what’s going on in artistic subcultures. Indeed, those subcultures no longer have any reason to care about themselves. \n The post  After the Post-Avant-Garde  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 4,
         "novelty": 0,
         "total": 9
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Perfect Game",
+      "url": "https://thepointmag.com/criticism/the-perfect-game/",
+      "description": "It went on long enough that the crowd curdled and its cheers turned sarcastic. \n The post  The Perfect Game  appeared first on  The Point Magazine .",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

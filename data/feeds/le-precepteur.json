@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-10-25T19:34:29.485411+00:00",
+  "fetchedAt": "2026-10-30T10:40:05.173233+00:00",
   "items": [
     {
       "title": "L'anneau qui vous rend invisible",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 45
+      }
+    },
+    {
+      "title": "LA COLÈRE - Pourquoi elle se retourne contre vous",
+      "url": "https://www.youtube.com/watch?v=KEz27z1gVtE",
+      "description": "La colère peut-elle changer le monde ? Pour les stoïciens, elle se retourne d'abord contre celui qui l'éprouve. Dans cet extrait de mon entretien sur la chaîne « Biomécanique », nous revenons sur la différence entre la colère, qui cherche un coupable, et la révolte, qui cherche une solution. Et sur ce que veut vraiment dire « accepter » le monde tel qu'il est.\n\n▶️ Voir l'entretien en intégralité : https://youtu.be/VoehfbUhXXQ\n\n#Philosophie #Stoïcisme #Colère\n\n----------------------------------\n\n",
+      "date": "2026-10-29",
+      "thumbnail": "https://i4.ytimg.com/vi/KEz27z1gVtE/hqdefault.jpg",
+      "videoId": "KEz27z1gVtE",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 40
       }
     },
     {
@@ -68,12 +84,28 @@
       }
     },
     {
-      "title": "Affaire Thélyson Orélien : un roman écrit par une IA ?",
-      "url": "https://www.youtube.com/shorts/JPsRcxqRTh4",
-      "description": "Un écrivain est soupçonné d'avoir utilisé une IA pour écrire son dernier roman. Cette affaire soulève plusieurs questions : un livre généré par IA mérite-t-il un prix littéraire ? Pourquoi personne n'a rien vu ? Et qu'en est-il du fossé entre écrivains et IA ?",
-      "date": "2026-09-24",
-      "thumbnail": "https://i3.ytimg.com/vi/JPsRcxqRTh4/hqdefault.jpg",
-      "videoId": "JPsRcxqRTh4",
+      "title": "HPI, TDAH, AUTISME... Quand les réseaux sociaux nous diagnostiquent",
+      "url": "https://www.youtube.com/watch?v=hjf5i4ydx9w",
+      "description": "HPI, TDAH, autisme : ces mots sont partout sur les réseaux sociaux, et beaucoup de gens finissent par s'y reconnaître. Mais sait-on vraiment ce qu'ils veulent dire ? Dans cet entretien, la psychologue Estelle Joguet explique ce que recouvrent ces notions et pourquoi l'autodiagnostic en ligne trompe souvent.\n\nL'entretien aborde le haut potentiel intellectuel et la mesure du QI, les troubles du neurodéveloppement (TSA et TDAH), le déroulement d'un vrai bilan et les effets de la vulgarisation sur I",
+      "date": "2026-10-23",
+      "thumbnail": "https://i1.ytimg.com/vi/hjf5i4ydx9w/hqdefault.jpg",
+      "videoId": "hjf5i4ydx9w",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 25
+      }
+    },
+    {
+      "title": "PARMÉNIDE VS HÉRACLITE - L'être et le devenir",
+      "url": "https://www.youtube.com/watch?v=e5Hzfv0EfYs",
+      "description": "Sommes-nous encore la même personne que l'enfant que nous étions il y a vingt ans ? Cette question remonte aux présocratiques. Dans cet épisode, avec Philo-Man, j'explique le débat entre Héraclite, pour qui tout change, et Parménide, pour qui rien ne change. Puis je montre comment Platon a fini par les réconcilier.\n\nL'épisode aborde les notions d'être et de devenir, d'identité, de logos et de non-être. Sans oublier la célèbre formule attribuée à Héraclite : « On ne se baigne jamais deux fois dan",
+      "date": "2026-10-09",
+      "thumbnail": "https://i2.ytimg.com/vi/e5Hzfv0EfYs/hqdefault.jpg",
+      "videoId": "e5Hzfv0EfYs",
       "priority": 25,
       "scoreDetail": {
         "daily": 20,
@@ -81,22 +113,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "HPI, TDAH, AUTISME... Quand les réseaux sociaux nous diagnostiquent",
-      "url": "https://www.youtube.com/watch?v=hjf5i4ydx9w",
-      "description": "-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx (lien rému",
-      "date": "2026-10-23",
-      "thumbnail": "https://i1.ytimg.com/vi/hjf5i4ydx9w/hqdefault.jpg",
-      "videoId": "hjf5i4ydx9w",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     },
     {
@@ -113,22 +129,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "PARMÉNIDE VS HÉRACLITE - L'être et le devenir",
-      "url": "https://www.youtube.com/watch?v=e5Hzfv0EfYs",
-      "description": "-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPOUR COMMANDER MA BD \"PHILORAMA\" :\n\n▶️ Sur Amazon : https://amzn.to/4sVjMyx (lien rému",
-      "date": "2026-10-09",
-      "thumbnail": "https://i2.ytimg.com/vi/e5Hzfv0EfYs/hqdefault.jpg",
-      "videoId": "e5Hzfv0EfYs",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -164,19 +164,19 @@
       }
     },
     {
-      "title": "ALDOUS HUXLEY - Le meilleur des mondes",
-      "url": "https://www.youtube.com/watch?v=_Dt4nhRtfJ4",
-      "description": "ESSAYEZ MYHERITAGE GRATUITEMENT PENDANT 14 JOURS :\n\n▶️ https://bit.ly/LePrecepteur\n\n-20% SUR VOTRE ABONNEMENT LEARNING FRONTIER AVEC LE CODE \"PRECEPTEUR\" :\n\n▶️ https://learningfrontier.ai/le-precepteur\n\nPOUR COMMANDER MON LIVRE \"LES 10 PRINCIPES DU STOÏCISME\" :\n\n▶️ https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\nPOUR COMMANDER MON LIVRE \"LA PHILOSOPHIE, C'EST POUR VOUS AUSSI !\" :\n\n▶️ Sur Amazon : https://amzn.to/3ZMm4CY (lien rémunéré par Amazon)\n▶️ Sur Fnac.com : https://tidd.ly/4dWJZ8O\n\nPO",
-      "date": "2026-09-25",
-      "thumbnail": "https://i4.ytimg.com/vi/_Dt4nhRtfJ4/hqdefault.jpg",
-      "videoId": "_Dt4nhRtfJ4",
-      "priority": 10,
+      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
+      "url": "https://www.youtube.com/shorts/dQEksZs_JPU",
+      "description": "⬇️ Complétez ma liste en commentaire",
+      "date": "2026-10-29",
+      "thumbnail": "https://i1.ytimg.com/vi/dQEksZs_JPU/hqdefault.jpg",
+      "videoId": "dQEksZs_JPU",
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {

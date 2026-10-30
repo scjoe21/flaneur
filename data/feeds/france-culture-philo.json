@@ -1,8 +1,40 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-25T19:34:30.173694+00:00",
+  "fetchedAt": "2026-10-30T10:40:06.037742+00:00",
   "items": [
+    {
+      "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 4/4 : \"Nous voulons être les poètes de notre vie\"",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:59:33  - Avec philosophie - par : Géraldine Mosna-Savoye - L'obsession de l'homme pour la vérité a des conséquences morales dont il faut, selon Nietzsche, s'émanciper. Comment peut-on embellir notre propre vie afin d'atteindre la \"grande santé\" ?   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 25,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 3/4 : Pourquoi et comment renoncer à la vérité",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:59:39  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans \"Le Gai savoir\", Nietzsche remet en cause la notion de “vérité”, qui repose sur des présupposés n’ayant jamais fait l’objet d’une quelconque interrogation. Renoncer à la “croyance” en une vérité absolue n’est pas sans conséquence : toute connaissance n’est-elle alors qu’une interprétation ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert \n\nVous aimez ce podcast ? ",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "La Boétie au pouvoir : retrouvons le goût de la liberté",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/la-boetie-au-pouvoir-faut-il-apprendre-a-desobeir-7494565",
@@ -17,6 +49,38 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 35
+      }
+    },
+    {
+      "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 2/4 : Nietzsche contre le mythe du self-made man",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:59:43  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans \"Le Gai Savoir\", Nietzsche se penche sur la question de l'héritage et sur notre rapport au passé. En quoi sa conception de l'hérédité est-elle singulière dans l'histoire de la philosophie ? Comment le philosophe l'articule-t-il à celle d'héritage ?\n  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 1/4 : Comment atteindre le \"gai savoir\" ?",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 01:02:27  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans \"Le Gai Savoir\" (1882), Nietzsche nous incite à dire oui, à surmonter les pulsions morbides héritées du christianisme et le dualisme platonicien. À la quête de vérité doit se substituer la vie. En quoi \"Le Gai Savoir\" est-il le livre de l'affirmation ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans lim",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -36,35 +100,19 @@
       }
     },
     {
-      "title": "Envie de dormir : troubles dans le sommeil : Insomnie, tout s’oppose à ma nuit",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/insomnie-tout-s-oppose-a-ma-nuit-6082696",
-      "description": "durée : 00:58:27  - Avec philosophie - par : Géraldine Mosna-Savoye - Compter les moutons, trouver le parfait oreille ou la position idéale pour bien dormir n'est pas une question individuelle. C'est un acte politique. Pourrait-on alors envisager le fait de dormir comme un acte de résistance ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Claire Pagès Professeure de philosophie à l'Université Par",
-      "date": "Thu, 15 Oct 2026",
+      "title": "\"La technique et la science comme 'idéologie'\" de Jürgen Habermas par la sociologue Dominique Méda",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:58:21  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - La sociologue et philosophe Dominique Méda évoque un texte au titre pas forcément engageant mais d'une  actualité bouleversante : \"La technique et la science comme 'idéologie'\" de Jürgen Habermas. Avec cette question : comment lutter contre l'économicisation et la dépolitisation de nos sociétés ?  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel \n\nVous aimez ce podcast ? Pour écouter tous les é",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 20,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Comment l'humanisme peut-il éviter l'anthropocentrisme ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-l-humanisme-peut-il-eviter-l-anthropocentrisme-5390845",
-      "description": "durée : 00:03:42  - Le Pourquoi du comment : philo - par : Frédéric Worms - Comment l’humanisme, depuis la Renaissance, au centre de la réflexion, peut-il, aujourd'hui, respecter la valeur de toute forme de vie sans placer l’être humain au-dessus de la nature ?  - équipe : Virginie Le Duault, Corinne Amar, Sorj Leroy \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
+        "total": 25
       }
     },
     {
@@ -180,22 +228,6 @@
       }
     },
     {
-      "title": "Iris Brey, autrice : \"La grossesse est la chose la plus queer pour Maggie Nelson, la transformation suprême\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/iris-brey-autrice-sur-les-argonautes-de-maggie-nelson-3305451",
-      "description": "durée : 00:59:07  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Retour sur \"Les Argonautes\" de Maggie Nelson, un texte fondateur écrit en 2015 pour penser la maternité et l'amour en dehors des normes hétéronormatives.  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger - invités : Iris Brey Autrice et réalisatrice \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Automatisation numérique : demain, tous prolétaires de la pensée ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/automatisation-numerique-demain-tous-proletaires-de-la-pensee-4289997",
       "description": "durée : 00:03:07  - Le Fil philo - par : Anne Alombert - Relire, vérifier et corriger les contenus générés par l'IA : voilà l'une des nouvelles missions confiées aux travailleurs. Pourtant, l'IA est censée nous libérer des tâches répétitives. Dès le 19e siècle, Karl Marx analysait déjà les effets de l'automatisation et de la prolétarisation du travail.  - équipe : Camille Renard, Virginie Le Duault, Thomas Jost, Massimo Bellini, Elise Leu \n\nVous aimez ce podcast ? Pour écouter tous les épisodes ",
@@ -209,38 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Thomas Hobbes au pouvoir : l'homme est-il un loup pour l'homme ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/thomas-hobbes-au-pouvoir-l-homme-est-il-un-loup-pour-l-homme-4447910",
-      "description": "durée : 01:00:02  - Les Philosophes au pouvoir - par : Laurence Devillairs - Marqué par les conflits de son époque, Thomas Hobbes ferait de la sécurité et de la paix civile ses priorités. Renforcer l’autorité de l’État, garantir l’application des lois, prévenir les violences : jusqu’où irait-il pour protéger les citoyens, et quelle place laisserait-il à leurs libertés ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Luc Foisneau Philosophe, directeur de recherche au CNRS, Laurence G",
-      "date": "Sat, 17 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Non, nos psys ne peuvent pas être automatisés !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/non-nos-psys-ne-peuvent-pas-etre-automatises-6777170",
-      "description": "durée : 00:03:22  - Le Fil philo - par : Anne Alombert - En 2026, près d'un jeune sur deux considère son chatbot comme un psy. Pourtant, ce phénomène ne date pas d'hier : dès 1966, ELIZA suscitait déjà un fort attachement émotionnel. Son inventeur, Joseph Weizenbaum, n'a cessé d'alerter sur les risques d'une psychothérapie automatisée.  - équipe : Thomas Jost, Virginie Le Duault, Camille Renard - invités : Anne Alombert Philosophe, maîtresse de conférences en philosophe contemporaine à l'Univers",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

@@ -1,22 +1,70 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-25T19:34:31.149846+00:00",
+  "fetchedAt": "2026-10-30T10:40:07.233558+00:00",
   "items": [
     {
-      "title": "Michel Foucault, le Monte-Cristo de la philosophie",
-      "url": "https://www.philomag.com/articles/michel-foucault-le-monte-cristo-de-la-philosophie",
+      "title": "Comment “humain” est‑il devenu un compliment ?",
+      "url": "https://www.philomag.com/articles/comment-humain-est-il-devenu-un-compliment",
       "description": "",
-      "date": "Thu, 15 Oct 2026",
+      "date": "Mon, 26 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
+      }
+    },
+    {
+      "title": "L’amitié, une ressource à l’ère de Donald Trump ?",
+      "url": "https://www.philomag.com/articles/lamitie-une-ressource-lere-de-donald-trump",
+      "description": "",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Ali Benmakhlouf : “Le souci éthique ne va jamais trop loin”",
+      "url": "https://www.philomag.com/articles/ali-benmakhlouf-le-souci-ethique-ne-va-jamais-trop-loin",
+      "description": "",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Faut-il interdire le mensonge en politique ?",
+      "url": "https://www.philomag.com/articles/faut-il-interdire-le-mensonge-en-politique",
+      "description": "",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -65,6 +113,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“Hope”, un foutoir monstre",
+      "url": "https://www.philomag.com/articles/hope-un-foutoir-monstre",
+      "description": "",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Eva Illouz : “C’est Heidegger qui vote le 27 octobre !”",
+      "url": "https://www.philomag.com/articles/eva-illouz-cest-heidegger-qui-vote-le-27-octobre",
+      "description": "",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -152,86 +232,6 @@
       "url": "https://www.philomag.com/articles/violence-symbolique-ou-reelle-le-match-aron-bourdieu",
       "description": "",
       "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le 17 octobre décrypté en 9 concepts",
-      "url": "https://www.philomag.com/articles/le-17-octobre-decrypte-en-9-concepts",
-      "description": "",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La violence lycéenne est-elle légitime ?",
-      "url": "https://www.philomag.com/articles/la-violence-lyceenne-est-elle-legitime",
-      "description": "",
-      "date": "Sat, 17 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Les Misérables” : un périple philosophique… et religieux",
-      "url": "https://www.philomag.com/articles/les-miserables-un-periple-philosophique-et-religieux",
-      "description": "",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Michel Foucault en 7 “punchlines” expliquées",
-      "url": "https://www.philomag.com/articles/michel-foucault-en-7-punchlines-expliquees",
-      "description": "",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Michel Foucault a 100 ans : parcours d’une œuvre incontournable",
-      "url": "https://www.philomag.com/articles/michel-foucault-100-ans-parcours-dune-oeuvre-incontournable",
-      "description": "",
-      "date": "Tue, 13 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,93 +1,13 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-10-25T19:35:06.798770+00:00",
+  "fetchedAt": "2026-10-30T10:40:27.232545+00:00",
   "items": [
     {
-      "title": "Why So Many Men Aren’t Working",
-      "url": "https://www.theatlantic.com/ideas/2026/10/job-market-unemployment-men-screentime/689109/?utm_source=feed",
+      "title": "The Real Culprit Behind High Grocery Prices",
+      "url": "https://www.theatlantic.com/ideas/2026/10/grocery-prices-public-option/689132/?utm_source=feed",
       "description": "",
-      "date": "2026-10-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The Cynicism of Trump’s Climate Policy",
-      "url": "https://www.theatlantic.com/ideas/2026/10/epa-greenhouse-gas-emissions-power/689070/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Why Is Strategy So Difficult?",
-      "url": "https://www.theatlantic.com/ideas/2026/10/strategy-military-politics-war/689072/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How Corruption Got This Bad",
-      "url": "https://www.theatlantic.com/ideas/2026/10/constitution-trump-doj-supreme-court-corruption/689042/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-19",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "What the U.S. Is Really Doing in Venezuela",
-      "url": "https://www.theatlantic.com/magazine/2026/12/trump-oil-venezuela-exploitation/689033/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Bill for Trumpism Comes Due",
-      "url": "https://www.theatlantic.com/ideas/2026/10/trump-budget-deficit-debt/689085/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-21",
+      "date": "2026-10-26",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -97,6 +17,182 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Variety Bag Has Ruined Halloween",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trick-or-treating-mixed-candy/689208/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-29",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Can Democracy Survive the Next Financial Crash?",
+      "url": "https://www.theatlantic.com/ideas/2026/10/bubble-bailout-trump-authority/689190/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-29",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Israeli Election Results Hazy, Try Again",
+      "url": "https://www.theatlantic.com/ideas/2026/10/israel-election-outcome-possibilities/689184/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-28",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Limits of Trump’s Midterm Trickery",
+      "url": "https://www.theatlantic.com/ideas/2026/10/trump-midterms-election-schemes/689177/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Illusion of ‘Radical Transparency’",
+      "url": "https://www.theatlantic.com/ideas/2026/10/elizabeth-holmes-nathan-fielder-trump/689173/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump’s Cheesecake Factory Dissent",
+      "url": "https://www.theatlantic.com/ideas/2026/10/obama-cheesecake-factory-trump-elitism/689171/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Issues Christian Voters Are Neglecting",
+      "url": "https://www.theatlantic.com/ideas/2026/10/midterms-maga-trump-christianity/689170/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Yes, We Have No Bananas",
+      "url": "https://www.theatlantic.com/ideas/2026/10/groceries-israel-funding-budget/689151/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Red States Are Dumbing Down College Admissions",
+      "url": "https://www.theatlantic.com/ideas/2026/10/classic-learning-test-clt/689144/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Netanyahu Goes Into Full Panic Mode",
+      "url": "https://www.theatlantic.com/ideas/2026/10/israeli-election-benjamin-netanyahu/689143/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Collapse of Cuba",
+      "url": "https://www.theatlantic.com/magazine/2026/12/post-revolutionary-cuba-society-religion/689018/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,102 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/10/fbi-prosecution/689138/?utm_source=feed",
       "description": "",
       "date": "2026-10-23",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "America Needs Its Indian Immigrants",
-      "url": "https://www.theatlantic.com/ideas/2026/10/america-anti-indian-bigotry/689107/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-22",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Like Ken Paxton, Without the Baggage",
-      "url": "https://www.theatlantic.com/ideas/2026/10/texas-attorney-general-race/689061/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "This Is Not a Cycle of Retribution",
-      "url": "https://www.theatlantic.com/ideas/2026/10/slotkin-trump-investigations-corruption/689092/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-21",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "France Will Never Be Enough for the People Desecrating It",
-      "url": "https://www.theatlantic.com/ideas/2026/10/france-protests-macron-government/689089/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sally Rooney Is Wrong, and So Is What’s Happening to Her",
-      "url": "https://www.theatlantic.com/ideas/2026/10/sally-rooney-free-speech/689087/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-20",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "All the President’s Hotties",
-      "url": "https://www.theatlantic.com/ideas/2026/10/trump-physical-appearance-senate-midterms/689084/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-20",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

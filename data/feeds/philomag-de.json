@@ -1,141 +1,61 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-25T19:34:36.765868+00:00",
+  "fetchedAt": "2026-10-30T10:40:12.339236+00:00",
   "items": [
     {
-      "title": "Gibt es Parallelwelten?",
-      "url": "https://www.philomag.de/artikel/gibt-es-parallelwelten",
-      "description": "Manche Versionen unseres Selbst verwirklichen wir nie. Sei es, weil uns die Möglichkeiten fehlen oder weil wir uns anders entschieden haben. Doch was passiert mit unseren Leben, die auch vorstellbar gewesen wären? In der Philosophie und auch in der Physik wird eine faszinierende Annahme vertreten: Unsere ungelebten Existenzen existieren. Nur anderswo.",
-      "date": "Fri, 23 Oct 2026",
+      "title": "Wie wir die Welt sehen",
+      "url": "https://www.philomag.de/artikel/wie-wir-die-welt-sehen",
+      "description": "KI und Social Media, Klima und Corona, globale Umbrüche und Kriege: Junge Menschen stehen in unserer Zeit vor großen Herausforderungen und sind mit einem hohen Maß an Ungewissheit konfrontiert. Wie gehen sie damit um? Was für Erkenntnisse bringt ein junger Mensch hervor, der mit wachen Augen durch die Welt geht? Wir haben vier Jugendliche zum Gespräch eingeladen.",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 40,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 25
-      }
-    },
-    {
-      "title": "Richard David Precht: „Der lange Weg zwischen Frage und Antwort ist eine stetige Arbeit an sich selbst“",
-      "url": "https://www.philomag.de/artikel/richard-david-precht-der-lange-weg-zwischen-frage-und-antwort-ist-eine-stetige-arbeit",
-      "description": "Unserer Gesellschaft droht eine „kulturelle Demenz“, meint Richard David Precht. Denn die künstliche Intelligenz versorge uns mit schnellen Antworten, die wir weder wirklich verstehen noch erinnern. Im Gespräch erklärt er, welche Aufgabe die Schulen heute haben, und erinnert an das humanistische Bildungsideal, das sein Vater noch verkörperte.",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 25
-      }
-    },
-    {
-      "title": "Katharina Pistor: „Die Rechtsordnung muss von innen heraus neugestaltet werden“",
-      "url": "https://www.philomag.de/artikel/katharina-pistor-die-rechtsordnung-muss-von-innen-heraus-neugestaltet-werden",
-      "description": "In ihrem neuen Buch zeigt die Rechtswissenschaftlerin Katharina Pistor, wie eng Kapitalismus und Recht miteinander verwoben sind und dass ersterer auf letzterem fußt. Was das bedeutet, welche Probleme daraus erwachsen und wie das Recht transformiert werden sollte, erklärt sie im Gespräch.",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Die Relevanz des Leibes",
-      "url": "https://www.philomag.de/artikel/die-relevanz-des-leibes",
-      "description": "In  Das andere Geschlecht  problematisiert Beauvoir den weiblichen Körper als Einschränkung einer selbstbestimmten Existenz. Gleichzeitig verleiht sie leiblichen Erfahrungen Gewicht. Daraus lassen sich gerade heute wichtige Schlüsse ziehen.",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Frédéric Gros: „Foucault preist die politische Bedeutung des lokalen Wissens“",
-      "url": "https://www.philomag.de/artikel/frederic-gros-foucault-preist-die-politische-bedeutung-des-lokalen-wissens",
-      "description": "Michel Foucaults Denken kreiste in seinen letzten Lebensjahren um den Begriff der  parrhesia : Dem Wahrsprechen entgegen der vorherrschenden Meinung – auch wenn das gefährlich ist. Der Philosoph Frédéric Gros gibt einen Einblick in Foucaults Spätwerk und erklärt, was Wahrheit für diesen bedeutete.",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Sophia Fritz: „Zum Ideal des Mannseins gehört, niemals Opfer zu sein“",
-      "url": "https://www.philomag.de/artikel/sophia-fritz-zum-ideal-des-mannseins-gehoert-niemals-opfer-zu-sein",
-      "description": "In ihrem jüngst erschienenen Buch untersucht Sophia Fritz, wie die patriarchale Sozialisation Männern schadet und sie daran hindert, ihr eigenes Leiden anzuerkennen. Was gewinnen wir, wenn wir uns von starren Männlichkeitsnormen lösen? Und wie kann das gelingen? Ein Gespräch über soldatische Ideale, fehlende Solidarität und die Sehnsucht nach dem Menschen mit all seinen Emotionen.",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
+        "daily": 40,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 40
       }
     },
     {
-      "title": "Wir Intelligenzbestien",
-      "url": "https://www.philomag.de/artikel/wir-intelligenzbestien",
-      "description": "Der Boom der künstlichen Intelligenz führt dazu, dass auch die menschliche Intelligenz neu und kritisch verhandelt wird. Drei Bücher erforschen aus unterschiedlicher Perspektive, was wir wissen können – und wie wir unsere Klugheit messen wollen.",
-      "date": "Tue, 20 Oct 2026",
+      "title": "Hendrik Bolz: „Ich war lange beseelt von dem Wunsch, hart zu sein“",
+      "url": "https://www.philomag.de/artikel/hendrik-bolz-ich-war-lange-beseelt-von-dem-wunsch-hart-zu-sein",
+      "description": "Harte Männer werden heute zunehmend als Problem betrachtet. Als toxisch. Wie aber fühlt sich so eine Männlichkeit für diejenigen an, die sie leben? Und warum bleibt sie für viele erstrebenswert? Der Musiker und Autor Hendrik Bolz blickt zurück auf seine eigene Jugend und erklärt, wie sein Männlichkeitsbild Quelle von Halt und Schmerz zugleich war.",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
+      "title": "Menschlicher Morast",
+      "url": "https://www.philomag.de/artikel/menschlicher-morast",
+      "description": "In  Minotaurus  zeigt Andrey Zvyagintsev, wie sich die Kriegslogik in der Psyche eines russischen Patriarchen einsenkt, und setzt dessen kalkulierende Selbstkompromittierung wirkmächtig in Szene.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
-      "title": "Die Schüler Frankreichs kommen zu Wort",
-      "url": "https://www.philomag.de/artikel/die-schueler-frankreichs-kommen-zu-wort",
-      "description": "Was denken die wütenden Schüler, die seit zehn Tagen in ganz Frankreich demonstrieren und Gymnasien blockieren? Um das herauszufinden, haben wir fünf von ihnen fast zwei Stunden lang mit einer Philosophielehrerin an einen Tisch gebracht. Die Idee dahinter war simpel: Wir wollten sie dazu einladen, die Gründe für ihren Protest, aber auch ihre Sorgen und Hoffnungen in Worte zu fassen.",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Politik der Gemeinwirtschaft",
-      "url": "https://www.philomag.de/artikel/politik-der-gemeinwirtschaft",
-      "description": "Der Plan der Linken, Wohnungen zu vergesellschaften, wird heute als Eintritt in den Kommunismus kritisiert. Dabei wurde Vergesellschaftung ehemals als dessen Gegenteil begriffen.",
-      "date": "Tue, 13 Oct 2026",
+      "title": "Die neue Ausgabe: Die Weisheit der Jugend",
+      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-die-weisheit-der-jugend",
+      "description": "Die Jugend ist eine Zwischenphase. Die Kindheit ist vorbei, das Erwachsensein noch nicht greifbar. Welche spezifische Erkenntniskraft ist mit diesem Dazwischen verbunden? Wie kann uns ein junger Blick auf die Welt helfen, die blinden Flecke unserer Zeit wahrzunehmen? Was lässt sich schon heute von jenen lernen, die dereinst unsere Zukunft gestalten? Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -148,10 +68,42 @@
       }
     },
     {
-      "title": "Beauvoirs Leserinnen und ich",
-      "url": "https://www.philomag.de/artikel/beauvoirs-leserinnen-und-ich",
-      "description": "Simone de Beauvoir erreichte Tausende von Leserinnen und veränderte, wie diese sich und ihr Leben sahen. Das gilt auch für die Historikerin Marine Rouch, die die Briefe studierte, die Beauvoir erhielt.",
-      "date": "Mon, 19 Oct 2026",
+      "title": "Überschreitung der Enge",
+      "url": "https://www.philomag.de/artikel/ueberschreitung-der-enge",
+      "description": "Wofür lohnt es sich zu leben? Junge Menschen finden auf diese Frage mit Leichtigkeit eine Antwort. Dass sie weltweit auf die Barrikaden gehen, ist ein Weckruf für uns alle.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Strahlende Zukunft",
+      "url": "https://www.philomag.de/artikel/strahlende-zukunft",
+      "description": "Neue Sensoren für die Nachverfolgung von Waren funktionieren nach einem fotosyntheseähnlichen Prinzip.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Haltung als Selbstschutz",
+      "url": "https://www.philomag.de/artikel/haltung-als-selbstschutz",
+      "description": "Gerade in Nahbeziehungen sind Menschen leicht verletzbar. Wie sich schützen, ohne sich zu verpanzern? Unsere Kolumnistin Millay Hyatt plädiert für innere Festigkeit.",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -164,10 +116,42 @@
       }
     },
     {
-      "title": "Naomi Klein: „COVID hat die Tech-Endzeitanhänger radikalisiert”",
-      "url": "https://www.philomag.de/artikel/naomi-klein-covid-hat-die-tech-endzeitanhaenger-radikalisiert",
-      "description": "In ihrem neuen Buch  Endzeitfaschismus  analysieren Naomi Klein und Astra Taylor was religiöse Fundamentalisten, Ethnonationalisten und die Tech-Eliten eint: die Vorstellung einer kommenden Apokalypse. Ein Gespräch über Endzeitfantasien, Bunker, KI und den Zusammenbruch der bestehenden Weltordnung.",
-      "date": "Thu, 15 Oct 2026",
+      "title": "Stark wie eine Frau",
+      "url": "https://www.philomag.de/artikel/stark-wie-eine-frau",
+      "description": "Odysseus zeigt in Christopher Nolans Verfilmung des Epos einen gestählten Körper, der jemand ganz anderem gehört, als zunächst vermutet.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "„Eine Klarheit, die sich nicht erklären lässt“",
+      "url": "https://www.philomag.de/artikel/eine-klarheit-die-sich-nicht-erklaeren-laesst",
+      "description": "Clemens Luhmann, Sohn des Soziologen Niklas Luhmann, zeigt seinen berühmten Vater in Nahsicht – und schildert Alltag und Familiengeschichte als Fundamente einer Theorie, die ohne Personenregister auskommt.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Der Erfinder des Abraums",
+      "url": "https://www.philomag.de/artikel/der-erfinder-des-abraums",
+      "description": "In seinem neuen Roman  Das tickende Herz  schickt Lutz Seiler einen Lyriker in die Steppe und lässt ihn dort nach Heilung suchen. Dichter, Weltretter, Erdbeschützer: Sie alle kommen in zwielichtigen Gemeinschaften zusammen – die in Seilers Werk immer wieder untergraben werden.",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
@@ -180,58 +164,74 @@
       }
     },
     {
-      "title": "Prometheus – Spiegel des Menschen",
-      "url": "https://www.philomag.de/artikel/prometheus-spiegel-des-menschen",
-      "description": "Ob als Rebell, als Schöpfer der Zivilisation und Fortschrittsbringer: Prometheus diente seit jeher als Projektionsfläche für Selbstbilder und Wünsche des Menschen. In seinem jüngst erschienenen Buch folgt Jonas Grethlein nun den Spuren des Mythos.",
-      "date": "Fri, 23 Oct 2026",
+      "title": "Phil.Kids (07/26)",
+      "url": "https://www.philomag.de/artikel/philkids-0726",
+      "description": "Kleine Menschen wissen oft mehr als große. Wir fragen, Kinder antworten.",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Foucault und das moderne Subjekt",
-      "url": "https://www.philomag.de/artikel/foucault-und-das-moderne-subjekt",
-      "description": "Michel Foucaults Geburtstag jährt sich zum 100. Mal. Mit seiner genealogischen Methode demontierte der Philosoph die Vorstellung vom autonomen Subjekt und wies es folgenreich als Effekt von Disziplinartechniken aus. Als Lebenskunst rückte Foucault in späteren Jahren die Selbstgestaltung in den Fokus. In Selbstpraktiken erprobt sich ein ephemeres, freieres Selbstverhältnis – ein Motiv, dem Foucault auch persönlich verpflichtet blieb.",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Sollten wir Freunde vor Fehlern bewahren?",
-      "url": "https://www.philomag.de/artikel/sollten-wir-freunde-vor-fehlern-bewahren",
-      "description": "Was tun, wenn unsere Freunde eine Entscheidung treffen, die wir für falsch halten? Eingreifen oder zuschauen?",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 9,
       "scoreDetail": {
         "daily": 0,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
-        "total": 4
+        "total": 9
       }
     },
     {
-      "title": "Scheue Leoparden",
-      "url": "https://www.philomag.de/artikel/scheue-leoparden",
-      "description": "Giuseppe Tomasi di Lampedusas Roman  Der Leopard  ist schon konservativ, reaktionär, kommunistisch und liberal ausgelegt worden. Heute drängt sich eine andere Lesart auf: Wenn der Untergang unabwendbar ist, sollte man ihn mit Würde ertragen.",
-      "date": "Fri, 16 Oct 2026",
+      "title": "bell hooks und der Widerstand",
+      "url": "https://www.philomag.de/artikel/bell-hooks-und-der-widerstand",
+      "description": "Widerstand, so die Überzeugung der Theoretikerin und Aktivistin bell hooks, erschöpft sich nicht im Dagegensein. Vielmehr ist seine Grundlage die Liebe – verstanden als Entscheidung für Verbundenheit und Fürsorge. Ein Essay über leidvolle Erfahrungen als Quelle von Erkenntnis und die subversive Kraft des Dafürseins.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Die Rückkehr des Gemeinen",
+      "url": "https://www.philomag.de/artikel/die-rueckkehr-des-gemeinen",
+      "description": "Die US-Rechte, traditionell ein Hort des Libertarismus, entdeckt gerade den Gemeinsinn für sich, meint Wolfram Eilenberger.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Loneliness Influencer",
+      "url": "https://www.philomag.de/artikel/loneliness-influencer",
+      "description": "In den Sozialen Medien kursieren zahlreiche Videos, in denen junge Frauen ihr Single-Dasein zelebrieren.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Queere Geschichte schreiben",
+      "url": "https://www.philomag.de/artikel/queere-geschichte-schreiben",
+      "description": "Im Podcast  I Will Survive  blickt Phillip Syvarth auf die AidsKrise in Bayern zurück und zeigt, welche Bedeutung sie für die queere Bewegung bis heute hat.",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

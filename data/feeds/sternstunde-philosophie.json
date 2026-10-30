@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-10-25T19:34:39.973118+00:00",
+  "fetchedAt": "2026-10-30T10:40:15.074698+00:00",
   "items": [
     {
       "title": "Bequeme neue Welt: Verlernen wir das Menschsein? | Sternstunde Philosophie | SRF Kultur",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Klimakrise: Warum handeln wir nicht, Reto Knutti? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=J77-r4-gwxE",
+      "description": "Hitzesommer, ausgetrocknete Seen und Flüsse, Gletschersterben – und gerade hat die UNO eine Erwärmung um 2.8 Grad prognostiziert. Dennoch sorgt das Thema oft nur für Achselzucken. Können wir uns diese Nonchalance leisten? Und auf wessen Kosten? Ein Gespräch mit Klimawissenschaftler Reto Knutti. \n\nThemen in dieser Folge:\n00:00 Warum erscheint die Klimadebatte vielen als sinnlos? \n7:15 Welche Klimaveränderungen erwarten uns in Zukunft? \n20:42 Was kann die Schweiz tun? \n32:50 Ist fossile Energie te",
+      "date": "2026-10-26",
+      "thumbnail": "https://i3.ytimg.com/vi/J77-r4-gwxE/hqdefault.jpg",
+      "videoId": "J77-r4-gwxE",
+      "priority": 50,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 50
+      }
+    },
+    {
       "title": "Freundschaften: Besser als Familie, Mareike Fallwickl? | Zimmer 42 – mit Barbara Bleisch | Podcast",
       "url": "https://www.youtube.com/watch?v=-3Dxg6QGyeE",
       "description": "Freundschaften geben Halt, stiften Nähe und können ein Leben lang tragen. Warum haben sie gesellschaftlich dennoch einen niedrigeren Stellenwert als Familie und Partnerschaft? Die Schriftstellerin Mareike Fallwickl plädiert für den Wert von Freundschaften als Wahlfamilien (und als Bollwerk gegen die Kälte der Zeit). \n\nThemen in dieser Folge:\n00:00 Intro\n04:43 Familie oder die Wahlfamilie\n11:07 Freundschaften sind Liebesbeziehungen\n30:26 Unterschiede Männer- und Frauenfreundschaften\n41:59 Wie wer",
@@ -94,22 +110,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 45
-      }
-    },
-    {
-      "title": "How Animals Understand Death — and What That Reveals About Us | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=ISlTJI_sJzY",
-      "description": "🎥 Until recently awareness of death was considered the last bastion of human uniqueness. But Spanish philosopher and animal ethicist Susana Monsó challenges this assumption. She explains what animals understand about death and why these insights are changing our view of humanity.\n\n🔔 Subscribe to SRF Kultur Sternstunden on YouTube now 👉 https://www.youtube.com/srfkultur?sub_confirmation=1\n\nOrcas carry their dead calves through the ocean for days; elephants return to the carcasses of deceased herd",
-      "date": "2026-08-31",
-      "thumbnail": "https://i2.ytimg.com/vi/ISlTJI_sJzY/hqdefault.jpg",
-      "videoId": "ISlTJI_sJzY",
-      "priority": 45,
-      "scoreDetail": {
-        "daily": 35,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 45

@@ -1,38 +1,22 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-10-25T19:35:13.372573+00:00",
+  "fetchedAt": "2026-10-30T10:40:32.796801+00:00",
   "items": [
     {
-      "title": "Junge Pflegende - Wie viel Verantwortung verträgt eine Kindheit?",
-      "url": "https://www.deutschlandfunkkultur.de/junge-pflegende-wie-viel-verantwortung-vertraegt-eine-kindheit-100.html",
-      "description": "Studien gehen davon aus, dass rund 500.000 Kinder und Jugendliche in Deutschland Angehörige pflegen. Sie halten den Familienalltag am Laufen und gleichen aus, was Pflegedienste nicht leisten können. Eine hohe Verantwortung, die Spuren hinterlässt. Hoheisel, Clara www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 05 Oct 2026",
+      "title": "Die Weisheit der Wenigen - Wer auf Prognosemärkten gewinnt",
+      "url": "https://www.deutschlandfunkkultur.de/die-weisheit-der-wenigen-wer-auf-prognosemaerkten-gewinnt-100.html",
+      "description": "Vor den US-Midterms boomen Prognosemärkte wie Kalshi und Polymarket. Sie liefern oft erstaunlich gute Vorhersagen. Wer viel Geld setzt, kann Quoten verschieben und so den Wahlkampf beeinflussen. Während die Masse zahlt, profitieren andere. Guckelsberger, Florian www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 49,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 40,
-        "phil": 5,
+        "daily": 25,
+        "phil": 10,
         "flaneur": 4,
         "novelty": 0,
-        "total": 49
-      }
-    },
-    {
-      "title": "Kunstfreiheit: Wie Osteuropas Künstler autoritären Regierungen trotzen",
-      "url": "https://www.deutschlandfunkkultur.de/feindbild-kunst-wie-osteuropas-kuenstlerinnen-autoritaeren-regierungen-trotzen-100.html",
-      "description": "Was passiert, wenn Kunst dem Staat plötzlich als Feindbild gilt? Eine Reise zu Künstlerinnen und Künstlern in Polen, der Slowakei und Serbien mit der Frage: Können ihre Erfahrungen ein Blaupause für Deutschland sein? Ressel, Siegfried www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 43,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 43
+        "total": 39
       }
     },
     {
@@ -116,6 +100,38 @@
       }
     },
     {
+      "title": "Harry Houdini - Vom Nobody zur Marke",
+      "url": "https://www.deutschlandfunkkultur.de/harry-houdini-102.html",
+      "description": "Harry Houdini ist der berühmteste Entfesselungskünstler der Welt. Seine Zwangsjacken-Nummer gilt heute als einer der größten Stunts der Illusionskunst. Dass Houdini so erfolgreich wurde, war reiner Zu- und ein echter Glücksfall. Just, Dagmar www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Mehr als ein Bankett - Essen beeinflusst Politik",
+      "url": "https://www.deutschlandfunkkultur.de/essen-macht-politik-wie-essen-politik-beeinflusst-100.html",
+      "description": "Seit Jahrhunderten verbinden Adlige, Staatslenker und hochrangige Geheimnisträger gemeinsames Essen mit Politik. Dabei ist nicht nur wichtig, wo man speist und was auf den Tisch kommt. Auch die Frage, wer neben wem sitzt, kann entscheidend sein. Hüttl, Tina www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
       "url": "https://www.deutschlandfunkkultur.de/die-kohlenstoffwende-alternative-rohstoffquellen-fuer-die-chemieindustrie-100.html",
       "description": "Ob Medikamente, Kunststoffe oder Kosmetika: In allen steckt Kohlenstoff. Dieser stammt aus Erdöl und Erdgas. Damit ist die Chemieindustrie von Importen abhängig. Kann eine Kohlenstoffwende mit neuen Rohstoffquellen gelingen? Neumeier, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -126,38 +142,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Zwischen Kometen und Labor - Wo beginnt das Leben?",
-      "url": "https://www.deutschlandfunkkultur.de/wo-beginnt-leben-zwischen-kometen-und-labor-100.html",
-      "description": "Wie aus Mikroben Pflanzen und Menschen wurden, kann die Biologie erklären. Woher die erste Zelle kam, weiß sie bis heute nicht. Inzwischen stellen Forschende die frühe Erde im Labor nach und prüfen, was dort tatsächlich abläuft. Tolzmann, Jan www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Barrierefreiheit im Netz per Gesetz: Eine Bilanz nach einem Jahr",
-      "url": "https://www.deutschlandfunkkultur.de/barrierefreiheit-im-netz-gesetz-100.html",
-      "description": "Onlinebanking, Ticketkauf, Shopping: Nur ein Bruchteil der digitalen Infrastrukturen ist barrierefrei. Seit letztem Jahr verpflichtet ein Gesetz Unternehmen dazu, ihre Angebote inklusiv zu gestalten. Was hat sich seitdem getan? (Aktualisierte Wdh. vom 30.06.26) Morgenthaler, Ronja www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 29 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -209,6 +193,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Hermann Bickels letzter Sommer - Wird die Alpwirtschaft verschwinden?",
+      "url": "https://www.deutschlandfunkkultur.de/hermann-bickels-letzter-sommer-wird-die-alpwirtschaft-verschwinden-100.html",
+      "description": "Kühe melken, Zäune bauen, steile Hänge meistern: Hinter der Alpenromantik steckt harte Arbeit. Auf einer Alpe in Vorarlberg steht ein Generationenwechsel bevor. Nun entscheidet sich, ob eine jahrhundertealte Tradition weiterleben kann. Schlag, Gabi www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

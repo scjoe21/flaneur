@@ -1,166 +1,166 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-10-25T19:35:06.295354+00:00",
+  "fetchedAt": "2026-10-30T10:40:26.815445+00:00",
   "items": [
     {
-      "title": "You can’t eliminate uncertainty — but you can prevent it from paralyzing you",
-      "url": "https://bigthink.com/books/safer-book/",
-      "description": "At the time of this writing, there is no consensus about how COVID started.  \n My colleagues and I tried to harness that uncertainty as a strength. Rather than waiting for certainty to arrive, we began acting in its absence. Not knowing the origins of COVID meant we were forced — as we readied the country and world for future unknown threats — to make ourselves safer from all potential causes: natural spillovers, lab accidents, and biological weapons. Through the fall 2022 and into 2023, we work",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/safer_excerpt.jpg?quality=85&w=640",
+      "title": "Mimetic desire, social contagion, and the fight for your true self",
+      "url": "https://bigthink.com/series/full-interview/mimetic-desire-contagion/",
+      "description": "In 1936, a shipyard worker in Hamburg kept his arms folded while hundreds of men around him raised theirs for Hitler. Luke Burgis, author of Wanting and The One in the 99, wants to know what it takes to become that person, and he traces the answer back to the family. Drawing on psychiatrist Murray Bowen’s distinction between the solid self and the pseudo self, Burgis shows how anxiety and opinion pass through groups by contagion, and how our screens have multiplied the crowds we have to stand wi",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/C1-Web-Burgis-1.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 35,
+      "priority": 44,
+      "scoreDetail": {
+        "daily": 40,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 44
+      }
+    },
+    {
+      "title": "3 ways to find and nurture better friendships",
+      "url": "https://bigthink.com/mini-philosophy/3-ways-to-find-and-nurture-better-friendships/",
+      "description": "Why do you think anything is normal? \n Presumably, somewhere in your childhood, someone normalized things. Your parents only ever talked about certain subjects. Your friends dressed and behaved in a certain style. The miasmic shadows of society told you that some kinds of thoughts are acceptable, and others are deviant. Suppress! Deny! It’s abnormal. \n One of the hundred reasons I love philosophy is that it allows us to reexamine our own “normal.” We can drag our concepts onto the syllogistic di",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/3-ways-nurture-friendships_compressed.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "The hard part of belonging begins after you’ve found your people",
+      "url": "https://bigthink.com/series/the-big-think-interview/belonging-pseudo-self/",
+      "description": "Drawing on psychiatrist Murray Bowen’s family systems theory, Henri Tajfel’s minimal group experiments, and Gustave Le Bon’s study of crowds, Luke Burgis separates the “solid self” from the “pseudo self” that reshapes itself for every room, and how to preserve your truest essence.  \n \n This video  The hard part of belonging begins after you’ve found your people  is featured on  Big Think .",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/A1-Web-Burgis-1.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 39,
       "scoreDetail": {
         "daily": 30,
         "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
+    {
+      "title": "The 3 great origin mysteries: The universe, life, and consciousness",
+      "url": "https://bigthink.com/series/full-interview/origin-life-davies/",
+      "description": "Physicist and cosmologist Paul Davies, author of The Demon in the Machine, argues that the deepest mystery of life’s origin is how chemistry came to write its own code. \n Davies traces the question from Aristotle and Schrödinger’s “aperiodic crystal” to Maxwell’s demon, Michael Levin’s two-headed flatworms, and the possibility of a shadow biosphere hiding on Earth. \n This video  The 3 great origin mysteries: The universe, life, and consciousness  is featured on  Big Think .",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/Screenshot-2026-10-29-at-11.33.44-AM.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 35
       }
     },
     {
-      "title": "Mapped: Every known (and suspected) road in the Roman Empire",
-      "url": "https://bigthink.com/strange-maps/roman-road-networks/",
-      "description": "Rome wasn’t built in a day .  All roads lead to Rome . A recent study now links those two well-worn proverbs by suggesting that the footprint of Roman road infrastructure was 59% larger than previously thought. The revelation isn’t just quantitative — a network with a finer mesh might change what we think life was like across Rome’s vast domain. \n From Hadrian’s Wall to the Persian Gulf \n The findings come from the research team behind Itiner-e, a project that  published a digital atlas of the E",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/Cropped-Europe-.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Ask Ethan: Can we solve the mysteries of the largest black holes?",
-      "url": "https://bigthink.com/starts-with-a-bang/solve-mysteries-largest-black-holes/",
-      "description": "Out there in the Universe, there are some incredibly impressive astrophysical entities, including behemoths that dwarf anything we’re familiar with. There are stars hundreds of times more massive, and millions of times as luminous, as our own Sun is. There are galaxies and galaxy clusters thousands of times as massive as our Milky Way and Local Group. And there are black holes out there that not only dwarf our own Sun, but black holes that are so massive, they’re comparable in mass to all of the",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2023/02/ssc2019-05b-e1689996818987.jpg?quality=85&w=640",
+      "title": "Stop trying to find yourself",
+      "url": "https://bigthink.com/series/conversations/joe-folley-stop-trying-to-find-yourself/",
+      "description": "Philosopher Joe Folley is skeptical that there’s a core self down there to find. In this Big Think Conversation with Jonny Thomson, he makes the case for a self that gets built rather than excavated — and argues that the attention it takes to build one has been quietly thinned down into something you spend, trade, and optimize. Then: why nearly everyone reads the wrong Camus book, and why Camus himself seems to have thought his most famous philosophy was only half finished. Joe Folley holds an u",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/MPP3_Joe_Folley1-for_BT_Website.png?quality=80&w=640",
       "videoId": "",
       "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Cosmology’s oldest question: How the universe will end",
-      "url": "https://bigthink.com/series/the-big-think-interview/universe-dark-energy/",
-      "description": "By the end of the 20th century, physicists believed they had answered one of cosmology’s oldest questions: the universe would expand forever, its galaxies drifting into isolation until only our immediate neighborhood remained. Astrophysicist Ethan Siegel explains how that conclusion was reached. Now new measurements of galaxies across vast stretches of cosmic time suggest dark energy may not be constant after all. \n This video  Cosmology’s oldest question: How the universe will end  is featured ",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/B1-Web-Siegel.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Listen: Stellar streams and the dark Universe",
-      "url": "https://bigthink.com/starts-with-a-bang/stellar-streams-dark-universe/",
-      "description": "When the general public speaks about dark matter, most of the discussion centers on the topic of whether dark matter exists or not: on whether it’s real. But in astrophysical circles, we’re overwhelmingly confident of dark matter’s existence, as we’ve indirectly detected it through an enormous number of independent lines of evidence. Instead, the conversation normally focuses on how to identify and characterize it, with a particular interest in what sorts of measurements can help reveal its unde",
-      "date": "Sat, 24 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/GCsstream.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
-      "title": "AI is forcing us to reckon with a 400-year-old problem",
-      "url": "https://bigthink.com/philosophy/healing-the-cartesian-wound/",
-      "description": "Like much modern fantasy, Philip Pullman’s  His Dark Materials  series features magical objects. Each book in the trilogy is named after one; the second is  The Subtle Knife . This knife looks unremarkable, but when wielded by the right person, it can cut a hole in the world — a portal into an alternate universe. Unfortunately, the portal’s edges also turn out to be a wound in the fabric of reality … and the wound bleeds. Sinister, invisible  things  leak out, hungry ghosts that prey upon the li",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/wound.jpg?quality=85&w=640",
+      "title": "Free will: The real casualty of the algorithm",
+      "url": "https://bigthink.com/series/the-big-think-interview/acedia-phones-contagion/",
+      "description": "In the deserts of fourth-century Egypt, monks described a strange affliction: a restless urge to be anywhere but where they were, attending to any reality but the one in front of them. They called it acedia. Luke Burgis, author of  Wanting: The Power of Mimetic Desire in Everyday Life , argues that our phones have made it socially contagious. \n This video  Free will: The real casualty of the algorithm  is featured on  Big Think .",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/A1-Web-Burgis.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 15,
+      "priority": 23,
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 23
+      }
+    },
+    {
+      "title": "The world hasn’t become less smelly — we’ve just lost our nasal knowledge",
+      "url": "https://bigthink.com/books/sniff-book/",
+      "description": "Air, land, and sea. Our world is characterized by a proliferating variety of uncertain scents. Yet our noses are ill-equipped to discern between them. Pollution, pandemics, and poverty have conspired to reduce our sensitivity. Some gases, such as the rotten-egg stink of hydrogen sulfide emitted by industries and waste sites, induce a selective loss of smell. These substances are most dangerous when they are least odorous. \n When we try to use our noses, the result can be confusion. Supermarkets ",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/sniff_excerpt.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
+      "title": "Ask Ethan: What should you do when a respected theory is false?",
+      "url": "https://bigthink.com/starts-with-a-bang/when-respected-theory-false/",
+      "description": "At every point in our quest to understand the world and universe — the one around us and the one within us — we can only start based on what we know and can imagine at present. We are biased by what we know and what we’re ignorant of, and we’re also influenced by the range of experiences that we’re aware of. Nobody has access to the full suite of evidence that all of humanity has ever collected, and even that full suite of evidence doesn’t shed light on all that exists and is possible within our",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/01/two-giraffes-and-a-baby-giraffe-grazing-in-a-field-e1793267312948.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "A psychologist’s guide to understanding and spotting narcissism",
-      "url": "https://bigthink.com/series/full-interview/spotting-narcissism-durvasula/",
-      "description": "Narcissistic people are often charming at the dinner party and cruel in the car ride home, which tells you they can control it. Clinical psychologist Ramani Durvasula, author of It’s Not You, has studied narcissism since long before it became a buzzword, and she argues that most of what circulates online gets it wrong. \n This video  A psychologist’s guide to understanding and spotting narcissism  is featured on  Big Think .",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/Screenshot-2026-10-21-at-2.46.18-PM.png?quality=80&w=640",
+      "title": "These 5 divisions define how far we can go in space",
+      "url": "https://bigthink.com/starts-with-a-bang/five-divisions-how-far-space/",
+      "description": "In this Universe, just because you can see it doesn’t mean you can reach it. Conversely, just because you can’t see it today doesn’t necessarily mean that its light won’t arrive tomorrow. Because the fabric of the Universe itself is expanding, and because the maximum speed at which any signal — whether massive or massless — can travel through that fabric of space is finite, there are both: \n \n places that we can currently see that we could never reach or communicate with, \n and places that we ca",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/01/https___blogs-images.forbes.com_startswithabang_files_2017_02_Laniakea-Supercluster-1401x716-1-e1793093961600.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 14,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 14
+        "total": 15
       }
     },
     {
-      "title": "4 hilarious ancient Greek comedies — that still hold up today",
-      "url": "https://bigthink.com/books/4-hilarious-ancient-greek-comedies/",
-      "description": "Comedy is a strange genre. Even the best comedies are strongly tied to the time and place of their composition. Just try getting all the jokes in Shakespeare without peeking at the footnotes for help.  \n But every now and again, a comedic gem shines through the ages, even from as far back as Classical Greece. Maybe this is because ancient Greek ideas are so deeply embedded in Western culture, or maybe Athens just produced some truly brilliant playwrights. Whatever the case, some Greek comedies s",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/09/4-greek-comedies.jpg?quality=85&w=640",
+      "title": "Was dark matter first discovered by Fritz Zwicky or Vera Rubin?",
+      "url": "https://bigthink.com/starts-with-a-bang/who-discovered-dark-matter-fritz-zwicky-vera-rubin/",
+      "description": "It’s hard to believe, but the idea that the Universe was dominated not by normal matter  but rather by dark matter  — a novel form of non-interacting matter that’s completely distinct from protons, neutrons, and electrons — goes all the way back to 1933: nearly a full century ago. For decades, the overwhelming majority of the leading astronomers and physicists dismissed the idea as being ill-motivated and lacking sufficient evidence backing it, and it gained very little traction on both the theo",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/11/https___specials-images.forbesimg.com_imageserve_5f56ce6f49043e937d1c3ac0_According-to-models-and-simulations-all-galaxies-should-be-embedded-in-dark-matter_960x0.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 9,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Made in Our Image",
-      "url": "https://bigthink.com/collections/made-in-our-image/",
-      "description": "In the output of AI, we see ourselves refracted through a strange new form of intelligence. This issue is an attempt to make sense of those refractions.",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/cover-thumb.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "The sci-fi inspired “cloaking device” makes invisibility possible",
-      "url": "https://bigthink.com/starts-with-a-bang/invisibility-cloak-183582/",
-      "description": "For as long as human beings have been writing about fantasy, myth, and science fiction, the dream of invisibility has always been a top priority. There would be so much you could do or accomplish, under a stealthy guise, if only you didn’t have to worry about being seen. While  Star Trek  brought the idea of a cloaking device into the popular consciousness, and  Harry Potter  brought with it the widespread idea of an actual invisibility cloak, there haven’t been many useful applications of invis",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/04/hiding-in-plain-sight.webp?quality=85&w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
+        "total": 4
       }
     }
   ]

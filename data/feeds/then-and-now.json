@@ -1,8 +1,40 @@
 {
   "sourceId": "then-and-now",
   "sourceName": "Then & Now",
-  "fetchedAt": "2026-10-25T19:35:02.237073+00:00",
+  "fetchedAt": "2026-10-30T10:40:24.811025+00:00",
   "items": [
+    {
+      "title": "Did Fascism Actually Work?",
+      "url": "https://www.youtube.com/watch?v=5wepy8C7KQg",
+      "description": "",
+      "date": "2026-10-29",
+      "thumbnail": "https://i2.ytimg.com/vi/5wepy8C7KQg/hqdefault.jpg",
+      "videoId": "5wepy8C7KQg",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 15
+      }
+    },
+    {
+      "title": "Why Fascism STILL Haunts Us",
+      "url": "https://www.youtube.com/watch?v=duVBPSInF0M",
+      "description": "",
+      "date": "2026-10-26",
+      "thumbnail": "https://i1.ytimg.com/vi/duVBPSInF0M/hqdefault.jpg",
+      "videoId": "duVBPSInF0M",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "yes, neoliberalism turned a generation anxious...",
       "url": "https://www.youtube.com/watch?v=PlQaDgbbdQE",
@@ -202,38 +234,6 @@
       "date": "2026-03-23",
       "thumbnail": "https://i3.ytimg.com/vi/VLrBUBg9EhE/hqdefault.jpg",
       "videoId": "VLrBUBg9EhE",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Is Trump a Hegelian World Historic Napoleonic Heroic Figure?!",
-      "url": "https://www.youtube.com/watch?v=coG8gj51XLY",
-      "description": "",
-      "date": "2026-03-19",
-      "thumbnail": "https://i4.ytimg.com/vi/coG8gj51XLY/hqdefault.jpg",
-      "videoId": "coG8gj51XLY",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "On the first critics of modern life",
-      "url": "https://www.youtube.com/shorts/Ue5qmlev96s",
-      "description": "On the first critics of modern life",
-      "date": "2026-02-23",
-      "thumbnail": "https://i2.ytimg.com/vi/Ue5qmlev96s/hqdefault.jpg",
-      "videoId": "Ue5qmlev96s",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

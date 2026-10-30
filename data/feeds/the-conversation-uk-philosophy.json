@@ -1,8 +1,24 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-10-25T19:35:17.207401+00:00",
+  "fetchedAt": "2026-10-30T10:40:34.771628+00:00",
   "items": [
+    {
+      "title": "Guide to the classics: Machiavelli’s ‘audaciously honest’ The Prince reveals how politics works",
+      "url": "https://theconversation.com/guide-to-the-classics-machiavellis-audaciously-honest-the-prince-reveals-how-politics-works-262726",
+      "description": "",
+      "date": "2026-10-26",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
       "url": "https://theconversation.com/thinking-about-life-inside-how-performance-is-creating-space-for-a-discussion-of-crime-and-punishment-282985",
@@ -24,22 +40,6 @@
       "url": "https://theconversation.com/how-a-psychic-horse-named-clever-hans-changed-the-way-we-do-science-288745",
       "description": "",
       "date": "2026-08-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Plutarch’s ancient advice for how to be happier online",
-      "url": "https://theconversation.com/plutarchs-ancient-advice-for-how-to-be-happier-online-285152",
-      "description": "",
-      "date": "2026-07-08",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

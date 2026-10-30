@@ -1,7 +1,7 @@
 {
   "sourceId": "pandora-rivista",
   "sourceName": "Pandora Rivista",
-  "fetchedAt": "2026-10-25T19:35:16.567614+00:00",
+  "fetchedAt": "2026-10-30T10:40:33.917428+00:00",
   "items": [
     {
       "title": "Marco Aime - L'altro come icona del male",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Amedeo Balbi - Il silenzio degli spazi infiniti",
+      "url": "https://www.youtube.com/watch?v=6aCIFx8KSPg",
+      "description": "Amedeo Balbi - divulgatore scientifico - è stato ospite al Festival del Presente 2026, che si è svolto tra l'1 e il 18 ottobre, in una lectio a partire dal libro \"Il silenzio degli spazi infiniti. La nostra solitudine cosmica e il destino della civiltà\" (Einaudi).\n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una rivista cartacea, un archivio online, podcast, festival e ricerche. Scopri Pandora Rivista: ",
+      "date": "2026-10-29",
+      "thumbnail": "https://i3.ytimg.com/vi/6aCIFx8KSPg/hqdefault.jpg",
+      "videoId": "6aCIFx8KSPg",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-08-30",
       "thumbnail": "https://i3.ytimg.com/vi/6CgRtg9vwyg/hqdefault.jpg",
       "videoId": "6CgRtg9vwyg",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Lucio Caracciolo - Medioceania, il nome segreto dell'Italia",
-      "url": "https://www.youtube.com/watch?v=WJ25pVOzc00",
-      "description": "Lucio Caracciolo - giornalista e fondatore di Limes - è stato ospite al Festival Atlanti del Presente 2026, che si è svolto dal 24 al 26 luglio a Ravenna, in una Lectio dal titolo \"Medioceania, il nome segreto dell'Italia\".\n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una rivista cartacea, un archivio online, podcast, festival e ricerche. Scopri Pandora Rivista: https://www.pandorarivista.it \n\n📱 Puoi se",
-      "date": "2026-08-27",
-      "thumbnail": "https://i4.ytimg.com/vi/WJ25pVOzc00/hqdefault.jpg",
-      "videoId": "WJ25pVOzc00",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

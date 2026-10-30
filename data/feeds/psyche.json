@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-10-25T19:35:02.003573+00:00",
+  "fetchedAt": "2026-10-30T10:40:24.647563+00:00",
   "items": [
     {
       "title": "Can you ever really think what someone else is thinking?",
@@ -52,6 +52,38 @@
       }
     },
     {
+      "title": "‘Heroes work here’: why I quit being an ER nurse",
+      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
+      "description": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers - by Anita Lambert Read on Psyche",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Everyone says they have anxiety. Clinical anxiety is different",
+      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
+      "description": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it - by India Sturgis Read on Psyche",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "Why romantic relationships matter more to men than to women",
       "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
       "description": "For too long, men were told to be self-sufficient. The research shows they’re more likely to thrive in a loving couple - by Iris Wahring Read on Psyche",
@@ -68,42 +100,10 @@
       }
     },
     {
-      "title": "How mental disorders play havoc with our motivation",
-      "url": "https://psyche.co/ideas/how-mental-disorders-play-havoc-with-our-motivation",
-      "description": "Feeling energised to do something depends on a cost-benefit analysis that psychiatric conditions scramble in different ways - by Matthias Pillny Read on Psyche",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "The social construction of emotions",
-      "url": "https://psyche.co/videos/dont-reduce-emotions-to-biology-theyre-contingent-and-emergent",
-      "description": "Are our emotions universal? How two landmark studies upended our view of emotions – and challenged colonial stereotypes - Video by Then & Now Watch on Psyche",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How to handle jealous feelings",
-      "url": "https://psyche.co/guides/how-to-handle-jealous-feelings",
-      "description": "Jealousy can be a useful, insightful emotion – if you manage it well. Get curious about your jealousy to get a grip on it - by Carla Marie Manly Read on Psyche",
-      "date": "Wed, 14 Oct 2026",
+      "title": "A plane crossing the Moon",
+      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
+      "description": "How a harmless thought turned into one man’s 10-year odyssey: to film a plane silhouetted against the Moon - Directed by Agustín Ferrando Trenchi Watch on Psyche",
+      "date": "Tue, 27 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -132,19 +132,51 @@
       }
     },
     {
-      "title": "Black men suffer racial trauma yet are seen as the threat",
-      "url": "https://psyche.co/ideas/black-men-suffer-racial-trauma-yet-are-seen-as-the-threat",
-      "description": "The very conditions that subject Black men to chronic strain make it hard for them to receive the help they need and deserve - by Yamonte Cooper Read on Psyche",
-      "date": "Sun, 11 Oct 2026",
+      "title": "When giving up teaches you more than persevering ever could",
+      "url": "https://psyche.co/ideas/when-giving-up-teaches-you-more-than-persevering-ever-could",
+      "description": "Grit is all well and good, but sometimes abandoning your goals can be crucial to discovering who you are - by Mario I Juarez-Garcia Read on Psyche",
+      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
+        "daily": 0,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "The bookshelf builder",
+      "url": "https://psyche.co/portraits/ellah-wakatama-the-godmother-of-african-books",
+      "description": "Ellah Wakatama is editor, agent, publisher and mentor, all rolled into one. Her mission: to put the work of gifted Black writers into the literary canon - by Carey Baraka Read on Psyche",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
+      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
+      "description": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy - by Yusuke Fujioka Read on Psyche",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -180,42 +212,10 @@
       }
     },
     {
-      "title": "Deciding to detransition",
-      "url": "https://psyche.co/turning-points/transitioning-made-me-happy-but-it-came-with-a-high-price",
-      "description": "For two years, I lived as a trans woman – happy with my body, but fearful of the world it moved in - by André Aram Read on Psyche",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "What is hidden in the photographs we keep of each other?",
-      "url": "https://psyche.co/ideas/what-is-hidden-in-the-photographs-we-keep-of-each-other",
-      "description": "Returning to family photo albums in my mother’s apartment in Japan, I was struck by the stories the images didn’t tell - by Sawa Kurotani Read on Psyche",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Dear Al Pacino",
-      "url": "https://psyche.co/turning-points/why-i-wrote-mad-letters-to-celebrities-on-my-mothers-behalf",
-      "description": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality - by Joe Mullich Read on Psyche",
-      "date": "Wed, 21 Oct 2026",
+      "title": "The power of pareidolia",
+      "url": "https://psyche.co/videos/why-we-see-faces-in-unexpected-places-and-what-it-says-about-us",
+      "description": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Chu Prayad",
-      "url": "https://psyche.co/videos/a-bangkok-cabbie-finds-balance-in-a-thrilling-street-sport",
-      "description": "Power, precision and acrobatic high kicks – the Southeast Asian sport of sepak takraw offers Prayad relief from the road - Directed by Habib Yazdi and Joseph Marra Watch on Psyche",
-      "date": "Wed, 14 Oct 2026",
+      "title": "Dear Al Pacino",
+      "url": "https://psyche.co/turning-points/why-i-wrote-mad-letters-to-celebrities-on-my-mothers-behalf",
+      "description": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality - by Joe Mullich Read on Psyche",
+      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

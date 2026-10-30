@@ -1,22 +1,22 @@
 {
   "sourceId": "pursuit-of-wonder",
   "sourceName": "Pursuit of Wonder",
-  "fetchedAt": "2026-10-25T19:35:08.451195+00:00",
+  "fetchedAt": "2026-10-30T10:40:28.642815+00:00",
   "items": [
     {
-      "title": "Everyone feels like something is coming…",
+      "title": "Everyone feels like something strange is coming…",
       "url": "https://www.youtube.com/watch?v=yRRugkaEqeE",
       "description": "Go to this link https://boot.dev/?promo=WONDER and use my code WONDER to get 25% off your first payment for boot.dev. Thank you to boot.dev for sponsoring this video.\n\nIn this video, we explore what would come of the world if humanity suddenly disappeared. What would happen after a day, a year, a thousand, a million, a billion? Where would the great human project go? How long would it take for the last traces of us to disappear completely, like a dream long since forgotten by the cosmos?\n\nGet my",
       "date": "2026-10-21",
       "thumbnail": "https://i2.ytimg.com/vi/yRRugkaEqeE/hqdefault.jpg",
       "videoId": "yRRugkaEqeE",
-      "priority": 30,
+      "priority": 34,
       "scoreDetail": {
         "daily": 25,
         "phil": 0,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 5,
-        "total": 30
+        "total": 34
       }
     },
     {

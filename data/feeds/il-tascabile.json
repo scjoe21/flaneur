@@ -1,7 +1,7 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-10-25T19:34:49.444521+00:00",
+  "fetchedAt": "2026-10-30T10:40:17.257187+00:00",
   "items": [
     {
       "title": "Premio di natalità",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "L’immagine qualunquista della politica",
+      "url": "https://www.iltascabile.com/societa/limmagine-qualunquista-politica/",
+      "description": "Dal torchio di Giannini alla tecnocrazia: come l’antipolitica infesta l’immaginario delle democrazie contemporanee. \n L'articolo  L’immagine qualunquista della politica  proviene da  Il Tascabile .",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -36,35 +52,35 @@
       }
     },
     {
-      "title": "Il sociale e il parasociale",
-      "url": "https://www.iltascabile.com/linguaggi/sociale-parasociale/",
-      "description": "Tra Guccini,  ghosting  e spunte blu: breve storia di come le tre gomitate di Zuckerberg ci hanno resi cose di Internet. \n L'articolo  Il sociale e il parasociale  proviene da  Il Tascabile .",
-      "date": "Wed, 14 Oct 2026",
+      "title": "Il mondo e la terra. Come preservarli? di David Van Reybrouck",
+      "url": "https://www.iltascabile.com/recensioni/mondo-terra-preservarli-david-van-reybrouck/",
+      "description": "L'articolo  Il mondo e la terra. Come preservarli? di David Van Reybrouck  proviene da  Il Tascabile .",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "Chi rompe e chi paga",
-      "url": "https://www.iltascabile.com/scienze/rompe-paga/",
-      "description": "Il crollo del Langtang Lirung ha devastato il Nepal, Paese responsabile di una quota minima delle emissioni globali. La sua richiesta di risarcimento ricorda che i danni climatici non sono una questione di solidarietà, ma di debito. \n L'articolo  Chi rompe e chi paga  proviene da  Il Tascabile .",
-      "date": "Mon, 12 Oct 2026",
+      "title": "La grammatica del pianto",
+      "url": "https://www.iltascabile.com/scienze/grammatica-pianto/",
+      "description": "Cosa sappiamo del pianto emotivo, del sollievo che gli attribuiamo e del perché le lacrime, più che a noi stessi, sembrano servire agli altri. \n L'articolo  La grammatica del pianto  proviene da  Il Tascabile .",
+      "date": "Mon, 26 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -80,22 +96,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Sex addiction?",
-      "url": "https://www.iltascabile.com/societa/sex-addiction/",
-      "description": "Che cosa significa davvero parlare di “dipendenza sessuale”, tra perdita di controllo, sofferenza personale e il rischio di trasformare in patologia modi diversi di vivere la sessualità. \n L'articolo  Sex addiction?  proviene da  Il Tascabile .",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 15
       }
     },
@@ -116,26 +116,10 @@
       }
     },
     {
-      "title": "Oltre la legge del padre",
-      "url": "https://www.iltascabile.com/letterature/oltre-legge-padre/",
-      "description": "In cerca di frasi vere nell’Austria del dopoguerra tra corpi isterici e interpassività nella prosa di Ingeborg Bachmann. \n L'articolo  Oltre la legge del padre  proviene da  Il Tascabile .",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Veglia di George Saunders",
-      "url": "https://www.iltascabile.com/recensioni/veglia-georges-saunders/",
-      "description": "L'articolo  Veglia di George Saunders  proviene da  Il Tascabile .",
-      "date": "Fri, 23 Oct 2026",
+      "title": "La fauna cadaverica delle controculture",
+      "url": "https://www.iltascabile.com/linguaggi/fauna-cadaverica-controculture/",
+      "description": "Dobbiamo inventare una nuova parola per punk? Imparare a marcire in un underground fagocitato dai media. \n L'articolo  La fauna cadaverica delle controculture  proviene da  Il Tascabile .",
+      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +132,26 @@
       }
     },
     {
-      "title": "Bologna non è un’isola felice di Salvatore Papa",
-      "url": "https://www.iltascabile.com/recensioni/bologna-non-isola-felice-salvatore-papa/",
-      "description": "L'articolo  Bologna non è un’isola felice di Salvatore Papa  proviene da  Il Tascabile .",
-      "date": "Fri, 16 Oct 2026",
+      "title": "La Torre che crolla",
+      "url": "https://www.iltascabile.com/letterature/torre-crolla/",
+      "description": "Spiegare le piazze di oggi tramite arcani maggiori, William Burroughs e l’era dell’Acquario. \n L'articolo  La Torre che crolla  proviene da  Il Tascabile .",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Veglia di George Saunders",
+      "url": "https://www.iltascabile.com/recensioni/veglia-georges-saunders/",
+      "description": "L'articolo  Veglia di George Saunders  proviene da  Il Tascabile .",
+      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-10-25T19:35:00.324754+00:00",
+  "fetchedAt": "2026-10-30T10:40:23.734785+00:00",
   "items": [
     {
       "title": "How intuitions work",
@@ -36,10 +36,10 @@
       }
     },
     {
-      "title": "The secrets of Hohle Fels cave",
-      "url": "https://aeon.co/videos/hohle-fels-cave-illuminates-the-rich-symbolic-world-of-ice-age-humans",
-      "description": "Why aren’t we all Neanderthals? These ancient bird figurines suggest that art was essential to our evolutionary success - by Aeon Video Watch on Aeon",
-      "date": "Thu, 15 Oct 2026",
+      "title": "Hills and mountains",
+      "url": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
+      "description": "A girl’s story of forced marriage reveals how the Soviet invasion of 1979 transformed life in Afghanistan - by Aeon Video Watch on Aeon",
+      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -52,51 +52,67 @@
       }
     },
     {
-      "title": "Deskilling the body",
-      "url": "https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies",
-      "description": "We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending - by Melanie Challenger Read on Aeon",
-      "date": "Tue, 13 Oct 2026",
+      "title": "How to build real peace",
+      "url": "https://aeon.co/essays/what-cooperatives-for-an-anticapitalist-peace-look-like",
+      "description": "From Colombia to Syria, I’ve seen that capitalist logic can’t help to rebuild postwar countries but cooperatives can - by Azize Aslan Read on Aeon",
+      "date": "Mon, 26 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 14,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
-      "title": "Is everything conscious?",
-      "url": "https://aeon.co/essays/does-the-principle-of-sufficient-reason-make-panpsychism-true",
-      "description": "If the question makes no sense to you, try spending some time with the principle of sufficient reason - by Sam Kimpton-Nye Read on Aeon",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 20
       }
     },
     {
-      "title": "The ladder of knowledge",
-      "url": "https://aeon.co/essays/the-century-long-search-for-the-limits-to-knowledge",
-      "description": "What we claim as ‘true’ is not a ceiling we are forever failing to reach but something that changes as we climb toward it - by Alexander V Gheorghiu Read on Aeon",
-      "date": "Thu, 15 Oct 2026",
+      "title": "Love with nowhere to go",
+      "url": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+      "description": "Grief is not only for the dead. When we are unable to honour other profound losses, we become strangers to ourselves - by Derek van Zoonen Read on Aeon",
+      "date": "Tue, 27 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 15,
         "phil": 0,
         "flaneur": 4,
         "novelty": 0,
-        "total": 9
+        "total": 19
+      }
+    },
+    {
+      "title": "The physics of getting fired",
+      "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
+      "description": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on Aeon",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Great art explained: Tamara in the green Bugatti",
+      "url": "https://aeon.co/videos/the-bisexual-artist-who-reimagined-womanhood-for-the-jazz-age",
+      "description": "A very modern conception of womanhood: in the Jazz Age paintings of Tamara de Lempicka, women were bold, free and stylish - by Aeon Video Watch on Aeon",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -148,19 +164,35 @@
       }
     },
     {
-      "title": "Barbara Ward’s vision",
-      "url": "https://aeon.co/essays/why-we-should-heed-barbara-wards-vision-of-planetary-justice",
-      "description": "She was among the first to argue that prosperity, equality and the protection of nature are inseparable planetary goals - by Or Rosenboim Read on Aeon",
-      "date": "Fri, 09 Oct 2026",
+      "title": "In praise of the dilettante",
+      "url": "https://aeon.co/essays/why-the-dilettante-is-the-anti-hero-of-our-over-optimised-age",
+      "description": "A wayfaring cosmopolitan who never gets stuck, the dilettante is the right anti-hero for our hyper-specialised age - by Jay Miller Read on Aeon",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "The Amarna letters",
+      "url": "https://aeon.co/videos/letters-from-bronze-age-rulers-reveal-how-little-diplomacy-has-changed",
+      "description": "Petty disputes, pleas for help and requests for gold – explore letters sent to Egyptian pharaohs more than 3,000 years ago - by Aeon Video Watch on Aeon",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
       "description": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on Aeon",
       "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Into the fire",
-      "url": "https://aeon.co/videos/the-all-female-team-defusing-isiss-deadly-landmine-legacy",
-      "description": "These women once fled ISIS. Now they defuse the landmines the militants left behind in their Yazidi homeland in northern Iraq - by Aeon Video Watch on Aeon",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Africa’s cultural landmarks: tombs of Buganda kings",
-      "url": "https://aeon.co/videos/the-fragile-majesty-of-the-buganda-royal-tombs-in-uganda",
-      "description": "Built from vegetal materials, these majestic tombs housing Buganda kings bridge the realms of living and dead in Uganda - by Aeon Video Watch on Aeon",
-      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

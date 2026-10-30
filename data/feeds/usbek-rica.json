@@ -1,24 +1,8 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-10-25T19:34:31.514039+00:00",
+  "fetchedAt": "2026-10-30T10:40:07.903903+00:00",
   "items": [
-    {
-      "title": "Du nudge au boost : comment repenser nos comportements dans les transports ?",
-      "url": "https://usbeketrica.com/fr/article/du-nudge-au-boost-comment-repenser-nos-comportements-dans-les-transports",
-      "description": "Depuis une vingtaine d’années, les « nudges », ces petits coups de pouce qui modifient notre environnement pour orienter nos comportements, se sont imposés comme un outil phare des politiques publiques. De la mouche dans l’urinoir aux escaliers colorés à proximité des escalators, vous en avez forcément croisé.",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 39
-      }
-    },
     {
       "title": "Crises, déclassement, vulnérabilités : pourquoi devient-il si urgent de repenser notre modèle social ?",
       "url": "https://usbeketrica.com/fr/article/crises-declassement-vulnerabilites-pourquoi-devient-il-si-urgent-de-repenser-notre-modele-social",
@@ -36,9 +20,25 @@
       }
     },
     {
+      "title": "Comment les télécoms peuvent relever le défi de la décarbonation",
+      "url": "https://usbeketrica.com/fr/article/comment-les-telecoms-peuvent-relever-le-defi-de-la-decarbonation",
+      "description": "Pour réduire leur empreinte carbone, les télécoms ont l’avantage de pouvoir non seulement jouer sur la manière dont sont déployés les nouveaux sites, mais aussi sur l’ensemble du cycle de vie du réseau : fonctionnement des centres de données, efficacité énergétique des réseaux fixe et mobile, écoconception, durée de vie et réemploi des équipements.",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Comment la SF peut réenchanter un imaginaire des services publics",
       "url": "https://usbeketrica.com/fr/article/comment-la-sf-peut-reenchanter-un-imaginaire-des-services-publics",
-      "description": "Docteure en littératures comparées, DoctriZ fait de la vulgarisation scientifique et de l’éducation populaire sur Twitch. Elle fait également partie du comité littéraire des Utopiales, le festival international de science-fiction de Nantes, dont la thématique de l’édition 2026 est « Perspectives ». Dans cette tribune, elle invite à se réapproprier les imaginaires de la science-fiction pour briser les illusions des discours néolibéraux et ainsi, ouvrir de nouvelles perspectives sur les luttes en ",
+      "description": "TRIBUNE // Docteure en littératures comparées, DoctriZ fait de la vulgarisation scientifique et de l’éducation populaire sur Twitch. Elle fait également partie du comité littéraire des Utopiales, le festival international de science-fiction de Nantes, dont la thématique de l’édition 2026 est « Perspectives ». Dans cette tribune, elle invite à se réapproprier les imaginaires de la science-fiction pour briser les illusions des discours néolibéraux et ainsi, ouvrir de nouvelles perspectives sur les",
       "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -84,6 +84,54 @@
       }
     },
     {
+      "title": "Notre avis sur « Hope », le nouveau phénomène de SF sud-coréenne",
+      "url": "https://usbeketrica.com/fr/article/notre-avis-sur-hope-le-nouveau-phenomene-de-sf-sud-coreenne",
+      "description": "Dix ans après son dernier long-métrage, le réalisateur sud-coréen Na Hong-jin revient au cinéma avec Hope, une histoire de traque qui flirte tour à tour avec l'horreur, le thriller et la science-fiction. Un ovni bien plus désopilant que gore. Âmes sensibles, ne pas s’abstenir.",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "La République et les territoires : vers une redéfinition du modèle uniforme et centralisé ?",
+      "url": "https://usbeketrica.com/fr/article/la-republique-et-les-territoires-vers-une-redefinition-du-modele-uniforme-et-centralise",
+      "description": "Repli organisé face à la mer à Caen, « droit de vieillir ici » à Saint-Claude, « normes pays » en Guadeloupe… À partir de la résolution du CESE appelant à repenser notre modèle centralisé, nous avons imaginé la revue de presse régionale d’un 14 juillet 2050. Une plongée dans une France où les territoires écrivent leurs propres réponses, sans quitter le socle commun républicain.",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
+      "title": "Retraites, patrimoine, élections : les vieux menacent-ils la démocratie ?",
+      "url": "https://usbeketrica.com/fr/article/retraites-patrimoine-elections-les-vieux-menacent-ils-la-democratie",
+      "description": "Inégalités économiques, influence électorale, système de retraite… Évolution démographique oblige, en France, le poids politique et économique des plus âgés tend à se renforcer. Au détriment des plus jeunes, voire de l’avenir même de la démocratie ? Premier volet de notre dossier en deux parties.",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Effets spéciaux : « Grâce à l’IA, on rentre plus tôt du boulot ! »",
       "url": "https://usbeketrica.com/fr/article/effets-speciaux-grace-a-l-ia-on-rentre-plus-tot-du-boulot",
       "description": "L’IA va-t-elle vraiment mettre au chômage toute l’industrie des effets spéciaux ? De passage au KIKK Festival, à Namur, en Belgique, David Sheldon-Hicks, fin connaisseur du milieu et dirigeant de la société Territory Studio, défend une approche à la fois « optimiste et précautionneuse ».",
@@ -116,35 +164,19 @@
       }
     },
     {
-      "title": "Mouvement lycéen : offrir un nouveau cadre démocratique à une génération « hyperpolitique »",
-      "url": "https://usbeketrica.com/fr/article/mouvement-lyceen-offrir-un-nouveau-cadre-democratique-a-la-generation-hyperpolitique",
-      "description": "Édito // Le mouvement lycéen qui dure depuis près d'un mois révèle au grand jour une génération bien plus éveillée politiquement qu'on ne veut bien le dire. Des jeunes qui, même si beaucoup d'entre eux sont encore mineurs, méritent qu'on leur offre un cadre démocratique digne de ce nom, estime Blaise Mao, rédacteur en chef d'Usbek & Rica.",
-      "date": "Tue, 13 Oct 2026",
+      "title": "Becky Chambers : « J’ai envie d’écrire des histoires qui nous rappellent que la fin n’est pas encore écrite »",
+      "url": "https://usbeketrica.com/fr/article/becky-chambers-j-ai-envie-d-ecrire-des-histoires-qui-nous-rappellent-que-la-fin-n-est-pas-encore-ecrite",
+      "description": "À l'occasion de la sortie de son nouveau roman À ton éveil, fends la cosse, nous nous sommes entretenus avec l'autrice de science-fiction Becky Chambers pour parler d'espoir, d'amour et d'IA. Rencontre.",
+      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "L'IA va-t-elle faire disparaître les métiers du marketing et de la communication ?",
-      "url": "https://usbeketrica.com/fr/article/l-ia-va-t-elle-faire-disparaitre-les-metiers-du-marketing-et-de-la-communication",
-      "description": "TRIBUNE // Plus l’IA rend la production facile, plus il devient difficile d’émerger. Pour le marketing et la communication, la valeur se déplace, transformant les métiers au passage, assure Julien Féré, Docteur en sciences de l’information et de la communication au CELSA Paris Sorbonne et co-auteur de l'ouvrage collectif Dessous des métiers du marketing et de la communication (éditions Ellipses, 2026).",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
@@ -164,35 +196,19 @@
       }
     },
     {
-      "title": "Où est passé le fun ? Au Futur Festival d’Usbek & Rica !",
-      "url": "https://usbeketrica.com/fr/article/ou-est-passe-le-fun-au-futur-festival-d-usbek-rica",
-      "description": "Le Futur Festival, organisé par Usbek & Rica, revient pour une nouvelle édition, les 27 et 28 novembre prochains au Théâtre de la Concorde, à Paris. Deux jours de débats, de rencontres et d’expériences pour répondre à la question suivante « Où est passé le fun ? ».",
-      "date": "Wed, 14 Oct 2026",
+      "title": "Vote à 16 ans, « New Deal » intergénérationnel… 5 pistes pour en finir avec la gérontocratie",
+      "url": "https://usbeketrica.com/fr/article/vote-a-16-ans-new-deal-intergenerationnel-5-pistes-pour-en-finir-avec-la-gerontocratie",
+      "description": "Pondération du vote en fonction de l’âge, nouvelles chambres parlementaires dédiées aux générations futures… Usbek & Rica a passé en revue plusieurs solutions, des plus modestes aux plus radicales, pour adapter la démocratie française à sa nouvelle réalité démographique. Second volet de notre dossier sur la gérontocratie.",
+      "date": "Mon, 26 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "5 œuvres numériques pour résister sous les pixels",
-      "url": "https://usbeketrica.com/fr/article/5-oeuvres-numeriques-pour-resister-sous-les-pixels",
-      "description": "Le festival Octobre Numérique - Faire Monde, dont Usbek & Rica est partenaire, déploie à travers Arles de nombreuses œuvres numériques et vidéoludiques qui invitent à explorer la notion de résistance. On vous présente cinq d’entre elles, à découvrir jusqu'au 8 novembre.",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/dans-les-coulisses-des-combats-de-robots-de-las-vegas",
       "description": "Aux États-Unis, à quelques encablures de la Silicon Valley, deux start-up rivalisent d’ingéniosité pour s’imposer dans le business encore confidentiel des combats de robots humanoïdes. FUTUR a assisté à l’un de ces matchs de boxe high-tech pour son numéro de printemps 2026, où certains attendaient le jour où ces poupées de tôle s'opposeraient à des humains... Jour arrivé le 18 septembre à San Francisco, malgré la tentative de la Commission sportive de l’État de Californie d'interdire ces combats",
       "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’IA, dernier « pilier » de la croissance mondiale ?",
-      "url": "https://usbeketrica.com/fr/article/l-ia-dernier-pilier-de-la-croissance-mondiale-prevision-economie-fmi",
-      "description": "Une économie à deux vitesses, avec une inflation galopante d’un côté et des investissements exponentiels dans l’intelligence artificielle de l’autre : tel est le tableau que brosse le Fonds monétaire international (FMI) dans son dernier état des lieux de la croissance mondiale. Un équilibre périlleux, qui ravive les craintes de bulle financière. Décryptage.",
-      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

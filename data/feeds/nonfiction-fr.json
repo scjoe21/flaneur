@@ -1,8 +1,24 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-10-25T19:35:10.686837+00:00",
+  "fetchedAt": "2026-10-30T10:40:30.649248+00:00",
   "items": [
+    {
+      "title": "Les racines historiques de l’extrême droite française",
+      "url": "https://www.nonfiction.fr/article-12895-les-racines-historiques-de-lextreme-droite-francaise.htm",
+      "description": "Professeur à Sorbonne Université, Olivier Dard est l’un des meilleurs spécialistes du nationalisme et de la vie politique des droites. Il propose aujourd’hui une volumineuse et magistrale synthèse sur ce courant. L’ouvrage remonte le fil du temps, faisant commencer cette histoire à 1870, puis plonge dans les arcanes des différentes familles. Il analyse comment ce courant s’est positionné face aux grands événements de la période contemporaine, de l’Affaire Dreyfus jusqu’à aujourd’hui. Les figures",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
     {
       "title": "Saint-Nazaire au travail : nourrir et régaler avec les produits d’ici",
       "url": "https://www.nonfiction.fr/article-12888-saint-nazaire-au-travail-nourrir-et-regaler-avec-les-produits-dici.htm",
@@ -17,38 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
-      }
-    },
-    {
-      "title": "Saint-Nazaire au travail : celles qui écoutent",
-      "url": "https://www.nonfiction.fr/article-12871-saint-nazaire-au-travail-celles-qui-ecoutent.htm",
-      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
-      "date": "Wed, 30 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Comment faire vivre le pluralisme ?",
-      "url": "https://www.nonfiction.fr/article-12866-comment-faire-vivre-le-pluralisme.htm",
-      "description": "Le pluralisme paraît constitutif de la démocratie ; mais encore faut-il savoir comment le faire exister concrètement. Dans  Le point de vue manquant , le sociologue Arnaud Esquerre s’intéresse aux règles et aux pratiques qui organisent la coexistence des points de vue dans l’espace public, en particulier dans les médias. Son enquête auprès de journalistes et de producteurs de Radio France montre comment ceux-ci cherchent à identifier le « point de vue manquant », plutôt qu’à réduire le débat à l",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 24
       }
     },
     {
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Pascal Bacqué : l’épopée d’un monde en ruines",
+      "url": "https://www.nonfiction.fr/article-12908-pascal-bacque-lepopee-dun-monde-en-ruines.htm",
+      "description": "Une œuvre magistrale, une œuvre totale se fait jour dans le contexte le plus étranger, sinon le plus hostile à sa réception. C’est  La guerre de la terre et des hommes , roman de 1 457 pages composé de cinq tomes, que les éditions Eliott publient en un seul volume, simultanément à  Paria , un second ouvrage qui en constitue le guide, le vade-mecum, mais aussi, subtilement, la continuation 1 . \r\n\r\n Les trois premiers tomes avaient paru aux éditions Massot, en 2018 ( La Guerre de la terre et des h",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
       }
     },
     {

@@ -1,38 +1,70 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-10-25T19:35:24.022978+00:00",
+  "fetchedAt": "2026-10-30T10:40:42.976412+00:00",
   "items": [
     {
-      "title": "なぜ日本政治は液状化したのか？　細川護熙が語る「保守の真髄」",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/jimin_mori/37115",
-      "description": "自民党の保守政治は1990年代から崩れていった。きっかけは1993年８月の細川護熙が率いた8党会派連立政権の誕生に違いない。ここから自民党は1955年の保守合同以来、初めて野に下った。と同時に、対峙してきた革新政党の凋 […]",
-      "date": "Mon, 19 Oct 2026",
+      "title": "マルクスとヴェイユ：大工場と疎外された労働",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/idonotlikework/37450",
+      "description": "スミスの理論は今から見るとずいぶん楽観的です。しかし、産業革命が発展していくにつれ、事はそう単純でないことがわかってきました。自由競争が激化した結果として、より多くの利益を生むために労働者が劣悪な環境・賃金で働かされる […]",
+      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 15,
       "scoreDetail": {
         "daily": 10,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 15
       }
     },
     {
-      "title": "中国の都市が日本より“緑豊か”になった理由",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/37040",
-      "description": "2024年に私は中国東部の上海や蘇州を訪れた。別にこれといって目的があるわけでもなく、妹夫婦が仕事の転勤で上海に引っ越したので、遊びに行ってみようという軽い気持ちでの訪問だった。 　中国もコロナ前に訪れたきりだったので […]",
-      "date": "Wed, 14 Oct 2026",
+      "title": "第１回　マハティールはなぜ日本を手本にしたのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/naitou_kushimoto/37326",
+      "description": "内藤　「青春と読書」誌の書評にも書きましたけど、今の若い人に「ルック・イースト」（＊）と言っても、このマハティールの政策を知らない人が増えたと思います。彼がマレーシアの首相としてなぜ「ルック・イースト」と言ったのか。その […]",
+      "date": "Wed, 28 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
+      }
+    },
+    {
+      "title": "世界一と日本一―2009年編",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/hara_giants/37438",
+      "description": "「本当に、お前さんたちはねぇ、強いサムライになった！　おめでとう！」 　2009年3月23日、第2回WBCで日本代表を率いて連覇に導いた原辰徳監督は、ナインの輪の中で、そう絶叫した。指揮官の祝福の言葉を合図に、決勝の韓国 […]",
+      "date": "Wed, 28 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "なぜ今、沖縄を映画で描かなければと思ったのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/inomata_kimyou/37291",
+      "description": "構成／浮島さとし　撮影／五十嵐和博 ───沖縄の現場で取材を重ねてこられた猪股さんが、その記録をこのたび、一本の映画としてまとめ上げられました。構想から完成までは、どれほどの時間をかけられたのでしょう。 猪股　本土復帰5 […]",
+      "date": "Tue, 27 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -52,35 +84,67 @@
       }
     },
     {
-      "title": "道徳は「アップデート」できるのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/tadashi_tamura/37281",
-      "description": "「企業名　●●件」。この見出しだけで、何のニュースなのかわかってしまうようになった。スマートフォンを開くたびに、よく見知った企業が顧客の個人情報を漏洩させてしまったというニュースアプリの通知が目に入る。ある企業のうかつ […]",
-      "date": "Fri, 23 Oct 2026",
+      "title": "世界から見た都市・東京の現在地【後編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37416",
+      "description": "独立研究者/パブリックスピーカーの山口周は、2023年４月21日付のnoteで、パンデミックが都市に与える影響について、次のような考察を記していた。キーワードは「仮想空間へのシフト」だ。論旨の要約は以下になる。 　イン […]",
+      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {
-      "title": "小山美砂×小山田浩子　『ルポ 被爆二世』刊行記念対談【前編】",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/koyama_oyamada/37132",
-      "description": "小山　今日は広島市在住の小説家、小山田浩子さんをゲストにお招きしました。ゆっくりお話しすることは初めてで、戦争をテーマにいろいろお伺いしたいと思い、お声がけしました。 小山田　私は広島生まれ、広島育ちです。今も広島にいて […]",
-      "date": "Wed, 21 Oct 2026",
+      "title": "世界から見た都市・東京の現在地【前編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37393",
+      "description": "2023年、新型コロナウィルス感染症の蔓延で止まった時間が再び流れ出すとともに、東京では「東京ミッドタウン八重洲」「麻布台ヒルズ」「高輪ゲートウェイシティ」「渋谷サクラステージ」と、超高層タワーを主体とした大規模再開発 […]",
+      "date": "Wed, 28 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "第２回　トルコとマレーシア　「西洋化」とどう向き合ったのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/naitou_kushimoto/37330",
+      "description": "内藤　1990年代にイスラームの復興がトルコにも影響を及ぼしていくなかで出てくる、福祉党というイスラーム主義政党があります。1990年代半ばに一度政権を取るんですが、軍に潰されてしまいます。当時の首相、ネジメッディン・エ […]",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "過疎地と福祉を食いものにする“制度ハック”の罠・後編",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/itikawa_yokoyama/37264",
+      "description": "構成／浮島さとし　撮影／五十嵐和博 ──前編では、採算度外視で現場を支えるべき公金が、制度の隙間を突いたビジネスによって吸い上げられている実態についてうかがいました。一方で、そうした安易な解決策に飛びつかず、地道に地元の […]",
+      "date": "Mon, 26 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -88,70 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/interview/itikawa_yokoyama/37226",
       "description": "構成／浮島さとし　撮影／五十嵐和博 横山　市川さんが書かれた『障害者福祉ビジネス 食いものにされる税金と利用者』を読ませていただいたのですが、まず圧倒されたのはその取材期間の長さと、積み上げられた物量の厚みでした。ちょっ […]",
       "date": "Sun, 25 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "大江なき今、我々は「戦後」をどう歴史化していくのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/narita_nagase/37185",
-      "description": "取材・構成：集英社新書編集部　　撮影：五十嵐和博 長瀬　今回、事前に成田さんに「2026年の今、読むべき大江健三郎の小説」というテーマで３作品選んでいただきました。どれも「新しい戦前」に生きている僕たちが読むことに意義の […]",
-      "date": "Sat, 24 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "【11月7日(土)】『ディープ・ニッポン』刊行記念 アレックス・カー×大島 淳之×清野由美 トークイベント",
-      "url": "https://shinsho-plus.shueisha.co.jp/information/37208",
-      "description": "みなさん、次の旅はどこにしますか？旅は楽しいけれど、どこも混雑が激しくて……という昨今ですが、インバウンドが押し寄せない心静かな日本の「奥」を探訪するのはいかがでしょうか？ 『ディープ・ニッポン』『ニッポン巡礼』『ニッポ […]",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "「新しい戦前」をきちんと理解するために今、大江を読む",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/narita_nagase/37178",
-      "description": "取材・構成：集英社新書編集部　　撮影：五十嵐和博 成田　小森陽一さんとの対談『大江健三郎を読む』が、今年の８月７日、集英社新書として刊行されました。朝日カルチャーセンター新宿校で2024年１月から１年間行った連続講義をも […]",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "小山美砂×小山田浩子　『ルポ 被爆二世』刊行記念対談【後編】",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/koyama_oyamada/37139",
-      "description": "小山　被爆二世の声をすくい上げることの難しさを振り返ってきました。このあたりは、小山田さんが『作文』で扱った聞き書きの不確かさにつながる話かもしれませんね。 小山田　そうですね。私が祖母に聞き取りをした時、彼女の年齢はす […]",
-      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
