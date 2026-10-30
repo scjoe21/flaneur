@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-30T10:40:28.172443+00:00",
+  "fetchedAt": "2026-10-30T19:54:38.138693+00:00",
   "items": [
     {
       "title": "20 Favorite Books from 20 Years of The Marginalian",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "Truth, Fact, and the Patterning of Reality: Virginia Woolf on How We Come to Know the World",
+      "url": "https://www.themarginalian.org/2026/10/30/virginia-woolf-truth/",
+      "description": "The great myth is that truth is an emergent property of fact, that it bubbles up from the bottom of reality once the mind attains enough fathoms of factuality. But objective reality — all those things like gravity and light and the fossil of the Archaeopteryx that exist whether or not we believe in them — is pocked with myriad subjective realities, each lensed through the particular qualia of the perceiver, each a function not of the mind alone but of the entire organism and the whole of its liv",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -68,22 +84,6 @@
       }
     },
     {
-      "title": "The Wildest Bet Is the Winning Bet",
-      "url": "https://www.themarginalian.org/2026/10/22/bet/",
-      "description": "We place life’s bets by countless calculations of probability, conscious and unconscious, only to discover over and over how short they fall of the wildest reaches of the possible, which always includes but exceeds the probable. It helps to remember that we ourselves are children of improbability, that everything we treasure exists not because it had to, not because it was likely or necessary, but because the universe took a gamble against the staggering odds otherwise. THE WILDEST BET IS THE WI",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
       "title": "20 Favorite Children’s Books from 20 Years of The Marginalian",
       "url": "https://www.themarginalian.org/2026/10/25/20-childrens-books/",
       "description": "“Anyone who writes down to children is simply wasting his time,” E.B. White insisted. “You have to write up, not down. Children are demanding. They are the most attentive, curious, eager, observant, sensitive, quick, and generally congenial readers on earth.” Both as a reader of them and as a writer of them, I have never considered “children’s books” a separate category of literature: The best children’s books are works of philosophy in disguise, shining a sidewise gleam on the fundamental quest",
@@ -94,22 +94,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "How to Be Transformed When Things Fall Apart",
-      "url": "https://www.themarginalian.org/2026/10/23/when-things-fall-apart-pema-chodron/",
-      "description": "\"Only to the extent that we expose ourselves over and over to annihilation can that which is indestructible be found in us.\"",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -193,6 +177,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Halloween’s Lost Heroes: Michael Pollan on Radical Gardening and the Insurgent Botanical Origin of the Broomstick in Flying-Witch Legends",
+      "url": "https://www.themarginalian.org/2026/10/30/michael-pollan-witch-broomstick/",
+      "description": "\"For most of their history... gardens have been more concerned with the power of plants than with their beauty — with the power, that is, to change us in various ways, for good and for ill.\"",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

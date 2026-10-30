@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-10-30T10:40:27.598707+00:00",
+  "fetchedAt": "2026-10-30T19:54:37.554386+00:00",
   "items": [
     {
       "title": "An Inside Look At How To Tame Unstoppable AI",
@@ -17,6 +17,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "The Sediment Of Culture Shapes Political Order",
+      "url": "https://www.noemamag.com/the-sediment-of-culture-shapes-political-order",
+      "description": "The post  The Sediment Of Culture Shapes Political Order  appeared first on  NOEMA .",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/does-claude-feel-the-whip",
       "description": "The post  Does Claude Feel The Whip?  appeared first on  NOEMA .",
       "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Americans Are Losing The Long Game",
-      "url": "https://www.noemamag.com/americans-are-losing-the-long-game",
-      "description": "The post  Americans Are Losing The Long Game  appeared first on  NOEMA .",
-      "date": "Tue, 06 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

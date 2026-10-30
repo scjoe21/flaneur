@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-30T10:40:12.339236+00:00",
+  "fetchedAt": "2026-10-30T19:54:16.955218+00:00",
   "items": [
     {
       "title": "Wie wir die Welt sehen",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Hendrik Bolz: „Ich war lange beseelt von dem Wunsch, hart zu sein“",
-      "url": "https://www.philomag.de/artikel/hendrik-bolz-ich-war-lange-beseelt-von-dem-wunsch-hart-zu-sein",
-      "description": "Harte Männer werden heute zunehmend als Problem betrachtet. Als toxisch. Wie aber fühlt sich so eine Männlichkeit für diejenigen an, die sie leben? Und warum bleibt sie für viele erstrebenswert? Der Musiker und Autor Hendrik Bolz blickt zurück auf seine eigene Jugend und erklärt, wie sein Männlichkeitsbild Quelle von Halt und Schmerz zugleich war.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
       }
     },
     {
@@ -52,9 +36,9 @@
       }
     },
     {
-      "title": "Die neue Ausgabe: Die Weisheit der Jugend",
-      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-die-weisheit-der-jugend",
-      "description": "Die Jugend ist eine Zwischenphase. Die Kindheit ist vorbei, das Erwachsensein noch nicht greifbar. Welche spezifische Erkenntniskraft ist mit diesem Dazwischen verbunden? Wie kann uns ein junger Blick auf die Welt helfen, die blinden Flecke unserer Zeit wahrzunehmen? Was lässt sich schon heute von jenen lernen, die dereinst unsere Zukunft gestalten? Hier geht's zur  umfangreichen Heftvorschau !",
+      "title": "Klaus Hurrelmann: „Die junge Generation ist nicht pessimistisch, aber erschöpft“",
+      "url": "https://www.philomag.de/artikel/klaus-hurrelmann-die-junge-generation-ist-nicht-pessimistisch-aber-erschoepft",
+      "description": "Der Soziologe Klaus Hurrelmann beobachtet seit Jahrzehnten, wie die junge Generation aufwächst. Ein Gespräch über psychische Narben, Pragmatismus und die Jugend als Seismograf der Gesellschaft.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -62,6 +46,22 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Blaise Pascal",
+      "url": "https://www.philomag.de/artikel/blaise-pascal",
+      "description": "Der Mensch ist zum Irrtum verdammt, schreibt Blaise Pascal. Warum soll uns ausgerechnet göttliche Gnade einen Ausweg bieten?",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -148,22 +148,6 @@
       }
     },
     {
-      "title": "Der Erfinder des Abraums",
-      "url": "https://www.philomag.de/artikel/der-erfinder-des-abraums",
-      "description": "In seinem neuen Roman  Das tickende Herz  schickt Lutz Seiler einen Lyriker in die Steppe und lässt ihn dort nach Heilung suchen. Dichter, Weltretter, Erdbeschützer: Sie alle kommen in zwielichtigen Gemeinschaften zusammen – die in Seilers Werk immer wieder untergraben werden.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "Phil.Kids (07/26)",
       "url": "https://www.philomag.de/artikel/philkids-0726",
       "description": "Kleine Menschen wissen oft mehr als große. Wir fragen, Kinder antworten.",
@@ -228,19 +212,35 @@
       }
     },
     {
-      "title": "Queere Geschichte schreiben",
-      "url": "https://www.philomag.de/artikel/queere-geschichte-schreiben",
-      "description": "Im Podcast  I Will Survive  blickt Phillip Syvarth auf die AidsKrise in Bayern zurück und zeigt, welche Bedeutung sie für die queere Bewegung bis heute hat.",
+      "title": "Die Lücken des Archivs",
+      "url": "https://www.philomag.de/artikel/die-luecken-des-archivs",
+      "description": "Das Museum Ludwig in Köln setzt sich anlässlich seines 50-jährigen Bestehens mit den Leerstellen der eigenen Sammlung kritisch auseinander und entwickelt mit Werken afroamerikanischer Künstler der Harlem Renaissance eine Gegenerzählung zur europäischen Kunstgeschichte.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 0,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 0
+        "total": 5
+      }
+    },
+    {
+      "title": "Wir wissen, was du dir wünschst",
+      "url": "https://www.philomag.de/artikel/wir-wissen-was-du-dir-wuenschst",
+      "description": "Wenn es dunkel wird: Die Redaktion empfiehlt acht Bücher zu Weihnachten, die erhellen, zu denken geben, trösten oder wach rütteln.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     }
   ]

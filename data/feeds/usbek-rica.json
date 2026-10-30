@@ -1,24 +1,8 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-10-30T10:40:07.903903+00:00",
+  "fetchedAt": "2026-10-30T19:54:11.976511+00:00",
   "items": [
-    {
-      "title": "Crises, déclassement, vulnérabilités : pourquoi devient-il si urgent de repenser notre modèle social ?",
-      "url": "https://usbeketrica.com/fr/article/crises-declassement-vulnerabilites-pourquoi-devient-il-si-urgent-de-repenser-notre-modele-social",
-      "description": "Et si le vrai danger pour notre protection sociale n'était pas qu'elle coûte trop cher, mais qu'elle ait été pensée pour un monde qui n'existe plus ? Conçu en 1945 pour mutualiser des risques connus et assurables, le modèle français doit désormais affronter des chocs corrélés et difficilement assurables dans leur ensemble. C’est ce constat, notamment, qui a conduit le CESE à adopter une résolution ambitieuse « Pour un modèle de société soutenable, durable et inclusive à l’horizon 2050 ».",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
-      }
-    },
     {
       "title": "Comment les télécoms peuvent relever le défi de la décarbonation",
       "url": "https://usbeketrica.com/fr/article/comment-les-telecoms-peuvent-relever-le-defi-de-la-decarbonation",
@@ -148,22 +132,6 @@
       }
     },
     {
-      "title": "« À ton éveil, fends la cosse » : notre avis sur le nouveau roman de SF de Becky Chambers",
-      "url": "https://usbeketrica.com/fr/article/a-ton-eveil-fends-la-cosse-notre-avis-sur-le-nouveau-roman-de-sf-de-becky-chambers",
-      "description": "Après le succès fulgurant de sa duologie Histoire de moine et de robot, Becky Chambers revient à ses premiers amours avec un space opera intimiste. Direction la planète volcanique Fortune où la pilote Cora et la pépiniériste Signy tentent de survivre tant bien que mal, dans l'espoir de jours meilleurs. Un récit grandiose et touchant.",
-      "date": "Sat, 17 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Becky Chambers : « J’ai envie d’écrire des histoires qui nous rappellent que la fin n’est pas encore écrite »",
       "url": "https://usbeketrica.com/fr/article/becky-chambers-j-ai-envie-d-ecrire-des-histoires-qui-nous-rappellent-que-la-fin-n-est-pas-encore-ecrite",
       "description": "À l'occasion de la sortie de son nouveau roman À ton éveil, fends la cosse, nous nous sommes entretenus avec l'autrice de science-fiction Becky Chambers pour parler d'espoir, d'amour et d'IA. Rencontre.",
@@ -193,6 +161,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "En Chine, la bulle de l'IA est en train d'éclater",
+      "url": "https://usbeketrica.com/fr/article/en-chine-la-bulle-de-l-ia-est-en-train-d-eclater",
+      "description": "L’heure du « krach » a sonné sur le marché chinois de l’intelligence artificielle. Selon une enquête de Reuters, l’indice STAR50 de Shanghai, qui regroupe les plus grands géants du secteur, a chuté de 40 % en quatre mois. Signe d’une débâcle qui ne fait que commencer.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Du timbre au post-it (et à l’agent IA) : quel futur pour l’engagement ?",
+      "url": "https://usbeketrica.com/fr/article/du-timbre-au-post-it-et-a-l-agent-ia-quel-futur-pour-l-engagement",
+      "description": "Les partis et les syndicats se vident. Pourtant, les lycéens bloquent leurs établissements et certains hashtags font le tour de la planète. Dans cette chronique, la prospectiviste Cécile Wendling, à la tête du cabinet Pan-or-amiques.com et chercheuse associée au CSO (Sciences po Paris – CNRS), examine, génération par génération, qui s’engage aujourd’hui et qui s’engagera demain.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

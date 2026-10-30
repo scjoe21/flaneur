@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-30T10:40:47.894706+00:00",
+  "fetchedAt": "2026-10-30T19:54:57.288471+00:00",
   "items": [
     {
       "title": "タッチ対応の新型MacBook Proに触れて見えてきた本当の価値",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "「完成品」を並べないデザインイベント、alter. 2026, Tokyo",
+      "url": "https://wired.jp/article/event-alter-2026-tokyo/",
+      "description": "異業種のクリエイターがチームを組み、プロトタイプを発表するプロダクトデザイン・イベント「alter.」の第2回が、11月1日まで東京・日本橋三井ホールで開催されている。出展料をとらずに制作費を補助する異色のデザイン・イベントとして知られるalter.は、プロダクトと人々の関係性を拡張しようとしている。",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "AIに設けられた安全対策を回避。広がるAIエージェントを悪用したサイバー攻撃",
       "url": "https://wired.jp/article/ai-guardrails-arent-stopping-criminal-hackers/",
       "description": "最新の調査で、技術力がそれほど高くないハッカーでもAnthropicの「Claude」などのAIの安全対策を回避し、複数の標的への侵入に成功している実態が明らかになった。",
@@ -215,22 +231,6 @@
       "title": "人類滅亡のリスクが競争力に？ AnthropicのIPO目論見書が示していること",
       "url": "https://wired.jp/article/the-anthropic-ipo-is-also-a-doomsday-primer/",
       "description": "Anthropicの目論見書には、AIが人類の存亡を脅かすリスクが詳述されている。一方、同社はその危険につながりかねない「再帰的自己改善（RSI）」を、競争上の重要な強みと位置づけている。",
-      "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AnthropicのIPO目論見書から見えてきた、急成長の実態とAIの未来",
-      "url": "https://wired.jp/article/anthropic-ipo-filings-reveal-finances-risks-strategy/",
-      "description": "AnthropicがIPOに向けた登録届出書を提出した。売上高の急増と巨額の純損失が明らかになったほか、AIが人類の存亡を脅かす可能性や政府との対立など、幅広い事業リスクが詳述されている。",
       "date": "Tue, 27 Oct 2026",
       "thumbnail": "",
       "videoId": "",

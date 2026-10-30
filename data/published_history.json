@@ -1,292 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W19",
-      "tags": [
-        "관용의역설",
-        "민주주의",
-        "포퍼",
-        "작별인사",
-        "타자성",
-        "시간",
-        "노동",
-        "연대",
-        "공휴일",
-        "공자",
-        "중국철학",
-        "세계관",
-        "변화",
-        "헤라클레이토스",
-        "습관",
-        "삶의기술",
-        "자기배려",
-        "철학적실천",
-        "죽음",
-        "유한성",
-        "톨킨",
-        "이데올로기",
-        "에코챔버",
-        "정치적 폭력",
-        "정체성",
-        "거리두기",
-        "불완전함",
-        "정치적 양극화",
-        "공론장",
-        "설득의 한계",
-        "중독",
-        "자유의지",
-        "도덕적 책임",
-        "서사구조",
-        "선악이분법",
-        "희생양",
-        "공간철학",
-        "아비투스",
-        "일상환경",
-        "에우다이모니아",
-        "커리어",
-        "진정성",
-        "음악철학",
-        "신체",
-        "감각"
-      ],
-      "articles": [
-        {
-          "title": "관용은 불관용을 관용해야 하는가",
-          "summary": "자유로운 사회가 자신의 적에게도 자유를 주어야 한다면—포퍼가 던진 위험한 질문",
-          "philosopher": "포퍼 (Karl Popper)",
-          "philosophers": [
-            "포퍼 (Karl Popper)"
-          ],
-          "tags": [
-            "관용의역설",
-            "민주주의",
-            "포퍼"
-          ],
-          "sourceUrl": "https://www.youtube.com/shorts/CRcHnfnsdkw",
-          "originalTitle": "Le paradoxe de la tolérance"
-        },
-        {
-          "title": "왜 우리는 헤어질 때 '다시 봐요'라고 말하는가",
-          "summary": "작별 인사 한마디에 숨겨진 만남과 시간에 대한 우리의 철학",
-          "philosopher": "레비나스 (Emmanuel Levinas)",
-          "philosophers": [
-            "레비나스 (Emmanuel Levinas)"
-          ],
-          "tags": [
-            "작별인사",
-            "타자성",
-            "시간"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/pourquoi-se-dit-au-revoir-quand-se-quitte",
-          "originalTitle": "Pourquoi se dit-on “au revoir”… quand on se quitte ?"
-        },
-        {
-          "title": "5월 1일에 빵집을 열어야 하는가",
-          "summary": "노동절에 문을 여는 빵집, 그 안에서 우리는 무엇과 마주치는가?",
-          "philosopher": "칸트 (Immanuel Kant)",
-          "philosophers": [
-            "칸트 (Immanuel Kant)"
-          ],
-          "tags": [
-            "노동",
-            "연대",
-            "공휴일"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/faut-il-ouvrir-les-boulangeries-le-1er-mai",
-          "originalTitle": "Faut-il ouvrir les boulangeries le 1er mai ?"
-        },
-        {
-          "title": "공자는 지금도 중국을 지배하는가",
-          "summary": "유교적 세계관이 현대 중국의 정치·외교·일상에 어떻게 살아 숨 쉬는가",
-          "philosopher": "공자 (Confucius)",
-          "philosophers": [
-            "공자 (Confucius)",
-            "존 로크 (John Locke)",
-            "루소 (Jean-Jacques Rousseau)"
-          ],
-          "tags": [
-            "공자",
-            "중국철학",
-            "세계관"
-          ],
-          "sourceUrl": "https://www.hoheluft-magazin.de/2022/10/all-inclusive-wie-china-die-welt-denkt/",
-          "originalTitle": "All inclusive: Wie China die Welt denkt"
-        },
-        {
-          "title": "왜 우리는 변하려 할수록 변하지 못하는가",
-          "summary": "헤라클레이토스는 모든 것이 흐른다고 했지만—정작 나는 왜 제자리인가",
-          "philosopher": "부르디외 (Pierre Bourdieu)",
-          "philosophers": [
-            "부르디외 (Pierre Bourdieu)",
-            "존 듀이 (John Dewey)",
-            "윌리엄 제임스 (William James)"
-          ],
-          "tags": [
-            "변화",
-            "헤라클레이토스",
-            "습관"
-          ],
-          "sourceUrl": "https://www.hoheluft-magazin.de/2022/11/alles-fliesst/",
-          "originalTitle": "Alles fließt"
-        },
-        {
-          "title": "어떻게 살 것인가, 라는 질문이 찾아올 때",
-          "summary": "삶의 방향을 잃은 순간, 철학은 처방전이 될 수 있는가",
-          "philosopher": "에피쿠로스 (Epicurus)",
-          "philosophers": [
-            "에피쿠로스 (Epicurus)",
-            "푸코 (Michel Foucault)"
-          ],
-          "tags": [
-            "삶의기술",
-            "자기배려",
-            "철학적실천"
-          ],
-          "sourceUrl": "https://www.hoheluft-magazin.de/2022/10/im-trainingslager-des-lebens/",
-          "originalTitle": "Im Trainingslager des Lebens"
-        },
-        {
-          "title": "죽음이 선물이라면: 톨킨의 역설",
-          "summary": "불멸을 꿈꾸는 시대에, 톨킨은 왜 죽음을 '선물'이라 불렀는가?",
-          "philosopher": "하이데거 (Martin Heidegger)",
-          "philosophers": [
-            "하이데거 (Martin Heidegger)",
-            "장자 (Zhuangzi)"
-          ],
-          "tags": [
-            "죽음",
-            "유한성",
-            "톨킨"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=KltSN2KVs-A",
-          "originalTitle": "Il segreto più oscuro del Signore degli Anelli: perché la Morte è un \"DONO\""
-        },
-        {
-          "title": "해방의 날이 메아리방이 될 때",
-          "summary": "반파시즘의 광장이 새로운 배제의 공간으로 변한다면, 그것은 무엇인가?",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "이데올로기",
-            "에코챔버",
-            "정치적 폭력"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=92kjf3wrtgs",
-          "originalTitle": "Il 25 Aprile della Vergogna: L'Antifascismo che Diventa Squadrismo"
-        },
-        {
-          "title": "불완전한 나를 떠나는 법: 거리두기의 철학",
-          "summary": "가족, 역할, 몸에서 벗어나려는 충동은 도망인가, 생존인가?",
-          "philosopher": "클레르 마랭 (Claire Marin)",
-          "philosophers": [
-            "클레르 마랭 (Claire Marin)"
-          ],
-          "tags": [
-            "정체성",
-            "거리두기",
-            "불완전함"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=X6uxYOB227M",
-          "originalTitle": "Festival del Pensare Contemporaneo 2025 | LA NOSTRA IMPERFEZIONE NEL MONDO"
-        },
-        {
-          "title": "정치 얘기는 왜 항상 허공에서 끝나는가",
-          "summary": "대화가 끝나도 아무것도 바뀌지 않는다—정치 토론의 불편한 진실",
-          "philosopher": "밀 (John Stuart Mill)",
-          "philosophers": [
-            "밀 (John Stuart Mill)",
-            "하버마스 (Jurgen Habermas)"
-          ],
-          "tags": [
-            "정치적 양극화",
-            "공론장",
-            "설득의 한계"
-          ],
-          "sourceUrl": "",
-          "originalTitle": "Talking Politics with Sarah Stein Lubrano"
-        },
-        {
-          "title": "중독은 의지의 실패인가, 뇌의 실패인가",
-          "summary": "약물 중독자를 바라보는 두 시선—도덕적 낙인과 의학적 모델 사이에서",
-          "philosopher": "아리스토텔레스 (Aristotle)",
-          "philosophers": [
-            "아리스토텔레스 (Aristotle)"
-          ],
-          "tags": [
-            "중독",
-            "자유의지",
-            "도덕적 책임"
-          ],
-          "sourceUrl": "",
-          "originalTitle": "Addiction with Hanna Pickard"
-        },
-        {
-          "title": "'악당'은 언제 발명되었는가",
-          "summary": "선과 악의 대결 구도—이야기의 본질일까, 만들어진 장치일까",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "서사구조",
-            "선악이분법",
-            "희생양"
-          ],
-          "sourceUrl": "https://aeon.co/videos/when-did-stories-become-so-centred-on-good-battling-evil-and-why?utm_source=rss-feed",
-          "originalTitle": "Who invented bad guys?"
-        },
-        {
-          "title": "공간은 말한다: 우리가 꾸민 곳의 철학",
-          "summary": "방 한 칸, 도시 한 블록이 우리도 모르게 가치관을 고백하고 있다",
-          "philosopher": "바슐라르 (Gaston Bachelard)",
-          "philosophers": [
-            "바슐라르 (Gaston Bachelard)",
-            "부르디외 (Pierre Bourdieu)"
-          ],
-          "tags": [
-            "공간철학",
-            "아비투스",
-            "일상환경"
-          ],
-          "sourceUrl": "https://bigthink.com/books/in-a-good-place/",
-          "originalTitle": "How the hidden language of life’s spaces quietly reveals our values"
-        },
-        {
-          "title": "성공하는데 왜 공허한가: 커리어의 철학",
-          "summary": "잘 나가는 삶의 한가운데서 '이게 다 무엇을 위한 건가' 묻게 될 때",
-          "philosopher": "아리스토텔레스 (Aristotle)",
-          "philosophers": [
-            "아리스토텔레스 (Aristotle)",
-            "찰스 테일러 (Charles Taylor)"
-          ],
-          "tags": [
-            "에우다이모니아",
-            "커리어",
-            "진정성"
-          ],
-          "sourceUrl": "https://bigthink.com/work-wise/the-career-question-that-too-few-people-ask/",
-          "originalTitle": "The career question that too few people ask"
-        },
-        {
-          "title": "음악은 왜 우리를 울리는가",
-          "summary": "한 번도 들어본 적 없는 화음이 눈물을 만들어내는, 몸 깊숙한 철학",
-          "philosopher": "쇼펜하우어 (Schopenhauer)",
-          "philosophers": [
-            "쇼펜하우어 (Schopenhauer)",
-            "니체 (Friedrich Nietzsche)",
-            "메를로퐁티 (Maurice Merleau-Ponty)"
-          ],
-          "tags": [
-            "음악철학",
-            "신체",
-            "감각"
-          ],
-          "sourceUrl": "https://bigthink.com/series/full-interview/music-human-body/",
-          "originalTitle": "How music rewires the human body, in 59 minutes"
-        }
-      ]
-    },
-    {
       "week": "2026-W20",
       "tags": [
         "고독",
@@ -7243,6 +6957,283 @@
           ],
           "sourceUrl": "https://kangaeruhito.jp/article/764387",
           "originalTitle": "6．相貌失認――顔を見分けるのが苦手"
+        }
+      ]
+    },
+    {
+      "week": "2026-W45",
+      "tags": [
+        "몸",
+        "여성",
+        "생애 주기",
+        "칸트",
+        "탈식민 철학",
+        "보편 이성",
+        "인간성",
+        "포이어바흐",
+        "소외",
+        "심리적 안전감",
+        "노동",
+        "조직 문화",
+        "저항",
+        "신화",
+        "청년 정치",
+        "직함",
+        "권력",
+        "정체성",
+        "눈물",
+        "감정",
+        "타인",
+        "우정",
+        "관계",
+        "시간",
+        "낯섦",
+        "주의",
+        "일상의 철학",
+        "남성성",
+        "덕",
+        "자기절제",
+        "소통",
+        "언어철학",
+        "타인이해",
+        "스토아주의",
+        "정치적 혼란",
+        "내적 견고함",
+        "진실",
+        "사실",
+        "주관성",
+        "피난처",
+        "공간",
+        "내면",
+        "신체기억",
+        "후성유전학",
+        "운동",
+        "노동소외",
+        "시몬 베유",
+        "산업화",
+        "소버린 AI",
+        "기술과 권력",
+        "주권",
+        "중독",
+        "뇌과학과 자아",
+        "의식의 철학"
+      ],
+      "articles": [
+        {
+          "title": "폐경은 유통기한이 아니다",
+          "summary": "중년의 몸에 찍힌 낙인을 걷어내면, 삶의 한 단계가 새롭게 보인다",
+          "philosopher": "",
+          "tags": [
+            "몸",
+            "여성",
+            "생애 주기"
+          ],
+          "sourceUrl": "https://theconversation.com/menopause-une-pause-au-milieu-de-la-vie-non-une-date-de-peremption-294380",
+          "originalTitle": "Ménopause : une pause au milieu de la vie, non une date de péremption"
+        },
+        {
+          "title": "칸트는 왜 원주민을 '미개'라 불렀는가",
+          "summary": "보편 이성을 주창한 철학자가 감춘 편견의 기원을 추적한다",
+          "philosopher": "임마누엘 칸트 (Immanuel Kant)",
+          "tags": [
+            "칸트",
+            "탈식민 철학",
+            "보편 이성"
+          ],
+          "sourceUrl": "https://theconversation.com/pourquoi-kant-jugeait-il-les-peuples-autochtones-damerique-incapables-de-toute-culture-enquete-sur-une-source-oubliee-293563",
+          "originalTitle": "Pourquoi Kant jugeait-il les peuples autochtones d’Amérique « incapables de toute culture » ? Enquête sur une source oubliée"
+        },
+        {
+          "title": "'인간적'이 칭찬이 된 시대",
+          "summary": "'인간적'이라는 말이 언제부터 가장 높은 찬사가 되었는가—그 변화가 드러내는 것",
+          "philosopher": "루트비히 포이어바흐 (Ludwig Feuerbach)",
+          "tags": [
+            "인간성",
+            "포이어바흐",
+            "소외"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/comment-humain-est-il-devenu-un-compliment",
+          "originalTitle": "Comment “humain” est‑il devenu un compliment ?"
+        },
+        {
+          "title": "실수할 수 있어야 일이 더 잘된다",
+          "summary": "틀릴 수 없는 환경에서 일하는 사람들이 왜 오히려 더 많은 실수를 저지르는가?",
+          "philosopher": "에이미 에드먼슨 (Amy Edmondson)",
+          "tags": [
+            "심리적 안전감",
+            "노동",
+            "조직 문화"
+          ],
+          "sourceUrl": "https://www.swr.de/swrkultur/wissen/psychologische-sicherheit-im-job-gut-und-gerne-arbeiten-104.html",
+          "originalTitle": "Psychologische Sicherheit im Job – Gut und gerne arbeiten"
+        },
+        {
+          "title": "프랑스 청년은 왜 다시 바리케이드를 치는가",
+          "summary": "혁명의 기억이 살아 있는 나라에서, 거리로 나선 학생들이 말하는 것은 무엇인가",
+          "philosopher": "조르주 소렐 (Georges Sorel)",
+          "tags": [
+            "저항",
+            "신화",
+            "청년 정치"
+          ],
+          "sourceUrl": "https://www.swr.de/swrkultur/wissen/radikale-proteste-in-frankreich-die-sehnsucht-nach-revolution-100.html",
+          "originalTitle": "Radikale Proteste in Frankreich – Die Sehnsucht nach Revolution"
+        },
+        {
+          "title": "직함이 정체성이 되는 나라",
+          "summary": "오스트리아에서 1,500개 직함이 말해주는 것—우리는 왜 호칭으로 존재를 증명하려 하는가?",
+          "philosopher": "미셸 푸코 (Michel Foucault)",
+          "tags": [
+            "직함",
+            "권력",
+            "정체성"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=12k4xEadaYU",
+          "originalTitle": "So wichtig ist der Titel in Österreich | NANO"
+        },
+        {
+          "title": "우리는 왜 눈물을 흘리는가",
+          "summary": "눈물은 나를 위한 것이 아니라 타인을 위한 신호였다—감정의 문법을 다시 읽다",
+          "philosopher": "아돌프 포르틀라게 (Carl Fortlage)",
+          "tags": [
+            "눈물",
+            "감정",
+            "타인"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/scienze/grammatica-pianto/",
+          "originalTitle": "La grammatica del pianto"
+        },
+        {
+          "title": "어른이 되면 우정은 왜 사라지는가",
+          "summary": "계약서 없이 맺어진 관계가 가장 먼저 끊어지는 역설—어른의 우정을 철학하다",
+          "philosopher": "몽테뉴 (Michel de Montaigne)",
+          "tags": [
+            "우정",
+            "관계",
+            "시간"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=oO7cC7d_DOM",
+          "originalTitle": "Firmeresti un contratto di amicizia? | TlonLetter, il podcast"
+        },
+        {
+          "title": "낯익은 것을 낯설게 보는 법",
+          "summary": "매일 걷는 길, 매일 쓰는 말 — 그것을 처음 보듯 바라보는 순간 무슨 일이 일어나는가?",
+          "philosopher": "뷔자데 (Vujadè / Déjà Vu 역전 개념)",
+          "tags": [
+            "낯섦",
+            "주의",
+            "일상의 철학"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/Qvty23Or1v4",
+          "originalTitle": "Dal Déja Vu al Vujadè il passo è... COGITO FESTIVAL! #rickdufer"
+        },
+        {
+          "title": "로마 남자다움의 진짜 의미",
+          "summary": "지배와 허세가 아닌 절제와 용기—키케로가 말한 남성다움의 철학",
+          "philosopher": "키케로 (Marcus Tullius Cicero)",
+          "tags": [
+            "남성성",
+            "덕",
+            "자기절제"
+          ],
+          "sourceUrl": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
+          "originalTitle": "How to be a (Roman) man"
+        },
+        {
+          "title": "당신의 생각은 내 생각과 같을 수 없다",
+          "summary": "말이 통한다는 느낌 뒤에 숨겨진 소통의 근본적 불가능성",
+          "philosopher": "빅토르 베르데호 (Víctor Verdejo)",
+          "tags": [
+            "소통",
+            "언어철학",
+            "타인이해"
+          ],
+          "sourceUrl": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
+          "originalTitle": "Can you ever really think what someone else is thinking?"
+        },
+        {
+          "title": "혼란의 시대에 스토아는 살아남는가",
+          "summary": "폭풍 같은 정치 현실 앞에서, 16세기 철학자가 내놓은 '견딤의 기술'이 다시 소환된다",
+          "philosopher": "유스투스 립시우스 (Justus Lipsius)",
+          "tags": [
+            "스토아주의",
+            "정치적 혼란",
+            "내적 견고함"
+          ],
+          "sourceUrl": "https://philosophersmag.com/political-stoicism-lessons-from-lipsius/",
+          "originalTitle": "Political Stoicism: Lessons from Lipsius"
+        },
+        {
+          "title": "버지니아 울프가 말하는 진실의 조건",
+          "summary": "사실이 쌓인다고 진실이 되지 않는다—울프가 발견한 앎의 역설",
+          "philosopher": "버지니아 울프 (Virginia Woolf)",
+          "tags": [
+            "진실",
+            "사실",
+            "주관성"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/30/virginia-woolf-truth/",
+          "originalTitle": "Truth, Fact, and the Patterning of Reality: Virginia Woolf on How We Come to Know the World"
+        },
+        {
+          "title": "마음의 피난처를 갖는다는 것",
+          "summary": "지쳐 무너질 것 같을 때, 우리는 어디로 돌아가는가?",
+          "philosopher": "가스통 바슐라르 (Gaston Bachelard)",
+          "tags": [
+            "피난처",
+            "공간",
+            "내면"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/10/29/horse-chestnut-refugium/",
+          "originalTitle": "What Is Your Refugium?"
+        },
+        {
+          "title": "몸은 운동을 기억한다",
+          "summary": "운동을 멈춰도 세포가 기억을 붙들고 있다면, '노력'이란 무엇인가?",
+          "philosopher": "모리스 메를로퐁티 (Maurice Merleau-Ponty)",
+          "tags": [
+            "신체기억",
+            "후성유전학",
+            "운동"
+          ],
+          "sourceUrl": "https://nautil.us/your-cells-keep-a-record-of-every-workout-youve-ever-done-1286173/",
+          "originalTitle": "Your Cells Keep a Record of Every Workout You’ve Ever Done"
+        },
+        {
+          "title": "노동은 언제부터 인간을 소외시켰는가",
+          "summary": "공장과 마르크스, 그리고 시몬 베유가 발견한 노동의 이중성",
+          "philosopher": "시몬 베유 (Simone Weil)",
+          "tags": [
+            "노동소외",
+            "시몬 베유",
+            "산업화"
+          ],
+          "sourceUrl": "https://shinsho-plus.shueisha.co.jp/column/idonotlikework/37450",
+          "originalTitle": "マルクスとヴェイユ：大工場と疎外された労働"
+        },
+        {
+          "title": "국가를 탈출하려던 기업이 국가를 지키게 된 이유",
+          "summary": "자유를 꿈꿨던 테크 기업들이 왜 이제 국가 주권의 수호자가 되었는가?",
+          "philosopher": "칼 슈미트 (Carl Schmitt)",
+          "tags": [
+            "소버린 AI",
+            "기술과 권력",
+            "주권"
+          ],
+          "sourceUrl": "https://wired.jp/article/wired-futures-conference-2026-sovereign-ai-katsuya-uenoyama-fumiko-kudo/",
+          "originalTitle": "「国家からの脱出」を夢見たテクノロジー企業が、なぜいま国家の「AI主権」を支えているのか｜WIRED Futures Conference 2026 レポート"
+        },
+        {
+          "title": "뇌를 고친다는 것의 의미",
+          "summary": "초음파 한 번으로 중독이 사라진다면, 자아와 치유의 경계는 어디인가?",
+          "philosopher": "토마스 네이글 (Thomas Nagel)",
+          "tags": [
+            "중독",
+            "뇌과학과 자아",
+            "의식의 철학"
+          ],
+          "sourceUrl": "https://wired.jp/article/sz-brain-focused-ultrasoun/",
+          "originalTitle": "彼女の壊れた脳を治したのは超音波だった"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-10-30T10:40:27.232545+00:00",
+  "fetchedAt": "2026-10-30T19:54:36.872038+00:00",
   "items": [
     {
       "title": "The Real Culprit Behind High Grocery Prices",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "The Currency of the Journal Article Is Collapsing",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed",
       "description": "",
       "date": "2026-10-24",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Very Suspicious Prosecution of Two Former FBI Officials",
-      "url": "https://www.theatlantic.com/ideas/2026/10/fbi-prosecution/689138/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-23",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

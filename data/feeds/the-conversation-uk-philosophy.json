@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-10-30T10:40:34.771628+00:00",
+  "fetchedAt": "2026-10-30T19:54:48.006623+00:00",
   "items": [
     {
       "title": "Guide to the classics: Machiavelli’s ‘audaciously honest’ The Prince reveals how politics works",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Why achieving your goals can leave you feeling so empty",
+      "url": "https://theconversation.com/why-achieving-your-goals-can-leave-you-feeling-so-empty-294825",
+      "description": "",
+      "date": "2026-10-30",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://theconversation.com/accepting-free-will-doesnt-exist-could-make-us-less-hateful-and-ashamed-282155",
       "description": "",
       "date": "2026-07-26",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Friday essay: ‘cultural Marxism’ is a conspiracy theory for our time",
-      "url": "https://theconversation.com/friday-essay-cultural-marxism-is-a-conspiracy-theory-for-our-time-277489",
-      "description": "",
-      "date": "2026-07-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

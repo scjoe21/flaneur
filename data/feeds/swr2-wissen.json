@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-25T19:35:16.299629+00:00",
+  "fetchedAt": "2026-10-30T19:54:46.654268+00:00",
   "items": [
     {
       "title": "Die Wechseljahre – Welche Therapien möglich und nötig sind (1/2)",
@@ -17,6 +17,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 44
+      }
+    },
+    {
+      "title": "Horror, Thriller, True Crime – Warum wir uns gerne gruseln",
+      "url": "https://www.swr.de/swrkultur/wissen/horror-thriller-true-crime-warum-wir-uns-gerne-gruseln-104.html",
+      "description": "Ob The Shining, True Crime oder das Horror-Maislabyrinth an Halloween: Viele gruseln sich gern und lieben den Nervenkitzel. Gruseln kann uns sogar gut tun.",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
+      }
+    },
+    {
+      "title": "Problemkind – Wie Jungs ein positives Männerbild entwickeln können",
+      "url": "https://www.swr.de/swrkultur/wissen/problemkind-wie-jungs-ein-positives-maennerbild-entwickeln-koennen-100.html",
+      "description": "Jungs gelten als anstrengend. Sie sind schlechter in der Schule und häufiger kriminell. Es bräuchte positive Vorbilder auf Social Media, aber auch Männer als Erzieher und Lehrer.",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -52,19 +84,19 @@
       }
     },
     {
-      "title": "Gerechter erben – Wie die Besteuerung fairer werden kann",
-      "url": "https://www.swr.de/swrkultur/wissen/gerechter-erben-wie-die-besteuerung-fairer-werden-kann-102.html",
-      "description": "In Deutschland werden Erbschaften effektiv mit drei Prozent besteuert, Arbeit mit 30 Prozent. Das ist ungerecht, weil für eine Erbschaft niemand arbeiten muss und viele niemals etwas erben. Von Kristin Langen und Vanessa Guinan-Bank (SWR 2024/2025) | Manuskript und mehr zur Sendung: http://swr.li/erbschaftssteuer-gerechter-erben | Bei Fragen und Anregungen schreibt uns: daswissen@swr.de | Folgt uns auf Mastodon: https://ard.social/@DasWissen",
-      "date": "Tue, 13 Oct 2026",
+      "title": "Radikale Proteste in Frankreich – Die Sehnsucht nach Revolution",
+      "url": "https://www.swr.de/swrkultur/wissen/radikale-proteste-in-frankreich-die-sehnsucht-nach-revolution-100.html",
+      "description": "Massive Schüler-Proteste erschüttern Frankreich. Ähnlich wie \"Bloquons tout\" oder die Gelbwesten fordern sie große Veränderungen – mit Bezug auf die Französische Revolution.",
+      "date": "Wed, 28 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -100,35 +132,19 @@
       }
     },
     {
-      "title": "Wer arm ist, stirbt früher – Wege aus dem ungleichen Gesundheitsrisiko",
-      "url": "https://www.swr.de/swrkultur/wissen/wer-arm-ist-stirbt-frueher-wege-aus-dem-ungleichen-gesundheitsrisiko-100.html",
-      "description": "Fitness und ausgewogene Ernährung können sich nicht alle leisten: Armut bedingt oft ein riskanteres Gesundheitsverhalten, weil Wissen fehlt und wenig Geld meist Stress bedeutet.",
-      "date": "Wed, 14 Oct 2026",
+      "title": "Flamingo-Proteste in Albanien – Gegen Korruption und Kushner",
+      "url": "https://www.swr.de/swrkultur/wissen/flamingo-proteste-in-albanien-gegen-korruption-und-kushner-100.html",
+      "description": "Die \"Flamingo-Proteste\" in Albanien wenden sich gegen Korruption, Vetternwirtschaft und die Regierung von Edi Rama. Auslöser war ein umstrittenes Luxusprojekt von Jared Kushner.",
+      "date": "Tue, 27 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Berufsverbot – Dürfen Rechtsextreme für den Staat arbeiten?",
-      "url": "https://www.swr.de/swrkultur/wissen/berufsverbot-duerfen-rechtsextreme-fuer-den-staat-arbeiten-100.html",
-      "description": "Lehrkräfte, Richter, Polizistinnen – nicht erst seit den AfD-Wahlerfolgen wollen manche Bundesländer Beamte stärker auf ihre politische Gesinnung überprüfen.",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -196,42 +212,26 @@
       }
     },
     {
+      "title": "Wunschkind Mädchen – Was hinter Gender Disappointment steckt",
+      "url": "https://www.swr.de/swrkultur/wissen/wunschkind-maedchen-was-hinter-gender-disappointment-steckt-104.html",
+      "description": "Manche Eltern sind enttäuscht, wenn es ein Junge wird. Das Wunschgeschlecht scheint sich in Richtung Mädchen zu verschieben. Töchter gelten als pflegeleichter.",
+      "date": "Thu, 29 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Raus aus dem Extremismus – Strategien für Rechte und Islamisten",
       "url": "https://www.swr.de/swrkultur/wissen/raus-aus-dem-extremismus-strategien-fuer-rechte-und-islamisten-100.html",
       "description": "Die politisch motivierte Kriminalität in Deutschland wächst. Dagegen hilft auch, Extremisten einen Ausstieg aus ihrer Szene zu ermöglichen. Doch das ist aufwendig und der Erfolg vieler Ausstiegsprogramme ungewiss.",
       "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Wenn Chatbots die Karriere mitbestimmen – KI in der Personalauswahl",
-      "url": "https://www.swr.de/swrkultur/wissen/wenn-chatbots-die-karriere-mitbestimmen-ki-in-der-personalauswahl-100.html",
-      "description": "Durch KI hoffen Personalabteilungen, Bewerber objektiver und effizienter beurteilen zu können. Dafür muss die KI aber perfekt trainiert sein. Auch Bewerberinnen nutzen KI.",
-      "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Panzer statt Pkw – Rettet Rüstung die deutsche Autoindustrie?",
-      "url": "https://www.swr.de/swrkultur/wissen/panzer-statt-pkw-rettet-ruestung-die-deutsche-autoindustrie-100.html",
-      "description": "Der Staat investiert Milliarden in neue Rüstungsaufträge und Rüstungskonzerne suchen dringend Fachkräfte und Kapazitäten. Eine Chance für die schwächelnde Automobilindustrie?",
-      "date": "Mon, 12 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

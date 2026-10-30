@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-30T10:40:07.233558+00:00",
+  "fetchedAt": "2026-10-30T19:54:11.555428+00:00",
   "items": [
     {
       "title": "Comment “humain” est‑il devenu un compliment ?",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Bienvenue dans l’ère du “plag-IA”",
+      "url": "https://www.philomag.com/articles/bienvenue-dans-lere-du-plag-ia",
+      "description": "",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/y-aura-t-il-une-presidentielle-au-printemps",
       "description": "",
       "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Violence symbolique... ou réelle ? Le match Aron-Bourdieu",
-      "url": "https://www.philomag.com/articles/violence-symbolique-ou-reelle-le-match-aron-bourdieu",
-      "description": "",
-      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

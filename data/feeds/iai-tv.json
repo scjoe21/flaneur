@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-30T10:40:38.224029+00:00",
+  "fetchedAt": "2026-10-30T19:54:51.664720+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -48,22 +48,6 @@
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Has the internet actually shortened our attention spans? | Doctorow, Wales, Harrington",
-      "url": "https://www.youtube.com/watch?v=x-R0Gngda2Q",
-      "description": "Cory Doctorow, Mary Harrington and Jimmy Wales discuss the impact of the internet on literacy.\n\nIs digital media making us dumber?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/gutenberg-vs-zuckerberg2?utm_source=YouTube&utm_medium=description\n\nGutenberg’s printing press transformed the world. The surge in literacy and the democratisation of knowledge helped ignite the Enlightenment. 500 years later, the internet is initiating a new transformation. Zuckerberg clai",
-      "date": "2026-10-10",
-      "thumbnail": "https://i1.ytimg.com/vi/x-R0Gngda2Q/hqdefault.jpg",
-      "videoId": "x-R0Gngda2Q",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 10,
         "total": 30
       }
     },
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The Political Double Standard | Jeremy Corbyn, Faiza Shaheen",
+      "url": "https://www.youtube.com/shorts/JLChHCYtoVg",
+      "description": "",
+      "date": "2026-10-30",
+      "thumbnail": "https://i3.ytimg.com/vi/JLChHCYtoVg/hqdefault.jpg",
+      "videoId": "JLChHCYtoVg",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
