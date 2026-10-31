@@ -1,24 +1,8 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-30T22:37:17.106315+00:00",
+  "fetchedAt": "2026-10-31T20:06:19.122642+00:00",
   "items": [
-    {
-      "title": "20 Favorite Books from 20 Years of The Marginalian",
-      "url": "https://www.themarginalian.org/2026/10/24/20-books/",
-      "description": "It is a beautiful dream, that there is something out there to instruct you how to live — a secret handed down by your parents or your teachers, a system like liberal arts education or cognitive behavioral therapy, a slogan held up by your heroes declaring the answer to the bottomless question of why you are here. Whenever you wake up, however you wake up, you find yourself on a path no one else can walk for you, a path you must make by walking. Still, you can find signposts that keep you from lo",
-      "date": "Sun, 25 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
-      }
-    },
     {
       "title": "Truth, Fact, and the Patterning of Reality: Virginia Woolf on How We Come to Know the World",
       "url": "https://www.themarginalian.org/2026/10/30/virginia-woolf-truth/",
@@ -33,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
+      "url": "https://www.themarginalian.org/2026/10/31/meteor-of-joy-paola-prestini/",
+      "description": "Children know the deepest truths about life, the elemental knowledge we unlearn in the act of living, those inarticulable truths music alone helps us remember. To hear children sing the secret wisdom of the heart is to be in the presence of something truer and more transcendent than any of our poems and postulates can touch — the ultimate affirmation of our aliveness, emanating Richard Powers’s beautiful and bittersweet assertion that “the use of music is to remind us how short a time we have a ",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 28,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 28
       }
     },
     {
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Music and the Body: Richard Powers on the Power of Song",
+      "url": "https://www.themarginalian.org/2026/10/31/richard-powers-music/",
+      "description": "\"The use of music is to remind us how short a time we have a body.\"",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -164,19 +180,19 @@
       }
     },
     {
-      "title": "Dostoyevsky, Just After His Death Sentence Was Repealed, on the Meaning of Life",
-      "url": "https://www.themarginalian.org/2026/10/24/dostoyevsky-execution-life/",
-      "description": "\"To be a human being among people and to remain one forever, no matter in what circumstances, not to grow despondent and not to lose heart — that’s what life is all about, that's its task.\"",
-      "date": "Sat, 24 Oct 2026",
+      "title": "Albert Camus on the Three Antidotes to the Absurdity of Life",
+      "url": "https://www.themarginalian.org/2026/10/31/albert-camus-interview-absurd/",
+      "description": "\"In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.\"",
+      "date": "Sat, 31 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.themarginalian.org/2026/10/27/marcus-aurelius-luck/",
       "description": "\"What happened could have happened to anyone, but not everyone could have carried on.\"",
       "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Baloney Detection Kit: Carl Sagan’s Timeless Tenets of Critical Thinking",
-      "url": "https://www.themarginalian.org/2026/10/24/baloney-detection-kit-carl-sagan/",
-      "description": "Necessary cognitive fortification against propaganda, pseudoscience, and general falsehood.",
-      "date": "Sat, 24 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

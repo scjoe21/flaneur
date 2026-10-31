@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-10-30T22:36:54.436080+00:00",
+  "fetchedAt": "2026-10-31T20:04:52.642275+00:00",
   "items": [
     {
       "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 4/4 : \"Nous voulons être les poètes de notre vie\"",
@@ -196,19 +196,19 @@
       }
     },
     {
-      "title": "Philosopher avec Audre Lorde : Être poète n'est pas un luxe",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/etre-poete-n-est-pas-un-luxe-1834472",
-      "description": "durée : 00:59:02  - Avec philosophie - par : Géraldine Mosna-Savoye - La poésie est viscérale, et donne des mots, fondamentaux pour parler de l'expérience. Aussi, Audre Lorde, décédée en 1992, n'avait pas choisi la philosophie pour penser, mais la poésie...Avec cette arme, la guerrière Lorde a mis en mots la sororité, l’érotisme et la maladie qui l’a touchée.   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - ",
-      "date": "Mon, 19 Oct 2026",
+      "title": "Tocqueville au pouvoir : Réenchantons la démocratie",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/tocqueville-au-pouvoir-reenchantons-la-democratie-6594705",
+      "description": "durée : 00:59:19  - Les Philosophes au pouvoir - par : Laurence Devillairs - La démocratie peut-elle devenir son propre ennemi ? Tocqueville nous alerte sur les dangers du conformisme, de l’individualisme et du despotisme. Pour préserver notre liberté, quels contre-pouvoirs et quel engagement collectif faut-il réinventer ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Sophie Vanden Abeele-Marchal Maître de conférences à la Faculté des lettres de la Sorbonne, Marie-Jeanne Rossignol ",
+      "date": "Sat, 31 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 14,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 15,
-        "flaneur": 0,
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
+        "total": 14
       }
     },
     {

@@ -1,38 +1,22 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-30T22:36:58.490517+00:00",
+  "fetchedAt": "2026-10-31T20:04:57.723523+00:00",
   "items": [
     {
-      "title": "Wie wir die Welt sehen",
-      "url": "https://www.philomag.de/artikel/wie-wir-die-welt-sehen",
-      "description": "KI und Social Media, Klima und Corona, globale Umbrüche und Kriege: Junge Menschen stehen in unserer Zeit vor großen Herausforderungen und sind mit einem hohen Maß an Ungewissheit konfrontiert. Wie gehen sie damit um? Was für Erkenntnisse bringt ein junger Mensch hervor, der mit wachen Augen durch die Welt geht? Wir haben vier Jugendliche zum Gespräch eingeladen.",
+      "title": "Die Erkenntniskraft der frühen Jahre",
+      "url": "https://www.philomag.de/artikel/die-erkenntniskraft-der-fruehen-jahre",
+      "description": "Was können wir von Menschen lernen, die am Anfang ihres Lebens stehen? Vieles, wie ein Blick in die Philosophiegeschichte zeigt.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 40,
-        "phil": 0,
+        "daily": 20,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
-      }
-    },
-    {
-      "title": "Menschlicher Morast",
-      "url": "https://www.philomag.de/artikel/menschlicher-morast",
-      "description": "In  Minotaurus  zeigt Andrey Zvyagintsev, wie sich die Kriegslogik in der Psyche eines russischen Patriarchen einsenkt, und setzt dessen kalkulierende Selbstkompromittierung wirkmächtig in Szene.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
+        "total": 30
       }
     },
     {
@@ -84,67 +68,51 @@
       }
     },
     {
-      "title": "Stark wie eine Frau",
-      "url": "https://www.philomag.de/artikel/stark-wie-eine-frau",
-      "description": "Odysseus zeigt in Christopher Nolans Verfilmung des Epos einen gestählten Körper, der jemand ganz anderem gehört, als zunächst vermutet.",
+      "title": "Die Kinder des Diogenes",
+      "url": "https://www.philomag.de/artikel/die-kinder-des-diogenes",
+      "description": "In Asien formiert sich eine Jugendbewegung gegen Arbeitsdruck und schlechte Politik. Sie könnte auch unsere Art zu leben, zu arbeiten und zu denken verändern.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "„Eine Klarheit, die sich nicht erklären lässt“",
-      "url": "https://www.philomag.de/artikel/eine-klarheit-die-sich-nicht-erklaeren-laesst",
-      "description": "Clemens Luhmann, Sohn des Soziologen Niklas Luhmann, zeigt seinen berühmten Vater in Nahsicht – und schildert Alltag und Familiengeschichte als Fundamente einer Theorie, die ohne Personenregister auskommt.",
+      "title": "„Hoffentlich ist es bald vorbei“",
+      "url": "https://www.philomag.de/artikel/hoffentlich-ist-es-bald-vorbei",
+      "description": "Die 83-jährige Nora möchte ihr Leben durch einen assistierten Suizid beenden. Aus welchen Gründen? Was bedeutet diese Entscheidung für ihr Umfeld? Und welche Folgen hätte die Normalisierung von Suizidassistenz für die Gesellschaft? Eine Reportage über das Streben nach Selbstbestimmung – und seine Schattenseiten.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 14,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 14
+        "total": 10
       }
     },
     {
-      "title": "Phil.Kids (07/26)",
-      "url": "https://www.philomag.de/artikel/philkids-0726",
-      "description": "Kleine Menschen wissen oft mehr als große. Wir fragen, Kinder antworten.",
+      "title": "Der Erfinder des Abraums",
+      "url": "https://www.philomag.de/artikel/der-erfinder-des-abraums",
+      "description": "In seinem neuen Roman  Das tickende Herz  schickt Lutz Seiler einen Lyriker in die Steppe und lässt ihn dort nach Heilung suchen. Dichter, Weltretter, Erdbeschützer: Sie alle kommen in zwielichtigen Gemeinschaften zusammen – die in Seilers Werk immer wieder untergraben werden.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 4,
         "novelty": 0,
         "total": 9
-      }
-    },
-    {
-      "title": "bell hooks und der Widerstand",
-      "url": "https://www.philomag.de/artikel/bell-hooks-und-der-widerstand",
-      "description": "Widerstand, so die Überzeugung der Theoretikerin und Aktivistin bell hooks, erschöpft sich nicht im Dagegensein. Vielmehr ist seine Grundlage die Liebe – verstanden als Entscheidung für Verbundenheit und Fürsorge. Ein Essay über leidvolle Erfahrungen als Quelle von Erkenntnis und die subversive Kraft des Dafürseins.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {
@@ -241,6 +209,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Ein andres gutes Land",
+      "url": "https://www.philomag.de/artikel/ein-andres-gutes-land",
+      "description": "Die Kamerun Qrella Group verhandelt auf dem Album  Abteilung Blühende Landschaften  das deutschdeutsche Verhältnis.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Queere Geschichte schreiben",
+      "url": "https://www.philomag.de/artikel/queere-geschichte-schreiben",
+      "description": "Im Podcast  I Will Survive  blickt Phillip Syvarth auf die AidsKrise in Bayern zurück und zeigt, welche Bedeutung sie für die queere Bewegung bis heute hat.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-10-30T22:37:15.961887+00:00",
+  "fetchedAt": "2026-10-31T20:06:18.171688+00:00",
   "items": [
     {
       "title": "The Real Culprit Behind High Grocery Prices",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "What the Economy Is Sacrificing to AI",
+      "url": "https://www.theatlantic.com/ideas/2026/10/ai-data-centers-crowding/689239/?utm_source=feed",
+      "description": "",
+      "date": "2026-10-31",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/10/ai-math-human-future/689133/?utm_source=feed",
       "description": "",
       "date": "2026-10-25",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AI Terrorism Is Just Terrorism",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-terrorism-technology/689137/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

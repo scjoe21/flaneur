@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-10-30T22:37:32.192890+00:00",
+  "fetchedAt": "2026-10-31T20:06:35.023285+00:00",
   "items": [
     {
       "title": "マルクスとヴェイユ：大工場と疎外された労働",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "第３回　マハティールは日本に何を問いかけているのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/naitou_kushimoto/37332",
+      "description": "――イスラーム圏というと中東をイメージしがちですが、人口が多いのは東南アジアです。マレーシアとインドネシアは経済的にもうまくいっている。「イスラームが経済発展の妨げになる」という議論は、もう成り立たないのではと思えます。 […]",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -56,22 +72,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/interview/inomata_kimyou/37291",
       "description": "構成／浮島さとし　撮影／五十嵐和博 ───沖縄の現場で取材を重ねてこられた猪股さんが、その記録をこのたび、一本の映画としてまとめ上げられました。構想から完成までは、どれほどの時間をかけられたのでしょう。 猪股　本土復帰5 […]",
       "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "トレイルを作る活動は第二期、YLTクラブへ",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/trail/37102",
-      "description": "山形にトレイルをつくる活動を始めて４年後の2016年。山形ロングトレイルの活動が本格化すればするほど、僕の収益を生まない仕事はどんどん増えていった。もちろん、収益のない団体なので、人を雇うこともできず会計なども僕がする […]",
-      "date": "Sat, 24 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

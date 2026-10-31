@@ -1,24 +1,8 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-30T22:37:23.662203+00:00",
+  "fetchedAt": "2026-10-31T20:06:25.866619+00:00",
   "items": [
-    {
-      "title": "Die Wechseljahre – Welche Therapien möglich und nötig sind (1/2)",
-      "url": "https://www.swr.de/swrkultur/wissen/die-wechseljahre-welche-therapien-moeglich-und-noetig-sind-102.html",
-      "description": "Über \"die Wechseljahre\" wissen selbst Frauen oft nur wenig. Etwa dass das Östrogen schon mit Anfang, Mitte 40 zu sinken beginnt. Und dass die Hormonersatztherapie gut wirkt und weitgehend sicher ist.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/wechseljahre-therapien-teil1\nHörtipp:\nDie Wechseljahre – Wie Arbeitgeber und Gesellschaft Frauen unterstützen (2/2)\nhttps://www.ardaudiothek.de/episode/urn:ard:episode:df73b208bf56c1ba/\nInfos und Tipps:\nDie Menopause Rat",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 44,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 44
-      }
-    },
     {
       "title": "Horror, Thriller, True Crime – Warum wir uns gerne gruseln",
       "url": "https://www.swr.de/swrkultur/wissen/horror-thriller-true-crime-warum-wir-uns-gerne-gruseln-104.html",
@@ -46,22 +30,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Die Wechseljahre – Wie Arbeitgeber und Gesellschaft Frauen unterstützen (2/2)",
-      "url": "https://www.swr.de/swrkultur/wissen/die-wechseljahre-wie-arbeitgeber-und-gesellschaft-frauen-unterstuetzen-100.html",
-      "description": "Hitzewallungen und Stimmungsschwankungen können die Arbeitsleistung von Frauen beeinträchtigen. Aufklärung, Verständnis von Führungskräften und anderen Frauen sowie flexible Arbeitszeiten helfen.\nVon Stephanie Eichler (SWR 2025)\nManuskript und mehr zur Sendung:\nhttp://swr.li/wechseljahre-unterstützung-teil2\nHörtipp:\nDie Wechseljahre – Welche Therapien möglich und nötig sind (1/2)\nhttps://www.ardaudiothek.de/episode/urn:ard:episode:c273aab212c59173/\nBei Fragen und Anregungen schreibt uns:\ndaswiss",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -97,6 +65,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Wege zu einem \"gesunden\" Internet – Verlässliche Infos, hassfreier Dialog",
+      "url": "https://www.swr.de/swrkultur/wissen/wege-zu-einem-gesunden-internet-verlaessliche-infos-hassfreier-dialog-100.html",
+      "description": "Social-Media-Plattformen gelten oft als \"toxisch\". Ihre Algorithmen belohnen und verstärken extreme Äußerungen. Welche Alternativen gibt es?",
+      "date": "Sun, 1 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Wir möchten Euch besser kennenlernen!",
+      "url": "https://www.swr.de/swrkultur/wissen/wir-moechten-euch-besser-kennenlernen-100.html",
+      "description": "Wir möchten Euch besser kennenlernen! – Was Euch interessiert und bewegt, wie Ihr Podcasts und andere Medien nutzt oder was Ihr Euch von \"Das Wissen\" noch wünscht.",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

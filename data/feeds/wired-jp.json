@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-30T22:37:34.241066+00:00",
+  "fetchedAt": "2026-10-31T20:06:40.370671+00:00",
   "items": [
     {
       "title": "イノベーションの翌朝にゴミを拾うのは誰か｜FUTURE of WORK",
@@ -20,6 +20,22 @@
       }
     },
     {
+      "title": "iPhone 18 Proレビュー：“本気で撮りたい人”のためのデバイス",
+      "url": "https://wired.jp/article/iphone-18-pro-review-camera/",
+      "description": "iPhone 18 Proの特徴のひとつが、メインカメラに可変絞りが搭載されたこと。この撮る人に新たな自由をもたらす機能の裏には、今年のアップルの設計思想が凝縮されている。",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "タッチ対応の新型MacBook Proに触れて見えてきた本当の価値",
       "url": "https://wired.jp/article/apple-macbook-pro-touch-display-hands-on/",
       "description": "アップルがタッチ操作に対応したMacBook Proを発表した。「垂直の画面に触れる操作は向かない」というジョブズの言葉から16年。実機に触れて見えてきた新モデルの真価は、指で触れる機能とは別のところにあった。",
@@ -33,6 +49,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "CDコレクションの始め方",
+      "url": "https://wired.jp/article/how-to-collect-cds/",
+      "description": "ストリーミングサービスにお金を払い続けても、手もとに残るものは何もない。そんな時代だからこそ、あらためてCDで音楽を聴いてみよう。ここではCDコレクションの始め方から、集めたCDをより楽しむためのヒントを紹介する。",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "イメージ向上を狙うデータセンター業界、子どもたちの社会科見学を後押し",
+      "url": "https://wired.jp/article/data-center-industry-is-trying-to-woo-kids/",
+      "description": "データセンターの建設に対する反発が強まるなか、業界はイメージ向上を狙い、子ども向けの教材提供や社会科見学を積極的に実施している。こうした取り組みは、世間の理解を得るためにほかの業界も用いてきた手法だ。",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -94,38 +142,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "アップル「iPhone Duo」レビュー：後発ならではの仕上がりを実感",
-      "url": "https://wired.jp/review/iphone-duo/",
-      "description": "アップル初の折り畳みスマートフォン「iPhone Duo」が登場した。ハードウェアの完成度は高く、大画面を生かした機能やカメラにも工夫が凝らされている。一方、アプリの対応などにはまだ課題が残る。",
-      "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "彼女の壊れた脳を治したのは超音波だった",
-      "url": "https://wired.jp/article/sz-brain-focused-ultrasoun/",
-      "description": "深刻な薬物依存症の患者に、頭蓋骨を切開することなく集束超音波をたった1回施しただけで、劇的な効果が得られた。大手テック企業も開発に関心を寄せる超音波治療の現在地。",
-      "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/final-fantasy-vii-revelation/",
       "description": "『FINAL FANTASY VII REVELATION』は、原作への敬意を保ちながら、新たな体験を大きく押し広げる。その壮大なスケールと、シリーズ完結編に寄せられる期待について、コンピュータゲームディレクターの浜口直樹が語る。",
       "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "AI時代、人間が書いた本であることを証明する「オーガニック」認証が登場",
-      "url": "https://wired.jp/article/organic-literature-books-by-people-stamp-ai/",
-      "description": "AI生成された文章が増えるなか、英国のスタートアップが新たな書籍認証制度を立ち上げた。執筆過程を審査するこの仕組みは、AI使用の誤判定を防ぎ、出版業界の信頼を守ることにつながるのだろうか。",
-      "date": "Tue, 27 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
