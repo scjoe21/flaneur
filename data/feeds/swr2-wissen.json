@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-10-31T20:06:25.866619+00:00",
+  "fetchedAt": "2026-11-01T21:10:17.318778+00:00",
   "items": [
     {
       "title": "Horror, Thriller, True Crime – Warum wir uns gerne gruseln",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "Aufmerksamkeit lernen – Wie wir uns besser konzentrieren können",
-      "url": "https://www.swr.de/swrkultur/wissen/aufmerksamkeit-lernen-wie-wir-uns-besser-konzentrieren-koennen-100.html",
-      "description": "Smartphone, Social Media und Benachrichtigungen konkurrieren permanent um unsere Aufmerksamkeit. Doch verkümmert dadurch unsere Konzentrationsfähigkeit?",
-      "date": "Sun, 18 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Radikale Proteste in Frankreich – Die Sehnsucht nach Revolution",
       "url": "https://www.swr.de/swrkultur/wissen/radikale-proteste-in-frankreich-die-sehnsucht-nach-revolution-100.html",
       "description": "Massive Schüler-Proteste erschüttern Frankreich. Ähnlich wie \"Bloquons tout\" oder die Gelbwesten fordern sie große Veränderungen – mit Bezug auf die Französische Revolution.",
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Nürnberg 1945 – Die Prozesse, die Deutschland nicht wollte",
+      "url": "https://www.swr.de/swrkultur/wissen/nuernberg-1945-die-prozesse-die-deutschland-nicht-wollte-102.html",
+      "description": "Die Prozesse gegen die Nazi-Hauptkriegsverbrecher verfolgen die Deutschen wohlwollend. Als es in weiteren Prozessen um die Schuld der breiten Gesellschaft geht, kippt die Stimmung.",
+      "date": "Mon, 2 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

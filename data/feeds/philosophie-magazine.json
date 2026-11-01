@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-10-31T20:04:53.044642+00:00",
+  "fetchedAt": "2026-11-01T21:09:39.985496+00:00",
   "items": [
+    {
+      "title": "Comment s’adresser à un tyran",
+      "url": "https://www.philomag.com/articles/comment-sadresser-un-tyran",
+      "description": "",
+      "date": "Sun, 01 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "“La Bohème”, “Hier encore”… Pourquoi les jeunes adorent les chansons de vieux ?",
       "url": "https://www.philomag.com/articles/la-boheme-hier-encore-pourquoi-les-jeunes-adorent-les-chansons-de-vieux",
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/la-gradiva-vivre-jouir-mourir-et-philosopher-pompei",
       "description": "",
       "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Naza”, la banalité collatérale du mal",
-      "url": "https://www.philomag.com/articles/naza-la-banalite-collaterale-du-mal",
-      "description": "",
-      "date": "Wed, 21 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

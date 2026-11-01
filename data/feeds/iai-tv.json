@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-10-31T20:06:30.272285+00:00",
+  "fetchedAt": "2026-11-01T21:10:22.175101+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -180,6 +180,22 @@
       }
     },
     {
+      "title": "The New Age of Media | Cory Doctorow",
+      "url": "https://www.youtube.com/shorts/2RJRnkW7ijA",
+      "description": "",
+      "date": "2026-11-01",
+      "thumbnail": "https://i3.ytimg.com/vi/2RJRnkW7ijA/hqdefault.jpg",
+      "videoId": "2RJRnkW7ijA",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "A Lettuce is not Happy | Eva Jablonka",
       "url": "https://www.youtube.com/shorts/CuygR8MLbyg",
       "description": "",
@@ -218,22 +234,6 @@
       "date": "2026-10-16",
       "thumbnail": "https://i2.ytimg.com/vi/UoeiiqT2mnI/hqdefault.jpg",
       "videoId": "UoeiiqT2mnI",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Manosphere is Boring | Erling Kagge",
-      "url": "https://www.youtube.com/shorts/yiddOIREV2Y",
-      "description": "",
-      "date": "2026-10-13",
-      "thumbnail": "https://i2.ytimg.com/vi/yiddOIREV2Y/hqdefault.jpg",
-      "videoId": "yiddOIREV2Y",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

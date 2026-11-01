@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-10-31T20:06:40.370671+00:00",
+  "fetchedAt": "2026-11-01T21:10:27.361995+00:00",
   "items": [
     {
       "title": "イノベーションの翌朝にゴミを拾うのは誰か｜FUTURE of WORK",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "高等教育の未来、8つの予測",
+      "url": "https://wired.jp/article/sz-eight-predictions-for-the-future-of-higher-education/",
+      "description": "米国に住むわたしの9歳の娘が大学に入学するまでのあいだに、社会を揺るがすような終末的な大破局が訪れることはないだろう。だが、変化は確実に起こる",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "CDコレクションの始め方",
       "url": "https://wired.jp/article/how-to-collect-cds/",
       "description": "ストリーミングサービスにお金を払い続けても、手もとに残るものは何もない。そんな時代だからこそ、あらためてCDで音楽を聴いてみよう。ここではCDコレクションの始め方から、集めたCDをより楽しむためのヒントを紹介する。",
@@ -68,9 +84,9 @@
       }
     },
     {
-      "title": "イメージ向上を狙うデータセンター業界、子どもたちの社会科見学を後押し",
+      "title": "データセンターのイメージアップへ、業界が進める子どもたちの社会科見学",
       "url": "https://wired.jp/article/data-center-industry-is-trying-to-woo-kids/",
-      "description": "データセンターの建設に対する反発が強まるなか、業界はイメージ向上を狙い、子ども向けの教材提供や社会科見学を積極的に実施している。こうした取り組みは、世間の理解を得るためにほかの業界も用いてきた手法だ。",
+      "description": "データセンター建設に対する反発が強まるなか、米国では業界がイメージ向上を狙い、子ども向けの教材提供や社会科見学を積極的に実施している。こうした取り組みは、世間の理解を得るためにほかの業界も用いてきた手法だ。",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -132,19 +148,67 @@
       }
     },
     {
-      "title": "「14万ニューロンのハエ」が、フィジカルAIに問いかけること──Physical AI｜WIRED Futures Conference 2026 レポート",
-      "url": "https://wired.jp/article/wired-futures-conference-2026-physical-ai/",
-      "description": "いま、巷で語られている「フィジカルAI」がいかに的を外しているかを縦横無尽に語る──東京大学名誉教授の暦本純一と、みずほフィナンシャルグループ執行役員の中馬和彦による本音のクロージングセッション。",
-      "date": "Thu, 29 Oct 2026",
+      "title": "AIの「再帰的自己改善」に挑むスタートアップ、その最新モデルは驚くほど高性能だった",
+      "url": "https://wired.jp/article/recursive-self-improvement-flint-latest-model-scary-good/",
+      "description": "AIによるAIの「再帰的自己改善」の実現を目指すスタートアップRecursiveが、新モデル「Flint」を発表した。この技術の安全性を懸念する声もあるが、同社は技術がもたらす利益はリスクを上回ると考えている。",
+      "date": "Sun, 01 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "「トランプ vs オバマ」の因縁は永久に終わらない──「アメリカン・ドッペルゲンガー」by 池田純一#19",
+      "url": "https://wired.jp/article/american-doppelganger-19/",
+      "description": "共和党は想像以上に押されている。下院の過半数は確実視され、上院も、強固なレッドステイトだったサウスカロライナ州も「トスアップ」になったと見られている。そうした状況に伴い、トランプの動きも慌ただしくなっているが、どうやら混迷は増すばかりのようだ……。",
+      "date": "Sun, 01 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "コジマプロダクション10周年展からalter. 2026, Tokyoまで、注目のトピック5選【WIRED INSIDER】",
+      "url": "https://wired.jp/article/insider-kojimaproductions-ecodrivephotoncitizen-kapok-alter-loropiana/",
+      "description": "最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
+      "date": "Sun, 01 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "検出が極めて難しい「ジオニュートリノ」が、地球内部の新たな地図を描き出す",
+      "url": "https://wired.jp/article/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
+      "description": "世界各地の検出器が、地球内部の放射性元素が生む「ジオニュートリノ」を観測している。カナダの地下2,000メートルにある「SNO+」による観測は、マントルの組成などを解き明かす手がかりになるかもしれない。",
+      "date": "Sat, 31 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -168,70 +232,6 @@
       "url": "https://wired.jp/article/ai-guardrails-arent-stopping-criminal-hackers/",
       "description": "最新の調査で、技術力がそれほど高くないハッカーでもAnthropicの「Claude」などのAIの安全対策を回避し、複数の標的への侵入に成功している実態が明らかになった。",
       "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "柞刈湯葉・書き下ろし短編SF──『不老者ファーストジェネレーション』",
-      "url": "https://wired.jp/article/vol59-theageless-firstgeneration-yuba-isukari/",
-      "description": "「老化はワクチンで予防できる」。そんな常識が到来した近未来を生きる人々の心の機微や行動規範を、SF作家・柞刈湯葉が鋭利に描き出す。",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "DNAと「対話できる」。Hugging Faceの新モデル、Carbon-Xとは",
-      "url": "https://wired.jp/article/hugging-face-new-ai-biology-model-chat-with-dna/",
-      "description": "Hugging Faceが、DNAについて自然言語で質問できるオープンソースのAIモデル「Carbon-X」を公開した。遺伝子変異が健康に及ぼす影響の解明や、新薬および遺伝子治療の開発に役立つ可能性がある。",
-      "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "「AI改名」大統領令はテック企業の忠誠心を測るテストだった",
-      "url": "https://wired.jp/article/sz-trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/",
-      "description": "テックビリオネアたちは、何年もAIへの情熱を熱狂的に語ってきた。だがトランプがその言葉を廃止すると決めたとき、まるで首振り人形のようにうなずいただけだった。",
-      "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "『FINAL FANTASY VII REVELATION』の監督が語る、原作と進化のバランス",
-      "url": "https://wired.jp/article/final-fantasy-vii-revelation/",
-      "description": "『FINAL FANTASY VII REVELATION』は、原作への敬意を保ちながら、新たな体験を大きく押し広げる。その壮大なスケールと、シリーズ完結編に寄せられる期待について、コンピュータゲームディレクターの浜口直樹が語る。",
-      "date": "Wed, 28 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

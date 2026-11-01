@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-10-31T20:06:19.122642+00:00",
+  "fetchedAt": "2026-11-01T21:10:09.562835+00:00",
   "items": [
     {
       "title": "Truth, Fact, and the Patterning of Reality: Virginia Woolf on How We Come to Know the World",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
-      "title": "The Dark Wood of the Golden Birds: Margaret Wise Brown’s Lost Masterpiece about Mortality and the Meaning of Life, Newly Illustrated",
-      "url": "https://www.themarginalian.org/2026/10/25/dark-wood-margaret-wise-brown-ofra-amit/",
-      "description": "In early September 1948, a year after she rewilded the landscape of literature with Goodnight Moon, Margaret Wise Brown watched the love of her life fade to black. Michael Strange, born Blanche Oelrichs, had cast an instant spell on Margaret — outspoken, sophisticated, and self-possessed, so tall Margaret had to lift her grey-blue eyes to meet the black of Michael’s, her tall frame clad in masculine clothing she herself had designed to cling to her curves, with a musical voice unspooling from he",
-      "date": "Sun, 25 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
         "flaneur": 4,
         "novelty": 0,
         "total": 19
@@ -177,6 +161,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The Art of Being Alone: May Sarton’s Stunning 1938 Ode to Solitude",
+      "url": "https://www.themarginalian.org/2026/11/01/may-sarton-canticle-6-considerations/",
+      "description": "\"There is no place more intimate than the spirit alone.\"",
+      "date": "Sun, 01 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

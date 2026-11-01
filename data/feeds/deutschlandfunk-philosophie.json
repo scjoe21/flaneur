@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-10-31T20:04:55.773244+00:00",
+  "fetchedAt": "2026-11-01T21:09:42.969729+00:00",
   "items": [
     {
       "title": "Wie Geld Recht spricht",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Hegemonie - Der Kampf um Deutungshoheit",
-      "url": "https://www.deutschlandfunkkultur.de/hegemonie-der-kampf-um-deutungshoheit-100.html",
-      "description": "Migration, Klima, Sozialstaat: Der gesellschaftliche Konsens hat sich in vielen Bereichen verschoben. Zeichnet sich hier eine neue Hegemonie ab? Was meint das Konzept bei seinem Begründer Gramsci? Und wie verändern sich hegemoniale Ordnungen? Rohde, Stephanie; Opratko, Benjamin www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 30 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -164,6 +148,38 @@
       }
     },
     {
+      "title": "Wiederverzauberung der Welt: Charles Taylors \"Kosmische Verbindungen\"",
+      "url": "https://www.deutschlandfunkkultur.de/charles-taylor-hartmut-rosa-100.html",
+      "description": "In seinem Spätwerk zeichnet der Philosoph Charles Taylor eine Poesiegeschichte der Weltverbindung nach. Ein Gespräch mit Hartmut Rosa, dem Meisterdenker der Resonanz, über Taylors Buch und die Rettung der Spiritualität in nihilistischen Zeiten. Miller, Simone; Rosa, Hartmut www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 01 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Philosophische Flaschenpost: Zhuangzi und der Schmetterling",
+      "url": "https://www.deutschlandfunkkultur.de/philosophische-flaschenpost-zhuangzi-und-der-schmetterling-100.html",
+      "description": "Scobel, Gert www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 01 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Proteste in Frankreich: Dynamit im System",
       "url": "https://www.deutschlandfunkkultur.de/proteste-in-frankreich-dynamit-im-system-100.html",
       "description": "Roedig,, Andrea www.deutschlandfunkkultur.de, Sein und Streit",
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/kommentar-zur-sachsen-anhalt-wahl-der-teufelskreis-der-verachtung-100.html",
       "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "KI-generierte Kulturgüter: Der Tod des Autors",
-      "url": "https://www.deutschlandfunkkultur.de/ki-generierte-kulturgueter-der-tod-des-autors-100.html",
-      "description": "Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 30 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

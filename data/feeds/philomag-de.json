@@ -1,8 +1,40 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-10-31T20:04:57.723523+00:00",
+  "fetchedAt": "2026-11-01T21:09:45.429101+00:00",
   "items": [
+    {
+      "title": "Wie wir die Welt sehen",
+      "url": "https://www.philomag.de/artikel/wie-wir-die-welt-sehen",
+      "description": "KI und Social Media, Klima und Corona, globale Umbrüche und Kriege: Junge Menschen stehen in unserer Zeit vor großen Herausforderungen und sind mit einem hohen Maß an Ungewissheit konfrontiert. Wie gehen sie damit um? Was für Erkenntnisse bringt ein junger Mensch hervor, der mit wachen Augen durch die Welt geht? Wir haben vier Jugendliche zum Gespräch eingeladen.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 40,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "Hendrik Bolz: „Ich war lange beseelt von dem Wunsch, hart zu sein“",
+      "url": "https://www.philomag.de/artikel/hendrik-bolz-ich-war-lange-beseelt-von-dem-wunsch-hart-zu-sein",
+      "description": "Harte Männer werden heute zunehmend als Problem betrachtet. Als toxisch. Wie aber fühlt sich so eine Männlichkeit für diejenigen an, die sie leben? Und warum bleibt sie für viele erstrebenswert? Der Musiker und Autor Hendrik Bolz blickt zurück auf seine eigene Jugend und erklärt, wie sein Männlichkeitsbild Quelle von Halt und Schmerz zugleich war.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Die Erkenntniskraft der frühen Jahre",
       "url": "https://www.philomag.de/artikel/die-erkenntniskraft-der-fruehen-jahre",
@@ -20,9 +52,9 @@
       }
     },
     {
-      "title": "Klaus Hurrelmann: „Die junge Generation ist nicht pessimistisch, aber erschöpft“",
-      "url": "https://www.philomag.de/artikel/klaus-hurrelmann-die-junge-generation-ist-nicht-pessimistisch-aber-erschoepft",
-      "description": "Der Soziologe Klaus Hurrelmann beobachtet seit Jahrzehnten, wie die junge Generation aufwächst. Ein Gespräch über psychische Narben, Pragmatismus und die Jugend als Seismograf der Gesellschaft.",
+      "title": "Die neue Ausgabe: Die Weisheit der Jugend",
+      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-die-weisheit-der-jugend",
+      "description": "Die Jugend ist eine Zwischenphase. Die Kindheit ist vorbei, das Erwachsensein noch nicht greifbar. Welche spezifische Erkenntniskraft ist mit diesem Dazwischen verbunden? Wie kann uns ein junger Blick auf die Welt helfen, die blinden Flecke unserer Zeit wahrzunehmen? Was lässt sich schon heute von jenen lernen, die dereinst unsere Zukunft gestalten? Hier geht's zur  umfangreichen Heftvorschau !",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -30,22 +62,6 @@
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Blaise Pascal",
-      "url": "https://www.philomag.de/artikel/blaise-pascal",
-      "description": "Der Mensch ist zum Irrtum verdammt, schreibt Blaise Pascal. Warum soll uns ausgerechnet göttliche Gnade einen Ausweg bieten?",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -84,6 +100,38 @@
       }
     },
     {
+      "title": "Strahlende Zukunft",
+      "url": "https://www.philomag.de/artikel/strahlende-zukunft",
+      "description": "Neue Sensoren für die Nachverfolgung von Waren funktionieren nach einem fotosyntheseähnlichen Prinzip.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Haltung als Selbstschutz",
+      "url": "https://www.philomag.de/artikel/haltung-als-selbstschutz",
+      "description": "Gerade in Nahbeziehungen sind Menschen leicht verletzbar. Wie sich schützen, ohne sich zu verpanzern? Unsere Kolumnistin Millay Hyatt plädiert für innere Festigkeit.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "„Hoffentlich ist es bald vorbei“",
       "url": "https://www.philomag.de/artikel/hoffentlich-ist-es-bald-vorbei",
       "description": "Die 83-jährige Nora möchte ihr Leben durch einen assistierten Suizid beenden. Aus welchen Gründen? Was bedeutet diese Entscheidung für ihr Umfeld? Und welche Folgen hätte die Normalisierung von Suizidassistenz für die Gesellschaft? Eine Reportage über das Streben nach Selbstbestimmung – und seine Schattenseiten.",
@@ -113,70 +161,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
-      }
-    },
-    {
-      "title": "Die Rückkehr des Gemeinen",
-      "url": "https://www.philomag.de/artikel/die-rueckkehr-des-gemeinen",
-      "description": "Die US-Rechte, traditionell ein Hort des Libertarismus, entdeckt gerade den Gemeinsinn für sich, meint Wolfram Eilenberger.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Loneliness Influencer",
-      "url": "https://www.philomag.de/artikel/loneliness-influencer",
-      "description": "In den Sozialen Medien kursieren zahlreiche Videos, in denen junge Frauen ihr Single-Dasein zelebrieren.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Die Lücken des Archivs",
-      "url": "https://www.philomag.de/artikel/die-luecken-des-archivs",
-      "description": "Das Museum Ludwig in Köln setzt sich anlässlich seines 50-jährigen Bestehens mit den Leerstellen der eigenen Sammlung kritisch auseinander und entwickelt mit Werken afroamerikanischer Künstler der Harlem Renaissance eine Gegenerzählung zur europäischen Kunstgeschichte.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Wir wissen, was du dir wünschst",
-      "url": "https://www.philomag.de/artikel/wir-wissen-was-du-dir-wuenschst",
-      "description": "Wenn es dunkel wird: Die Redaktion empfiehlt acht Bücher zu Weihnachten, die erhellen, zu denken geben, trösten oder wach rütteln.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {
@@ -222,6 +206,22 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "bell hooks und der Widerstand",
+      "url": "https://www.philomag.de/artikel/bell-hooks-und-der-widerstand",
+      "description": "Widerstand, so die Überzeugung der Theoretikerin und Aktivistin bell hooks, erschöpft sich nicht im Dagegensein. Vielmehr ist seine Grundlage die Liebe – verstanden als Entscheidung für Verbundenheit und Fürsorge. Ein Essay über leidvolle Erfahrungen als Quelle von Erkenntnis und die subversive Kraft des Dafürseins.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
