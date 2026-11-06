@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-11-06T11:43:05.628729+00:00",
+  "fetchedAt": "2026-11-06T20:48:32.090087+00:00",
   "items": [
     {
       "title": "« Les dispositifs de surveillance concernent de plus en plus toutes les sphères de la vie »",
@@ -68,38 +68,6 @@
       }
     },
     {
-      "title": "Retraites, patrimoine, élections : les vieux menacent-ils la démocratie ?",
-      "url": "https://usbeketrica.com/fr/article/retraites-patrimoine-elections-les-vieux-menacent-ils-la-democratie",
-      "description": "Inégalités économiques, influence électorale, système de retraite… Évolution démographique oblige, en France, le poids politique et économique des plus âgés tend à se renforcer. Au détriment des plus jeunes, voire de l’avenir même de la démocratie ? Premier volet de notre dossier en deux parties.",
-      "date": "Mon, 26 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Effets spéciaux : « Grâce à l’IA, on rentre plus tôt du boulot ! »",
-      "url": "https://usbeketrica.com/fr/article/effets-speciaux-grace-a-l-ia-on-rentre-plus-tot-du-boulot",
-      "description": "L’IA va-t-elle vraiment mettre au chômage toute l’industrie des effets spéciaux ? De passage au KIKK Festival, à Namur, en Belgique, David Sheldon-Hicks, fin connaisseur du milieu et dirigeant de la société Territory Studio, défend une approche à la fois « optimiste et précautionneuse ».",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
       "title": "« Godzilla Minus Zero » : plus loin, plus haut, plus fort",
       "url": "https://usbeketrica.com/fr/article/godzilla-minus-zero-plus-loin-plus-haut-plus-fort",
       "description": "Dans le Japon des années 1940, Shikishima Koichi, un ancien pilote kamikaze, souffre de symptômes de stress post-traumatique après sa rencontre avec Godzilla. Suite directe du carton Minus One, Godzilla Minus Zero sort en salles ce mercredi 4 novembre.",
@@ -113,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "L'université ne prépare pas les étudiants à résoudre les problèmes du futur",
+      "url": "https://usbeketrica.com/fr/article/l-universite-ne-prepare-pas-les-etudiants-a-resoudre-les-probleme-du-futur",
+      "description": "TRIBUNE // Face aux transitions écologiques et aux incertitudes économiques, les étudiants doivent apprendre à se préparer à des métiers qui n'existent pas encore. Et si imaginer le futur devenait une compétence à part entière ? C'est ce que défend Mathieu Dunes, professeur associé en Science de Gestion à l'IAE Amiens et co-auteur de travaux sur les bénéfices du design fiction dans la formation étudiante.",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -161,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Les Français et le futur : 5 chiffres pour briser les clichés",
+      "url": "https://usbeketrica.com/fr/article/jeunes-moderes-riches-pessimistes-5-cliches-sur-notre-rapport-au-futur-dementis",
+      "description": "Non, les jeunes ne sont pas tous avides de rupture. Non, la France rurale  n'est pas forcément plus inquiète que celle des métropoles. Dans un rapport publié le 29 octobre, la Fondation Jean-Jaurès s’est penchée sur le rapport au futur des Français. Une étude qui permet de briser quelques clichés sur le sujet. La preuve à travers cinq chiffres emblématiques.",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

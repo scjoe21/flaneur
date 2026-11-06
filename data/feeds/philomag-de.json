@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-06T11:43:09.848510+00:00",
+  "fetchedAt": "2026-11-06T20:48:37.276745+00:00",
   "items": [
     {
       "title": "Wie wir die Welt sehen",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "Menschlicher Morast",
-      "url": "https://www.philomag.de/artikel/menschlicher-morast",
-      "description": "In  Minotaurus  zeigt Andrey Zvyagintsev, wie sich die Kriegslogik in der Psyche eines russischen Patriarchen einsenkt, und setzt dessen kalkulierende Selbstkompromittierung wirkmächtig in Szene.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Klaus Hurrelmann: „Die junge Generation ist nicht pessimistisch, aber erschöpft“",
       "url": "https://www.philomag.de/artikel/klaus-hurrelmann-die-junge-generation-ist-nicht-pessimistisch-aber-erschoepft",
       "description": "Der Soziologe Klaus Hurrelmann beobachtet seit Jahrzehnten, wie die junge Generation aufwächst. Ein Gespräch über psychische Narben, Pragmatismus und die Jugend als Seismograf der Gesellschaft.",
@@ -104,6 +88,22 @@
       "url": "https://www.philomag.de/artikel/freundschaft-eine-ressource-im-zeitalter-von-donald-trump",
       "description": "Am Vorabend der US-Zwischenwahlen beleuchtet der Politikwissenschaftler Roger Berkowitz, der gerade den Essay „A World We Share“ („Eine gemeinsame Welt“) veröffentlicht hat, das derzeitige Klima in den Vereinigten Staaten und sieht in der Kultur der Freundschaft ein demokratisches Heilmittel.",
       "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Die neue Ausgabe: Die Weisheit der Jugend",
+      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-die-weisheit-der-jugend",
+      "description": "Die Jugend ist eine Zwischenphase. Die Kindheit ist vorbei, das Erwachsensein noch nicht greifbar. Welche spezifische Erkenntniskraft ist mit diesem Dazwischen verbunden? Wie kann uns ein junger Blick auf die Welt helfen, die blinden Flecke unserer Zeit wahrzunehmen? Was lässt sich schon heute von jenen lernen, die dereinst unsere Zukunft gestalten? Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -180,22 +180,6 @@
       }
     },
     {
-      "title": "„Eine Klarheit, die sich nicht erklären lässt“",
-      "url": "https://www.philomag.de/artikel/eine-klarheit-die-sich-nicht-erklaeren-laesst",
-      "description": "Clemens Luhmann, Sohn des Soziologen Niklas Luhmann, zeigt seinen berühmten Vater in Nahsicht – und schildert Alltag und Familiengeschichte als Fundamente einer Theorie, die ohne Personenregister auskommt.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 14,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 14
-      }
-    },
-    {
       "title": "Die Amerikanisierung der USA",
       "url": "https://www.philomag.de/artikel/die-amerikanisierung-der-usa",
       "description": "Die Hispanics werden diese Midterm Elections entscheiden – und noch viele weitere Wahlen. Denn sie sind die Avantgarde des Zusammenwachsens beider Amerikas, an dessen Ende die nordamerikanische Union steht.",
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Gibt es einen Besitzinstinkt?",
+      "url": "https://www.philomag.de/artikel/gibt-es-einen-besitzinstinkt",
+      "description": "Ist Eigentum in der menschlichen Natur verankert oder vielmehr ein soziales Konstrukt? Um eine Antwort darauf zu finden, muss man dem französischen Philosophen Frédéric Gros zufolge diese allzu vereinfachende Gegenüberstellung hinter sich lassen.",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

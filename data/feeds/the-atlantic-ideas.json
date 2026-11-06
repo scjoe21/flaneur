@@ -1,22 +1,22 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-06T11:43:23.574008+00:00",
+  "fetchedAt": "2026-11-06T20:48:57.850955+00:00",
   "items": [
     {
-      "title": "Why Republicans Lost So Big",
-      "url": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-trump-blue-wave/689274/?utm_source=feed",
+      "title": "The Pope Confronts One of His Toughest Political Challenges",
+      "url": "https://www.theatlantic.com/ideas/2026/11/pope-leo-south-america-right-wing/689316/?utm_source=feed",
       "description": "",
-      "date": "2026-11-03",
+      "date": "2026-11-06",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -36,19 +36,51 @@
       }
     },
     {
-      "title": "Donald Trump Is Bad at Politics",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-losses-winners-losers/689262/?utm_source=feed",
+      "title": "Trump Doubles Down With Miller",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-stephen-miller/689334/?utm_source=feed",
       "description": "",
-      "date": "2026-11-03",
+      "date": "2026-11-06",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "LeBron James, Philadelphian",
+      "url": "https://www.theatlantic.com/ideas/2026/11/lebron-james-sixers-philadelphia/689324/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-06",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "In Front of Their Noses",
+      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-midterms-trump-maga/689315/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-06",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/11/texas-blue-democrats-win/689278/?utm_source=feed",
       "description": "",
       "date": "2026-11-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Things Are Going to Get Ugly",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-election-results-cope/689260/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Latinos Are Still Swing Voters",
-      "url": "https://www.theatlantic.com/ideas/2026/11/latinos-swing-voters-midterms/689256/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-03",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

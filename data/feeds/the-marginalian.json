@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-11-06T11:43:24.454555+00:00",
+  "fetchedAt": "2026-11-06T20:48:58.913521+00:00",
   "items": [
     {
       "title": "The Generosity of Selfishness: C.S. Lewis on How to Be Interesting",
@@ -30,22 +30,6 @@
       "scoreDetail": {
         "daily": 30,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Truth, Fact, and the Patterning of Reality: Virginia Woolf on How We Come to Know the World",
-      "url": "https://www.themarginalian.org/2026/10/30/virginia-woolf-truth/",
-      "description": "The great myth is that truth is an emergent property of fact, that it bubbles up from the bottom of reality once the mind attains enough fathoms of factuality. But objective reality — all those things like gravity and light and the fossil of the Archaeopteryx that exist whether or not we believe in them — is pocked with myriad subjective realities, each lensed through the particular qualia of the perceiver, each a function not of the mind alone but of the entire organism and the whole of its liv",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -84,19 +68,35 @@
       }
     },
     {
-      "title": "Music and the Body: Richard Powers on the Power of Song",
-      "url": "https://www.themarginalian.org/2026/10/31/richard-powers-music/",
-      "description": "\"The use of music is to remind us how short a time we have a body.\"",
-      "date": "Sat, 31 Oct 2026",
+      "title": "Marianne Moore on the Three Elements of Persuasive Writing",
+      "url": "https://www.themarginalian.org/2026/11/06/marianne-moore-predilections-writing/",
+      "description": "Several years ago, rummaging through the archives of the Academy of American Poets, I came upon a box labeled “Ballots 1950” — the record of the secret vote by the chancellors the year the Academy’s prestigious fellowship was awarded to E.E. Cummings, catapulting him into renown. The voting process is a black box — no one outside the Academy ever finds out who else is in the running and by how much the winner wins. Leafing through the ballots, one other name appeared over and over, so much so th",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
+      }
+    },
+    {
+      "title": "The Relationship Between Comedy, Democracy, and AI",
+      "url": "https://www.themarginalian.org/2026/11/06/humor/",
+      "description": "“Humor, more than anything else in the human make-up, can afford an aloofness and an ability to rise above any situation, even if only for a few seconds,” Viktor Frankl wrote in recalling the role of humor as a lifeline to sanity and survival in the Holocaust. Humor is a fundamental human freedom: To laugh is to protect ourselves from all that dehumanizes us — tyranny and transactionalism, captivity and commodification. Humor is also fundamental to free societies, to freedom of thought, to democ",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

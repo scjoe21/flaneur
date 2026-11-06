@@ -1,24 +1,8 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-06T11:43:23.163837+00:00",
+  "fetchedAt": "2026-11-06T20:48:57.432874+00:00",
   "items": [
-    {
-      "title": "How your brain’s hemispheres actually work",
-      "url": "https://bigthink.com/the-well/how-your-brains-hemispheres-actually-work/",
-      "description": "Neuropsychiatrist Iain McGilchrist has spent over three decades studying how the brain’s two hemispheres shape consciousness, and says almost everything we think we know about them is wrong. The “logical left, creative right” story that took hold in the 1980s and ’90s was never accurate. McGilchrist traces this back to a basic survival problem — how to eat without being eaten — and argues the right hemisphere’s mode of understanding, grounded in context and nuance, gets us closer to reality than",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/The_Well_Ian_McGilchrist_S1_Web.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 50,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 50
-      }
-    },
     {
       "title": "Life is the most important problem in physics",
       "url": "https://bigthink.com/series/full-interview/life-machine-frank/",
@@ -49,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "The laws of the universe are unable to explain these origin mysteries",
+      "url": "https://bigthink.com/series/full-interview/origin-life-davies/",
+      "description": "Physicist and cosmologist Paul Davies, author of The Demon in the Machine, argues that the deepest mystery of life’s origin is how chemistry came to write its own code. \n Davies traces the question from Aristotle and Schrödinger’s “aperiodic crystal” to Maxwell’s demon, Michael Levin’s two-headed flatworms, and the possibility of a shadow biosphere hiding on Earth. \n This video  The laws of the universe are unable to explain these origin mysteries  is featured on  Big Think .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/A1-Web-Davies.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -116,16 +116,16 @@
       }
     },
     {
-      "title": "What natural object is the roundest in the Universe?",
-      "url": "https://bigthink.com/starts-with-a-bang/natural-object-roundest-universe/",
-      "description": "Here on planet Earth, we normally think of our own home world as round, and yet  it’s anything but a perfect sphere . If it were made of a perfect fluid, didn’t rotate, and completely isolated from other masses that exert tidal forces on it (like the Sun and the Moon), it would be theoretically be massive enough to pull itself into a perfectly spherical shape, but that doesn’t line up with physical reality. The Earth instead is made of non-uniform material, has several interior layers that subdu",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/1479401984-cover-image-l.jpg?quality=85&w=640",
+      "title": "Dads are spending 3x more time with their kids",
+      "url": "https://bigthink.com/series/conversations/darby-saxbe-dad-brain/",
+      "description": "Becoming a father physically changes a man’s brain — and the more caregiving he does, the more it changes. USC psychologist Darby Saxbe, author of Dad Brain, explains what that means for dads, partners, and anyone deciding whether to have kids. \n This video  Dads are spending 3x more time with their kids  is featured on  Big Think .",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/CL3-Darby-Sabe-1-for-website-1.png?quality=80&w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

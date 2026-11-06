@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-06T11:43:34.041994+00:00",
+  "fetchedAt": "2026-11-06T20:49:09.504253+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "Reconceptualising Causality | Avshalom Elitzur",
-      "url": "https://www.youtube.com/watch?v=l8oJ878kJ64",
-      "description": "Avshalom Elitzur discusses quantum mechanics and the nature of reality.\n\nDo you think that cause can come before effect?\n\nWatch more content like this now at https://iai.tv/video/quantum-measurement-influences-the-past-with-avshalom-elitzur?utm_source=YouTube&utm_medium=description\n\nWe think that the future follows the past; causes preceed effects. But theoretical physicist Avshalom Elitzur argues that quantum physics alters our conception of time and causation: a measurement done in the present",
-      "date": "2026-10-17",
-      "thumbnail": "https://i1.ytimg.com/vi/l8oJ878kJ64/hqdefault.jpg",
-      "videoId": "l8oJ878kJ64",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "Why philosophy isn't politically neutral | Christoph Schuringa",
       "url": "https://www.youtube.com/watch?v=hbXtrZ_QM8g",
       "description": "Christoph Schuringa discusses the political history of modern philosophy\n\nHas philosophy lost its political purpose?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-hostile-takeover-of-philosophy-with-christoph-schuringa\n\nAnalytic philosophy took over the Western world; but its rise wasn't purely a matter of ideas. In this interview, philosopher Christoph Schuringa uncovers less of an intellectual victory than a hostile takeover: social and political forces, inclu",
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "How do we differentiate strands of feminism? | Stock, Salami, Jones",
+      "url": "https://www.youtube.com/shorts/XJHquM-PjF8",
+      "description": "",
+      "date": "2026-11-06",
+      "thumbnail": "https://i1.ytimg.com/vi/XJHquM-PjF8/hqdefault.jpg",
+      "videoId": "XJHquM-PjF8",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

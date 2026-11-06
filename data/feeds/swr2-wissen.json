@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-06T11:43:30.698353+00:00",
+  "fetchedAt": "2026-11-06T20:49:06.140357+00:00",
   "items": [
     {
       "title": "\"Oh wie süß\" – Was Niedlichkeit mit uns macht",
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "KI als Dolmetscher – Wozu noch Fremdsprachen lernen?",
+      "url": "https://www.swr.de/swrkultur/wissen/ki-als-dolmetscher-wozu-noch-fremdsprachen-lernen-100.html",
+      "description": "KI kann Nachrichten oder technische Texte gut übersetzen, hat aber ihre Grenzen bei Literatur, Comics oder Poesie. Und wer eine Sprache lernt, tut etwas für seine Kognition.",
+      "date": "Sat, 7 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Flamingo-Proteste in Albanien – Gegen Korruption und Kushner",
       "url": "https://www.swr.de/swrkultur/wissen/flamingo-proteste-in-albanien-gegen-korruption-und-kushner-100.html",
       "description": "Die \"Flamingo-Proteste\" in Albanien wenden sich gegen Korruption, Vetternwirtschaft und die Regierung von Edi Rama. Auslöser war ein umstrittenes Luxusprojekt von Jared Kushner.",
@@ -200,22 +216,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/buerger-beteiligen-was-fuer-eine-demokratie-wollen-die-buerger-100.html",
       "description": "Die Eskalation um Stuttgart 21 hat weit über Baden-Württemberg hinaus zu einem Umdenken geführt. Auch andere Länder setzen verstärkt auf Bürgerbeteiligung. Mit positiven Effekten.",
       "date": "Sun, 25 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Versorgungslücke in der Psychotherapie – Ist KI eine Lösung?",
-      "url": "https://www.swr.de/swrkultur/wissen/versorgungsluecke-in-der-psychotherapie-ist-ki-eine-loesung-100.html",
-      "description": "Immer mehr Menschen mit psychischen Problemen suchen Hilfe bei Chatbots – seriöse KI-Angebote können überbrücken, ersetzen aber keine Psychotherapie.",
-      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

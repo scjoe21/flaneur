@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-11-06T11:43:04.165580+00:00",
+  "fetchedAt": "2026-11-06T20:48:30.131380+00:00",
   "items": [
     {
       "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 4/4 : \"Nous voulons être les poètes de notre vie\"",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Pour une philosophie de la lecture 2/4 : Méfiez-vous des femmes qui lisent !",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/mefiez-vous-des-femmes-qui-lisent-2106766",
-      "description": "durée : 00:58:54  - Avec philosophie - par : Géraldine Mosna-Savoye - Pourquoi l’accusation de dangerosité de la lecture est-elle dirigée envers les femmes au XIXᵉ siècle ?   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert - invités : Judith Lyon-Caen Historienne, directrice d'études à l'EHESS \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
       }
     },
     {
@@ -132,6 +116,22 @@
       }
     },
     {
+      "title": "Pour une philosophie de la lecture 2/3 : Méfiez-vous des femmes qui lisent !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/mefiez-vous-des-femmes-qui-lisent-2106766",
+      "description": "durée : 00:58:54  - Avec philosophie - par : Géraldine Mosna-Savoye - Au XIXème, on se méfiait des \"mauvaises lectures\" et des \"mauvaises lectrices\", ces femmes faibles susceptibles d'être contaminées par des intrigues de mariage raté et de pacte avec le diable. Mais n'est-ce pas là pourtant ce qu'on attend d'un livre, sa capacité à nous contaminer, nous transformer ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline ",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "\"La technique et la science comme 'idéologie'\" de Jürgen Habermas par la sociologue Dominique Méda",
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:58:21  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - La sociologue et philosophe Dominique Méda évoque un texte au titre pas forcément engageant mais d'une  actualité bouleversante : \"La technique et la science comme 'idéologie'\" de Jürgen Habermas. Avec cette question : comment lutter contre l'économicisation et la dépolitisation de nos sociétés ?  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel \n\nVous aimez ce podcast ? Pour écouter tous les é",
@@ -164,7 +164,7 @@
       }
     },
     {
-      "title": "Pour une philosophie de la lecture 1/4 : Sartre : le lecteur est-il forcément un petit bourgeois ?",
+      "title": "Pour une philosophie de la lecture 1/3 : Sartre : le lecteur est-il forcément un petit bourgeois ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-lundi-02-novembre-2026-2534025",
       "description": "durée : 00:58:16  - Avec philosophie - par : Géraldine Mosna-Savoye - Chaque année, au début de l'automne, avec les premiers frimas tombent non pas la pluie mais les prix littéraires. La lecture a beau être un débat, elle est toujours au coeur de nos vies. Le bon moment pour un épisode sur le lecteur engagé selon Sartre, car pour lui, pas de livre sans lecteurice.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haie",
       "date": "Mon, 02 Nov 2026",
@@ -180,7 +180,7 @@
       }
     },
     {
-      "title": "Pour une philosophie de la lecture 3/4 : A-t-on vraiment lu tant qu’on n’a pas relu ?",
+      "title": "Pour une philosophie de la lecture 3/3 : A-t-on vraiment lu tant qu’on n’a pas relu ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/a-t-on-vraiment-lu-tant-qu-on-n-a-pas-relu-4654816",
       "description": "durée : 00:58:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Et vous, avez-vous déjà relu votre roman préféré, celui qui vous a laissé la plus grande des impressions ? Que recherche-t-on dans une relecture ? Une émotion, ou un moment ? Et si relire était le seul moyen de lire, vraiment ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Laure Murat Historienne et écrivaine française \n\nVous a",
       "date": "Wed, 04 Nov 2026",

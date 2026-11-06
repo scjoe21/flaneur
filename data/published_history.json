@@ -1,285 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W20",
-      "tags": [
-        "고독",
-        "공적존재",
-        "디지털노년",
-        "인식론",
-        "실재",
-        "의심",
-        "복종",
-        "권위",
-        "판단의포기",
-        "오리엔탈리즘",
-        "집단환원",
-        "존재의여백",
-        "초점실천",
-        "기술과일상",
-        "음식의미",
-        "수사학",
-        "정치적판단",
-        "감정과이성",
-        "금융적허무주의",
-        "베팅문화",
-        "미래의상품화",
-        "공론장붕괴",
-        "정보통제",
-        "정당성위기",
-        "문화노동",
-        "소명과직업",
-        "창조의상품화",
-        "유머철학",
-        "코미디",
-        "웃음의윤리",
-        "즉흥성",
-        "자유",
-        "일상의균열",
-        "자아",
-        "관계론",
-        "참여존재론",
-        "몸의지각",
-        "이동불안",
-        "현존의불일치",
-        "협력의역설",
-        "공동체경제",
-        "생태적경쟁",
-        "후회",
-        "용서",
-        "불가역성"
-      ],
-      "articles": [
-        {
-          "title": "노인들은 왜 스마트폰을 놓지 못하는가",
-          "summary": "디지털 소외의 반대편, 노인 세대의 화면 집착이 드러내는 고독의 풍경",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "고독",
-            "공적존재",
-            "디지털노년"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/reseaux-sociaux-smartphones-pourquoi-les-seniors-sont-ils-devenus-accro-aux-ecrans",
-          "originalTitle": "Réseaux sociaux, smartphones… Pourquoi les seniors sont-ils devenus accro aux écrans ?"
-        },
-        {
-          "title": "빨간 약이냐 파란 약이냐: 선택의 환상",
-          "summary": "매트릭스의 그 장면이 지금도 우리를 사로잡는 이유는 무엇인가?",
-          "philosopher": "데카르트 (Rene Descartes)",
-          "philosophers": [
-            "데카르트 (Rene Descartes)"
-          ],
-          "tags": [
-            "인식론",
-            "실재",
-            "의심"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=lo7iJnq_U9M",
-          "originalTitle": "Pourquoi cette histoire de pilules nous rend fou"
-        },
-        {
-          "title": "명령이 떨어지면, 우리는 복종한다",
-          "summary": "밀그램 실험이 60년이 지난 지금도 불편한 이유는 무엇인가?",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "복종",
-            "권위",
-            "판단의포기"
-          ],
-          "sourceUrl": "https://www.youtube.com/shorts/16vl46yTVGA",
-          "originalTitle": "L'expérience de Milgram"
-        },
-        {
-          "title": "꿈꿀 공간이 없는 사람들",
-          "summary": "누군가의 존재 전체가 '집단의 대표'로 읽힐 때, 우리는 무엇을 잃는가?",
-          "philosopher": "에드워드 사이드 (Edward Said)",
-          "philosophers": [
-            "에드워드 사이드 (Edward Said)"
-          ],
-          "tags": [
-            "오리엔탈리즘",
-            "집단환원",
-            "존재의여백"
-          ],
-          "sourceUrl": "https://www.hoheluft-magazin.de/2022/09/warum-wir-raeume-zum-traeumen-brauchen/",
-          "originalTitle": "Warum wir Räume zum Träumen brauchen"
-        },
-        {
-          "title": "우리가 먹는 것은 음식인가 실험인가",
-          "summary": "편의식품이 밥상을 점령한 시대, 먹는다는 행위는 무엇을 잃었는가?",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "초점실천",
-            "기술과일상",
-            "음식의미"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=8VFFaMrxuxM",
-          "originalTitle": "So gefährlich sind Fertiggerichte für unsere Gesundheit | NANO Doku"
-        },
-        {
-          "title": "우리는 왜 틀린 사람을 따르는가",
-          "summary": "카리스마는 내용을 이긴다—그런데 그 승리는 어떻게 작동하는가?",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "수사학",
-            "정치적판단",
-            "감정과이성"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=yvZiO8v2Hlg",
-          "originalTitle": "Warum wir den falschen Menschen folgen | NANO Doku"
-        },
-        {
-          "title": "재난에 베팅하는 시대의 허무주의",
-          "summary": "미래를 예측한다는 행위가 어느 순간 미래를 소비하는 놀이가 되었다",
-          "philosopher": "니체 (Friedrich Nietzsche)",
-          "philosophers": [
-            "니체 (Friedrich Nietzsche)"
-          ],
-          "tags": [
-            "금융적허무주의",
-            "베팅문화",
-            "미래의상품화"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=SLAEDgfMdSg",
-          "originalTitle": "Il Nichilismo Finanziario, l'Azzardo sul Futuro e la spaventosa ascesa di Polymarket"
-        },
-        {
-          "title": "인터넷이 끊긴 제국의 침묵",
-          "summary": "디지털 차단이 국가의 붕괴를 가속하는 역설, 정보통제는 왜 역효과를 낳는가",
-          "philosopher": "하버마스 (Jurgen Habermas)",
-          "philosophers": [
-            "하버마스 (Jurgen Habermas)"
-          ],
-          "tags": [
-            "공론장붕괴",
-            "정보통제",
-            "정당성위기"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=OY70MvyXty8",
-          "originalTitle": "Mosca senza internet, senza soldi, senza Futuro: come Putin ha distrutto l'avvenire della Russia"
-        },
-        {
-          "title": "좋아하는 일을 직업으로 삼을 때의 대가",
-          "summary": "열정을 직업으로 바꾸는 순간, 우리는 무엇을 잃고 무엇을 얻는가",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "문화노동",
-            "소명과직업",
-            "창조의상품화"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=NTQNVmTAwi8",
-          "originalTitle": "Lavoro culturale: bilanciare vocazione e  concretezza"
-        },
-        {
-          "title": "웃음은 우리에게 좋은 것인가",
-          "summary": "킥킥거리는 그 순간, 철학자들은 무엇을 보았는가?",
-          "philosopher": "플라톤 (Plato)",
-          "philosophers": [
-            "플라톤 (Plato)",
-            "아리스토텔레스 (Aristotle)",
-            "홉스 (Thomas Hobbes)",
-            "베르그송 (Henri Bergson)"
-          ],
-          "tags": [
-            "유머철학",
-            "코미디",
-            "웃음의윤리"
-          ],
-          "sourceUrl": "https://philosophynow.org/issues/173/Is_Comedy_Good_for_Us",
-          "originalTitle": "Is Comedy Good for Us?"
-        },
-        {
-          "title": "계획 없이 살아도 되는가",
-          "summary": "즉흥적 행동은 자유인가, 아니면 또 다른 환상인가?",
-          "philosopher": "헤겔 (Hegel)",
-          "philosophers": [
-            "헤겔 (Hegel)",
-            "사르트르 (Jean-Paul Sartre)"
-          ],
-          "tags": [
-            "즉흥성",
-            "자유",
-            "일상의균열"
-          ],
-          "sourceUrl": "",
-          "originalTitle": "Spontaneity"
-        },
-        {
-          "title": "나는 관계 이전에 존재하는가",
-          "summary": "우리가 먼저인지 나가 먼저인지, 당신은 어느 쪽인가?",
-          "philosopher": "데카르트 (Rene Descartes)",
-          "philosophers": [
-            "데카르트 (Rene Descartes)"
-          ],
-          "tags": [
-            "자아",
-            "관계론",
-            "참여존재론"
-          ],
-          "sourceUrl": "https://aeon.co/essays/lucien-levy-bruhl-and-the-emergence-of-personhood",
-          "originalTitle": "To be is to participate"
-        },
-        {
-          "title": "이 자리에 있으면 안 될 것 같은 느낌",
-          "summary": "책상 앞에서 갑자기 엄습하는 불안, 그것은 몸이 보내는 철학적 신호다",
-          "philosopher": "하이데거 (Martin Heidegger)",
-          "philosophers": [
-            "하이데거 (Martin Heidegger)",
-            "메를로퐁티 (Maurice Merleau-Ponty)"
-          ],
-          "tags": [
-            "몸의지각",
-            "이동불안",
-            "현존의불일치"
-          ],
-          "sourceUrl": "https://bigthink.com/mini-philosophy/zugunruhe-the-restless-sign-that-something-needs-to-change/",
-          "originalTitle": "Zugunruhe: The restless sign that something needs to change"
-        },
-        {
-          "title": "경쟁자를 도울 때 내가 더 강해진다",
-          "summary": "지진 이후 폐허가 된 마을이 보여준 역설—적을 살려야 내가 산다",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "협력의역설",
-            "공동체경제",
-            "생태적경쟁"
-          ],
-          "sourceUrl": "https://bigthink.com/the-long-game/how-helping-your-rivals-makes-you-harder-to-beat/",
-          "originalTitle": "How helping your rivals makes you harder to beat"
-        },
-        {
-          "title": "후회는 왜 밤에 더 크게 찾아오는가",
-          "summary": "지나간 일을 반복해서 되감는 마음—후회는 기억의 오작동인가, 윤리의 증거인가",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)",
-            "버나드 윌리엄스 (Bernard Williams)"
-          ],
-          "tags": [
-            "후회",
-            "용서",
-            "불가역성"
-          ],
-          "sourceUrl": "https://dailystoic.com/how-to-deal-with-regret-3-stoic-strategies-to-live-free/",
-          "originalTitle": "How To Deal With Regret ( 3 Stoic Strategies to Live Free)"
-        }
-      ]
-    },
-    {
       "week": "2026-W21",
       "tags": [
         "화폐",
@@ -7234,6 +6955,281 @@
           ],
           "sourceUrl": "https://wired.jp/article/sz-brain-focused-ultrasoun/",
           "originalTitle": "彼女の壊れた脳を治したのは超音波だった"
+        }
+      ]
+    },
+    {
+      "week": "2026-W46",
+      "tags": [
+        "부의 불평등",
+        "리미타리즘",
+        "자본과 민주주의",
+        "충실함",
+        "타자의 윤리",
+        "관계와 현존",
+        "자발적 복종",
+        "자유",
+        "권력",
+        "패션",
+        "질서",
+        "몸",
+        "노화",
+        "생물학적 나이",
+        "귀여움",
+        "감정 과부하",
+        "진화 심리학",
+        "기후 불안",
+        "솔라스탤지아",
+        "환경 감정",
+        "젠더",
+        "도시",
+        "산책",
+        "인식론",
+        "생태 위기",
+        "다원적 지식",
+        "애도",
+        "상실",
+        "이름 없는 슬픔",
+        "진화",
+        "생명의 행위성",
+        "후성유전학",
+        "속도",
+        "AI 경쟁",
+        "미독서",
+        "지식의 한계",
+        "지적 겸손",
+        "돌봄",
+        "아버지",
+        "뇌과학과 정체성",
+        "나눔",
+        "자아",
+        "관대함",
+        "저널리즘",
+        "AI 에이전트",
+        "공론장",
+        "단경기",
+        "노동의 리듬",
+        "환경과 주체",
+        "문학과 현상",
+        "팬덤",
+        "현재의 기록"
+      ],
+      "articles": [
+        {
+          "title": "억만장자의 돈은 깨끗할 수 있는가",
+          "summary": "세계 최대 부호들의 재산에는 얼마나 많은 불법의 흔적이 남아 있는가?",
+          "philosopher": "잉그리드 로베인스 (Ingrid Robeyns)",
+          "tags": [
+            "부의 불평등",
+            "리미타리즘",
+            "자본과 민주주의"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=dTGtuJo-Lxw",
+          "originalTitle": "Le casier judiciaire des milliardaires (Limitarisme)"
+        },
+        {
+          "title": "불륜은 어디서 시작되는가",
+          "summary": "육체적 접촉 이전에 이미 배신이 일어날 수 있다면, 충실함이란 무엇인가?",
+          "philosopher": "에마뉘엘 레비나스 (Emmanuel Lévinas)",
+          "tags": [
+            "충실함",
+            "타자의 윤리",
+            "관계와 현존"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/cDrU6VONM5Y",
+          "originalTitle": "La vraie infidélité"
+        },
+        {
+          "title": "복종은 왜 이토록 자연스러운가",
+          "summary": "우리는 왜 아무도 강요하지 않는데 스스로 고개를 숙이는가?",
+          "philosopher": "에티엔 드 라 보에시 (Étienne de La Boétie)",
+          "tags": [
+            "자발적 복종",
+            "자유",
+            "권력"
+          ],
+          "sourceUrl": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/la-boetie-au-pouvoir-faut-il-apprendre-a-desobeir-7494565",
+          "originalTitle": "La Boétie au pouvoir : retrouvons le goût de la liberté"
+        },
+        {
+          "title": "옷은 왜 개성이 아닌 질서의 언어인가",
+          "summary": "패션이 자유의 표현이라는 믿음, 그것은 처음부터 착각이었을지 모른다",
+          "philosopher": "다이애나 바이스 (Diana Weis)",
+          "tags": [
+            "패션",
+            "권력",
+            "질서"
+          ],
+          "sourceUrl": "https://www.deutschlandfunk.de/kleider-machen-macht-eine-politische-geschrichte-der-mode-100.html",
+          "originalTitle": "Kleider machen Macht – Eine politische Geschichte der Mode"
+        },
+        {
+          "title": "몸의 나이는 달력이 모른다",
+          "summary": "심장은 50살인데 뇌는 35살—생물학적 나이가 흔드는 존재의 단일성",
+          "philosopher": "한스 게오르크 가다머 (Hans-Georg Gadamer)",
+          "tags": [
+            "몸",
+            "노화",
+            "생물학적 나이"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/wie-alt-ist-unser-koerper-wirklich-100.html",
+          "originalTitle": "Wie alt ist unser Körper wirklich?"
+        },
+        {
+          "title": "귀여움이 우리를 사로잡는 이유",
+          "summary": "아기 얼굴을 보면 왜 꼭 쥐어짜고 싶어지는가—귀여움의 역설이 드러내는 감정의 철학",
+          "philosopher": "콘라트 로렌츠 (Konrad Lorenz)",
+          "tags": [
+            "귀여움",
+            "감정 과부하",
+            "진화 심리학"
+          ],
+          "sourceUrl": "https://www.swr.de/swrkultur/wissen/oh-wie-suess-was-niedlichkeit-mit-uns-macht-100.html",
+          "originalTitle": "\"Oh wie süß\" – Was Niedlichkeit mit uns macht"
+        },
+        {
+          "title": "기후 불안이라는 새로운 마음의 병",
+          "summary": "맑은 날씨에도 죄책감을 느끼는 사람들—환경 위기가 만들어낸 감정의 지형도",
+          "philosopher": "글렌 알브레히트 (Glenn Albrecht)",
+          "tags": [
+            "기후 불안",
+            "솔라스탤지아",
+            "환경 감정"
+          ],
+          "sourceUrl": "https://www.doppiozero.com/ecoansia-e-nuove-malattie-dellanima",
+          "originalTitle": "Ecoansia e nuove malattie dell'anima"
+        },
+        {
+          "title": "도시를 걷는 여자들의 철학",
+          "summary": "플라뇌르는 항상 남자였다—그 시선에서 배제된 여성의 도시 경험을 다시 묻다",
+          "philosopher": "로런 엘킨 (Lauren Elkin)",
+          "tags": [
+            "젠더",
+            "도시",
+            "산책"
+          ],
+          "sourceUrl": "https://www.leparoleelecose.it/la-flaneuse-dal-testo-letterario-alla-citta-contemporanea/",
+          "originalTitle": "La flâneuse. Dal testo letterario alla città contemporanea"
+        },
+        {
+          "title": "지식을 아는 방법은 하나가 아니다",
+          "summary": "소설가이자 역사가인 아미타브 고시가 말하는 '다른 앎의 방식'이란 무엇인가?",
+          "philosopher": "아미타브 고시 (Amitav Ghosh)",
+          "tags": [
+            "인식론",
+            "생태 위기",
+            "다원적 지식"
+          ],
+          "sourceUrl": "https://www.leparoleelecose.it/ci-sono-altri-modi-di-conoscere-conversazione-con-amitav-ghosh/",
+          "originalTitle": "“Ci sono altri modi di conoscere”. Conversazione con Amitav Ghosh"
+        },
+        {
+          "title": "이름 없는 슬픔을 어떻게 애도할까",
+          "summary": "죽음 없이도 우리는 잃는다—그 상실에 언어가 없을 때 우리는 어디로 가는가",
+          "philosopher": "데렉 반 주넨 (Derek van Zoonen)",
+          "tags": [
+            "애도",
+            "상실",
+            "이름 없는 슬픔"
+          ],
+          "sourceUrl": "https://aeon.co/essays/we-need-a-language-to-name-the-grief-that-comes-without-death",
+          "originalTitle": "Love with nowhere to go"
+        },
+        {
+          "title": "라마르크는 왜 틀렸다고 배웠는가",
+          "summary": "조롱받던 생물학자의 이론이 되살아난다—유기체는 환경을 받아들이기만 하는가",
+          "philosopher": "장바티스트 라마르크 (Jean-Baptiste Lamarck)",
+          "tags": [
+            "진화",
+            "생명의 행위성",
+            "후성유전학"
+          ],
+          "sourceUrl": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
+          "originalTitle": "The self-making world"
+        },
+        {
+          "title": "속도가 권력이 될 때 우리는 무엇을 잃는가",
+          "summary": "AI 경쟁의 시대, 빠름 자체가 목적이 된 세계를 철학자는 이미 경고했다",
+          "philosopher": "폴 비릴리오 (Paul Virilio)",
+          "tags": [
+            "속도",
+            "AI 경쟁",
+            "권력"
+          ],
+          "sourceUrl": "https://theconversation.com/how-a-french-philosophers-warnings-about-speed-and-power-describe-todays-ai-race-295532",
+          "originalTitle": "How a French philosopher’s warnings about speed and power describe today’s AI race"
+        },
+        {
+          "title": "읽지 않은 책이 더 가치 있다",
+          "summary": "서재에 쌓인 미독서들, 그것은 무지의 증거가 아니라 앎의 지도다",
+          "philosopher": "움베르토 에코 (Umberto Eco)",
+          "tags": [
+            "미독서",
+            "지식의 한계",
+            "지적 겸손"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/11/05/umberto-eco-antilibrary/",
+          "originalTitle": "Umberto Eco’s Antilibrary: Why Unread Books Are More Valuable to Our Lives than Read Ones"
+        },
+        {
+          "title": "아버지의 뇌는 어떻게 바뀌는가",
+          "summary": "아이를 돌볼수록 아버지의 뇌는 실제로 달라진다—그 변화가 말하는 것은 무엇인가?",
+          "philosopher": "",
+          "tags": [
+            "돌봄",
+            "아버지",
+            "뇌과학과 정체성"
+          ],
+          "sourceUrl": "https://bigthink.com/series/conversations/darby-saxbe-dad-brain/",
+          "originalTitle": "Dads are spending 3x more time with their kids"
+        },
+        {
+          "title": "이기심이 곧 관대함이 될 때",
+          "summary": "자신의 것을 지키려 할수록 오히려 더 많이 잃는다는 역설, C.S. 루이스가 발견한 나눔의 비밀",
+          "philosopher": "C.S. 루이스 (C.S. Lewis)",
+          "tags": [
+            "나눔",
+            "자아",
+            "관대함"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/11/05/interesting/",
+          "originalTitle": "The Generosity of Selfishness: C.S. Lewis on How to Be Interesting"
+        },
+        {
+          "title": "AI가 기자가 되려 한다",
+          "summary": "취재 기획서를 쓰고 편집자에게 판매하려는 AI 에이전트, 저널리즘의 본질을 묻다",
+          "philosopher": "월터 리프먼 (Walter Lippmann)",
+          "tags": [
+            "저널리즘",
+            "AI 에이전트",
+            "공론장"
+          ],
+          "sourceUrl": "https://wired.jp/article/ai-agents-are-trying-to-be-journalists-now/",
+          "originalTitle": "ジャーナリストになりたいAIエージェントたち"
+        },
+        {
+          "title": "농부의 9월은 왜 절망인가",
+          "summary": "계절의 틈새에서 살아가는 농부의 고투가 드러내는 시간과 노동의 철학",
+          "philosopher": "호세 오르테가 이 가세트 (José Ortega y Gasset)",
+          "tags": [
+            "단경기",
+            "노동의 리듬",
+            "환경과 주체"
+          ],
+          "sourceUrl": "https://kangaeruhito.jp/article/764403",
+          "originalTitle": "第2回　生落花生の皮肉"
+        },
+        {
+          "title": "소설가는 왜 시대를 앞서지 않으려 하는가",
+          "summary": "현상을 기록하는 작가의 시선이 묻는 것—문학은 예언인가, 동행인가?",
+          "philosopher": "발터 벤야민 (Walter Benjamin)",
+          "tags": [
+            "문학과 현상",
+            "팬덤",
+            "현재의 기록"
+          ],
+          "sourceUrl": "https://wired.jp/article/wired-innovation-awards-2026-ryo-asai/",
+          "originalTitle": "朝井リョウ（小説家）：同じ時代のなかで惑い、“現象”を書き留める"
         }
       ]
     }
