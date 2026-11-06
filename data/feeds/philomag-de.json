@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-06T20:48:37.276745+00:00",
+  "fetchedAt": "2026-11-06T23:28:51.058254+00:00",
   "items": [
     {
       "title": "Wie wir die Welt sehen",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "Hendrik Bolz: „Ich war lange beseelt von dem Wunsch, hart zu sein“",
-      "url": "https://www.philomag.de/artikel/hendrik-bolz-ich-war-lange-beseelt-von-dem-wunsch-hart-zu-sein",
-      "description": "Harte Männer werden heute zunehmend als Problem betrachtet. Als toxisch. Wie aber fühlt sich so eine Männlichkeit für diejenigen an, die sie leben? Und warum bleibt sie für viele erstrebenswert? Der Musiker und Autor Hendrik Bolz blickt zurück auf seine eigene Jugend und erklärt, wie sein Männlichkeitsbild Quelle von Halt und Schmerz zugleich war.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
       }
     },
     {
@@ -100,16 +84,16 @@
       }
     },
     {
-      "title": "Die neue Ausgabe: Die Weisheit der Jugend",
-      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-die-weisheit-der-jugend",
-      "description": "Die Jugend ist eine Zwischenphase. Die Kindheit ist vorbei, das Erwachsensein noch nicht greifbar. Welche spezifische Erkenntniskraft ist mit diesem Dazwischen verbunden? Wie kann uns ein junger Blick auf die Welt helfen, die blinden Flecke unserer Zeit wahrzunehmen? Was lässt sich schon heute von jenen lernen, die dereinst unsere Zukunft gestalten? Hier geht's zur  umfangreichen Heftvorschau !",
+      "title": "Blaise Pascal",
+      "url": "https://www.philomag.de/artikel/blaise-pascal",
+      "description": "Der Mensch ist zum Irrtum verdammt, schreibt Blaise Pascal. Warum soll uns ausgerechnet göttliche Gnade einen Ausweg bieten?",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -148,38 +132,6 @@
       }
     },
     {
-      "title": "Strahlende Zukunft",
-      "url": "https://www.philomag.de/artikel/strahlende-zukunft",
-      "description": "Neue Sensoren für die Nachverfolgung von Waren funktionieren nach einem fotosyntheseähnlichen Prinzip.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Haltung als Selbstschutz",
-      "url": "https://www.philomag.de/artikel/haltung-als-selbstschutz",
-      "description": "Gerade in Nahbeziehungen sind Menschen leicht verletzbar. Wie sich schützen, ohne sich zu verpanzern? Unsere Kolumnistin Millay Hyatt plädiert für innere Festigkeit.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Die Amerikanisierung der USA",
       "url": "https://www.philomag.de/artikel/die-amerikanisierung-der-usa",
       "description": "Die Hispanics werden diese Midterm Elections entscheiden – und noch viele weitere Wahlen. Denn sie sind die Avantgarde des Zusammenwachsens beider Amerikas, an dessen Ende die nordamerikanische Union steht.",
@@ -212,9 +164,57 @@
       }
     },
     {
-      "title": "bell hooks und der Widerstand",
-      "url": "https://www.philomag.de/artikel/bell-hooks-und-der-widerstand",
-      "description": "Widerstand, so die Überzeugung der Theoretikerin und Aktivistin bell hooks, erschöpft sich nicht im Dagegensein. Vielmehr ist seine Grundlage die Liebe – verstanden als Entscheidung für Verbundenheit und Fürsorge. Ein Essay über leidvolle Erfahrungen als Quelle von Erkenntnis und die subversive Kraft des Dafürseins.",
+      "title": "Die Lücken des Archivs",
+      "url": "https://www.philomag.de/artikel/die-luecken-des-archivs",
+      "description": "Das Museum Ludwig in Köln setzt sich anlässlich seines 50-jährigen Bestehens mit den Leerstellen der eigenen Sammlung kritisch auseinander und entwickelt mit Werken afroamerikanischer Künstler der Harlem Renaissance eine Gegenerzählung zur europäischen Kunstgeschichte.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Wir wissen, was du dir wünschst",
+      "url": "https://www.philomag.de/artikel/wir-wissen-was-du-dir-wuenschst",
+      "description": "Wenn es dunkel wird: Die Redaktion empfiehlt acht Bücher zu Weihnachten, die erhellen, zu denken geben, trösten oder wach rütteln.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Wissen Betroffene mehr?",
+      "url": "https://www.philomag.de/artikel/wissen-betroffene-mehr",
+      "description": "Empathie und Intellekt erlauben es uns, die Erfahrungen anderer nachzuvollziehen. Doch wo liegen die Grenzen unseres Einfühlungsvermögens? Wissen die Ausgegrenzten und Unterdrückten etwas, was andere nie verstehen werden?",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Relikt der Gabe",
+      "url": "https://www.philomag.de/artikel/relikt-der-gabe",
+      "description": "Festgelegte Trinkgeldbeträge an EC-Geräten mehren sich. Doch die Sozialität stiftende Funktion der Gabe geht auf diese Weise verloren.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",

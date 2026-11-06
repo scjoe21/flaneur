@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-06T20:49:18.601169+00:00",
+  "fetchedAt": "2026-11-06T23:29:27.025803+00:00",
   "items": [
     {
       "title": "生江史伸（「レフェルヴェソンス」エグゼクティブシェフ）：「内なる幸福」は、世界の幸福とつながっている",
@@ -84,19 +84,35 @@
       }
     },
     {
-      "title": "ジャーナリストになりたいAIエージェントたち",
-      "url": "https://wired.jp/article/ai-agents-are-trying-to-be-journalists-now/",
-      "description": "自ら取材記事や調査報道の企画を考え、メディアに売り込むボットたちが現れた。人間の記者さながらに仕事を得ようとするAIエージェントに、編集者たちはどう向き合っているのだろうか。",
-      "date": "Thu, 05 Nov 2026",
+      "title": "AIにファンタジーフットボールチームの運営を任せてみた。人間を超える日は近いのか",
+      "url": "https://wired.jp/article/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+      "description": "最新の研究から、AIの予測能力がさらに向上しつつあることが見えてきた。AIエージェントに運営を任せたわたしのファンタジーフットボールチームの成績はいまひとつだったが、それも近い将来、変わるかもしれない。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "ジョン・ターナスがアップルの新CEOに選ばれた理由",
+      "url": "https://wired.jp/article/sz-i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
+      "description": "MacBook Proを発表したばかりのアップルにほころびはなく、波乱も望んでいない。新リーダーはあの“6色の血が流れる”プロダクト人間だ。",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -215,22 +231,6 @@
       "title": "地球は次の氷河期に向かっていた？ その到来を阻んだのは人類のCO2排出か",
       "url": "https://wired.jp/article/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
       "description": "約2,000年前から拡大を続けていた北米の氷床の名残が、1960年代以降、急速に縮小へと転じた。古代の植物の痕跡を調べた研究から、人間が引き起こした地球温暖化が次の氷期の到来を食い止めた可能性が浮かび上がった。",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "冥王星より遠い太陽系外縁部で、新たな準惑星の候補が見つかった",
-      "url": "https://wired.jp/article/rubin-observatory-dwarf-planet-candidate-2026-ed138/",
-      "description": "冥王星よりも遠い領域にある大型で明るい天体を、ヴェラ・C・ルービン天文台が発見した。準惑星であることが確認されれば、これまで太陽系外縁部で見つかったなかでも最大級の例になるという。",
       "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
