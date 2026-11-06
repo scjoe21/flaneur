@@ -1,8 +1,40 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-11-01T21:10:25.683808+00:00",
+  "fetchedAt": "2026-11-06T11:43:38.453953+00:00",
   "items": [
+    {
+      "title": "題名のつけ方とインスマスの「影」について",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/cthulhu_mythos_maker/37496",
+      "description": "序 　わたしが初めてハワード・フィリップス・ラヴクラフトの小説に接したのは、創元推理文庫で最初に出た大西尹明訳『ラヴクラフト傑作集（Howard Philips Lovecraft、1890-1937）』によってだった。 […]",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "「連帯」が語られない日本社会で、社会保障と財政をどう構想すればよいのか？",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/37533",
+      "description": "高額療養費制度などのセーフティネットを社会に張り巡らせて、安定的に維持してゆくためには、当然ながらそれなりの財源が必要だ。その一方で世論調査などによれば、これらの財源を削ぐことを意味する「社会保険料負担の軽減」を訴える […]",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "マルクスとヴェイユ：大工場と疎外された労働",
       "url": "https://shinsho-plus.shueisha.co.jp/column/idonotlikework/37450",
@@ -68,22 +100,6 @@
       }
     },
     {
-      "title": "なぜ今、沖縄を映画で描かなければと思ったのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/inomata_kimyou/37291",
-      "description": "構成／浮島さとし　撮影／五十嵐和博 ───沖縄の現場で取材を重ねてこられた猪股さんが、その記録をこのたび、一本の映画としてまとめ上げられました。構想から完成までは、どれほどの時間をかけられたのでしょう。 猪股　本土復帰5 […]",
-      "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "世界から見た都市・東京の現在地【後編】",
       "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37416",
       "description": "独立研究者/パブリックスピーカーの山口周は、2023年４月21日付のnoteで、パンデミックが都市に与える影響について、次のような考察を記していた。キーワードは「仮想空間へのシフト」だ。論旨の要約は以下になる。 　イン […]",
@@ -116,42 +132,26 @@
       }
     },
     {
+      "title": "「真実の北」 ナハニの地へ──脳科学者、カナダの深奥をゆく",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37459",
+      "description": "今年の夏、カナダのノースウエスト準州にある世界自然遺産、ナハニ国立公園を訪れて、5泊6日の川下りの旅をした。カナダ観光局にお世話になった。 　出発前から、「宇宙」のイメージが私の頭の中にあった。15歳で初めて行った外国 […]",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "第２回　トルコとマレーシア　「西洋化」とどう向き合ったのか",
       "url": "https://shinsho-plus.shueisha.co.jp/interview/naitou_kushimoto/37330",
       "description": "内藤　1990年代にイスラームの復興がトルコにも影響を及ぼしていくなかで出てくる、福祉党というイスラーム主義政党があります。1990年代半ばに一度政権を取るんですが、軍に潰されてしまいます。当時の首相、ネジメッディン・エ […]",
       "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "過疎地と福祉を食いものにする“制度ハック”の罠・後編",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/itikawa_yokoyama/37264",
-      "description": "構成／浮島さとし　撮影／五十嵐和博 ──前編では、採算度外視で現場を支えるべき公金が、制度の隙間を突いたビジネスによって吸い上げられている実態についてうかがいました。一方で、そうした安易な解決策に飛びつかず、地道に地元の […]",
-      "date": "Mon, 26 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "過疎地と福祉を食いものにする“制度ハック”の罠・前編",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/itikawa_yokoyama/37226",
-      "description": "構成／浮島さとし　撮影／五十嵐和博 横山　市川さんが書かれた『障害者福祉ビジネス 食いものにされる税金と利用者』を読ませていただいたのですが、まず圧倒されたのはその取材期間の長さと、積み上げられた物量の厚みでした。ちょっ […]",
-      "date": "Sun, 25 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

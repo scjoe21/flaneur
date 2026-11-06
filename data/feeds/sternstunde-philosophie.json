@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-11-01T21:09:48.281535+00:00",
+  "fetchedAt": "2026-11-06T11:43:12.405800+00:00",
   "items": [
     {
       "title": "Bequeme neue Welt: Verlernen wir das Menschsein? | Sternstunde Philosophie | SRF Kultur",
@@ -32,22 +32,6 @@
         "phil": 25,
         "flaneur": 0,
         "novelty": 5,
-        "total": 55
-      }
-    },
-    {
-      "title": "Wie Tiere den Tod verstehen – und was das über uns verrät | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=-ZwU0_z127s",
-      "description": "Lange galt das Bewusstsein des Todes als letzte Bastion menschlicher Einzigartigkeit. Doch die spanische Philosophin und Tierethikerin Susana Monsó stellt diese Gewissheit infrage. Sie erklärt, was Tiere über den Tod verstehen und warum diese Erkenntnisse unser Bild vom Menschen verändern.\n\nOrcas tragen ihre toten Kälber über Tage durchs Meer, Elefanten kehren zu den Knochen verstorbener Herdenmitglieder zurück, Schimpansen wachen bei ihren Toten. Was sagen solche Verhaltensweisen aus? Handelt e",
-      "date": "2026-08-31",
-      "thumbnail": "https://i2.ytimg.com/vi/-ZwU0_z127s/hqdefault.jpg",
-      "videoId": "-ZwU0_z127s",
-      "priority": 55,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 25,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 55
       }
     },
@@ -148,6 +132,22 @@
       }
     },
     {
+      "title": "Wie geht Abschied? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=65n7LZc-Oyw",
+      "description": "Ein Mensch stirbt, ein Lebensplan zerbricht, der Körper setzt Grenzen, die Gewissheit, in Frieden zu leben, wird brüchig: Abschiede verändern, wer wir sind. Wie lebt man mit diesen Verlusten? Und warum machen uns manche Abschiede lebendiger? Ein Gespräch mit Schriftstellerin Gabriele von Arnim. \n\nThemen in dieser Folge:\n00:00 Was ist das Interessante am Alter?\n09:17 Was geschieht mit all dem, was wir nicht leben können, weil das Leben eben begrenzt ist? \n22:40 Ein persönlicher Schicksalsschlag i",
+      "date": "2026-11-02",
+      "thumbnail": "https://i3.ytimg.com/vi/65n7LZc-Oyw/hqdefault.jpg",
+      "videoId": "65n7LZc-Oyw",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
       "title": "Living Better with Heroin and Cocaine? | Sternstunde Philosophie | SRF Kultur",
       "url": "https://www.youtube.com/watch?v=5xGTwxBeS4o",
       "description": "Carl Hart conducts research on drugs at Columbia University in New York and regularly uses substances such as heroin and cocaine himself. Olivia Röllin speaks with him about addiction and dependency, and the individual’s right to alter their state of consciousness through drugs.\n\nTopics in this episode:\n00:00 What is Carl Hart’s stance on drug use? \n12:20 How Carl Hart’s upbringing led him to this research \n25:10 Does drug use necessarily lead to addiction? \n45:10 Switzerland’s approach to drugs",
@@ -212,19 +212,19 @@
       }
     },
     {
-      "title": "Funktionierst du noch oder lebst du schon? | Sternstunde Philosophie | SRF Kultur",
-      "url": "https://www.youtube.com/watch?v=nzcVZ993xGs",
-      "description": "Die künstliche Intelligenz formuliert die Texte, das Navigationsgerät weist den Weg, der Thermomix kocht, und der Video-Schiedsrichterassistent (VAR) entscheidet, ob ein Fussballtor zählt. Immer mehr Systeme versprechen Entlastung, Präzision und Sicherheit. Der Soziologe Hartmut Rosa sieht darin aber auch einen Verlust: Aus Menschen, die Situationen mit Erfahrung und Urteilskraft gestalten, werden Vollziehende, die vorgegebene Abläufe nur noch abarbeiten und keine Selbstwirksamkeit mehr erleben.",
-      "date": "2026-09-07",
-      "thumbnail": "https://i3.ytimg.com/vi/nzcVZ993xGs/hqdefault.jpg",
-      "videoId": "nzcVZ993xGs",
-      "priority": 25,
+      "title": "KI: Muss ich mitmachen bei dem Hype, Fritz Espenlaub? | Zimmer 42 – mit Barbara Bleisch | Podcast",
+      "url": "https://www.youtube.com/watch?v=bS7PDuQHmjM",
+      "description": "Kaum ein Tag ohne bahnbrechende Neuigkeiten über künstliche Intelligenz. Doch macht KI unser Leben besser? Und was, wenn sie uns gefährlich wird? Tech-Journalist Fritz Espenlaub spricht von der KI als einer Art Experiment, an dem wir alle in Echtzeit teilnehmen. Ob uns das beruhigen soll? \n\nThemen dieser Folge:\n\n00:00 Hat KI ein Bewusstsein?\n08:02 Droht uns durch KI der Weltuntergang?\n17:41 Was ist gemeint mit: «Die KI löscht uns aus»?\n21:01 Wie viel Vertrauen braucht es in einzelne mächtige Men",
+      "date": "2026-11-03",
+      "thumbnail": "https://i3.ytimg.com/vi/bS7PDuQHmjM/hqdefault.jpg",
+      "videoId": "bS7PDuQHmjM",
+      "priority": 20,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 15,
+        "daily": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {

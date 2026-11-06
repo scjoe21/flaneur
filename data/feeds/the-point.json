@@ -1,8 +1,24 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-11-01T21:10:22.274041+00:00",
+  "fetchedAt": "2026-11-06T11:43:34.228836+00:00",
   "items": [
+    {
+      "title": "JD Agonistes",
+      "url": "https://thepointmag.com/politics/jd-agonistes/",
+      "description": "Opportunism is the byword for any politician, really, and it is understandable why it might be particularly tempting to employ in Vance’s case. \n The post  JD Agonistes  appeared first on  The Point Magazine .",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
     {
       "title": "Internal Goods",
       "url": "https://thepointmag.com/politics/internal-goods/",
@@ -136,22 +152,6 @@
       "url": "https://thepointmag.com/criticism/the-perfect-game/",
       "description": "It went on long enough that the crowd curdled and its cheers turned sarcastic. \n The post  The Perfect Game  appeared first on  The Point Magazine .",
       "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Girls Wrestling",
-      "url": "https://thepointmag.com/examined-life/girls-wrestling/",
-      "description": "My daughter joined her school’s newly formed girls’ wrestling team in the seventh grade. Her first tournament was at a high school in Oak Harbor, Ohio. \n The post  Girls Wrestling  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-11-01T21:10:18.277434+00:00",
+  "fetchedAt": "2026-11-06T11:43:31.732999+00:00",
   "items": [
     {
       "title": "Guide to the classics: Machiavelli’s ‘audaciously honest’ The Prince reveals how politics works",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "How a French philosopher’s warnings about speed and power describe today’s AI race",
+      "url": "https://theconversation.com/how-a-french-philosophers-warnings-about-speed-and-power-describe-todays-ai-race-295532",
+      "description": "",
+      "date": "2026-11-04",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Antonio Gramsci: his philosophy explained",
-      "url": "https://theconversation.com/antonio-gramsci-his-philosophy-explained-286341",
-      "description": "",
-      "date": "2026-07-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

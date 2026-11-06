@@ -1,8 +1,24 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-01T21:10:17.318778+00:00",
+  "fetchedAt": "2026-11-06T11:43:30.698353+00:00",
   "items": [
+    {
+      "title": "\"Oh wie süß\" – Was Niedlichkeit mit uns macht",
+      "url": "https://www.swr.de/swrkultur/wissen/oh-wie-suess-was-niedlichkeit-mit-uns-macht-100.html",
+      "description": "Ob Babys, süße Hunde oder Kuscheltiere – runde Gesichter mit großen Augen und Stupsnase fesseln uns. Doch es gibt auch die \"Cute Aggression\" – den Drang, Niedliches zu zerdrücken. Warum reagieren wir so? Von Johanne Burkhardt (SWR 2025) | Manuskript und mehr zur Sendung: http://swr.li/niedlichkeit || Hörtipp: Schön sein – Wie Aussehen unser Leben prägt | https://www.ardaudiothek.de/episode/das-wissen/schoen-sein-wie-aussehen-unser-leben-praegt/swr-kultur/14544357/ || Bei Fragen und Anregungen sc",
+      "date": "Thu, 5 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Horror, Thriller, True Crime – Warum wir uns gerne gruseln",
       "url": "https://www.swr.de/swrkultur/wissen/horror-thriller-true-crime-warum-wir-uns-gerne-gruseln-104.html",
@@ -17,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 34
+      }
+    },
+    {
+      "title": "Waffenschmuggel aus Kriegsgebieten – Gefahr für Europa",
+      "url": "https://www.swr.de/swrkultur/wissen/waffenschmuggel-aus-kriegsgebieten-gefahr-fuer-europa-100.html",
+      "description": "Werden bei einer Razzia Kriegswaffen wie die Kalaschnikow sichergestellt, ist es für die Ermittler schwer, ihre Herkunft nachzuvollziehen und damit die Schmuggler herauszufinden.",
+      "date": "Fri, 6 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -49,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Mauretanien – Wie sich Naturschutz und Fischerei auf Migration auswirken",
+      "url": "https://www.swr.de/swrkultur/wissen/mauretanien-wie-sich-naturschutz-und-fischerei-auf-migration-auswirken-100.html",
+      "description": "In Mauretaniens Nationalpark Banc d’Arguin wachsen die meisten Fische auf, die in Westafrika gefangen werden. Sein Schutz wirkt der Migration entgegen.",
+      "date": "Tue, 3 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -100,34 +148,18 @@
       }
     },
     {
-      "title": "Die Wildkatze ist zurück – Wie Artenschutz gelingt",
-      "url": "https://www.swr.de/swrkultur/wissen/die-wildkatze-ist-zurueck-wie-artenschutz-gelingt-100.html",
-      "description": "Die Europäische Wildkatze braucht naturbelassene Wälder und grüne Korridore, um von einem Waldgebiet ins andere zu gelangen. Studien zeigen: Die Maßnahmen helfen auch anderen Arten.",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Psychologische Sicherheit im Job – Gut und gerne arbeiten",
-      "url": "https://www.swr.de/swrkultur/wissen/psychologische-sicherheit-im-job-gut-und-gerne-arbeiten-104.html",
-      "description": "Studien zeigen: Mitarbeitende, die Fehler zugeben und sich trauen, ihre Meinung zu sagen, arbeiten zuverlässiger und innovativer. Entscheidend ist, was die Führungskraft vorlebt.",
-      "date": "Thu, 22 Oct 2026",
+      "title": "Dyskalkulie – Qualen mit Zahlen",
+      "url": "https://www.swr.de/swrkultur/wissen/dyskalkulie-qualen-mit-zahlen-100.html",
+      "description": "Die Rechenstörung Dyskalkulie betrifft viele Kinder. Eigentlich gibt es gute Therapien und Hilfen, nur werden die oft nicht angewandt.",
+      "date": "Wed, 4 Nov 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 10
       }
     },
@@ -196,42 +228,10 @@
       }
     },
     {
-      "title": "Serbien im Umbruch – Von Uni-Protesten zu Neuwahlen",
-      "url": "https://www.swr.de/swrkultur/wissen/serbien-im-umbruch-von-uni-protesten-zu-neuwahlen-102.html",
-      "description": "Im September 2026 trat Staatspräsident Aleksandar Vučić zurück und kündigte vorgezogene Neuwahlen für den 25. Oktober an: Jetzt will er zum zweiten Mal Ministerpräsident werden.",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Wunschkind Mädchen – Was hinter Gender Disappointment steckt",
       "url": "https://www.swr.de/swrkultur/wissen/wunschkind-maedchen-was-hinter-gender-disappointment-steckt-104.html",
       "description": "Manche Eltern sind enttäuscht, wenn es ein Junge wird. Das Wunschgeschlecht scheint sich in Richtung Mädchen zu verschieben. Töchter gelten als pflegeleichter.",
       "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Raus aus dem Extremismus – Strategien für Rechte und Islamisten",
-      "url": "https://www.swr.de/swrkultur/wissen/raus-aus-dem-extremismus-strategien-fuer-rechte-und-islamisten-100.html",
-      "description": "Die politisch motivierte Kriminalität in Deutschland wächst. Dagegen hilft auch, Extremisten einen Ausstieg aus ihrer Szene zu ermöglichen. Doch das ist aufwendig und der Erfolg vieler Ausstiegsprogramme ungewiss.",
-      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

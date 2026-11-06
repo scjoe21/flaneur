@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-11-01T21:10:22.556413+00:00",
+  "fetchedAt": "2026-11-06T11:43:34.391420+00:00",
   "items": [
     {
       "title": "The Digital Hive and the End of a Common World",
@@ -116,19 +116,19 @@
       }
     },
     {
-      "title": "Sound and Fury Politics",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/sound-and-fury-politics",
-      "description": "Wokeness and hyperpolitics are not the same thing.",
-      "date": "Wed, 26 Aug 2026",
+      "title": "Be More Judgmental",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/be-more-judgmental",
+      "description": "The rejection of language prevents today’s humanists from exercising intellectual authority.",
+      "date": "Wed, 28 Oct 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

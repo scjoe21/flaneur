@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-01T21:10:22.175101+00:00",
+  "fetchedAt": "2026-11-06T11:43:34.041994+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Why philosophy isn't politically neutral | Christoph Schuringa",
+      "url": "https://www.youtube.com/watch?v=hbXtrZ_QM8g",
+      "description": "Christoph Schuringa discusses the political history of modern philosophy\n\nHas philosophy lost its political purpose?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-hostile-takeover-of-philosophy-with-christoph-schuringa\n\nAnalytic philosophy took over the Western world; but its rise wasn't purely a matter of ideas. In this interview, philosopher Christoph Schuringa uncovers less of an intellectual victory than a hostile takeover: social and political forces, inclu",
+      "date": "2026-11-05",
+      "thumbnail": "https://i1.ytimg.com/vi/hbXtrZ_QM8g/hqdefault.jpg",
+      "videoId": "hbXtrZ_QM8g",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -116,6 +132,22 @@
       }
     },
     {
+      "title": "Democracy on the aeroplane | Curtis Yarvin",
+      "url": "https://www.youtube.com/shorts/KJXsBYoUuSw",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/curtis-yarvin-challenged-on-his-argument-for-benevolent-monarchy?stage=Stage\n\n#democracy #populism #politics #aeroplane #debate",
+      "date": "2026-11-04",
+      "thumbnail": "https://i4.ytimg.com/vi/KJXsBYoUuSw/hqdefault.jpg",
+      "videoId": "KJXsBYoUuSw",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Consciousness is biology's biggest blunder | Denis Noble",
       "url": "https://www.youtube.com/watch?v=V9BARG_8H38",
       "description": "Denis Noble discusses the flaws in modern evolutionary theories.\n\nHas biology got it wrong?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\nBiology has sequenced the human genome and predicted protein structures, yet consciousness remains elusive. Join mathematical biologist, Denis Noble, as he calls out biology's biggest blunder--the self replicating process of DNA and RNA are not pe",
@@ -132,19 +164,19 @@
       }
     },
     {
-      "title": "Genetics and the Infinite Monkey Theorem | Jablonka, Noble, Okasha",
-      "url": "https://www.youtube.com/watch?v=5tMZwQOaZNI",
-      "description": "Eva Jablonka, Denis Noble and Samir Okasha  discuss evolution.\n\nDo you think epigenetics fundamentally changes our theories of evolution?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-not-so-blind-watchmaker?utm_source=YouTube&utm_medium=description\n\nFor over a century, evolution has been understood as a simple and powerful story: random genetic changes occur, and natural selection preserves those that enhance survival. Life has “no purpose in mind”. It just h",
-      "date": "2026-10-15",
-      "thumbnail": "https://i2.ytimg.com/vi/5tMZwQOaZNI/hqdefault.jpg",
-      "videoId": "5tMZwQOaZNI",
-      "priority": 10,
+      "title": "The Rise of the Illiberal Democracy | Mahbubani, Ignatieff, Laruelle",
+      "url": "https://www.youtube.com/watch?v=tncdcMBz1M8",
+      "description": "Kishore Mahbubani, Michael Ignatieff and Marlène Laruelle discuss illiberal democracies?\n\nAre illiberal democracies more effective?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-age-of-the-illiberal-democracy?utm_source=YouTube&utm_medium=description\n\nThe West is often defined as the home of liberal democracy, with liberalism and democracy seen as inseparable. But from the start, there has been tension between democracy as the will of the majority, and liberal",
+      "date": "2026-11-03",
+      "thumbnail": "https://i1.ytimg.com/vi/tncdcMBz1M8/hqdefault.jpg",
+      "videoId": "tncdcMBz1M8",
+      "priority": 9,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 9
       }
     },
     {
@@ -154,22 +186,6 @@
       "date": "2026-10-30",
       "thumbnail": "https://i3.ytimg.com/vi/JLChHCYtoVg/hqdefault.jpg",
       "videoId": "JLChHCYtoVg",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "What does it mean for a being to be conscious? | Martine Nida-Rümelin",
-      "url": "https://www.youtube.com/watch?v=Yvnl7Iw1IYQ",
-      "description": "Martine Nida-Rümelin discusses what it means for a being to be conscious.\n\nWhere do you draw the line between conscious and non-conscious beings?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/you-are-not-your-brain?utm_source=YouTube&utm_medium=description\n\nConscious beings such as ravens, dolphins and human beings stand in sharp contrast to mere things. They are something over and above their body and brain. What makes you you is not your particular personality. Jo",
-      "date": "2026-10-14",
-      "thumbnail": "https://i2.ytimg.com/vi/Yvnl7Iw1IYQ/hqdefault.jpg",
-      "videoId": "Yvnl7Iw1IYQ",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,
@@ -218,22 +234,6 @@
       "date": "2026-10-18",
       "thumbnail": "https://i2.ytimg.com/vi/M-R_hjHFN0M/hqdefault.jpg",
       "videoId": "M-R_hjHFN0M",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Hippocampal Mystery | Victoria Trumbull",
-      "url": "https://www.youtube.com/shorts/UoeiiqT2mnI",
-      "description": "",
-      "date": "2026-10-16",
-      "thumbnail": "https://i2.ytimg.com/vi/UoeiiqT2mnI/hqdefault.jpg",
-      "videoId": "UoeiiqT2mnI",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

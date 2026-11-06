@@ -1,40 +1,8 @@
 {
   "sourceId": "aeon",
   "sourceName": "Aeon Magazine",
-  "fetchedAt": "2026-11-01T21:10:02.481591+00:00",
+  "fetchedAt": "2026-11-06T11:43:21.025048+00:00",
   "items": [
-    {
-      "title": "How intuitions work",
-      "url": "https://aeon.co/essays/sometimes-you-just-know-somethings-off-but-how",
-      "description": "Just as seeing a tree gives you reason to believe it’s there, sensing that a stranger is creepy gives you reason to walk away - by Marc A Moffett Read on Aeon",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 43,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 43
-      }
-    },
-    {
-      "title": "How to be a (Roman) man",
-      "url": "https://aeon.co/essays/the-politics-of-masculinity-at-the-end-of-the-roman-republic",
-      "description": "Cicero’s ideal of manly virtue stressed the performance of self-control and bravery, not boastful egotism and domination - by Catharine Edwards Read on Aeon",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
     {
       "title": "Hills and mountains",
       "url": "https://aeon.co/videos/an-afghan-woman-recalls-how-her-countrys-devastation-led-to-her-own",
@@ -84,6 +52,86 @@
       }
     },
     {
+      "title": "Celestial nuisance",
+      "url": "https://aeon.co/essays/why-astrophysics-needs-to-abandon-the-big-questions",
+      "description": "The cosmos has become a lab for the Big Questions in physics. Along the way, we’ve lost sight of its glorious messiness - by Dylan Jow Read on Aeon",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Jo Marchant: In search of now",
+      "url": "https://aeon.co/videos/always-with-us-yet-ever-elusive-on-the-knottiness-of-now",
+      "description": "What is ‘now’? Through physics via philosophy and psychology, discover the science and mystery of the present moment - by Aeon Video Watch on Aeon",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
+      "title": "Like aliens",
+      "url": "https://aeon.co/videos/in-tiny-biospheres-an-artist-reflects-the-fragility-of-our-own",
+      "description": "Like living metaphors, these self-contained miniature worlds show us the wondrous and fragile beauty of our biosphere - by Aeon Video Watch on Aeon",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Believing and thinking",
+      "url": "https://aeon.co/essays/the-psychology-of-separating-church-and-state",
+      "description": "The separation of church and state has an unspoken psychological basis: we choose what we believe, but not what we think - by Neil Van Leeuwen & Jacob Eisler Read on Aeon",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The self-making world",
+      "url": "https://aeon.co/essays/the-self-making-world-of-jean-baptiste-lamarck",
+      "description": "Long mocked and misunderstood, Lamarck’s radical idea that organisms shape themselves and their world is making a comeback - by Jessica Riskin Read on Aeon",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The physics of getting fired",
       "url": "https://aeon.co/essays/how-to-use-physics-to-make-sense-of-the-messiness-of-life",
       "description": "Physics offered me a sense of order and purpose. But when life got messy I realised it had a much deeper insight to give - by Zahaan Bharmal Read on Aeon",
@@ -116,51 +164,35 @@
       }
     },
     {
-      "title": "When it started to burn",
-      "url": "https://aeon.co/videos/what-four-years-of-ceaseless-war-looks-like-to-ukrainian-civilians",
-      "description": "Horrific violence, enduring terror and ceaseless solidarity: four years of war through the eyes of Ukrainian civilians - by Aeon Video Watch on Aeon",
-      "date": "Wed, 21 Oct 2026",
+      "title": "Their eyes",
+      "url": "https://aeon.co/videos/meet-the-invisible-workers-who-teach-self-driving-cars-to-see",
+      "description": "In Kenya, the Philippines and Venezuela, low-paid labour fuels the driverless future of the Global North - by Aeon Video Watch on Aeon",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "A vocabulary for the future: nature",
-      "url": "https://aeon.co/videos/theres-nothing-inherently-good-in-the-natural-argues-bruno-latour",
-      "description": "For the philosopher Bruno Latour, seeing anything ‘natural’ as good and the ‘artificial’ as bad is perversely human-centric - by Aeon Video Watch on Aeon",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Horrible, unmanly, indispensable",
-      "url": "https://aeon.co/essays/the-renaissance-gun-from-diabolical-device-to-popular-militias",
-      "description": "Renaissance Italians saw the gun as the Devil’s work. But soon they embraced this unchivalrous – and necessary – weapon - by Catherine Fletcher Read on Aeon",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Methodical/mercurial",
+      "url": "https://aeon.co/essays/welcome-to-the-mixed-up-joyful-world-of-audhd",
+      "description": "I need order and routine – just as much as I crave excitement and variety. What’s life like with both autism and ADHD? - by Sarah Hendrickx Read on Aeon",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://aeon.co/essays/why-a-world-without-friction-is-a-world-without-progress",
       "description": "Tribologists study friction: what happens when things rub together. It’s indispensable, from the wheel to the paths of stars - by Jennifer R Vail Read on Aeon",
       "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Bhutan: the last place",
-      "url": "https://aeon.co/videos/what-happened-when-the-only-country-to-ban-tv-lifted-the-ban",
-      "description": "What happened when people in Bhutan, the last country on Earth without television, were allowed to watch it in 1999? - by Aeon Video Watch on Aeon",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Other people",
-      "url": "https://aeon.co/essays/living-in-community-is-where-self-illusions-go-to-die",
-      "description": "Disconnection is at the heart of today’s crises. So my husband and I chose a radical and revealing remedy: living communally - by Elizabeth Oldfield Read on Aeon",
-      "date": "Thu, 22 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

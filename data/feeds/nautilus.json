@@ -1,142 +1,62 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-11-01T21:10:22.638567+00:00",
+  "fetchedAt": "2026-11-06T11:43:34.546460+00:00",
   "items": [
     {
-      "title": "“We Will Find a Graviton Before We Find Dark Matter”",
-      "url": "https://nautil.us/we-will-find-a-graviton-before-we-find-dark-matter-1286243/",
-      "description": "A quantum information scientist on the hunt for the elemental mediator of gravity and why AI can’t solve physics problems creatively \n The post  “We Will Find a Graviton Before We Find Dark Matter”  appeared first on  Nautilus .",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_269727.jpg?w=564",
+      "title": "How Your Body Clock Affects Your Mental Health and Ways to Keep It in Sync",
+      "url": "https://nautil.us/how-your-body-clock-affects-your-mental-health-and-ways-to-keep-it-in-sync-1286341/",
+      "description": "Our internal body clock helps regulate sleep, alertness and mood, following a roughly 24-hour cycle influenced by light and darkness \n The post  How Your Body Clock Affects Your Mental Health and Ways to Keep It in Sync  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2419673597.jpg?w=564",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "The Evolutionary Arc From Pigeon Brains to Machine Consciousness",
+      "url": "https://nautil.us/the-evolutionary-arc-from-pigeon-brains-to-machine-consciousness-1286380/",
+      "description": "A conversation with comparative cognition researcher Edward Wasserman about learning and the “edge of chaos” \n The post  The Evolutionary Arc From Pigeon Brains to Machine Consciousness  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2756726261.jpg?w=564",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 10
       }
     },
     {
-      "title": "The Mystery of Why Some Drugs Vanish",
-      "url": "https://nautil.us/the-mystery-of-why-some-drugs-vanish-1286249/",
-      "description": "Disappearing versions of pharmaceutical molecules mean scientists can lose the ability to create some drugs, but why? \n The post  The Mystery of Why Some Drugs Vanish  appeared first on  Nautilus .",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1844300101.jpg?w=564",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Ketamine’s Role in Alleged Cornell Rape Highlights Flood of Psychoactive Drugs on Campus",
-      "url": "https://nautil.us/ketamines-role-in-alleged-cornell-rape-highlights-flood-of-psychoactive-drugs-on-campus-1286212/",
-      "description": "Ketamine and many other psychoactive substances can’t be detected by most standard drug screens, so it’s unclear how often they play a role in sexual assault. \n The post  Ketamine’s Role in Alleged Cornell Rape Highlights Flood of Psychoactive Drugs on Campus  appeared first on  Nautilus .",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_1611014020.jpg?w=564",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "How a Sick Chicken Revolutionized Cancer Research",
-      "url": "https://nautil.us/how-a-sick-chicken-revolutionized-cancer-research-1286219/",
-      "description": "And the story of the man responsible \n The post  How a Sick Chicken Revolutionized Cancer Research  appeared first on  Nautilus .",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/large.png?w=564",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Dear Human, Poetry Might Save Us from the Apocalypse",
-      "url": "https://nautil.us/dear-human-poetry-might-save-us-from-the-apocalypse-1286192/",
-      "description": "How verse may move us when data doesn’t \n The post  Dear Human, Poetry Might Save Us from the Apocalypse  appeared first on  Nautilus .",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/shutterstock_2089969675.jpg?w=564",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Can You Recognize the Subject of This Year’s Microscopic Photography Contest Winner?",
-      "url": "https://nautil.us/can-you-recognize-the-subject-of-this-years-microscopic-photography-contest-winner-1286224/",
-      "description": "The Nikon Small World contest shows off objects and animals as you’ve never seen them before \n The post  Can You Recognize the Subject of This Year’s Microscopic Photography Contest Winner?  appeared first on  Nautilus .",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/pencil_header.jpeg?w=564",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "This Bizarre Jurassic “Squid” Swam the Ancient Seas of Wyoming",
-      "url": "https://nautil.us/this-bizarre-jurassic-squid-swam-the-ancient-seas-of-wyoming-1286238/",
-      "description": "And likely gobbled up its smaller cephalopod relatives for lunch \n The post  This Bizarre Jurassic “Squid” Swam the Ancient Seas of Wyoming  appeared first on  Nautilus .",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Low-Res_Image-6.-Illustration-of-Wyoteuthis-linsterorum-by-Jason-Poole.jpg?w=521",
-      "videoId": "",
-      "priority": 8,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 8
-      }
-    },
-    {
-      "title": "Men Who Eat More Plant-Based Protein Have Higher Testosterone Levels",
-      "url": "https://nautil.us/men-who-eat-more-plant-based-protein-have-higher-testosterone-levels-1286187/",
-      "description": "Revenge of the soy boys? \n The post  Men Who Eat More Plant-Based Protein Have Higher Testosterone Levels  appeared first on  Nautilus .",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/beefandbroccoli.jpg?w=564",
+      "title": "Ancient DNA May Reveal the Surprising Roots of English and Other Germanic Languages",
+      "url": "https://nautil.us/ancient-dna-may-reveal-the-surprising-roots-of-english-and-other-germanic-languages-1286400/",
+      "description": "Iron Age people were on the move \n The post  Ancient DNA May Reveal the Surprising Roots of English and Other Germanic Languages  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/04_Ales_Stenar_Eske_Willerslev_Hugh_McColl_Photo_Nicolas_Delgado_Clausen.jpg?w=564",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 5
       }
     },
     {
-      "title": "“Zombie Bacteria” Might One Day Lurk in the Sewers",
-      "url": "https://nautil.us/zombie-bacteria-might-one-day-lurk-in-the-sewers-1286253/",
-      "description": "But they’ll be there to help \n The post  “Zombie Bacteria” Might One Day Lurk in the Sewers  appeared first on  Nautilus .",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Shewanella_oneidensis.png?w=564",
+      "title": "Switching to This Healthier Version of Salt Could Save Around 3 Million Lives a Year",
+      "url": "https://nautil.us/switching-to-this-healthier-version-of-salt-could-save-around-3-million-lives-a-year-1286385/",
+      "description": "You can even make it at home \n The post  Switching to This Healthier Version of Salt Could Save Around 3 Million Lives a Year  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2292797037.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -148,11 +68,91 @@
       }
     },
     {
-      "title": "Our Planet’s Lungs Are Suffering",
-      "url": "https://nautil.us/our-planets-lungs-are-suffering-1286196/",
-      "description": "Has the Amazon reached the dreaded tipping point? \n The post  Our Planet’s Lungs Are Suffering  appeared first on  Nautilus .",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/10/Screenshot-2026-10-26-at-12.56.50-PM.jpg?w=564",
+      "title": "Oldest Evidence of Human Cannabis Use Has a Ghoulish Twist",
+      "url": "https://nautil.us/oldest-evidence-of-human-cannabis-use-has-a-ghoulish-twist-1286377/",
+      "description": "Take a ride with the spectral cavalcade \n The post  Oldest Evidence of Human Cannabis Use Has a Ghoulish Twist  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/aeg3800-Caspari-image-6.jpg?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Chimps Can Be Thieves, But They Hesitate to Rob Their Friends",
+      "url": "https://nautil.us/chimps-can-be-thieves-but-they-hesitate-to-rob-their-friends-1286366/",
+      "description": "And their friends were quicker to forgive them for their thievery \n The post  Chimps Can Be Thieves, But They Hesitate to Rob Their Friends  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_921333115.jpeg?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "7,500 Light-Years From Earth, A Cat’s Head Appears",
+      "url": "https://nautil.us/7500-light-years-from-earth-a-cats-head-appears-1286346/",
+      "description": "A beautiful new NASA image of the Carina Nebula \n The post  7,500 Light-Years From Earth, A Cat’s Head Appears  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/cat_nebula_header.jpeg?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Iron Age Queen Who Helped Bring Britain to its Knees",
+      "url": "https://nautil.us/the-female-iron-age-queen-who-helped-bring-britain-to-its-knees-1286361/",
+      "description": "New scholarship reveals an exiled Roman client king was a woman \n The post  The Iron Age Queen Who Helped Bring Britain to its Knees  appeared first on  Nautilus .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Stater_of_verica.jpg?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Archaeologists Unravel an 88-Year-Old Murder Mystery",
+      "url": "https://nautil.us/archaeologists-unravel-an-88-year-old-murder-mystery-1286358/",
+      "description": "The killing of James Leslie Starkey \n The post  Archaeologists Unravel an 88-Year-Old Murder Mystery  appeared first on  Nautilus .",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/LachishFrontGate.jpg?w=564",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What Happened When Neuroscientists Started a Mouse Fight Club",
+      "url": "https://nautil.us/what-happened-when-neuroscientists-started-a-mouse-fight-club-1286353/",
+      "description": "Their brain activity shifted \n The post  What Happened When Neuroscientists Started a Mouse Fight Club  appeared first on  Nautilus .",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2292302515.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

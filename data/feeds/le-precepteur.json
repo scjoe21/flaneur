@@ -1,8 +1,24 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-11-01T21:09:38.476419+00:00",
+  "fetchedAt": "2026-11-06T11:43:03.913977+00:00",
   "items": [
+    {
+      "title": "La vraie infidélité",
+      "url": "https://www.youtube.com/shorts/cDrU6VONM5Y",
+      "description": "Où commence l'infidélité ? À partir de quel moment considère-t-on que notre partenaire nous a trompé ? Dans cette vidéo, je vous explique ce que veut vraiment dire le mot « fidélité », et pourquoi le problème de l'infidélité n'est pas tant d'ordre sexuel que d'ordre moral.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de l'épisode « L'ÎLE DE LA TENTATION - Comprendre l'infidélité » : https://youtu.be/4fP8XOEapdU\n\n#philosophie #précepteur #infidélité #couple #amour #fidélité",
+      "date": "2026-11-05",
+      "thumbnail": "https://i4.ytimg.com/vi/cDrU6VONM5Y/hqdefault.jpg",
+      "videoId": "cDrU6VONM5Y",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 45
+      }
+    },
     {
       "title": "L'anneau qui vous rend invisible",
       "url": "https://www.youtube.com/shorts/uzaT0NxF_44",
@@ -20,25 +36,9 @@
       }
     },
     {
-      "title": "LA COLÈRE - Pourquoi elle se retourne contre vous",
-      "url": "https://www.youtube.com/watch?v=KEz27z1gVtE",
-      "description": "La colère peut-elle changer le monde ? Pour les stoïciens, elle se retourne d'abord contre celui qui l'éprouve. Dans cet extrait de mon entretien sur la chaîne « Biomécanique », nous revenons sur la différence entre la colère, qui cherche un coupable, et la révolte, qui cherche une solution. Et sur ce que veut vraiment dire « accepter » le monde tel qu'il est.\n\n▶️ Voir l'entretien en intégralité : https://youtu.be/VoehfbUhXXQ\n\n#Philosophie #Stoïcisme #Colère\n\n----------------------------------\n\n",
-      "date": "2026-10-29",
-      "thumbnail": "https://i4.ytimg.com/vi/KEz27z1gVtE/hqdefault.jpg",
-      "videoId": "KEz27z1gVtE",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 40
-      }
-    },
-    {
       "title": "Le mérite n'existe pas",
       "url": "https://www.youtube.com/shorts/6DfUkQGWzKU",
-      "description": "Au XXIe siècle, le philosophe américain Michael Sandel remet en question l'un des grands idéaux de nos sociétés : la méritocratie. Dans cette vidéo, je vous explique pourquoi, selon lui, notre réussite ne dépend pas uniquement de nos efforts, mais aussi de circonstances que nous ne maîtrisons pas. Et comment cette illusion du mérite peut transformer la réussite en orgueil et l'échec en humiliation.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #michaelsandel #méri",
+      "description": "Au XXIe siècle, le philosophe américain Michael Sandel remet en question l'un des grands idéaux de nos sociétés : la méritocratie. Dans cette vidéo, je vous explique pourquoi, selon lui, notre réussite ne dépend pas uniquement de nos efforts, mais aussi de circonstances que nous ne maîtrisons pas. Et comment cette illusion du mérite peut transformer la réussite en orgueil et l'échec en humiliation.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #michaelsandel #mérito",
       "date": "2026-10-18",
       "thumbnail": "https://i3.ytimg.com/vi/6DfUkQGWzKU/hqdefault.jpg",
       "videoId": "6DfUkQGWzKU",
@@ -54,7 +54,7 @@
     {
       "title": "Pourquoi les insultes vous touchent ?",
       "url": "https://www.youtube.com/shorts/PeMEXQkLqto",
-      "description": "Au Ier siècle, le philosophe stoïcien Épictète formule une idée essentielle. Ce ne sont pas les événements qui nous troublent, mais le jugement que nous portons sur eux. Dans cette vidéo, je vous explique pourquoi certaines critiques nous laissent indifférents tandis que d’autres nous obsèdent, et comment reprendre le pouvoir que nous accordons au regard des autres.\n \n🚀 Pensez à liker, à vous abonner et à partager !\n \n#philosophie #précepteur #épictète #stoïcisme #insultes #critiques",
+      "description": "Au Ier siècle, le philosophe stoïcien Épictète formule une idée essentielle. Ce ne sont pas les événements qui nous troublent, mais le jugement que nous portons sur eux. Dans cette vidéo, je vous explique pourquoi certaines critiques nous laissent indifférents tandis que d’autres nous obsèdent, et comment reprendre le pouvoir que nous accordons au regard des autres.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #épictète #stoïcisme #insultes #critiques",
       "date": "2026-10-04",
       "thumbnail": "https://i1.ytimg.com/vi/PeMEXQkLqto/hqdefault.jpg",
       "videoId": "PeMEXQkLqto",
@@ -81,6 +81,70 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "LA COLÈRE - Pourquoi elle se retourne contre vous",
+      "url": "https://www.youtube.com/watch?v=KEz27z1gVtE",
+      "description": "La colère peut-elle changer le monde ? Pour les stoïciens, elle se retourne d'abord contre celui qui l'éprouve. Dans cet extrait de mon entretien sur la chaîne « Biomécanique », nous revenons sur la différence entre la colère, qui cherche un coupable, et la révolte, qui cherche une solution. Et sur ce que veut vraiment dire « accepter » le monde tel qu'il est.\n\n▶️ Voir l'entretien en intégralité : https://youtu.be/VoehfbUhXXQ\n\n📚 Pour lire les stoïciens :\n\n▶️ Sénèque, De la colère : https://link.",
+      "date": "2026-10-29",
+      "thumbnail": "https://i4.ytimg.com/vi/KEz27z1gVtE/hqdefault.jpg",
+      "videoId": "KEz27z1gVtE",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
+      }
+    },
+    {
+      "title": "5 nouvelles questions qui vont vous empêcher de dormir",
+      "url": "https://www.youtube.com/shorts/7xpGecZg8Tc",
+      "description": "Et vous, quelle question vous empêche de dormir ?\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #questions #existence #réflexion #esprit",
+      "date": "2026-10-08",
+      "thumbnail": "https://i4.ytimg.com/vi/7xpGecZg8Tc/hqdefault.jpg",
+      "videoId": "7xpGecZg8Tc",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "5 questions qui vont vous empêcher de dormir",
+      "url": "https://www.youtube.com/shorts/ULzQPNZl72s",
+      "description": "Et vous, quelle question vous empêche de dormir ?\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #questions #existence #réflexion #esprit",
+      "date": "2026-10-06",
+      "thumbnail": "https://i2.ytimg.com/vi/ULzQPNZl72s/hqdefault.jpg",
+      "videoId": "ULzQPNZl72s",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 20,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
+      }
+    },
+    {
+      "title": "N'attendez rien des autres",
+      "url": "https://www.youtube.com/shorts/O-clnMQP6Ek",
+      "description": "Vous faites tout pour plaire à quelqu'un… et c'est la déception. Pourquoi ? Parce que vous attendiez un résultat qui ne dépendait pas de vous. Dans cette vidéo, je vous lis un passage de mon livre sur le stoïcisme, sur ce que les stoïciens nous apprennent sur nos attentes.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de mon livre « Les 10 principes du stoïcisme pour rester maître de soi » : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\n#philosophie #précepteur #stoïcisme #déc",
+      "date": "2026-11-03",
+      "thumbnail": "https://i4.ytimg.com/vi/O-clnMQP6Ek/hqdefault.jpg",
+      "videoId": "O-clnMQP6Ek",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -116,131 +180,67 @@
       }
     },
     {
-      "title": "5 choses que vous faites sans savoir pourquoi",
-      "url": "https://www.youtube.com/shorts/M47yjTXieDI",
-      "description": "Et vous, laquelle de ces cinq choses vous correspond le plus ?",
-      "date": "2026-10-01",
-      "thumbnail": "https://i2.ytimg.com/vi/M47yjTXieDI/hqdefault.jpg",
-      "videoId": "M47yjTXieDI",
+      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
+      "url": "https://www.youtube.com/shorts/dQEksZs_JPU",
+      "description": "⬇️ Complétez ma liste en commentaire\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #philosophes #lecture #livres #conseils",
+      "date": "2026-10-29",
+      "thumbnail": "https://i1.ytimg.com/vi/dQEksZs_JPU/hqdefault.jpg",
+      "videoId": "dQEksZs_JPU",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "5 nouvelles questions qui vont vous empêcher de dormir",
-      "url": "https://www.youtube.com/shorts/7xpGecZg8Tc",
-      "description": "Et vous, quelle question vous empêche de dormir ?",
-      "date": "2026-10-08",
-      "thumbnail": "https://i4.ytimg.com/vi/7xpGecZg8Tc/hqdefault.jpg",
-      "videoId": "7xpGecZg8Tc",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "5 questions qui vont vous empêcher de dormir",
-      "url": "https://www.youtube.com/shorts/ULzQPNZl72s",
-      "description": "Et vous, quelle question vous empêche de dormir ?",
-      "date": "2026-10-06",
-      "thumbnail": "https://i2.ytimg.com/vi/ULzQPNZl72s/hqdefault.jpg",
-      "videoId": "ULzQPNZl72s",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
-      "url": "https://www.youtube.com/shorts/dQEksZs_JPU",
-      "description": "⬇️ Complétez ma liste en commentaire",
-      "date": "2026-10-29",
-      "thumbnail": "https://i1.ytimg.com/vi/dQEksZs_JPU/hqdefault.jpg",
-      "videoId": "dQEksZs_JPU",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "Si vous êtes dans ce cas, lisez ce philosophe",
       "url": "https://www.youtube.com/shorts/Ww1ytWIHSiU",
-      "description": "⬇️ Complétez ma liste en commentaire",
+      "description": "⬇️ Complétez ma liste en commentaire\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #philosophes #lecture #livres #conseils",
       "date": "2026-10-25",
       "thumbnail": "https://i4.ytimg.com/vi/Ww1ytWIHSiU/hqdefault.jpg",
       "videoId": "Ww1ytWIHSiU",
-      "priority": 5,
+      "priority": 15,
       "scoreDetail": {
         "daily": 5,
-        "phil": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 15
       }
     },
     {
       "title": "Si vous êtes dans ce cas, lisez ce philosophe",
       "url": "https://www.youtube.com/shorts/q9N2R7fHA9c",
-      "description": "⬇️ Complétez ma liste en commentaire",
+      "description": "⬇️ Complétez ma liste en commentaire\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #philosophes #lecture #livres #conseils",
       "date": "2026-10-21",
       "thumbnail": "https://i2.ytimg.com/vi/q9N2R7fHA9c/hqdefault.jpg",
       "videoId": "q9N2R7fHA9c",
-      "priority": 5,
+      "priority": 15,
       "scoreDetail": {
         "daily": 5,
-        "phil": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 15
       }
     },
     {
       "title": "Si tu as aimé ce film, lis ce philosophe",
       "url": "https://www.youtube.com/shorts/QfoKf8pL4L4",
-      "description": "⬇️ Complétez la liste en commentaire",
+      "description": "⬇️ Complétez ma liste en commentaire\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #philosophes #cinéma #films #lecture",
       "date": "2026-10-13",
       "thumbnail": "https://i2.ytimg.com/vi/QfoKf8pL4L4/hqdefault.jpg",
       "videoId": "QfoKf8pL4L4",
-      "priority": 5,
+      "priority": 15,
       "scoreDetail": {
         "daily": 5,
-        "phil": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "5 choses qui vous empêchent d'être heureux",
-      "url": "https://www.youtube.com/shorts/PEbQZeIdNRQ",
-      "description": "Et vous, laquelle de ces choses vous empêche le plus d'être heureux ?",
-      "date": "2026-09-29",
-      "thumbnail": "https://i1.ytimg.com/vi/PEbQZeIdNRQ/hqdefault.jpg",
-      "videoId": "PEbQZeIdNRQ",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
+        "total": 15
       }
     }
   ]

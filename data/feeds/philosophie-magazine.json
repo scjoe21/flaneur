@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-01T21:09:39.985496+00:00",
+  "fetchedAt": "2026-11-06T11:43:04.904557+00:00",
   "items": [
+    {
+      "title": "“Midterms” : comment la gauche américaine s’est recomposée",
+      "url": "https://www.philomag.com/articles/midterms-comment-la-gauche-americaine-sest-recomposee",
+      "description": "",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "Comment s’adresser à un tyran",
       "url": "https://www.philomag.com/articles/comment-sadresser-un-tyran",
@@ -36,19 +52,35 @@
       }
     },
     {
-      "title": "Comment “humain” est‑il devenu un compliment ?",
-      "url": "https://www.philomag.com/articles/comment-humain-est-il-devenu-un-compliment",
+      "title": "Voir ce que l’on voit : quand le “bonheur public” fait son retour en France",
+      "url": "https://www.philomag.com/articles/voir-ce-que-lon-voit-quand-le-bonheur-public-fait-son-retour-en-france",
       "description": "",
-      "date": "Mon, 26 Oct 2026",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Notre chroniqueuse Jennifer Tamas reçoit le prix Femina essai pour “Barbe Bleue, contre-enquête”",
+      "url": "https://www.philomag.com/articles/notre-chroniqueuse-jennifer-tamas-recoit-le-prix-femina-essai-pour-barbe-bleue-contre",
+      "description": "",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -100,51 +132,83 @@
       }
     },
     {
-      "title": "Faut-il interdire le mensonge en politique ?",
-      "url": "https://www.philomag.com/articles/faut-il-interdire-le-mensonge-en-politique",
+      "title": "“La victoire démocrate est si massive que Trump ne peut pas la remettre en cause. Il y a là une leçon importante”",
+      "url": "https://www.philomag.com/articles/la-victoire-democrate-est-si-massive-que-trump-ne-peut-pas-la-remettre-en-cause-il-y-la",
       "description": "",
-      "date": "Tue, 27 Oct 2026",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Les jeunes, catalyseurs de l’IA au travail malgré eux",
-      "url": "https://www.philomag.com/articles/les-jeunes-catalyseurs-de-lia-au-travail-malgre-eux",
-      "description": "",
-      "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "André Comte-Sponville : “Je n’aimais pas mon époque, j’ai donc choisi la sagesse”",
-      "url": "https://www.philomag.com/articles/andre-comte-sponville-je-naimais-pas-mon-epoque-jai-donc-choisi-la-sagesse",
-      "description": "",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "James Talarico, la foi au service du progressisme",
+      "url": "https://www.philomag.com/articles/james-talarico-la-foi-au-service-du-progressisme",
+      "description": "",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Quand l’Amérique voit rouge",
+      "url": "https://www.philomag.com/articles/quand-lamerique-voit-rouge",
+      "description": "",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“L'Inconnue du quai de Javel”, de Philippe Jaenada : un Goncourt sorti des brumes",
+      "url": "https://www.philomag.com/articles/linconnue-du-quai-de-javel-de-philippe-jaenada-un-goncourt-sorti-des-brumes",
+      "description": "",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Au Brésil, “les hommes veulent la force électorale des femmes, pas les voir gouverner”",
+      "url": "https://www.philomag.com/articles/au-bresil-les-hommes-veulent-la-force-electorale-des-femmes-pas-les-voir-gouverner",
+      "description": "",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -168,70 +232,6 @@
       "url": "https://www.philomag.com/articles/hope-un-foutoir-monstre",
       "description": "",
       "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Eva Illouz : “C’est Heidegger qui vote le 27 octobre !”",
-      "url": "https://www.philomag.com/articles/eva-illouz-cest-heidegger-qui-vote-le-27-octobre",
-      "description": "",
-      "date": "Mon, 26 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La procrastination étudiante est-elle une fatalité ?",
-      "url": "https://www.philomag.com/articles/la-procrastination-etudiante-est-elle-une-fatalite",
-      "description": "",
-      "date": "Sat, 24 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Exposition “Today is OK” : l’absurde camusien magnifié par Ali Cherri",
-      "url": "https://www.philomag.com/articles/exposition-today-ok-labsurde-camusien-magnifie-par-ali-cherri",
-      "description": "",
-      "date": "Sat, 24 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“La Gradiva” : vivre, jouir, mourir et philosopher à Pompéi",
-      "url": "https://www.philomag.com/articles/la-gradiva-vivre-jouir-mourir-et-philosopher-pompei",
-      "description": "",
-      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,13 +1,13 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-01T21:09:45.429101+00:00",
+  "fetchedAt": "2026-11-06T11:43:09.848510+00:00",
   "items": [
     {
       "title": "Wie wir die Welt sehen",
       "url": "https://www.philomag.de/artikel/wie-wir-die-welt-sehen",
       "description": "KI und Social Media, Klima und Corona, globale Umbrüche und Kriege: Junge Menschen stehen in unserer Zeit vor großen Herausforderungen und sind mit einem hohen Maß an Ungewissheit konfrontiert. Wie gehen sie damit um? Was für Erkenntnisse bringt ein junger Mensch hervor, der mit wachen Augen durch die Welt geht? Wir haben vier Jugendliche zum Gespräch eingeladen.",
-      "date": "Fri, 30 Oct 2026",
+      "date": "Mon, 02 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 40,
@@ -36,26 +36,42 @@
       }
     },
     {
-      "title": "Die Erkenntniskraft der frühen Jahre",
-      "url": "https://www.philomag.de/artikel/die-erkenntniskraft-der-fruehen-jahre",
-      "description": "Was können wir von Menschen lernen, die am Anfang ihres Lebens stehen? Vieles, wie ein Blick in die Philosophiegeschichte zeigt.",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Martin Küpper: „Der Ostmarxismus versuchte die Gesetzmäßigkeiten der geschichtlichen Natur abzubilden und zu nutzen“",
+      "url": "https://www.philomag.de/artikel/martin-kuepper-der-ostmarxismus-versuchte-die-gesetzmaessigkeiten-der-geschichtlichen",
+      "description": "Anders als die Literatur ist die Philosophie aus den Ländern des Realsozialismus nahezu unbekannt. Zu Unrecht, findet der Philosoph Martin Küpper. Ein Gespräch über Ost- und West-Marxismus, Ästhetik in der DDR und den Versuch, die gesellschaftlichen Verhältnisse zu humanisieren.",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
+        "daily": 5,
+        "phil": 15,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 10,
         "total": 30
       }
     },
     {
-      "title": "Die neue Ausgabe: Die Weisheit der Jugend",
-      "url": "https://www.philomag.de/artikel/die-neue-ausgabe-die-weisheit-der-jugend",
-      "description": "Die Jugend ist eine Zwischenphase. Die Kindheit ist vorbei, das Erwachsensein noch nicht greifbar. Welche spezifische Erkenntniskraft ist mit diesem Dazwischen verbunden? Wie kann uns ein junger Blick auf die Welt helfen, die blinden Flecke unserer Zeit wahrzunehmen? Was lässt sich schon heute von jenen lernen, die dereinst unsere Zukunft gestalten? Hier geht's zur  umfangreichen Heftvorschau !",
+      "title": "Menschlicher Morast",
+      "url": "https://www.philomag.de/artikel/menschlicher-morast",
+      "description": "In  Minotaurus  zeigt Andrey Zvyagintsev, wie sich die Kriegslogik in der Psyche eines russischen Patriarchen einsenkt, und setzt dessen kalkulierende Selbstkompromittierung wirkmächtig in Szene.",
       "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Klaus Hurrelmann: „Die junge Generation ist nicht pessimistisch, aber erschöpft“",
+      "url": "https://www.philomag.de/artikel/klaus-hurrelmann-die-junge-generation-ist-nicht-pessimistisch-aber-erschoepft",
+      "description": "Der Soziologe Klaus Hurrelmann beobachtet seit Jahrzehnten, wie die junge Generation aufwächst. Ein Gespräch über psychische Narben, Pragmatismus und die Jugend als Seismograf der Gesellschaft.",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -68,10 +84,42 @@
       }
     },
     {
-      "title": "Überschreitung der Enge",
-      "url": "https://www.philomag.de/artikel/ueberschreitung-der-enge",
-      "description": "Wofür lohnt es sich zu leben? Junge Menschen finden auf diese Frage mit Leichtigkeit eine Antwort. Dass sie weltweit auf die Barrikaden gehen, ist ein Weckruf für uns alle.",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Denkzettelwahl",
+      "url": "https://www.philomag.de/artikel/denkzettelwahl",
+      "description": "Bei den Midterms haben die Demokraten die Mehrheit in beiden Kammern erlangt. Doch mit dem Jubel stellt sich auch die Frage, wie es weitergeht. Über vier Themen sollte man sich Gedanken machen, meint Dieter Thomä.",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Freundschaft – eine Ressource im Zeitalter von Donald Trump?",
+      "url": "https://www.philomag.de/artikel/freundschaft-eine-ressource-im-zeitalter-von-donald-trump",
+      "description": "Am Vorabend der US-Zwischenwahlen beleuchtet der Politikwissenschaftler Roger Berkowitz, der gerade den Essay „A World We Share“ („Eine gemeinsame Welt“) veröffentlicht hat, das derzeitige Klima in den Vereinigten Staaten und sieht in der Kultur der Freundschaft ein demokratisches Heilmittel.",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Die Kinder des Diogenes",
+      "url": "https://www.philomag.de/artikel/die-kinder-des-diogenes",
+      "description": "In Asien formiert sich eine Jugendbewegung gegen Arbeitsdruck und schlechte Politik. Sie könnte auch unsere Art zu leben, zu arbeiten und zu denken verändern.",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -84,9 +132,9 @@
       }
     },
     {
-      "title": "Die Kinder des Diogenes",
-      "url": "https://www.philomag.de/artikel/die-kinder-des-diogenes",
-      "description": "In Asien formiert sich eine Jugendbewegung gegen Arbeitsdruck und schlechte Politik. Sie könnte auch unsere Art zu leben, zu arbeiten und zu denken verändern.",
+      "title": "Überschreitung der Enge",
+      "url": "https://www.philomag.de/artikel/ueberschreitung-der-enge",
+      "description": "Wofür lohnt es sich zu leben? Junge Menschen finden auf diese Frage mit Leichtigkeit eine Antwort. Dass sie weltweit auf die Barrikaden gehen, ist ein Weckruf für uns alle.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -132,10 +180,26 @@
       }
     },
     {
-      "title": "„Hoffentlich ist es bald vorbei“",
-      "url": "https://www.philomag.de/artikel/hoffentlich-ist-es-bald-vorbei",
-      "description": "Die 83-jährige Nora möchte ihr Leben durch einen assistierten Suizid beenden. Aus welchen Gründen? Was bedeutet diese Entscheidung für ihr Umfeld? Und welche Folgen hätte die Normalisierung von Suizidassistenz für die Gesellschaft? Eine Reportage über das Streben nach Selbstbestimmung – und seine Schattenseiten.",
+      "title": "„Eine Klarheit, die sich nicht erklären lässt“",
+      "url": "https://www.philomag.de/artikel/eine-klarheit-die-sich-nicht-erklaeren-laesst",
+      "description": "Clemens Luhmann, Sohn des Soziologen Niklas Luhmann, zeigt seinen berühmten Vater in Nahsicht – und schildert Alltag und Familiengeschichte als Fundamente einer Theorie, die ohne Personenregister auskommt.",
       "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "Die Amerikanisierung der USA",
+      "url": "https://www.philomag.de/artikel/die-amerikanisierung-der-usa",
+      "description": "Die Hispanics werden diese Midterm Elections entscheiden – und noch viele weitere Wahlen. Denn sie sind die Avantgarde des Zusammenwachsens beider Amerikas, an dessen Ende die nordamerikanische Union steht.",
+      "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -148,58 +212,10 @@
       }
     },
     {
-      "title": "Der Erfinder des Abraums",
-      "url": "https://www.philomag.de/artikel/der-erfinder-des-abraums",
-      "description": "In seinem neuen Roman  Das tickende Herz  schickt Lutz Seiler einen Lyriker in die Steppe und lässt ihn dort nach Heilung suchen. Dichter, Weltretter, Erdbeschützer: Sie alle kommen in zwielichtigen Gemeinschaften zusammen – die in Seilers Werk immer wieder untergraben werden.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
-      "title": "Wissen Betroffene mehr?",
-      "url": "https://www.philomag.de/artikel/wissen-betroffene-mehr",
-      "description": "Empathie und Intellekt erlauben es uns, die Erfahrungen anderer nachzuvollziehen. Doch wo liegen die Grenzen unseres Einfühlungsvermögens? Wissen die Ausgegrenzten und Unterdrückten etwas, was andere nie verstehen werden?",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Relikt der Gabe",
-      "url": "https://www.philomag.de/artikel/relikt-der-gabe",
-      "description": "Festgelegte Trinkgeldbeträge an EC-Geräten mehren sich. Doch die Sozialität stiftende Funktion der Gabe geht auf diese Weise verloren.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Ein andres gutes Land",
-      "url": "https://www.philomag.de/artikel/ein-andres-gutes-land",
-      "description": "Die Kamerun Qrella Group verhandelt auf dem Album  Abteilung Blühende Landschaften  das deutschdeutsche Verhältnis.",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Anna-Bettina Kaiser: „Trump verachtet das Recht“",
+      "url": "https://www.philomag.de/artikel/anna-bettina-kaiser-trump-verachtet-das-recht",
+      "description": "Droht den USA ein Staatsstreich durch Donald Trump – und das umso mehr, wenn die Republikaner bei den morgigen Midterms verlieren? Ein Gespräch mit der Rechtswissenschaftlerin Anna-Bettina Kaiser über berechtigte Sorgen um die US-Demokratie, den sogenannten „Selbstputsch“ und die wenigen Institutionen, die Trump Widerstand entgegenbringen.",
+      "date": "Mon, 02 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Queere Geschichte schreiben",
-      "url": "https://www.philomag.de/artikel/queere-geschichte-schreiben",
-      "description": "Im Podcast  I Will Survive  blickt Phillip Syvarth auf die AidsKrise in Bayern zurück und zeigt, welche Bedeutung sie für die queere Bewegung bis heute hat.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

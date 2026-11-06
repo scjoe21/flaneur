@@ -1,22 +1,22 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-11-01T21:09:54.750791+00:00",
+  "fetchedAt": "2026-11-06T11:43:14.576085+00:00",
   "items": [
     {
-      "title": "Premio di natalità",
-      "url": "https://www.iltascabile.com/societa/premio-natalita/",
-      "description": "Perché di fronte al problema delle “culle vuote” la politica insegue il numero più che l’autodeterminazione e il benessere di chi figli li ha o vorrebbe averli: cosa rivela il modo in cui l’Italia finanzia le nascite. \n L'articolo  Premio di natalità  proviene da  Il Tascabile .",
-      "date": "Tue, 20 Oct 2026",
+      "title": "L’odio come content",
+      "url": "https://www.iltascabile.com/societa/odio-content/",
+      "description": "Come la propaganda di destra usa il digitale per spostare il confine dell’accettabilità. \n L'articolo  L’odio come <i>content</i>  proviene da  Il Tascabile .",
+      "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 20,
       "scoreDetail": {
         "daily": 20,
-        "phil": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 35
+        "total": 20
       }
     },
     {
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "Come si fa una laguna",
-      "url": "https://www.iltascabile.com/scienze/come-si-fa-laguna/",
-      "description": "Nel dibattito sulla conservazione ricorre spesso l’idea che la natura, per mantenersi tale, dovrebbe escludere la presenza umana. La laguna di Grado, uno degli ambienti costieri più ricchi di biodiversità del Mediterraneo, suggerisce una prospettiva diversa. \n L'articolo  Come si fa una laguna  proviene da  Il Tascabile .",
-      "date": "Mon, 19 Oct 2026",
+      "title": "Il greenwashing della caccia",
+      "url": "https://www.iltascabile.com/scienze/greenwashing-caccia/",
+      "description": "Le associazioni venatorie stanno provando a riabilitare la caccia come un modo per tutelare il paesaggio e la biodiversità, ma le prove scientifiche che sia effettivamente utile agli ecosistemi languono. \n L'articolo  Il <i>greenwashing</i> della caccia  proviene da  Il Tascabile .",
+      "date": "Mon, 02 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -84,26 +84,10 @@
       }
     },
     {
-      "title": "Autori masticati",
-      "url": "https://www.iltascabile.com/linguaggi/autori-masticati/",
-      "description": "Come il sistema cinematografico ha divorato, digerito e premiato l’anomalia indipendente. \n L'articolo  Autori masticati  proviene da  Il Tascabile .",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "I want to wear your skin as a sweater",
-      "url": "https://www.iltascabile.com/linguaggi/i-want-to-wear-your-skin-as-a-sweater/",
-      "description": "Il destino comune di donne e animali in  Obsession  di Curry Barker. \n L'articolo  I want to wear your skin as a sweater  proviene da  Il Tascabile .",
-      "date": "Thu, 22 Oct 2026",
+      "title": "Stati di salute",
+      "url": "https://www.iltascabile.com/letterature/stati-salute/",
+      "description": "Lidia Riviello cerca il vero sotto lo schermo, tra feed, cliniche e lingue d’occidente. \n L'articolo  Stati di salute  proviene da  Il Tascabile .",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -113,6 +97,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "L’Internazionale del rifiuto di Mikkel Bolt Rasmussen",
+      "url": "https://www.iltascabile.com/recensioni/internazionale-rifiuto-mikkel-bolt-rasmussen/",
+      "description": "L'articolo  L’Internazionale del rifiuto di Mikkel Bolt Rasmussen  proviene da  Il Tascabile .",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Sogno un carnevale del rimosso",
+      "url": "https://www.iltascabile.com/linguaggi/sogno-carnevale-rimosso/",
+      "description": "Riflessioni sulle arti visive e sulla postura obliqua della rivista: verso una critica saggistica sganciata dall’urgenza dell’evento. \n L'articolo  Sogno un carnevale del rimosso  proviene da  Il Tascabile .",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.iltascabile.com/letterature/torre-crolla/",
       "description": "Spiegare le piazze di oggi tramite arcani maggiori, William Burroughs e l’era dell’Acquario. \n L'articolo  La Torre che crolla  proviene da  Il Tascabile .",
       "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Veglia di George Saunders",
-      "url": "https://www.iltascabile.com/recensioni/veglia-georges-saunders/",
-      "description": "L'articolo  Veglia di George Saunders  proviene da  Il Tascabile .",
-      "date": "Fri, 23 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

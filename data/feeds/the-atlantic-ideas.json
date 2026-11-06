@@ -1,13 +1,61 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-01T21:10:08.378887+00:00",
+  "fetchedAt": "2026-11-06T11:43:23.574008+00:00",
   "items": [
     {
-      "title": "The MAGA Reckoning Arrives",
-      "url": "https://www.theatlantic.com/ideas/2026/11/maga-reckoning-arrives/689248/?utm_source=feed",
+      "title": "Why Republicans Lost So Big",
+      "url": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-trump-blue-wave/689274/?utm_source=feed",
       "description": "",
-      "date": "2026-11-01",
+      "date": "2026-11-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "A Good Night for the Christian Faith",
+      "url": "https://www.theatlantic.com/ideas/2026/11/midterms-christianity-talarico-hamilton/689299/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-05",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Donald Trump Is Bad at Politics",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-losses-winners-losers/689262/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-03",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Democrats Have No Coherent Plan for AI",
+      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-ai-midterms-regulation/689320/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -20,10 +68,10 @@
       }
     },
     {
-      "title": "I Thought I’d Left Authoritarianism Behind",
-      "url": "https://www.theatlantic.com/ideas/2026/11/escaping-communist-czechoslovakia-america/689232/?utm_source=feed",
+      "title": "The Execution Divide",
+      "url": "https://www.theatlantic.com/ideas/2026/11/death-row-commutation-california-newsom/689304/?utm_source=feed",
       "description": "",
-      "date": "2026-11-01",
+      "date": "2026-11-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -36,10 +84,10 @@
       }
     },
     {
-      "title": "I Was Lucky to Be Alive. But I Missed Being Pretty.",
-      "url": "https://www.theatlantic.com/ideas/2026/11/stroke-25-recovery-mortality/689126/?utm_source=feed",
+      "title": "Chuck Schumer’s Revenge",
+      "url": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/?utm_source=feed",
       "description": "",
-      "date": "2026-11-01",
+      "date": "2026-11-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -52,10 +100,10 @@
       }
     },
     {
-      "title": "The U.S. Is Bullying Europe Like Never Before",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-europe-guilfoyle-afd-meddling/689226/?utm_source=feed",
+      "title": "Even Where MAGA Won, MAGA Lost",
+      "url": "https://www.theatlantic.com/ideas/2026/11/maga-party-demographic-shift/689286/?utm_source=feed",
       "description": "",
-      "date": "2026-11-01",
+      "date": "2026-11-05",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -68,10 +116,10 @@
       }
     },
     {
-      "title": "What the Economy Is Sacrificing to AI",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-data-centers-crowding/689239/?utm_source=feed",
+      "title": "Vance 2028 Is Here",
+      "url": "https://www.theatlantic.com/ideas/2026/11/vance-2028-campaign-strategy-change/689291/?utm_source=feed",
       "description": "",
-      "date": "2026-10-31",
+      "date": "2026-11-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,10 +132,10 @@
       }
     },
     {
-      "title": "The Currency of the Journal Article Is Collapsing",
-      "url": "https://www.theatlantic.com/ideas/2026/10/ai-journal-articles-writing/689186/?utm_source=feed",
+      "title": "The End of the Trump Era",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-era-republicans-midterms/689292/?utm_source=feed",
       "description": "",
-      "date": "2026-10-30",
+      "date": "2026-11-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +148,10 @@
       }
     },
     {
-      "title": "The Variety Bag Has Ruined Halloween",
-      "url": "https://www.theatlantic.com/ideas/2026/10/trick-or-treating-mixed-candy/689208/?utm_source=feed",
+      "title": "Trump Learns His Orbán Lesson",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-orban-elections/689287/?utm_source=feed",
       "description": "",
-      "date": "2026-10-29",
+      "date": "2026-11-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +164,10 @@
       }
     },
     {
-      "title": "Can Democracy Survive the Next Financial Crash?",
-      "url": "https://www.theatlantic.com/ideas/2026/10/bubble-bailout-trump-authority/689190/?utm_source=feed",
+      "title": "The Biggest Victory of the Night",
+      "url": "https://www.theatlantic.com/ideas/2026/11/midterm-election-democrats-normal/689279/?utm_source=feed",
       "description": "",
-      "date": "2026-10-29",
+      "date": "2026-11-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +180,10 @@
       }
     },
     {
-      "title": "Israeli Election Results Hazy, Try Again",
-      "url": "https://www.theatlantic.com/ideas/2026/10/israel-election-outcome-possibilities/689184/?utm_source=feed",
+      "title": "A Night of Pure Trumpenfreude",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-results-schadenfreude/689277/?utm_source=feed",
       "description": "",
-      "date": "2026-10-28",
+      "date": "2026-11-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +196,10 @@
       }
     },
     {
-      "title": "The Limits of Trump’s Midterm Trickery",
-      "url": "https://www.theatlantic.com/ideas/2026/10/trump-midterms-election-schemes/689177/?utm_source=feed",
+      "title": "Texas Republicans Get Washed",
+      "url": "https://www.theatlantic.com/ideas/2026/11/texas-blue-democrats-win/689278/?utm_source=feed",
       "description": "",
-      "date": "2026-10-27",
+      "date": "2026-11-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +212,10 @@
       }
     },
     {
-      "title": "The Illusion of ‘Radical Transparency’",
-      "url": "https://www.theatlantic.com/ideas/2026/10/elizabeth-holmes-nathan-fielder-trump/689173/?utm_source=feed",
+      "title": "Things Are Going to Get Ugly",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-election-results-cope/689260/?utm_source=feed",
       "description": "",
-      "date": "2026-10-27",
+      "date": "2026-11-03",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,58 +228,10 @@
       }
     },
     {
-      "title": "Trump’s Cheesecake Factory Dissent",
-      "url": "https://www.theatlantic.com/ideas/2026/10/obama-cheesecake-factory-trump-elitism/689171/?utm_source=feed",
+      "title": "Latinos Are Still Swing Voters",
+      "url": "https://www.theatlantic.com/ideas/2026/11/latinos-swing-voters-midterms/689256/?utm_source=feed",
       "description": "",
-      "date": "2026-10-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Issues Christian Voters Are Neglecting",
-      "url": "https://www.theatlantic.com/ideas/2026/10/midterms-maga-trump-christianity/689170/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Yes, We Have No Bananas",
-      "url": "https://www.theatlantic.com/ideas/2026/10/groceries-israel-funding-budget/689151/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-26",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Red States Are Dumbing Down College Admissions",
-      "url": "https://www.theatlantic.com/ideas/2026/10/classic-learning-test-clt/689144/?utm_source=feed",
-      "description": "",
-      "date": "2026-10-26",
+      "date": "2026-11-03",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

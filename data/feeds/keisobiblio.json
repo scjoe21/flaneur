@@ -1,8 +1,24 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-11-01T21:10:27.001883+00:00",
+  "fetchedAt": "2026-11-06T11:43:40.237775+00:00",
   "items": [
+    {
+      "title": "あとがきたちよみ『自由エネルギー原理を哲学する――身体・意識・AIをつなぐ「大統一理論」の射程』",
+      "url": "https://keisobiblio.com/2026/11/02/atogakitachiyomi_jiyuenergygenri/",
+      "description": "「はじめに」を公開しました。",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "コヨーテ歩き撮り#260",
       "url": "https://keisobiblio.com/2026/10/19/coyote260/",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "あとがきたちよみ『意識の辺縁――意識障害、胎児、脳オルガノイド、動物、AIのための倫理学』",
+      "url": "https://keisobiblio.com/2026/11/05/atogakitachiyomi_ishikinohenen/",
+      "description": "「おわりに」「訳者あとがき」を公開しました。",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -36,38 +68,6 @@
       }
     },
     {
-      "title": "あとがきたちよみ『数によるガバナンス――法の支配の凋落と新たなる封建社会』",
-      "url": "https://keisobiblio.com/2026/09/28/atogakitachiyomi_kazuniyorugovernance/",
-      "description": "「序文」「訳者あとがき」冒頭を公開しました。",
-      "date": "Mon, 28 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "コヨーテ歩き撮り#258",
-      "url": "https://keisobiblio.com/2026/09/24/coyote258/",
-      "description": "その名を知ったのは、たぶん60年くらい前だろうなあ。昭和新山。あこがれの山についに来た。なんという力強さ。\n\nI first learned of its name maybe sixty years ago. Showa Shinzan! Finally I am here to admire its presence from nearby. Incredibly powerful.",
-      "date": "Thu, 24 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "憲法学の散歩道第50回　リアルでない法学とは何か？",
       "url": "https://keisobiblio.com/2026/10/06/hasebeyasuo1006/",
       "description": "ロンドン大学ユニヴァーシティ・コレッジ（University College London: UCL  [...]",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "あとがきたちよみ『現代メディア・イベント論2――国家の儀礼から路上の実践まで』",
+      "url": "https://keisobiblio.com/2026/11/04/atogakitachiyomi_gendaimediaeventron2/",
+      "description": "「はじめに」「序章」「おわりに」を公開しました。",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://keisobiblio.com/2026/10/01/atogakitachiyomi_peircechosakushu02/",
       "description": "「序」「新装版への解説――本書の活用の手引き」を公開しました。",
       "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あとがきたちよみ『新装版　パース著作集1　現象学』",
-      "url": "https://keisobiblio.com/2026/10/01/atogakitachiyomi_peircechosakushu01/",
-      "description": "「訳者解説　パースの現象学について」「新装版への解説　パースのカテゴリー論の展開とその読解のための手引き」を公開しました。",
-      "date": "Wed, 30 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

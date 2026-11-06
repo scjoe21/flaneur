@@ -1,8 +1,24 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-01T21:10:14.817662+00:00",
+  "fetchedAt": "2026-11-06T11:43:28.700489+00:00",
   "items": [
+    {
+      "title": "Smart Store und Plauderkasse - Wie sich Supermärkte neu erfinden",
+      "url": "https://www.deutschlandfunkkultur.de/zwischen-smart-store-und-plauderkasse-wie-sich-supermaerkte-neu-erfinden-100.html",
+      "description": "Supermärkte versprechen den großen Einkauf zum kleinen Preis. Doch die Konkurrenz ist groß - darum suchen Händler immer neue Wege, Kunden anzulocken: Der Supermarkt soll Treffpunkt sein, Dörfer zusammenhalten und vor Einsamkeit bewahren. Mit Erfolg? Gugel, Susanne; Gabriel, Thorsten www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 43,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 43
+      }
+    },
     {
       "title": "Die Weisheit der Wenigen - Wer auf Prognosemärkten gewinnt",
       "url": "https://www.deutschlandfunkkultur.de/die-weisheit-der-wenigen-wer-auf-prognosemaerkten-gewinnt-100.html",
@@ -17,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 39
+      }
+    },
+    {
+      "title": "Der Kampf migrantischer Frauen um Gleichberechtigung",
+      "url": "https://www.deutschlandfunkkultur.de/feminismus-migrantische-frauen-frauenbewegung-100.html",
+      "description": "Sie kamen als Gastarbeiterinnen, Ehefrauen, Mütter nach Deutschland - und begannen in den 1970ern, sich gegen strukturelle Diskriminierung zu organisieren. Wie hat die migrantische Frauenbewegung feministische Diskurse geprägt? (Erstsendung: 9.7.2025) Hoffmann, Jule www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -72,22 +104,6 @@
       "url": "https://www.deutschlandfunkkultur.de/der-industriearbeiter-abgesang-auf-einen-deutschen-helden-100.html",
       "description": "Der Industriearbeiter war nach 1945 in Ost- und Westdeutschland Motor und Symbolfigur des wirtschaftlichen Aufschwungs. Vom alten Arbeiterstolz scheint nicht mehr viel übrig zu sein. Jeden Monat gehen über 10.000 Industriearbeitsplätze verloren. Köppchen, Ulrike www.deutschlandfunkkultur.de, Zeitfragen. Feature",
       "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Faszinierende Welt der Algen - Wie winkende Hände im Meer",
-      "url": "https://www.deutschlandfunkkultur.de/wie-winkende-haende-im-meer-online-100.html",
-      "description": "Algen wachsen in Seen, Ozeanen und sogar im Eis: Sie sind die anpassungsfähigsten, vitalsten und fruchtbarsten pflanzlichen Organismen der Erde. Jede Algenzelle kann sich selbst versorgen. Ihr ungeheures Potenzial begeistert nicht nur Forscher. Gerk, Andrea www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 30,
@@ -164,6 +180,38 @@
       }
     },
     {
+      "title": "Goldsuche in Finnland - Ein Schatz für die Energiewende",
+      "url": "https://www.deutschlandfunkkultur.de/goldsuche-in-finnland-ein-schatz-fuer-die-energiewende-100.html",
+      "description": "Weil der Goldpreis hoch ist, lohnt sich der aufwendige Abbau, etwa in Finnland. Andere für die Energiewende wichtigen Edelmetalle können dabei gleich miterschlossen werden. Nur: Verträgt sich der Bergbau mit dem Umweltschutz? Rauner, Max www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Karriere machen in der Politik - Das Ende der Ochsentour?",
+      "url": "https://www.deutschlandfunkkultur.de/das-ende-der-ochsentour-wie-man-heute-in-der-politik-karriere-macht-100.html",
+      "description": "Früher begannen politische Karrieren oft am Infostand oder im Ortsverein einer Partei. Es galt, sich hochzuarbeiten. Doch die Rekrutierung über die „Ochsentour“ stößt zunehmend an Grenzen. Für Politik-Quereinsteiger kann das eine Chance sein. Gerstenberg, Ralph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
       "title": "Deutsche Autobauer in Serbien: Der Unmut der Beschäftigten wächst",
       "url": "https://www.deutschlandfunkkultur.de/autoindustrie-warum-deutsche-firmen-produktion-nach-serbien-verlagern-neu-102.html",
       "description": "Viele deutsche Autobauer lassen in Serbien produzieren. Präsident Aleksandar Vučić bezeichnet deutsche Investoren als Motor der serbischen Ökonomie. Doch die Beschäftigten klagen über prekäre Arbeitsbedingungen, hohen Druck und niedrige Löhne. Steinwender, Lucia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -180,22 +228,6 @@
       }
     },
     {
-      "title": "DDR: Als \"Rowdytum\" galt, was der Führung missfiel",
-      "url": "https://www.deutschlandfunkkultur.de/das-rowdytum-und-die-stoerung-des-sozialistischen-gemeinschaftslebens-100.html",
-      "description": "In der DDR fielen Personen, die die öffentliche Ordnung \"angreifen, um deren Mißachtung zum Ausdruck zu bringen\" unter den Straftatbestand des Rowdytums. Die Staatsmacht konnte so alles verfolgen, was ihr im Alltag nicht gefiel. Und das tat sie. Klug, Thomas www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 07 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 19,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 19
-      }
-    },
-    {
       "title": "Hermann Bickels letzter Sommer - Wird die Alpwirtschaft verschwinden?",
       "url": "https://www.deutschlandfunkkultur.de/hermann-bickels-letzter-sommer-wird-die-alpwirtschaft-verschwinden-100.html",
       "description": "Kühe melken, Zäune bauen, steile Hänge meistern: Hinter der Alpenromantik steckt harte Arbeit. Auf einer Alpe in Vorarlberg steht ein Generationenwechsel bevor. Nun entscheidet sich, ob eine jahrhundertealte Tradition weiterleben kann. Schlag, Gabi www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -209,38 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "Über Durchhalten und Resilienz - Juden in Deutschland unter Druck",
-      "url": "https://www.deutschlandfunkkultur.de/ueber-durchhalten-und-resilienz-juden-in-deutschland-unter-druck-100.html",
-      "description": "Seit dem Terroranschlag der Hamas auf Israel am 7. Oktober 2023 hat sich auch das Leben jüdischer Menschen in Deutschland verändert. Viele fühlen sich seither zunehmend bedroht und erleben wachsenden Antisemitismus. Bathe, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 12 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Konservative Räume - Fremde Heimat Kirche",
-      "url": "https://www.deutschlandfunkkultur.de/konservative-raeume-fremde-heimat-kirche-100.html",
-      "description": "Die Institution Kirche steht vor großen Herausforderungen. Ihr muss die Balance zwischen Bewahren und Veränderung gelingen, um bedeutsam zu bleiben. Drei Kirchenmitglieder aus drei Generationen erzählen, was sie noch hält und was sie forttreibt. Dietrich, Kirsten www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 06 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     }
   ]

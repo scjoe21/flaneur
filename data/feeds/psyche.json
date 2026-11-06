@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-11-01T21:10:03.999851+00:00",
+  "fetchedAt": "2026-11-06T11:43:21.764931+00:00",
   "items": [
+    {
+      "title": "How to take notes that actually help you learn",
+      "url": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
+      "description": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 30
+      }
+    },
     {
       "title": "Can you ever really think what someone else is thinking?",
       "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
@@ -20,35 +36,19 @@
       }
     },
     {
-      "title": "How to live a life of awe",
-      "url": "https://psyche.co/videos/encounters-with-awe-have-profound-benefits-heres-how-to-have-more",
-      "description": "You don’t need to climb Kilimanjaro or see the Northern Lights to experience the benefits of awe. It’s everywhere if you look - Video by the University of California and the Greater Good Science Center Watch on Psyche",
-      "date": "Thu, 22 Oct 2026",
+      "title": "How psychology’s classic studies misled us about the self",
+      "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
+      "description": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are - by Jack W Klein & William B Swann Read on Psyche",
+      "date": "Mon, 02 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "How to overcome task paralysis",
-      "url": "https://psyche.co/guides/how-to-overcome-task-paralysis",
-      "description": "If you have ADHD or you’re stressed, tired and stuck, goal management training can help you get started and keep going - by Joe Wilner Read on Psyche",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
+        "daily": 15,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 24
       }
     },
     {
@@ -84,19 +84,35 @@
       }
     },
     {
-      "title": "Why romantic relationships matter more to men than to women",
-      "url": "https://psyche.co/ideas/why-romantic-relationships-matter-more-to-men-than-to-women",
-      "description": "For too long, men were told to be self-sufficient. The research shows they’re more likely to thrive in a loving couple - by Iris Wahring Read on Psyche",
-      "date": "Thu, 22 Oct 2026",
+      "title": "How to break a bad habit",
+      "url": "https://psyche.co/videos/to-break-a-bad-habit-try-telling-yourself-a-different-story",
+      "description": "Feel stuck with a habit you know is bad for you? Getting to know your brain better could help you change the narrative - Video by Dr Tracey Marks Watch on Psyche",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
+      }
+    },
+    {
+      "title": "Who am I if I don’t run?",
+      "url": "https://psyche.co/notes-to-self/the-perils-of-stopping-an-activity-that-forms-your-identity",
+      "description": "When an ankle injury put the brakes on my running habit, I had to rethink the wisdom of tying my identity to an activity - by Richard Fisher Read on Psyche",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
       }
     },
     {
@@ -116,10 +132,26 @@
       }
     },
     {
-      "title": "What life in Denmark shows about the power of emotional safety",
-      "url": "https://psyche.co/ideas/what-life-in-denmark-shows-about-the-power-of-emotional-safety",
-      "description": "A deep sense of ease – what the Danes call ‘tryg’ – is a collective responsibility that allows individuals to flourish - by Ruth Aharoni Nielsen Read on Psyche",
-      "date": "Mon, 19 Oct 2026",
+      "title": "Orbites",
+      "url": "https://psyche.co/videos/in-my-dreams-i-can-see-a-blind-womans-rich-sensory-world",
+      "description": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision - Directed by Sarah Seené Watch on Psyche",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "That feeling of values crumbling has a name: civic grief",
+      "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
+      "description": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche",
+      "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -180,42 +212,10 @@
       }
     },
     {
-      "title": "Are you getting enough sun?",
-      "url": "https://psyche.co/notes-to-self/why-sunlight-is-vital-to-our-physical-and-mental-health",
-      "description": "The new book ‘In Defense of Sunlight’ argues that our concerns about the sun’s risks lead us to overlook its benefits - by Hannah Seo Read on Psyche",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Portraits of another life: Nemo Gould",
-      "url": "https://psyche.co/videos/i-take-silly-very-seriously-a-kinetic-sculptors-credo-of-creation",
-      "description": "Driven by childhood curiosity, a sculptor turns discarded objects into kinetic artworks that are the antidote to AI slop - Video by Portraits of Another Life Watch on Psyche",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The power of pareidolia",
-      "url": "https://psyche.co/videos/why-we-see-faces-in-unexpected-places-and-what-it-says-about-us",
-      "description": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Baby heaven",
+      "url": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
+      "description": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche",
+      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "Dear Al Pacino",
-      "url": "https://psyche.co/turning-points/why-i-wrote-mad-letters-to-celebrities-on-my-mothers-behalf",
-      "description": "I wrote my mother’s mad letters to celebrities. It was the only time we shared the same plane of reality - by Joe Mullich Read on Psyche",
-      "date": "Wed, 21 Oct 2026",
+      "title": "The power of pareidolia",
+      "url": "https://psyche.co/videos/why-we-see-faces-in-unexpected-places-and-what-it-says-about-us",
+      "description": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche",
+      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

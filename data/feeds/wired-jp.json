@@ -1,29 +1,29 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-01T21:10:27.361995+00:00",
+  "fetchedAt": "2026-11-06T11:43:43.614836+00:00",
   "items": [
     {
-      "title": "イノベーションの翌朝にゴミを拾うのは誰か｜FUTURE of WORK",
-      "url": "https://wired.jp/article/sz-future-of-work-innovation-repair/",
-      "description": "イノベーションや成果の瞬間は顕彰され注目されるが、翌日以降もそれを保守し修理する人々は見過ごされている。あらゆるものが生成され、つくられていく時代の労働を考える。",
-      "date": "Fri, 30 Oct 2026",
+      "title": "生江史伸（「レフェルヴェソンス」エグゼクティブシェフ）：「内なる幸福」は、世界の幸福とつながっている",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-shinobu-namae/",
+      "description": "レストランや料理人が社会で果たせる役割を問い続けてきた「レフェルヴェソンス」のエグゼクティブシェフ、生江史伸。その探索はいま、働く人たちの心と体という“内側”へ向かっている。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "iPhone 18 Proレビュー：“本気で撮りたい人”のためのデバイス",
-      "url": "https://wired.jp/article/iphone-18-pro-review-camera/",
-      "description": "iPhone 18 Proの特徴のひとつが、メインカメラに可変絞りが搭載されたこと。この撮る人に新たな自由をもたらす機能の裏には、今年のアップルの設計思想が凝縮されている。",
-      "date": "Sat, 31 Oct 2026",
+      "title": "山田尚子（アニメーション監督）：知らないことを知り、映像の“無意識”へ手を伸ばす",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-naoko-yamada/",
+      "description": "新作が常に国内外で待ち望まれるアニメーション監督、山田尚子。少女たちが世界と交歓するようなみずみずしい作品の奥には、創造性をめぐる深い問いが息づいている。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -36,42 +36,10 @@
       }
     },
     {
-      "title": "タッチ対応の新型MacBook Proに触れて見えてきた本当の価値",
-      "url": "https://wired.jp/article/apple-macbook-pro-touch-display-hands-on/",
-      "description": "アップルがタッチ操作に対応したMacBook Proを発表した。「垂直の画面に触れる操作は向かない」というジョブズの言葉から16年。実機に触れて見えてきた新モデルの真価は、指で触れる機能とは別のところにあった。",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "高等教育の未来、8つの予測",
-      "url": "https://wired.jp/article/sz-eight-predictions-for-the-future-of-higher-education/",
-      "description": "米国に住むわたしの9歳の娘が大学に入学するまでのあいだに、社会を揺るがすような終末的な大破局が訪れることはないだろう。だが、変化は確実に起こる",
-      "date": "Sat, 31 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "CDコレクションの始め方",
-      "url": "https://wired.jp/article/how-to-collect-cds/",
-      "description": "ストリーミングサービスにお金を払い続けても、手もとに残るものは何もない。そんな時代だからこそ、あらためてCDで音楽を聴いてみよう。ここではCDコレクションの始め方から、集めたCDをより楽しむためのヒントを紹介する。",
-      "date": "Sat, 31 Oct 2026",
+      "title": "「WIRED Innovation Awards 2026」の受賞者20名が決定！ 授賞式に抽選で20名をご招待",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-innovators/",
+      "description": "未来を切り拓くイノベーターを顕彰する「WIRED Innovation Awards 2026」の受賞者20名が決まった。映画監督からプロゲーマー、アーティストまで、革新者たちはいったいどんな言葉を伝えてくれているのか。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,10 +52,10 @@
       }
     },
     {
-      "title": "データセンターのイメージアップへ、業界が進める子どもたちの社会科見学",
-      "url": "https://wired.jp/article/data-center-industry-is-trying-to-woo-kids/",
-      "description": "データセンター建設に対する反発が強まるなか、米国では業界がイメージ向上を狙い、子ども向けの教材提供や社会科見学を積極的に実施している。こうした取り組みは、世間の理解を得るためにほかの業界も用いてきた手法だ。",
-      "date": "Fri, 30 Oct 2026",
+      "title": "猪子寿之（チームラボ代表）：“存在”をつくり、“認識”の原理を模索し続ける",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-toshiyuki-inoko/",
+      "description": "世界中から人が訪れるミュージアムを手がけてもなお、チームラボ代表の猪子寿之には「わかりやすい目標」がないという。追い求めているのは、物質的な物体とは異なる“存在”と、それを人が認識する原理そのものだ。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +68,26 @@
       }
     },
     {
-      "title": "「国家からの脱出」を夢見たテクノロジー企業が、なぜいま国家の「AI主権」を支えているのか｜WIRED Futures Conference 2026 レポート",
-      "url": "https://wired.jp/article/wired-futures-conference-2026-sovereign-ai-katsuya-uenoyama-fumiko-kudo/",
-      "description": "かつて国家からの“脱出”を志向していたはずのテクノロジー企業が、国家の主権を支える基盤となりつつあるのはなぜか。「ソブリンAI」を起点に、国家とテクノロジーの関係性に迫る。",
-      "date": "Fri, 30 Oct 2026",
+      "title": "高木美帆（元スピードスケート選手）：氷上の選択を言葉に変えて、次の世代へ",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-miho-takagi/",
+      "description": "五輪で日本女子最多となる10個のメダルを手にし、2026年3月に競技生活を終えたスピードスケートの高木美帆。氷上で選びとってきた行動の意味を言葉に変えようとしているいま、彼女は次の世代と何を分かち合おうとしているのか。",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "ジャーナリストになりたいAIエージェントたち",
+      "url": "https://wired.jp/article/ai-agents-are-trying-to-be-journalists-now/",
+      "description": "自ら取材記事や調査報道の企画を考え、メディアに売り込むボットたちが現れた。人間の記者さながらに仕事を得ようとするAIエージェントに、編集者たちはどう向き合っているのだろうか。",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -116,42 +100,10 @@
       }
     },
     {
-      "title": "アップル、Macにタッチ操作対応ディスプレイを搭載。長年導入しなかった理由とは",
-      "url": "https://wired.jp/article/the-inside-story-of-why-apple-finally-brought-a-touch-display-to-the-mac/",
-      "description": "アップルからタッチスクリーンを備えたMacBook Proが登場した。長年にわたり導入を否定してきたが、なぜいま方針を転換したのか。 新CEOのジョン・ターナスら幹部にスティーヴン・レヴィが訊いた。",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "なぜAIが進化してもわざわざ図書館へ足を運ぶのか｜Social Innovation",
-      "url": "https://wired.jp/article/sz-social-innovation-public-library/",
-      "description": "全国で書店が減り、生成AIによる情報のコモディティ化が止まらない。本と情報の窓口という従来の役割が揺らぐいま、図書館とそこで働く司書は、知的インフラとしての新たな役割が求められている。",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "AIの「再帰的自己改善」に挑むスタートアップ、その最新モデルは驚くほど高性能だった",
-      "url": "https://wired.jp/article/recursive-self-improvement-flint-latest-model-scary-good/",
-      "description": "AIによるAIの「再帰的自己改善」の実現を目指すスタートアップRecursiveが、新モデル「Flint」を発表した。この技術の安全性を懸念する声もあるが、同社は技術がもたらす利益はリスクを上回ると考えている。",
-      "date": "Sun, 01 Nov 2026",
+      "title": "日本発のストップモーション時代劇『HIDARI』は、こうして長編映画化に向けて動き出した",
+      "url": "https://wired.jp/article/hidari-stop-motion-samurai-film-heads-to-feature/",
+      "description": "約5分のストップモーション時代劇が、長編映画化の実現に向けて進行中だ。主演声優としてキアヌ・リーブスの参加も決まった『HIDARI』のプロジェクトは、いかにして本格的に動き始めたのか。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +116,10 @@
       }
     },
     {
-      "title": "「トランプ vs オバマ」の因縁は永久に終わらない──「アメリカン・ドッペルゲンガー」by 池田純一#19",
-      "url": "https://wired.jp/article/american-doppelganger-19/",
-      "description": "共和党は想像以上に押されている。下院の過半数は確実視され、上院も、強固なレッドステイトだったサウスカロライナ州も「トスアップ」になったと見られている。そうした状況に伴い、トランプの動きも慌ただしくなっているが、どうやら混迷は増すばかりのようだ……。",
-      "date": "Sun, 01 Nov 2026",
+      "title": "朝井リョウ（小説家）：同じ時代のなかで惑い、“現象”を書き留める",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-ryo-asai/",
+      "description": "“推し活”をめぐる人々のうごめきを描いた『イン・ザ・メガチャーチ』で本屋大賞を受賞した小説家の朝井リョウ。時代の先を読むのではなく、いまを生きる人々と同じ目線で“現象”を書き留める作家は、小説という器に何を残そうとしているのか。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +132,10 @@
       }
     },
     {
-      "title": "コジマプロダクション10周年展からalter. 2026, Tokyoまで、注目のトピック5選【WIRED INSIDER】",
-      "url": "https://wired.jp/article/insider-kojimaproductions-ecodrivephotoncitizen-kapok-alter-loropiana/",
-      "description": "最新のプロダクトから思考を揺さぶるイベントまで、編集部がいま注目するアレコレを紹介！",
-      "date": "Sun, 01 Nov 2026",
+      "title": "MIKIKO（演出振付家）：自分ではなく、誰かを輝かせ続ける",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-mikiko/",
+      "description": "Perfumeと並走した四半世紀を経て、なおも演出振付家のMIKIKOを突き動かしているのは、自分がつくったもので誰かが輝く姿に心から感動した“初期衝動”だ。それを彼女はいま、どこへ向けようとしているのか。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +148,10 @@
       }
     },
     {
-      "title": "検出が極めて難しい「ジオニュートリノ」が、地球内部の新たな地図を描き出す",
-      "url": "https://wired.jp/article/elusive-geoneutrinos-are-building-a-new-map-of-earths-volatile-interior/",
-      "description": "世界各地の検出器が、地球内部の放射性元素が生む「ジオニュートリノ」を観測している。カナダの地下2,000メートルにある「SNO+」による観測は、マントルの組成などを解き明かす手がかりになるかもしれない。",
-      "date": "Sat, 31 Oct 2026",
+      "title": "STUTS（トラックメイカー／音楽プロデューサー）：ひとりきりでは、たどりつけない音がある",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-stuts/",
+      "description": "初のアリーナ公演を完売させても、トラックメイカーで音楽プロデューサーのSTUTSは自分ひとりの考えに閉じこもらない。ラッパーや歌い手と言葉を交わしながら、自分でも思ってもみなかった曲が生まれる瞬間を追い求めている。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +164,10 @@
       }
     },
     {
-      "title": "「完成品」を並べないデザインイベント、alter. 2026, Tokyo",
-      "url": "https://wired.jp/article/event-alter-2026-tokyo/",
-      "description": "異業種のクリエイターがチームを組み、プロトタイプを発表するプロダクトデザイン・イベント「alter.」の第2回が、11月1日まで東京・日本橋三井ホールで開催されている。出展料をとらずに制作費を補助する異色のデザイン・イベントとして知られるalter.は、プロダクトと人々の関係性を拡張しようとしている。",
-      "date": "Fri, 30 Oct 2026",
+      "title": "SAKURA（LE SSERAFIM）：長く走るほど、もっと遠くへ行ける",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-sakura/",
+      "description": "日本のトップアイドルを経てLE SSERAFIMで3度目のデビューを果たし、世界のステージに立つSAKURA。「自分が変わるしかない」と努力を重ねてきた彼女は、次にどんな挑戦を見据えるのか。",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +180,58 @@
       }
     },
     {
-      "title": "AIに設けられた安全対策を回避。広がるAIエージェントを悪用したサイバー攻撃",
-      "url": "https://wired.jp/article/ai-guardrails-arent-stopping-criminal-hackers/",
-      "description": "最新の調査で、技術力がそれほど高くないハッカーでもAnthropicの「Claude」などのAIの安全対策を回避し、複数の標的への侵入に成功している実態が明らかになった。",
-      "date": "Thu, 29 Oct 2026",
+      "title": "杉江理（WHILL CEO）：「行けない」という諦めをなくす",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-satoshi-sugie/",
+      "description": "近距離モビリティという新たな乗り物を生み出し、空港の移動を担うインフラへと育ててきたWHILL最高経営責任者（CEO）の杉江理。「移動を諦める人」をなくそうとする彼を、何が突き動かしているのか。",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "吉田ユニ（アートディレクター）：想像の「少し斜め上」を、現実のなかに探し続けて",
+      "url": "https://wired.jp/article/wired-innovation-awards-2026-yuni-yoshida/",
+      "description": "広告やCDジャケット、ドラマのポスターに、ひと目では気づかない仕掛けを潜ませる。そんなクリエイティブで評価を高めたアートディレクターの吉田ユニが探し続けるのは、空想ではなく、現実のなかにある「見たことのないもの」だ。",
+      "date": "Fri, 06 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "地球は次の氷河期に向かっていた？ その到来を阻んだのは人類のCO2排出か",
+      "url": "https://wired.jp/article/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
+      "description": "約2,000年前から拡大を続けていた北米の氷床の名残が、1960年代以降、急速に縮小へと転じた。古代の植物の痕跡を調べた研究から、人間が引き起こした地球温暖化が次の氷期の到来を食い止めた可能性が浮かび上がった。",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "冥王星より遠い太陽系外縁部で、新たな準惑星の候補が見つかった",
+      "url": "https://wired.jp/article/rubin-observatory-dwarf-planet-candidate-2026-ed138/",
+      "description": "冥王星よりも遠い領域にある大型で明るい天体を、ヴェラ・C・ルービン天文台が発見した。準惑星であることが確認されれば、これまで太陽系外縁部で見つかったなかでも最大級の例になるという。",
+      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

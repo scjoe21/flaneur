@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-11-01T21:09:39.439557+00:00",
+  "fetchedAt": "2026-11-06T11:43:04.165580+00:00",
   "items": [
     {
       "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 4/4 : \"Nous voulons être les poètes de notre vie\"",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Pour une philosophie de la lecture 2/4 : Méfiez-vous des femmes qui lisent !",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/mefiez-vous-des-femmes-qui-lisent-2106766",
+      "description": "durée : 00:58:54  - Avec philosophie - par : Géraldine Mosna-Savoye - Pourquoi l’accusation de dangerosité de la lecture est-elle dirigée envers les femmes au XIXᵉ siècle ?   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert - invités : Judith Lyon-Caen Historienne, directrice d'études à l'EHESS \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -52,6 +68,22 @@
       }
     },
     {
+      "title": "Comment le mouvement est-il possible ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-lundi-02-novembre-2026-3357470",
+      "description": "durée : 00:03:42  - Le Pourquoi du comment : philo - par : Frédéric Worms - Le paradoxe du mouvement est au coeur de notre vie, au point que certains philosophes ont nié même sa possibilité. On sait pourtant qu'il faut tenir compte de ses deux aspects opposés \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 02 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 10,
+        "total": 30
+      }
+    },
+    {
       "title": "\"Le Gai Savoir\" de Nietzsche, manuel d'un retour à la vie 2/4 : Nietzsche contre le mythe du self-made man",
       "url": "https://www.radiofrance.fr",
       "description": "durée : 00:59:43  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans \"Le Gai Savoir\", Nietzsche se penche sur la question de l'héritage et sur notre rapport au passé. En quoi sa conception de l'hérédité est-elle singulière dans l'histoire de la philosophie ? Comment le philosophe l'articule-t-il à celle d'héritage ?\n  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite",
@@ -84,19 +116,19 @@
       }
     },
     {
-      "title": "Philosopher avec Audre Lorde : \"La sororité n'existe pas\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-sororite-n-existe-pas-8906770",
-      "description": "durée : 00:58:43  - Avec philosophie - par : Géraldine Mosna-Savoye - Audre Lorde entendait remettre la différence au coeur de la pensée : elle s'est adressée aux féministes blanches qui ont pu invisibiliser le travail, les souffrances, les oppressions des femmes noires. Alors au-delà du slogan, comment construire une vraie sororité ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Kiyémis Autrice ",
-      "date": "Tue, 20 Oct 2026",
+      "title": "Pourquoi parle-t-on de mouvement social ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mercredi-04-novembre-2026-4884223",
+      "description": "durée : 00:03:22  - Le Pourquoi du comment : philo - par : Frédéric Worms - Quand un groupe manifeste, en quel sens parlons-nous de mouvement ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
         "daily": 20,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -116,10 +148,10 @@
       }
     },
     {
-      "title": "Comment apprendrons-nous grâce aux relations ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-apprendrons-nous-grace-aux-relations-8425825",
-      "description": "durée : 00:03:54  - Le Pourquoi du comment : philo - par : Frédéric Worms - Face aux conversations inédites que permettent les agents conversationnels, une double approche pédagogique émerge. La transmission du savoir repose désormais sur la complémentarité entre outils numériques et relations interpersonnelles.  - équipe : Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 21 Oct 2026",
+      "title": "Pourquoi le mouvement est-il signe de vie ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mardi-03-novembre-2026-6894310",
+      "description": "durée : 00:04:04  - Le Pourquoi du comment : philo - par : Frédéric Worms - Le mouvement a quelque chose d'inséparable du vivant, mais quel type de mouvement exactement ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -132,66 +164,34 @@
       }
     },
     {
-      "title": "Philosopher avec Audre Lorde : Pour une éthique joyeuse de l'érotisme",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-mercredi-21-octobre-2026-1211780",
-      "description": "durée : 00:58:28  - Avec philosophie - par : Géraldine Mosna-Savoye - L'érotisme pour Audre Lorde est une source de puissance et de ressource. Ce n'est pas la pornographie, mais une manière de penser le corps dans une perspective holistique. Ce concept deviendra central pour elle, et dans sa poésie.   - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Sandrine Montin Poétesse et maîtresse de conférence",
-      "date": "Wed, 21 Oct 2026",
+      "title": "Pour une philosophie de la lecture 1/4 : Sartre : le lecteur est-il forcément un petit bourgeois ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/avec-philosophie-emission-du-lundi-02-novembre-2026-2534025",
+      "description": "durée : 00:58:16  - Avec philosophie - par : Géraldine Mosna-Savoye - Chaque année, au début de l'automne, avec les premiers frimas tombent non pas la pluie mais les prix littéraires. La lecture a beau être un débat, elle est toujours au coeur de nos vies. Le bon moment pour un épisode sur le lecteur engagé selon Sartre, car pour lui, pas de livre sans lecteurice.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haie",
+      "date": "Mon, 02 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 20,
-        "flaneur": 0,
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
+        "total": 19
       }
     },
     {
-      "title": "Pourquoi les relations interpersonnelles sont-elles indispensables ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-les-relations-interpersonnelles-sont-elles-indispensables-7280980",
-      "description": "durée : 00:03:49  - Le Pourquoi du comment : philo - par : Frédéric Worms - Alors que les machines simulent à la perfection les interactions humaines, que nous leurs donnons des prénoms, quel est l'impact de ces outils sur notre vie sociale ? Retour sur la nécessité fondamentale des relations humaines.   - équipe : Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Comment les machines imitent-elles les relations ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-lundi-19-octobre-2026-3594257",
-      "description": "durée : 00:03:42  - Le Pourquoi du comment : philo - par : Frédéric Worms - Que cherchent à imiter les nouvelles machines conversationnelles ? Comment l'intelligence artificielle parvient-elle à simuler l'imprévisibilité et la conversation humaine ? Tentative de réponse.  - équipe : Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Jean-Luc Marion, philosophe : \"Avec le 'Cantique des cantiques', même le caniche a sa part d'infini\"",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/le-souffle-de-la-pensee-emission-du-vendredi-23-octobre-2026-9869312",
-      "description": "durée : 00:58:55  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Le \"Cantique des cantiques\" est le seul texte de toute la Bible dans lequel le nom de Dieu n'est pas prononcé ! Un manuscrit qui, parce qu'il est un chant d'amour, lance un défi à la philosophie et à la théologie. Un texte difficile, qui a pu l'être même pour Jean-Luc Marion !  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger, Pauline Haies - invités : Jean-Luc Marion Philosophe et académicien français \n\nVou",
-      "date": "Fri, 23 Oct 2026",
+      "title": "Pour une philosophie de la lecture 3/4 : A-t-on vraiment lu tant qu’on n’a pas relu ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/a-t-on-vraiment-lu-tant-qu-on-n-a-pas-relu-4654816",
+      "description": "durée : 00:58:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Et vous, avez-vous déjà relu votre roman préféré, celui qui vous a laissé la plus grande des impressions ? Que recherche-t-on dans une relecture ? Une émotion, ou un moment ? Et si relire était le seul moyen de lire, vraiment ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Laure Murat Historienne et écrivaine française \n\nVous a",
+      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 15
       }
     },
@@ -212,35 +212,35 @@
       }
     },
     {
-      "title": "Philosopher avec Audre Lorde : \"Journal du cancer\" : écrire sur soi, se soigner avec les autres",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/journal-du-cancer-ecrire-sur-soi-transmettre-aux-autres-6108265",
-      "description": "durée : 00:58:51  - Avec philosophie - par : Géraldine Mosna-Savoye - Audre Lorde était poète, mais elle avait aussi une pratique du journal. Son écriture devient pour elle une sublimation de l'expérience... et cette expérience, c'est la traversée de la maladie, du cancer.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Mickaëlle Provost Docteure en philosophie de l’Université Paris 1 Panthéon-Sorb",
-      "date": "Thu, 22 Oct 2026",
+      "title": "Vinciane Despret, philosophe, sur Isabelle Stengers : cratéropes, rire et invention des sciences",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/vinciane-despret-philosophe-sur-l-invention-des-sciences-modernes-d-isabelle-stengers-3487228",
+      "description": "durée : 00:58:47  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Vinciane Despret revient sur un texte qui l'a profondément marquée, \"L'Invention des sciences modernes\" de la philosophe Isabelle Stengers.  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger - invités : Vinciane Despret Philosophe, professeure à l’université de Liège \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Automatisation numérique : demain, tous prolétaires de la pensée ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/automatisation-numerique-demain-tous-proletaires-de-la-pensee-4289997",
-      "description": "durée : 00:03:07  - Le Fil philo - par : Anne Alombert - Relire, vérifier et corriger les contenus générés par l'IA : voilà l'une des nouvelles missions confiées aux travailleurs. Pourtant, l'IA est censée nous libérer des tâches répétitives. Dès le 19e siècle, Karl Marx analysait déjà les effets de l'automatisation et de la prolétarisation du travail.  - équipe : Camille Renard, Virginie Le Duault, Thomas Jost, Massimo Bellini, Elise Leu \n\nVous aimez ce podcast ? Pour écouter tous les épisodes ",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Le Fil philo du jeudi 05 novembre 2026",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/le-fil-philo-du-jeudi-05-novembre-2026-3835183",
+      "description": "durée : 00:03:10  - Le Fil philo - équipe : Virginie Le Duault, Camille Renard \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     }
   ]

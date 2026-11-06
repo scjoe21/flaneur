@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-11-01T21:10:09.201318+00:00",
+  "fetchedAt": "2026-11-06T11:43:23.945501+00:00",
   "items": [
     {
       "title": "An Inside Look At How To Tame Unstoppable AI",
@@ -49,6 +49,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Building The New Equilibrium Economy",
+      "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
+      "description": "The post  Building The New Equilibrium Economy  appeared first on  NOEMA .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "In Praise Of Japan’s Failure To Keep Up",
+      "url": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up",
+      "description": "The post  In Praise Of Japan’s Failure To Keep Up  appeared first on  NOEMA .",
+      "date": "Tue, 03 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
       "description": "The post  What We Can Save In A Time Of Endings  appeared first on  NOEMA .",
       "date": "Thu, 15 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "We Are Already Post-Human",
-      "url": "https://www.noemamag.com/we-are-already-post-human",
-      "description": "The post  We Are Already Post-Human  appeared first on  NOEMA .",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Does Claude Feel The Whip?",
-      "url": "https://www.noemamag.com/does-claude-feel-the-whip",
-      "description": "The post  Does Claude Feel The Whip?  appeared first on  NOEMA .",
-      "date": "Thu, 08 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
