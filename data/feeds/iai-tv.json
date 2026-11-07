@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-06T20:49:09.504253+00:00",
+  "fetchedAt": "2026-11-07T20:18:36.950207+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -17,22 +17,6 @@
         "flaneur": 4,
         "novelty": 15,
         "total": 44
-      }
-    },
-    {
-      "title": "Plato Matters More Than Ever | Angie Hobbs",
-      "url": "https://www.youtube.com/watch?v=VTR6YOVuRrA",
-      "description": "Angie Hobbs discusses Plato in the modern world.\n\nWhat applications do ancient texts have now? \n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/why-plato-matters-now-angie-hobbs?utm_source=YouTube&utm_medium=description\n\nWe are told ancient philosophy is a relic. Beautiful, perhaps, but largely irrelevant. Join philosopher and author of Why Plato Matters Now, Angie Hobbs, as she makes the case that ancient philosophy and Plato matter more than ever. From fake news and",
-      "date": "2026-10-20",
-      "thumbnail": "https://i3.ytimg.com/vi/VTR6YOVuRrA/hqdefault.jpg",
-      "videoId": "VTR6YOVuRrA",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
       }
     },
     {
@@ -180,6 +164,38 @@
       }
     },
     {
+      "title": "Fascism is self-destruction | Louisa Munch",
+      "url": "https://www.youtube.com/shorts/eEepmU_p7XY",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch\n\n#fascism #revengestory #politics #destruction #extreme #influencer",
+      "date": "2026-11-07",
+      "thumbnail": "https://i2.ytimg.com/vi/eEepmU_p7XY/hqdefault.jpg",
+      "videoId": "eEepmU_p7XY",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Is the era of the educated elite over? | Michael Gove, Thangam Debbonaire, and Daniel Susskind",
+      "url": "https://www.youtube.com/watch?v=3gZMT_NRWJE",
+      "description": "Michael Gove, Thangam Debbonaire, and Daniel Susskind discuss the end of the educated elite.\n\nDoes education still prepare us for the future?\n\nWith a free trial, you can watch the full debate NOW athttps://iai.tv/video/the-rise-and-fall-of-the-educated-elite\n\nInfluenced by Plato's philosopher-kings and the Enlightenment's faith in reason, education has for centuries been regarded as the surest path to individual flourishing and collective progress. But today, the consensus is fracturing. Degree ",
+      "date": "2026-11-07",
+      "thumbnail": "https://i4.ytimg.com/vi/3gZMT_NRWJE/hqdefault.jpg",
+      "videoId": "3gZMT_NRWJE",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "The Political Double Standard | Jeremy Corbyn, Faiza Shaheen",
       "url": "https://www.youtube.com/shorts/JLChHCYtoVg",
       "description": "",
@@ -218,22 +234,6 @@
       "date": "2026-10-25",
       "thumbnail": "https://i4.ytimg.com/vi/CuygR8MLbyg/hqdefault.jpg",
       "videoId": "CuygR8MLbyg",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Monkeys can't type 'bananas' | Denis Noble",
-      "url": "https://www.youtube.com/shorts/M-R_hjHFN0M",
-      "description": "",
-      "date": "2026-10-18",
-      "thumbnail": "https://i2.ytimg.com/vi/M-R_hjHFN0M/hqdefault.jpg",
-      "videoId": "M-R_hjHFN0M",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

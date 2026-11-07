@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-06T23:29:18.890203+00:00",
+  "fetchedAt": "2026-11-07T20:18:33.450278+00:00",
   "items": [
     {
       "title": "\"Oh wie süß\" – Was Niedlichkeit mit uns macht",
@@ -148,6 +148,22 @@
       }
     },
     {
+      "title": "Bürokratie abbauen – Was ist vernünftig?",
+      "url": "https://www.swr.de/swrkultur/wissen/buerokratie-abbauen-was-ist-vernuenftig-100.html",
+      "description": "Die Bundes- und viele Landesregierungen versprechen Bürokratieabbau – meinen damit aber zum Teil ganz unterschiedliche Maßnahmen. Welche Maßnahmen sind wirklich sinnvoll?",
+      "date": "Sun, 8 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
       "title": "Dyskalkulie – Qualen mit Zahlen",
       "url": "https://www.swr.de/swrkultur/wissen/dyskalkulie-qualen-mit-zahlen-100.html",
       "description": "Die Rechenstörung Dyskalkulie betrifft viele Kinder. Eigentlich gibt es gute Therapien und Hilfen, nur werden die oft nicht angewandt.",
@@ -206,22 +222,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Bürger beteiligen – Was für eine Demokratie wollen die Menschen?",
-      "url": "https://www.swr.de/swrkultur/wissen/buerger-beteiligen-was-fuer-eine-demokratie-wollen-die-buerger-100.html",
-      "description": "Die Eskalation um Stuttgart 21 hat weit über Baden-Württemberg hinaus zu einem Umdenken geführt. Auch andere Länder setzen verstärkt auf Bürgerbeteiligung. Mit positiven Effekten.",
-      "date": "Sun, 25 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-11-06T23:29:10.110909+00:00",
+  "fetchedAt": "2026-11-07T20:18:25.691402+00:00",
   "items": [
     {
       "title": "The Generosity of Selfishness: C.S. Lewis on How to Be Interesting",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Albert Camus on Stubbornness and Creativity",
+      "url": "https://www.themarginalian.org/2026/11/07/albert-camus-writing/",
+      "description": "\"There is no greatness without a little stubbornness... Works of art are not born in flashes of inspiration but in a daily fidelity.\"",
+      "date": "Sat, 07 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -200,22 +216,6 @@
       "url": "https://www.themarginalian.org/2026/11/01/may-sarton-canticle-6-considerations/",
       "description": "\"There is no place more intimate than the spirit alone.\"",
       "date": "Sun, 01 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Albert Camus on the Three Antidotes to the Absurdity of Life",
-      "url": "https://www.themarginalian.org/2026/10/31/albert-camus-interview-absurd/",
-      "description": "\"In a world whose absurdity appears to be so impenetrable, we simply must reach a greater degree of understanding among men, a greater sincerity.\"",
-      "date": "Sat, 31 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

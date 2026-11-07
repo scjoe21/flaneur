@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-06T23:29:09.389821+00:00",
+  "fetchedAt": "2026-11-07T20:18:24.823846+00:00",
   "items": [
     {
       "title": "The Pope Confronts One of His Toughest Political Challenges",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "What Happened to JetBlue?",
+      "url": "https://www.theatlantic.com/ideas/2026/11/airlines-bankruptcy-profit-jetblue/689332/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-07",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "A Night of Pure Trumpenfreude",
       "url": "https://www.theatlantic.com/ideas/2026/11/trump-midterm-results-schadenfreude/689277/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Texas Republicans Get Washed",
-      "url": "https://www.theatlantic.com/ideas/2026/11/texas-blue-democrats-win/689278/?utm_source=feed",
       "description": "",
       "date": "2026-11-04",
       "thumbnail": "",

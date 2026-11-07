@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-06T23:29:09.004279+00:00",
+  "fetchedAt": "2026-11-07T20:18:24.327113+00:00",
   "items": [
     {
       "title": "Life is the most important problem in physics",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Mapping the brain won’t unlock all its secrets. That’s a good thing.",
-      "url": "https://bigthink.com/books/mapping-the-brain/",
-      "description": "There’s a quote attributed to New Zealand physicist Ernest Rutherford that goes something like this: “All science is either physics or stamp collecting.” In other words, some scientists perform experiments to explain how things work, while others don’t test specific hypotheses but instead observe the natural world and take note of what they find. The latter may seem inferior, but don’t underestimate the influence of observational science; after all, biology’s greatest stamp collector was probabl",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/circuit-breakers_excerpt.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
       }
     },
     {
@@ -97,6 +81,22 @@
         "flaneur": 8,
         "novelty": 10,
         "total": 23
+      }
+    },
+    {
+      "title": "Will AI make life less meaningful? A survey finds optimism hinges on whether humans keep control.",
+      "url": "https://bigthink.com/science-tech/will-ai-make-life-less-meaningful-a-survey-finds-optimism-hinges-on-whether-humans-keep-control/",
+      "description": "OpenAI recently announced that its latest artificial intelligence model had solved, in a matter of weeks, more than 100 math problems that humans had worked on for years. The news sparked what seemed like an existential crisis among mathematicians, leaving some to wonder what role humans would have in the future of their field. It’s not just academics who are worried. In a new national  survey , we found that Americans are more likely to see AI as a threat to meaning than as a resource that supp",
+      "date": "Sat, 07 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/ai-life-less-meaning_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {

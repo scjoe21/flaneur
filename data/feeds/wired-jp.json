@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-06T23:29:27.025803+00:00",
+  "fetchedAt": "2026-11-07T20:18:45.336827+00:00",
   "items": [
     {
       "title": "生江史伸（「レフェルヴェソンス」エグゼクティブシェフ）：「内なる幸福」は、世界の幸福とつながっている",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "是枝裕和とエイミー・ホンマが語る、映画文化の未来",
+      "url": "https://wired.jp/article/women-in-motion-hirokazukoreeda-amyhomma/",
+      "description": "ケリング「ウーマン・イン・モーション」は、表現を育み、より平等な社会の実現を目指す国際的プログラムだ。今年、その舞台裏では、ロサンゼルスにある映画博物館の仕組みを手がかりに、日本映画の現在地や、豊かな映画文化を次世代へいかに手渡すかが語られた。",
+      "date": "Sat, 07 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -81,6 +97,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "『ブレードランナー2099』──レプリカント支配下の世界で「希望」を描く",
+      "url": "https://wired.jp/article/wired-world-fair-2026-blade-runner-2099/",
+      "description": "Amazonプライム・ビデオの『ブレードランナー2099』でショーランナーを務めるシルカ・ルイーザと出演者のハンター・シェイファーは、レプリカントが人間に代わって支配する世界の明るい側面を表現しようとしている。",
+      "date": "Sat, 07 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "AIによる人類滅亡の確率は「ほぼゼロ」──Hugging FaceのCEOが語る",
+      "url": "https://wired.jp/article/wired-world-fair-2026-clement-delangue-hugging-face/",
+      "description": "「リスクの大部分は、密室で開発を進めるひと握りのプレイヤーによって生み出されている」。Hugging FaceのCEO、クレマン・ドゥラングはオープンソースAIの必要性を訴えた。",
+      "date": "Sat, 07 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/wired-innovation-awards-2026-sakura/",
       "description": "日本のトップアイドルを経てLE SSERAFIMで3度目のデビューを果たし、世界のステージに立つSAKURA。「自分が変わるしかない」と努力を重ねてきた彼女は、次にどんな挑戦を見据えるのか。",
       "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "杉江理（WHILL CEO）：「行けない」という諦めをなくす",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-satoshi-sugie/",
-      "description": "近距離モビリティという新たな乗り物を生み出し、空港の移動を担うインフラへと育ててきたWHILL最高経営責任者（CEO）の杉江理。「移動を諦める人」をなくそうとする彼を、何が突き動かしているのか。",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "吉田ユニ（アートディレクター）：想像の「少し斜め上」を、現実のなかに探し続けて",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-yuni-yoshida/",
-      "description": "広告やCDジャケット、ドラマのポスターに、ひと目では気づかない仕掛けを潜ませる。そんなクリエイティブで評価を高めたアートディレクターの吉田ユニが探し続けるのは、空想ではなく、現実のなかにある「見たことのないもの」だ。",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "地球は次の氷河期に向かっていた？ その到来を阻んだのは人類のCO2排出か",
-      "url": "https://wired.jp/article/ice-age-beginning-then-humans-started-burning-fossil-fuels/",
-      "description": "約2,000年前から拡大を続けていた北米の氷床の名残が、1960年代以降、急速に縮小へと転じた。古代の植物の痕跡を調べた研究から、人間が引き起こした地球温暖化が次の氷期の到来を食い止めた可能性が浮かび上がった。",
-      "date": "Thu, 05 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

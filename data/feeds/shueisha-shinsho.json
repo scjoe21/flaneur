@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-11-06T23:29:25.510237+00:00",
+  "fetchedAt": "2026-11-07T20:18:40.318502+00:00",
   "items": [
     {
       "title": "題名のつけ方とインスマスの「影」について",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "なぜ極右は矛盾だらけなのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/nazekyokuu_france/37570",
+      "description": "極右とは矛盾のかたまりである。「極右」と呼ばれるのを嫌う割に、過激さを完全に脱ぎ捨てることはしない。政権を担える普通の政党になりたいが、既成政党と同じにはなりたくない。「エリート」に反発するが、「弱者」にもなりたくない […]",
+      "date": "Sat, 07 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -104,22 +120,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37416",
       "description": "独立研究者/パブリックスピーカーの山口周は、2023年４月21日付のnoteで、パンデミックが都市に与える影響について、次のような考察を記していた。キーワードは「仮想空間へのシフト」だ。論旨の要約は以下になる。 　イン […]",
       "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "世界から見た都市・東京の現在地【前編】",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37393",
-      "description": "2023年、新型コロナウィルス感染症の蔓延で止まった時間が再び流れ出すとともに、東京では「東京ミッドタウン八重洲」「麻布台ヒルズ」「高輪ゲートウェイシティ」「渋谷サクラステージ」と、超高層タワーを主体とした大規模再開発 […]",
-      "date": "Wed, 28 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
