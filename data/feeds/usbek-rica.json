@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-11-07T20:18:02.961964+00:00",
+  "fetchedAt": "2026-11-08T21:06:22.747415+00:00",
   "items": [
     {
       "title": "« Les dispositifs de surveillance concernent de plus en plus toutes les sphères de la vie »",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "À Roubaix, une école pour former les réparateurs de demain",
+      "url": "https://usbeketrica.com/fr/article/a-roubaix-une-ecole-pour-former-les-reparateurs-de-demain",
+      "description": "Former les artisans de la mode circulaire de demain : c’est toute l’ambition de l’École de la Réparation qui a accueilli sa deuxième promotion à la rentrée 2026. Plongée dans cet établissement hybride qui entend raccommoder bien plus que des vêtements et des chaussures.",
+      "date": "Sun, 08 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/du-timbre-au-post-it-et-a-l-agent-ia-quel-futur-pour-l-engagement",
       "description": "Les partis et les syndicats se vident. Pourtant, les lycéens bloquent leurs établissements et certains hashtags font le tour de la planète. Dans cette chronique, la prospectiviste Cécile Wendling, à la tête du cabinet Pan-or-amiques.com et chercheuse associée au Centre de sociologie des organisations (CSO), examine, génération par génération, qui s’engage aujourd’hui et qui s’engagera demain.",
       "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Vote à 16 ans, « New Deal » intergénérationnel… 5 pistes pour en finir avec la gérontocratie",
-      "url": "https://usbeketrica.com/fr/article/vote-a-16-ans-new-deal-intergenerationnel-5-pistes-pour-en-finir-avec-la-gerontocratie",
-      "description": "Pondération du vote en fonction de l’âge, nouvelles chambres parlementaires dédiées aux générations futures… Usbek & Rica a passé en revue plusieurs solutions, des plus modestes aux plus radicales, pour adapter la démocratie française à sa nouvelle réalité démographique. Second volet de notre dossier sur la gérontocratie.",
-      "date": "Mon, 26 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

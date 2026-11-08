@@ -1,8 +1,24 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-11-07T20:18:30.071694+00:00",
+  "fetchedAt": "2026-11-08T21:06:51.933851+00:00",
   "items": [
+    {
+      "title": "Wie digitale Medien die politische Öffentlichkeit verändern",
+      "url": "https://www.deutschlandfunk.de/die-lesende-demokratie-digitale-medien-veraendern-die-politische-oeffentlichkeit-100.html",
+      "description": "Wie verändern TikTok, künstliche Intelligenz und sinkende Lesekompetenz unsere Demokratie? Zwischen Fake News, Bildungsungleichheit und digitaler Zerstreuung entscheidet sich, ob Bücher und Bibliotheken Orte politischer Mündigkeit bleiben. Leggewie, Claus www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sat, 07 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "Wie das Leistungsprinzip den Sozialstaat zu verändern droht",
       "url": "https://www.deutschlandfunk.de/recht-der-staerkeren-leistungsprinzip-sozialstaat-kuerzungen-de-gregorio-100.html",
@@ -78,22 +94,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Von der Demokratie zur Plutokratie? - Wie man den Regimewechsel noch verhindern kann",
-      "url": "https://www.deutschlandfunk.de/wie-man-den-regimewechsel-noch-verhindern-kann-100.html",
-      "description": "Geld regiert die Welt, eine alte Weisheit, die heute Schule macht. Donald Trump und Elon Musk sind dabei, in den USA die Verbindung von Macht und Geld in Politik zu verwandeln. Ist das eine Entwicklung, die die alten Demokratien substanziell bedroht? Von Claus Leggewie www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 25

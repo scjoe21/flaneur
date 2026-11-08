@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-07T20:18:08.309605+00:00",
+  "fetchedAt": "2026-11-08T21:06:28.588876+00:00",
   "items": [
     {
       "title": "Wie wir die Welt sehen",
@@ -164,22 +164,6 @@
       }
     },
     {
-      "title": "Der Erfinder des Abraums",
-      "url": "https://www.philomag.de/artikel/der-erfinder-des-abraums",
-      "description": "In seinem neuen Roman  Das tickende Herz  schickt Lutz Seiler einen Lyriker in die Steppe und lässt ihn dort nach Heilung suchen. Dichter, Weltretter, Erdbeschützer: Sie alle kommen in zwielichtigen Gemeinschaften zusammen – die in Seilers Werk immer wieder untergraben werden.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "Anna-Bettina Kaiser: „Trump verachtet das Recht“",
       "url": "https://www.philomag.de/artikel/anna-bettina-kaiser-trump-verachtet-das-recht",
       "description": "Droht den USA ein Staatsstreich durch Donald Trump – und das umso mehr, wenn die Republikaner bei den morgigen Midterms verlieren? Ein Gespräch mit der Rechtswissenschaftlerin Anna-Bettina Kaiser über berechtigte Sorgen um die US-Demokratie, den sogenannten „Selbstputsch“ und die wenigen Institutionen, die Trump Widerstand entgegenbringen.",
@@ -196,9 +180,9 @@
       }
     },
     {
-      "title": "Ein andres gutes Land",
-      "url": "https://www.philomag.de/artikel/ein-andres-gutes-land",
-      "description": "Die Kamerun Qrella Group verhandelt auf dem Album  Abteilung Blühende Landschaften  das deutschdeutsche Verhältnis.",
+      "title": "Wir wissen, was du dir wünschst",
+      "url": "https://www.philomag.de/artikel/wir-wissen-was-du-dir-wuenschst",
+      "description": "Wenn es dunkel wird: Die Redaktion empfiehlt acht Bücher zu Weihnachten, die erhellen, zu denken geben, trösten oder wach rütteln.",
       "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
@@ -212,26 +196,42 @@
       }
     },
     {
+      "title": "Wissen Betroffene mehr?",
+      "url": "https://www.philomag.de/artikel/wissen-betroffene-mehr",
+      "description": "Empathie und Intellekt erlauben es uns, die Erfahrungen anderer nachzuvollziehen. Doch wo liegen die Grenzen unseres Einfühlungsvermögens? Wissen die Ausgegrenzten und Unterdrückten etwas, was andere nie verstehen werden?",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Relikt der Gabe",
+      "url": "https://www.philomag.de/artikel/relikt-der-gabe",
+      "description": "Festgelegte Trinkgeldbeträge an EC-Geräten mehren sich. Doch die Sozialität stiftende Funktion der Gabe geht auf diese Weise verloren.",
+      "date": "Fri, 30 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Gibt es einen Besitzinstinkt?",
       "url": "https://www.philomag.de/artikel/gibt-es-einen-besitzinstinkt",
       "description": "Ist Eigentum in der menschlichen Natur verankert oder vielmehr ein soziales Konstrukt? Um eine Antwort darauf zu finden, muss man dem französischen Philosophen Frédéric Gros zufolge diese allzu vereinfachende Gegenüberstellung hinter sich lassen.",
       "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Queere Geschichte schreiben",
-      "url": "https://www.philomag.de/artikel/queere-geschichte-schreiben",
-      "description": "Im Podcast  I Will Survive  blickt Phillip Syvarth auf die AidsKrise in Bayern zurück und zeigt, welche Bedeutung sie für die queere Bewegung bis heute hat.",
-      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

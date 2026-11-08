@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-11-07T20:18:25.691402+00:00",
+  "fetchedAt": "2026-11-08T21:06:47.917631+00:00",
   "items": [
     {
       "title": "The Generosity of Selfishness: C.S. Lewis on How to Be Interesting",
@@ -36,22 +36,6 @@
       }
     },
     {
-      "title": "Meteor of Joy: The Young People’s Chorus of New York City Sings Bird Divinations",
-      "url": "https://www.themarginalian.org/2026/10/31/meteor-of-joy-paola-prestini/",
-      "description": "Children know the deepest truths about life, the elemental knowledge we unlearn in the act of living, those inarticulable truths music alone helps us remember. To hear children sing the secret wisdom of the heart is to be in the presence of something truer and more transcendent than any of our poems and postulates can touch — the ultimate affirmation of our aliveness, emanating Richard Powers’s beautiful and bittersweet assertion that “the use of music is to remind us how short a time we have a ",
-      "date": "Sat, 31 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 28,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 28
-      }
-    },
-    {
       "title": "The Founding Father of Neuroscience on Solitude, the Search for Truth, and the Ideal Environment for Breakthroughs",
       "url": "https://www.themarginalian.org/2026/11/03/cajal-science-solitude/",
       "description": "\"Oh comforting solitude, how favorable thou art to original thought!\"",
@@ -65,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Wendell Berry on Where Our Loved Ones Gone Go",
+      "url": "https://www.themarginalian.org/2026/11/08/wendell-berry-loved-ones/",
+      "description": "To love is to sign a contract with loss. To love anyway is both the great tragedy and the great triumph of life. When two people have loved one another, each has become embedded in the marrow of the other’s being and both have had a profound experience that cannot be unhad even when the slender thread of grace between them is severed, by death or disenchantment. “No one you love is ever dead,” Hemingway wrote in his moving meditation on death and the meaning of life disguised as a letter of cons",
+      "date": "Sun, 08 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
       }
     },
     {
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "How to Harness Your Existential Wanderlust",
+      "url": "https://www.themarginalian.org/2026/11/07/rockwell-kent-wilderness-wanderlust/",
+      "description": "\"Wander where you will over all the world, from every valley seeing forever new hills calling you to climb them, from every mountain top farther peaks enticing you... until you stand one day on the last peak on the border of the interminable sea, stopped by the finality of that.\"",
+      "date": "Sun, 08 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
+      }
+    },
+    {
       "title": "Albert Camus on Stubbornness and Creativity",
       "url": "https://www.themarginalian.org/2026/11/07/albert-camus-writing/",
       "description": "\"There is no greatness without a little stubbornness... Works of art are not born in flashes of inspiration but in a daily fidelity.\"",
@@ -97,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Hope Is the Thing with Feathers, and with Fangs: The Alchemy of Unrequited Love and the Story Behind Emily Dickinson’s Most Famous Poem",
+      "url": "https://www.themarginalian.org/2026/11/08/emily-dickinson-hope-kate/",
+      "description": "This essay is adapted from the nineteenth chapter of my book Figuring. In the first autumn of her thirties, Emily Dickinson wrote to her confidante and eventual editor Thomas Wentworth Higginson: I had a terror — since September — I could tell to none, and so I sing, as the Boy does by the Burying Ground — because I am afraid. Not a “fright,” not a “shock,” but a terror. What lay behind this enormity implied by a woman who measured her words so meticulously? Generations of biographers have fille",
+      "date": "Sun, 08 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -184,38 +216,6 @@
       "url": "https://www.themarginalian.org/2026/11/03/how-to-grow-old-bertrand-russell/",
       "description": "\"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.\"",
       "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Trial, Triumph, and the Art of the Possible: The Moving Story Behind Beethoven’s “Ode to Joy,” a Lifetime of Sorrow in the Making",
-      "url": "https://www.themarginalian.org/2026/11/02/beethoven-ode-to-joy/",
-      "description": "A hymn of rage, a hymn of redemption, and a timeless love letter to the possible.",
-      "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Art of Being Alone: May Sarton’s Stunning 1938 Ode to Solitude",
-      "url": "https://www.themarginalian.org/2026/11/01/may-sarton-canticle-6-considerations/",
-      "description": "\"There is no place more intimate than the spirit alone.\"",
-      "date": "Sun, 01 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

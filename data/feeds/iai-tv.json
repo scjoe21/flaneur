@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-07T20:18:36.950207+00:00",
+  "fetchedAt": "2026-11-08T21:06:59.120579+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -100,19 +100,19 @@
       }
     },
     {
-      "title": "Curtis Yarvin challenged on his views on benevolent monarchy",
-      "url": "https://www.youtube.com/watch?v=ddIZAoGQRBY",
-      "description": "Curtis Yarvin discusses the failures of democracy.\n\nWould a return to monarchy be beneficial to you?\n\nWith a free trial, you can watch more talks like this now at https://iai.tv/video/curtis-yarvin-challenged-on-his-argument-for-benevolent-monarchy?utm_source=YouTube&utm_medium=description\n\nWe tend to think that liberal democracy, for all its flaws, is ultimately a just and functioning form of government. Controversial figure Curtis Yarvin, here challenged by the IAI's Alexis Papazoglou, argues ",
-      "date": "2026-10-22",
-      "thumbnail": "https://i1.ytimg.com/vi/ddIZAoGQRBY/hqdefault.jpg",
-      "videoId": "ddIZAoGQRBY",
-      "priority": 15,
+      "title": "AI vs Bacteria | Denis Noble",
+      "url": "https://www.youtube.com/shorts/le-vY4g5nPU",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\n#ai #artificialintelligence #biology# evolution #Turing #Darwin",
+      "date": "2026-11-08",
+      "thumbnail": "https://i1.ytimg.com/vi/le-vY4g5nPU/hqdefault.jpg",
+      "videoId": "le-vY4g5nPU",
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {

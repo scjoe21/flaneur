@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-07T20:18:05.570593+00:00",
+  "fetchedAt": "2026-11-08T21:06:25.786676+00:00",
   "items": [
     {
       "title": "Wie Geld Recht spricht",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Religionsfreiheit: Welche Grenzen gelten für den Glauben?",
+      "url": "https://www.deutschlandfunkkultur.de/sein-und-streit-08-11-2026-100.html",
+      "description": "Die Religionsfreiheit ist ein Menschenrecht, aber ihre Ausdeutung hoch umstritten. Ob nun ein Kruzifix im Klassenzimmer, eine Richterin mit Kopftuch oder Gebetswachen gegen Schwangerschaftsabbrüche: Wir diskutieren über aktuelle Konfliktlinien. Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 08 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Autorität: Worauf wir hören sollten - und worauf nicht",
       "url": "https://www.deutschlandfunkkultur.de/autoritaet-lisz-hirn-100.html",
       "description": "Autoritarismus, antiautoritäre Erziehung - und die KI, der wir immer mehr Macht geben: das Thema Autorität ist brandaktuell. Die Wiener Philosophin Lisz Hirn erklärt, was gute von schlechter Autorität unterscheidet - und wo wir Widerstand leisten müssen. Newmark, Catherie; Hirn, Lisz www.deutschlandfunkkultur.de, Sein und Streit",
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Versprechen ohne Glanz: Was folgt auf den Liberalismus?",
-      "url": "https://www.deutschlandfunkkultur.de/postliberalismus-gesellschaftsvisionen-jenseits-des-individuums-100.html",
-      "description": "Leistung muss sich lohnen. Der Staat schützt die Freiheit des Individuums. Solche Versprechen liberaler Gesellschaften haben an Glanz verloren, denn sie wurden nicht für alle eingelöst. Sind Postliberale Ideen verlässlicher? Selk, Veith; Eilenberger, Wolfram www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 06 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

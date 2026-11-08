@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-07T20:18:33.450278+00:00",
+  "fetchedAt": "2026-11-08T21:06:55.482130+00:00",
   "items": [
     {
       "title": "\"Oh wie süß\" – Was Niedlichkeit mit uns macht",
@@ -81,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Albträume – Was uns quält und wie wir es loswerden",
+      "url": "https://www.swr.de/swrkultur/wissen/albtraeume-was-uns-quaelt-und-wie-wir-es-loswerden-100.html",
+      "description": "Millionen Menschen in Deutschland bekommen im Traum Panikattacken oder leiden unter Versagensängsten. Wir blicken auf typische Albtraummotive und wirksame Therapien.",
+      "date": "Mon, 9 Nov 2026 ",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 19,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 19
       }
     },
     {
@@ -200,22 +216,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/flamingo-proteste-in-albanien-gegen-korruption-und-kushner-100.html",
       "description": "Die \"Flamingo-Proteste\" in Albanien wenden sich gegen Korruption, Vetternwirtschaft und die Regierung von Edi Rama. Auslöser war ein umstrittenes Luxusprojekt von Jared Kushner.",
       "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Pilze sammeln – Naturnahes Hobby oder ökologisch fragwürdiger Trend?",
-      "url": "https://www.swr.de/swrkultur/wissen/pilze-sammeln-naturnahes-hobby-oder-oekologisch-fragwuerdiger-trend-100.html",
-      "description": "Pilz-Influencer erreichen auf Social Media ein großes Publikum, geführte Pilz-Sammel-Touren sind gefragt, Start-ups machen den Pilz-Hype zum Business. Doch der Trend hat Kehrseiten.",
-      "date": "Mon, 26 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

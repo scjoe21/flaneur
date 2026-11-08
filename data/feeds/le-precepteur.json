@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-11-07T20:18:01.704720+00:00",
+  "fetchedAt": "2026-11-08T21:06:21.212537+00:00",
   "items": [
     {
       "title": "La vraie infidélité",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "Le saccageur",
+      "url": "https://www.youtube.com/shorts/gcF5iTtXQRU",
+      "description": "Il y a 2 000 ans, les stoïciens expliquaient déjà que nous ne sommes pas obligés de subir nos émotions. Dans cette vidéo, je vous explique pourquoi laisser les événements saccager votre sérénité, c'est exactement comme ouvrir votre porte à quelqu'un qui vient saccager votre appartement.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de l'épisode « LE STOÏCISME - Perdre sa colère » : https://youtu.be/RkiZ88orTIo\n\n#philosophie #précepteur #stoïcisme #colère #émotions #sérénité",
+      "date": "2026-11-08",
+      "thumbnail": "https://i4.ytimg.com/vi/gcF5iTtXQRU/hqdefault.jpg",
+      "videoId": "gcF5iTtXQRU",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -106,22 +122,6 @@
       "date": "2026-10-08",
       "thumbnail": "https://i4.ytimg.com/vi/7xpGecZg8Tc/hqdefault.jpg",
       "videoId": "7xpGecZg8Tc",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 20,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
-      "title": "5 questions qui vont vous empêcher de dormir",
-      "url": "https://www.youtube.com/shorts/ULzQPNZl72s",
-      "description": "Et vous, quelle question vous empêche de dormir ?\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #questions #existence #réflexion #esprit",
-      "date": "2026-10-06",
-      "thumbnail": "https://i2.ytimg.com/vi/ULzQPNZl72s/hqdefault.jpg",
-      "videoId": "ULzQPNZl72s",
       "priority": 29,
       "scoreDetail": {
         "daily": 5,
