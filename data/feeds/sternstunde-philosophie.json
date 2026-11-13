@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-11-08T21:06:31.694876+00:00",
+  "fetchedAt": "2026-11-13T11:47:12.718345+00:00",
   "items": [
     {
       "title": "Bequeme neue Welt: Verlernen wir das Menschsein? | Sternstunde Philosophie | SRF Kultur",
@@ -196,18 +196,18 @@
       }
     },
     {
-      "title": "Neuropolitik: Hirn statt Moral, Liya Yu?",
-      "url": "https://www.youtube.com/watch?v=faOdp4xP7lc",
-      "description": "Wir diskutieren, argumentieren, moralisieren – und ändern doch selten unsere Meinung. Die neuropolitische Philosophin Liya Yu sagt: Kein Wunder. Unser Gehirn sei nämlich gar nicht für Toleranz gemacht.\n\nIn einem sind wir Menschen wahnsinnig gut: Wir sortieren blitzschnell, wer zu uns gehört und wer zu den Anderen. So tolerant wir uns gern geben – in unseren Hirnwindungen sind Mechanismen am Werk, die unsere ethischen Werte sabotieren. Und genau das wissen Rechtspopulisten zu nutzen. In ihrem Buc",
-      "date": "2026-09-08",
-      "thumbnail": "https://i3.ytimg.com/vi/faOdp4xP7lc/hqdefault.jpg",
-      "videoId": "faOdp4xP7lc",
+      "title": "KI-Wettlauf – Was bedroht uns wirklich, Rainer Mühlhoff? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=nBVr0TU2Czo",
+      "description": "Die Entzückung über den technischen Fortschritt der KI weicht zunehmend der Panik: Was, wenn eine Superintelligenz die ganze Menschheit auslöscht? Der Philosoph und Mathematiker Rainer Mühlhoff sieht die Gefahren woanders: in der zunehmenden Verflechtung von Tech-Unternehmen und dem Staat.\n\nThemen in dieser Folge:\n00:00 Der neue digitale Kapitalismus \n17:35 Eine neue Form von Faschismus? \n26:40 Wird uns die KI auslöschen? \n41:08 Transhumanismus und Longtermismus als zugrundeliegende Ideologien \n",
+      "date": "2026-11-09",
+      "thumbnail": "https://i3.ytimg.com/vi/nBVr0TU2Czo/hqdefault.jpg",
+      "videoId": "nBVr0TU2Czo",
       "priority": 25,
       "scoreDetail": {
         "daily": 5,
-        "phil": 20,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 10,
         "total": 25
       }
     },

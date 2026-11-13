@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-08T21:06:53.123818+00:00",
+  "fetchedAt": "2026-11-13T11:47:26.652915+00:00",
   "items": [
     {
       "title": "Smart Store und Plauderkasse - Wie sich Supermärkte neu erfinden",
@@ -17,6 +17,38 @@
         "flaneur": 8,
         "novelty": 0,
         "total": 43
+      }
+    },
+    {
+      "title": "Comedians auf Tour: Wo im Lande wird wie gelacht?",
+      "url": "https://www.deutschlandfunkkultur.de/comedians-auf-tour-eine-etwas-andere-rundreise-durch-deutschland-100.html",
+      "description": "Gibt es so etwas wie eine Landkarte des Lachens? Orte, an denen Comedians besonders gern auftreten und solche, die sie lieber meiden? Was erfahren Comedians auf Tour über Deutschland und das Lachen? Eine Reise in die Backstages von Comedyshows. Wenzel, Ingrid www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 35,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "Freiheit: Ein Grundrecht als politischer Kampfbegriff",
+      "url": "https://www.deutschlandfunkkultur.de/wem-gehoert-die-freiheit-ein-grundrecht-als-politischer-kampfbegriff-100.html",
+      "description": "Kaum ein Begriff ist in westlichen Gesellschaften so positiv besetzt wie Freiheit. Was damit gemeint ist, bleibt aber oft unklar. Auch Populisten reklamieren die Freiheit für sich, verstehen darunter aber etwas ganz anderes. Köppchen, Ulrike www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 09 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -84,35 +116,19 @@
       }
     },
     {
-      "title": "Bunkermentalität - Schutzräume in der Zeitenwende",
-      "url": "https://www.deutschlandfunkkultur.de/bunkermentalitaet-schutzraeume-in-der-zeitenwende-100.html",
-      "description": "Deutschland prüft, alte Bunker zu reaktivieren, da der Krieg in Europa neue Sicherheitsängste weckt. Viele Schutzräume dienen heute als Museen oder Kunstorte. Auch Serien wie „Fallout“ und „Silo“ greifen die wachsende Bunkermentalität auf. (Erstsendung am 17.3.26) Spittler, Christoph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 19 Oct 2026",
+      "title": "KI-assoziierte Psychosen: Wie Chatbots unsere Wahrnehmung verändern können",
+      "url": "https://www.deutschlandfunkkultur.de/gefaehrliche-naehe-ki-psychose-und-die-sehnsucht-nach-menschlichkeit-100.html",
+      "description": "Unterhaltungen mit Chatbots wirken zum Teil wie Gespräche mit echten Menschen. Aber was passiert, wenn ein KI-System nicht nur reagiert, sondern uns bestätigt und scheinbar versteht? Schon gibt es das Schlagwort von der KI-Psychose. (Erstsendung 9.7.2026) Schroeder,Carina www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Der Industriearbeiter - Abgesang auf einen deutschen Helden",
-      "url": "https://www.deutschlandfunkkultur.de/der-industriearbeiter-abgesang-auf-einen-deutschen-helden-100.html",
-      "description": "Der Industriearbeiter war nach 1945 in Ost- und Westdeutschland Motor und Symbolfigur des wirtschaftlichen Aufschwungs. Vom alten Arbeiterstolz scheint nicht mehr viel übrig zu sein. Jeden Monat gehen über 10.000 Industriearbeitsplätze verloren. Köppchen, Ulrike www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 13 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -148,35 +164,19 @@
       }
     },
     {
-      "title": "Chemie ohne Erdöl: Wie die Kohlenstoffwende gelingen soll",
-      "url": "https://www.deutschlandfunkkultur.de/die-kohlenstoffwende-alternative-rohstoffquellen-fuer-die-chemieindustrie-100.html",
-      "description": "Ob Medikamente, Kunststoffe oder Kosmetika: In allen steckt Kohlenstoff. Dieser stammt aus Erdöl und Erdgas. Damit ist die Chemieindustrie von Importen abhängig. Kann eine Kohlenstoffwende mit neuen Rohstoffquellen gelingen? Neumeier, Claudia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 15 Oct 2026",
+      "title": "Bauen in Deutschland - Verloren zwischen Normen und Richtlinien",
+      "url": "https://www.deutschlandfunkkultur.de/mehr-teurer-komplizierter-normen-und-richtlinien-am-bau-100.html",
+      "description": "Bauen in Deutschland ist teuer und kompliziert. Das liegt an gestiegenen Preisen für Material und Dienstleistungen – und an immer höheren Standards: An knapp 4.000 DIN-Normen und Richtlinien müssen sich Architekten und Ingenieure halten. (Erstsendung 23.3.26) Schwarz, Marietta www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Handyspiele: Zeitverschwendung, Entspannung und Big Business",
-      "url": "https://www.deutschlandfunkkultur.de/verdaddel-ich-mein-leben-handyspiele-als-zeitfresser-und-milliardengeschaeft-100.html",
-      "description": "Ob in Bahn, Warteschlange oder Cafe - das Handy ist fast immer zur Hand. Erstaunlich viele spielen. Der Markt für Games wächst kontinuierlich. Sind Handyspiele ultimative Zeittötungsmaschinen, die vom Leben abhalten? Oder helfen sie auch zu entspannen? Spittler, Christoph www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 14 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 24,
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
         "phil": 5,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 24
+        "total": 20
       }
     },
     {

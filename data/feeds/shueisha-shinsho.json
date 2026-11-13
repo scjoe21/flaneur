@@ -1,12 +1,12 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-11-08T21:07:02.686265+00:00",
+  "fetchedAt": "2026-11-13T11:47:34.856224+00:00",
   "items": [
     {
       "title": "題名のつけ方とインスマスの「影」について",
       "url": "https://shinsho-plus.shueisha.co.jp/column/cthulhu_mythos_maker/37496",
-      "description": "序 　わたしが初めてハワード・フィリップス・ラヴクラフトの小説に接したのは、創元推理文庫で最初に出た大西尹明訳『ラヴクラフト傑作集（Howard Philips Lovecraft、1890-1937）』によってだった。 […]",
+      "description": "序 　わたしが初めてハワード・フィリップス・ラヴクラフト（Howard Philips Lovecraft、1890-1937）の小説に接したのは、創元推理文庫で最初に出た大西尹明訳『ラヴクラフト傑作集』によってだった。 […]",
       "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -84,35 +84,19 @@
       }
     },
     {
-      "title": "第１回　マハティールはなぜ日本を手本にしたのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/naitou_kushimoto/37326",
-      "description": "内藤　「青春と読書」誌の書評にも書きましたけど、今の若い人に「ルック・イースト」（＊）と言っても、このマハティールの政策を知らない人が増えたと思います。彼がマレーシアの首相としてなぜ「ルック・イースト」と言ったのか。その […]",
-      "date": "Wed, 28 Oct 2026",
+      "title": "パリを欧州で一番緑豊かにする画期的方法とは？",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/37576",
+      "description": "2026年10月初頭、私はフランスのパリを訪れた。プラタナスの街路樹は少しずつ黄色く色づき始めていた。以前パリに来たのは2023年のことだったが、わずか３年の間にパリの街が大きく変わっていることに私は衝撃を覚えた。 　 […]",
+      "date": "Mon, 09 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "世界一と日本一―2009年編",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/hara_giants/37438",
-      "description": "「本当に、お前さんたちはねぇ、強いサムライになった！　おめでとう！」 　2009年3月23日、第2回WBCで日本代表を率いて連覇に導いた原辰徳監督は、ナインの輪の中で、そう絶叫した。指揮官の祝福の言葉を合図に、決勝の韓国 […]",
-      "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
@@ -129,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "「真実の北」 ナハニの地へ――脳科学者、カナダの深奥をゆく",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37642",
+      "description": "人間の「魂」とはなんだろう？ 　カナダのノースウエスト準州にある世界自然遺産、ナハニ国立公園を訪れて、５泊６日の川下りの旅をした。カナダ観光局にお世話になった。川下りをしている中で、「魂」の問題を、ずっと考えていた。  […]",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

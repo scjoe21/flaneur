@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-11-08T21:06:59.477839+00:00",
+  "fetchedAt": "2026-11-13T11:47:31.259594+00:00",
   "items": [
     {
       "title": "The Digital Hive and the End of a Common World",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "Twain’s Patriotism",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/twains-patriotism",
-      "description": "Tom Sawyer recommends a poetical strategy for educating the nation’s most promising youth in liberty.",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -100,19 +84,35 @@
       }
     },
     {
-      "title": "She Also Found It at the Movies",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/she-also-found-it-at-the-movies",
-      "description": "Pauline Kael’s film criticism was useless to me but I loved reading her reviews anyway.",
-      "date": "Wed, 02 Sep 2026",
+      "title": "Digging for Roots",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/digging-for-roots",
+      "description": "Ian Marcus Corbin invites us to embrace the sociality of home-making.",
+      "date": "Wed, 11 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "The Torment of Individualism",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/the-torment-of-individualism",
+      "description": "Tom Cruise plays against type as Digger–except he isn’t Digger.",
+      "date": "Wed, 04 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

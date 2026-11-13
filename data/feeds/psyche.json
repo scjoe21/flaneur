@@ -1,8 +1,24 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-11-08T21:06:45.094992+00:00",
+  "fetchedAt": "2026-11-13T11:47:20.472065+00:00",
   "items": [
+    {
+      "title": "Why ‘patient influencers’ should come with a health warning",
+      "url": "https://psyche.co/ideas/why-patient-influencers-should-come-with-a-health-warning",
+      "description": "People who share their health experiences usually mean well. But their posts could be shaping your symptoms and identity - by Zoe Cunniffe Read on Psyche",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "How to take notes that actually help you learn",
       "url": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
@@ -20,19 +36,19 @@
       }
     },
     {
-      "title": "Can you ever really think what someone else is thinking?",
-      "url": "https://psyche.co/ideas/can-you-ever-really-think-what-someone-else-is-thinking",
-      "description": "To see how communication truly works, we should set aside the notion that different people can share the same thoughts - by Víctor Verdejo Read on Psyche",
-      "date": "Fri, 23 Oct 2026",
+      "title": "How to help someone whose thinking seems delusional",
+      "url": "https://psyche.co/guides/how-to-help-someone-whose-thinking-seems-delusional",
+      "description": "If their beliefs appear strange and fixed, you don’t need to prove them wrong. A clinical psychologist shows a gentler way - by Laura Yoviene Sykes Read on Psyche",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 24,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 30
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
       }
     },
     {
@@ -52,35 +68,35 @@
       }
     },
     {
-      "title": "‘Heroes work here’: why I quit being an ER nurse",
-      "url": "https://psyche.co/turning-points/my-er-regulars-spat-at-me-and-opened-my-mind",
-      "description": "Spitting, swearing regulars at a Chicago ER opened my mind. Then came the COVID-19 deniers - by Anita Lambert Read on Psyche",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Shunning people who ‘look homeless’ is an aesthetic injustice",
+      "url": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+      "description": "Society owes unhoused people access to haircuts, showers and clean clothes, not as charity, but as a matter of justice - by Giacomo Floris Read on Psyche",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
-      "title": "Everyone says they have anxiety. Clinical anxiety is different",
-      "url": "https://psyche.co/ideas/everyone-says-they-have-anxiety-clinical-anxiety-is-different",
-      "description": "Anxiety put me in hospital. I’ve learned you can’t eradicate what is part of you – but you can change how you relate to it - by India Sturgis Read on Psyche",
-      "date": "Mon, 26 Oct 2026",
+      "title": "The ethics of having a good time at Disney World, Florida",
+      "url": "https://psyche.co/ideas/the-ethics-of-having-a-good-time-at-disney-world-florida",
+      "description": "Is the value of the universalist experience undermined by the profit-hungry global corporation behind the theme parks? - by Adam Kadlac Read on Psyche",
+      "date": "Mon, 09 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 0,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -116,19 +132,19 @@
       }
     },
     {
-      "title": "A plane crossing the Moon",
-      "url": "https://psyche.co/videos/one-mans-10-year-mission-to-film-a-plane-engulfed-by-the-moon",
-      "description": "How a harmless thought turned into one man’s 10-year odyssey: to film a plane silhouetted against the Moon - Directed by Agustín Ferrando Trenchi Watch on Psyche",
-      "date": "Tue, 27 Oct 2026",
+      "title": "Eye on the mark",
+      "url": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
+      "description": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -164,58 +180,26 @@
       }
     },
     {
-      "title": "When giving up teaches you more than persevering ever could",
-      "url": "https://psyche.co/ideas/when-giving-up-teaches-you-more-than-persevering-ever-could",
-      "description": "Grit is all well and good, but sometimes abandoning your goals can be crucial to discovering who you are - by Mario I Juarez-Garcia Read on Psyche",
-      "date": "Thu, 29 Oct 2026",
+      "title": "Passersby",
+      "url": "https://psyche.co/videos/a-grand-filmmaking-experiment-traces-intersecting-lives-in-los-angeles",
+      "description": "This expansive portrait of Los Angeles shows that the heart of a city is its people – with all their quirks and charms - Directed by Sue Ding and Sarah Garrahan Watch on Psyche",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 9,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 4,
         "novelty": 0,
         "total": 9
       }
     },
     {
-      "title": "The bookshelf builder",
-      "url": "https://psyche.co/portraits/ellah-wakatama-the-godmother-of-african-books",
-      "description": "Ellah Wakatama is editor, agent, publisher and mentor, all rolled into one. Her mission: to put the work of gifted Black writers into the literary canon - by Carey Baraka Read on Psyche",
-      "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "On Japan’s Shinkansen trains, pork buns split reality in two",
-      "url": "https://psyche.co/ideas/on-japans-shinkansen-trains-pork-buns-split-reality-in-two",
-      "description": "If eating on a public train gets seen as an act of terrorism, insights from olfactory genetics can pave the way for empathy - by Yusuke Fujioka Read on Psyche",
-      "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Baby heaven",
-      "url": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
-      "description": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche",
-      "date": "Wed, 04 Nov 2026",
+      "title": "The power of group thought",
+      "url": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
+      "description": "Are groups smarter than the sum of their parts? What homing pigeons’ flight paths can teach us about ‘weighted democracy’ - Video by The Well and the John Templeton Foundation Watch on Psyche",
+      "date": "Fri, 13 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +212,26 @@
       }
     },
     {
-      "title": "The power of pareidolia",
-      "url": "https://psyche.co/videos/why-we-see-faces-in-unexpected-places-and-what-it-says-about-us",
-      "description": "From rocks and clouds to slices of toast, explore the art and science of seeing familiar shapes everywhere - Video by Mary McGillivray Watch on Psyche",
-      "date": "Fri, 30 Oct 2026",
+      "title": "My friend, my witness",
+      "url": "https://psyche.co/turning-points/what-does-motherhood-look-like-without-my-best-friend",
+      "description": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Baby heaven",
+      "url": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
+      "description": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche",
+      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

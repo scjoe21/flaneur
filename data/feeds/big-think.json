@@ -1,30 +1,78 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-08T21:06:46.395064+00:00",
+  "fetchedAt": "2026-11-13T11:47:21.870354+00:00",
   "items": [
     {
-      "title": "Life is the most important problem in physics",
-      "url": "https://bigthink.com/series/full-interview/life-machine-frank/",
-      "description": "Descartes cut open living dogs and insisted their cries were just the noises of a machine. Astrophysicist and astrobiologist Adam Frank, a professor at the University of Rochester and author of The Little Book of Aliens, argues that the same life-as-machine metaphor still shapes how we think about AI, and that it gets life fundamentally wrong. Living things are self-creating, self-repairing systems that decide what matters to them, which is why he calls today’s AI an artificial mimic rather than",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/Screenshot-2026-11-04-at-1.32.03-PM.png?quality=80&w=640",
+      "title": "How to find your way through 2,600 years of philosophy",
+      "url": "https://bigthink.com/mini-philosophy/how-to-find-your-way-through-2600-years-of-philosophy/",
+      "description": "One of the biggest problems any new learner faces is that overwhelming feeling of standing on the shoreline looking out to sea. You want to learn astrophysics, zoology, or economics — where do you start? What ideas come first? Which thinkers are core and which are super niche? \n Philosophy is no different. If anything, it’s worse. Because a lot of people know a few philosophers or have read a few books and quotes. Millions have watched the first season of  True Detective . But when faced with th",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/How-to-find-your-way-through-2600-years-of-philosophy.jpg?quality=85&w=640",
       "videoId": "",
-      "priority": 35,
+      "priority": 39,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 35
+        "total": 39
       }
     },
     {
-      "title": "The laws of the universe are unable to explain these origin mysteries",
-      "url": "https://bigthink.com/series/full-interview/origin-life-davies/",
-      "description": "Physicist and cosmologist Paul Davies, author of The Demon in the Machine, argues that the deepest mystery of life’s origin is how chemistry came to write its own code. \n Davies traces the question from Aristotle and Schrödinger’s “aperiodic crystal” to Maxwell’s demon, Michael Levin’s two-headed flatworms, and the possibility of a shadow biosphere hiding on Earth. \n This video  The laws of the universe are unable to explain these origin mysteries  is featured on  Big Think .",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/A1-Web-Davies.jpg?quality=85&w=640",
+      "title": "The body keeps exposing how much we don’t understand",
+      "url": "https://bigthink.com/sponsored/the-body-keeps-exposing-how-much-we-dont-understand/",
+      "description": "“We have so much opportunity still and so much room to grow. Science is never done.” \n Inside the Nike Sport Research Lab, Chief Science Officer Matthew Nurse and his team chase the questions that hold athletes back. Drawing on biomechanics, physiology and neuroscience, they start with the problems every athlete knows: fatigue, injury, the moment the body gives out. Why do female athletes face three to five times the risk of ACL injury? What can an unexpected 4% efficiency gain teach us about th",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/Nike-YT-Web.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
+      }
+    },
+    {
+      "title": "A “theory” has a special meaning in science",
+      "url": "https://bigthink.com/starts-with-a-bang/never-tell-scientist-just-a-theory/",
+      "description": "Whenever someone tells you that they “have a theory,” you’re probably a mix of curious and skeptical, and with good reason. Most often, you’re going to hear a wild tale that’s a mix of true and dubious facts, possible but suspicious links between them, guesses that range from informed hypotheses to extravagant speculations, and a story about how  they’ve introduced one (or more) modifications  to the standard story of how things are known to work. This is almost always followed with an important",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2021/10/601259main_jetpack_full-e1693266087570.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
+      }
+    },
+    {
+      "title": "Why political fights devolve into wars about words",
+      "url": "https://bigthink.com/history-society/culture-wars-are-mostly-about-changing-words-not-policy/",
+      "description": "In August 2024, I moved with my family from Chicago, Illinois, to Milan, Italy, to test out living overseas for a year. In the months after relocating, the American presidential race took an unprecedented turn with then-Vice President Kamala Harris navigating a late nomination to the Democratic ticket, Donald Trump surging to win the election, and Americans absorbing major societal shifts resulting from Trump’s victory.  \n Amid all these events, my news intake shrank. In Italy, TVs aren’t as com",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/wars-over-words_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "You’re allowed to be happy. In fact, you have a duty to be.",
+      "url": "https://bigthink.com/mini-philosophy/youre-allowed-to-be-happy-in-fact-you-have-a-duty-to-be/",
+      "description": "Albert Camus and Simone de Beauvoir were having a drink when de Beauvoir asked how anybody can be happy in a world so full of misery. How can they laugh and drink and dance when millions of people are being murdered and abused? \n It’s a good question, and one I’m sure many of us have asked at one time or another. Unless you’ve made a deliberate effort to avoid even a glimpse of the news, you know that the world contains vast and intense suffering: wars, murders, and abuse, of course, but also si",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/duty-2-b-happy_compressed.png?quality=80&w=640",
       "videoId": "",
       "priority": 30,
       "scoreDetail": {
@@ -36,91 +84,59 @@
       }
     },
     {
-      "title": "The more you know, the harder it is to change someone’s mind",
-      "url": "https://bigthink.com/books/the-persuasive-leader/",
-      "description": "Here’s the bad news: The deeper your understanding of an issue and the stronger your conviction about the solution, the worse you often become at persuasion. This isn’t a character flaw; it’s a law of neuroscience. Once you understand it, you’ll stop wondering why your brilliant ideas and proposals keep floundering in meeting rooms. It’s due to a cognitive trap that the fields of behavioral economics and neuroscience have spent decades documenting: the  curse of knowledge . Once I explain how it",
-      "date": "Wed, 04 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/the-more-you-know.gif?w=640",
+      "title": "Astronomy is the universe looking back at itself",
+      "url": "https://bigthink.com/series/full-interview/universe-time-thaller/",
+      "description": "When you see the sun, you’re seeing it as it was eight minutes ago, and the faintest star yet observed, Earendel, shines from 12.9 billion years in the past. Astronomer Michelle Thaller, who spent 28 years at NASA, explains how every telescope is a time machine and how gravity itself bends space into natural lenses that let us peer to the dawn of the universe. \n This video  Astronomy is the universe looking back at itself  is featured on  Big Think .",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-10.35.29-AM.png?quality=80&w=640",
       "videoId": "",
-      "priority": 25,
+      "priority": 29,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 25
+        "total": 29
       }
     },
     {
-      "title": "A fake Einstein quote actually explains the affordability crisis",
-      "url": "https://bigthink.com/starts-with-a-bang/fake-einstein-quote-affordability-crisis/",
-      "description": "One of the most famous quotes commonly attributed to Einstein was something that he himself never actually said: “Compound interest is the eighth wonder of the world. He who understands it, earns it; he who doesn’t, pays it.” While the quote is not from Einstein at all, the math behind the concept of compound interest is incredibly profound, playing a role in any system — physical, mathematical, or financial — that accumulates based on how much of a base amount is present. When the base amount i",
-      "date": "Wed, 04 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/cover.jpg?quality=85&w=640",
+      "title": "Scholars still can’t define religion. Here’s why",
+      "url": "https://bigthink.com/series/conversations/andrew-henry-defining-religion/",
+      "description": "Scholars of religion still can’t agree on what religion is, and Andrew Henry, creator of Religion for Breakfast, thinks that tells us something. In this conversation with Jonny Thomson, he explains why he looks at what religious practices do rather than what they claim, why a stadium chant and a church creed may be closer than they seem, and why “true Christianity” is harder to pin down than its defenders suggest. They also take on common debate points, from the historical Jesus to Tom Holland’s",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/MPP4_Andrew_Henry1-for_Website.png?quality=80&w=640",
       "videoId": "",
-      "priority": 25,
+      "priority": 29,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 25
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
-      "title": "Ask Ethan: Can you explain the Higgs boson in depth?",
-      "url": "https://bigthink.com/starts-with-a-bang/explain-higgs-boson-in-depth/",
-      "description": "One of the great quests in all of science is to discover, at a fundamental level, what the Universe is actually made of. If you took every amount of matter and energy that existed — or even could exist — and cut it up into its smallest possible chunks, until only something that was uncuttable was left, you’d be left with the fundamental, elementary particles that composed our Universe. In physics, this took us first down to the level of the atom, then to atomic nuclei and electrons, then to prot",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/smcover.png?quality=80&w=640",
+      "title": "We built our world on “Big Math.” Now we no longer understand it.",
+      "url": "https://bigthink.com/history-society/big-math/",
+      "description": "Math has undeniably escaped the human mind and implanted itself in nearly every corner of the world. Over the past 75 years, as computers became commonplace and grew in power, what once amounted to mental arithmetic has become something else entirely. It’s not just math; it’s “Big Math,” too large for the human brain alone.  \n Big Math’s offshoot algorithms, the step-by-step sets of instructions and rules used to perform calculations, now undergird much of the technologies we take for granted in",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/big-math-escapes_7.gif?w=640",
       "videoId": "",
-      "priority": 23,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 8,
-        "novelty": 10,
-        "total": 23
-      }
-    },
-    {
-      "title": "Will AI make life less meaningful? A survey finds optimism hinges on whether humans keep control.",
-      "url": "https://bigthink.com/science-tech/will-ai-make-life-less-meaningful-a-survey-finds-optimism-hinges-on-whether-humans-keep-control/",
-      "description": "OpenAI recently announced that its latest artificial intelligence model had solved, in a matter of weeks, more than 100 math problems that humans had worked on for years. The news sparked what seemed like an existential crisis among mathematicians, leaving some to wonder what role humans would have in the future of their field. It’s not just academics who are worried. In a new national  survey , we found that Americans are more likely to see AI as a threat to meaning than as a resource that supp",
-      "date": "Sat, 07 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/ai-life-less-meaning_compressed.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 20,
+      "priority": 10,
       "scoreDetail": {
         "daily": 10,
-        "phil": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 10
       }
     },
     {
-      "title": "A medieval map mystery may finally be solved",
-      "url": "https://bigthink.com/strange-maps/antique-sources-for-portolan-charts/",
-      "description": "“We’ll just have to think our way back, step by step.” That’s what the Dutch geodesist Roelof Nicolai said in 2014  in a  Strange Maps  article . Nicolai had just spent his PhD years discovering that portolan charts — those gorgeous, wind-rose-covered coastline maps that suddenly appeared in Mediterranean ports in the second half of the 13th century — were geometrically too accurate to have been made the way everyone assumed. Something else was going on. \n Twelve years on, we might have an answe",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/Fig-1-Carta-Riccardiana-vs-Marinus-of-Tyre.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 13,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 8,
-        "novelty": 0,
-        "total": 13
-      }
-    },
-    {
-      "title": "Dads are spending 3x more time with their kids",
-      "url": "https://bigthink.com/series/conversations/darby-saxbe-dad-brain/",
-      "description": "Becoming a father physically changes a man’s brain — and the more caregiving he does, the more it changes. USC psychologist Darby Saxbe, author of Dad Brain, explains what that means for dads, partners, and anyone deciding whether to have kids. \n This video  Dads are spending 3x more time with their kids  is featured on  Big Think .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/CL3-Darby-Sabe-1-for-website-1.png?quality=80&w=640",
+      "title": "AI proved a major quantum complexity conjecture. What does it mean?",
+      "url": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
+      "description": "If you work with a normal computer — a classical computer — you’re used to two foundational ideas: \n \n the idea of bits, where information gets encoded as a “0” or “1” within some sort of storage medium or mechanism, \n and the idea of operations that can be performed on those bits (or “gates” that those bits can be passed through), which represent the possible computations that can be conducted with those bits. \n \n Some problems can be solved very efficiently with classical bits and classical ga",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2019/10/origin-47-e1794296443845.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
@@ -132,27 +148,11 @@
       }
     },
     {
-      "title": "3 original methods for measuring the distance to the stars",
-      "url": "https://bigthink.com/starts-with-a-bang/how-far-away-stars/",
-      "description": "Out there in space, blazing just a scant 150 million kilometers away lies the brightest and most massive object in our Solar System: the Sun. Shining hundreds of thousands of times as bright in Earth’s skies as the next brightest object, the full Moon, the Sun is unique among Solar System objects for producing its own visible light, rather than only appearing illuminated because of reflected light. However, the thousands upon thousands of stars visible in the night sky — escalating into the mill",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/11/ESA_Gaia_DR2_AllSky_Brightness_Colour_black_bg_8k-e1707869317623.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The first DNA crime test didn’t catch the killer. It freed an innocent man.",
-      "url": "https://bigthink.com/books/dna-profiling/",
-      "description": "The events leading to the first forensic DNA case began in 1983. Lynda Mann was only 15 years old when, returning home from babysitting one evening in the Leicestershire village of Narborough, she was raped and murdered as she took a shortcut along a footpath known by villagers as the Black Pad. It was a path that would be unlikely to be known by anyone who wasn’t local, suggesting the killer was someone from the area.  \n At the time, the biological side of forensic science was still in its infa",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/dna-prison.jpg?quality=85&w=640",
+      "title": "Ask Ethan: Can you write a beginner’s guide to the Standard Model?",
+      "url": "https://bigthink.com/starts-with-a-bang/beginners-guide-standard-model/",
+      "description": "For thousands of years, humanity would wonder just what it was — at a fundamental, elementary level — that made up everything we saw, heard, or otherwise interacted with in the Universe. Ideas ran rampant early on, ranging from the notion of elements to a fundamental single root of everything to tiny building blocks composed of a variety of geometric shapes. It was only in the 19th century that we began breaking terrestrial matter down into the microscopic constituents that compose it, like mole",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/04/SM-Cover.jpg?quality=85&w=640",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

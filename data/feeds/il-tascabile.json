@@ -1,7 +1,7 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-11-08T21:06:35.503120+00:00",
+  "fetchedAt": "2026-11-13T11:47:14.160403+00:00",
   "items": [
     {
       "title": "L’odio come content",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "L’immagine qualunquista della politica",
-      "url": "https://www.iltascabile.com/societa/limmagine-qualunquista-politica/",
-      "description": "Dal torchio di Giannini alla tecnocrazia: come l’antipolitica infesta l’immaginario delle democrazie contemporanee. \n L'articolo  L’immagine qualunquista della politica  proviene da  Il Tascabile .",
-      "date": "Tue, 27 Oct 2026",
+      "title": "L’alchimista del suono",
+      "url": "https://www.iltascabile.com/linguaggi/alchimista-suono/",
+      "description": "I 50 anni di  Oxygène , l’IA, la storia dell’elettronica in 80 strumenti, la pioggia come eredità sonora: intervista a Jean-Michel Jarre. \n L'articolo  L’alchimista del suono  proviene da  Il Tascabile .",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 15
       }
     },
     {
@@ -52,35 +52,35 @@
       }
     },
     {
-      "title": "Il mondo e la terra. Come preservarli? di David Van Reybrouck",
-      "url": "https://www.iltascabile.com/recensioni/mondo-terra-preservarli-david-van-reybrouck/",
-      "description": "L'articolo  Il mondo e la terra. Come preservarli? di David Van Reybrouck  proviene da  Il Tascabile .",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Identità o comunità?",
+      "url": "https://www.iltascabile.com/linguaggi/identita-comunita/",
+      "description": "Dalla politica della rappresentanza al soggetto collettivo: i femminismi del decennio 2016-2026. \n L'articolo  Identità o comunità?  proviene da  Il Tascabile .",
+      "date": "Wed, 11 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "La grammatica del pianto",
-      "url": "https://www.iltascabile.com/scienze/grammatica-pianto/",
-      "description": "Cosa sappiamo del pianto emotivo, del sollievo che gli attribuiamo e del perché le lacrime, più che a noi stessi, sembrano servire agli altri. \n L'articolo  La grammatica del pianto  proviene da  Il Tascabile .",
-      "date": "Mon, 26 Oct 2026",
+      "title": "Spazzatura spaziale",
+      "url": "https://www.iltascabile.com/scienze/spazzatura-spaziale/",
+      "description": "L’accumulo di detriti spaziali ha raggiunto un livello critico, aumentando il rischio di una disastrosa reazione a catena. Ma chi più avrebbe interesse a risolvere il problema stenta a intervenire. \n L'articolo  Spazzatura spaziale  proviene da  Il Tascabile .",
+      "date": "Mon, 09 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -97,6 +97,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Una splendida rovina di Vincenzo Latronico",
+      "url": "https://www.iltascabile.com/recensioni/splendida-rovina-vincenzo-latronico/",
+      "description": "L'articolo  Una splendida rovina di Vincenzo Latronico  proviene da  Il Tascabile .",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "La memoria (sconveniente) degli alberi",
+      "url": "https://www.iltascabile.com/societa/memoria-sconveniente-alberi/",
+      "description": "Sul monte Giano, sopra Antrodoco, ventimila pini neri compongono uno dei più grandi monumenti fascisti d’Italia. Ma negli archivi non esiste, e nel paese quasi nessuno ne parla. \n L'articolo  La memoria (sconveniente) degli alberi  proviene da  Il Tascabile .",
+      "date": "Tue, 10 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/linguaggi/sogno-carnevale-rimosso/",
       "description": "Riflessioni sulle arti visive e sulla postura obliqua della rivista: verso una critica saggistica sganciata dall’urgenza dell’evento. \n L'articolo  Sogno un carnevale del rimosso  proviene da  Il Tascabile .",
       "date": "Wed, 04 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La fauna cadaverica delle controculture",
-      "url": "https://www.iltascabile.com/linguaggi/fauna-cadaverica-controculture/",
-      "description": "Dobbiamo inventare una nuova parola per punk? Imparare a marcire in un underground fagocitato dai media. \n L'articolo  La fauna cadaverica delle controculture  proviene da  Il Tascabile .",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La Torre che crolla",
-      "url": "https://www.iltascabile.com/letterature/torre-crolla/",
-      "description": "Spiegare le piazze di oggi tramite arcani maggiori, William Burroughs e l’era dell’Acquario. \n L'articolo  La Torre che crolla  proviene da  Il Tascabile .",
-      "date": "Wed, 28 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

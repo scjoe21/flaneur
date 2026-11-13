@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-08T21:06:59.120579+00:00",
+  "fetchedAt": "2026-11-13T11:47:31.014480+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -22,10 +22,26 @@
     {
       "title": "Why philosophy isn't politically neutral | Christoph Schuringa",
       "url": "https://www.youtube.com/watch?v=hbXtrZ_QM8g",
-      "description": "Christoph Schuringa discusses the political history of modern philosophy\n\nHas philosophy lost its political purpose?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-hostile-takeover-of-philosophy-with-christoph-schuringa\n\nAnalytic philosophy took over the Western world; but its rise wasn't purely a matter of ideas. In this interview, philosopher Christoph Schuringa uncovers less of an intellectual victory than a hostile takeover: social and political forces, inclu",
+      "description": "Christoph Schuringa discusses the political history of modern philosophy\n\nHas philosophy lost its political purpose?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-hostile-takeover-of-philosophy-with-christoph-schuringa?utm_source=YouTube&utm_medium=description\n\nAnalytic philosophy took over the Western world; but its rise wasn't purely a matter of ideas. In this interview, philosopher Christoph Schuringa uncovers less of an intellectual victory than a hostile ta",
       "date": "2026-11-05",
       "thumbnail": "https://i1.ytimg.com/vi/hbXtrZ_QM8g/hqdefault.jpg",
       "videoId": "hbXtrZ_QM8g",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "How Will AI Impact the Future of Our Economy? | Sebastian Mallaby, Martin Wolf",
+      "url": "https://www.youtube.com/watch?v=FDUXyUqlnkU",
+      "description": "Sebastian Mallaby and Martin Wolf discuss AI and its potential effects, both positive and negative, on the economy and society as a whole.\n\nTo what extent will AI impact the future of the economy?\n\nWith a free trial, you can watch the full talk NOW at: https://iai.tv/video/the-future-of-the-ai-economy\n\nA handful of companies are racing to build machines that surpass human intelligence, and the economic shockwaves are already being felt. Some economists predict an explosion of growth; others warn",
+      "date": "2026-11-12",
+      "thumbnail": "https://i3.ytimg.com/vi/FDUXyUqlnkU/hqdefault.jpg",
+      "videoId": "FDUXyUqlnkU",
       "priority": 25,
       "scoreDetail": {
         "daily": 20,
@@ -33,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "The Atrophy of Philosophy | Simon Critchley",
+      "url": "https://www.youtube.com/watch?v=TwNVNv_nSSo",
+      "description": "Simon Critchley discusses mysticism, Heidegger, and the future of philosophy\n\nWhat sits at the edges of philosophy?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/mysticism-heidegger-and-the-future-of-philosophy-with-simon-critchley?utm_source=YouTube&utm_medium=description\n\nHeidegger can often appear to be an impenetrable and esoteric thinker, whose ideas have little bearing on real life. But Simon Critchley works to undo this perception and bring phenomenology to b",
+      "date": "2026-11-10",
+      "thumbnail": "https://i1.ytimg.com/vi/TwNVNv_nSSo/hqdefault.jpg",
+      "videoId": "TwNVNv_nSSo",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -84,25 +116,25 @@
       }
     },
     {
-      "title": "How do we use democracy | Curtis Yarvin",
-      "url": "https://www.youtube.com/shorts/h5VbTzIebYA",
-      "description": "",
-      "date": "2026-10-23",
-      "thumbnail": "https://i1.ytimg.com/vi/h5VbTzIebYA/hqdefault.jpg",
-      "videoId": "h5VbTzIebYA",
-      "priority": 15,
+      "title": "Who holds the New York Times accountable? | Curtis Yarvin",
+      "url": "https://www.youtube.com/shorts/zANzdVlzk8U",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/curtis-yarvin-challenged-on-his-argument-for-benevolent-monarchy?stage=Stage\n\n#newyorktimes #nytimes #news #accountability #politics #audience",
+      "date": "2026-11-11",
+      "thumbnail": "https://i3.ytimg.com/vi/zANzdVlzk8U/hqdefault.jpg",
+      "videoId": "zANzdVlzk8U",
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 5,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
       "title": "AI vs Bacteria | Denis Noble",
       "url": "https://www.youtube.com/shorts/le-vY4g5nPU",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\n#ai #artificialintelligence #biology# evolution #Turing #Darwin",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description \n\n#ai #artificialintelligence #biology#evolution #Turing #Darwin",
       "date": "2026-11-08",
       "thumbnail": "https://i1.ytimg.com/vi/le-vY4g5nPU/hqdefault.jpg",
       "videoId": "le-vY4g5nPU",
@@ -122,22 +154,6 @@
       "date": "2026-11-04",
       "thumbnail": "https://i4.ytimg.com/vi/KJXsBYoUuSw/hqdefault.jpg",
       "videoId": "KJXsBYoUuSw",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Consciousness is biology's biggest blunder | Denis Noble",
-      "url": "https://www.youtube.com/watch?v=V9BARG_8H38",
-      "description": "Denis Noble discusses the flaws in modern evolutionary theories.\n\nHas biology got it wrong?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\nBiology has sequenced the human genome and predicted protein structures, yet consciousness remains elusive. Join mathematical biologist, Denis Noble, as he calls out biology's biggest blunder--the self replicating process of DNA and RNA are not pe",
-      "date": "2026-10-23",
-      "thumbnail": "https://i3.ytimg.com/vi/V9BARG_8H38/hqdefault.jpg",
-      "videoId": "V9BARG_8H38",
       "priority": 10,
       "scoreDetail": {
         "daily": 5,
@@ -182,14 +198,14 @@
     {
       "title": "Is the era of the educated elite over? | Michael Gove, Thangam Debbonaire, and Daniel Susskind",
       "url": "https://www.youtube.com/watch?v=3gZMT_NRWJE",
-      "description": "Michael Gove, Thangam Debbonaire, and Daniel Susskind discuss the end of the educated elite.\n\nDoes education still prepare us for the future?\n\nWith a free trial, you can watch the full debate NOW athttps://iai.tv/video/the-rise-and-fall-of-the-educated-elite\n\nInfluenced by Plato's philosopher-kings and the Enlightenment's faith in reason, education has for centuries been regarded as the surest path to individual flourishing and collective progress. But today, the consensus is fracturing. Degree ",
+      "description": "Michael Gove, Thangam Debbonaire, and Daniel Susskind discuss the end of the educated elite.\n\nDoes education still prepare us for the future?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-rise-and-fall-of-the-educated-elite?utm_source=YouTube&utm_medium=description\n\nInfluenced by Plato's philosopher-kings and the Enlightenment's faith in reason, education has for centuries been regarded as the surest path to individual flourishing and collective progress. But ",
       "date": "2026-11-07",
       "thumbnail": "https://i4.ytimg.com/vi/3gZMT_NRWJE/hqdefault.jpg",
       "videoId": "3gZMT_NRWJE",
       "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -218,22 +234,6 @@
       "date": "2026-11-01",
       "thumbnail": "https://i3.ytimg.com/vi/2RJRnkW7ijA/hqdefault.jpg",
       "videoId": "2RJRnkW7ijA",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Lettuce is not Happy | Eva Jablonka",
-      "url": "https://www.youtube.com/shorts/CuygR8MLbyg",
-      "description": "",
-      "date": "2026-10-25",
-      "thumbnail": "https://i4.ytimg.com/vi/CuygR8MLbyg/hqdefault.jpg",
-      "videoId": "CuygR8MLbyg",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

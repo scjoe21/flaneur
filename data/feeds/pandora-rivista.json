@@ -1,7 +1,7 @@
 {
   "sourceId": "pandora-rivista",
   "sourceName": "Pandora Rivista",
-  "fetchedAt": "2026-11-08T21:06:55.588293+00:00",
+  "fetchedAt": "2026-11-13T11:47:28.663389+00:00",
   "items": [
     {
       "title": "Marco Aime - L'altro come icona del male",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Alessandro Vanoli - Iniziare da Oriente",
+      "url": "https://www.youtube.com/watch?v=6KmI1LW1Mgg",
+      "description": "Alessandro Vanoli - storico - è stato ospite al Festival del Presente 2026 con una lectio dal titolo \"Iniziare da Oriente\". L'evento si è svolto il 2 ottobre al Teatro Duse di Bologna.\n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una rivista cartacea, un archivio online, podcast, festival e ricerche. Scopri Pandora Rivista: https://www.pandorarivista.it \n\n📱 Puoi seguirci anche su:\n▸ Instagram https://ww",
+      "date": "2026-11-12",
+      "thumbnail": "https://i3.ytimg.com/vi/6KmI1LW1Mgg/hqdefault.jpg",
+      "videoId": "6KmI1LW1Mgg",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -142,22 +158,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Piero Ignazi - Ascesa e declino dei partiti",
-      "url": "https://www.youtube.com/watch?v=onLePAtMeuM",
-      "description": "Piero Ignazi - politologo - è stato ospite al Festival Fratture 2026, che si è svolto dal 17 al 19 aprile a Lugo, in una Lectio dal titolo \"Ascesa e caduta dei partiti\". \n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una rivista cartacea, un archivio online, podcast, festival e ricerche. Scopri Pandora Rivista: https://www.pandorarivista.it\n\n📱 Puoi seguirci anche su:\n▸ Instagram https://www.instagram.com",
-      "date": "2026-09-09",
-      "thumbnail": "https://i4.ytimg.com/vi/onLePAtMeuM/hqdefault.jpg",
-      "videoId": "onLePAtMeuM",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

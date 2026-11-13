@@ -1,14 +1,30 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-11-08T21:06:59.585089+00:00",
+  "fetchedAt": "2026-11-13T11:47:31.357063+00:00",
   "items": [
     {
-      "title": "How an Octopus Can Squeeze into a Beer Can",
-      "url": "https://nautil.us/how-an-octopus-can-squeeze-into-a-beer-can-1286397/",
-      "description": "Or not, depending on the species \n The post  How an Octopus Can Squeeze into a Beer Can  appeared first on  Nautilus .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/9acef855-c0d2-4d33-aa8e-40b74f7fe5b2.jpg?w=564",
+      "title": "The Shapes and Colors of a Near-Death Experience",
+      "url": "https://nautil.us/the-shapes-and-colors-of-a-near-death-experience-1286591/",
+      "description": "Near-death experiences are more common than many of us might think: Some studies  estimate  that between four and eight percent of the global population has had one, as have  up to  23 percent of  cardiac arrest survivors . These journeys into the borderlands of consciousness tend to feature a few common perceptual themes: ghostly figures and bright lights, tunnels, a sense of peace and calm. But questions about the nature of such experiences and how such perceptual phenomena arise abound. \n Rec",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_85591537.jpg?w=564",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
+    {
+      "title": "How the Brain’s Failing Trash Compactor Can Contribute to Alzheimer’s Disease",
+      "url": "https://nautil.us/how-the-brains-failing-trash-compactor-can-contribute-to-alzheimers-disease-1286581/",
+      "description": "Boring jobs are important jobs \n The post  How the Brain’s Failing Trash Compactor Can Contribute to Alzheimer’s Disease  appeared first on  Nautilus .",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Fluorescently_Labeled_Microglia_in_a_Coronal_Brain_Section_from_a_C57_Mouse.jpg?w=564",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
@@ -20,11 +36,59 @@
       }
     },
     {
-      "title": "We Attribute Personalities to Chatbots, Even When We Know Better",
-      "url": "https://nautil.us/we-attribute-personalities-to-chatbots-even-when-we-know-better-1286429/",
-      "description": "We can spot the bot, but we treat it like a person anyway \n The post  We Attribute Personalities to Chatbots, Even When We Know Better  appeared first on  Nautilus .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2780330337.jpg?w=564",
+      "title": "The Four Forces That Shape Collective Memory",
+      "url": "https://nautil.us/the-four-forces-that-shape-collective-memory-1286569/",
+      "description": "Why we all remember Napoleon’s name \n The post  The Four Forces That Shape Collective Memory  appeared first on  Nautilus .",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2813062393.jpg?w=564",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Here’s Why It’s So Hard to Boost a Satellite",
+      "url": "https://nautil.us/heres-why-its-so-hard-to-boost-a-satellite-1286550/",
+      "description": "NASA’s Swift telescope has burned up, months after a robot sent to save it failed \n The post  Here’s Why It’s So Hard to Boost a Satellite  appeared first on  Nautilus .",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/file-20261104-64-ktbpnd.avif?w=564",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "What’s All That Coffee Doing to Your Gut?",
+      "url": "https://nautil.us/whats-all-that-coffee-doing-to-your-gut-1286572/",
+      "description": "Don’t worry, it’s good \n The post  What’s All That Coffee Doing to Your Gut?  appeared first on  Nautilus .",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_563570479.jpg?w=564",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "You May be Able to Get 43 More Minutes of Work Done if You Change Your Desk",
+      "url": "https://nautil.us/you-may-be-able-to-get-43-more-minutes-of-work-done-if-you-change-your-desk-1286594/",
+      "description": "It’s time for workers to stand up  \n The post  You May be Able to Get 43 More Minutes of Work Done if You Change Your Desk  appeared first on  Nautilus .",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2726384259.jpg?w=564",
       "videoId": "",
       "priority": 5,
       "scoreDetail": {
@@ -36,43 +100,11 @@
       }
     },
     {
-      "title": "Ancient DNA May Reveal the Surprising Roots of English and Other Germanic Languages",
-      "url": "https://nautil.us/ancient-dna-may-reveal-the-surprising-roots-of-english-and-other-germanic-languages-1286400/",
-      "description": "Iron Age people were on the move \n The post  Ancient DNA May Reveal the Surprising Roots of English and Other Germanic Languages  appeared first on  Nautilus .",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/04_Ales_Stenar_Eske_Willerslev_Hugh_McColl_Photo_Nicolas_Delgado_Clausen.jpg?w=564",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "Inside King Tutankhamun’s Tomb, 104 Years After Its Discovery",
-      "url": "https://nautil.us/inside-king-tutankhamuns-tomb-104-years-after-its-discovery-1286390/",
-      "description": "An unprecedented find in the Valley of Kings \n The post  Inside King Tutankhamun’s Tomb, 104 Years After Its Discovery  appeared first on  Nautilus .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/king_tut_header.jpeg?w=564",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
-      }
-    },
-    {
-      "title": "Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years",
-      "url": "https://nautil.us/earths-rocks-have-a-missing-layer-spanning-up-to-a-billion-years-1286417/",
-      "description": "Now we finally know where it went \n The post  Earth’s Rocks Have a Missing Layer Spanning Up to a Billion Years  appeared first on  Nautilus .",
-      "date": "Sat, 07 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_2220127622.jpeg?w=564",
+      "title": "Was Einstein Seduced by a Russian Honeypot Operation?",
+      "url": "https://nautil.us/was-einstein-seduced-by-a-russian-honeypot-operation-1286587/",
+      "description": "The physicist had a steamy romance with Margarita Konenkova \n The post  Was Einstein Seduced by a Russian Honeypot Operation?  appeared first on  Nautilus .",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/einstein.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -84,11 +116,11 @@
       }
     },
     {
-      "title": "This Photo of the ISS Next to Jupiter Was Two Years in the Making",
-      "url": "https://nautil.us/this-photo-of-the-iss-next-to-jupiter-was-two-years-in-the-making-1286407/",
-      "description": "Part of the art and science of astrophotography is figuring out when certain flying objects in the sky are going to line up for a photo opportunity.  \n And few photographs demonstrate it better than  AJ Smadi ’s shot of the International Space Station (ISS) hurtling in front of Jupiter. There’s an incredible symmetry in the dimensions here: Jupiter is about 1.3 million times bigger than the ISS, but it’s also around 1.3 million times further away.  \n Jupiter and the ISS.  Credit: AJ Smadi \n The ",
-      "date": "Sat, 07 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/jupiter_ISS_header.jpeg?w=564",
+      "title": "Scientists Catch a Rare Glimpse of a Fish With a See-Through Head",
+      "url": "https://nautil.us/scientists-catch-a-rare-glimpse-of-a-fish-with-a-see-through-head-1286577/",
+      "description": "A barreleye’s peepers watch from inside its head \n The post  Scientists Catch a Rare Glimpse of a Fish With a See-Through Head  appeared first on  Nautilus .",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-barrel.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -100,11 +132,11 @@
       }
     },
     {
-      "title": "Could a Fiber Supplement Help Chronic Knee Pain?",
-      "url": "https://nautil.us/could-a-fiber-supplement-help-chronic-knee-pain-1286434/",
-      "description": "Another investigation into the mysterious microbiome \n The post  Could a Fiber Supplement Help Chronic Knee Pain?  appeared first on  Nautilus .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2084969830.jpg?w=564",
+      "title": "The What and When of Longevity Dieting",
+      "url": "https://nautil.us/the-what-and-when-of-longevity-dieting-1286564/",
+      "description": "It’s time to toss calorie restriction \n The post  The What and When of Longevity Dieting  appeared first on  Nautilus .",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2154498707.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -116,43 +148,11 @@
       }
     },
     {
-      "title": "“Astonishing” Find: Fossilized Dinosaur Blood in a 115-Million-Year-Old Specimen",
-      "url": "https://nautil.us/astonishing-find-fossilized-dinosaur-blood-in-a-115-million-year-old-specimen-1286412/",
-      "description": "Molecular paleontology keeps getting better \n The post  “Astonishing” Find: Fossilized Dinosaur Blood in a 115-Million-Year-Old Specimen  appeared first on  Nautilus .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Aratasaurus_museunacionali.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "A Neuropsychologist Explains the Importance of Exercise in Fighting Dementia",
-      "url": "https://nautil.us/a-neuropsychologist-explains-the-importance-of-exercise-in-fighting-dementia-1286369/",
-      "description": "Adopting certain lifestyle habits, including physical exercise, could significantly reduce the risk of developing Alzheimer’s disease and other forms of dementia \n The post  A Neuropsychologist Explains the Importance of Exercise in Fighting Dementia  appeared first on  Nautilus .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2366442795.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Switching to This Healthier Version of Salt Could Save Around 3 Million Lives a Year",
-      "url": "https://nautil.us/switching-to-this-healthier-version-of-salt-could-save-around-3-million-lives-a-year-1286385/",
-      "description": "You can even make it at home \n The post  Switching to This Healthier Version of Salt Could Save Around 3 Million Lives a Year  appeared first on  Nautilus .",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2292797037.jpg?w=564",
+      "title": "The Temperamental Nature of Alligator Gender-Reveal Parties",
+      "url": "https://nautil.us/the-temperamental-nature-of-alligator-gender-reveal-parties-1286547/",
+      "description": "With just a degree or two determining gator sex ratios \n The post  The Temperamental Nature of Alligator Gender-Reveal Parties  appeared first on  Nautilus .",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_327470771.jpeg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

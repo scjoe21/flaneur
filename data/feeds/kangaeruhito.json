@@ -1,8 +1,56 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-11-08T21:07:00.212536+00:00",
+  "fetchedAt": "2026-11-13T11:47:31.635080+00:00",
   "items": [
+    {
+      "title": "【試し読み】プロローグーー限界を迎えた在宅介護",
+      "url": "https://kangaeruhito.jp/trial/764469",
+      "description": "十年に至る「義父母の介護」 　私は五十代も半ばを過ぎた翻訳家でエッセイストだ。家族と一緒に琵琶湖近くの一軒家に住みはじめて、早二十年になる。朝一番に犬と散歩に出て、帰宅してから仕事をスタートさせつつ洗濯機を回し、昼前には […]",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
+      "title": "第４回　武器はなぜ魅惑するのか：欲望、機能美、ペルソナ",
+      "url": "https://kangaeruhito.jp/article/764482",
+      "description": "なぜ武器は魅力的なのか 　戦争を美的に解体するプロジェクトにとってつまずきとなるのは「武器」だ。戦争の美的な側面を、それはダサいものである、と解体していくとき、武器の「美しさ」に直面することになる。 　「武器は美しい」「 […]",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "第6回　単なる「労働力」ではなく、「生身の人間」として――移民と国家統合（3）",
+      "url": "https://kangaeruhito.jp/article/764435",
+      "description": "『移民の政治経済学』の方法論的意義   移民が世界をどのように変えてきたのかを包括的に論じた著作として、ギャレット・ジョーンズ『移民は世界をどう変えてきたか：文化移植の経済学』（The Culture Transplan […]",
+      "date": "Sun, 08 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
     {
       "title": "15．来し方を株分けする",
       "url": "https://kangaeruhito.jp/article/764350",
@@ -17,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "村井理子さんの連載が、『介護は傷つく』として11月18日に発売！",
+      "url": "https://kangaeruhito.jp/news/764456",
+      "description": "村井理子さんの連載「村井さんちの生活」が、『介護は傷つく』として、11月18日に新潮新書より発売されます！   　認知症の義母と90歳を超えた義父の介護が始まって約10年。家事や仕事に追われながらの在宅介護は […]",
+      "date": "Mon, 09 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -88,70 +152,6 @@
       "url": "https://kangaeruhito.jp/article/764403",
       "description": "「絶望の9月」の救世主 　周年で季節の露地野菜を手がける私にとって、9月後半は夏と秋の継ぎ目、いわゆる端境期だ。夏野菜を「引っ張る」か、秋冬野菜を「巻く」しか手がない。一方で、ここ3年はとにかく猛暑続きだった。盆を過ぎ、 […]",
       "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "【試し読み公開中】はじめに――もっと科学の面白さを伝えたい！",
-      "url": "https://kangaeruhito.jp/trial/764380",
-      "description": "おかげさまで、『すごい科学論文』の第二弾をお届けできることになりました。第一弾を手に取り、「面白かった」「続きを読みたい」と声を寄せてくださった皆様のおかげです。心より御礼を申し上げます。 「すごい」と銘 […]",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "第1回　キャベツの顔つき",
-      "url": "https://kangaeruhito.jp/article/764377",
-      "description": "絶対に負けられない戦いの季節 　8月から10月は秋冬作の作付けの季節である。キャベツ、ブロッコリー、カリフラワー、大根、人参、小松菜、かぶ、ほうれん草などなど。秋から冬にかけて収穫する野菜の大半は、この時期に種を蒔くか、 […]",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "どこまでも広がる義父の妄想",
-      "url": "https://kangaeruhito.jp/article/764384",
-      "description": "スポーツの日に、義父の面会に行ってきた。連休が始まった当初は、行く気はなかった。それでも秋の始まりの清々しい天気で気分が良かったこともあったし、施設の近所に用事もあったため、ついでという感じで立ち寄ったのだ。もちろん […]",
-      "date": "Mon, 19 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "6．相貌失認――顔を見分けるのが苦手",
-      "url": "https://kangaeruhito.jp/article/764387",
-      "description": "見えているけど判別できない 　空港の到着ロビーでの出来事です。長期出張から帰ってきた女性を、出迎えの人々が待っています。その中には、30年連れ添った夫もいました。夫は彼女を見つけて微笑み、手を振ります。しかし、彼女は夫の […]",
-      "date": "Mon, 19 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

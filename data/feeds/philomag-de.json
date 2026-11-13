@@ -1,22 +1,54 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-08T21:06:28.588876+00:00",
+  "fetchedAt": "2026-11-13T11:47:08.971118+00:00",
   "items": [
     {
-      "title": "Wie wir die Welt sehen",
-      "url": "https://www.philomag.de/artikel/wie-wir-die-welt-sehen",
-      "description": "KI und Social Media, Klima und Corona, globale Umbrüche und Kriege: Junge Menschen stehen in unserer Zeit vor großen Herausforderungen und sind mit einem hohen Maß an Ungewissheit konfrontiert. Wie gehen sie damit um? Was für Erkenntnisse bringt ein junger Mensch hervor, der mit wachen Augen durch die Welt geht? Wir haben vier Jugendliche zum Gespräch eingeladen.",
-      "date": "Mon, 02 Nov 2026",
+      "title": "Hendrik Bolz: „Ich war lange beseelt von dem Wunsch, hart zu sein“",
+      "url": "https://www.philomag.de/artikel/hendrik-bolz-ich-war-lange-beseelt-von-dem-wunsch-hart-zu-sein",
+      "description": "Harte Männer werden heute zunehmend als Problem betrachtet. Als toxisch. Wie aber fühlt sich so eine Männlichkeit für diejenigen an, die sie leben? Und warum bleibt sie für viele erstrebenswert? Der Musiker und Autor Hendrik Bolz blickt zurück auf seine eigene Jugend und erklärt, wie sein Männlichkeitsbild Quelle von Halt und Schmerz zugleich war.",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 40,
+      "priority": 35,
       "scoreDetail": {
-        "daily": 40,
-        "phil": 0,
+        "daily": 25,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 40
+        "total": 35
+      }
+    },
+    {
+      "title": "Alva Noë: „Wir sind in Träumen so begrenzt wie im echten Leben“",
+      "url": "https://www.philomag.de/artikel/alva-noe-wir-sind-traeumen-so-begrenzt-wie-im-echten-leben",
+      "description": "Im Schlaf sind wir da und doch nicht da. Der Philosoph und Kognitionswissenschaftler Alva Noë erklärt, warum der Schlaf die Unterscheidung von Aktivität und Passivität unterläuft und wir die Autoren unserer Albträume sind.",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Die Erkenntniskraft der frühen Jahre",
+      "url": "https://www.philomag.de/artikel/die-erkenntniskraft-der-fruehen-jahre",
+      "description": "Was können wir von Menschen lernen, die am Anfang ihres Lebens stehen? Vieles, wie ein Blick in die Philosophiegeschichte zeigt.",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -36,19 +68,19 @@
       }
     },
     {
-      "title": "Die Erkenntniskraft der frühen Jahre",
-      "url": "https://www.philomag.de/artikel/die-erkenntniskraft-der-fruehen-jahre",
-      "description": "Was können wir von Menschen lernen, die am Anfang ihres Lebens stehen? Vieles, wie ein Blick in die Philosophiegeschichte zeigt.",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Warum Beauvoir de Sade las",
+      "url": "https://www.philomag.de/artikel/warum-beauvoir-de-sade-las",
+      "description": "Marquis de Sade, dem wir gewaltvolle pornografische Werke wie  Die 120 Tage von Sodom  und den Begriff Sadismus verdanken, ist eine verstörende Gestalt. Weshalb plädiert die Feministin Beauvoir dafür, sich gewinnbringend mit ihm zu beschäftigen?",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 30,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
+        "daily": 25,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -116,90 +148,26 @@
       }
     },
     {
-      "title": "Überschreitung der Enge",
-      "url": "https://www.philomag.de/artikel/ueberschreitung-der-enge",
-      "description": "Wofür lohnt es sich zu leben? Junge Menschen finden auf diese Frage mit Leichtigkeit eine Antwort. Dass sie weltweit auf die Barrikaden gehen, ist ein Weckruf für uns alle.",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Der Erfinder des Abraums",
+      "url": "https://www.philomag.de/artikel/der-erfinder-des-abraums",
+      "description": "In seinem neuen Roman  Das tickende Herz  schickt Lutz Seiler einen Lyriker in die Steppe und lässt ihn dort nach Heilung suchen. Dichter, Weltretter, Erdbeschützer: Sie alle kommen in zwielichtigen Gemeinschaften zusammen – die in Seilers Werk immer wieder untergraben werden.",
+      "date": "Mon, 09 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Die Amerikanisierung der USA",
-      "url": "https://www.philomag.de/artikel/die-amerikanisierung-der-usa",
-      "description": "Die Hispanics werden diese Midterm Elections entscheiden – und noch viele weitere Wahlen. Denn sie sind die Avantgarde des Zusammenwachsens beider Amerikas, an dessen Ende die nordamerikanische Union steht.",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
+      "priority": 9,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 10
+        "total": 9
       }
     },
     {
-      "title": "„Hoffentlich ist es bald vorbei“",
-      "url": "https://www.philomag.de/artikel/hoffentlich-ist-es-bald-vorbei",
-      "description": "Die 83-jährige Nora möchte ihr Leben durch einen assistierten Suizid beenden. Aus welchen Gründen? Was bedeutet diese Entscheidung für ihr Umfeld? Und welche Folgen hätte die Normalisierung von Suizidassistenz für die Gesellschaft? Eine Reportage über das Streben nach Selbstbestimmung – und seine Schattenseiten.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Anna-Bettina Kaiser: „Trump verachtet das Recht“",
-      "url": "https://www.philomag.de/artikel/anna-bettina-kaiser-trump-verachtet-das-recht",
-      "description": "Droht den USA ein Staatsstreich durch Donald Trump – und das umso mehr, wenn die Republikaner bei den morgigen Midterms verlieren? Ein Gespräch mit der Rechtswissenschaftlerin Anna-Bettina Kaiser über berechtigte Sorgen um die US-Demokratie, den sogenannten „Selbstputsch“ und die wenigen Institutionen, die Trump Widerstand entgegenbringen.",
-      "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Wir wissen, was du dir wünschst",
-      "url": "https://www.philomag.de/artikel/wir-wissen-was-du-dir-wuenschst",
-      "description": "Wenn es dunkel wird: Die Redaktion empfiehlt acht Bücher zu Weihnachten, die erhellen, zu denken geben, trösten oder wach rütteln.",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Wissen Betroffene mehr?",
-      "url": "https://www.philomag.de/artikel/wissen-betroffene-mehr",
-      "description": "Empathie und Intellekt erlauben es uns, die Erfahrungen anderer nachzuvollziehen. Doch wo liegen die Grenzen unseres Einfühlungsvermögens? Wissen die Ausgegrenzten und Unterdrückten etwas, was andere nie verstehen werden?",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Das schwarz-rot-goldene Symbol",
+      "url": "https://www.philomag.de/artikel/das-schwarz-rot-goldene-symbol",
+      "description": "Die Deutschlandflagge wird vor allem mit rechten bis rechtsextremen Ansichten assoziiert. Zugleich scheinen wir sie in staatlichen Kontexten und bei Sportveranstaltungen als Symbol eines demokratischen Landes zu akzeptieren. Dass darin kein Widerspruch besteht, lässt sich mit ihren historischen Ursprüngen erklären.",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -212,19 +180,51 @@
       }
     },
     {
-      "title": "Relikt der Gabe",
-      "url": "https://www.philomag.de/artikel/relikt-der-gabe",
-      "description": "Festgelegte Trinkgeldbeträge an EC-Geräten mehren sich. Doch die Sozialität stiftende Funktion der Gabe geht auf diese Weise verloren.",
-      "date": "Fri, 30 Oct 2026",
+      "title": "James Talarico: Der Glaube im Dienst des Progressismus",
+      "url": "https://www.philomag.de/artikel/james-talarico-der-glaube-im-dienst-des-progressismus",
+      "description": "James Talarico, der bei den Zwischenwahlen zum demokratischen Senator von Texas gewählt wurde, ist eine der Leitfiguren der Erneuerung der amerikanischen Linken. Ein Porträt.",
+      "date": "Fri, 13 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Nora Bossong: „Die christliche Hoffnung ist keine reine Jenseitshoffnung“",
+      "url": "https://www.philomag.de/artikel/nora-bossong-die-christliche-hoffnung-ist-keine-reine-jenseitshoffnung",
+      "description": "Der Ruf des Christentums hat gelitten, gilt es doch vielen als Hort des Machtmissbrauchs und der Illusionen. Doch richtig verstanden, meint die Schriftstellerin und Katholikin Nora Bossong, eröffne der Glaube Zugang zu einer „Welt mit anderen Mitteln“. Ein Gespräch über die Kraft des Gebets, die christliche Umkehrung der Machtverhältnisse und notwendige Reformen der katholischen Kirche.",
+      "date": "Tue, 10 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Ein alter Tee, neu aufgegossen",
+      "url": "https://www.philomag.de/artikel/ein-alter-tee-neu-aufgegossen",
+      "description": "Das grüne Trendgetränk ist zum Lifestyle-Symbol geworden. Kehrt die Matchakultur damit zurück zu ihren elitären Wurzeln im feudalen Japan? Eine Spurensuche.",
+      "date": "Mon, 09 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

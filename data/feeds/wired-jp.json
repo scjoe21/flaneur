@@ -1,29 +1,29 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-08T21:07:07.834759+00:00",
+  "fetchedAt": "2026-11-13T11:47:39.685852+00:00",
   "items": [
     {
-      "title": "精子を鍛えろ！「スパームマキシング」の意外な効能",
-      "url": "https://wired.jp/article/sperm-maxxing-wellness-bros-mens-health/",
-      "description": "真偽はともかく、ウェルネス系インフルエンサーたちは男性の生殖能力問題に注目している。妊活の先にある、Sperm-Maxxing（精子力を最大化せよ！）の最前線。",
-      "date": "Sat, 07 Nov 2026",
+      "title": "AIは仕事を奪うのではなく、仕事そのものを変える",
+      "url": "https://wired.jp/article/sz-instead-of-taking-your-job-ai-might-transform-it/",
+      "description": "擁護派も否定派も、しばしばAIを工業のオートメーション化になぞらえて語る──だが実のところ、AIはむしろインターンに似ている。",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "是枝裕和とエイミー・ホンマが語る、映画文化の未来",
-      "url": "https://wired.jp/article/women-in-motion-hirokazukoreeda-amyhomma/",
-      "description": "ケリング「ウーマン・イン・モーション」は、表現を育み、より平等な社会の実現を目指す国際的プログラムだ。今年、その舞台裏では、ロサンゼルスにある映画博物館の仕組みを手がかりに、日本映画の現在地や、豊かな映画文化を次世代へいかに手渡すかが語られた。",
-      "date": "Sat, 07 Nov 2026",
+      "title": "「ボスを戻してくれ」──NVIDIAの従業員からジェンスン・フアンの復帰を求める声",
+      "url": "https://wired.jp/article/nvidia-employees-petition-for-jensen-huangs-return/",
+      "description": "NVIDIAの前CEOジェンスン・フアンの処遇を巡る社内投稿に、1,600件以上のコメントが寄せられた。一連のスキャンダルが報じられた後も、フアンが同社にとっていかに重要な存在であるかを訴える声が上がっている。",
+      "date": "Fri, 13 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -36,10 +36,10 @@
       }
     },
     {
-      "title": "「WIRED Innovation Awards 2026」の受賞者20名が決定！ 授賞式に抽選で20名をご招待",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-innovators/",
-      "description": "未来を切り拓くイノベーターを顕彰する「WIRED Innovation Awards 2026」の受賞者20名が決まった。映画監督からプロゲーマー、アーティストまで、革新者たちはいったいどんな言葉を伝えてくれているのか。",
-      "date": "Fri, 06 Nov 2026",
+      "title": "中国のオープンウェイトAIモデル、ハッキング能力で最先端のクローズドモデルに迫る",
+      "url": "https://wired.jp/article/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
+      "description": "高度なハッキング能力は、もはやクローズドモデルだけのものではない。模擬ネットワークを使った検証で、中国のオープンウェイトAIモデルがOpenAIの最先端モデルに迫る性能を示した。",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -52,10 +52,26 @@
       }
     },
     {
-      "title": "猪子寿之（チームラボ代表）：“存在”をつくり、“認識”の原理を模索し続ける",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-toshiyuki-inoko/",
-      "description": "世界中から人が訪れるミュージアムを手がけてもなお、チームラボ代表の猪子寿之には「わかりやすい目標」がないという。追い求めているのは、物質的な物体とは異なる“存在”と、それを人が認識する原理そのものだ。",
-      "date": "Fri, 06 Nov 2026",
+      "title": "AIエージェントの“リモコン”を目指すスマートリング「Aina Ring」が描く未来",
+      "url": "https://wired.jp/article/aina-smart-ring/",
+      "description": "スタートアップのAinaは近い将来、AIエージェントが人間に代わってさまざまな作業を進めるようになると考えている。そこで、スマホを取り出さずにAIエージェントの行動を指先で承認・拒否できるスマートリングを開発した。",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "考える力が失われる？ グーグルの「AIによる概要」、学校向けの無効化設定はなし",
+      "url": "https://wired.jp/article/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
+      "description": "グーグルは、学校向けにGoogle 検索の「AIによる概要」だけを無効にする設定を提供しない方針だ。教育関係者や保護者は、AIが簡単に答えを提示することで子どもたちが自分で考える機会が減ると懸念している。",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,10 +84,10 @@
       }
     },
     {
-      "title": "米中間選挙の民主党の圧勝で、データセンター建設は宇宙に？",
-      "url": "https://wired.jp/article/the-blue-wave-has-tech-bros-scrambling-for-data-centers-in-space/",
-      "description": "米中間選挙では、データセンター建設に反対する候補者が各地で勝利を収めた。業界への逆風が強まるなか、イーロン・マスクらテック業界の推進派は、宇宙空間でのデータセンター建設に活路を見いだそうとしている。",
-      "date": "Sun, 08 Nov 2026",
+      "title": "NVIDIAのジェンスン・フアン辞任。暫定CEOに就任したコレット・クレスとは",
+      "url": "https://wired.jp/article/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
+      "description": "中国政府の情報機関との関係を疑われる女性との不倫問題が報じられるなか、NVIDIAのジェンスン・フアンが辞任した。後任の暫定CEOには、同社がAI大手へと成長する過程を支えてきたCFOのコレット・クレスが就任した。",
+      "date": "Fri, 13 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -84,10 +100,10 @@
       }
     },
     {
-      "title": "GPSジャミングが脅かす空の安全、北朝鮮のサイバー工作：2026年10月に最も読まれた10本のストーリー",
-      "url": "https://wired.jp/article/10-most-read-stories-october-2026/",
-      "description": "2026年10月に「WIRED.jp」で公開した記事のなかから、最も読まれた10本を紹介する。",
-      "date": "Sun, 08 Nov 2026",
+      "title": "「閉経周辺期ビジネス」ブームの内側",
+      "url": "https://wired.jp/article/inside-the-perimenopause-industrial-complex/",
+      "description": "ホルモン療法の解禁により、米国ではテック系スタートアップ、MAHA活動家、医療専門家たちが、こぞってミレニアル世代の女性たちをホルモン摂取の新たなターゲットに仕立て上げている。",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -100,10 +116,10 @@
       }
     },
     {
-      "title": "廃棄物の「終わり」を「はじまり」に変え、工場から地域の土と水を再生する｜石坂産業──リジェネラティブ・カンパニー・アワード2026",
-      "url": "https://wired.jp/article/the-regenerative-company-awards-2026-ishizaka-inc/",
-      "description": "廃棄物を「終わり」ではなく、循環の「はじまり」に変える。減量化・再資源化率98%を誇る産業廃棄物リサイクルの石坂産業は、動脈産業との協業や新工場、リサイクル工場の隣での里山再生を通じて、工場から地域の土と水を回復しようとしている。",
-      "date": "Sat, 07 Nov 2026",
+      "title": "ハッブル宇宙望遠鏡に迫る大気圏再突入、新たな延命策の検討が始まった",
+      "url": "https://wired.jp/article/nasa-hubble-commercial-servicing-reboost-rfi/",
+      "description": "軌道高度が低下して大気圏再突入が7〜8年後に迫るハッブル宇宙望遠鏡について、米航空宇宙局（NASA）が新たな延命策の検討をスタートさせた。鍵を握るのは民間企業の技術だ。",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +132,10 @@
       }
     },
     {
-      "title": "『ブレードランナー2099』──レプリカント支配下の世界で「希望」を描く",
-      "url": "https://wired.jp/article/wired-world-fair-2026-blade-runner-2099/",
-      "description": "Amazonプライム・ビデオの『ブレードランナー2099』でショーランナーを務めるシルカ・ルイーザと出演者のハンター・シェイファーは、レプリカントが人間に代わって支配する世界の明るい側面を表現しようとしている。",
-      "date": "Sat, 07 Nov 2026",
+      "title": "高さ50cmの巨大な“菌”が発見される",
+      "url": "https://wired.jp/article/giant-fungus-dianjunus-rex-discovered-yunnan/",
+      "description": "高さが最大50cmにも達する巨大な菌が中国・雲南省で発見され、新種と報告された。これほどまで巨大な菌とは、いったいどのようなものなのか。",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +148,10 @@
       }
     },
     {
-      "title": "AIによる人類滅亡の確率は「ほぼゼロ」──Hugging FaceのCEOが語る",
-      "url": "https://wired.jp/article/wired-world-fair-2026-clement-delangue-hugging-face/",
-      "description": "「リスクの大部分は、密室で開発を進めるひと握りのプレイヤーによって生み出されている」。Hugging FaceのCEO、クレマン・ドゥラングはオープンソースAIの必要性を訴えた。",
-      "date": "Sat, 07 Nov 2026",
+      "title": "巨大な〈ブルー・ウェイブ〉にかき消されたトランプのレッド・アメリカ──「アメリカン・ドッペルゲンガー」by 池田純一#21",
+      "url": "https://wired.jp/article/american-doppelganger-21/",
+      "description": "中間選挙の直前、トランプは「俺が投票用紙の候補者リストに掲載されていると思え！」と大衆をあおった。そしてその宣言は見事に機能した。「反トランプ」という、投票理由のダメ押しとして。",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "AIにファンタジーフットボールチームの運営を任せてみた。人間を超える日は近いのか",
-      "url": "https://wired.jp/article/i-put-ai-agents-in-charge-of-a-fantasy-team/",
-      "description": "最新の研究から、AIの予測能力がさらに向上しつつあることが見えてきた。AIエージェントに運営を任せたわたしのファンタジーフットボールチームの成績はいまひとつだったが、それも近い将来、変わるかもしれない。",
-      "date": "Fri, 06 Nov 2026",
+      "title": "一見無害なAIアプリの多くに、性的ディープフェイクの生成機能が隠されていた",
+      "url": "https://wired.jp/article/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
+      "description": "一見普通のAIツールを装いながら、性暴力を含むディープフェイク画像や動画を生成する機能をもつ400以上のアプリやウェブサイトが『WIRED』の調査で見つかった。",
+      "date": "Wed, 11 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +180,10 @@
       }
     },
     {
-      "title": "ジョン・ターナスがアップルの新CEOに選ばれた理由",
-      "url": "https://wired.jp/article/sz-i-spent-30-minutes-with-apples-ceo-now-i-know-why-john-ternus-got-the-job/",
-      "description": "MacBook Proを発表したばかりのアップルにほころびはなく、波乱も望んでいない。新リーダーはあの“6色の血が流れる”プロダクト人間だ。",
-      "date": "Fri, 06 Nov 2026",
+      "title": "現実世界をシミュレートする「世界モデル」──AIの次なる進化とは？",
+      "url": "https://wired.jp/article/world-models-will-soon-be-inescapable-what-you-need-to-know/",
+      "description": "AIの可能性は、テキスト中心のLLMから、現実の物理現象を再現する「世界モデル」へと広がっている。この技術を活用することで、ロボットや自律走行車が周囲の状況を判断し、適切に行動できるよう仮想空間で訓練できる。",
+      "date": "Wed, 11 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "日本発のストップモーション時代劇『HIDARI』は、こうして長編映画化に向けて動き出した",
-      "url": "https://wired.jp/article/hidari-stop-motion-samurai-film-heads-to-feature/",
-      "description": "約5分のストップモーション時代劇が、長編映画化の実現に向けて進行中だ。主演声優としてキアヌ・リーブスの参加も決まった『HIDARI』のプロジェクトは、いかにして本格的に動き始めたのか。",
-      "date": "Fri, 06 Nov 2026",
+      "title": "iPhone Duoレビュー：スマートフォンに「閉じる」という作法を連れ戻した",
+      "url": "https://wired.jp/article/iphone-duo-review-from-scroll-to-codex/",
+      "description": "アップル初の折り畳みスマートフォン「iPhone Duo」。使って見えてきたのは、端末そのものの新しさというよりも、情報との付き合い方の変化だった。",
+      "date": "Wed, 11 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +212,10 @@
       }
     },
     {
-      "title": "朝井リョウ（小説家）：同じ時代のなかで惑い、“現象”を書き留める",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-ryo-asai/",
-      "description": "“推し活”をめぐる人々のうごめきを描いた『イン・ザ・メガチャーチ』で本屋大賞を受賞した小説家の朝井リョウ。時代の先を読むのではなく、いまを生きる人々と同じ目線で“現象”を書き留める作家は、小説という器に何を残そうとしているのか。",
-      "date": "Fri, 06 Nov 2026",
+      "title": "ジェンスン・フアンを巡るスキャンダルに揺れるAI業界──NVIDIAはどうなるのか",
+      "url": "https://wired.jp/article/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
+      "description": "NVIDIAのジェンスン・フアンはAI業界で絶大な影響力を築いてきた。しかし、中国政府のスパイと疑われる女性との関係が明らかになったことで、業界や米国の対中半導体政策にも影響が及ぶ可能性がある。",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "MIKIKO（演出振付家）：自分ではなく、誰かを輝かせ続ける",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-mikiko/",
-      "description": "Perfumeと並走した四半世紀を経て、なおも演出振付家のMIKIKOを突き動かしているのは、自分がつくったもので誰かが輝く姿に心から感動した“初期衝動”だ。それを彼女はいま、どこへ向けようとしているのか。",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "STUTS（トラックメイカー／音楽プロデューサー）：ひとりきりでは、たどりつけない音がある",
-      "url": "https://wired.jp/article/wired-innovation-awards-2026-stuts/",
-      "description": "初のアリーナ公演を完売させても、トラックメイカーで音楽プロデューサーのSTUTSは自分ひとりの考えに閉じこもらない。ラッパーや歌い手と言葉を交わしながら、自分でも思ってもみなかった曲が生まれる瞬間を追い求めている。",
-      "date": "Fri, 06 Nov 2026",
+      "title": "中国スパイ疑惑の女性との不倫を認めたNVIDIAのジェンスン・フアン、昨年から危機管理PR会社を起用",
+      "url": "https://wired.jp/article/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
+      "description": "中国のスパイとされる女性との不倫を認めたNVIDIAの最高経営責任者フアンは、約1年前から著名人のスキャンダル対応で知られる危機管理広報会社を起用していた。この問題は、半導体をめぐる米中間の対立とも交錯している。",
+      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

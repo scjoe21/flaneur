@@ -1,8 +1,24 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-08T21:06:55.482130+00:00",
+  "fetchedAt": "2026-11-13T11:47:28.517532+00:00",
   "items": [
+    {
+      "title": "Bioweine, PiWi und Events – Wie Winzer die Krise bewältigen wollen",
+      "url": "https://www.swr.de/swrkultur/wissen/bioweine-piwi-und-events-wie-winzer-die-krise-bewaeltigen-wollen-100.html",
+      "description": "Kostenexplosion, sinkender Weinkonsum und Klimawandel zwingen viele Winzer, Geschäftsmodelle zu überdenken und Neues auszuprobieren, etwa pilzresistente Sorten.",
+      "date": "Tue, 10 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 35
+      }
+    },
     {
       "title": "\"Oh wie süß\" – Was Niedlichkeit mit uns macht",
       "url": "https://www.swr.de/swrkultur/wissen/oh-wie-suess-was-niedlichkeit-mit-uns-macht-100.html",
@@ -36,6 +52,22 @@
       }
     },
     {
+      "title": "Eltern-Blogs und Momfluencer – Wie Social Media die Erziehung beeinflusst",
+      "url": "https://www.swr.de/swrkultur/wissen/eltern-blogs-und-momfluencer-wie-social-media-die-erziehung-beeinflusst-100.html",
+      "description": "Wenn Eltern heute zu Geburt, Schwangerschaft und Erziehung Fragen haben, landen sie schnell bei Influencern. Die Inhalte sind aber oft kommerziell, widersprüchlich oder gar falsch.",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "Waffenschmuggel aus Kriegsgebieten – Gefahr für Europa",
       "url": "https://www.swr.de/swrkultur/wissen/waffenschmuggel-aus-kriegsgebieten-gefahr-fuer-europa-100.html",
       "description": "Werden bei einer Razzia Kriegswaffen wie die Kalaschnikow sichergestellt, ist es für die Ermittler schwer, ihre Herkunft nachzuvollziehen und damit die Schmuggler herauszufinden.",
@@ -52,38 +84,6 @@
       }
     },
     {
-      "title": "Problemkind – Wie Jungs ein positives Männerbild entwickeln können",
-      "url": "https://www.swr.de/swrkultur/wissen/problemkind-wie-jungs-ein-positives-maennerbild-entwickeln-koennen-100.html",
-      "description": "Jungs gelten als anstrengend. Sie sind schlechter in der Schule und häufiger kriminell. Es bräuchte positive Vorbilder auf Social Media, aber auch Männer als Erzieher und Lehrer.",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Radikale Proteste in Frankreich – Die Sehnsucht nach Revolution",
-      "url": "https://www.swr.de/swrkultur/wissen/radikale-proteste-in-frankreich-die-sehnsucht-nach-revolution-100.html",
-      "description": "Massive Schüler-Proteste erschüttern Frankreich. Ähnlich wie \"Bloquons tout\" oder die Gelbwesten fordern sie große Veränderungen – mit Bezug auf die Französische Revolution.",
-      "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Albträume – Was uns quält und wie wir es loswerden",
       "url": "https://www.swr.de/swrkultur/wissen/albtraeume-was-uns-quaelt-und-wie-wir-es-loswerden-100.html",
       "description": "Millionen Menschen in Deutschland bekommen im Traum Panikattacken oder leiden unter Versagensängsten. Wir blicken auf typische Albtraummotive und wirksame Therapien.",
@@ -97,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Liedermacher Wolf Biermann – Wie seine Ausbürgerung die DDR erschütterte",
+      "url": "https://www.swr.de/swrkultur/wissen/liedermacher-wolf-biermann-wie-seine-ausbuergerung-die-ddr-erschuetterte-100.html",
+      "description": "Nach seinem Konzert in Köln am 13.11.1976 entzieht das SED-Regime Wolf Biermann die Staatsbürgerschaft. Die Empörung darüber ist riesig und läutet den Anfang vom Ende der DDR ein.",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -196,6 +212,22 @@
       }
     },
     {
+      "title": "Veteranen in Deutschland – Zwischen Ehre, Trauma und Symbolpolitik",
+      "url": "https://www.swr.de/swrkultur/wissen/veteranen-in-deutschland-zwischen-ehre-trauma-und-symbolpolitik-100.html",
+      "description": "In den USA gehört der Veterans Day am 11. November zur politischen Kultur. Deutschland hat erst 2025 einen Veteranentag eingeführt – und ringt um seine Bedeutung.",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
+      }
+    },
+    {
       "title": "KI als Dolmetscher – Wozu noch Fremdsprachen lernen?",
       "url": "https://www.swr.de/swrkultur/wissen/ki-als-dolmetscher-wozu-noch-fremdsprachen-lernen-100.html",
       "description": "KI kann Nachrichten oder technische Texte gut übersetzen, hat aber ihre Grenzen bei Literatur, Comics oder Poesie. Und wer eine Sprache lernt, tut etwas für seine Kognition.",
@@ -209,38 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Flamingo-Proteste in Albanien – Gegen Korruption und Kushner",
-      "url": "https://www.swr.de/swrkultur/wissen/flamingo-proteste-in-albanien-gegen-korruption-und-kushner-100.html",
-      "description": "Die \"Flamingo-Proteste\" in Albanien wenden sich gegen Korruption, Vetternwirtschaft und die Regierung von Edi Rama. Auslöser war ein umstrittenes Luxusprojekt von Jared Kushner.",
-      "date": "Tue, 27 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Wunschkind Mädchen – Was hinter Gender Disappointment steckt",
-      "url": "https://www.swr.de/swrkultur/wissen/wunschkind-maedchen-was-hinter-gender-disappointment-steckt-104.html",
-      "description": "Manche Eltern sind enttäuscht, wenn es ein Junge wird. Das Wunschgeschlecht scheint sich in Richtung Mädchen zu verschieben. Töchter gelten als pflegeleichter.",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

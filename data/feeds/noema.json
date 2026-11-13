@@ -1,8 +1,40 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-11-08T21:06:47.689260+00:00",
+  "fetchedAt": "2026-11-13T11:47:22.849004+00:00",
   "items": [
+    {
+      "title": "How Aristotle Anticipated The AI Era",
+      "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
+      "description": "The post  How Aristotle Anticipated The AI Era  appeared first on  NOEMA .",
+      "date": "Thu, 05 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "When AIs Become Unruly Swarms",
+      "url": "https://www.noemamag.com/when-ais-become-unruly-swarms",
+      "description": "The post  When AIs Become Unruly Swarms  appeared first on  NOEMA .",
+      "date": "Tue, 10 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
     {
       "title": "Democrats Should Not Revert To The Status Quo Ante",
       "url": "https://www.noemamag.com/democrats-should-not-revert-to-the-status-quo-ante",
@@ -36,26 +68,10 @@
       }
     },
     {
-      "title": "When The Present Eats The Future",
-      "url": "https://www.noemamag.com/when-the-present-eats-the-future",
-      "description": "The post  When The Present Eats The Future  appeared first on  NOEMA .",
-      "date": "Fri, 16 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Building The New Equilibrium Economy",
-      "url": "https://www.noemamag.com/building-the-new-equilibrium-economy",
-      "description": "The post  Building The New Equilibrium Economy  appeared first on  NOEMA .",
-      "date": "Thu, 05 Nov 2026",
+      "title": "A Generation Revolts",
+      "url": "https://www.noemamag.com/a-generation-revolts",
+      "description": "The post  A Generation Revolts  appeared first on  NOEMA .",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
       "description": "The post  Sudan As A Mirror For Today’s World  appeared first on  NOEMA .",
       "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "What We Can Save In A Time Of Endings",
-      "url": "https://www.noemamag.com/what-we-can-save-in-a-time-of-endings",
-      "description": "The post  What We Can Save In A Time Of Endings  appeared first on  NOEMA .",
-      "date": "Thu, 15 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,8 +1,24 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-11-08T21:07:04.283707+00:00",
+  "fetchedAt": "2026-11-13T11:47:36.818690+00:00",
   "items": [
+    {
+      "title": "コヨーテ歩き撮り#261",
+      "url": "https://keisobiblio.com/2026/11/09/coyote261/",
+      "description": "今年は夏においてけぼりにされたので、秋になってから沖縄の離島を訪ねた。うるま市にある浜比嘉島。見るとなんとも不思議なきのこ状の岩が海にぽつんとある。いったいどうやってできたんだろう。\n\nAs I was left behind by summer this year,  I visited a remote island off the coast of Okinawa in October. This is called Hamahiga Island. By the shore I saw a strange, mushroom-shaped rock sitting all alone in the ocean. I wonder how on earth it was formed!",
+      "date": "Mon, 09 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
     {
       "title": "あとがきたちよみ『自由エネルギー原理を哲学する――身体・意識・AIをつなぐ「大統一理論」の射程』",
       "url": "https://keisobiblio.com/2026/11/02/atogakitachiyomi_jiyuenergygenri/",
@@ -135,22 +151,6 @@
       "title": "あとがきたちよみ『新装版　パース著作集3　形而上学』",
       "url": "https://keisobiblio.com/2026/10/01/atogakitachiyomi_peircechosakushu03/",
       "description": "「訳者解説」「新装版への解説――「希望」としてのパース形而上学」を公開しました。",
-      "date": "Thu, 01 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あとがきたちよみ『新装版　パース著作集2　記号学』",
-      "url": "https://keisobiblio.com/2026/10/01/atogakitachiyomi_peircechosakushu02/",
-      "description": "「序」「新装版への解説――本書の活用の手引き」を公開しました。",
       "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",

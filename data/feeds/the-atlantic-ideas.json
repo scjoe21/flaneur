@@ -1,13 +1,29 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-08T21:06:47.098139+00:00",
+  "fetchedAt": "2026-11-13T11:47:22.376825+00:00",
   "items": [
     {
-      "title": "The Pope Confronts One of His Toughest Political Challenges",
-      "url": "https://www.theatlantic.com/ideas/2026/11/pope-leo-south-america-right-wing/689316/?utm_source=feed",
+      "title": "Democrats Should Cut a Deal With Trump",
+      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-trump-deal-not-investigation/689368/?utm_source=feed",
       "description": "",
-      "date": "2026-11-06",
+      "date": "2026-11-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Investigating Michel Houellebecq Is a Dangerous Mistake",
+      "url": "https://www.theatlantic.com/ideas/2026/11/michel-houellebecq-investigation-france/689415/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-12",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -20,10 +36,26 @@
       }
     },
     {
-      "title": "A Good Night for the Christian Faith",
-      "url": "https://www.theatlantic.com/ideas/2026/11/midterms-christianity-talarico-hamilton/689299/?utm_source=feed",
+      "title": "The Trolls’ Comeuppance",
+      "url": "https://www.theatlantic.com/ideas/2026/11/attention-economy-republicans-failure/689347/?utm_source=feed",
       "description": "",
-      "date": "2026-11-05",
+      "date": "2026-11-10",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "The Inconvenient Truth at the Center of the Immigration Debate",
+      "url": "https://www.theatlantic.com/ideas/2026/11/immigration-trump-border-asylum/689318/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -33,6 +65,150 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Scott Colom Is Mississippi’s First Black Senator in 150 Years",
+      "url": "https://www.theatlantic.com/ideas/2026/11/scott-colom-us-senate-democrats/689395/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Last Trumpist Standing",
+      "url": "https://www.theatlantic.com/ideas/2026/11/stephen-miller-trump-chief-of-staff/689385/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-12",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Case Against a ‘Religious Left’",
+      "url": "https://www.theatlantic.com/ideas/2026/11/religious-left-christian-democrats/689374/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Left’s Election Denial",
+      "url": "https://www.theatlantic.com/ideas/2026/11/moderates-midterms-success-progressives/689371/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-11",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Trump Has Been Corroded by Hate",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-hate-legacy/689362/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-10",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Getting Too Close to Trump Was a Mistake",
+      "url": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-10",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Lost World of Aquaterra",
+      "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-10",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Pete Hegseth Lashes Out",
+      "url": "https://www.theatlantic.com/ideas/2026/11/hegseth-war-college-curriculum/689351/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-09",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Collapse of America’s Most Consequential Institution",
+      "url": "https://www.theatlantic.com/ideas/2026/11/justice-department-collapse-trump/689306/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-09",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -56,182 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/11/airlines-bankruptcy-profit-jetblue/689332/?utm_source=feed",
       "description": "",
       "date": "2026-11-07",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump Doubles Down With Miller",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-stephen-miller/689334/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-06",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "LeBron James, Philadelphian",
-      "url": "https://www.theatlantic.com/ideas/2026/11/lebron-james-sixers-philadelphia/689324/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-06",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "In Front of Their Noses",
-      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-midterms-trump-maga/689315/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-06",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Democrats Have No Coherent Plan for AI",
-      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-ai-midterms-regulation/689320/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Execution Divide",
-      "url": "https://www.theatlantic.com/ideas/2026/11/death-row-commutation-california-newsom/689304/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Chuck Schumer’s Revenge",
-      "url": "https://www.theatlantic.com/ideas/2026/11/midterms-democrats-mississippi-senate/689301/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Even Where MAGA Won, MAGA Lost",
-      "url": "https://www.theatlantic.com/ideas/2026/11/maga-party-demographic-shift/689286/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-05",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Vance 2028 Is Here",
-      "url": "https://www.theatlantic.com/ideas/2026/11/vance-2028-campaign-strategy-change/689291/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The End of the Trump Era",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-era-republicans-midterms/689292/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump Learns His Orbán Lesson",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-orban-elections/689287/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-04",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Biggest Victory of the Night",
-      "url": "https://www.theatlantic.com/ideas/2026/11/midterm-election-democrats-normal/689279/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-04",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

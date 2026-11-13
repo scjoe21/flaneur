@@ -1,45 +1,13 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-08T21:06:22.392095+00:00",
+  "fetchedAt": "2026-11-13T11:47:05.095227+00:00",
   "items": [
     {
       "title": "“Midterms” : comment la gauche américaine s’est recomposée",
       "url": "https://www.philomag.com/articles/midterms-comment-la-gauche-americaine-sest-recomposee",
       "description": "",
       "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Comment s’adresser à un tyran",
-      "url": "https://www.philomag.com/articles/comment-sadresser-un-tyran",
-      "description": "",
-      "date": "Sun, 01 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "“La Bohème”, “Hier encore”… Pourquoi les jeunes adorent les chansons de vieux ?",
-      "url": "https://www.philomag.com/articles/la-boheme-hier-encore-pourquoi-les-jeunes-adorent-les-chansons-de-vieux",
-      "description": "",
-      "date": "Sat, 31 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -84,19 +52,67 @@
       }
     },
     {
-      "title": "Bienvenue dans l’ère du “plag-IA”",
-      "url": "https://www.philomag.com/articles/bienvenue-dans-lere-du-plag-ia",
+      "title": "Norman Ajari : “Les idées qui ont motivé l’attentat de Trappes circulent librement aujourd’hui dans l’espace public”",
+      "url": "https://www.philomag.com/articles/norman-ajari-les-idees-qui-ont-motive-lattentat-de-trappes-circulent-librement",
       "description": "",
-      "date": "Fri, 30 Oct 2026",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Le “syndrome du manque de nature”, racine des maux de la jeunesse ?",
+      "url": "https://www.philomag.com/articles/le-syndrome-du-manque-de-nature-racine-des-maux-de-la-jeunesse",
+      "description": "",
+      "date": "Wed, 11 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "La victoire de la “démocratie profonde”",
+      "url": "https://www.philomag.com/articles/la-victoire-de-la-democratie-profonde",
+      "description": "",
+      "date": "Tue, 10 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Pillages du 17 octobre : “On n’avait jamais observé de tels phénomènes de prédation depuis les jacqueries de l’Ancien Régime”",
+      "url": "https://www.philomag.com/articles/pillages-du-17-octobre-navait-jamais-observe-de-tels-phenomenes-de-predation-depuis-les",
+      "description": "",
+      "date": "Mon, 09 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/au-bresil-les-hommes-veulent-la-force-electorale-des-femmes-pas-les-voir-gouverner",
       "description": "",
       "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Derrière les violences urbaines, le spectre du nihilisme ?",
-      "url": "https://www.philomag.com/articles/derriere-les-violences-urbaines-le-spectre-du-nihilisme",
-      "description": "",
-      "date": "Sat, 31 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
