@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-13T21:23:15.449977+00:00",
+  "fetchedAt": "2026-11-13T23:50:16.954757+00:00",
   "items": [
+    {
+      "title": "自宅でずっと暮らし続けたい──老父を見守るAIデバイス",
+      "url": "https://wired.jp/article/sz-sensi-ai-seniors-home-care-aging-in-place/",
+      "description": "高齢者の安全をモニターするAIは、心配する家族と、人材不足に悩む在宅介護事業者にとってはありがたい存在だ。米国の最新事情。",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "AIは仕事を奪うのではなく、仕事そのものを変える",
       "url": "https://wired.jp/article/sz-instead-of-taking-your-job-ai-might-transform-it/",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 10
+      }
+    },
+    {
+      "title": "AIパワーユーザー向け。Linuxベースの新OS「KORA」、2027年に提供へ",
+      "url": "https://wired.jp/article/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
+      "description": "「KORA」はWindowsやmacOSに代わる選択肢として開発されている、LinuxベースのデスクトップOSだ。ローカル環境でAIモデルを動かすユーザーのほか、ゲーマーやクリエイターの利用も想定している。",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -62,22 +94,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "考える力が失われる？ グーグルの「AIによる概要」、学校向けの無効化設定はなし",
-      "url": "https://wired.jp/article/google-is-forcing-ai-overviews-in-classrooms-schools-are-searching-for-a-way-out/",
-      "description": "グーグルは、学校向けにGoogle 検索の「AIによる概要」だけを無効にする設定を提供しない方針だ。教育関係者や保護者は、AIが簡単に答えを提示することで子どもたちが自分で考える機会が減ると懸念している。",
-      "date": "Tue, 10 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -215,22 +231,6 @@
       "title": "ジェンスン・フアンを巡るスキャンダルに揺れるAI業界──NVIDIAはどうなるのか",
       "url": "https://wired.jp/article/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
       "description": "NVIDIAのジェンスン・フアンはAI業界で絶大な影響力を築いてきた。しかし、中国政府のスパイと疑われる女性との関係が明らかになったことで、業界や米国の対中半導体政策にも影響が及ぶ可能性がある。",
-      "date": "Tue, 10 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "中国スパイ疑惑の女性との不倫を認めたNVIDIAのジェンスン・フアン、昨年から危機管理PR会社を起用",
-      "url": "https://wired.jp/article/nvidia-ceo-jensen-huang-hired-a-pr-firm-known-for-handling-sex-scandals-last-year/",
-      "description": "中国のスパイとされる女性との不倫を認めたNVIDIAの最高経営責任者フアンは、約1年前から著名人のスキャンダル対応で知られる危機管理広報会社を起用していた。この問題は、半導体をめぐる米中間の対立とも交錯している。",
       "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",

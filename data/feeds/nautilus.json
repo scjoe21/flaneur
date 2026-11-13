@@ -1,7 +1,7 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-11-13T21:23:06.502826+00:00",
+  "fetchedAt": "2026-11-13T23:50:08.275529+00:00",
   "items": [
     {
       "title": "The Shapes and Colors of a Near-Death Experience",
@@ -20,19 +20,35 @@
       }
     },
     {
-      "title": "How the Brain’s Failing Trash Compactor Can Contribute to Alzheimer’s Disease",
-      "url": "https://nautil.us/how-the-brains-failing-trash-compactor-can-contribute-to-alzheimers-disease-1286581/",
-      "description": "Boring jobs are important jobs \n The post  How the Brain’s Failing Trash Compactor Can Contribute to Alzheimer’s Disease  appeared first on  Nautilus .",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/Fluorescently_Labeled_Microglia_in_a_Coronal_Brain_Section_from_a_C57_Mouse.jpg?w=564",
+      "title": "Why Sleep Might Not be as Restorative as We Get Older",
+      "url": "https://nautil.us/why-sleep-might-not-be-as-restorative-as-we-get-older-1286631/",
+      "description": "Our brains need a nightly scrubbing  \n The post  Why Sleep Might Not be as Restorative as We Get Older  appeared first on  Nautilus .",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_2794581345.jpg?w=564",
       "videoId": "",
-      "priority": 15,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 20,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 20
+      }
+    },
+    {
+      "title": "The World’s Largest Marine Turtle Makes a Move South",
+      "url": "https://nautil.us/the-worlds-largest-marine-turtle-makes-a-move-south-1286621/",
+      "description": "Nesting leatherbacks chase cooler waters to Ecuador’s beaches \n The post  The World’s Largest Marine Turtle Makes a Move South  appeared first on  Nautilus .",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/AdobeStock_276708781.jpeg?w=564",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -137,22 +153,6 @@
       "description": "The physicist had a steamy romance with Margarita Konenkova \n The post  Was Einstein Seduced by a Russian Honeypot Operation?  appeared first on  Nautilus .",
       "date": "Thu, 12 Nov 2026",
       "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/einstein.jpg?w=564",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Scientists Catch a Rare Glimpse of a Fish With a See-Through Head",
-      "url": "https://nautil.us/scientists-catch-a-rare-glimpse-of-a-fish-with-a-see-through-head-1286577/",
-      "description": "A barreleye’s peepers watch from inside its head \n The post  Scientists Catch a Rare Glimpse of a Fish With a See-Through Head  appeared first on  Nautilus .",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/01-barrel.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
