@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-11-13T11:47:23.355435+00:00",
+  "fetchedAt": "2026-11-13T21:22:54.411858+00:00",
   "items": [
     {
       "title": "True Love Will Find You in the End: Kurt Vonnegut on When to Stop Trying and When to Try Again",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 30
+      }
+    },
+    {
+      "title": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning",
+      "url": "https://www.themarginalian.org/2026/11/13/yes-to-life-in-spite-of-everything-viktor-frankl/",
+      "description": "\"Everything depends on the individual human being, regardless of how small a number of like-minded people there is... on each person... creatively making the meaning of life a reality in his or her own being.\"",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {
@@ -164,6 +180,22 @@
       }
     },
     {
+      "title": "Loving vs. Being in Love: Jane Welsh Carlyle on Navigating the Heart’s Contradictions",
+      "url": "https://www.themarginalian.org/2026/11/13/jane-welsh-carlyle-love/",
+      "description": "\"A passion, like the torrent in the violence of its course, might perhaps too, like the torrent, leave ruin and desolation behind... My love for you... is deep and calm, more like the quiet river, which refreshes and beautifies where it flows.\"",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 10
+      }
+    },
+    {
       "title": "Hope Is the Thing with Feathers, and with Fangs: The Alchemy of Unrequited Love and the Story Behind Emily Dickinson’s Most Famous Poem",
       "url": "https://www.themarginalian.org/2026/11/08/emily-dickinson-hope-kate/",
       "description": "This essay is adapted from the nineteenth chapter of my book Figuring. In the first autumn of her thirties, Emily Dickinson wrote to her confidante and eventual editor Thomas Wentworth Higginson: I had a terror — since September — I could tell to none, and so I sing, as the Boy does by the Burying Ground — because I am afraid. Not a “fright,” not a “shock,” but a terror. What lay behind this enormity implied by a woman who measured her words so meticulously? Generations of biographers have fille",
@@ -193,38 +225,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "The Souls of Animals",
-      "url": "https://www.themarginalian.org/2026/11/04/the-souls-of-animals/",
-      "description": "“They do not sweat and whine about their condition,” Walt Whitman wrote of the other animals, “they do not lie awake in the dark and weep for their sins, they do not make me sick discussing their duty to God, not one is dissatisfied, not one is demented with the mania of owning things.” Here was “the poet of the body and the poet of the soul” holding up a mirror to us creatures inhabiting an animal body complicated by a soul — that organ of want and worry which we ourselves invented to explain w",
-      "date": "Wed, 04 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "The Art of Advancing with Age: Bertrand Russell on What Makes a Fulfilling Life",
-      "url": "https://www.themarginalian.org/2026/11/03/how-to-grow-old-bertrand-russell/",
-      "description": "\"Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life.\"",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

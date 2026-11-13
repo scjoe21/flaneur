@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-13T11:47:21.870354+00:00",
+  "fetchedAt": "2026-11-13T21:22:52.780065+00:00",
   "items": [
+    {
+      "title": "A beginner’s guide to falling in love with Russian literature",
+      "url": "https://bigthink.com/books/beginners-guide-to-russian-literature/",
+      "description": "Few literary canons inspire as much reverence, and fear, as Russia’s. The sheer size and complexity of novels like Leo Tolstoy’s  War and Peace  (1867) and Fyodor Dostoevsky’s  The Brothers Karamazov  (1880) have created two groups of readers: Those who have read them, and those who say they will read them — one day.   \n For one reason or another, that day never seems to come. Allow us to make the case for why it should. Reading Russian literature is not only worth the effort, but is also far le",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/russian-literature.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 40,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "How to find your way through 2,600 years of philosophy",
       "url": "https://bigthink.com/mini-philosophy/how-to-find-your-way-through-2600-years-of-philosophy/",
@@ -84,22 +100,6 @@
       }
     },
     {
-      "title": "Astronomy is the universe looking back at itself",
-      "url": "https://bigthink.com/series/full-interview/universe-time-thaller/",
-      "description": "When you see the sun, you’re seeing it as it was eight minutes ago, and the faintest star yet observed, Earendel, shines from 12.9 billion years in the past. Astronomer Michelle Thaller, who spent 28 years at NASA, explains how every telescope is a time machine and how gravity itself bends space into natural lenses that let us peer to the dawn of the universe. \n This video  Astronomy is the universe looking back at itself  is featured on  Big Think .",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/Screenshot-2026-11-12-at-10.35.29-AM.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 29,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 29
-      }
-    },
-    {
       "title": "Scholars still can’t define religion. Here’s why",
       "url": "https://bigthink.com/series/conversations/andrew-henry-defining-religion/",
       "description": "Scholars of religion still can’t agree on what religion is, and Andrew Henry, creator of Religion for Breakfast, thinks that tells us something. In this conversation with Jonny Thomson, he explains why he looks at what religious practices do rather than what they claim, why a stadium chant and a church creed may be closer than they seem, and why “true Christianity” is harder to pin down than its defenders suggest. They also take on common debate points, from the historical Jesus to Tom Holland’s",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "A modest proposal: Europe should go full bananas",
+      "url": "https://bigthink.com/strange-maps/europe-goes-bananas/",
+      "description": "Underneath the political map of Europe’s nation-states simmers another reality: a tangle of economic and logistical corridors that transcend national borders. The best known of these is the Blue Banana. \n Many others aren’t as visible, and that is due to poor marketing: They lack an equally imaginative handle. Hence this modest proposal: If the European Union is serious about integration, it should get silly about names. All 12 of its major transnational economic corridors should be named after ",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/10/Cropped-Bananas.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "We built our world on “Big Math.” Now we no longer understand it.",
       "url": "https://bigthink.com/history-society/big-math/",
       "description": "Math has undeniably escaped the human mind and implanted itself in nearly every corner of the world. Over the past 75 years, as computers became commonplace and grew in power, what once amounted to mental arithmetic has become something else entirely. It’s not just math; it’s “Big Math,” too large for the human brain alone.  \n Big Math’s offshoot algorithms, the step-by-step sets of instructions and rules used to perform calculations, now undergird much of the technologies we take for granted in",
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "AI proved a major quantum complexity conjecture. What does it mean?",
-      "url": "https://bigthink.com/starts-with-a-bang/ai-proved-quantum-complexity-conjecture/",
-      "description": "If you work with a normal computer — a classical computer — you’re used to two foundational ideas: \n \n the idea of bits, where information gets encoded as a “0” or “1” within some sort of storage medium or mechanism, \n and the idea of operations that can be performed on those bits (or “gates” that those bits can be passed through), which represent the possible computations that can be conducted with those bits. \n \n Some problems can be solved very efficiently with classical bits and classical ga",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2019/10/origin-47-e1794296443845.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

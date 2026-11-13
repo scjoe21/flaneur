@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-11-13T11:47:04.173428+00:00",
+  "fetchedAt": "2026-11-13T21:22:28.571157+00:00",
   "items": [
     {
       "title": "La vraie infidélité",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
+      }
+    },
+    {
+      "title": "La politique est la nouvelle religion",
+      "url": "https://www.youtube.com/shorts/pLXoX7sWuk8",
+      "description": "Un religieux veut convertir, un militant veut convaincre. L'un se réfère à un texte sacré, l'autre à une doctrine. Dans cette vidéo, je vous explique pourquoi le militantisme politique fonctionne aujourd'hui exactement comme une religion : des idées qu'on n'a plus le droit de remettre en question, des prêtres qui donnent la ligne à suivre… et un diable à combattre.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #politique #religion #militantisme #idéologie #dogme",
+      "date": "2026-11-13",
+      "thumbnail": "https://i1.ytimg.com/vi/pLXoX7sWuk8/hqdefault.jpg",
+      "videoId": "pLXoX7sWuk8",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-10-21",
       "thumbnail": "https://i2.ytimg.com/vi/q9N2R7fHA9c/hqdefault.jpg",
       "videoId": "q9N2R7fHA9c",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Si tu as aimé ce film, lis ce philosophe",
-      "url": "https://www.youtube.com/shorts/QfoKf8pL4L4",
-      "description": "⬇️ Complétez ma liste en commentaire\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #philosophes #cinéma #films #lecture",
-      "date": "2026-10-13",
-      "thumbnail": "https://i2.ytimg.com/vi/QfoKf8pL4L4/hqdefault.jpg",
-      "videoId": "QfoKf8pL4L4",
       "priority": 15,
       "scoreDetail": {
         "daily": 5,

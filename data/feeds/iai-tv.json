@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-13T11:47:31.014480+00:00",
+  "fetchedAt": "2026-11-13T21:23:05.982972+00:00",
   "items": [
     {
       "title": "Does international law actually reflect our wishes? | Marlène Laruelle, James Orr, Philippe Sands",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "Dawkins' AI Friend | Denis Noble",
+      "url": "https://www.youtube.com/shorts/YIqLxL3T2GE",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\n#biology# evolution #richarddawkins #ai #conscience",
+      "date": "2026-11-13",
+      "thumbnail": "https://i2.ytimg.com/vi/YIqLxL3T2GE/hqdefault.jpg",
+      "videoId": "YIqLxL3T2GE",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "How do we differentiate strands of feminism? | Stock, Salami, Jones",
       "url": "https://www.youtube.com/shorts/XJHquM-PjF8",
       "description": "",
@@ -96,22 +112,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 15
-      }
-    },
-    {
-      "title": "Is the pursuit of reason making the world worse? | Cornel West, Susan Neiman, Rowan Williams",
-      "url": "https://www.youtube.com/watch?v=zGjubBkN2sQ",
-      "description": "Rowan Williams, Susan Neiman and Cornel West discuss the destabilising nature of reason.\n\nDoes reason make society inherently unstable?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/reason-and-revolution?utm_source=YouTube&utm_medium=description\n\nWe often see reason as providing a solid basis for our theories. Some have even imagined that reason alone can deliver truth. But far from being a stable foundation, critics of reason argue that it is equally a vehicle of",
-      "date": "2026-10-27",
-      "thumbnail": "https://i3.ytimg.com/vi/zGjubBkN2sQ/hqdefault.jpg",
-      "videoId": "zGjubBkN2sQ",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 15
       }
     },

@@ -1,239 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W21",
-      "tags": [
-        "화폐",
-        "관계의상품화",
-        "짐멜",
-        "빈곤의비가시성",
-        "사회적배제",
-        "랑시에르",
-        "본질과존재",
-        "이슬람철학",
-        "아비첸나",
-        "도덕적 공감",
-        "동물윤리",
-        "상징적 행동주의",
-        "법철학",
-        "형식적평등",
-        "빈곤의범죄화",
-        "보수주의",
-        "극우포퓰리즘",
-        "정치철학",
-        "주의력",
-        "회피",
-        "세네카",
-        "주의경제",
-        "아우라",
-        "디지털피로",
-        "결렬",
-        "소속의철학",
-        "자기형성",
-        "의례",
-        "상징",
-        "공동체수행",
-        "교육철학",
-        "성장",
-        "취약성",
-        "탈출충동",
-        "존재감각",
-        "레비나스"
-      ],
-      "articles": [
-        {
-          "title": "돈은 왜 우리의 관계를 바꾸는가",
-          "summary": "지갑을 열 때마다 우리는 관계의 언어를 돈으로 번역하고 있다",
-          "philosopher": "짐멜 (Georg Simmel)",
-          "philosophers": [
-            "짐멜 (Georg Simmel)"
-          ],
-          "tags": [
-            "화폐",
-            "관계의상품화",
-            "짐멜"
-          ],
-          "sourceUrl": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/guillaume-erner-sociologue-et-producteur-de-radio-sur-philosophie-de-l-argent-de-georg-simmel-2727980",
-          "originalTitle": "Guillaume Erner : \"J'ai lu Simmel en regardant Le Loft, et les deux disent tout de l'argent\""
-        },
-        {
-          "title": "가난은 왜 눈에 보이지 않는가",
-          "summary": "같은 거리를 걸으면서도 누군가의 결핍은 왜 우리 시야 밖에 있는가",
-          "philosopher": "랑시에르 (Jacques Ranciere)",
-          "philosophers": [
-            "랑시에르 (Jacques Ranciere)",
-            "시몬 베유 (Simone Weil)",
-            "존 롤스 (John Rawls)"
-          ],
-          "tags": [
-            "빈곤의비가시성",
-            "사회적배제",
-            "랑시에르"
-          ],
-          "sourceUrl": "https://www.radiofrance.fr",
-          "originalTitle": "Comment répondre à la pauvreté ?"
-        },
-        {
-          "title": "존재하기 전에 먼저 무엇이어야 하는가",
-          "summary": "아비첸나가 900년 전 던진 질문이 지금 우리의 정체성 논쟁을 흔든다",
-          "philosopher": "아리스토텔레스 (Aristotle)",
-          "philosophers": [
-            "아리스토텔레스 (Aristotle)",
-            "사르트르 (Jean-Paul Sartre)",
-            "토마스 아퀴나스 (Thomas Aquinas)",
-            "하이데거 (Martin Heidegger)"
-          ],
-          "tags": [
-            "본질과존재",
-            "이슬람철학",
-            "아비첸나"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/avicenne-invente-la-distinction-entre-essence-et-existence-entretien-avec-la-philosophe",
-          "originalTitle": "“Avicenne a inventé la distinction entre essence et existence” : entretien avec la philosophe Souâd Ayada"
-        },
-        {
-          "title": "고래를 위해 울고 치킨을 먹다",
-          "summary": "SNS에 애도를 올리고 고기를 주문하는 우리, 이 모순은 위선인가 희망인가?",
-          "philosopher": "피터 싱어 (Peter Singer)",
-          "philosophers": [
-            "피터 싱어 (Peter Singer)"
-          ],
-          "tags": [
-            "도덕적 공감",
-            "동물윤리",
-            "상징적 행동주의"
-          ],
-          "sourceUrl": "https://www.deutschlandfunkkultur.de/wal-doppelmoral-tierliebe-bedrohte-spezies-meinung-100.html",
-          "originalTitle": "Die Doppelmoral der Walschützer - Fleischgewordenes schlechtes Gewissen"
-        },
-        {
-          "title": "무임승차자를 감옥에 보내는 나라",
-          "summary": "버스 요금을 못 낸 죄로 수감될 수 있다면, 법은 누구를 위한 것인가?",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "법철학",
-            "형식적평등",
-            "빈곤의범죄화"
-          ],
-          "sourceUrl": "https://www.deutschlandfunkkultur.de/schwarzfahren-strafe-gefaengnis-kommentar-100.html",
-          "originalTitle": "Kommentar - Schwarzfahren abschaffen - anstatt die Strafen dafür"
-        },
-        {
-          "title": "보수주의는 극우를 막을 수 있는가",
-          "summary": "전통을 지키려는 사상이 어쩌다 극단주의의 발판이 되었는가?",
-          "philosopher": "헤겔 (Hegel)",
-          "philosophers": [
-            "헤겔 (Hegel)",
-            "하이데거 (Martin Heidegger)"
-          ],
-          "tags": [
-            "보수주의",
-            "극우포퓰리즘",
-            "정치철학"
-          ],
-          "sourceUrl": "https://www.deutschlandfunkkultur.de/konservatives-denken-heute-bollwerk-oder-steigbuegelhalter-100.html",
-          "originalTitle": "Konservatives Denken - Bollwerk oder Steigbügelhalter?"
-        },
-        {
-          "title": "산만함의 진짜 대가: 나는 무엇을 피하고 있는가",
-          "summary": "주의를 돌릴 때마다 우리는 미래의 자신에게 빚을 지고 있다",
-          "philosopher": "세네카 (Seneca)",
-          "philosophers": [
-            "세네카 (Seneca)",
-            "마르쿠스 아우렐리우스 (Marcus Aurelius)"
-          ],
-          "tags": [
-            "주의력",
-            "회피",
-            "세네카"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=mhcT1xnjzxM",
-          "originalTitle": "Il vero e SPAVENTOSO Costo della tua DISTRAZIONE"
-        },
-        {
-          "title": "웹이 죽어가고 있다: 그게 왜 희소식인가",
-          "summary": "바이럴과 AI 쓰레기로 포화된 인터넷의 붕괴가 사유의 복원을 예고한다",
-          "philosopher": "발터 벤야민 (Walter Benjamin)",
-          "philosophers": [
-            "발터 벤야민 (Walter Benjamin)"
-          ],
-          "tags": [
-            "주의경제",
-            "아우라",
-            "디지털피로"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=5N49G6ZxWeY",
-          "originalTitle": "IL WEB STA MORENDO (ed è la notizia migliore dell'anno)"
-        },
-        {
-          "title": "불완전한 몸, 불완전한 역할: 탈출은 배신인가",
-          "summary": "가족과 계급과 젠더에서 떠나는 것은 도망인가, 생존인가",
-          "philosopher": "부르디외 (Pierre Bourdieu)",
-          "philosophers": [
-            "부르디외 (Pierre Bourdieu)",
-            "클레르 마랭 (Claire Marin)"
-          ],
-          "tags": [
-            "결렬",
-            "소속의철학",
-            "자기형성"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=X6uxYOB227M",
-          "originalTitle": "Festival del Pensare Contemporaneo 2025 | LA NOSTRA IMPERFEZIONE NEL MONDO"
-        },
-        {
-          "title": "아무도 그 의미를 모르는 축제",
-          "summary": "수백 년째 이어지지만 기원도 의미도 잊힌 스위스 의식이 말하는 것",
-          "philosopher": "셰리 터클 (Sherry Turkle)",
-          "philosophers": [
-            "셰리 터클 (Sherry Turkle)",
-            "뒤르켐 (Emile Durkheim)"
-          ],
-          "tags": [
-            "의례",
-            "상징",
-            "공동체수행"
-          ],
-          "sourceUrl": "https://aeon.co/videos/the-swiss-tradition-thats-a-mystery-even-to-those-who-celebrate-it",
-          "originalTitle": "Silvesterchlausen"
-        },
-        {
-          "title": "아이에게 불편함을 돌려줘야 한다",
-          "summary": "보호받는 아이들이 왜 오히려 어른이 되지 못하는가",
-          "philosopher": "헤겔 (Hegel)",
-          "philosophers": [
-            "헤겔 (Hegel)",
-            "존 듀이 (John Dewey)",
-            "윌리엄 제임스 (William James)"
-          ],
-          "tags": [
-            "교육철학",
-            "성장",
-            "취약성"
-          ],
-          "sourceUrl": "https://aeon.co/essays/children-need-stress-and-discomfort-in-order-to-grow-up",
-          "originalTitle": "Children are apprentices"
-        },
-        {
-          "title": "우리는 무엇으로부터 도망치는가",
-          "summary": "지루함도 타인도 아닌, 우리가 진짜 달아나려는 것의 정체",
-          "philosopher": "레비나스 (Emmanuel Levinas)",
-          "philosophers": [
-            "레비나스 (Emmanuel Levinas)",
-            "사르트르 (Jean-Paul Sartre)"
-          ],
-          "tags": [
-            "탈출충동",
-            "존재감각",
-            "레비나스"
-          ],
-          "sourceUrl": "",
-          "originalTitle": "Closer Look: Levinas, On Escape"
-        }
-      ]
-    },
-    {
       "week": "2026-W22",
       "tags": [
         "쾌락철학",
@@ -7230,6 +6997,283 @@
           ],
           "sourceUrl": "https://wired.jp/article/wired-innovation-awards-2026-ryo-asai/",
           "originalTitle": "朝井リョウ（小説家）：同じ時代のなかで惑い、“現象”を書き留める"
+        }
+      ]
+    },
+    {
+      "week": "2026-W47",
+      "tags": [
+        "AI와 감동",
+        "진정성",
+        "예술 경험",
+        "자연 결핍",
+        "아동 발달",
+        "도시 환경",
+        "집단행동",
+        "과잉정치화",
+        "민주주의의 위기",
+        "청년 세대",
+        "소진",
+        "사회 불안",
+        "악몽",
+        "감정 처리",
+        "수면",
+        "꿈",
+        "의식",
+        "수동성과 능동성",
+        "계급",
+        "아비투스",
+        "사랑과 불평등",
+        "두려움",
+        "하이브리드 전쟁",
+        "감정의 정치학",
+        "집단기억",
+        "망각의 정치학",
+        "역사와 풍경",
+        "미적 불의",
+        "노숙",
+        "공공 공간의 배제",
+        "자아",
+        "심리학",
+        "주체성",
+        "중립",
+        "정치적 침묵",
+        "발언과 책임",
+        "효율",
+        "속도",
+        "기술비판",
+        "집",
+        "공동체",
+        "뿌리내림",
+        "청년운동",
+        "세대정의",
+        "시민행동",
+        "별명",
+        "관계",
+        "정체성",
+        "숭고",
+        "무기",
+        "미적감각",
+        "탈숙련화",
+        "AI와 노동",
+        "자동화"
+      ],
+      "articles": [
+        {
+          "title": "AI 가수의 노래에 울었다면, 그 감동은 가짜인가",
+          "summary": "블루스 가수가 AI였다는 사실이 밝혀졌을 때, 내가 느낀 감동은 어디로 가는가?",
+          "philosopher": "크리스틴 드 피장 (Christine de Pizan)",
+          "tags": [
+            "AI와 감동",
+            "진정성",
+            "예술 경험"
+          ],
+          "sourceUrl": "https://usbeketrica.com/fr/article/faut-il-dire-la-verite-a-une-personne-fan-d-un-chanteur-qui-se-revele-etre-une-ia",
+          "originalTitle": "Faut-il dire la vérité à une personne fan d’un chanteur qui se révèle être une IA ?"
+        },
+        {
+          "title": "자연 결핍 증후군, 청소년을 병들게 하는가",
+          "summary": "도시 아이들이 자연을 잃을 때, 무너지는 것은 몸이 아니라 마음의 뿌리다.",
+          "philosopher": "리처드 루브 (Richard Louv)",
+          "tags": [
+            "자연 결핍",
+            "아동 발달",
+            "도시 환경"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/le-syndrome-du-manque-de-nature-racine-des-maux-de-la-jeunesse",
+          "originalTitle": "Le “syndrome du manque de nature”, racine des maux de la jeunesse ?"
+        },
+        {
+          "title": "광장은 넘치는데 왜 우리는 함께 행동하지 못하는가",
+          "summary": "정치화는 폭발하는데 집단적 행동 능력은 오히려 쪼그라드는 역설을 묻다.",
+          "philosopher": "안톤 예거 (Anton Jäger)",
+          "tags": [
+            "집단행동",
+            "과잉정치화",
+            "민주주의의 위기"
+          ],
+          "sourceUrl": "https://www.nonfiction.fr/article-12920-anton-jager-et-olivier-roy-comment-refaire-du-collectif.htm",
+          "originalTitle": "Anton Jäger et Olivier Roy : comment refaire du collectif ?"
+        },
+        {
+          "title": "지치고 나서야 세상을 보는 세대",
+          "summary": "비관적이지 않은데 왜 이렇게 힘든가—오늘의 청년을 이해하는 열쇠",
+          "philosopher": "클라우스 후렐만 (Klaus Hurrelmann)",
+          "tags": [
+            "청년 세대",
+            "소진",
+            "사회 불안"
+          ],
+          "sourceUrl": "https://www.philomag.de/artikel/klaus-hurrelmann-die-junge-generation-ist-nicht-pessimistisch-aber-erschoepft",
+          "originalTitle": "Klaus Hurrelmann: „Die junge Generation ist nicht pessimistisch, aber erschöpft“"
+        },
+        {
+          "title": "악몽은 왜 나를 쫓아오는가",
+          "summary": "밤마다 반복되는 공포의 꿈—그것은 단순한 수면 장애가 아니라 깨어 있는 삶의 메아리다",
+          "philosopher": "어니스트 하트만 (Ernest Hartmann)",
+          "tags": [
+            "악몽",
+            "감정 처리",
+            "수면"
+          ],
+          "sourceUrl": "https://www.swr.de/swrkultur/wissen/albtraeume-was-uns-quaelt-und-wie-wir-es-loswerden-100.html",
+          "originalTitle": "Albträume – Was uns quält und wie wir es loswerden"
+        },
+        {
+          "title": "꿈속에서 나는 자유로운가",
+          "summary": "잠든 사이 펼쳐지는 세계, 그 안에서 우리는 정말 다른 존재가 될 수 있는가?",
+          "philosopher": "알바 노에 (Alva Noë)",
+          "tags": [
+            "꿈",
+            "의식",
+            "수동성과 능동성"
+          ],
+          "sourceUrl": "https://www.philomag.de/artikel/alva-noe-wir-sind-traeumen-so-begrenzt-wie-im-echten-leben",
+          "originalTitle": "Alva Noë: „Wir sind in Träumen so begrenzt wie im echten Leben“"
+        },
+        {
+          "title": "사랑은 왜 계급을 넘지 못하는가",
+          "summary": "한국 드라마의 계급 로맨스가 현실에서 실패하는 이유를 사회학이 말한다",
+          "philosopher": "피에르 부르디외 (Pierre Bourdieu)",
+          "tags": [
+            "계급",
+            "아비투스",
+            "사랑과 불평등"
+          ],
+          "sourceUrl": "https://www.doppiozero.com/possible-love-amore-e-disuguaglianza-di-classe",
+          "originalTitle": "Possible Love. Amore e disuguaglianza di classe"
+        },
+        {
+          "title": "이메일 한 통이 나라를 흔들 때",
+          "summary": "폭탄 없이도 공포는 퍼진다—두려움의 작동 방식을 철학은 어떻게 보는가",
+          "philosopher": "바뤼흐 스피노자 (Baruch Spinoza)",
+          "tags": [
+            "두려움",
+            "하이브리드 전쟁",
+            "감정의 정치학"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=v6LYdBo-67A",
+          "originalTitle": "Guerra ibrida: come fermare un Paese con una semplice mail"
+        },
+        {
+          "title": "숲이 기억하는 것을 우리는 왜 외면하는가",
+          "summary": "파시즘의 상징으로 심어진 소나무 숲—불편한 기억은 어떻게 풍경 속에 숨는가",
+          "philosopher": "파울 코넬턴 (Paul Connerton)",
+          "tags": [
+            "집단기억",
+            "망각의 정치학",
+            "역사와 풍경"
+          ],
+          "sourceUrl": "https://www.iltascabile.com/societa/memoria-sconveniente-alberi/",
+          "originalTitle": "La memoria (sconveniente) degli alberi"
+        },
+        {
+          "title": "노숙인처럼 보인다는 것의 불의",
+          "summary": "샤워와 깨끗한 옷이 왜 자선이 아닌 정의의 문제인지를 묻다",
+          "philosopher": "엘리자베스 반더 호른 (Elizabeth Van der Horne)",
+          "tags": [
+            "미적 불의",
+            "노숙",
+            "공공 공간의 배제"
+          ],
+          "sourceUrl": "https://psyche.co/ideas/shunning-people-who-look-homeless-is-an-aesthetic-injustice",
+          "originalTitle": "Shunning people who ‘look homeless’ is an aesthetic injustice"
+        },
+        {
+          "title": "나는 생각보다 훨씬 단단한 존재다",
+          "summary": "밀그램과 짐바르도가 틀렸다면, 우리는 환경의 꼭두각시가 아니다",
+          "philosopher": "윌리엄 스완 (William B. Swann)",
+          "tags": [
+            "자아",
+            "심리학",
+            "주체성"
+          ],
+          "sourceUrl": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
+          "originalTitle": "How psychology’s classic studies misled us about the self"
+        },
+        {
+          "title": "침묵은 어떻게 정치가 되는가",
+          "summary": "에드 시런의 '비정치적' 선택이 드러내는 중립이라는 허구의 민낯",
+          "philosopher": "라니 왓슨 (Lani Watson)",
+          "tags": [
+            "중립",
+            "정치적 침묵",
+            "발언과 책임"
+          ],
+          "sourceUrl": "https://theconversation.com/when-does-being-apolitical-become-a-political-act-an-ethicist-on-the-ed-sheeran-saga-292217",
+          "originalTitle": "When does being ‘apolitical’ become a political act? An ethicist on the Ed Sheeran saga"
+        },
+        {
+          "title": "뒤처진 나라의 역설적 지혜",
+          "summary": "일본은 왜 느린가—효율 경쟁에서 탈락한 나라가 보여주는 다른 방식의 삶",
+          "philosopher": "이반 일리치 (Ivan Illich)",
+          "tags": [
+            "효율",
+            "속도",
+            "기술비판"
+          ],
+          "sourceUrl": "https://www.noemamag.com/in-praise-of-japans-failure-to-keep-up",
+          "originalTitle": "In Praise Of Japan’s Failure To Keep Up"
+        },
+        {
+          "title": "집을 만든다는 것의 사회학",
+          "summary": "집 꾸미기는 취향의 문제가 아니라, 타인과 함께 뿌리내리는 행위다.",
+          "philosopher": "이언 마커스 코빈 (Ian Marcus Corbin)",
+          "tags": [
+            "집",
+            "공동체",
+            "뿌리내림"
+          ],
+          "sourceUrl": "https://hedgehogreview.com/web-features/thr/posts/digging-for-roots",
+          "originalTitle": "Digging for Roots"
+        },
+        {
+          "title": "세대가 반란을 일으킬 때",
+          "summary": "청년들이 거리로 나설 때, 그것은 분노인가 아니면 미래를 돌려달라는 철학적 요구인가?",
+          "philosopher": "안나 콜레이니코바 (Anna Kolesnikova)",
+          "tags": [
+            "청년운동",
+            "세대정의",
+            "시민행동"
+          ],
+          "sourceUrl": "https://www.noemamag.com/a-generation-revolts",
+          "originalTitle": "A Generation Revolts"
+        },
+        {
+          "title": "별명은 왜 거리를 만들고 무너뜨리는가",
+          "summary": "누군가를 별명으로 부르는 순간, 우리는 관계의 지도를 다시 그린다",
+          "philosopher": "에르빈 고프만 (Erving Goffman)",
+          "tags": [
+            "별명",
+            "관계",
+            "정체성"
+          ],
+          "sourceUrl": "https://www.webchikuma.com/n/n17049fcc070a",
+          "originalTitle": "あだ名について考えることは、人と人との距離について考えること。"
+        },
+        {
+          "title": "무기는 왜 아름답게 느껴지는가",
+          "summary": "전쟁의 도구 앞에서 우리가 느끼는 미적 매혹은 어디서 오는가?",
+          "philosopher": "에드문트 버크 (Edmund Burke)",
+          "tags": [
+            "숭고",
+            "무기",
+            "미적감각"
+          ],
+          "sourceUrl": "https://kangaeruhito.jp/article/764482",
+          "originalTitle": "第４回　武器はなぜ魅惑するのか：欲望、機能美、ペルソナ"
+        },
+        {
+          "title": "AI는 직업을 바꾸는가, 빼앗는가",
+          "summary": "AI가 인턴을 닮았다는 말이 노동의 미래에 던지는 질문",
+          "philosopher": "해리 브레이버만 (Harry Braverman)",
+          "tags": [
+            "탈숙련화",
+            "AI와 노동",
+            "자동화"
+          ],
+          "sourceUrl": "https://wired.jp/article/sz-instead-of-taking-your-job-ai-might-transform-it/",
+          "originalTitle": "AIは仕事を奪うのではなく、仕事そのものを変える"
         }
       ]
     }

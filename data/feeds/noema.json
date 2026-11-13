@@ -1,7 +1,7 @@
 {
   "sourceId": "noema",
   "sourceName": "Noema Magazine",
-  "fetchedAt": "2026-11-13T11:47:22.849004+00:00",
+  "fetchedAt": "2026-11-13T21:22:53.967482+00:00",
   "items": [
     {
       "title": "How Aristotle Anticipated The AI Era",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Serbia’s Experiment: Combining Democracy & Meritocracy",
+      "url": "https://www.noemamag.com/serbias-experiment-combining-democracy-meritocracy",
+      "description": "The post  Serbia’s Experiment: Combining Democracy & Meritocracy  appeared first on  NOEMA .",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://www.noemamag.com/noemas-ai-reading-list-2",
       "description": "The post  Noema’s AI Reading List  appeared first on  NOEMA .",
       "date": "Fri, 23 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sudan As A Mirror For Today’s World",
-      "url": "https://www.noemamag.com/sudan-as-a-mirror-for-todays-world",
-      "description": "The post  Sudan As A Mirror For Today’s World  appeared first on  NOEMA .",
-      "date": "Tue, 20 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "pursuit-of-wonder",
   "sourceName": "Pursuit of Wonder",
-  "fetchedAt": "2026-11-13T11:47:23.653621+00:00",
+  "fetchedAt": "2026-11-13T21:22:54.978569+00:00",
   "items": [
     {
       "title": "Everyone feels like something strange is coming…",
@@ -116,22 +116,6 @@
       }
     },
     {
-      "title": "Yes, They Actually Put a Brain On a Computer. And It’s Suffering.",
-      "url": "https://www.youtube.com/watch?v=sK79oJtZAFs",
-      "description": "My second YouTube channel: https://www.youtube.com/@UCKJo_KPj6J4XM8DhN6VIq6Q \nMy free newsletter: https://pursuitofwonder.ck.page/newsletter\n\nThank you to the Center for AI Safety for supporting this video with a grant: https://safe.ai\n\nInstagram: https://www.instagram.com/pursuitofwonder\nFacebook: https://www.facebook.com/PursuitOfWonder\n\nIn this video, we look into one of the most profound and unsettling developments taking place in technology: biology. That is, biocomputing. For the first tim",
-      "date": "2026-11-10",
-      "thumbnail": "https://i4.ytimg.com/vi/sK79oJtZAFs/hqdefault.jpg",
-      "videoId": "sK79oJtZAFs",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 20
-      }
-    },
-    {
       "title": "The Andromeda Paradox: A Theory That Proves Your Future Self Already Exists",
       "url": "https://www.youtube.com/watch?v=jDU6kdoBegc",
       "description": "Check out \"The Book\" here: https://mdsh.io/pursuitofwonder. Use code WONDER  for 10% off. Thank you to @HungryMindsArt for sponsoring this video.\n\nIn this video, we explore the somewhat terrifying and potentially illusory nature of time. Evidence suggests that ancient humans lived, in a sense, outside of time. In fact, some human cultures today live without any conceptions of past or future. And you have actually experienced this as well—waking life outside time—as a child. For the first several",
@@ -209,6 +193,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "The Most Disturbing Brain Experiment Ever",
+      "url": "https://www.youtube.com/watch?v=sK79oJtZAFs",
+      "description": "My second YouTube channel: https://www.youtube.com/@UCKJo_KPj6J4XM8DhN6VIq6Q \nMy free newsletter: https://pursuitofwonder.ck.page/newsletter\n\nThank you to the Center for AI Safety for supporting this video with a grant: https://safe.ai\n\nInstagram: https://www.instagram.com/pursuitofwonder\nFacebook: https://www.facebook.com/PursuitOfWonder\n\nIn this video, we look into one of the most profound and unsettling developments taking place in technology: biology. That is, biocomputing. For the first tim",
+      "date": "2026-11-10",
+      "thumbnail": "https://i4.ytimg.com/vi/sK79oJtZAFs/hqdefault.jpg",
+      "videoId": "sK79oJtZAFs",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

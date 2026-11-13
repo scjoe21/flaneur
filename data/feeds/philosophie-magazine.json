@@ -1,24 +1,8 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-13T11:47:05.095227+00:00",
+  "fetchedAt": "2026-11-13T21:22:30.008415+00:00",
   "items": [
-    {
-      "title": "“Midterms” : comment la gauche américaine s’est recomposée",
-      "url": "https://www.philomag.com/articles/midterms-comment-la-gauche-americaine-sest-recomposee",
-      "description": "",
-      "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
     {
       "title": "Voir ce que l’on voit : quand le “bonheur public” fait son retour en France",
       "url": "https://www.philomag.com/articles/voir-ce-que-lon-voit-quand-le-bonheur-public-fait-son-retour-en-france",
@@ -33,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Pillages du 17 octobre : “Ces phénomènes de prédation font penser aux jacqueries de l’Ancien Régime\"",
+      "url": "https://www.philomag.com/articles/pillages-du-17-octobre-ces-phenomenes-de-predation-font-penser-aux-jacqueries-de-lancien",
+      "description": "",
+      "date": "Mon, 09 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,6 +68,38 @@
       }
     },
     {
+      "title": "À quoi voit-on qu’on est encore jeune ?",
+      "url": "https://www.philomag.com/articles/quoi-voit-quon-est-encore-jeune",
+      "description": "",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Ni Dieu ni maître !” : anarchy in Roubaix",
+      "url": "https://www.philomag.com/articles/ni-dieu-ni-maitre-anarchy-roubaix",
+      "description": "",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "Le “syndrome du manque de nature”, racine des maux de la jeunesse ?",
       "url": "https://www.philomag.com/articles/le-syndrome-du-manque-de-nature-racine-des-maux-de-la-jeunesse",
       "description": "",
@@ -88,22 +120,6 @@
       "url": "https://www.philomag.com/articles/la-victoire-de-la-democratie-profonde",
       "description": "",
       "date": "Tue, 10 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pillages du 17 octobre : “On n’avait jamais observé de tels phénomènes de prédation depuis les jacqueries de l’Ancien Régime”",
-      "url": "https://www.philomag.com/articles/pillages-du-17-octobre-navait-jamais-observe-de-tels-phenomenes-de-predation-depuis-les",
-      "description": "",
-      "date": "Mon, 09 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/linconnue-du-quai-de-javel-de-philippe-jaenada-un-goncourt-sorti-des-brumes",
       "description": "",
       "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Au Brésil, “les hommes veulent la force électorale des femmes, pas les voir gouverner”",
-      "url": "https://www.philomag.com/articles/au-bresil-les-hommes-veulent-la-force-electorale-des-femmes-pas-les-voir-gouverner",
-      "description": "",
-      "date": "Mon, 02 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
