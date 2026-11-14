@@ -1,24 +1,8 @@
 {
   "sourceId": "nautilus",
   "sourceName": "Nautilus",
-  "fetchedAt": "2026-11-13T23:50:08.275529+00:00",
+  "fetchedAt": "2026-11-14T20:47:53.705945+00:00",
   "items": [
-    {
-      "title": "The Shapes and Colors of a Near-Death Experience",
-      "url": "https://nautil.us/the-shapes-and-colors-of-a-near-death-experience-1286591/",
-      "description": "Near-death experiences are more common than many of us might think: Some studies  estimate  that between four and eight percent of the global population has had one, as have  up to  23 percent of  cardiac arrest survivors . These journeys into the borderlands of consciousness tend to feature a few common perceptual themes: ghostly figures and bright lights, tunnels, a sense of peace and calm. But questions about the nature of such experiences and how such perceptual phenomena arise abound. \n Rec",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_85591537.jpg?w=564",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
     {
       "title": "Why Sleep Might Not be as Restorative as We Get Older",
       "url": "https://nautil.us/why-sleep-might-not-be-as-restorative-as-we-get-older-1286631/",
@@ -33,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Giant, Fruit-Eating Bats Are Shrinking",
+      "url": "https://nautil.us/giant-fruit-eating-bats-are-shrinking-1286637/",
+      "description": "Leaving Madagascar with smaller pollinators \n The post  Giant, Fruit-Eating Bats Are Shrinking  appeared first on  Nautilus .",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/bats2.jpg?w=564",
+      "videoId": "",
+      "priority": 9,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 9
       }
     },
     {
@@ -132,11 +132,11 @@
       }
     },
     {
-      "title": "When Envy is a Virtue",
-      "url": "https://nautil.us/when-envy-is-a-virtue-1286615/",
-      "description": "Can this “deadly sin” help cultivate a constructive drive to better ourselves?  \n The post  When Envy is a Virtue  appeared first on  Nautilus .",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_1697296279.jpg?w=564",
+      "title": "A Chemical Fingerprint in Ancient Rocks Suggests Plate Tectonics Began 2.5 Billion Years Ago",
+      "url": "https://nautil.us/a-chemical-fingerprint-in-ancient-rocks-suggests-plate-tectonics-began-2-5-billion-years-ago-1286624/",
+      "description": "There was a time when Earth didn’t have plate tectonics \n The post  A Chemical Fingerprint in Ancient Rocks Suggests Plate Tectonics Began 2.5 Billion Years Ago  appeared first on  Nautilus .",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/file-20261110-63-stj3wf.avif?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {
@@ -148,11 +148,11 @@
       }
     },
     {
-      "title": "Was Einstein Seduced by a Russian Honeypot Operation?",
-      "url": "https://nautil.us/was-einstein-seduced-by-a-russian-honeypot-operation-1286587/",
-      "description": "The physicist had a steamy romance with Margarita Konenkova \n The post  Was Einstein Seduced by a Russian Honeypot Operation?  appeared first on  Nautilus .",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/einstein.jpg?w=564",
+      "title": "When Envy is a Virtue",
+      "url": "https://nautil.us/when-envy-is-a-virtue-1286615/",
+      "description": "Can this “deadly sin” help cultivate a constructive drive to better ourselves?  \n The post  When Envy is a Virtue  appeared first on  Nautilus .",
+      "date": "Fri, 13 Nov 2026",
+      "thumbnail": "https://lede-admin.nautil.us/wp-content/uploads/sites/70/2026/11/shutterstock_1697296279.jpg?w=564",
       "videoId": "",
       "priority": 0,
       "scoreDetail": {

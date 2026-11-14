@@ -1,7 +1,7 @@
 {
   "sourceId": "leparoleelecose",
   "sourceName": "Le parole e le cose",
-  "fetchedAt": "2026-11-13T23:49:51.032037+00:00",
+  "fetchedAt": "2026-11-14T20:47:37.294670+00:00",
   "items": [
     {
       "title": "Vittore Fiore, la noia e la mediazione onesta",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Il più puro azzardo, il più infondato.  Intorno a “Cura” di Mauro Sambi",
-      "url": "https://www.leparoleelecose.it/il-piu-puro-azzardo-il-piu-infondato-intorno-a-cura-di-mauro-sambi/",
-      "description": "di Luca Illetterati   1. Premessa   Nel dispormi a dire qualcosa su questo libro, sono stato come martellato da una domanda: come si parla della poesia? Le poesie – quando sono poesie – sono partiture. E le partiture, per essere lette, richiedono competenza. Solo così, leggendole, anche le si sente. Certo, è vero che …  read more  \"Il più puro azzardo, il più infondato.  Intorno a “Cura” di Mauro Sambi\"",
-      "date": "Wed, 04 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -81,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Scuola di musica",
+      "url": "https://www.leparoleelecose.it/scuola-di-musica/",
+      "description": "di Simone Barco   La scuola italiana è sempre stata materia di canto, dalle serenate all’Istituto Magistrale di Franco Battiato al banco lasciato vuoto dal Marco di Laura Pausini, dalla Terza E degli anni Sessanta di Antonello Venditti alla classe degli anni Duemila del Paolo Orsi di Marco Castello – con il carrello della TV, …  read more  \"Scuola di musica\"",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

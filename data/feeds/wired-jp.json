@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-13T23:50:16.954757+00:00",
+  "fetchedAt": "2026-11-14T20:48:02.982405+00:00",
   "items": [
     {
       "title": "自宅でずっと暮らし続けたい──老父を見守るAIデバイス",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "AIは仕事を奪うのではなく、仕事そのものを変える",
-      "url": "https://wired.jp/article/sz-instead-of-taking-your-job-ai-might-transform-it/",
-      "description": "擁護派も否定派も、しばしばAIを工業のオートメーション化になぞらえて語る──だが実のところ、AIはむしろインターンに似ている。",
-      "date": "Tue, 10 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
       }
     },
     {
@@ -97,6 +81,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "大気圏再突入のスウィフト宇宙望遠鏡、約22年の歴史を振り返る",
+      "url": "https://wired.jp/article/nasa-swift-telescope-reenters-after-rescue-mission-abandoned/",
+      "description": "スウィフト宇宙望遠鏡が約22年にわたる科学ミッションを終え、11月4日に大気圏に再突入した。ガンマ線バーストを追い続けた観測衛星は何を残したのか、その歩みを振り返る。",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "NASAの新型実験機「X-70 Fractal」──有人機では試されていない飛行を探る",
+      "url": "https://wired.jp/article/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
+      "description": "米航空宇宙局（NASA）が新たな実験機を発表した。これまで有人機では実証されていない飛行機動の研究を目的としているが、その具体的な内容はまだ明らかになっていない。",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/iphone-duo-review-from-scroll-to-codex/",
       "description": "アップル初の折り畳みスマートフォン「iPhone Duo」。使って見えてきたのは、端末そのものの新しさというよりも、情報との付き合い方の変化だった。",
       "date": "Wed, 11 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "ジェンスン・フアンを巡るスキャンダルに揺れるAI業界──NVIDIAはどうなるのか",
-      "url": "https://wired.jp/article/jensen-huangs-troubles-leaves-the-ai-industry-reeling/",
-      "description": "NVIDIAのジェンスン・フアンはAI業界で絶大な影響力を築いてきた。しかし、中国政府のスパイと疑われる女性との関係が明らかになったことで、業界や米国の対中半導体政策にも影響が及ぶ可能性がある。",
-      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-13T23:50:05.232651+00:00",
+  "fetchedAt": "2026-11-14T20:47:50.773180+00:00",
   "items": [
     {
       "title": "Bioweine, PiWi und Events – Wie Winzer die Krise bewältigen wollen",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Supermarkt der Zukunft – Smartes Einkaufen und sozialer Treffpunkt",
+      "url": "https://www.swr.de/swrkultur/wissen/supermarkt-der-zukunft-smartes-einkaufen-und-sozialer-treffpunkt-100.html",
+      "description": "Manche Supermärkte setzen aufs persönliche Einkaufserlebnis, andere kommen mit Automatisierung, Selbstbezahler-Kassen und wenig Personal aus. Wie sieht der Einkauf der Zukunft aus?",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
       "title": "Albträume – Was uns quält und wie wir es loswerden",
       "url": "https://www.swr.de/swrkultur/wissen/albtraeume-was-uns-quaelt-und-wie-wir-es-loswerden-100.html",
       "description": "Millionen Menschen in Deutschland bekommen im Traum Panikattacken oder leiden unter Versagensängsten. Wir blicken auf typische Albtraummotive und wirksame Therapien.",
@@ -152,22 +168,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/wege-zu-einem-gesunden-internet-verlaessliche-infos-hassfreier-dialog-100.html",
       "description": "Social-Media-Plattformen gelten oft als \"toxisch\". Ihre Algorithmen belohnen und verstärken extreme Äußerungen. Welche Alternativen gibt es?",
       "date": "Sun, 1 Nov 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Wir möchten Euch besser kennenlernen!",
-      "url": "https://www.swr.de/swrkultur/wissen/wir-moechten-euch-besser-kennenlernen-100.html",
-      "description": "Wir möchten Euch besser kennenlernen! – Was Euch interessiert und bewegt, wie Ihr Podcasts und andere Medien nutzt oder was Ihr Euch von \"Das Wissen\" noch wünscht.",
-      "date": "Sat, 31 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

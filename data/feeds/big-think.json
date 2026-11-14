@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-13T23:49:57.960177+00:00",
+  "fetchedAt": "2026-11-14T20:47:43.228782+00:00",
   "items": [
     {
       "title": "A beginner’s guide to falling in love with Russian literature",
@@ -84,22 +84,6 @@
       }
     },
     {
-      "title": "You’re allowed to be happy. In fact, you have a duty to be.",
-      "url": "https://bigthink.com/mini-philosophy/youre-allowed-to-be-happy-in-fact-you-have-a-duty-to-be/",
-      "description": "Albert Camus and Simone de Beauvoir were having a drink when de Beauvoir asked how anybody can be happy in a world so full of misery. How can they laugh and drink and dance when millions of people are being murdered and abused? \n It’s a good question, and one I’m sure many of us have asked at one time or another. Unless you’ve made a deliberate effort to avoid even a glimpse of the news, you know that the world contains vast and intense suffering: wars, murders, and abuse, of course, but also si",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/duty-2-b-happy_compressed.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
       "title": "Scholars still can’t define religion. Here’s why",
       "url": "https://bigthink.com/series/conversations/andrew-henry-defining-religion/",
       "description": "Scholars of religion still can’t agree on what religion is, and Andrew Henry, creator of Religion for Breakfast, thinks that tells us something. In this conversation with Jonny Thomson, he explains why he looks at what religious practices do rather than what they claim, why a stadium chant and a church creed may be closer than they seem, and why “true Christianity” is harder to pin down than its defenders suggest. They also take on common debate points, from the historical Jesus to Tom Holland’s",
@@ -129,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 24
+      }
+    },
+    {
+      "title": "Listen: The imperfect world of pulsars",
+      "url": "https://bigthink.com/starts-with-a-bang/listen-imperfect-world-pulsars/",
+      "description": "Here in the Universe, there are a few things that are as close-to-perfect as can be. The Sun, for instance is the roundest object in the Universe, but other stars are rounder, with white dwarfs and neutron stars exhibiting even more perfectly roundness. Meanwhile, in terms of keeping time, we might think of the spinning Earth as a wonderful clock — after all, we base our calendar off of it — but the Earth spins down over time and changes its distance from the Sun: both factors that lead to it be",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/PSR_J0437_4715_ABlock.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

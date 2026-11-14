@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-11-13T23:49:37.231314+00:00",
+  "fetchedAt": "2026-11-14T20:47:25.608834+00:00",
   "items": [
     {
       "title": "Louisa Yousfi, écrivaine, sur Brecht : \"Le travail de l'écrivain engagé se situe sur le fil de la traîtrise\"",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Machiavel au pouvoir : L’art de gouverner par temps de crise",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/machiavel-au-pouvoir-l-art-de-gouverner-en-temps-de-crise-3977777",
+      "description": "durée : 00:59:45  - Les Philosophes au pouvoir - par : Laurence Devillairs - Machiavel est-il vraiment le maître du cynisme politique ? Face aux crises et à l’incertitude, il défend un art de gouverner fondé sur le réalisme et l’adaptation. Jusqu’où peut-on affranchir la politique de la morale ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Jean-Louis Fournel Historien de la pensée politique italienne de la renaissance, traducteur, professeur à l'Université Paris 8, Julien Le Mauff",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 20
+      }
+    },
+    {
       "title": "Pourquoi la poétique a-t-elle une histoire ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mercredi-11-novembre-2026-2712120",
       "description": "durée : 00:03:47  - Le Pourquoi du comment : philo - par : Frédéric Worms - Il y a une histoire de la tragédie grecque, mais il y a aussi une histoire de la poétique \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
@@ -120,22 +136,6 @@
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-lundi-09-novembre-2026-1151630",
       "description": "durée : 00:03:46  - Le Pourquoi du comment : philo - par : Frédéric Worms - De quoi sommes-nous les acteurs à travers cette action qu'est la poésie ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Mon, 09 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Attention mouvement ! 2/3 : Pourquoi le mouvement est-il signe de vie ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mardi-03-novembre-2026-6894310",
-      "description": "durée : 00:04:04  - Le Pourquoi du comment : philo - par : Frédéric Worms - Le mouvement a quelque chose d'inséparable du vivant, mais quel type de mouvement exactement ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,

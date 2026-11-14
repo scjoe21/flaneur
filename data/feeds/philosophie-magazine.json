@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-13T23:49:37.936067+00:00",
+  "fetchedAt": "2026-11-14T20:47:25.950576+00:00",
   "items": [
     {
       "title": "Voir ce que l’on voit : quand le “bonheur public” fait son retour en France",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Redécouvrir Jean Wahl, le philosophe du “oui, mais”",
+      "url": "https://www.philomag.com/articles/redecouvrir-jean-wahl-le-philosophe-du-oui-mais",
+      "description": "",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Quand l’Amérique voit rouge",
       "url": "https://www.philomag.com/articles/quand-lamerique-voit-rouge",
-      "description": "",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“L'Inconnue du quai de Javel”, de Philippe Jaenada : un Goncourt sorti des brumes",
-      "url": "https://www.philomag.com/articles/linconnue-du-quai-de-javel-de-philippe-jaenada-un-goncourt-sorti-des-brumes",
       "description": "",
       "date": "Tue, 03 Nov 2026",
       "thumbnail": "",

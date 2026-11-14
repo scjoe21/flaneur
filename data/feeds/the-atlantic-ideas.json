@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-13T23:49:58.426260+00:00",
+  "fetchedAt": "2026-11-14T20:47:43.622323+00:00",
   "items": [
     {
       "title": "I’ve Been With Trump Since 2016. Hegseth Should Resign.",
@@ -68,19 +68,83 @@
       }
     },
     {
-      "title": "The Inconvenient Truth at the Center of the Immigration Debate",
-      "url": "https://www.theatlantic.com/ideas/2026/11/immigration-trump-border-asylum/689318/?utm_source=feed",
+      "title": "Don’t Be So Surprised That Mississippi Turned Blue",
+      "url": "https://www.theatlantic.com/ideas/2026/11/scott-colom-mississippi-democrats/689443/?utm_source=feed",
       "description": "",
-      "date": "2026-11-09",
+      "date": "2026-11-14",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "The Mind of a Megalomaniac",
+      "url": "https://www.theatlantic.com/ideas/2026/11/hitler-langer-cia-psychoanalysis/689434/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-14",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Next Major Grounding Will Be Worse",
+      "url": "https://www.theatlantic.com/ideas/2026/11/flights-grounded-why/689446/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Of Course Americans Blamed the Ground Stop on AI",
+      "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Airport Chaos Began Long Before the Ground Stop",
+      "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-airlines/689441/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-13",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -168,70 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/11/trump-hate-legacy/689362/?utm_source=feed",
       "description": "",
       "date": "2026-11-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Getting Too Close to Trump Was a Mistake",
-      "url": "https://www.theatlantic.com/ideas/2026/11/silicon-valley-trump-administration/689360/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Lost World of Aquaterra",
-      "url": "https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-10",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Pete Hegseth Lashes Out",
-      "url": "https://www.theatlantic.com/ideas/2026/11/hegseth-war-college-curriculum/689351/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-09",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Collapse of America’s Most Consequential Institution",
-      "url": "https://www.theatlantic.com/ideas/2026/11/justice-department-collapse-trump/689306/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-09",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

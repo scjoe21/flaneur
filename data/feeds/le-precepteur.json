@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-11-13T21:22:28.571157+00:00",
+  "fetchedAt": "2026-11-14T20:47:25.295205+00:00",
   "items": [
     {
       "title": "La vraie infidélité",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 45
-      }
-    },
-    {
-      "title": "Le mérite n'existe pas",
-      "url": "https://www.youtube.com/shorts/6DfUkQGWzKU",
-      "description": "Au XXIe siècle, le philosophe américain Michael Sandel remet en question l'un des grands idéaux de nos sociétés : la méritocratie. Dans cette vidéo, je vous explique pourquoi, selon lui, notre réussite ne dépend pas uniquement de nos efforts, mais aussi de circonstances que nous ne maîtrisons pas. Et comment cette illusion du mérite peut transformer la réussite en orgueil et l'échec en humiliation.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #michaelsandel #mérito",
-      "date": "2026-10-18",
-      "thumbnail": "https://i3.ytimg.com/vi/6DfUkQGWzKU/hqdefault.jpg",
-      "videoId": "6DfUkQGWzKU",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
       }
     },
     {
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "[BAC PHILO] Comment avoir une bonne note en philo ?",
+      "url": "https://www.youtube.com/shorts/kmblOxN8fWQ",
+      "description": "Qu'est-ce qu'un correcteur attend vraiment de ta copie de philo ? Mon avatar IA t'explique ce qui fait la différence le jour du bac.\n\n👉 7 jours d'essai gratuit sur Learning Frontier : https://learningfrontier.ai/fr/bac-philo\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #bacdephilo #bac2027 #méthode #copie",
+      "date": "2026-11-14",
+      "thumbnail": "https://i4.ytimg.com/vi/kmblOxN8fWQ/hqdefault.jpg",
+      "videoId": "kmblOxN8fWQ",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 30
       }
     },
     {
