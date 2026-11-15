@@ -1,8 +1,24 @@
 {
   "sourceId": "the-conversation-fr-philo",
   "sourceName": "The Conversation France — Philosophie",
-  "fetchedAt": "2026-11-14T20:47:45.462579+00:00",
+  "fetchedAt": "2026-11-15T21:44:36.111006+00:00",
   "items": [
+    {
+      "title": "« Si je te punis, c’est pour ton bien », vraiment ? Contre l’adultisme, penser une éducation mutuelle",
+      "url": "https://theconversation.com/si-je-te-punis-cest-pour-ton-bien-vraiment-contre-ladultisme-penser-une-education-mutuelle-293002",
+      "description": "",
+      "date": "2026-11-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
+      }
+    },
     {
       "title": "Pourquoi Kant jugeait-il les peuples autochtones d’Amérique « incapables de toute culture » ? Enquête sur une source oubliée",
       "url": "https://theconversation.com/pourquoi-kant-jugeait-il-les-peuples-autochtones-damerique-incapables-de-toute-culture-enquete-sur-une-source-oubliee-293563",
@@ -216,22 +232,6 @@
       "url": "https://theconversation.com/se-faire-attacher-pour-resister-aux-sirenes-ce-que-le-choix-dulysse-revele-du-droit-287612",
       "description": "",
       "date": "2026-07-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Contre les oppressions subies par les femmes, décoloniser le féminisme",
-      "url": "https://theconversation.com/contre-les-oppressions-subies-par-les-femmes-decoloniser-le-feminisme-277432",
-      "description": "",
-      "date": "2026-06-02",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

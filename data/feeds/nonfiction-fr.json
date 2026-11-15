@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-11-14T20:47:46.450005+00:00",
+  "fetchedAt": "2026-11-15T21:44:37.472193+00:00",
   "items": [
     {
       "title": "Anton Jäger et Olivier Roy : comment refaire du collectif ?",
@@ -84,6 +84,22 @@
       }
     },
     {
+      "title": "Robert Boyer : Le capitalisme à l’épreuve du trumpisme",
+      "url": "https://www.nonfiction.fr/article-12921-robert-boyer-le-capitalisme-a-lepreuve-du-trumpisme.htm",
+      "description": "Dans L’époque de tous les dangers  (La Découverte, 2026) ,  Robert Boyer analyse les contradictions du capitalisme contemporain, exacerbées par le retour de Donald Trump au pouvoir. Loin de constituer une simple parenthèse politique, le trumpisme révèle les tensions d'un modèle américain fragilisé par les inégalités, la financiarisation et les déséquilibres de la mondialisation. Mais il contribue aussi à déstabiliser l'ordre économique international sans qu'un nouvel équilibre se dessine pour au",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Quand le pouvoir s'attaque aux mots",
       "url": "https://www.nonfiction.fr/article-12878-quand-le-pouvoir-sattaque-aux-mots.htm",
       "description": "Et si l’autoritarisme commençait par les mots ? C’est la question qui traverse  D’abord ils sont venus chercher les mots , le nouveau livre de Cécile Alduy. Professeure à Stanford et spécialiste de l’analyse du discours politique, elle étudie depuis plusieurs années la manière dont l’extrême droite mène sa « guerre culturelle ». Avec le retour de Donald Trump à la Maison-Blanche, son objet d’étude est devenu une réalité institutionnelle : des mots disparaissent des sites et documents administrat",
@@ -145,22 +161,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
-      }
-    },
-    {
-      "title": "Le commerce international à l’épreuve des rivalités géopolitiques",
-      "url": "https://www.nonfiction.fr/article-12872-le-commerce-international-a-lepreuve-des-rivalites-geopolitiques.htm",
-      "description": "Alors que les tensions commerciales et les rivalités géopolitiques bouleversent les règles des échanges mondiaux, le commerce international est redevenu un objet éminemment politique. Dans  Le commerce international , paru dans la collection « Repères » de La Découverte, l’économiste Sébastien Jean revient sur les mécanismes, les effets et les enjeux de ces échanges, ainsi que sur les transformations de l’ordre commercial mondial. Nous l’avons interrogé sur la politique commerciale de Donald Tru",
-      "date": "Thu, 08 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {

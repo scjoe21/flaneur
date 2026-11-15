@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-14T20:47:43.228782+00:00",
+  "fetchedAt": "2026-11-15T21:44:33.760751+00:00",
   "items": [
     {
       "title": "A beginner’s guide to falling in love with Russian literature",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 40
-      }
-    },
-    {
-      "title": "How to find your way through 2,600 years of philosophy",
-      "url": "https://bigthink.com/mini-philosophy/how-to-find-your-way-through-2600-years-of-philosophy/",
-      "description": "One of the biggest problems any new learner faces is that overwhelming feeling of standing on the shoreline looking out to sea. You want to learn astrophysics, zoology, or economics — where do you start? What ideas come first? Which thinkers are core and which are super niche? \n Philosophy is no different. If anything, it’s worse. Because a lot of people know a few philosophers or have read a few books and quotes. Millions have watched the first season of  True Detective . But when faced with th",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/How-to-find-your-way-through-2600-years-of-philosophy.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
       }
     },
     {
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "The most important sleep metric isn’t hours slept",
+      "url": "https://bigthink.com/mind-behavior/the-most-important-sleep-metric-isnt-hours-slept/",
+      "description": "College students are convenient guinea pigs. Living on the campuses of leading research institutions and easily enticed by gift cards and other one-off perks, they’re the most scientifically scrutinized humans in history, and studies involving college students regularly catalyze novel ideas for further research.  \n One such idea, arising relatively recently, is the notion that sleeping consistently is more important than sleeping longer — for both restfulness and overall health. \n Irregular slee",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/sleep-regularity_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-11-14T20:47:25.295205+00:00",
+  "fetchedAt": "2026-11-15T21:44:11.903774+00:00",
   "items": [
     {
       "title": "La vraie infidélité",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 45
+      }
+    },
+    {
+      "title": "Le mérite n'existe pas",
+      "url": "https://www.youtube.com/shorts/6DfUkQGWzKU",
+      "description": "Au XXIe siècle, le philosophe américain Michael Sandel remet en question l'un des grands idéaux de nos sociétés : la méritocratie. Dans cette vidéo, je vous explique pourquoi, selon lui, notre réussite ne dépend pas uniquement de nos efforts, mais aussi de circonstances que nous ne maîtrisons pas. Et comment cette illusion du mérite peut transformer la réussite en orgueil et l'échec en humiliation.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #michaelsandel #mérito",
+      "date": "2026-10-18",
+      "thumbnail": "https://i3.ytimg.com/vi/6DfUkQGWzKU/hqdefault.jpg",
+      "videoId": "6DfUkQGWzKU",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
       }
     },
     {
@@ -144,22 +160,6 @@
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "LA COLÈRE - Pourquoi elle se retourne contre vous",
-      "url": "https://www.youtube.com/watch?v=KEz27z1gVtE",
-      "description": "La colère peut-elle changer le monde ? Pour les stoïciens, elle se retourne d'abord contre celui qui l'éprouve. Dans cet extrait de mon entretien sur la chaîne « Biomécanique », nous revenons sur la différence entre la colère, qui cherche un coupable, et la révolte, qui cherche une solution. Et sur ce que veut vraiment dire « accepter » le monde tel qu'il est.\n\n▶️ Voir l'entretien en intégralité : https://youtu.be/VoehfbUhXXQ\n\n📚 Pour lire les stoïciens :\n\n▶️ Sénèque, De la colère : https://link.",
-      "date": "2026-10-29",
-      "thumbnail": "https://i4.ytimg.com/vi/KEz27z1gVtE/hqdefault.jpg",
-      "videoId": "KEz27z1gVtE",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 30
       }
     },

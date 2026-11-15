@@ -1,8 +1,24 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-11-14T20:47:26.143748+00:00",
+  "fetchedAt": "2026-11-15T21:44:14.378732+00:00",
   "items": [
+    {
+      "title": "Et si la meilleure manière de prévenir la dépression, c’était de réduire les inégalités de genre ?",
+      "url": "https://usbeketrica.com/fr/article/et-si-la-meilleure-maniere-de-prevenir-la-depression-c-etait-de-reduire-les-inegalites-de-genre",
+      "description": "De la puberté à la retraite, la vie des femmes est marquée par des inégalités structurelles de genre. Au travail, sur les réseaux sociaux, mais aussi dans leurs relations amoureuses, la société leur fait ressentir leur condition de femme, ce qui explique largement qu’elles soient plus touchées que les hommes par la dépression. C’est en tout cas ce qu’affirme le nouveau rapport du Haut Conseil à l’Égalité (HCE) publié ce lundi 2 novembre.",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "« Les dispositifs de surveillance concernent de plus en plus toutes les sphères de la vie »",
       "url": "https://usbeketrica.com/fr/article/les-dispositifs-de-surveillance-concernent-de-plus-en-plus-toutes-les-spheres-de-la-vie",
@@ -104,22 +120,6 @@
       "url": "https://usbeketrica.com/fr/article/semons-nos-resistances-l-exposition-qui-transforme-le-militantisme-en-poesie-collective",
       "description": "La nouvelle exposition « Semons nos résistances » du MAIF Social Club interroge notre capacité à faire corps face à l'épuisement politique, écologique et social. Les œuvres de quinze artistes nous invitent à quitter notre rôle de visiteur pour explorer de nouvelles formes de résistance et cultiver l’espoir. Suivez le guide.",
       "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Becky Chambers : « J’ai envie d’écrire des histoires qui nous rappellent que la fin n’est pas encore écrite »",
-      "url": "https://usbeketrica.com/fr/article/becky-chambers-j-ai-envie-d-ecrire-des-histoires-qui-nous-rappellent-que-la-fin-n-est-pas-encore-ecrite",
-      "description": "À l'occasion de la sortie de son nouveau roman À ton éveil, fends la cosse, nous nous sommes entretenus avec l'autrice de science-fiction Becky Chambers pour parler d'espoir, d'amour et d'IA. Rencontre.",
-      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,

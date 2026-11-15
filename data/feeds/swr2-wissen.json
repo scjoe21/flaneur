@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-14T20:47:50.773180+00:00",
+  "fetchedAt": "2026-11-15T21:44:42.374319+00:00",
   "items": [
     {
       "title": "Bioweine, PiWi und Events – Wie Winzer die Krise bewältigen wollen",
@@ -33,22 +33,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Horror, Thriller, True Crime – Warum wir uns gerne gruseln",
-      "url": "https://www.swr.de/swrkultur/wissen/horror-thriller-true-crime-warum-wir-uns-gerne-gruseln-104.html",
-      "description": "Ob The Shining, True Crime oder das Horror-Maislabyrinth an Halloween: Viele gruseln sich gern und lieben den Nervenkitzel. Gruseln kann uns sogar gut tun.",
-      "date": "Sat, 31 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
       }
     },
     {
@@ -225,6 +209,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Der Petersdom in Rom – Geschichte des katholischen Wahrzeichens",
+      "url": "https://www.swr.de/swrkultur/wissen/der-petersdom-in-rom-geschichte-des-katholischen-wahrzeichens-100.html",
+      "description": "Der Petersdom war 120 Jahre lang eine Dauerbaustelle. Generationen von Menschen zweifelten, dass sie jemals fertiggestellt würde. Heute ist sie die bekannteste Kirche des Vatikans.",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

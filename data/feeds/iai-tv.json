@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-14T20:47:53.376381+00:00",
+  "fetchedAt": "2026-11-15T21:44:45.847729+00:00",
   "items": [
     {
       "title": "How to Morally Take a Life | Kathleen Stock, Mary Ann Sieghart",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "What Schrödinger didn't understand | Denis Noble",
+      "url": "https://www.youtube.com/shorts/Xjz8LJy61BE",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\n#biology# evolution #schrodinger #physics #philosophy",
+      "date": "2026-11-15",
+      "thumbnail": "https://i1.ytimg.com/vi/Xjz8LJy61BE/hqdefault.jpg",
+      "videoId": "Xjz8LJy61BE",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Dawkins' AI Friend | Denis Noble",
       "url": "https://www.youtube.com/shorts/YIqLxL3T2GE",
       "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\n#biology# evolution #richarddawkins #ai #conscience",
@@ -96,22 +112,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Does the future already exist? | Avshalom Elitzur, Ivette Fuentes, Jonathan Oppenheim",
-      "url": "https://www.youtube.com/watch?v=9SSYcibWtHM",
-      "description": "Avshalom Elitzur, Ivette Fuentes and Jonathan Oppenheim discuss whether spacetime can really reveal the ultimate nature of reality.\n\nIs time an illusion?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/spacetime-and-the-framework-of-the-world?utm_source=YouTube&utm_medium=description\n\nWe see space and time as the stage on which the world takes place. While space does not change and is given in one go, time unfolds. But, for physicists, Einstein made time like space,",
-      "date": "2026-10-31",
-      "thumbnail": "https://i2.ytimg.com/vi/9SSYcibWtHM/hqdefault.jpg",
-      "videoId": "9SSYcibWtHM",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 15
       }
     },

@@ -1,7 +1,7 @@
 {
   "sourceId": "kangaeruhito",
   "sourceName": "考える人 (Shincho)",
-  "fetchedAt": "2026-11-14T20:47:54.459057+00:00",
+  "fetchedAt": "2026-11-15T21:44:47.117001+00:00",
   "items": [
     {
       "title": "【試し読み】プロローグーー限界を迎えた在宅介護",
@@ -46,22 +46,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "15．来し方を株分けする",
-      "url": "https://kangaeruhito.jp/article/764350",
-      "description": "生成ＡＩやスマートフォンに急き立てられるように生きている現代人は果たして、長い時間をかけてゆっくりと味わいを深めていく発酵食品のように、自らの思考を醸成させていくことはできるのか。 　この問いについて考えるために、わた […]",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -129,6 +113,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "7．ディスレクシア――本を読むのが遅い",
+      "url": "https://kangaeruhito.jp/article/764487",
+      "description": "そもそも脳は文字を読み書きするようにはできていない 　ある小学3年生の男子。国語の授業で教科書を順番に音読する時間は、忘れることができないほどの辛い時間でした。自分の番が近づくにつれ心臓が早鐘を打ち、手のひらが汗で湿りま […]",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-14T20:47:43.622323+00:00",
+  "fetchedAt": "2026-11-15T21:44:34.213070+00:00",
   "items": [
     {
       "title": "I’ve Been With Trump Since 2016. Hegseth Should Resign.",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "The Only Thing Nathan Fielder Won’t Show",
+      "url": "https://www.theatlantic.com/ideas/2026/11/holmes-documentary-journalistic-ethics/689350/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-15",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Investigating Michel Houellebecq Is a Dangerous Mistake",
       "url": "https://www.theatlantic.com/ideas/2026/11/michel-houellebecq-investigation-france/689415/?utm_source=feed",
       "description": "",
@@ -52,19 +68,19 @@
       }
     },
     {
-      "title": "The Trolls’ Comeuppance",
-      "url": "https://www.theatlantic.com/ideas/2026/11/attention-economy-republicans-failure/689347/?utm_source=feed",
+      "title": "Investigate Trump Like a Mob Boss",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-investigation-strategy/689427/?utm_source=feed",
       "description": "",
-      "date": "2026-11-10",
+      "date": "2026-11-15",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/11/moderates-midterms-success-progressives/689371/?utm_source=feed",
       "description": "",
       "date": "2026-11-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Trump Has Been Corroded by Hate",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-hate-legacy/689362/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-10",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

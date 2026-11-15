@@ -1,8 +1,24 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-14T20:47:28.138917+00:00",
+  "fetchedAt": "2026-11-15T21:44:17.346530+00:00",
   "items": [
+    {
+      "title": "Digitale neue Welt: Smartphones zielen auf das Kind in uns",
+      "url": "https://www.deutschlandfunkkultur.de/digitale-neue-welt-smartphones-zielen-auf-das-kind-in-uns-100.html",
+      "description": "Dass Kinder durch zu viel Zeit an Bildschirmen geschädigt werden können, ist mittlerweile auch in der Politik angekommen – Stichwort Social-Media-Verbot. Der Philosoph Jörg Noller analysiert, warum smarte Geräte so viel Macht über uns haben. Newmark, Catherine; Noller, Jörg www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 40,
+      "scoreDetail": {
+        "daily": 40,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 40
+      }
+    },
     {
       "title": "Wie Geld Recht spricht",
       "url": "https://www.deutschlandfunkkultur.de/katharina-pistor-wie-geld-recht-spricht-100.html",
@@ -84,6 +100,22 @@
       }
     },
     {
+      "title": "Aigner und die Politik der Umgangsformen: Zivilität statt Wertegemeinschaft",
+      "url": "https://www.deutschlandfunkkultur.de/aigner-und-die-politik-der-umgangsformen-zivilitaet-statt-wertegemeinschaft-100.html",
+      "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Religionsfreiheit: Welche Grenzen gelten für den Glauben?",
       "url": "https://www.deutschlandfunkkultur.de/sein-und-streit-08-11-2026-100.html",
       "description": "Die Religionsfreiheit ist ein Menschenrecht, aber ihre Ausdeutung hoch umstritten. Ob nun ein Kruzifix im Klassenzimmer, eine Richterin mit Kopftuch oder Gebetswachen gegen Schwangerschaftsabbrüche: Wir diskutieren über aktuelle Konfliktlinien. Miller, Simone www.deutschlandfunkkultur.de, Sein und Streit",
@@ -126,22 +158,6 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Rechtes Denken und die Sehnsucht nach Erlösung",
-      "url": "https://www.deutschlandfunkkultur.de/rechtes-denken-von-dugin-bis-thiel-sehnsucht-nach-erloesung-100.html",
-      "description": "Wir leben in Krisenzeiten mit apokalyptischer Stimmung. Gerade rechtes Denken bezieht sich stark auf die Endzeit und das Böse in der Welt, erklärt der Kulturtheoretiker Jens Balzer. Newmark, Catherine; Balzer, Jens www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 13 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/gefaehrliche-ki-bombenstimmung-im-silicon-valley-100.html",
       "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 20 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Kommentar zur Sachsen-Anhalt-Wahl: Der Teufelskreis der Verachtung",
-      "url": "https://www.deutschlandfunkkultur.de/kommentar-zur-sachsen-anhalt-wahl-der-teufelskreis-der-verachtung-100.html",
-      "description": "Lauer, David www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 06 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-14T20:47:25.950576+00:00",
+  "fetchedAt": "2026-11-15T21:44:13.596946+00:00",
   "items": [
     {
       "title": "Voir ce que l’on voit : quand le “bonheur public” fait son retour en France",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Ma petite-fille, la méthode et Spinoza",
+      "url": "https://www.philomag.com/articles/ma-petite-fille-la-methode-et-spinoza",
+      "description": "",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/james-talarico-la-foi-au-service-du-progressisme",
       "description": "",
       "date": "Wed, 04 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Quand l’Amérique voit rouge",
-      "url": "https://www.philomag.com/articles/quand-lamerique-voit-rouge",
-      "description": "",
-      "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

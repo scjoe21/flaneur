@@ -1,8 +1,24 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-14T20:48:02.982405+00:00",
+  "fetchedAt": "2026-11-15T21:44:56.333224+00:00",
   "items": [
+    {
+      "title": "ホワイトカラーの仕事は、いつから色褪せ始めたのか？",
+      "url": "https://wired.jp/article/sz-mutiny-noam-scheiber-book-review-yuppies-dylan-gottlieb/",
+      "description": "1980年代、オフィスワーク職は安定と自己実現を約束していた。だが、これから社会に足を踏み入れる新卒者にとって、その展望はしばしば色濃い不安に覆われている。",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
     {
       "title": "自宅でずっと暮らし続けたい──老父を見守るAIデバイス",
       "url": "https://wired.jp/article/sz-sensi-ai-seniors-home-care-aging-in-place/",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "70代がポルノスターになる時代──いま、シニア世代のアダルトコンテンツが人気を集める理由",
+      "url": "https://wired.jp/article/horny-grandmas-are-having-a-moment/",
+      "description": "シニア世代のアダルトコンテンツへの需要が増え、60代から80代のクリエイターが存在感を増している。OnlyFansなどのプラットフォームを通じたセックスワークは、老後の新たな収入源にもなっている。",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -81,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "細胞の「若返り」はどう起こる？ 老化の謎に迫る新たな研究",
+      "url": "https://wired.jp/article/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
+      "description": "ドイツの研究チームが、ヒトの血液細胞を若返らせる過程を詳しく追跡することに成功した。細胞の老化を示す指標が継続的に低下することが確認され、その仕組みの解明につながると期待されている。",
+      "date": "Sat, 14 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://wired.jp/article/american-doppelganger-21/",
       "description": "中間選挙の直前、トランプは「俺が投票用紙の候補者リストに掲載されていると思え！」と大衆をあおった。そしてその宣言は見事に機能した。「反トランプ」という、投票理由のダメ押しとして。",
       "date": "Thu, 12 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "一見無害なAIアプリの多くに、性的ディープフェイクの生成機能が隠されていた",
-      "url": "https://wired.jp/article/hundreds-of-mundane-ai-apps-are-hiding-abusive-deepfake-features/",
-      "description": "一見普通のAIツールを装いながら、性暴力を含むディープフェイク画像や動画を生成する機能をもつ400以上のアプリやウェブサイトが『WIRED』の調査で見つかった。",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "現実世界をシミュレートする「世界モデル」──AIの次なる進化とは？",
-      "url": "https://wired.jp/article/world-models-will-soon-be-inescapable-what-you-need-to-know/",
-      "description": "AIの可能性は、テキスト中心のLLMから、現実の物理現象を再現する「世界モデル」へと広がっている。この技術を活用することで、ロボットや自律走行車が周囲の状況を判断し、適切に行動できるよう仮想空間で訓練できる。",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "iPhone Duoレビュー：スマートフォンに「閉じる」という作法を連れ戻した",
-      "url": "https://wired.jp/article/iphone-duo-review-from-scroll-to-codex/",
-      "description": "アップル初の折り畳みスマートフォン「iPhone Duo」。使って見えてきたのは、端末そのものの新しさというよりも、情報との付き合い方の変化だった。",
-      "date": "Wed, 11 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
