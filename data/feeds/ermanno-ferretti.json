@@ -1,8 +1,24 @@
 {
   "sourceId": "ermanno-ferretti",
   "sourceName": "Ermanno Ferretti",
-  "fetchedAt": "2026-11-15T21:44:42.685968+00:00",
+  "fetchedAt": "2026-11-20T12:24:48.716283+00:00",
   "items": [
+    {
+      "title": "Come si alimenta la speranza",
+      "url": "https://www.youtube.com/shorts/MAnefJJ5M-A",
+      "description": "Un ragazzo mi scrive: «Prof, come faccio a non perdere la speranza a scuola?» 🎓\n\nBe’, la speranza non è credere che tutto andrà bene: è partire da ciò che è andato storto e fare un piano. Anche Kant lo sapeva: devo chiedermi che cosa ho il diritto di sperare.\n\n👉 Qual è una cosa andata storta che puoi cambiare questa settimana? Scrivila nei commenti.\n\n#filosofia #speranza #kant #scuola #interrogailprof",
+      "date": "2026-11-19",
+      "thumbnail": "https://i2.ytimg.com/vi/MAnefJJ5M-A/hqdefault.jpg",
+      "videoId": "MAnefJJ5M-A",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
     {
       "title": "Cosa direbbero i filosofi su carcere, pena e giustizia riparativa",
       "url": "https://www.youtube.com/watch?v=crfsiqRafrc",
@@ -16,22 +32,6 @@
         "phil": 25,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "\"Manifesto del Partito Comunista\" di Karl Marx e Friedrich Engels [Un libro in un minuto #010]",
-      "url": "https://www.youtube.com/shorts/X_kASsB2fXw",
-      "description": "Nel 1848 nessuno Stato era comunista: il “Manifesto” di Marx ed Engels descriveva un mondo che esisteva già e ne annunciava uno che non esisteva ancora.\n\nDa lì in poi quel libro ha fatto scuola, nel bene e nel male. Tutti lo citano, ma quanti l’hanno letto davvero?\n\n👉 Sul mio canale YouTube è presente la lettura integrale e commentata del volume. Recuperalo!\n\n#manifestodelpartitocomunista #marx #comunismo #unlibroinunminuto #filosofia",
-      "date": "2026-11-07",
-      "thumbnail": "https://i1.ytimg.com/vi/X_kASsB2fXw/hqdefault.jpg",
-      "videoId": "X_kASsB2fXw",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 5,
         "total": 25
       }
     },
@@ -68,38 +68,6 @@
       }
     },
     {
-      "title": "\"L'interpretazione dei sogni\" di Sigmund Freud - audiolibro spiegato parte 24",
-      "url": "https://www.youtube.com/watch?v=UVHDh0vjBzM",
-      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nAltri sogni che hanno un legame con l'infanzia e con la sessualità, secondo Freud.\n\nSommario dei contenuti:\n00:00 Intro\n00:40 Chi sono (e cosa faccio qui)\n01:20 Come procederemo\n02:41 Lettura: Infanzia nei sogni di Freud\n11:05 Commento: Il sogno degli gnocchi\n17:30 Lettura: Orinare in stazione\n26:20 Commento: Un sogno confuso\n30:24 Lettura: Bagnarsi davanti a papà\n39:47 Commento: Vendetta sul padre\n44:",
-      "date": "2026-11-06",
-      "thumbnail": "https://i2.ytimg.com/vi/UVHDh0vjBzM/hqdefault.jpg",
-      "videoId": "UVHDh0vjBzM",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Le mosse dei singoli stati davanti alla crisi del 2007 [Dentro alla storia, episodio 413]",
-      "url": "https://www.youtube.com/watch?v=RhKjbZKoTAQ",
-      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nCome risposero Europa e Stati Uniti alla crisi del 2007? Cosa funzionò e cosa no?\n\n💁 Vuoi sostenere il canale?\nTi piacciono o ti sono utili i video e vuoi dare un segno tangibile per permettermi di continuare a realizzarne? Puoi farlo in uno di questi modi:\n- Abbonati al canale: https://www.youtube.com/channel/UC_2OzUw2mnLmlqFEzNzzUjw/join\n- Fai una donazione diretta: https://www.paypal.com/donate/?hos",
-      "date": "2026-11-05",
-      "thumbnail": "https://i3.ytimg.com/vi/RhKjbZKoTAQ/hqdefault.jpg",
-      "videoId": "RhKjbZKoTAQ",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "\"Cecità\" di José Saramago [Un libro in un minuto #011]",
       "url": "https://www.youtube.com/shorts/PRM1X564VVI",
       "description": "In una città si diffonde una improvvisa epidemia; ma la malattia non è quella che vi aspettate: si tratta di cecità. 👁️\n\nNel 1995 José Saramago scrisse un romanzo che mostra cosa succede quando nessuno può più vedere cosa fanno gli altri.\n\n👉 E tu, c’è qualcosa che di recente hai preferito non guardare?\n\n👉 Di “Cecità” ho parlato anche in un video lungo: lo trovi sul canale YouTube\n\n#Saramago #Cecità #Filosofia #UnLibroInUnMinuto",
@@ -116,6 +84,22 @@
       }
     },
     {
+      "title": "L'inizio della Guerra civile siriana [Dentro alla storia, episodio 416]",
+      "url": "https://www.youtube.com/watch?v=QMfaYAh9Bas",
+      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nIniziamo a parlare della questione siriana, sicuramente una delle più drammatiche all'interno della Primavera araba.\n\n💁 Vuoi sostenere il canale?\nTi piacciono o ti sono utili i video e vuoi dare un segno tangibile per permettermi di continuare a realizzarne? Puoi farlo in uno di questi modi:\n- Abbonati al canale: https://www.youtube.com/channel/UC_2OzUw2mnLmlqFEzNzzUjw/join\n- Fai una donazione diretta:",
+      "date": "2026-11-18",
+      "thumbnail": "https://i2.ytimg.com/vi/QMfaYAh9Bas/hqdefault.jpg",
+      "videoId": "QMfaYAh9Bas",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Socrate scrive a Pierluigi Diaco [Email dall'Oltretomba]",
       "url": "https://www.youtube.com/shorts/4u1tloM9BwQ",
       "description": "Quand’è che una domanda è veramente socratica? Socrate ha deciso di chiederlo a Pierluigi Diaco dopo l’intervista ad Alberto Ravagnani.\n\n👉 Per te qual è la differenza tra una domanda scomoda che serve a capire e una che serve solo a incuriosire? Scrivimelo nei commenti ↓\n\n#emaildalloltretomba #socrate #pierluigidiaco #albertoravagnani #filosofia",
@@ -129,6 +113,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "I principali esponenti della Sinistra hegeliana [Dentro alla filosofia, episodio 416]",
+      "url": "https://www.youtube.com/watch?v=4JBrp_kDZ2c",
+      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nDavid Friedrich Strauss, Bruno Bauer e Arnold Ruge furono i primi importanti esponenti della Sinistra hegeliana: conosciamoli.\n\n💁 Vuoi sostenere il canale?\nTi piacciono o ti sono utili i video e vuoi dare un segno tangibile per permettermi di continuare a realizzarne? Puoi farlo in uno di questi modi:\n- Abbonati al canale: https://www.youtube.com/channel/UC_2OzUw2mnLmlqFEzNzzUjw/join\n- Fai una donazion",
+      "date": "2026-11-16",
+      "thumbnail": "https://i1.ytimg.com/vi/4JBrp_kDZ2c/hqdefault.jpg",
+      "videoId": "4JBrp_kDZ2c",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -180,19 +180,19 @@
       }
     },
     {
-      "title": "Avere una parola sulla punta della lingua",
-      "url": "https://www.youtube.com/shorts/60FKy7kvTBU",
-      "description": "Hai una parola sulla punta della lingua e non ti viene? 🧠\n\nIn “Psicopatologia della vita quotidiana” Freud spiegò che dietro a certe dimenticanze c’è un motivo profondo. Ma cosa pensa oggi la scienza?\n\n👉 E a te, capita spesso di rimanere bloccato e dimenticare le parole?\n\n👉 Sul mio canale YouTube c’è un’intera playlist su Freud: cercala!\n\n#freud #psicoanalisi #filosofia #memoria",
-      "date": "2026-11-05",
-      "thumbnail": "https://i3.ytimg.com/vi/60FKy7kvTBU/hqdefault.jpg",
-      "videoId": "60FKy7kvTBU",
-      "priority": 10,
+      "title": "Processo alla storia: Giulio Andreotti",
+      "url": "https://www.youtube.com/watch?v=YNRngCgsjdQ",
+      "description": "Acquista il mio nuovo libro, \"Neanche Nietzsche era un superuomo\": https://amzn.eu/d/0hN113ZX\n\nGiulio Andreotti è uno dei politici più controversi della nostra storia repubblicana: uomo di potere, sette volte presidente del Consiglio, è stato però portato in tribunale per reati anche molto gravi. Quale giudizio può dare la storia su di lui?\n\n💁 Vuoi sostenere il canale?\nTi piacciono o ti sono utili i video e vuoi dare un segno tangibile per permettermi di continuare a realizzarne? Puoi farlo in u",
+      "date": "2026-11-20",
+      "thumbnail": "https://i2.ytimg.com/vi/YNRngCgsjdQ/hqdefault.jpg",
+      "videoId": "YNRngCgsjdQ",
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {

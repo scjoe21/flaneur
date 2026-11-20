@@ -1,77 +1,61 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-15T21:44:56.333224+00:00",
+  "fetchedAt": "2026-11-20T12:25:01.429205+00:00",
   "items": [
     {
-      "title": "ホワイトカラーの仕事は、いつから色褪せ始めたのか？",
-      "url": "https://wired.jp/article/sz-mutiny-noam-scheiber-book-review-yuppies-dylan-gottlieb/",
-      "description": "1980年代、オフィスワーク職は安定と自己実現を約束していた。だが、これから社会に足を踏み入れる新卒者にとって、その展望はしばしば色濃い不安に覆われている。",
-      "date": "Sat, 14 Nov 2026",
+      "title": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？",
+      "url": "https://wired.jp/article/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+      "description": "テスラは自律走行車「サイバーキャブ」の購入案内を一部の顧客に送った。購入後も走行には月額料金が必要で、利用にはさまざまな制限が課される。この仕組みは、クルマを“所有する”とはどういうことなのかという問いを投げかける。",
+      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
+        "daily": 0,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 0,
+        "novelty": 5,
         "total": 15
       }
     },
     {
-      "title": "自宅でずっと暮らし続けたい──老父を見守るAIデバイス",
-      "url": "https://wired.jp/article/sz-sensi-ai-seniors-home-care-aging-in-place/",
-      "description": "高齢者の安全をモニターするAIは、心配する家族と、人材不足に悩む在宅介護事業者にとってはありがたい存在だ。米国の最新事情。",
-      "date": "Fri, 13 Nov 2026",
+      "title": "終わらないAI終末論",
+      "url": "https://wired.jp/article/sz-the-long-doomsday-of-ai/",
+      "description": "業界の内外からAIへの規制を求める声が上がるなか、不安なのは問題が現実のものであることではない。確実な解決策が存在しないことだ。",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "70代がポルノスターになる時代──いま、シニア世代のアダルトコンテンツが人気を集める理由",
-      "url": "https://wired.jp/article/horny-grandmas-are-having-a-moment/",
-      "description": "シニア世代のアダルトコンテンツへの需要が増え、60代から80代のクリエイターが存在感を増している。OnlyFansなどのプラットフォームを通じたセックスワークは、老後の新たな収入源にもなっている。",
-      "date": "Sun, 15 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "AIパワーユーザー向け。Linuxベースの新OS「KORA」、2027年に提供へ",
-      "url": "https://wired.jp/article/kora-new-linux-based-desktop-operating-system-is-built-for-ai-nerds/",
-      "description": "「KORA」はWindowsやmacOSに代わる選択肢として開発されている、LinuxベースのデスクトップOSだ。ローカル環境でAIモデルを動かすユーザーのほか、ゲーマーやクリエイターの利用も想定している。",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
-        "phil": 0,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "「ボスを戻してくれ」──NVIDIAの従業員からジェンスン・フアンの復帰を求める声",
-      "url": "https://wired.jp/article/nvidia-employees-petition-for-jensen-huangs-return/",
-      "description": "NVIDIAの前CEOジェンスン・フアンの処遇を巡る社内投稿に、1,600件以上のコメントが寄せられた。一連のスキャンダルが報じられた後も、フアンが同社にとっていかに重要な存在であるかを訴える声が上がっている。",
-      "date": "Fri, 13 Nov 2026",
+      "title": "『グランド・セフト・オートVI』本日発売。わたしがこのシリーズをプレイし続ける理由",
+      "url": "https://wired.jp/article/i-will-never-stop-playing-grand-theft-auto/",
+      "description": "待望の最新作『GTA6』が11月19日、発売された。このシリーズの魅力は、過激な暴力表現や自由自在なドライビングだけではない。家族や友人と繰り広げる予測不能な騒動や、そこから生まれる絆にこそある。",
+      "date": "Thu, 19 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "ランサムウェア攻撃、急増の背景にAIの存在",
+      "url": "https://wired.jp/article/beware-the-new-ai-fueled-ransomware-boom/",
+      "description": "ランサムウェア攻撃は、完全な自動化には至っていない。しかし、AIの活用が攻撃を加速させているとみられ、経験の浅い攻撃者でも短期間で多額の利益を得る例があるなど、サイバー犯罪の脅威が拡大している。",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,10 +68,10 @@
       }
     },
     {
-      "title": "中国のオープンウェイトAIモデル、ハッキング能力で最先端のクローズドモデルに迫る",
-      "url": "https://wired.jp/article/free-chinese-ai-models-are-getting-scary-good-at-hacking/",
-      "description": "高度なハッキング能力は、もはやクローズドモデルだけのものではない。模擬ネットワークを使った検証で、中国のオープンウェイトAIモデルがOpenAIの最先端モデルに迫る性能を示した。",
-      "date": "Thu, 12 Nov 2026",
+      "title": "スーパーコンピューター「富岳」は、いかにして不正アクセスされたのか",
+      "url": "https://wired.jp/article/riken-fugaku-supercomputer-hacked-via-public-dashboard/",
+      "description": "理化学研究所のスーパーコンピューター「富岳」の運用系システムが外部から不正アクセスを受けた。利用者最大4,597人分の情報が漏えいした可能性があるとされるが、なぜ、いかにしてこのような事態が起きたのか。",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +84,10 @@
       }
     },
     {
-      "title": "AIエージェントの“リモコン”を目指すスマートリング「Aina Ring」が描く未来",
-      "url": "https://wired.jp/article/aina-smart-ring/",
-      "description": "スタートアップのAinaは近い将来、AIエージェントが人間に代わってさまざまな作業を進めるようになると考えている。そこで、スマホを取り出さずにAIエージェントの行動を指先で承認・拒否できるスマートリングを開発した。",
-      "date": "Thu, 12 Nov 2026",
+      "title": "『GTA6』発売で“ゲーム休暇”も──「13年も待ったのだから、1日くらい休んでもいい」",
+      "url": "https://wired.jp/article/13-years-of-anticipation-deserves-a-day-off-the-gta-vi-work-blackout-is-here/",
+      "description": "『グランド・セフト・オートVI』の発売に合わせ、仕事を休んでゲームを楽しもうとする人が相次いでいる。一部の企業では、従業員にゲーム休暇を付与するなど、異例の盛り上がりに対応する動きも見られる。",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -116,10 +100,42 @@
       }
     },
     {
-      "title": "細胞の「若返り」はどう起こる？ 老化の謎に迫る新たな研究",
-      "url": "https://wired.jp/article/a-new-benchmark-for-de-aging-comes-from-slowly-turning-back-cells-clocks/",
-      "description": "ドイツの研究チームが、ヒトの血液細胞を若返らせる過程を詳しく追跡することに成功した。細胞の老化を示す指標が継続的に低下することが確認され、その仕組みの解明につながると期待されている。",
-      "date": "Sat, 14 Nov 2026",
+      "title": "グーグルとサムスンの「Android XR」スマートグラス、ついに登場｜試着レビュー",
+      "url": "https://wired.jp/article/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/",
+      "description": "Warby ParkerとGentle Monsterのフレームはまったく同じハードウェアを搭載し、数種類のスタイルが用意されている。それぞれの試用キャンペーンも始まった。",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "すでにうんざり──ネットに溢れる画一的AIデザイン様式",
+      "url": "https://wired.jp/article/sz-the-ai-design-aesthetic-thats-taking-over-the-internet/",
+      "description": "Anthropicの「Claude Design」が、一夜にしてウェブデザインをお決まりの型に塗り替えた。いまこそ人間のオリジナリティが求められている。",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "【先行セールは11月27日から】Amazonブラックフライデー2026 おすすめ目玉商品186選＆攻略法",
+      "url": "https://wired.jp/article/amazon-blackfriday-2026-preparation-1/",
+      "description": "Amazonブラックフライデー2026の開催日が発表された。年に一度のビッグセールの攻略法と、事前にチェックしておくべきおすすめの目玉商品を紹介しよう。",
+      "date": "Fri, 20 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +148,10 @@
       }
     },
     {
-      "title": "大気圏再突入のスウィフト宇宙望遠鏡、約22年の歴史を振り返る",
-      "url": "https://wired.jp/article/nasa-swift-telescope-reenters-after-rescue-mission-abandoned/",
-      "description": "スウィフト宇宙望遠鏡が約22年にわたる科学ミッションを終え、11月4日に大気圏に再突入した。ガンマ線バーストを追い続けた観測衛星は何を残したのか、その歩みを振り返る。",
-      "date": "Sat, 14 Nov 2026",
+      "title": "Anthropicが史上最大規模のIPO。それでも残る成長への懸念",
+      "url": "https://wired.jp/article/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+      "description": "Anthropicは史上最大規模のIPOを実現した。しかし、AIの安全性を重視する企業方針や、データセンター建設への反発など、今後の成長を妨げかねない課題も抱えている。",
+      "date": "Fri, 20 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "NASAの新型実験機「X-70 Fractal」──有人機では試されていない飛行を探る",
-      "url": "https://wired.jp/article/heres-what-we-know-about-the-x-70-fractal-nasas-experimental-new-plane/",
-      "description": "米航空宇宙局（NASA）が新たな実験機を発表した。これまで有人機では実証されていない飛行機動の研究を目的としているが、その具体的な内容はまだ明らかになっていない。",
-      "date": "Sat, 14 Nov 2026",
+      "title": "「ロマンティックなメディアとしてのアルバム、質という言葉に逃げられない現実」──渋谷慶一郎が最新アルバム『Threshold』で引いた一線",
+      "url": "https://wired.jp/article/keiichiro-shibuya-threshold-interview/",
+      "description": "11月20日に音楽家・渋谷慶一郎がリリースする全14曲入りのアルバム『ATAK030 Threshold』。どう聴かれるかの保証もないまま、0.1秒のノイズを取り除く。その作業の先に、渋谷は何を、誰を、見ているのか。",
+      "date": "Fri, 20 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +180,10 @@
       }
     },
     {
-      "title": "NVIDIAのジェンスン・フアン辞任。暫定CEOに就任したコレット・クレスとは",
-      "url": "https://wired.jp/article/who-is-colette-kress-the-woman-who-could-succeed-jensen-huang/",
-      "description": "中国政府の情報機関との関係を疑われる女性との不倫問題が報じられるなか、NVIDIAのジェンスン・フアンが辞任した。後任の暫定CEOには、同社がAI大手へと成長する過程を支えてきたCFOのコレット・クレスが就任した。",
-      "date": "Fri, 13 Nov 2026",
+      "title": "システム障害、原因はサイバー攻撃？ 見極めるための5つのポイント",
+      "url": "https://wired.jp/article/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
+      "description": "メールが使えず、飛行機が飛ばず、銀行取引も滞る。大規模な障害が続くとハッカーの仕業かと疑いたくなるが、実際には悪意ある攻撃によるケースは少ない。サイバー攻撃かどうかを見分けるための手順を紹介する。",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "「閉経周辺期ビジネス」ブームの内側",
-      "url": "https://wired.jp/article/inside-the-perimenopause-industrial-complex/",
-      "description": "ホルモン療法の解禁により、米国ではテック系スタートアップ、MAHA活動家、医療専門家たちが、こぞってミレニアル世代の女性たちをホルモン摂取の新たなターゲットに仕立て上げている。",
-      "date": "Thu, 12 Nov 2026",
+      "title": "スマートフォンのカメラが劇的に進化する？ 新たな光学技術の可能性",
+      "url": "https://wired.jp/article/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
+      "description": "Metalenzが買収したPxEの技術は、従来のカラーフィルターとは異なり、光を吸収せずに進む方向を変えることで、最大2.5倍の光を取り込めるという。夜間の撮影性能の向上に加え、奥行き情報の取得も可能になる。",
+      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +212,10 @@
       }
     },
     {
-      "title": "ハッブル宇宙望遠鏡に迫る大気圏再突入、新たな延命策の検討が始まった",
-      "url": "https://wired.jp/article/nasa-hubble-commercial-servicing-reboost-rfi/",
-      "description": "軌道高度が低下して大気圏再突入が7〜8年後に迫るハッブル宇宙望遠鏡について、米航空宇宙局（NASA）が新たな延命策の検討をスタートさせた。鍵を握るのは民間企業の技術だ。",
-      "date": "Thu, 12 Nov 2026",
+      "title": "NVIDIA取締役会、ジェンスン・フアンをCEOに呼び戻す意向なし",
+      "url": "https://wired.jp/article/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
+      "description": "イーロン・マスクをはじめ、シリコンバレーの経営者らからもジェンスン・フアンのCEO復帰を求める声が上がっている。しかし、NVIDIAの取締役会は復帰させる意向はないと明言した。",
+      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "高さ50cmの巨大な“菌”が発見される",
-      "url": "https://wired.jp/article/giant-fungus-dianjunus-rex-discovered-yunnan/",
-      "description": "高さが最大50cmにも達する巨大な菌が中国・雲南省で発見され、新種と報告された。これほどまで巨大な菌とは、いったいどのようなものなのか。",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "巨大な〈ブルー・ウェイブ〉にかき消されたトランプのレッド・アメリカ──「アメリカン・ドッペルゲンガー」by 池田純一#21",
-      "url": "https://wired.jp/article/american-doppelganger-21/",
-      "description": "中間選挙の直前、トランプは「俺が投票用紙の候補者リストに掲載されていると思え！」と大衆をあおった。そしてその宣言は見事に機能した。「反トランプ」という、投票理由のダメ押しとして。",
-      "date": "Thu, 12 Nov 2026",
+      "title": "NVIDIAの危機は、ジェンスン・フアンの辞任以前から始まっていた",
+      "url": "https://wired.jp/article/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
+      "description": "ジェンスン・フアンの辞任で揺れるNVIDIAだが、競合他社の技術的な追い上げやAI市場の変化によって、その優位性はすでに脅かされていた。暫定的な経営体制に移行するなか、ライバル企業が攻勢を強めている。",
+      "date": "Tue, 17 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

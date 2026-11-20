@@ -1,13 +1,29 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-11-15T21:44:24.497731+00:00",
+  "fetchedAt": "2026-11-20T12:24:29.038329+00:00",
   "items": [
     {
-      "title": "L’odio come content",
-      "url": "https://www.iltascabile.com/societa/odio-content/",
-      "description": "Come la propaganda di destra usa il digitale per spostare il confine dell’accettabilità. \n L'articolo  L’odio come <i>content</i>  proviene da  Il Tascabile .",
-      "date": "Tue, 03 Nov 2026",
+      "title": "Processo ai data centers",
+      "url": "https://www.iltascabile.com/societa/processo-ai-data-centers/",
+      "description": "La compatibilità tra intelligenza artificiale e vincoli ecologici del pianeta si misura sempre di più in tribunale: come le vertenze legali stanno ridefinendo la  climate litigation . \n L'articolo  Processo ai <i>data centers</i>  proviene da  Il Tascabile .",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "La guerra è il contrario del conflitto",
+      "url": "https://www.iltascabile.com/linguaggi/guerra-contrario-conflitto/",
+      "description": "Dal G8 alle piazze per Gaza con Annalisa Camilli: come cambiano le proteste e le repressioni. \n L'articolo  La guerra è il contrario del conflitto  proviene da  Il Tascabile .",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 20,
@@ -20,10 +36,10 @@
       }
     },
     {
-      "title": "L’alchimista del suono",
-      "url": "https://www.iltascabile.com/linguaggi/alchimista-suono/",
-      "description": "I 50 anni di  Oxygène , l’IA, la storia dell’elettronica in 80 strumenti, la pioggia come eredità sonora: intervista a Jean-Michel Jarre. \n L'articolo  L’alchimista del suono  proviene da  Il Tascabile .",
-      "date": "Thu, 12 Nov 2026",
+      "title": "Se morirai prima di me ti mangerò",
+      "url": "https://www.iltascabile.com/letterature/morirai-prima-me-mangero/",
+      "description": "Lutto, debito e cannibalismo in  Fame  di Choi Jin-young. \n L'articolo  Se morirai prima di me ti mangerò  proviene da  Il Tascabile .",
+      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -36,10 +52,10 @@
       }
     },
     {
-      "title": "Il greenwashing della caccia",
-      "url": "https://www.iltascabile.com/scienze/greenwashing-caccia/",
-      "description": "Le associazioni venatorie stanno provando a riabilitare la caccia come un modo per tutelare il paesaggio e la biodiversità, ma le prove scientifiche che sia effettivamente utile agli ecosistemi languono. \n L'articolo  Il <i>greenwashing</i> della caccia  proviene da  Il Tascabile .",
-      "date": "Mon, 02 Nov 2026",
+      "title": "L’alchimista del suono",
+      "url": "https://www.iltascabile.com/linguaggi/alchimista-suono/",
+      "description": "I 50 anni di  Oxygène , l’IA, la storia dell’elettronica in 80 strumenti, la pioggia come eredità sonora: intervista a Jean-Michel Jarre. \n L'articolo  L’alchimista del suono  proviene da  Il Tascabile .",
+      "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -84,19 +100,35 @@
       }
     },
     {
-      "title": "Stati di salute",
-      "url": "https://www.iltascabile.com/letterature/stati-salute/",
-      "description": "Lidia Riviello cerca il vero sotto lo schermo, tra feed, cliniche e lingue d’occidente. \n L'articolo  Stati di salute  proviene da  Il Tascabile .",
-      "date": "Thu, 05 Nov 2026",
+      "title": "Vivono tra noi di Daniel Lavelle",
+      "url": "https://www.iltascabile.com/recensioni/vivono-tra-noi-di-daniel-lavelle/",
+      "description": "L'articolo  Vivono tra noi di Daniel Lavelle  proviene da  Il Tascabile .",
+      "date": "Fri, 20 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Conoscere il mondo a memoria",
+      "url": "https://www.iltascabile.com/scienze/conoscere-mondo-memoria/",
+      "description": "Da semplice videogioco sulla geografia, GeoGuessr sta diventando il banco di prova per capire cosa separa l’intuizione umana dall’apprendimento automatico. \n L'articolo  Conoscere il mondo a memoria  proviene da  Il Tascabile .",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/societa/memoria-sconveniente-alberi/",
       "description": "Sul monte Giano, sopra Antrodoco, ventimila pini neri compongono uno dei più grandi monumenti fascisti d’Italia. Ma negli archivi non esiste, e nel paese quasi nessuno ne parla. \n L'articolo  La memoria (sconveniente) degli alberi  proviene da  Il Tascabile .",
       "date": "Tue, 10 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’Internazionale del rifiuto di Mikkel Bolt Rasmussen",
-      "url": "https://www.iltascabile.com/recensioni/internazionale-rifiuto-mikkel-bolt-rasmussen/",
-      "description": "L'articolo  L’Internazionale del rifiuto di Mikkel Bolt Rasmussen  proviene da  Il Tascabile .",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sogno un carnevale del rimosso",
-      "url": "https://www.iltascabile.com/linguaggi/sogno-carnevale-rimosso/",
-      "description": "Riflessioni sulle arti visive e sulla postura obliqua della rivista: verso una critica saggistica sganciata dall’urgenza dell’evento. \n L'articolo  Sogno un carnevale del rimosso  proviene da  Il Tascabile .",
-      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

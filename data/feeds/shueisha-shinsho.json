@@ -1,7 +1,7 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-11-15T21:44:50.564860+00:00",
+  "fetchedAt": "2026-11-20T12:24:56.793311+00:00",
   "items": [
     {
       "title": "題名のつけ方とインスマスの「影」について",
@@ -36,19 +36,19 @@
       }
     },
     {
-      "title": "マルクスとヴェイユ：大工場と疎外された労働",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/idonotlikework/37450",
-      "description": "スミスの理論は今から見るとずいぶん楽観的です。しかし、産業革命が発展していくにつれ、事はそう単純でないことがわかってきました。自由競争が激化した結果として、より多くの利益を生むために労働者が劣悪な環境・賃金で働かされる […]",
-      "date": "Thu, 29 Oct 2026",
+      "title": "病院にアートを入れる、ということ",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/37748",
+      "description": "「ホスピタルアート」という言葉をご存じでしょうか。 　病室の壁に掛けられた絵や、長い廊下の途中に置かれた彫刻。小児病棟の壁いっぱいに描かれた絵を思い浮かべる人もいるかもしれません。病院という、どうしても白く機能的になりが […]",
+      "date": "Mon, 16 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
+        "daily": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 5
       }
     },
     {
@@ -100,23 +100,23 @@
       }
     },
     {
-      "title": "世界から見た都市・東京の現在地【後編】",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37416",
-      "description": "独立研究者/パブリックスピーカーの山口周は、2023年４月21日付のnoteで、パンデミックが都市に与える影響について、次のような考察を記していた。キーワードは「仮想空間へのシフト」だ。論旨の要約は以下になる。 　イン […]",
-      "date": "Thu, 29 Oct 2026",
+      "title": "赤ちゃんの奇妙な言動にはどんな理由があるのか？",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/hagiharahuman/37763",
+      "description": "Hagihara, H., Ishibashi, M., Moriguchi, Y., & Shinya, Y. (2022). Object labeling activates young children’ […]",
+      "date": "Mon, 16 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
       }
     },
     {
-      "title": "「真実の北」 ナハニの地へ――脳科学者、カナダの深奥をゆく",
+      "title": "魂",
       "url": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37642",
       "description": "人間の「魂」とはなんだろう？ 　カナダのノースウエスト準州にある世界自然遺産、ナハニ国立公園を訪れて、５泊６日の川下りの旅をした。カナダ観光局にお世話になった。川下りをしている中で、「魂」の問題を、ずっと考えていた。  […]",
       "date": "Fri, 13 Nov 2026",
@@ -132,7 +132,7 @@
       }
     },
     {
-      "title": "「真実の北」 ナハニの地へ──脳科学者、カナダの深奥をゆく",
+      "title": "宇宙",
       "url": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37459",
       "description": "今年の夏、カナダのノースウエスト準州にある世界自然遺産、ナハニ国立公園を訪れて、5泊6日の川下りの旅をした。カナダ観光局にお世話になった。 　出発前から、「宇宙」のイメージが私の頭の中にあった。15歳で初めて行った外国 […]",
       "date": "Tue, 03 Nov 2026",

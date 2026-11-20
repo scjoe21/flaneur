@@ -1,8 +1,24 @@
 {
   "sourceId": "the-point",
   "sourceName": "The Point Magazine",
-  "fetchedAt": "2026-11-15T21:44:46.038718+00:00",
+  "fetchedAt": "2026-11-20T12:24:52.256790+00:00",
   "items": [
+    {
+      "title": "Good Alienation",
+      "url": "https://thepointmag.com/criticism/good-alienation/",
+      "description": "This is the third in a series of responses to Sean Tatol’s issue 37 essay “After the Post-Avant-Garde: How to return to art history.” \n The post  Good Alienation  appeared first on  The Point Magazine .",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
     {
       "title": "JD Agonistes",
       "url": "https://thepointmag.com/politics/jd-agonistes/",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 5,
         "total": 20
+      }
+    },
+    {
+      "title": "Historicizing History",
+      "url": "https://thepointmag.com/criticism/historicizing-history/",
+      "description": "This is the second in a series of responses to Sean Tatol’s issue 37 essay “After the Post-Avant-Garde: How to return to art history.” \n The post  Historicizing History  appeared first on  The Point Magazine .",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -36,38 +68,6 @@
       }
     },
     {
-      "title": "My Lavender Marriage",
-      "url": "https://thepointmag.com/examined-life/my-lavender-marriage/",
-      "description": "I started seeing “MY HUSBAND IS GAY!” videos in the early 2020s when my TikTok algorithm, with its typical eerie prescience, decided to remind me that I was in a lavender marriage. \n The post  My Lavender Marriage  appeared first on  The Point Magazine .",
-      "date": "Tue, 25 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "On Radical Preservation",
-      "url": "https://thepointmag.com/letter/on-radical-preservation/",
-      "description": "Our contention is that, if we fail to think through and delimit the role of AI in our lives, we risk undermining the intelligibility of our own guiding cultural concepts, and thus initiating a period in our own society of which it may someday be possible to say that “nothing happened.” \n The post  On Radical Preservation  appeared first on  The Point Magazine .",
-      "date": "Sun, 02 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Getting Good",
       "url": "https://thepointmag.com/examined-life/getting-good-effective-altruism/",
       "description": "On a dark, gray day in October 2025, the first dozen attendees of the Effective Altruism Global conference make their way to the Sheraton Hotel just north of Times Square in New York City. \n The post  Getting Good  appeared first on  The Point Magazine .",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "The Part About the Machines",
+      "url": "https://thepointmag.com/examined-life/the-part-about-the-machines/",
+      "description": "The news has already traveled the world, but for those who haven’t yet heard: three weeks ago, El País published an article declaring that the award-winning novel Donde el agua trabaja, by Peruvian writer David Silva Rojas, was, according to Pangram, 99 percent AI-generated. \n The post  The Part About the Machines  appeared first on  The Point Magazine .",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -126,22 +142,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "No Country for Tech Bros",
-      "url": "https://thepointmag.com/politics/no-country-for-tech-bros/",
-      "description": "As the public face of Silicon Valley secessionism, Srinivasan’s Network State Conference seemed like a prime window into the techno-capitalist frontier. \n The post  No Country for Tech Bros  appeared first on  The Point Magazine .",
-      "date": "Wed, 09 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5

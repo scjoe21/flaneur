@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-15T21:44:40.015767+00:00",
+  "fetchedAt": "2026-11-20T12:24:45.571979+00:00",
   "items": [
     {
       "title": "Smart Store und Plauderkasse - Wie sich Supermärkte neu erfinden",
@@ -68,6 +68,22 @@
       }
     },
     {
+      "title": "NS-Verbrechen - Warum die SED jüdische Opfer nicht entschädigt hat",
+      "url": "https://www.deutschlandfunkkultur.de/leo-zuckermanns-scheitern-die-sed-und-die-entschaedigung-juedischer-ns-opfer-100.html",
+      "description": "Schon 1946 plante die SED eine Entschädigung jüdischer NS-Opfer. Trotz ihrer Vorbehalte gegen Privateigentum ließ sie dafür einen Gesetzentwurf erarbeiten. Doch der ist nie in Kraft getreten, denn mit der Gründung der DDR drehte sich der Wind. Beckmann, Andreas www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
+    {
       "title": "Der Kampf migrantischer Frauen um Gleichberechtigung",
       "url": "https://www.deutschlandfunkkultur.de/feminismus-migrantische-frauen-frauenbewegung-100.html",
       "description": "Sie kamen als Gastarbeiterinnen, Ehefrauen, Mütter nach Deutschland - und begannen in den 1970ern, sich gegen strukturelle Diskriminierung zu organisieren. Wie hat die migrantische Frauenbewegung feministische Diskurse geprägt? (Erstsendung: 9.7.2025) Hoffmann, Jule www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -81,38 +97,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Wie alt ist unser Körper wirklich?",
-      "url": "https://www.deutschlandfunkkultur.de/wie-alt-ist-unser-koerper-wirklich-100.html",
-      "description": "Das wahre Alter eines Menschen steckt nicht nur im Pass. Forschende können inzwischen messen, wie alt Herz, Leber oder Gehirn wirklich sind - und sie stoßen dabei auf erstaunliche Unterschiede. Westerhaus, Christine www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 22 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
-      }
-    },
-    {
-      "title": "50 Jahre Frauenhäuser - Noch immer unverzichtbar",
-      "url": "https://www.deutschlandfunkkultur.de/50-jahre-frauenhaeuser-noch-immer-unverzichtbar-100.html",
-      "description": "Als politischer Protest gegen Gewalt entstanden, als Schutzraum geblieben: Frauenhäuser geben Betroffenen seit 50 Jahren Schutz, Hilfe und neue Perspektiven. Heute werden sie so dringend gebraucht wie damals. Seiler, Christiane www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
       }
     },
     {
@@ -148,19 +132,19 @@
       }
     },
     {
-      "title": "Mehr als ein Bankett - Essen beeinflusst Politik",
-      "url": "https://www.deutschlandfunkkultur.de/essen-macht-politik-wie-essen-politik-beeinflusst-100.html",
-      "description": "Seit Jahrhunderten verbinden Adlige, Staatslenker und hochrangige Geheimnisträger gemeinsames Essen mit Politik. Dabei ist nicht nur wichtig, wo man speist und was auf den Tisch kommt. Auch die Frage, wer neben wem sitzt, kann entscheidend sein. Hüttl, Tina www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Mon, 26 Oct 2026",
+      "title": "Transformation - Der schwierige Weg zur klimafreundlichen Industrie",
+      "url": "https://www.deutschlandfunkkultur.de/nachhaltige-transformation-der-steinige-weg-zur-klimafreundlichen-industrie-100.html",
+      "description": "Die Industrie muss sich verändern, um klimaneutral zu werden. Für Unternehmen ist das ein schwieriger Wandel, der hohe Investitionen erfordert. Doch ausgerechnet die politischen Rahmenbedingungen sind oft unzureichend. (Erstsendung am 2.2.2026) Nordwig,Hellmuth www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 16 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
       "scoreDetail": {
-        "daily": 20,
+        "daily": 15,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
@@ -212,22 +196,6 @@
       }
     },
     {
-      "title": "Deutsche Autobauer in Serbien: Der Unmut der Beschäftigten wächst",
-      "url": "https://www.deutschlandfunkkultur.de/autoindustrie-warum-deutsche-firmen-produktion-nach-serbien-verlagern-neu-102.html",
-      "description": "Viele deutsche Autobauer lassen in Serbien produzieren. Präsident Aleksandar Vučić bezeichnet deutsche Investoren als Motor der serbischen Ökonomie. Doch die Beschäftigten klagen über prekäre Arbeitsbedingungen, hohen Druck und niedrige Löhne. Steinwender, Lucia www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 20 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Hermann Bickels letzter Sommer - Wird die Alpwirtschaft verschwinden?",
       "url": "https://www.deutschlandfunkkultur.de/hermann-bickels-letzter-sommer-wird-die-alpwirtschaft-verschwinden-100.html",
       "description": "Kühe melken, Zäune bauen, steile Hänge meistern: Hinter der Alpenromantik steckt harte Arbeit. Auf einer Alpe in Vorarlberg steht ein Generationenwechsel bevor. Nun entscheidet sich, ob eine jahrhundertealte Tradition weiterleben kann. Schlag, Gabi www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -241,6 +209,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "Graphic Medicine - Wenn Comics heilen helfen",
+      "url": "https://www.deutschlandfunkkultur.de/comics-graphic-novels-heilen-100.html",
+      "description": "Comics erzählen oft ehrlicher von Krankheiten als Patientenakten. Das Forschungsfeld Graphic Medicine bringt Medizin, Kunst und persönliche Erfahrung zusammen. Denn gezeichnete Geschichten können bei der Heilung helfen. (Erstsendung am 15.5.2025) Alegiani, Assunta www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 19 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Kritische Rohstoffe: Wege aus der Abhängigkeit",
+      "url": "https://www.deutschlandfunkkultur.de/kritische-rohstoffe-wege-aus-der-abhaengigkeit-100.html",
+      "description": "Seltene Erden sind für Mikrochips, Batterien und E-Autos unverzichtbar. Deutschland bezieht viele dieser Rohstoffe aus China. Es ist damit verwundbar. Alternativen sind Recycling oder eine Kreislaufwirtschaft. Aber das klingt einfacher, als es ist. Schmidt, Thilo www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     }
   ]

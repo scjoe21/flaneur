@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-15T21:44:42.374319+00:00",
+  "fetchedAt": "2026-11-20T12:24:48.282599+00:00",
   "items": [
     {
       "title": "Bioweine, PiWi und Events – Wie Winzer die Krise bewältigen wollen",
@@ -33,6 +33,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Bevölkerungsschutz (2/3) – Warum wir so langsam vorankommen",
+      "url": "https://www.swr.de/swrkultur/wissen/bevoelkerungsschutz-warum-wir-so-langsam-vorankommen-100.html",
+      "description": "Um Katastrophen oder Angriffe auf die Infrastruktur zu überstehen, ist mehr Geld für technische Ausrüstungen nötig. Aber auch wir Bürger müssen uns vor drohenden Gefahren schützen.",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "Nach dem Waldbrand – Wie sich die Natur schnell erholen kann",
+      "url": "https://www.swr.de/swrkultur/wissen/nach-dem-waldbrand-wie-sich-die-natur-schnell-erholen-kann-100.html",
+      "description": "Feuersbrünste bedrohen Mensch und Natur. Doch Artenvielfalt schützt vor zu großen Schäden. Warum das so ist, zeigt sich besonders gut auf Kangaroo Island in Australien.",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -116,51 +148,19 @@
       }
     },
     {
-      "title": "Mauretanien – Wie sich Naturschutz und Fischerei auf Migration auswirken",
-      "url": "https://www.swr.de/swrkultur/wissen/mauretanien-wie-sich-naturschutz-und-fischerei-auf-migration-auswirken-100.html",
-      "description": "In Mauretaniens Nationalpark Banc d’Arguin wachsen die meisten Fische auf, die in Westafrika gefangen werden. Sein Schutz wirkt der Migration entgegen.",
-      "date": "Tue, 3 Nov 2026 ",
+      "title": "Bevölkerungsschutz (1/3) – Was Städte und Gemeinden schon tun",
+      "url": "https://www.swr.de/swrkultur/wissen/bevoelkerungsschutz-was-staedte-und-gemeinden-schon-tun-100.html",
+      "description": "Notfallpläne erarbeiten, Personal schulen, Vorräte anlegen, kostenlose Kurse für Bürger. Viele Gemeinden halten manche Maßnahmen geheim, damit Angreifer keine Infos erhalten.",
+      "date": "Tue, 17 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Nürnberg 1945 – Die Prozesse, die Deutschland nicht wollte",
-      "url": "https://www.swr.de/swrkultur/wissen/nuernberg-1945-die-prozesse-die-deutschland-nicht-wollte-102.html",
-      "description": "Die Prozesse gegen die Nazi-Hauptkriegsverbrecher verfolgen die Deutschen wohlwollend. Als es in weiteren Prozessen um die Schuld der breiten Gesellschaft geht, kippt die Stimmung.",
-      "date": "Mon, 2 Nov 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
         "daily": 10,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Wege zu einem \"gesunden\" Internet – Verlässliche Infos, hassfreier Dialog",
-      "url": "https://www.swr.de/swrkultur/wissen/wege-zu-einem-gesunden-internet-verlaessliche-infos-hassfreier-dialog-100.html",
-      "description": "Social-Media-Plattformen gelten oft als \"toxisch\". Ihre Algorithmen belohnen und verstärken extreme Äußerungen. Welche Alternativen gibt es?",
-      "date": "Sun, 1 Nov 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
@@ -168,22 +168,6 @@
       "url": "https://www.swr.de/swrkultur/wissen/buerokratie-abbauen-was-ist-vernuenftig-100.html",
       "description": "Die Bundes- und viele Landesregierungen versprechen Bürokratieabbau – meinen damit aber zum Teil ganz unterschiedliche Maßnahmen. Welche Maßnahmen sind wirklich sinnvoll?",
       "date": "Sun, 8 Nov 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Dyskalkulie – Qualen mit Zahlen",
-      "url": "https://www.swr.de/swrkultur/wissen/dyskalkulie-qualen-mit-zahlen-100.html",
-      "description": "Die Rechenstörung Dyskalkulie betrifft viele Kinder. Eigentlich gibt es gute Therapien und Hilfen, nur werden die oft nicht angewandt.",
-      "date": "Wed, 4 Nov 2026 ",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -241,6 +225,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Bevölkerungsschutz (3/3) – Was wir von anderen Ländern lernen können",
+      "url": "https://www.swr.de/swrkultur/wissen/bevoelkerungsschutz-was-wir-von-anderen-laendern-lernen-koennen-100.html",
+      "description": "In Polen und Schweden bereiten sich die Menschen intensiv auf Krisen vor. In Frankreich greift ein nationaler Hitzeschutz-Plan. Es gibt vieles, das wir uns abschauen können.",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
       }
     }
   ]

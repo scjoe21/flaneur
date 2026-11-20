@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-11-15T21:44:37.472193+00:00",
+  "fetchedAt": "2026-11-20T12:24:42.723093+00:00",
   "items": [
     {
       "title": "Anton Jäger et Olivier Roy : comment refaire du collectif ?",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 10,
         "total": 30
+      }
+    },
+    {
+      "title": "Saint-Nazaire au travail : et les personnes en situation de handicap ?",
+      "url": "https://www.nonfiction.fr/article-12929-saint-nazaire-au-travail-et-les-personnes-en-situation-de-handicap.htm",
+      "description": "La Compagnie «    Pourquoi se lever le matin    ! » s’est donné pour but d’apporter le point de vue du travail, exprimé par ceux qui le font, dans les débats qui agitent notre société : santé, alimentation, enseignement, transport, énergie, solidarité…  \r\n\r\n  Cette première série s’intéresse à la fabrique d’un territoire par le travail : à Saint-Nazaire, c’est toute une société qui se ramifie autour des chantiers de l’Atlantique, où se croisent et collaborent des métiers d’une infinie diversité.",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
       }
     },
     {
@@ -84,7 +100,7 @@
       }
     },
     {
-      "title": "Robert Boyer : Le capitalisme à l’épreuve du trumpisme",
+      "title": "Robert Boyer : le capitalisme à l’épreuve du trumpisme",
       "url": "https://www.nonfiction.fr/article-12921-robert-boyer-le-capitalisme-a-lepreuve-du-trumpisme.htm",
       "description": "Dans L’époque de tous les dangers  (La Découverte, 2026) ,  Robert Boyer analyse les contradictions du capitalisme contemporain, exacerbées par le retour de Donald Trump au pouvoir. Loin de constituer une simple parenthèse politique, le trumpisme révèle les tensions d'un modèle américain fragilisé par les inégalités, la financiarisation et les déséquilibres de la mondialisation. Mais il contribue aussi à déstabiliser l'ordre économique international sans qu'un nouvel équilibre se dessine pour au",
       "date": "Sun, 15 Nov 2026",
@@ -129,22 +145,6 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
-      }
-    },
-    {
-      "title": "Capitale animale. Les bêtes de Paris et la guerre de 1870",
-      "url": "https://www.nonfiction.fr/article-12875-capitale-animale-les-betes-de-paris-et-la-guerre-de-1870.htm",
-      "description": "Le tableau  Le Dépeceur de rats  de Narcisse Chaillou (1870) illustre combien les Parisiens, contraints à se nourrir d’animaux inhabituels, ont été marqués par le siège de la capitale. Mais les animaux parisiens, tel le rat de la peinture, ont eux aussi été mis à rude épreuve par la guerre franco-prussienne, le siège de Paris, puis la Commune.  L’Année terrible des animaux. Un regard inédit sur le Siège et la Commune de Paris 1870-1871  retrace leur histoire. Son auteur, Nicolas Baron, est spéci",
-      "date": "Fri, 09 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {

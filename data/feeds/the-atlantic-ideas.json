@@ -1,13 +1,45 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-15T21:44:34.213070+00:00",
+  "fetchedAt": "2026-11-20T12:24:39.420350+00:00",
   "items": [
     {
-      "title": "I’ve Been With Trump Since 2016. Hegseth Should Resign.",
-      "url": "https://www.theatlantic.com/ideas/2026/11/hegseth-resignation-trump-embarrassment/689435/?utm_source=feed",
+      "title": "How Jared Kushner Sparked a Revolution in the Balkans",
+      "url": "https://www.theatlantic.com/magazine/2027/01/albania-kushner-flamingo-revolution/689407/?utm_source=feed",
       "description": "",
-      "date": "2026-11-13",
+      "date": "2026-11-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Why Moderate Democrats Are Magnanimous in Victory",
+      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-intraparty-divide-denial/689480/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Welcome to Software Beirut",
+      "url": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-19",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -20,19 +52,35 @@
       }
     },
     {
-      "title": "Democrats Should Cut a Deal With Trump",
-      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-trump-deal-not-investigation/689368/?utm_source=feed",
+      "title": "<em>Grand Theft Auto VI</em> Is Really Weird",
+      "url": "https://www.theatlantic.com/ideas/2026/11/grand-theft-auto-vi-review/689514/?utm_source=feed",
       "description": "",
-      "date": "2026-11-11",
+      "date": "2026-11-19",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 10,
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 5
+      }
+    },
+    {
+      "title": "‘No Take, Only Throw’ Politics",
+      "url": "https://www.theatlantic.com/ideas/2026/11/no-take-only-throw-democrats-budget-taxes/689497/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -52,19 +100,131 @@
       }
     },
     {
-      "title": "Investigating Michel Houellebecq Is a Dangerous Mistake",
-      "url": "https://www.theatlantic.com/ideas/2026/11/michel-houellebecq-investigation-france/689415/?utm_source=feed",
+      "title": "Trump’s Embarrassing, Inconsequential Summit",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-xi-putin-summit/689503/?utm_source=feed",
       "description": "",
-      "date": "2026-11-12",
+      "date": "2026-11-19",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
+      }
+    },
+    {
+      "title": "Election Denialism Is All but Dead",
+      "url": "https://www.theatlantic.com/ideas/2026/11/election-denialism-end-midterms/689495/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Can Pope Leo Bridge the Church’s Demographic Divide?",
+      "url": "https://www.theatlantic.com/ideas/2026/11/pope-leo-south-america-unity/689494/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "What on Earth Is Going On?",
+      "url": "https://www.theatlantic.com/ideas/2026/11/major-server-outage-response/689486/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Black Politicians Can Be Like This",
+      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-midterms-black-politicians/689477/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-18",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Diplomacy, but Make It Obnoxious",
+      "url": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "The Hollowing of the Venezuelan State",
+      "url": "https://www.theatlantic.com/international/2026/11/venezuela-maduro-oil-earthquake-intervention/689113/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-17",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Sorry, Robert Pattinson Is Not James Bond",
+      "url": "https://www.theatlantic.com/ideas/2026/11/robert-pattinson-james-bond-casting/689464/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-16",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -72,166 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/11/trump-investigation-strategy/689427/?utm_source=feed",
       "description": "",
       "date": "2026-11-15",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Don’t Be So Surprised That Mississippi Turned Blue",
-      "url": "https://www.theatlantic.com/ideas/2026/11/scott-colom-mississippi-democrats/689443/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Mind of a Megalomaniac",
-      "url": "https://www.theatlantic.com/ideas/2026/11/hitler-langer-cia-psychoanalysis/689434/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-14",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Next Major Grounding Will Be Worse",
-      "url": "https://www.theatlantic.com/ideas/2026/11/flights-grounded-why/689446/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Of Course Americans Blamed the Ground Stop on AI",
-      "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-cancelled/689444/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Airport Chaos Began Long Before the Ground Stop",
-      "url": "https://www.theatlantic.com/ideas/2026/11/faa-grounding-flights-airlines/689441/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "<em>Zelda</em>’s Midlife Crisis",
-      "url": "https://www.theatlantic.com/ideas/2026/11/new-zelda-review-nostalgia/689420/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-13",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Scott Colom Is Mississippi’s First Black Senator in 150 Years",
-      "url": "https://www.theatlantic.com/ideas/2026/11/scott-colom-us-senate-democrats/689395/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Last Trumpist Standing",
-      "url": "https://www.theatlantic.com/ideas/2026/11/stephen-miller-trump-chief-of-staff/689385/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Case Against a ‘Religious Left’",
-      "url": "https://www.theatlantic.com/ideas/2026/11/religious-left-christian-democrats/689374/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-11",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Left’s Election Denial",
-      "url": "https://www.theatlantic.com/ideas/2026/11/moderates-midterms-success-progressives/689371/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-11",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

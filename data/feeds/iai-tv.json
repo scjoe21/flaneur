@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-15T21:44:45.847729+00:00",
+  "fetchedAt": "2026-11-20T12:24:52.132736+00:00",
   "items": [
     {
       "title": "How to Morally Take a Life | Kathleen Stock, Mary Ann Sieghart",
@@ -36,6 +36,22 @@
       }
     },
     {
+      "title": "Is space exploration truly for the good of mankind? | Adam Frank, Laura Grego, Kishore Mahbubani",
+      "url": "https://www.youtube.com/watch?v=-M_5MRVJ_Bk",
+      "description": "Kishore Mahbubani, Laura Grego and Adam Frank debate whether the future of space is one of conflict.\n\nShould we recognise that space exploration for the good of all is always a fantasy?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/one-giant-conflict-for-mankind?utm_source=YouTube&utm_medium=description\n\n“One giant leap for mankind” were Armstrong's famous words as he stepped onto the moon. But some claim space exploration is instead emerging as a military battleg",
+      "date": "2026-11-17",
+      "thumbnail": "https://i2.ytimg.com/vi/-M_5MRVJ_Bk/hqdefault.jpg",
+      "videoId": "-M_5MRVJ_Bk",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "How Will AI Impact the Future of Our Economy? | Sebastian Mallaby, Martin Wolf",
       "url": "https://www.youtube.com/watch?v=FDUXyUqlnkU",
       "description": "Sebastian Mallaby and Martin Wolf discuss AI and its potential effects, both positive and negative, on the economy and society as a whole.\n\nTo what extent will AI impact the future of the economy?\n\nWith a free trial, you can watch the full talk NOW at: https://iai.tv/video/the-future-of-the-ai-economy\n\nA handful of companies are racing to build machines that surpass human intelligence, and the economic shockwaves are already being felt. Some economists predict an explosion of growth; others warn",
@@ -65,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Žižek's Favourite Stalinist Joke",
+      "url": "https://www.youtube.com/shorts/YOKJr_ZTk2c",
+      "description": "With a free trial, you can watch the full [debate/talk] NOW at https://iai.tv/video/nature-friend-or-foe?utm_source=YouTube&utm_medium=description\n\n#stalinism #communism #philosophy #comedy #jokes",
+      "date": "2026-11-18",
+      "thumbnail": "https://i2.ytimg.com/vi/YOKJr_ZTk2c/hqdefault.jpg",
+      "videoId": "YOKJr_ZTk2c",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -164,22 +196,6 @@
       }
     },
     {
-      "title": "The Rise of the Illiberal Democracy | Mahbubani, Ignatieff, Laruelle",
-      "url": "https://www.youtube.com/watch?v=tncdcMBz1M8",
-      "description": "Kishore Mahbubani, Michael Ignatieff and Marlène Laruelle discuss illiberal democracies?\n\nAre illiberal democracies more effective?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-age-of-the-illiberal-democracy?utm_source=YouTube&utm_medium=description\n\nThe West is often defined as the home of liberal democracy, with liberalism and democracy seen as inseparable. But from the start, there has been tension between democracy as the will of the majority, and liberal",
-      "date": "2026-11-03",
-      "thumbnail": "https://i1.ytimg.com/vi/tncdcMBz1M8/hqdefault.jpg",
-      "videoId": "tncdcMBz1M8",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "Politics is like being in a relationship | Louisa Munch",
       "url": "https://www.youtube.com/shorts/DKoSK-UhiNU",
       "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch\n\n#politics #solution #rightwing #leftwing #relationship",
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "The New Age of Media | Cory Doctorow",
-      "url": "https://www.youtube.com/shorts/2RJRnkW7ijA",
-      "description": "",
-      "date": "2026-11-01",
-      "thumbnail": "https://i3.ytimg.com/vi/2RJRnkW7ijA/hqdefault.jpg",
-      "videoId": "2RJRnkW7ijA",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

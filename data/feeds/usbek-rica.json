@@ -1,12 +1,12 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-11-15T21:44:14.378732+00:00",
+  "fetchedAt": "2026-11-20T12:24:13.763250+00:00",
   "items": [
     {
       "title": "Et si la meilleure manière de prévenir la dépression, c’était de réduire les inégalités de genre ?",
       "url": "https://usbeketrica.com/fr/article/et-si-la-meilleure-maniere-de-prevenir-la-depression-c-etait-de-reduire-les-inegalites-de-genre",
-      "description": "De la puberté à la retraite, la vie des femmes est marquée par des inégalités structurelles de genre. Au travail, sur les réseaux sociaux, mais aussi dans leurs relations amoureuses, la société leur fait ressentir leur condition de femme, ce qui explique largement qu’elles soient plus touchées que les hommes par la dépression. C’est en tout cas ce qu’affirme le nouveau rapport du Haut Conseil à l’Égalité (HCE) publié ce lundi 2 novembre.",
+      "description": "De la puberté à la retraite, la vie des femmes est marquée par des inégalités structurelles de genre. Au travail, sur les réseaux sociaux, mais aussi dans leurs relations amoureuses, la société leur fait ressentir leur condition de femme, ce qui explique largement qu’elles soient plus touchées que les hommes par la dépression. C’est en tout cas ce qu’affirme le nouveau rapport du Haut Conseil à l’Égalité (HCE) publié lundi 2 novembre.",
       "date": "Sun, 15 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -20,10 +20,10 @@
       }
     },
     {
-      "title": "« Les dispositifs de surveillance concernent de plus en plus toutes les sphères de la vie »",
-      "url": "https://usbeketrica.com/fr/article/les-dispositifs-de-surveillance-concernent-de-plus-en-plus-toutes-les-spheres-de-la-vie",
-      "description": "Réseaux sociaux, vidéosurveillance algorithmique, drones… L’arsenal numérique déployé par le gouvernement pour surveiller les récentes mobilisations sociales menace-t-il les libertés publiques ? Entretien avec la juriste Noémie Véron.",
-      "date": "Tue, 03 Nov 2026",
+      "title": "IA et cinéma : 8 milliards d'humains, mais un seul récit ?",
+      "url": "https://usbeketrica.com/fr/article/ia-et-cinema-huit-milliards-d-humains-un-seul-recit",
+      "description": "Alors que les images générées par IA envahissent nos écrans, une question reste dans l’angle mort du débat : qui, désormais, raconte le monde ? C’est la question que pose dans cette tribune Michael Swierczynski, cofondateur et président de We Are Human, festival international de films  consacré aux droits humains et à la création à l’ère de l’IA. Sa première édition, placée sous l’article premier de la Déclaration universelle des droits de l’homme, se tient le 24 novembre à Paris. Il plaide pour",
+      "date": "Tue, 17 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -36,9 +36,41 @@
       }
     },
     {
+      "title": "Faut-il dire la vérité à une personne fan d’un chanteur qui se révèle être une IA ?",
+      "url": "https://usbeketrica.com/fr/article/faut-il-dire-la-verite-a-une-personne-fan-d-un-chanteur-qui-se-revele-etre-une-ia",
+      "description": "TRIBUNE // L'impératif de vérité doit-il primer au risque de détruire une émotion réelle ? C'est la question que se pose Marius Bertolucci, Maître de Conférences en Sciences de Gestion à l'Institut de Management Public et Gouvernance Territoriale, lorsqu'il découvre qu'un chanteur de blues dont les chansons émeuvent son ami est en réalité une IA.",
+      "date": "Thu, 12 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 5,
+        "total": 15
+      }
+    },
+    {
+      "title": "AVANT-POSTE",
+      "url": "https://usbeketrica.com/fr/article/competences-un-bien-commun",
+      "description": "Dans cet épisode d’Avant-poste, le podcast de l’Unédic, Léa Lejeune reçoit Samuel Durand, réalisateur et spécialiste du futur du travail. Au cœur de leur échange : la question des compétences, qui ne relève plus seulement des parcours individuels, mais devient un enjeu collectif, au cœur de l’équilibre du marché du travail.",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
       "title": "Trois bonnes raisons de lire le thriller de SF métaphysique « Spectres »",
       "url": "https://usbeketrica.com/fr/article/trois-bonnes-raisons-de-lire-le-thriller-de-science-fiction-metaphysique-spectres",
-      "description": "Dans Spectres, Thomas Gunzig envoie une physicienne et sa famille coloniser une dimension parallèle pour sauver une Terre à l’agonie. Ce qu’ils y trouvent ressemble davantage à l’au-delà qu’à un eldorado minier. Entre SF, fantastique et conte métaphysique, voici trois bonnes raisons de se perdre dans l’un des romans les plus singuliers de la rentrée - fraîchement couronnée, qui plus est, du prix Jacques Sedoul.",
+      "description": "Dans Spectres, Thomas Gunzig envoie une physicienne et sa famille coloniser une dimension parallèle pour sauver une Terre à l’agonie. Ce qu’ils y trouvent ressemble davantage à l’au-delà qu’à un eldorado minier. Entre SF, fantastique et conte métaphysique, voici trois bonnes raisons de se perdre dans l’un des romans les plus singuliers de la rentrée, d'un auteur par ailleurs fraîchement couronné, pour l'une de ses nouvelles, par le prestigieux prix Jacques Sadoul.",
       "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -49,38 +81,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Faut-il dire la vérité à une personne fan d’un chanteur qui se révèle être une IA ?",
-      "url": "https://usbeketrica.com/fr/article/faut-il-dire-la-verite-a-une-personne-fan-d-un-chanteur-qui-se-revele-etre-une-ia",
-      "description": "TRIBUNE // L'’impératif de vérité doit-il primer au risque de détruire une émotion réelle ? C'est la question que se pose Marius Bertolucci, Maître de Conférences en Sciences de Gestion à l'Institut de Management Public et Gouvernance Territoriale, lorsqu'il découvre d'un chanteur de blues dont les chansons émeuvent son ami est une IA.",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "« Godzilla Minus Zero » : plus loin, plus haut, plus fort",
-      "url": "https://usbeketrica.com/fr/article/godzilla-minus-zero-plus-loin-plus-haut-plus-fort",
-      "description": "Dans le Japon des années 1940, Shikishima Koichi, un ancien pilote kamikaze, souffre de symptômes de stress post-traumatique après sa rencontre avec Godzilla. Suite directe du carton Minus One, Godzilla Minus Zero sort en salles ce mercredi 4 novembre.",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
       }
     },
     {
@@ -116,26 +116,10 @@
       }
     },
     {
-      "title": "« Semons nos résistances », l’expo qui transforme le militantisme en poésie collective",
-      "url": "https://usbeketrica.com/fr/article/semons-nos-resistances-l-exposition-qui-transforme-le-militantisme-en-poesie-collective",
-      "description": "La nouvelle exposition « Semons nos résistances » du MAIF Social Club interroge notre capacité à faire corps face à l'épuisement politique, écologique et social. Les œuvres de quinze artistes nous invitent à quitter notre rôle de visiteur pour explorer de nouvelles formes de résistance et cultiver l’espoir. Suivez le guide.",
-      "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "En Chine, la bulle de l'IA est en train d'éclater",
-      "url": "https://usbeketrica.com/fr/article/en-chine-la-bulle-de-l-ia-est-en-train-d-eclater",
-      "description": "L’heure du « krach » a sonné sur le marché chinois de l’intelligence artificielle. Selon une enquête de Reuters, l’indice STAR50 de Shanghai, qui regroupe les plus grands géants du secteur, a chuté de 40 % en quatre mois. Signe d’une débâcle qui ne fait que commencer.",
-      "date": "Fri, 30 Oct 2026",
+      "title": "Usbek & Rica Futur Festival : découvrez la programmation complète !",
+      "url": "https://usbeketrica.com/fr/article/usbek-rica-futur-festival-decouvrez-la-programmation-complete",
+      "description": "La deuxième édition du Futur Festival, organisé par Usbek & Rica, se tiendra vendredi 27 et samedi 28 novembre au Théâtre de la Concorde, à Paris. Découvrez la programmation détaillée et réservez vos places (gratuites) sans tarder !",
+      "date": "Mon, 16 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 4,
@@ -145,6 +129,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "« Trop chère », « pas écolo », « made in China » ? La voiture électrique à l'épreuve des clichés",
+      "url": "https://usbeketrica.com/fr/article/trop-chere-pas-ecolo-made-in-china-la-voiture-electrique-a-l-epreuve-des-cliches",
+      "description": "Et si la voiture électrique souffrait surtout de sa réputation ? En partenariat avec le programme Advenir, nous avons confié à quatre créateurs de contenu (Julien Opal, Monsieur Grrr, Hourrail et Bruno Maltor) le soin de démonter, chiffres à l'appui, les idées reçues qui lui sont encore associées.",
+      "date": "Thu, 19 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "On sait à quoi ressemblerait la Terre si la vie n’avait jamais existé",
+      "url": "https://usbeketrica.com/fr/article/on-sait-a-quoi-ressemblerait-la-terre-si-la-vie-n-avait-jamais-existe",
+      "description": "Et si la vie n’était pas (si) indispensable à la bonne santé de notre planète ? C’est ce que suggère une simulation menée par des chercheurs de la NASA et de l’université de Washington. Une découverte qui pourrait bouleverser notre compréhension des exoplanètes.",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Répétitif ou audacieux ? Notre avis sur « Hunger Games : Lever de soleil sur la moisson »",
+      "url": "https://usbeketrica.com/fr/article/repetitif-ou-audacieux-notre-avis-sur-hunger-games-lever-de-soleil-sur-la-moisson",
+      "description": "Le nouveau volet de la saga de science-fiction à succès, consacré à la jeunesse du personnage d’Haymitch Abernathy, mentor des protagonistes Katniss et Peeta dans les films originaux, sort en salles ce mercredi 18 novembre.",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/l-etat-vend-l-hotel-du-plan-que-reste-t-il-de-notre-capacite-a-choisir-l-avenir",
       "description": "TRIBUNE // Alors que l’État vend l’hôtel particulier du Haut-Commissariat au plan, Thomas Gauthier, créateur du podcast « No(s) limit(es) » et responsable du dispositif pédagogique « Futurs Alternatifs » à emlyon business school, estime que la prospective publique, prolifique en scénarios, n’engage plus le présent, et plaide pour la refonder.",
       "date": "Wed, 04 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "« Impossible ici », le roman dystopique à (re)lire avant les Midterms",
-      "url": "https://usbeketrica.com/fr/article/impossible-ici-le-roman-dystopique-a-re-lire-avant-les-midterms-sinclair-lewis",
-      "description": "Même rhétorique anti-élite, même populisme surfant sur le déclassement des cols blancs, mêmes attaques vis-à-vis de la presse, même personnage clownesque… Donald Trump semble appliquer à la lettre la recette de la dystopie de Sinclair Lewis, Impossible ici (1935). Jusqu’à laisser craindre la dérive autoritaire et fasciste décrite dans le roman, qu'on vous recommande de lire dans le nouveau numéro de FUTUR  ? Réponse le mardi 3 novembre avec les élections de mi-mandat.",
-      "date": "Mon, 02 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Du timbre au post-it (et à l’agent IA) : quel futur pour l’engagement ?",
-      "url": "https://usbeketrica.com/fr/article/du-timbre-au-post-it-et-a-l-agent-ia-quel-futur-pour-l-engagement",
-      "description": "Les partis et les syndicats se vident. Pourtant, les lycéens bloquent leurs établissements et certains hashtags font le tour de la planète. Dans cette chronique, la prospectiviste Cécile Wendling, à la tête du cabinet Pan-or-amiques.com et chercheuse associée au Centre de sociologie des organisations (CSO), examine, génération par génération, qui s’engage aujourd’hui et qui s’engagera demain.",
-      "date": "Fri, 30 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,8 +1,24 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-11-15T21:44:39.287743+00:00",
+  "fetchedAt": "2026-11-20T12:24:44.635325+00:00",
   "items": [
+    {
+      "title": "Wer sind wir, und wenn ja, wie viele? Über die Möglichkeit kollektiver Identität in pluralen Gesellschaften",
+      "url": "https://www.deutschlandfunk.de/kollektive-identitaet-gesellschaft-demokratie-essay-samira-akbarian-100.html",
+      "description": "Die liberale Demokratie steckt in der Krise. Im Ringen um gesellschaftlichen Zusammenhalt stellt sich die Frage, wie in Zeiten fragmentierter Gesellschaften und widerstreitender Identitätspolitiken kollektive Identität gedacht werden kann. Von Samira Akbarian www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 15 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "Die lesende Demokratie - Wie digitale Medien die politische Öffentlichkeit verändern",
       "url": "https://www.deutschlandfunk.de/die-lesende-demokratie-100.html",
@@ -209,22 +225,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "Körper in Bewegung - Fell, Federn, nackte Haut - Von der Natur des Tanzes",
-      "url": "https://www.deutschlandfunk.de/fell-federn-nackte-haut-von-der-natur-des-tanzes-102.html",
-      "description": "So artifiziell das klassische und zeitgenössische Ballett auch wirkt, so unmittelbar ist sein Bezug zur Natur. Seit dem Barock zeigt sich hier das Verhältnis von Mensch, Natur und Macht. Und im Tanz selbst ist die Natur als reale Gegenwart präsent. Von Wiebke Hüster www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 09 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {

@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-11-15T21:44:11.903774+00:00",
+  "fetchedAt": "2026-11-20T12:24:11.690284+00:00",
   "items": [
     {
       "title": "La vraie infidélité",
@@ -20,19 +20,19 @@
       }
     },
     {
-      "title": "Le mérite n'existe pas",
-      "url": "https://www.youtube.com/shorts/6DfUkQGWzKU",
-      "description": "Au XXIe siècle, le philosophe américain Michael Sandel remet en question l'un des grands idéaux de nos sociétés : la méritocratie. Dans cette vidéo, je vous explique pourquoi, selon lui, notre réussite ne dépend pas uniquement de nos efforts, mais aussi de circonstances que nous ne maîtrisons pas. Et comment cette illusion du mérite peut transformer la réussite en orgueil et l'échec en humiliation.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #michaelsandel #mérito",
-      "date": "2026-10-18",
-      "thumbnail": "https://i3.ytimg.com/vi/6DfUkQGWzKU/hqdefault.jpg",
-      "videoId": "6DfUkQGWzKU",
-      "priority": 40,
+      "title": "Edward Bernays, le manipulateur",
+      "url": "https://www.youtube.com/shorts/iNpH3BPsMrY",
+      "description": "Au XXe siècle, Edward Bernays, le père de la propagande moderne, a convaincu les femmes de fumer et les Américains de manger des œufs au bacon au petit-déjeuner. Dans cette vidéo, je vous explique comment il s'y est pris, et pourquoi la manipulation la plus efficace n'est pas celle qui nous contraint, mais celle qui nous fait désirer ce qu'on veut nous vendre.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de l'épisode « ALDOUS HUXLEY - Le meilleur des mondes » : https://youtu.be/_Dt",
+      "date": "2026-11-19",
+      "thumbnail": "https://i2.ytimg.com/vi/iNpH3BPsMrY/hqdefault.jpg",
+      "videoId": "iNpH3BPsMrY",
+      "priority": 39,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 20,
-        "flaneur": 0,
+        "daily": 35,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 40
+        "total": 39
       }
     },
     {
@@ -164,6 +164,22 @@
       }
     },
     {
+      "title": "Cessez de projeter vos interprétations",
+      "url": "https://www.youtube.com/shorts/ap0VsxH79LA",
+      "description": "Quelqu'un ne répond pas à votre message, et aussitôt les interprétations surgissent : il m'ignore, il m'en veut… Dans cette vidéo, je vous lis un passage de mon livre sur le stoïcisme : comment prendre du recul entre un fait et notre réaction à ce fait.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de mon livre « Les 10 principes du stoïcisme pour rester maître de soi » : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\n#philosophie #précepteur #stoïcisme #interprétation #recul #",
+      "date": "2026-11-17",
+      "thumbnail": "https://i2.ytimg.com/vi/ap0VsxH79LA/hqdefault.jpg",
+      "videoId": "ap0VsxH79LA",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "N'attendez rien des autres",
       "url": "https://www.youtube.com/shorts/O-clnMQP6Ek",
       "description": "Vous faites tout pour plaire à quelqu'un… et c'est la déception. Pourquoi ? Parce que vous attendiez un résultat qui ne dépendait pas de vous. Dans cette vidéo, je vous lis un passage de mon livre sur le stoïcisme, sur ce que les stoïciens nous apprennent sur nos attentes.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de mon livre « Les 10 principes du stoïcisme pour rester maître de soi » : https://amzn.to/4eav3pd (lien rémunéré par Amazon)\n\n#philosophie #précepteur #stoïcisme #déc",
@@ -180,19 +196,19 @@
       }
     },
     {
-      "title": "HPI, TDAH, AUTISME... Quand les réseaux sociaux nous diagnostiquent",
-      "url": "https://www.youtube.com/watch?v=hjf5i4ydx9w",
-      "description": "HPI, TDAH, autisme : ces mots sont partout sur les réseaux sociaux, et beaucoup de gens finissent par s'y reconnaître. Mais sait-on vraiment ce qu'ils veulent dire ? Dans cet entretien, la psychologue Estelle Joguet explique ce que recouvrent ces notions et pourquoi l'autodiagnostic en ligne trompe souvent.\n\nL'entretien aborde le haut potentiel intellectuel et la mesure du QI, les troubles du neurodéveloppement (TSA et TDAH), le déroulement d'un vrai bilan et les effets de la vulgarisation sur I",
-      "date": "2026-10-23",
-      "thumbnail": "https://i1.ytimg.com/vi/hjf5i4ydx9w/hqdefault.jpg",
-      "videoId": "hjf5i4ydx9w",
-      "priority": 25,
+      "title": "[BAC PHILO] La méthode de la dissertation de philo",
+      "url": "https://www.youtube.com/shorts/yAi40r12-JY",
+      "description": "Tu passes le bac de philo et la dissertation te fait peur ? Mon avatar IA t'explique la méthode étape par étape. Il peut t'accompagner pendant toute ta préparation, à n'importe quelle heure.\n\n👉 7 jours d'essai gratuit sur Learning Frontier : https://learningfrontier.ai/fr/bac-philo\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #bacdephilo #bac2027 #dissertation #méthode",
+      "date": "2026-11-18",
+      "thumbnail": "https://i2.ytimg.com/vi/yAi40r12-JY/hqdefault.jpg",
+      "videoId": "yAi40r12-JY",
+      "priority": 15,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
+        "daily": 5,
+        "phil": 10,
         "flaneur": 0,
-        "novelty": 5,
-        "total": 25
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-10-25",
       "thumbnail": "https://i4.ytimg.com/vi/Ww1ytWIHSiU/hqdefault.jpg",
       "videoId": "Ww1ytWIHSiU",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Si vous êtes dans ce cas, lisez ce philosophe",
-      "url": "https://www.youtube.com/shorts/q9N2R7fHA9c",
-      "description": "⬇️ Complétez ma liste en commentaire\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #philosophes #lecture #livres #conseils",
-      "date": "2026-10-21",
-      "thumbnail": "https://i2.ytimg.com/vi/q9N2R7fHA9c/hqdefault.jpg",
-      "videoId": "q9N2R7fHA9c",
       "priority": 15,
       "scoreDetail": {
         "daily": 5,

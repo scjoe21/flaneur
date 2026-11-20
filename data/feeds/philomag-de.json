@@ -1,8 +1,24 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-15T21:44:19.406683+00:00",
+  "fetchedAt": "2026-11-20T12:24:18.874165+00:00",
   "items": [
+    {
+      "title": "Laura Anna Klein: „Leihmutterschaft ist ein einzigartiges Beziehungsgefüge“",
+      "url": "https://www.philomag.de/artikel/laura-anna-klein-leihmutterschaft-ist-ein-einzigartiges-beziehungsgefuege",
+      "description": "Die einen sehen in Leihmutterschaft eine unzulässige Kommerzialisierung des Körpers, die anderen ein queerfeministisches Potenzial. Ein Gespräch mit der Rechtswissenschaftlerin Laura Anna Klein über die Gründe für das in Deutschland geltende Verbot von Leihmutterschaft und die Frage, wie wir sie idealerweise denken sollten.",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 39,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 15,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 39
+      }
+    },
     {
       "title": "Hendrik Bolz: „Ich war lange beseelt von dem Wunsch, hart zu sein“",
       "url": "https://www.philomag.de/artikel/hendrik-bolz-ich-war-lange-beseelt-von-dem-wunsch-hart-zu-sein",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Unsere erste Ausgabe von 2011: Warum haben wir Kinder?",
+      "url": "https://www.philomag.de/artikel/unsere-erste-ausgabe-von-2011-warum-haben-wir-kinder",
+      "description": "Heute vor 15 Jahren, am 16. November 2011, erschien die erste Ausgabe des Philosophie Magazins mit dem Thema: Warum haben wir Kinder? Ein Dossier über die Gründe, sich fortzupflanzen, die Herausforderungen des Mutter- und Vaterseins und die Irrationalität menschlicher Wünsche. Blättern Sie  hier  noch einmal durch die allererste Ausgabe!",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
       }
     },
     {
@@ -52,121 +84,137 @@
       }
     },
     {
-      "title": "Martin Küpper: „Der Ostmarxismus versuchte die Gesetzmäßigkeiten der geschichtlichen Natur abzubilden und zu nutzen“",
-      "url": "https://www.philomag.de/artikel/martin-kuepper-der-ostmarxismus-versuchte-die-gesetzmaessigkeiten-der-geschichtlichen",
-      "description": "Anders als die Literatur ist die Philosophie aus den Ländern des Realsozialismus nahezu unbekannt. Zu Unrecht, findet der Philosoph Martin Küpper. Ein Gespräch über Ost- und West-Marxismus, Ästhetik in der DDR und den Versuch, die gesellschaftlichen Verhältnisse zu humanisieren.",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 10,
-        "total": 30
-      }
-    },
-    {
-      "title": "Warum Beauvoir de Sade las",
-      "url": "https://www.philomag.de/artikel/warum-beauvoir-de-sade-las",
-      "description": "Marquis de Sade, dem wir gewaltvolle pornografische Werke wie  Die 120 Tage von Sodom  und den Begriff Sadismus verdanken, ist eine verstörende Gestalt. Weshalb plädiert die Feministin Beauvoir dafür, sich gewinnbringend mit ihm zu beschäftigen?",
-      "date": "Tue, 10 Nov 2026",
+      "title": "Brauchen wir einen erneuerten Republikanismus?",
+      "url": "https://www.philomag.de/artikel/brauchen-wir-einen-erneuerten-republikanismus",
+      "description": "Angesichts anhaltender Spaltungstendenzen drängt die Frage, wie sich gesellschaftlicher Zusammenhalt stiften lässt. Womöglich mit Partizipation, Tugenden und einem Habermas'schen „Verfassungspatriotismus“? Ein Grundriss des Republikanismus.",
+      "date": "Fri, 20 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
       "scoreDetail": {
-        "daily": 25,
-        "phil": 0,
+        "daily": 15,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
       }
     },
     {
-      "title": "Klaus Hurrelmann: „Die junge Generation ist nicht pessimistisch, aber erschöpft“",
-      "url": "https://www.philomag.de/artikel/klaus-hurrelmann-die-junge-generation-ist-nicht-pessimistisch-aber-erschoepft",
-      "description": "Der Soziologe Klaus Hurrelmann beobachtet seit Jahrzehnten, wie die junge Generation aufwächst. Ein Gespräch über psychische Narben, Pragmatismus und die Jugend als Seismograf der Gesellschaft.",
-      "date": "Fri, 06 Nov 2026",
+      "title": "Srđa Popović: „Schafft eine alternative Zukunft, bevor ihr die gegenwärtige zerstört“",
+      "url": "https://www.philomag.de/artikel/srda-popovic-schafft-eine-alternative-zukunft-bevor-ihr-die-gegenwaertige-zerstoert",
+      "description": "In Serbien hat das neue Parlament am Dienstag seine Arbeit aufgenommen. Darin stellt die Studentenliste, die mit ihrem Wahlsieg der nationalkonservativen Regierung von Aleksandar Vučić ein Ende gesetzt und somit den ersten Machtwechsel seit zwölf Jahren bewirkt hat, die größte Fraktion. Wodurch sich das besondere Vorgehen der Studentenliste auszeichnete und was andere Bewegungen von ihr lernen können, erklärt der Politikaktivist Srđa Popović im Gespräch.",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 20
+        "total": 25
       }
     },
     {
-      "title": "Denkzettelwahl",
-      "url": "https://www.philomag.de/artikel/denkzettelwahl",
-      "description": "Bei den Midterms haben die Demokraten die Mehrheit in beiden Kammern erlangt. Doch mit dem Jubel stellt sich auch die Frage, wie es weitergeht. Über vier Themen sollte man sich Gedanken machen, meint Dieter Thomä.",
-      "date": "Wed, 04 Nov 2026",
+      "title": "Susanne Langer und die Symbolphilosophie",
+      "url": "https://www.philomag.de/artikel/susanne-langer-und-die-symbolphilosophie",
+      "description": "Während man seit der Antike den Mythos aus dem Denken verbannt, faszinierte Susanne Langer die Erkenntnis, die jenseits der Sprache liegt — in Träumen, Kunst und Ritualen. Damit entwickelte die Schülerin Cassirers eine Auffassung von Philosophie, die uns nichtzuletzt ermöglicht, fernöstliche Denktraditionen besser zu verstehen.",
+      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Freundschaft – eine Ressource im Zeitalter von Donald Trump?",
-      "url": "https://www.philomag.de/artikel/freundschaft-eine-ressource-im-zeitalter-von-donald-trump",
-      "description": "Am Vorabend der US-Zwischenwahlen beleuchtet der Politikwissenschaftler Roger Berkowitz, der gerade den Essay „A World We Share“ („Eine gemeinsame Welt“) veröffentlicht hat, das derzeitige Klima in den Vereinigten Staaten und sieht in der Kultur der Freundschaft ein demokratisches Heilmittel.",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Die Kinder des Diogenes",
-      "url": "https://www.philomag.de/artikel/die-kinder-des-diogenes",
-      "description": "In Asien formiert sich eine Jugendbewegung gegen Arbeitsdruck und schlechte Politik. Sie könnte auch unsere Art zu leben, zu arbeiten und zu denken verändern.",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
+      "priority": 25,
       "scoreDetail": {
         "daily": 10,
-        "phil": 5,
+        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 25
       }
     },
     {
-      "title": "Der Erfinder des Abraums",
-      "url": "https://www.philomag.de/artikel/der-erfinder-des-abraums",
-      "description": "In seinem neuen Roman  Das tickende Herz  schickt Lutz Seiler einen Lyriker in die Steppe und lässt ihn dort nach Heilung suchen. Dichter, Weltretter, Erdbeschützer: Sie alle kommen in zwielichtigen Gemeinschaften zusammen – die in Seilers Werk immer wieder untergraben werden.",
-      "date": "Mon, 09 Nov 2026",
+      "title": "„Philosophieren heißt: Nie mit dem Zeitgeist gehen“",
+      "url": "https://www.philomag.de/artikel/philosophieren-heisst-nie-mit-dem-zeitgeist-gehen",
+      "description": "Das Philosophie Magazin wird 15 Jahre alt. Chefredakteurin Svenja Flaßpöhler und Magazin-Gründer Fabrice Gerschel werfen einen Blick zurück. Ein Gespräch über andere Zeiten, Philosophie als Kinderkriegen und Unterschiede zwischen Deutschland und Frankreich.",
+      "date": "Mon, 16 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Ein andres gutes Land",
+      "url": "https://www.philomag.de/artikel/ein-andres-gutes-land",
+      "description": "Die Kamerun Qrella Group verhandelt auf dem Album  Abteilung Blühende Landschaften  das deutschdeutsche Verhältnis.",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Relikt der Gabe",
+      "url": "https://www.philomag.de/artikel/relikt-der-gabe",
+      "description": "Festgelegte Trinkgeldbeträge an EC-Geräten mehren sich. Doch die Sozialität stiftende Funktion der Gabe geht auf diese Weise verloren.",
+      "date": "Thu, 19 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
+      }
+    },
+    {
+      "title": "Die Rückkehr des Gemeinen",
+      "url": "https://www.philomag.de/artikel/die-rueckkehr-des-gemeinen",
+      "description": "Die US-Rechte, traditionell ein Hort des Libertarismus, entdeckt gerade den Gemeinsinn für sich, meint Wolfram Eilenberger.",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Der Zerrissene",
+      "url": "https://www.philomag.de/artikel/der-zerrissene",
+      "description": "In der Langhalslaute verdichtete sich Ata Cananis Leben. Geschenkt wurde ihm das Instrument in seiner Jugend vom türkischen Vater. Doch erst vor ein paar Jahren veröffentlichte der hochbegabte Musiker sein erstes Album, anlässlich dessen unser Autor ihn 2021 porträtierte. Nun ist Ozan Ata Canani im Alter von 63 Jahren gestorben.",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
       "title": "Das schwarz-rot-goldene Symbol",
       "url": "https://www.philomag.de/artikel/das-schwarz-rot-goldene-symbol",
-      "description": "Die Deutschlandflagge wird vor allem mit rechten bis rechtsextremen Ansichten assoziiert. Zugleich scheinen wir sie in staatlichen Kontexten und bei Sportveranstaltungen als Symbol eines demokratischen Landes zu akzeptieren. Dass darin kein Widerspruch besteht, lässt sich mit ihren historischen Ursprüngen erklären.",
+      "description": "Die Deutschlandflagge wird oftmals mit rechten bis rechtsextremen Ansichten assoziiert. Zugleich scheinen wir sie in staatlichen Kontexten und bei Sportveranstaltungen als Symbol eines demokratischen Landes zu akzeptieren. Dass darin kein Widerspruch besteht, lässt sich mit ihren historischen Ursprüngen erklären.",
       "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -184,54 +232,6 @@
       "url": "https://www.philomag.de/artikel/james-talarico-der-glaube-im-dienst-des-progressismus",
       "description": "James Talarico, der bei den Zwischenwahlen zum demokratischen Senator von Texas gewählt wurde, ist eine der Leitfiguren der Erneuerung der amerikanischen Linken. Ein Porträt.",
       "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Nora Bossong: „Die christliche Hoffnung ist keine reine Jenseitshoffnung“",
-      "url": "https://www.philomag.de/artikel/nora-bossong-die-christliche-hoffnung-ist-keine-reine-jenseitshoffnung",
-      "description": "Der Ruf des Christentums hat gelitten, gilt es doch vielen als Hort des Machtmissbrauchs und der Illusionen. Doch richtig verstanden, meint die Schriftstellerin und Katholikin Nora Bossong, eröffne der Glaube Zugang zu einer „Welt mit anderen Mitteln“. Ein Gespräch über die Kraft des Gebets, die christliche Umkehrung der Machtverhältnisse und notwendige Reformen der katholischen Kirche.",
-      "date": "Tue, 10 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Ein alter Tee, neu aufgegossen",
-      "url": "https://www.philomag.de/artikel/ein-alter-tee-neu-aufgegossen",
-      "description": "Das grüne Trendgetränk ist zum Lifestyle-Symbol geworden. Kehrt die Matchakultur damit zurück zu ihren elitären Wurzeln im feudalen Japan? Eine Spurensuche.",
-      "date": "Mon, 09 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Gibt es einen Besitzinstinkt?",
-      "url": "https://www.philomag.de/artikel/gibt-es-einen-besitzinstinkt",
-      "description": "Ist Eigentum in der menschlichen Natur verankert oder vielmehr ein soziales Konstrukt? Um eine Antwort darauf zu finden, muss man dem französischen Philosophen Frédéric Gros zufolge diese allzu vereinfachende Gegenüberstellung hinter sich lassen.",
-      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

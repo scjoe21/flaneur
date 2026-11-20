@@ -1,22 +1,22 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-15T21:44:13.596946+00:00",
+  "fetchedAt": "2026-11-20T12:24:13.220286+00:00",
   "items": [
     {
-      "title": "Voir ce que l’on voit : quand le “bonheur public” fait son retour en France",
-      "url": "https://www.philomag.com/articles/voir-ce-que-lon-voit-quand-le-bonheur-public-fait-son-retour-en-france",
+      "title": "Srdja Popovic : “Pour que les jeunes prennent le pouvoir, la colère ne suffit pas”",
+      "url": "https://www.philomag.com/articles/srdja-popovic-pour-que-les-jeunes-prennent-le-pouvoir-la-colere-ne-suffit-pas",
       "description": "",
-      "date": "Thu, 05 Nov 2026",
+      "date": "Mon, 16 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 5,
       "scoreDetail": {
         "daily": 5,
-        "phil": 5,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -30,22 +30,6 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Notre chroniqueuse Jennifer Tamas reçoit le prix Femina essai pour “Barbe Bleue, contre-enquête”",
-      "url": "https://www.philomag.com/articles/notre-chroniqueuse-jennifer-tamas-recoit-le-prix-femina-essai-pour-barbe-bleue-contre",
-      "description": "",
-      "date": "Wed, 04 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -97,6 +81,54 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "“Hunger Games” : les sources du récit, les clichés du succès",
+      "url": "https://www.philomag.com/articles/hunger-games-les-sources-du-recit-les-cliches-du-succes",
+      "description": "",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "David Bessis : “En mathématiques, l’être humain maîtrise 0,1 % des articles, l’IA connaît tout”",
+      "url": "https://www.philomag.com/articles/david-bessis-en-mathematiques-letre-humain-maitrise-01-des-articles-lia-connait-tout",
+      "description": "",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "L’histoire est-elle un éternel recommencement ?",
+      "url": "https://www.philomag.com/articles/lhistoire-est-elle-un-eternel-recommencement",
+      "description": "",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -200,38 +232,6 @@
       "url": "https://www.philomag.com/articles/que-devons-nous-ceux-qui-nous-ont-precedes",
       "description": "",
       "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“La victoire démocrate est si massive que Trump ne peut pas la remettre en cause. Il y a là une leçon importante”",
-      "url": "https://www.philomag.com/articles/la-victoire-democrate-est-si-massive-que-trump-ne-peut-pas-la-remettre-en-cause-il-y-la",
-      "description": "",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "James Talarico, la foi au service du progressisme",
-      "url": "https://www.philomag.com/articles/james-talarico-la-foi-au-service-du-progressisme",
-      "description": "",
-      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,12 +1,28 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-11-15T21:44:12.383481+00:00",
+  "fetchedAt": "2026-11-20T12:24:12.575240+00:00",
   "items": [
+    {
+      "title": "Erving Goffman, le sociologue de la vie quotidienne : Stigmate : dévier de la norme, s’y conformer ou la contourner",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/stigmate-devier-de-la-norme-s-y-conformer-ou-la-contourner-8582152",
+      "description": "durée : 00:58:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans les années 60, après son enquête en hôpital psychiatrique, Erving Goffman s'intéresse à la question du stigmate. Cette notion va déplacer son regard de l'institution aux interactions dans l'espace public. Mais comment regarder ce travail aujourd'hui, avec les évolutions de la sociologie ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies ",
+      "date": "Thu, 19 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 52,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 15,
+        "flaneur": 12,
+        "novelty": 0,
+        "total": 52
+      }
+    },
     {
       "title": "Louisa Yousfi, écrivaine, sur Brecht : \"Le travail de l'écrivain engagé se situe sur le fil de la traîtrise\"",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/louisa-yousfi-essayiste-sur-me-ti-livre-des-retournements-de-bertolt-brecht-7997063",
-      "description": "durée : 00:59:04  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Découvrons pourquoi ce texte (assez méconnu) de Bertolt Brecht a tout d'un livre de sagesse de philosophie antique chinoise, mais est en fait une méthode de praxis politique, et en quoi il inspire la pratique d'écrivaine militante de Louisa Yousfi.  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Louisa Yousfi Autrice, journaliste \n\nVous aimez ce podcast ? Pour écouter tous les épi",
+      "description": "durée : 00:59:04  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Découvrons pourquoi \"Me Ti\", ce texte (assez méconnu) de Bertolt Brecht a tout d'un livre de sagesse de philosophie antique chinoise, mais est en fait une méthode de praxis politique, et en quoi il inspire la pratique d'écrivaine militante de Louisa Yousfi.  - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Louisa Yousfi Autrice, journaliste \n\nVous aimez ce podcast ? Pour écouter tou",
       "date": "Fri, 13 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -20,25 +36,9 @@
       }
     },
     {
-      "title": "Adam Smith au pouvoir : il n'y a pas que l'argent qui compte",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/adam-smith-au-pouvoir-l-economie-au-service-de-la-societe-8386934",
-      "description": "durée : 01:00:02  - Les Philosophes au pouvoir - par : Laurence Devillairs - Et si Adam Smith était bien plus qu'un père du libéralisme économique ? Pour lui, l'économie doit servir la société et s'appuyer sur la sympathie, la justice et le travail. Comment réconcilier aujourd'hui croissance économique et bien commun ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Laurie Bréban Maîtresse de conférences et membre du laboratoire Phare à l'Université Paris 1 Panthéon-Sorbonne, Simon B",
-      "date": "Sat, 07 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 40,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 15,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 40
-      }
-    },
-    {
       "title": "Christine de Pizan, philosophe de \"La Cité des dames\" : La vertu contre la brûlure de l’eros",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/la-vertu-contre-la-brulure-de-l-eros-4803757",
-      "description": "durée : 00:58:35  - Avec philosophie - par : Géraldine Mosna-Savoye - Christine de Pizan a beaucoup écrit sur l'amour. Mais attention, pas n'importe lequel... Critique du fin’amor (l'amour courtois), dangereux pour les femmes et leur place dans la société, elle valorise la vertu comme force morale, jusqu'à la charité. De là à penser une vraie philosophie de l'esprit !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline ",
+      "description": "durée : 00:58:35  - Avec philosophie - par : Géraldine Mosna-Savoye - Christine de Pizan a beaucoup écrit sur l'amour. Mais attention, pas n'importe lequel... Critique de la fin’amor (l'amour courtois) dangereux pour les femmes, elle valorise la vertu comme force morale, jusqu'à la charité. De là à penser une vraie philosophie de l'esprit !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Sarah Dela",
       "date": "Thu, 12 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -52,26 +52,42 @@
       }
     },
     {
-      "title": "Christine de Pizan, philosophe de \"La Cité des dames\" : Quand Christine se met en scène : l’autofiction avant l’heure",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/quand-christine-se-met-en-scene-l-autofiction-avant-l-heure-4093696",
-      "description": "durée : 00:57:56  - Avec philosophie - par : Géraldine Mosna-Savoye - Poésie, traité politique, morale, Christine de Pizan fut au XVème siècle une écrivaine prolifique et dans des registres très différents. Mais le point commun, c'est le \"je\" au coeur de tous ses textes, la façon dont elle se met en scène, mais aussi son souci de l'image qu'elle renvoie !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invit",
-      "date": "Tue, 10 Nov 2026",
+      "title": "À qui faire confiance ? 2/3 : Pourquoi parle-t-on de contrat social ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/pourquoi-parle-t-on-de-contrat-social-7185654",
+      "description": "durée : 00:03:51  - Le Pourquoi du comment : philo - par : Frédéric Worms - La confiance a besoin d'être instituée et protégée. Il ne s'agit pas seulement de procurer un bien, mais aussi de respecter un être et sa liberté, comme l'ont postulé Thomas Hobbes et Jean-Jacques Rousseau \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Tue, 17 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 30,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 20,
+        "daily": 20,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 30
       }
     },
     {
-      "title": "Attention mouvement ! 3/3 : Pourquoi parle-t-on de mouvement social ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mercredi-04-novembre-2026-4884223",
-      "description": "durée : 00:03:24  - Le Pourquoi du comment : philo - par : Frédéric Worms - Quand un groupe manifeste, en quel sens parlons-nous de mouvement ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 04 Nov 2026",
+      "title": "À qui faire confiance ? 1/3 : Pourquoi la confiance est-elle au coeur de nos vies ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-lundi-16-novembre-2026-2187129",
+      "description": "durée : 00:03:51  - Le Pourquoi du comment : philo - par : Frédéric Worms - Pour comprendre la question il faut partir de son opposé : qu'est-ce que le contraire de la confiance ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
+      "title": "À qui faire confiance ? 3/3 : Comment peut-on avoir confiance dans l'avenir ?",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/comment-peut-on-avoir-confiance-dans-l-avenir-2812163",
+      "description": "durée : 00:03:29  - Le Pourquoi du comment : philo - par : Frédéric Worms - Ce qui rend la confiance difficile c'est aussi que nous l'attendons : nous avons besoin de voir une garantie de cette bienveillance pour l'avenir \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
@@ -84,7 +100,55 @@
       }
     },
     {
-      "title": "Machiavel au pouvoir : L’art de gouverner par temps de crise",
+      "title": "Erving Goffman, le sociologue de la vie quotidienne : L'asile : quand l’individu est broyé par l’institution",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/l-asile-quand-l-individu-est-broye-par-l-institution-4686277",
+      "description": "durée : 00:58:27  - Avec philosophie - par : Géraldine Mosna-Savoye - Le sociologue américain Erving Goffman s'est intéressé à l'asile en y enquêtant dans les années 1950. Il a étudié de près la façon dont le malade vivait subjectivement ses rapports avec l'environnement hospitalier. Son constat ? Une institution totale qui organise et façonne l'aliénation...  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Manon de La Selle, Carla Michel, Anaïs Ysebaert - invités : Nicolas Henckes Dir",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 10,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "Erving Goffman, le sociologue de la vie quotidienne : Portrait du sociologue qui voyait la vie comme un jeu de rôles",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/passez-vous-vos-vies-a-jouer-des-roles-1467557",
+      "description": "durée : 00:58:54  - Avec philosophie - par : Géraldine Mosna-Savoye - Dans les années 1950, le sociologue nord-américain Erving Goffman (1922-1982) analysait le monde en détail, comme s'il avait une caméra à l'épaule. Ce n'est sûrement pas un hasard s'il est devenu le penseur de nos interactions quotidiennes, celles qui finalement définissent l'ordre social selon lui.  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline ",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 23,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 23
+      }
+    },
+    {
+      "title": "Hervé Mazurel, historien des sensibilités, sur l'écrivain Jorge Luis Borges",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/herve-mazurel-historien-des-sensibilites-sur-l-ecrivain-jorge-luis-borges-5515863",
+      "description": "durée : 00:59:05  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Comment l'écrivain Borges a-t-il influencé la pensée de l'historien du corps, des sensibilités et des imaginaires Hervé Mazurel ?   - équipe : Manon de La Selle, Nicolas Berger, Anaïs Ysebaert, Carla Michel - invités : Hervé Mazurel Historien des affects et des imaginaires, maître de conférences à l’Université de Bourgogne \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio Franc",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Machiavel au pouvoir : l’art de gouverner par temps de crise",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/les-philosophes-au-pouvoir/machiavel-au-pouvoir-l-art-de-gouverner-en-temps-de-crise-3977777",
       "description": "durée : 00:59:45  - Les Philosophes au pouvoir - par : Laurence Devillairs - Machiavel est-il vraiment le maître du cynisme politique ? Face aux crises et à l’incertitude, il défend un art de gouverner fondé sur le réalisme et l’adaptation. Jusqu’où peut-on affranchir la politique de la morale ?  - équipe : Thierry Beauchamp, Souad Boukhorssa - invités : Jean-Louis Fournel Historien de la pensée politique italienne de la renaissance, traducteur, professeur à l'Université Paris 8, Julien Le Mauff",
       "date": "Sat, 14 Nov 2026",
@@ -100,7 +164,7 @@
       }
     },
     {
-      "title": "Pourquoi la poétique a-t-elle une histoire ?",
+      "title": "Poétique de notre temps 3/3 : Pourquoi la poétique a-t-elle une histoire ?",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mercredi-11-novembre-2026-2712120",
       "description": "durée : 00:03:47  - Le Pourquoi du comment : philo - par : Frédéric Worms - Il y a une histoire de la tragédie grecque, mais il y a aussi une histoire de la poétique \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
       "date": "Wed, 11 Nov 2026",
@@ -116,35 +180,19 @@
       }
     },
     {
-      "title": "Comment la poétique pourrait-elle être une science ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mardi-10-novembre-2026-3572892",
-      "description": "durée : 00:03:56  - Le Pourquoi du comment : philo - par : Frédéric Worms - On oppose souvent la science  et l'art d'une manière générale. Pourtant, il y a toujours eu des poétiques qui sont aussi des sciences de l'expression humaine \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Tue, 10 Nov 2026",
+      "title": "Erving Goffman, le sociologue de la vie quotidienne : Embarras et faux pas : quand nos interactions vacillent",
+      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/embarras-et-faux-pas-quand-nos-interactions-vacillent-3346685",
+      "description": "durée : 00:59:25  - Avec philosophie - par : Géraldine Mosna-Savoye - Si pour le sociologue Erving Goffman, les interactions induisent un ordre social, alors que se passe-t-il lorsque celles-ci vacillent ? Que révèlent les moments gênants et maladroits qui ponctuent nos quotidiens de l'organisation de notre monde ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Céline Bonicco-Donato Maître de conf",
+      "date": "Tue, 17 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 20,
+      "priority": 19,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 20
-      }
-    },
-    {
-      "title": "Pourquoi la poétique surgit-elle de la vie ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-lundi-09-novembre-2026-1151630",
-      "description": "durée : 00:03:46  - Le Pourquoi du comment : philo - par : Frédéric Worms - De quoi sommes-nous les acteurs à travers cette action qu'est la poésie ? \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Mon, 09 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
+        "total": 19
       }
     },
     {
@@ -164,35 +212,19 @@
       }
     },
     {
-      "title": "Pour une philosophie de la lecture 3/3 : A-t-on vraiment lu tant qu’on n’a pas relu ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/a-t-on-vraiment-lu-tant-qu-on-n-a-pas-relu-4654816",
-      "description": "durée : 00:58:07  - Avec philosophie - par : Géraldine Mosna-Savoye - Et vous, avez-vous déjà relu votre roman préféré, celui qui vous a laissé la plus grande des impressions ? Que recherche-t-on dans une relecture ? Une émotion, ou un moment ? Et si relire était le seul moyen de lire, vraiment ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Laure Murat Historienne et écrivaine française \n\nVous a",
-      "date": "Wed, 04 Nov 2026",
+      "title": "L'IA, ou la honte d'être humain selon le philosophe Günther Anders",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:03:10  - Le Fil philo - Face à des machines de plus en plus performantes, les humains éprouvent parfois un sentiment d'infériorité. Le philosophe Günther Anders a théorisé cette \"honte prométhéenne\" dès les années 1950.  - équipe : Virginie Le Duault, Camille Renard \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Thu, 19 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 5,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 15
-      }
-    },
-    {
-      "title": "Christine de Pizan, philosophe de \"La Cité des dames\" : Aux fondations : bâtir un rempart contre la misogynie",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/aux-fondations-batir-un-rempart-contre-la-misogynie-8164254",
-      "description": "durée : 00:58:45  - Avec philosophie - par : Géraldine Mosna-Savoye - Connaissez-vous Christine de Pizan ? C’est pourtant à elle que l’on doit, au début du XVème siècle, \"La Cité des dames\", un texte exceptionnel dans lequel elle imagine, en son nom, une cité exclusivement féminine, faite de guerrières, de savantes et de créatrices. Et loin des stéréotypes misogynes !  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline ",
-      "date": "Mon, 09 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
+        "total": 5
       }
     },
     {
@@ -209,38 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "L'IA, ou la honte d'être humain selon le philosophe Günther Anders",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/le-fil-philo-du-jeudi-05-novembre-2026-3835183",
-      "description": "durée : 00:03:10  - Le Fil philo - par : Anne Alombert - Face à des machines de plus en plus performantes, les humains éprouvent parfois un sentiment d'infériorité. Le philosophe Günther Anders a théorisé cette \"honte prométhéenne\" dès les années 1950.  - équipe : Thomas Jost, Massimo Bellini, Elise Leu, Camille Renard, Virginie Le Duault \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "Vinciane Despret, philosophe, sur Isabelle Stengers : cratéropes, rire et invention des sciences",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-souffle-de-la-pensee/vinciane-despret-philosophe-sur-l-invention-des-sciences-modernes-d-isabelle-stengers-3487228",
-      "description": "durée : 00:58:47  - Le Souffle de la pensée - par : Géraldine Mosna-Savoye - Vinciane Despret revient sur un texte qui l'a profondément marquée, \"L'Invention des sciences modernes\" de la philosophe Isabelle Stengers.  - équipe : Manon de La Selle, Anaïs Ysebaert, Nicolas Berger - invités : Vinciane Despret Philosophe, professeure à l’université de Liège \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

@@ -1,7 +1,7 @@
 {
   "sourceId": "psyche",
   "sourceName": "Psyche",
-  "fetchedAt": "2026-11-15T21:44:32.109003+00:00",
+  "fetchedAt": "2026-11-20T12:24:37.419755+00:00",
   "items": [
     {
       "title": "Why ‘patient influencers’ should come with a health warning",
@@ -16,22 +16,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "How to take notes that actually help you learn",
-      "url": "https://psyche.co/guides/how-to-take-notes-that-actually-help-you-learn",
-      "description": "If you want to remember and understand, copying isn’t enough. An expert on learning shares how to make notes work for you - by Cynthia Nebel Read on Psyche",
-      "date": "Thu, 05 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 10,
         "total": 30
       }
     },
@@ -52,19 +36,35 @@
       }
     },
     {
-      "title": "How psychology’s classic studies misled us about the self",
-      "url": "https://psyche.co/ideas/its-time-to-ditch-the-empty-self-view-of-human-psychology",
-      "description": "Milgram, Zimbardo and recent priming studies suggested we’re highly malleable. They underestimated how stable we really are - by Jack W Klein & William B Swann Read on Psyche",
-      "date": "Mon, 02 Nov 2026",
+      "title": "The cultural rules that define us take shape in our homes",
+      "url": "https://psyche.co/ideas/the-cultural-rules-that-define-us-take-shape-in-our-homes",
+      "description": "The physical space of the home says a lot about how people learn to live. This becomes even clearer when you travel - by Oliver Sweet Read on Psyche",
+      "date": "Tue, 17 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 24,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "The end of Xanadu",
+      "url": "https://psyche.co/turning-points/the-house-my-father-built-was-resilient-and-rickety-like-him",
+      "description": "The house my father built taught me to expect disaster. Seeing it come down was a release - by Henrick Karoliszyn Read on Psyche",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
-        "novelty": 5,
-        "total": 24
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -132,42 +132,26 @@
       }
     },
     {
+      "title": "Traces of home",
+      "url": "https://psyche.co/turning-points/a-screenshot-is-precious-when-my-family-in-iran-is-out-of-reach",
+      "description": "When war cut the link to my family in Iran, the smallest glimmer of their life became dear to me - by Elaheh Shabani Afarani Read on Psyche",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 14,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 14
+      }
+    },
+    {
       "title": "Eye on the mark",
       "url": "https://psyche.co/portraits/the-ex-cop-on-a-mission-to-see-fortune-tellers-arrested",
       "description": "Bob Nygaard, a retired New York policeman, exposes fortune-tellers who profit from turning ordinary human longing into vulnerability. What makes him so good at it? - by Shayla Love Read on Psyche",
       "date": "Thu, 12 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Orbites",
-      "url": "https://psyche.co/videos/in-my-dreams-i-can-see-a-blind-womans-rich-sensory-world",
-      "description": "‘Imagining is another kind of seeing’: immerse in the exquisite sensory world of a woman with impaired vision - Directed by Sarah Seené Watch on Psyche",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "That feeling of values crumbling has a name: civic grief",
-      "url": "https://psyche.co/ideas/that-feeling-of-values-crumbling-has-a-name-civic-grief",
-      "description": "Fairness, dignity and shared obligation are precious. Grieving their loss is a first step toward doing something about it - by Rebecca Lewandowski Read on Psyche",
-      "date": "Tue, 03 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -196,6 +180,38 @@
       }
     },
     {
+      "title": "Against the tide",
+      "url": "https://psyche.co/videos/the-trade-offs-of-life-in-a-remote-off-the-grid-island-community",
+      "description": "After a breakup, Gill contemplates a new, off-grid life on a remote Scottish island. Will the community accept her? - Directed by Giulia Candussi Watch on Psyche",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "After Ma and Pa",
+      "url": "https://psyche.co/turning-points/after-my-parents-died-why-did-i-hold-on-to-their-home",
+      "description": "My parents were gone, yet I held on to their apartment. Could I honour the past and learn to let go? - by Susan Hornik Read on Psyche",
+      "date": "Mon, 16 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "The power of group thought",
       "url": "https://psyche.co/videos/what-the-flight-paths-of-pigeons-tell-us-about-collective-intelligence",
       "description": "Are groups smarter than the sum of their parts? What homing pigeons’ flight paths can teach us about ‘weighted democracy’ - Video by The Well and the John Templeton Foundation Watch on Psyche",
@@ -216,22 +232,6 @@
       "url": "https://psyche.co/turning-points/what-does-motherhood-look-like-without-my-best-friend",
       "description": "I lost my best friend just as motherhood began shaking the very roots of my being - by Ashwaq Masoodi Read on Psyche",
       "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Baby heaven",
-      "url": "https://psyche.co/turning-points/how-a-revelation-at-home-made-me-rethink-delusion",
-      "description": "As a psychologist, I’ve long pondered what counts as ‘delusional’. A revelation at home made it personal - by Ryan McKay Read on Psyche",
-      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-fr-philo",
   "sourceName": "The Conversation France — Philosophie",
-  "fetchedAt": "2026-11-15T21:44:36.111006+00:00",
+  "fetchedAt": "2026-11-20T12:24:41.146397+00:00",
   "items": [
     {
       "title": "« Si je te punis, c’est pour ton bien », vraiment ? Contre l’adultisme, penser une éducation mutuelle",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "Transplanter au Québec les rituels et la philosophie du thé chinois",
-      "url": "https://theconversation.com/transplanter-au-quebec-les-rituels-et-la-philosophie-du-the-chinois-274463",
-      "description": "",
-      "date": "2026-06-12",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Les séries de Monet, méditations sur le temps",
       "url": "https://theconversation.com/les-series-de-monet-meditations-sur-le-temps-293564",
       "description": "",
@@ -113,6 +97,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Pour Thomas Hobbes, la curiosité est le propre de l’homme et le ressort de toute innovation",
+      "url": "https://theconversation.com/pour-thomas-hobbes-la-curiosite-est-le-propre-de-lhomme-et-le-ressort-de-toute-innovation-287011",
+      "description": "",
+      "date": "2026-11-19",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
