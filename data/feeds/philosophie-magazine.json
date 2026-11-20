@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-20T12:24:13.220286+00:00",
+  "fetchedAt": "2026-11-20T22:12:35.205590+00:00",
   "items": [
     {
       "title": "Srdja Popovic : “Pour que les jeunes prennent le pouvoir, la colère ne suffit pas”",
@@ -84,10 +84,10 @@
       }
     },
     {
-      "title": "“Hunger Games” : les sources du récit, les clichés du succès",
-      "url": "https://www.philomag.com/articles/hunger-games-les-sources-du-recit-les-cliches-du-succes",
+      "title": "C’était vieux avant : la jeunesse est-elle devenue “post-réactionnaire” ?",
+      "url": "https://www.philomag.com/articles/cetait-vieux-avant-la-jeunesse-est-elle-devenue-post-reactionnaire",
       "description": "",
-      "date": "Wed, 18 Nov 2026",
+      "date": "Fri, 20 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -102,6 +102,22 @@
     {
       "title": "David Bessis : “En mathématiques, l’être humain maîtrise 0,1 % des articles, l’IA connaît tout”",
       "url": "https://www.philomag.com/articles/david-bessis-en-mathematiques-letre-humain-maitrise-01-des-articles-lia-connait-tout",
+      "description": "",
+      "date": "Wed, 18 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "“Hunger Games” : les sources du récit, les clichés du succès",
+      "url": "https://www.philomag.com/articles/hunger-games-les-sources-du-recit-les-cliches-du-succes",
       "description": "",
       "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/michael-walzer-nous-assistons-au-debut-de-la-fin-de-lamerique-de-trump",
       "description": "",
       "date": "Sat, 07 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Que devons-nous à ceux qui nous ont précédés ?",
-      "url": "https://www.philomag.com/articles/que-devons-nous-ceux-qui-nous-ont-precedes",
-      "description": "",
-      "date": "Fri, 06 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

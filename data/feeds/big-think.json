@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-20T12:24:38.932580+00:00",
+  "fetchedAt": "2026-11-20T22:12:56.079187+00:00",
   "items": [
     {
       "title": "How to navigate the world with two halves of one brain",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Did men evolve to fight each other? Scientists can’t agree.",
+      "url": "https://bigthink.com/mind-behavior/did-men-evolve-to-fight-each-other-scientists-cant-agree/",
+      "description": "Anthropologist David Puts was a graduate student trying to decide on a dissertation topic when inspiration struck him at a mall food court. While eating a cheeseburger, he overheard two men behind him speaking in unusually deep voices. “I turned around to see what was happening, and there was a young, good-looking female nearby,” Puts said.  \n His initial thought was that human males evolved deep voices to attract women, but he soon began to wonder whether they might also help establish dominanc",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/root-male-violence_compressed.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
       "title": "Ask Ethan: Do polonium radiohalos support a young Earth?",
       "url": "https://bigthink.com/starts-with-a-bang/polonium-radiohalos-young-earth/",
       "description": "One of the most beautiful things about science is that if even one single piece of robust evidence comes along that contradicts even our most deeply held ideas about reality, it means that our current way of thinking about things must be revised. The observations of Mercury’s orbit in the late 1800s led to the overthrow of Newtonian gravity; the observation that energy was quantized into discrete entities led to the birth of quantum physics; the observation of ultra-faint, variable stars in Andr",
@@ -129,22 +145,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "Astronomers weigh the Milky Way’s mass at long last",
-      "url": "https://bigthink.com/starts-with-a-bang/astronomers-weigh-milky-way/",
-      "description": "Astronomers have long since  mapped out the Milky Way’s starlight . \n \n \n \n Behind the dome of a series of European Southern Observatory telescopes, the Milky Way towers in the southern skies, flanked by the Large and Small Magellanic Clouds, at right. Although there are several thousand stars and the plane of the Milky Way all visible to human eyes, there are only four galaxies beyond our own that the typical unaided human eye can detect. Although observing the normal matter and starlight withi",
-      "date": "Mon, 16 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/UGC_12158.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 4,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 4
       }
     },
     {

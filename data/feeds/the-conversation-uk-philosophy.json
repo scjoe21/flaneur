@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-11-20T12:24:49.311635+00:00",
+  "fetchedAt": "2026-11-20T22:13:06.244803+00:00",
   "items": [
     {
       "title": "Guide to the classics: Machiavelli’s ‘audaciously honest’ The Prince reveals how politics works",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Thinking about life inside: how performance is creating space for a discussion of crime and punishment",
-      "url": "https://theconversation.com/thinking-about-life-inside-how-performance-is-creating-space-for-a-discussion-of-crime-and-punishment-282985",
-      "description": "",
-      "date": "2026-07-23",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -113,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "Is it genuine love – or obsessive passion? Kierkegaard, the father of existentialism, had some thoughts",
+      "url": "https://theconversation.com/is-it-genuine-love-or-obsessive-passion-kierkegaard-the-father-of-existentialism-had-some-thoughts-291950",
+      "description": "",
+      "date": "2026-11-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

@@ -1,288 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W22",
-      "tags": [
-        "쾌락철학",
-        "욕망의생물학",
-        "에피쿠로스",
-        "주의와윤리",
-        "시몬베유",
-        "타인과의관계",
-        "부모됨",
-        "예측불가능성",
-        "계획과우연",
-        "급진화",
-        "알고리즘",
-        "남성성",
-        "평화주의",
-        "전쟁윤리",
-        "정치적책임",
-        "법과권력",
-        "실질적평등",
-        "민주주의의균열",
-        "악의매혹",
-        "도스토옙스키",
-        "도덕적양가성",
-        "산만함",
-        "파스칼",
-        "자기직면",
-        "미디어이론",
-        "탈신체화",
-        "디지털환경",
-        "시민감시",
-        "공공선",
-        "공리주의적설계",
-        "무아",
-        "책임귀속",
-        "불교철학",
-        "자기규율",
-        "자율성",
-        "생산성문화",
-        "창의성",
-        "제약의역설",
-        "형식과자유",
-        "경제패러다임",
-        "과학적믿음",
-        "반증과이념",
-        "침묵의윤리",
-        "언어행위",
-        "관계와책임"
-      ],
-      "articles": [
-        {
-          "title": "배고프지 않으면 삶도 맛이 없다",
-          "summary": "식욕을 지운 약이 삶의 쾌락 전체를 지워버린다면, 욕망은 짐인가 선물인가?",
-          "philosopher": "에피쿠로스 (Epicurus)",
-          "philosophers": [
-            "에피쿠로스 (Epicurus)",
-            "캉길렘 (Georges Canguilhem)"
-          ],
-          "tags": [
-            "쾌락철학",
-            "욕망의생물학",
-            "에피쿠로스"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/anhedonie-ozempic-labsence-de-faim-nous-prive-t-elle-du-gout-de-la-vie",
-          "originalTitle": "“Anhédonie Ozempic” : l’absence de faim nous prive-t-elle du goût de la vie ?"
-        },
-        {
-          "title": "주의를 기울인다는 것, 그 용기",
-          "summary": "타인을 진짜로 본다는 것은 왜 이렇게 힘들고, 왜 이렇게 중요한가?",
-          "philosopher": "시몬 베유 (Simone Weil)",
-          "philosophers": [
-            "시몬 베유 (Simone Weil)"
-          ],
-          "tags": [
-            "주의와윤리",
-            "시몬베유",
-            "타인과의관계"
-          ],
-          "sourceUrl": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/un-geste-simple-pour-un-monde-plus-juste-selon-la-philosophe-simone-weil-6200426",
-          "originalTitle": "Vivre, mode d'emploi : Le geste le plus simple pour un monde plus juste, selon la philosophe Simone Weil"
-        },
-        {
-          "title": "아이는 왜 내 계획을 망치는가",
-          "summary": "아버지가 된다는 것은 통제할 수 없는 타자와 함께 살기로 동의하는 일이다.",
-          "philosopher": "사르트르 (Jean-Paul Sartre)",
-          "philosophers": [
-            "사르트르 (Jean-Paul Sartre)",
-            "레비나스 (Emmanuel Levinas)"
-          ],
-          "tags": [
-            "부모됨",
-            "예측불가능성",
-            "계획과우연"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/lenfant-sechine-faire-derailler-nos-agendas-comment-vivre-la-paternite-lexperience-du",
-          "originalTitle": "“L’enfant s’échine à faire dérailler nos agendas” Comment vivre la paternité ? L'expérience du philosophe Pierre Zaoui"
-        },
-        {
-          "title": "클릭 한 번으로 급진화되는 남성들",
-          "summary": "왜 길을 잃은 청년들은 혐오의 언어에서 위안을 찾는가?",
-          "philosopher": "에리히 프롬 (Erich Fromm)",
-          "philosophers": [
-            "에리히 프롬 (Erich Fromm)",
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "급진화",
-            "알고리즘",
-            "남성성"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=_7syVDrYZoY",
-          "originalTitle": "Radikalisierung per Mausklick: Warum Andrew Tate so erfolgreich ist | NANO Doku"
-        },
-        {
-          "title": "평화주의는 지금 무용한가",
-          "summary": "전쟁이 일상이 된 시대, 평화를 원한다는 것은 무엇을 의미하는가?",
-          "philosopher": "홉스 (Thomas Hobbes)",
-          "philosophers": [
-            "홉스 (Thomas Hobbes)",
-            "칸트 (Immanuel Kant)"
-          ],
-          "tags": [
-            "평화주의",
-            "전쟁윤리",
-            "정치적책임"
-          ],
-          "sourceUrl": "https://www.deutschlandfunkkultur.de/philosophie-des-friedens-pazifismus-in-der-zeitenwende-100.html",
-          "originalTitle": "Philosophie des Friedens - Pazifismus in der Zeitenwende"
-        },
-        {
-          "title": "법은 정말 평등한가",
-          "summary": "민주주의 법 안에 숨어있는 권력관계를 우리는 왜 보지 못하는가?",
-          "philosopher": "부르디외 (Pierre Bourdieu)",
-          "philosophers": [
-            "부르디외 (Pierre Bourdieu)",
-            "발터 벤야민 (Walter Benjamin)"
-          ],
-          "tags": [
-            "법과권력",
-            "실질적평등",
-            "민주주의의균열"
-          ],
-          "sourceUrl": "https://www.deutschlandfunkkultur.de/das-recht-des-staerkeren-wie-demokratisch-ist-unser-gesetz-100.html",
-          "originalTitle": "Macht und Demokratie - Die Ordnung hinter den Gesetzen"
-        },
-        {
-          "title": "왜 우리는 악인에게 끌리는가",
-          "summary": "선보다 악이 더 생생하게 느껴지는 이유, 도스토옙스키가 그 비밀을 알고 있다",
-          "philosopher": "발터 벤야민 (Walter Benjamin)",
-          "philosophers": [
-            "발터 벤야민 (Walter Benjamin)"
-          ],
-          "tags": [
-            "악의매혹",
-            "도스토옙스키",
-            "도덕적양가성"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=85C6jNWu3vM",
-          "originalTitle": "Perché il MALE ci affascina? Dostoevskij e l'ambivalenza della Vita | Cogitata con Walter Siti"
-        },
-        {
-          "title": "산만함을 선택하는 시대의 철학",
-          "summary": "알림을 끄지 못하는 우리는 무엇으로부터 도망치고 있는가",
-          "philosopher": "파스칼 (Blaise Pascal)",
-          "philosophers": [
-            "파스칼 (Blaise Pascal)"
-          ],
-          "tags": [
-            "산만함",
-            "파스칼",
-            "자기직면"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=6rxQygVxwJU",
-          "originalTitle": "Il Coraggio di non Distrarsi: la Filosofia come pratica di Vita"
-        },
-        {
-          "title": "스크린 속으로 사라지는 몸",
-          "summary": "화면 앞에서 몸은 어디로 가는가, 미디어 이론이 묻는 새로운 신체의 조건",
-          "philosopher": "매클루언 (Marshall McLuhan)",
-          "philosophers": [
-            "매클루언 (Marshall McLuhan)"
-          ],
-          "tags": [
-            "미디어이론",
-            "탈신체화",
-            "디지털환경"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=sE-4Leh5HqM",
-          "originalTitle": "Festival del Pensare Contemporaneo 2025 | IL CORPO DEL FUTURO E IL FUTURO DEI CORPI"
-        },
-        {
-          "title": "시민 단속자들의 탄생",
-          "summary": "공기 오염을 막으려던 정책이 만들어낸 '전업 민원인'을 어떻게 볼 것인가",
-          "philosopher": "푸코 (Michel Foucault)",
-          "philosophers": [
-            "푸코 (Michel Foucault)"
-          ],
-          "tags": [
-            "시민감시",
-            "공공선",
-            "공리주의적설계"
-          ],
-          "sourceUrl": "https://aeon.co/videos/meet-the-bounty-hunters-who-enforce-new-yorks-idling-vehicle-ban",
-          "originalTitle": "Idle warriors"
-        },
-        {
-          "title": "나 없이 내가 책임진다",
-          "summary": "불교는 자아가 없다고 말한다. 그렇다면 누가 책임을 지는가?",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "무아",
-            "책임귀속",
-            "불교철학"
-          ],
-          "sourceUrl": "https://philosophybites.libsyn.com/monima-chadha-on-responsibility-without-selves",
-          "originalTitle": "Monima Chadha on Responsibility Without Selves"
-        },
-        {
-          "title": "자기 단련은 독인가 약인가",
-          "summary": "훈육을 거부하는 시대에, 우리는 정말 더 자유로워졌는가",
-          "philosopher": "칸트 (Immanuel Kant)",
-          "philosophers": [
-            "칸트 (Immanuel Kant)"
-          ],
-          "tags": [
-            "자기규율",
-            "자율성",
-            "생산성문화"
-          ],
-          "sourceUrl": "",
-          "originalTitle": "Discipline"
-        },
-        {
-          "title": "제약이 자유보다 창의적인 이유",
-          "summary": "빈 캔버스 앞에서 오히려 막히는 이유, 한계가 상상력을 깨운다",
-          "philosopher": "칸트 (Immanuel Kant)",
-          "philosophers": [
-            "칸트 (Immanuel Kant)",
-            "메를로퐁티 (Maurice Merleau-Ponty)"
-          ],
-          "tags": [
-            "창의성",
-            "제약의역설",
-            "형식과자유"
-          ],
-          "sourceUrl": "https://bigthink.com/series/full-interview/creative-freedom-constraints/",
-          "originalTitle": "The psychological reason complete freedom is a creative dead end"
-        },
-        {
-          "title": "최저임금 실험이 뒤흔든 경제 상식",
-          "summary": "모두가 알고 있다고 믿었던 경제 법칙이 틀렸다면?",
-          "philosopher": "토머스 쿤 (Thomas Kuhn)",
-          "philosophers": [
-            "토머스 쿤 (Thomas Kuhn)"
-          ],
-          "tags": [
-            "경제패러다임",
-            "과학적믿음",
-            "반증과이념"
-          ],
-          "sourceUrl": "https://www.theatlantic.com/ideas/2026/05/minimum-wage-experiment-worked/687255/?utm_source=feed",
-          "originalTitle": "The Economic Experiment That Upended Reality"
-        },
-        {
-          "title": "말하지 못한 피드백의 침묵 비용",
-          "summary": "친절이라 믿었던 침묵이 상대를 천천히 망가뜨리고 있었다",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)",
-            "비트겐슈타인 (Ludwig Wittgenstein)"
-          ],
-          "tags": [
-            "침묵의윤리",
-            "언어행위",
-            "관계와책임"
-          ],
-          "sourceUrl": "https://bigthink.com/work-wise/the-hidden-costs-of-withholding-feedback/",
-          "originalTitle": "The hidden costs of withholding feedback"
-        }
-      ]
-    },
-    {
       "week": "2026-W23",
       "tags": [
         "르상티망",
@@ -7274,6 +6992,283 @@
           ],
           "sourceUrl": "https://wired.jp/article/sz-instead-of-taking-your-job-ai-might-transform-it/",
           "originalTitle": "AIは仕事を奪うのではなく、仕事そのものを変える"
+        }
+      ]
+    },
+    {
+      "week": "2026-W48",
+      "tags": [
+        "호기심",
+        "인간 본성",
+        "지식 충동",
+        "조작",
+        "동의",
+        "소비 심리",
+        "불확실성",
+        "망설임",
+        "철학적 태도",
+        "시민성",
+        "공존",
+        "민주주의",
+        "AI",
+        "자아",
+        "현실 감각",
+        "제3의 장소",
+        "공동체",
+        "소비와 연결",
+        "불안",
+        "시간",
+        "미래",
+        "처벌",
+        "정의",
+        "교도소",
+        "선택적 외면",
+        "도덕적 불감증",
+        "연대",
+        "강제이주",
+        "경계",
+        "도주하는 지식",
+        "외모 압박",
+        "미적 도덕화",
+        "자기관리",
+        "AI 돌봄",
+        "아동 발달",
+        "돌봄 공백",
+        "의미",
+        "고통",
+        "실존주의",
+        "노화",
+        "창조적 노동",
+        "충분함",
+        "의식",
+        "의사결정",
+        "사이키델릭",
+        "소유",
+        "구독경제",
+        "기술권력",
+        "테크 버블",
+        "투기",
+        "기술 혁명",
+        "팬덤",
+        "애착",
+        "현대적 고독"
+      ],
+      "articles": [
+        {
+          "title": "호기심은 인간의 본능인가",
+          "summary": "토머스 홉스가 발견한 것—호기심은 욕망이 아니라 존재 방식이다",
+          "philosopher": "토머스 홉스 (Thomas Hobbes)",
+          "tags": [
+            "호기심",
+            "인간 본성",
+            "지식 충동"
+          ],
+          "sourceUrl": "https://theconversation.com/pour-thomas-hobbes-la-curiosite-est-le-propre-de-lhomme-et-le-ressort-de-toute-innovation-287011",
+          "originalTitle": "Pour Thomas Hobbes, la curiosité est le propre de l’homme et le ressort de toute innovation"
+        },
+        {
+          "title": "조작은 왜 강요보다 강한가",
+          "summary": "에드워드 버네이스가 발견한 것—우리는 원해서 사고, 원해서 복종한다",
+          "philosopher": "에드워드 버네이스 (Edward Bernays)",
+          "tags": [
+            "조작",
+            "동의",
+            "소비 심리"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/iNpH3BPsMrY",
+          "originalTitle": "Edward Bernays, le manipulateur"
+        },
+        {
+          "title": "의심하는 철학자, 장 발의 '그래, 하지만'",
+          "summary": "확신보다 망설임을 택한 철학자가 오늘날 더 절실한 이유는 무엇인가?",
+          "philosopher": "장 발 (Jean Wahl)",
+          "tags": [
+            "불확실성",
+            "망설임",
+            "철학적 태도"
+          ],
+          "sourceUrl": "https://www.philomag.com/articles/redecouvrir-jean-wahl-le-philosophe-du-oui-mais",
+          "originalTitle": "Redécouvrir Jean Wahl, le philosophe du “oui, mais”"
+        },
+        {
+          "title": "예의가 가치를 대신할 수 있는가",
+          "summary": "공통의 신념 없이도 함께 살 수 있다면, 그 접착제는 무엇인가?",
+          "philosopher": "요한 페터 아이그너 (Johann Peter Aigner)",
+          "tags": [
+            "시민성",
+            "공존",
+            "민주주의"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/aigner-und-die-politik-der-umgangsformen-zivilitaet-statt-wertegemeinschaft-100.html",
+          "originalTitle": "Aigner und die Politik der Umgangsformen: Zivilität statt Wertegemeinschaft"
+        },
+        {
+          "title": "AI와 대화할수록 현실이 흔들린다",
+          "summary": "챗봇이 나를 이해한다고 느낄 때, 내 마음에서는 무슨 일이 벌어지는가?",
+          "philosopher": "요르크 놀러 (Jörg Noller)",
+          "tags": [
+            "AI",
+            "자아",
+            "현실 감각"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/gefaehrliche-naehe-ki-psychose-und-die-sehnsucht-nach-menschlichkeit-100.html",
+          "originalTitle": "KI-assoziierte Psychosen: Wie Chatbots unsere Wahrnehmung verändern können"
+        },
+        {
+          "title": "슈퍼마켓이 외로움을 치료할 수 있는가",
+          "summary": "장보는 공간이 마을 광장을 대신하려 할 때, 우리는 무엇을 기대하고 무엇을 잃는가?",
+          "philosopher": "레이 올든버그 (Ray Oldenburg)",
+          "tags": [
+            "제3의 장소",
+            "공동체",
+            "소비와 연결"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/zwischen-smart-store-und-plauderkasse-wie-sich-supermaerkte-neu-erfinden-100.html",
+          "originalTitle": "Smart Store und Plauderkasse - Wie sich Supermärkte neu erfinden"
+        },
+        {
+          "title": "불안은 싸워서 이기는 게 아니다",
+          "summary": "미래를 기다리는 사람은 불안해지지만, 미래를 만드는 사람은 달라진다",
+          "philosopher": "라인하르트 코젤렉 (Reinhart Koselleck)",
+          "tags": [
+            "불안",
+            "시간",
+            "미래"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=iL0obzO8qZw",
+          "originalTitle": "L’Ansia per il Futuro NON si combatte (ed è proprio questo l’Errore!)"
+        },
+        {
+          "title": "감옥은 지금도 의미가 있는가",
+          "summary": "처벌이 정의라는 믿음, 철학자들은 그 전제를 처음부터 다시 묻는다.",
+          "philosopher": "안토니 더프 (R. A. Duff)",
+          "tags": [
+            "처벌",
+            "정의",
+            "교도소"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=crfsiqRafrc",
+          "originalTitle": "Cosa direbbero i filosofi su carcere, pena e giustizia riparativa"
+        },
+        {
+          "title": "눈을 감고도 보지 못하는 우리",
+          "summary": "볼 수 있는데도 외면할 때, 사회는 무엇을 잃는가?",
+          "philosopher": "호세 사라마구 (José Saramago)",
+          "tags": [
+            "선택적 외면",
+            "도덕적 불감증",
+            "연대"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/PRM1X564VVI",
+          "originalTitle": "\"Cecità\" di José Saramago [Un libro in un minuto #011]"
+        },
+        {
+          "title": "도망치는 상상력의 철학",
+          "summary": "국경을 넘고 추방당한 사람들이 만들어내는 지식은 왜 주류 세계가 볼 수 없는 것을 보는가",
+          "philosopher": "샤흐람 호스라비 (Shahram Khosravi)",
+          "tags": [
+            "강제이주",
+            "경계",
+            "도주하는 지식"
+          ],
+          "sourceUrl": "https://aeon.co/essays/those-forced-to-cross-borders-are-imagining-a-radical-new-world",
+          "originalTitle": "Fugitive imagination"
+        },
+        {
+          "title": "아름다워야 한다는 압박은 언제부터 도덕이 됐나",
+          "summary": "외모 가꾸기가 선택이 아닌 의무가 된 시대, 아름다움은 왜 윤리의 문제가 되었는가",
+          "philosopher": "헤더 위도스 (Heather Widdows)",
+          "tags": [
+            "외모 압박",
+            "미적 도덕화",
+            "자기관리"
+          ],
+          "sourceUrl": "",
+          "originalTitle": "Beauty with Heather Widdows"
+        },
+        {
+          "title": "AI가 아이의 가장 안정적인 존재가 될 때",
+          "summary": "부모가 사라진 자리를 AI가 채울 때, 그 돌봄은 위안인가 경고인가",
+          "philosopher": "톰 울드리지 (Tom Wooldridge)",
+          "tags": [
+            "AI 돌봄",
+            "아동 발달",
+            "돌봄 공백"
+          ],
+          "sourceUrl": "https://aeon.co/essays/what-would-parenting-by-ai-look-like",
+          "originalTitle": "At least it remembers"
+        },
+        {
+          "title": "삶에 '예스'라고 말하는 법",
+          "summary": "낙관도 비관도 아닌 세 번째 태도—의미는 고통의 반대편이 아니라 그 한가운데 있다",
+          "philosopher": "빅토르 프랑클 (Viktor Frankl)",
+          "tags": [
+            "의미",
+            "고통",
+            "실존주의"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/11/13/yes-to-life-in-spite-of-everything-viktor-frankl/",
+          "originalTitle": "Yes to Life, in Spite of Everything: Viktor Frankl’s Lost Lectures on Moving Beyond Optimism and Pessimism to Find the Deepest Source of Meaning"
+        },
+        {
+          "title": "93세 첼리스트가 말하는 늙지 않는 법",
+          "summary": "파블로 카잘스는 왜 죽는 날까지 연습을 멈추지 않았는가?",
+          "philosopher": "웬델 베리 (Wendell Berry)",
+          "tags": [
+            "노화",
+            "창조적 노동",
+            "충분함"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/11/19/pablo-casals-work-age/",
+          "originalTitle": "Legendary Cellist Pablo Casals, at Age 93, on Creative Vitality and How Working with Love Prolongs Your Life"
+        },
+        {
+          "title": "환각제가 더 나은 결정을 돕는다면",
+          "summary": "사이키델릭이 선입견을 지우고 판단력을 높인다는 연구, 그것이 묻는 것은 무엇인가?",
+          "philosopher": "윌리엄 제임스 (William James)",
+          "tags": [
+            "의식",
+            "의사결정",
+            "사이키델릭"
+          ],
+          "sourceUrl": "https://nautil.us/can-psychedelics-improve-decision-making-1286863/",
+          "originalTitle": "Can Psychedelics Improve Decision-making?"
+        },
+        {
+          "title": "산 차는 정말 내 것인가",
+          "summary": "구독료를 내야 달리는 자동차—소유라는 개념이 조용히 해체되고 있다",
+          "philosopher": "앤드루 피너버그 (Andrew Feenberg)",
+          "tags": [
+            "소유",
+            "구독경제",
+            "기술권력"
+          ],
+          "sourceUrl": "https://wired.jp/article/tesla-cybercab-is-the-subscription-hell-they-told-you-not-to-worry-about/",
+          "originalTitle": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？"
+        },
+        {
+          "title": "최초의 테크 버블이 남긴 것",
+          "summary": "AI 기업 상장 열풍, 19세기 철도 광풍과 무엇이 같고 무엇이 다른가?",
+          "philosopher": "찰스 킨들버거 (Charles Kindleberger)",
+          "tags": [
+            "테크 버블",
+            "투기",
+            "기술 혁명"
+          ],
+          "sourceUrl": "https://wired.jp/article/sz-lessons-from-the-original-tech-bubble/",
+          "originalTitle": "史上初のテックバブルの教訓"
+        },
+        {
+          "title": "팬덤은 중독인가, 희망인가",
+          "summary": "좋아하는 존재에 몰두하는 삶—그것은 도피인가, 아니면 살아가는 이유인가?",
+          "philosopher": "에리히 프롬 (Erich Fromm)",
+          "tags": [
+            "팬덤",
+            "애착",
+            "현대적 고독"
+          ],
+          "sourceUrl": "https://kangaeruhito.jp/interview/764486",
+          "originalTitle": "推し活は依存か希望か【後編】"
         }
       ]
     }

@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-11-20T12:24:13.763250+00:00",
+  "fetchedAt": "2026-11-20T22:12:35.484932+00:00",
   "items": [
     {
       "title": "Et si la meilleure manière de prévenir la dépression, c’était de réduire les inégalités de genre ?",
@@ -132,6 +132,22 @@
       }
     },
     {
+      "title": "Musique et IA : les Français veulent plus de transparence",
+      "url": "https://usbeketrica.com/fr/article/musique-et-ia-les-francais-veulent-plus-de-transparence",
+      "description": "La deuxième édition de l’enquête internationale menée par la plateforme Deezer et l’institut Ipsos sur les perceptions et les attitudes à l’égard de la musique générée par IA ont été publiées mardi 17 septembre. Voici 5 chiffres à retenir de cette étude.",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "« Trop chère », « pas écolo », « made in China » ? La voiture électrique à l'épreuve des clichés",
       "url": "https://usbeketrica.com/fr/article/trop-chere-pas-ecolo-made-in-china-la-voiture-electrique-a-l-epreuve-des-cliches",
       "description": "Et si la voiture électrique souffrait surtout de sa réputation ? En partenariat avec le programme Advenir, nous avons confié à quatre créateurs de contenu (Julien Opal, Monsieur Grrr, Hourrail et Bruno Maltor) le soin de démonter, chiffres à l'appui, les idées reçues qui lui sont encore associées.",
@@ -215,22 +231,6 @@
       "title": "Midterms : les data centers, autres grands perdants du scrutin",
       "url": "https://usbeketrica.com/fr/article/midterms-les-data-centers-autres-grands-perdants-du-scrutin",
       "description": "Avec l’adoption d’une trentaine de mesures locales visant à freiner la création de nouveaux data centers (selon un décompte encore provisoire), les élections de mi-mandat aux États-Unis ont été marquées par un net rejet des « grands projets industriels » liés à l’intelligence artificielle (IA).",
-      "date": "Wed, 04 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "L’Etat vend l’hôtel du Plan : que reste-t-il de notre capacité à choisir l’avenir ?",
-      "url": "https://usbeketrica.com/fr/article/l-etat-vend-l-hotel-du-plan-que-reste-t-il-de-notre-capacite-a-choisir-l-avenir",
-      "description": "TRIBUNE // Alors que l’État vend l’hôtel particulier du Haut-Commissariat au plan, Thomas Gauthier, créateur du podcast « No(s) limit(es) » et responsable du dispositif pédagogique « Futurs Alternatifs » à emlyon business school, estime que la prospective publique, prolifique en scénarios, n’engage plus le présent, et plaide pour la refonder.",
       "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",

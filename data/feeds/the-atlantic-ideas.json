@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-20T12:24:39.420350+00:00",
+  "fetchedAt": "2026-11-20T22:12:56.526459+00:00",
   "items": [
     {
       "title": "How Jared Kushner Sparked a Revolution in the Balkans",
@@ -52,6 +52,22 @@
       }
     },
     {
+      "title": "Gerrymandering Worked",
+      "url": "https://www.theatlantic.com/ideas/2026/11/gerrymandering-redistricting-black-voters/689492/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-20",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "<em>Grand Theft Auto VI</em> Is Really Weird",
       "url": "https://www.theatlantic.com/ideas/2026/11/grand-theft-auto-vi-review/689514/?utm_source=feed",
       "description": "",
@@ -84,19 +100,19 @@
       }
     },
     {
-      "title": "The Only Thing Nathan Fielder Won’t Show",
-      "url": "https://www.theatlantic.com/ideas/2026/11/holmes-documentary-journalistic-ethics/689350/?utm_source=feed",
+      "title": "Trump vs. America",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-putin-ukraine-collins/689537/?utm_source=feed",
       "description": "",
-      "date": "2026-11-15",
+      "date": "2026-11-20",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/ideas/2026/11/robert-pattinson-james-bond-casting/689464/?utm_source=feed",
       "description": "",
       "date": "2026-11-16",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Investigate Trump Like a Mob Boss",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-investigation-strategy/689427/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-15",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-20T12:24:52.132736+00:00",
+  "fetchedAt": "2026-11-20T22:13:08.708571+00:00",
   "items": [
     {
       "title": "How to Morally Take a Life | Kathleen Stock, Mary Ann Sieghart",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
-      }
-    },
-    {
-      "title": "Why philosophy isn't politically neutral | Christoph Schuringa",
-      "url": "https://www.youtube.com/watch?v=hbXtrZ_QM8g",
-      "description": "Christoph Schuringa discusses the political history of modern philosophy\n\nHas philosophy lost its political purpose?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-hostile-takeover-of-philosophy-with-christoph-schuringa?utm_source=YouTube&utm_medium=description\n\nAnalytic philosophy took over the Western world; but its rise wasn't purely a matter of ideas. In this interview, philosopher Christoph Schuringa uncovers less of an intellectual victory than a hostile ta",
-      "date": "2026-11-05",
-      "thumbnail": "https://i1.ytimg.com/vi/hbXtrZ_QM8g/hqdefault.jpg",
-      "videoId": "hbXtrZ_QM8g",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
       }
     },
     {
@@ -81,6 +65,38 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Weaponising Liberal Democracies | Kishore Mahbubani",
+      "url": "https://www.youtube.com/shorts/UeA6Nu9dUGk",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-age-of-the-illiberal-democracy?utm_source=YouTube&utm_medium=description\n\n#government #politics #america #britain #warzone #war",
+      "date": "2026-11-20",
+      "thumbnail": "https://i2.ytimg.com/vi/UeA6Nu9dUGk/hqdefault.jpg",
+      "videoId": "UeA6Nu9dUGk",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Consciousness: fundamental to reality? | Philip Goff",
+      "url": "https://www.youtube.com/watch?v=5JMJAEXCWeA",
+      "description": "Philip Goff discusses panpsychism and the role of fundamental physics in the study of consciousness. \n\nBrought back from our Archive! \n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/the-many-voices-of-consciousness?utm_source=YouTube&utm_medium=description\n\nPhilip Goff responds to recent critiques of panpsychism by theoretical physicists Sean Carroll and Sabine Hossenfelder, and then explores some implications for the science of consciousness.\n\nPhilip Goff is a philo",
+      "date": "2026-11-20",
+      "thumbnail": "https://i2.ytimg.com/vi/5JMJAEXCWeA/hqdefault.jpg",
+      "videoId": "5JMJAEXCWeA",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -170,22 +186,6 @@
       "date": "2026-11-08",
       "thumbnail": "https://i1.ytimg.com/vi/le-vY4g5nPU/hqdefault.jpg",
       "videoId": "le-vY4g5nPU",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "Democracy on the aeroplane | Curtis Yarvin",
-      "url": "https://www.youtube.com/shorts/KJXsBYoUuSw",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/curtis-yarvin-challenged-on-his-argument-for-benevolent-monarchy?stage=Stage\n\n#democracy #populism #politics #aeroplane #debate",
-      "date": "2026-11-04",
-      "thumbnail": "https://i4.ytimg.com/vi/KJXsBYoUuSw/hqdefault.jpg",
-      "videoId": "KJXsBYoUuSw",
       "priority": 10,
       "scoreDetail": {
         "daily": 5,
