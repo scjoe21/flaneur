@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-20T22:13:17.388490+00:00",
+  "fetchedAt": "2026-11-21T00:09:52.305543+00:00",
   "items": [
     {
       "title": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
+      }
+    },
+    {
+      "title": "「シリコンバレー流」の兵器開発は、防衛産業に何をもたらすのか",
+      "url": "https://wired.jp/article/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
+      "description": "ウクライナでの戦争で膠着状態が続くなか、グーグルやアップルの出身者が率いる防衛テック企業「Tiberius Aerospace」は、シリコンバレーでの経験を兵器製造に取り入れようとしている。",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
       "description": "イーロン・マスクをはじめ、シリコンバレーの経営者らからもジェンスン・フアンのCEO復帰を求める声が上がっている。しかし、NVIDIAの取締役会は復帰させる意向はないと明言した。",
       "date": "Wed, 18 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "NVIDIAの危機は、ジェンスン・フアンの辞任以前から始まっていた",
-      "url": "https://wired.jp/article/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/",
-      "description": "ジェンスン・フアンの辞任で揺れるNVIDIAだが、競合他社の技術的な追い上げやAI市場の変化によって、その優位性はすでに脅かされていた。暫定的な経営体制に移行するなか、ライバル企業が攻勢を強めている。",
-      "date": "Tue, 17 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

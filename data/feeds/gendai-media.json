@@ -1,7 +1,7 @@
 {
   "sourceId": "gendai-media",
   "sourceName": "Gendai Business (Kodansha)",
-  "fetchedAt": "2026-11-20T22:13:14.309965+00:00",
+  "fetchedAt": "2026-11-21T00:09:52.079328+00:00",
   "items": [
     {
       "title": "「答えは自分の内側にしかない」…メキシコの村で体験したキノコの儀式",
@@ -33,6 +33,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "ソフトバンクが「大ピンチ」に陥る可能性も…孫正義が恐れているOpenAI上場遅延と「巨額投資」の危ない結末",
+      "url": "https://gendai.media/articles/-/173070",
+      "description": "米AI企業アンソロピックが19日、NASDAQ市場に上場。時価総額約224兆円で資金調達したが、当初予定より最大3割低い評価額での上場となった。AI関連株の調整やデータセンター規制強化の観測が影響した。同社の今後の動向は、来年上場予定のOpenAIや出資するソフトバンクの戦略にも直結する。",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -160,22 +176,6 @@
         "phil": 0,
         "flaneur": 0,
         "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "iDeCoは「70歳未満」まで拡大へ…金融リテラシーと並ぶ、資産寿命を守る”もっとも効果的な手段”",
-      "url": "https://gendai.media/articles/-/172748",
-      "description": "老後の年金を、国や会社にすべて任せておけばよい時代は終わりつつある。そのために、いまから身につけておくべきものとは何か。慶應義塾大学医学部特任講師で、著書に『知らないうちに長生きする国ニッポン』がある早野元詞氏が、貯めた資産が尽きるまでの期間を示す「資産寿命」を延ばすために、意識すべきことを教える。",
-      "date": "Fri, 20 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 5
       }
     },
