@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-21T00:09:33.767130+00:00",
+  "fetchedAt": "2026-11-21T21:42:47.194615+00:00",
   "items": [
     {
       "title": "How Jared Kushner Sparked a Revolution in the Balkans",
@@ -97,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Hollywood Needs a New Pixar",
+      "url": "https://www.theatlantic.com/ideas/2026/11/movies-pixar-animation-media/689535/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-21",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.theatlantic.com/international/2026/11/venezuela-maduro-oil-earthquake-intervention/689113/?utm_source=feed",
       "description": "",
       "date": "2026-11-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Sorry, Robert Pattinson Is Not James Bond",
-      "url": "https://www.theatlantic.com/ideas/2026/11/robert-pattinson-james-bond-casting/689464/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-16",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

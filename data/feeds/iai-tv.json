@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-21T00:09:44.992136+00:00",
+  "fetchedAt": "2026-11-21T21:42:58.332417+00:00",
   "items": [
     {
       "title": "How to Morally Take a Life | Kathleen Stock, Mary Ann Sieghart",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Is AI actually intelligent? | Pasterski, Lawson, Borowski, Wooldridge",
+      "url": "https://www.youtube.com/watch?v=DF8jyfEjymo",
+      "description": "Hilary Lawson, Sabrina Pasterski, Audrey Borowski and Michael Wooldridge debate whether true intelligence has to be embodied.\n\nIs AI actually intelligent?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-hype-and-limits-of-ai?utm_source=YouTube&utm_medium=description\n\nThe world is consumed with the power and potential of AI.  Leading tech names like Altman and Musk have claimed it threatens humanity’s future. All while trillions of dollars are being invested.  Th",
+      "date": "2026-11-21",
+      "thumbnail": "https://i1.ytimg.com/vi/DF8jyfEjymo/hqdefault.jpg",
+      "videoId": "DF8jyfEjymo",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 10,
+        "total": 24
       }
     },
     {
@@ -148,22 +164,6 @@
       }
     },
     {
-      "title": "How do we differentiate strands of feminism? | Stock, Salami, Jones",
-      "url": "https://www.youtube.com/shorts/XJHquM-PjF8",
-      "description": "",
-      "date": "2026-11-06",
-      "thumbnail": "https://i1.ytimg.com/vi/XJHquM-PjF8/hqdefault.jpg",
-      "videoId": "XJHquM-PjF8",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
       "title": "Who holds the New York Times accountable? | Curtis Yarvin",
       "url": "https://www.youtube.com/shorts/zANzdVlzk8U",
       "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/curtis-yarvin-challenged-on-his-argument-for-benevolent-monarchy?stage=Stage\n\n#newyorktimes #nytimes #news #accountability #politics #audience",
@@ -196,6 +196,22 @@
       }
     },
     {
+      "title": "Young people are not nostalgic | Louisa Munch",
+      "url": "https://www.youtube.com/shorts/SobUaFTnfMs",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch\n\n#nostalgia #politics #loss #young",
+      "date": "2026-11-21",
+      "thumbnail": "https://i4.ytimg.com/vi/SobUaFTnfMs/hqdefault.jpg",
+      "videoId": "SobUaFTnfMs",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Politics is like being in a relationship | Louisa Munch",
       "url": "https://www.youtube.com/shorts/DKoSK-UhiNU",
       "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch\n\n#politics #solution #rightwing #leftwing #relationship",
@@ -218,22 +234,6 @@
       "date": "2026-11-07",
       "thumbnail": "https://i2.ytimg.com/vi/eEepmU_p7XY/hqdefault.jpg",
       "videoId": "eEepmU_p7XY",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Is the era of the educated elite over? | Michael Gove, Thangam Debbonaire, and Daniel Susskind",
-      "url": "https://www.youtube.com/watch?v=3gZMT_NRWJE",
-      "description": "Michael Gove, Thangam Debbonaire, and Daniel Susskind discuss the end of the educated elite.\n\nDoes education still prepare us for the future?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-rise-and-fall-of-the-educated-elite?utm_source=YouTube&utm_medium=description\n\nInfluenced by Plato's philosopher-kings and the Enlightenment's faith in reason, education has for centuries been regarded as the surest path to individual flourishing and collective progress. But ",
-      "date": "2026-11-07",
-      "thumbnail": "https://i4.ytimg.com/vi/3gZMT_NRWJE/hqdefault.jpg",
-      "videoId": "3gZMT_NRWJE",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,

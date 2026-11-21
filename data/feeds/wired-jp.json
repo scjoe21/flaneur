@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-21T00:09:52.305543+00:00",
+  "fetchedAt": "2026-11-21T21:43:08.359678+00:00",
   "items": [
     {
       "title": "テスラの「サイバーキャブ」が突きつける“所有”の意味──購入したクルマは本当に自分のものなのか？",
@@ -132,6 +132,38 @@
       }
     },
     {
+      "title": "日用品にたまごっちのような表情を。新たなAIデバイス「OAT」",
+      "url": "https://wired.jp/article/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
+      "description": "カーネギーメロン大学の学生が開発した、E Inkディスプレイ搭載の小型デバイス「OAT」。観葉植物やスケートボード、ダンベルなどに取り付けると、AIで生成したキャラクターがモノの状態に応じて表情を変え、生活習慣の改善を促す。",
+      "date": "Sat, 21 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "AIにファクトチェックをどこまで任せられるか",
+      "url": "https://wired.jp/article/fact-checking-ai/",
+      "description": "校閲者の採用試験を引っ張り出し、ChatGPT、Claude、Gemini、Grok（いずれも無料版）に解かせてみると──。『WIRED』のファクトチェッカーが検証する。",
+      "date": "Sat, 21 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
       "title": "史上初のテックバブルの教訓",
       "url": "https://wired.jp/article/sz-lessons-from-the-original-tech-bubble/",
       "description": "SpaceXに続いてAnthropicのIPOなど、AI企業の株式公開ラッシュが始まった2026年を、19世紀の鉄道狂時代に重ねると何が見えるだろうか。",
@@ -200,38 +232,6 @@
       "url": "https://wired.jp/article/how-to-tell-if-its-a-cyberattack-or-just-an-outage/",
       "description": "メールが使えず、飛行機が飛ばず、銀行取引も滞る。大規模な障害が続くとハッカーの仕業かと疑いたくなるが、実際には悪意ある攻撃によるケースは少ない。サイバー攻撃かどうかを見分けるための手順を紹介する。",
       "date": "Thu, 19 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "スマートフォンのカメラが劇的に進化する？ 新たな光学技術の可能性",
-      "url": "https://wired.jp/article/your-smartphone-camera-could-get-a-big-upgrade-with-this-tech/",
-      "description": "Metalenzが買収したPxEの技術は、従来のカラーフィルターとは異なり、光を吸収せずに進む方向を変えることで、最大2.5倍の光を取り込めるという。夜間の撮影性能の向上に加え、奥行き情報の取得も可能になる。",
-      "date": "Wed, 18 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "NVIDIA取締役会、ジェンスン・フアンをCEOに呼び戻す意向なし",
-      "url": "https://wired.jp/article/nvidias-board-has-no-plans-to-reinstate-jensen-huang/",
-      "description": "イーロン・マスクをはじめ、シリコンバレーの経営者らからもジェンスン・フアンのCEO復帰を求める声が上がっている。しかし、NVIDIAの取締役会は復帰させる意向はないと明言した。",
-      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

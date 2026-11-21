@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-21T00:09:41.411496+00:00",
+  "fetchedAt": "2026-11-21T21:42:54.803298+00:00",
   "items": [
     {
       "title": "Bioweine, PiWi und Events – Wie Winzer die Krise bewältigen wollen",
@@ -16,22 +16,6 @@
         "phil": 5,
         "flaneur": 0,
         "novelty": 5,
-        "total": 35
-      }
-    },
-    {
-      "title": "\"Oh wie süß\" – Was Niedlichkeit mit uns macht",
-      "url": "https://www.swr.de/swrkultur/wissen/oh-wie-suess-was-niedlichkeit-mit-uns-macht-100.html",
-      "description": "Ob Babys, süße Hunde oder Kuscheltiere – runde Gesichter mit großen Augen und Stupsnase fesseln uns. Doch es gibt auch die \"Cute Aggression\" – den Drang, Niedliches zu zerdrücken. Warum reagieren wir so? Von Johanne Burkhardt (SWR 2025) | Manuskript und mehr zur Sendung: http://swr.li/niedlichkeit || Hörtipp: Schön sein – Wie Aussehen unser Leben prägt | https://www.ardaudiothek.de/episode/das-wissen/schoen-sein-wie-aussehen-unser-leben-praegt/swr-kultur/14544357/ || Bei Fragen und Anregungen sc",
-      "date": "Thu, 5 Nov 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
         "total": 35
       }
     },
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 30
+      }
+    },
+    {
+      "title": "Neue Prüfungskultur – Wie Schule Leistung zeitgemäß bewerten kann",
+      "url": "https://www.swr.de/swrkultur/wissen/neue-pruefungskultur-wie-schule-leistung-zeitgemaess-bewerten-kann-100.html",
+      "description": "Erste Schulen setzen auf eine neue Prüfungskultur, z.B. mit Lerntagebüchern statt Klassenarbeiten. Bei Abschlussprüfungen aber gibt es kaum Spielraum.",
+      "date": "Sat, 21 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 29,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 29
       }
     },
     {

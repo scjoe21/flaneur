@@ -1,7 +1,7 @@
 {
   "sourceId": "the-marginalian",
   "sourceName": "The Marginalian",
-  "fetchedAt": "2026-11-21T00:09:34.649780+00:00",
+  "fetchedAt": "2026-11-21T21:42:47.938427+00:00",
   "items": [
     {
       "title": "How to Have Enough: Wendell Berry on Creativity and Love",
@@ -84,22 +84,6 @@
       }
     },
     {
-      "title": "How to Hear the Song of Life",
-      "url": "https://www.themarginalian.org/2026/11/12/song-of-the-cedars/",
-      "description": "“When we have learned how to listen to trees,” Hermann Hesse wrote in one of his least known, most beautiful essays, “then the brevity and the quickness and the childlike hastiness of our thoughts achieve an incomparable joy. Whoever has learned how to listen to trees no longer wants to be a tree. He wants to be nothing except what he is. That is home. That is happiness.” To be ourselves is rooted in the recognition that, rather than a tree, a self is a forest; to be at home in the world is root",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Atom, Archetype, and the Invention of Synchronicity: How Carl Jung and Wolfgang Pauli Bridged Mind and Matter",
       "url": "https://www.themarginalian.org/2026/11/15/atom-and-archetype-pauli-jung/",
       "description": "Two of humanity's greatest minds explore the parallels between spacetime and psyche, the atomic nucleus and the self.",
@@ -161,6 +145,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "The Relief of Rock Bottom: George Orwell and the Secret Springboard of Success",
+      "url": "https://www.themarginalian.org/2026/11/20/rock-bottom/",
+      "description": "It happens to everyone — to kings and paupers, to astronauts and poets. Nothing will protect you from it — not money, not love, not perfect health — for it spares no life that is fully lived, not the sunniest or the most privileged or the best planned. It begins with the wall — the one you hit over and over and over, not breaking through. And then, after the exhausted collapse, the bottom. The floorboards of despair, cold as granite, absolute as gravity. But then something extraordinary happens ",
+      "date": "Fri, 20 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

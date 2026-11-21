@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-21T00:09:13.519475+00:00",
+  "fetchedAt": "2026-11-21T21:42:26.183230+00:00",
   "items": [
     {
       "title": "Srdja Popovic : “Pour que les jeunes prennent le pouvoir, la colère ne suffit pas”",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "Ils vécurent heureux… puis décidèrent de se marier",
+      "url": "https://www.philomag.com/articles/ils-vecurent-heureux-puis-deciderent-de-se-marier",
+      "description": "",
+      "date": "Sat, 21 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/lia-la-vierge-allaitante-et-la-muse-de-botticelli",
       "description": "",
       "date": "Sun, 08 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Michael Walzer : “Nous assistons au début de la fin de l’Amérique de Trump”",
-      "url": "https://www.philomag.com/articles/michael-walzer-nous-assistons-au-debut-de-la-fin-de-lamerique-de-trump",
-      "description": "",
-      "date": "Sat, 07 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
