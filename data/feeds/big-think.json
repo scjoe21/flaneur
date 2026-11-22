@@ -1,8 +1,24 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-21T21:42:46.696560+00:00",
+  "fetchedAt": "2026-11-22T22:26:50.865477+00:00",
   "items": [
+    {
+      "title": "The most important question you’ll ask 1,000 times a day",
+      "url": "https://bigthink.com/mini-philosophy/the-most-important-question-youll-ask-1000-times-a-day/",
+      "description": "You are able to make good decisions about how to live your life. \n I hate to open a new newsletter with a twee self-help aphorism covered in fortune cookie crumbs, but it’s probably the most important thing to start with. Because Epicureanism is an ancient Greek philosophy, and like almost all its contemporaries, it places responsibility on  you . You are the overseer of your life. You can think things through, make good choices, and get things right. You are not some child, carried about by adu",
+      "date": "Sun, 22 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/TSE_-8.png?quality=80&w=640",
+      "videoId": "",
+      "priority": 35,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 35
+      }
+    },
     {
       "title": "How to navigate the world with two halves of one brain",
       "url": "https://bigthink.com/the-well/how-to-navigate-the-world-with-two-halves-of-one-brain/",
@@ -145,22 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "8 size and distance comparisons: from subatomic to cosmic",
-      "url": "https://bigthink.com/starts-with-a-bang/size-distance-comparison-subatomic-cosmic/",
-      "description": "Here in this Universe, there are multiple different ways to look at all that exists in terms of size. You can look at the physical size, or volumes, that the objects occupy, and you can do that in a variety of ways. For humans, we can measure our dimensions — things like our height, width, and depth — or the amount of volume we displace when placed in a bath of water. Whichever method we choose, we get a proxy for our size. For planets, we can look at the edges of their solid surfaces or atmosph",
-      "date": "Tue, 17 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2022/05/Star_Sizes_Comparison_update_2021-e1794819221298.png?quality=80&w=640",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

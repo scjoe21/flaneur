@@ -1,7 +1,7 @@
 {
   "sourceId": "france-culture-philo",
   "sourceName": "Avec philosophie (France Culture)",
-  "fetchedAt": "2026-11-21T21:42:25.753660+00:00",
+  "fetchedAt": "2026-11-22T22:26:29.950035+00:00",
   "items": [
     {
       "title": "Erving Goffman, le sociologue de la vie quotidienne : Stigmate : dévier de la norme, s’y conformer ou la contourner",
@@ -164,22 +164,6 @@
       }
     },
     {
-      "title": "Poétique de notre temps 3/3 : Pourquoi la poétique a-t-elle une histoire ?",
-      "url": "https://www.radiofrance.fr/franceculture/podcasts/le-pourquoi-du-comment-philo/le-pourquoi-du-comment-philo-chronique-du-mercredi-11-novembre-2026-2712120",
-      "description": "durée : 00:03:47  - Le Pourquoi du comment : philo - par : Frédéric Worms - Il y a une histoire de la tragédie grecque, mais il y a aussi une histoire de la poétique \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "Erving Goffman, le sociologue de la vie quotidienne : Embarras et faux pas : quand nos interactions vacillent",
       "url": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/embarras-et-faux-pas-quand-nos-interactions-vacillent-3346685",
       "description": "durée : 00:59:25  - Avec philosophie - par : Géraldine Mosna-Savoye - Si pour le sociologue Erving Goffman, les interactions induisent un ordre social, alors que se passe-t-il lorsque celles-ci vacillent ? Que révèlent les moments gênants et maladroits qui ponctuent nos quotidiens de l'organisation de notre monde ?  - équipe : Frédéric Worms, Nicolas Berger, Anna Pheulpin, Carla Michel, Axel Dubois, Manon de La Selle, Anaïs Ysebaert, Pauline Haies - invités : Céline Bonicco-Donato Maître de conf",
@@ -209,6 +193,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "[Avant-goût ⭐] Découvrez le 1er épisode de \"Chien 51\" de Laurent Gaudé",
+      "url": "https://www.radiofrance.fr",
+      "description": "durée : 00:28:48  - Avec philosophie - Écoutez l'intégralité de la série en exclusivité sur l'appli Radio France et sur la plateforme radiofrance.fr \n\nVous aimez ce podcast ? Pour écouter tous les épisodes sans limite, rendez-vous sur  Radio France",
+      "date": "Sun, 22 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

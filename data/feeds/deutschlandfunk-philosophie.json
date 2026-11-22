@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-21T21:42:29.360067+00:00",
+  "fetchedAt": "2026-11-22T22:26:33.538077+00:00",
   "items": [
     {
       "title": "Digitale neue Welt: Smartphones zielen auf das Kind in uns",
@@ -36,35 +36,19 @@
       }
     },
     {
-      "title": "Positives Denken – Warum Hoffnung in schwierigen Zeiten wichtig ist",
-      "url": "https://www.deutschlandfunkkultur.de/tag-des-positiven-denkens-ohne-hoffnung-sind-wir-blind-100.html",
-      "description": "Hoffnung braucht keine besonders guten Erfolgsaussichten, um vernünftig zu sein. So sieht es die Philosophin Christine Bratu. Für sie ist positives Denken keine Schönfärberei, sondern eine wichtige Kraft für unser Handeln. Bratu, Christine www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 13 Sep 2026",
+      "title": "Wo endet die Freiheit der Kunst?",
+      "url": "https://www.deutschlandfunkkultur.de/wo-endet-die-freiheit-der-kunst-100.html",
+      "description": "Die Kunstfreiheit ist bedroht: Durch politische Eingriffe von außen, aber auch Konvention und Selbstzensur. Aber wie frei kann und soll Kunst überhaupt sein? Darüber streiten Philosoph Markus Gabriel und Rechtswissenschaftler Christoph Möllers. Gabriel, Markus; Möllers, Christoph; Eilenberger, Wolfram www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 22 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 25,
       "scoreDetail": {
-        "daily": 25,
+        "daily": 15,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Carolin Emcke: Humanismus kennt keinen Nahen Osten",
-      "url": "https://www.deutschlandfunkkultur.de/carolin-emcke-was-zaehlt-ein-mensch-humanismus-kennt-keinen-nahen-osten-100.html",
-      "description": "Carolin Emcke fragt, wie universell unser Humanismus mit Blick auf den Nahen Osten tatsächlich ist. Warum wird Solidarität dort brüchig, wo Menschenleben unterschiedlich bewertet werden? Ein Gespräch über Empathie und Erinnerungskultur. Emcke, Carolin; Rohde, Stephanie www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sat, 19 Sep 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
+        "total": 25
       }
     },
     {
@@ -164,6 +148,38 @@
       }
     },
     {
+      "title": "Regeln für Killerroboter: Krieg ist kein Sport",
+      "url": "https://www.deutschlandfunkkultur.de/regeln-fuer-killerroboter-krieg-ist-kein-sport-100.html",
+      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 22 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Regeln für Killerroboter: Krieg ist kein Sport",
+      "url": "https://www.deutschlandfunkkultur.de/regeln-fuer-killerroboter-krieg-ist-kein-sport-102.html",
+      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 22 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
       "title": "Wiederverzauberung der Welt: Charles Taylors \"Kosmische Verbindungen\"",
       "url": "https://www.deutschlandfunkkultur.de/charles-taylor-hartmut-rosa-100.html",
       "description": "In seinem Spätwerk zeichnet der Philosoph Charles Taylor eine Poesiegeschichte der Weltverbindung nach. Ein Gespräch mit Hartmut Rosa, dem Meisterdenker der Resonanz, über Taylors Buch und die Rettung der Spiritualität in nihilistischen Zeiten. Miller, Simone; Rosa, Hartmut www.deutschlandfunkkultur.de, Sein und Streit",
@@ -216,22 +232,6 @@
       "url": "https://www.deutschlandfunkkultur.de/menschsein-im-ai-zeitalter-was-eine-ki-niemals-koennte-100.html",
       "description": "Rehse-Knauf, Luca www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 18 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Gefährliche KI: Bombenstimmung im Silicon Valley",
-      "url": "https://www.deutschlandfunkkultur.de/gefaehrliche-ki-bombenstimmung-im-silicon-valley-100.html",
-      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 20 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

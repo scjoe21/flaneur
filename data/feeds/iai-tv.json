@@ -1,8 +1,24 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-21T21:42:58.332417+00:00",
+  "fetchedAt": "2026-11-22T22:27:03.671740+00:00",
   "items": [
+    {
+      "title": "How AI has made us rethink what 'intelligence' is | Pasterski, Lawson, Borowski, Wooldridge",
+      "url": "https://www.youtube.com/watch?v=DF8jyfEjymo",
+      "description": "Hilary Lawson, Sabrina Pasterski, Audrey Borowski and Michael Wooldridge debate whether true intelligence has to be embodied.\n\nIs AI actually intelligent?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-hype-and-limits-of-ai?utm_source=YouTube&utm_medium=description\n\nThe world is consumed with the power and potential of AI.  Leading tech names like Altman and Musk have claimed it threatens humanity’s future. All while trillions of dollars are being invested.  Th",
+      "date": "2026-11-21",
+      "thumbnail": "https://i1.ytimg.com/vi/DF8jyfEjymo/hqdefault.jpg",
+      "videoId": "DF8jyfEjymo",
+      "priority": 49,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 15,
+        "total": 49
+      }
+    },
     {
       "title": "How to Morally Take a Life | Kathleen Stock, Mary Ann Sieghart",
       "url": "https://www.youtube.com/watch?v=-2WiuxR24os",
@@ -17,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 35
+      }
+    },
+    {
+      "title": "Sea Change | Rana Foroohar",
+      "url": "https://www.youtube.com/watch?v=UNtH5g-YQNo",
+      "description": "Climate change is happening, and the Arctic is melting. The Mercator projection has long neglected the North Pole, hiding it from public view. This previously neglected expanse is fracturing, allowing ships to pass, decreasing intercontinental transit times and providing access to the bountiful natural resources locked beneath the ice.\n\nWhat does this mean for international politics?\n\nRana Foroohar, the first journalist to board US Coast Guard cutter Healy, shares her insights from the three wee",
+      "date": "2026-11-20",
+      "thumbnail": "https://i2.ytimg.com/vi/UNtH5g-YQNo/hqdefault.jpg",
+      "videoId": "UNtH5g-YQNo",
+      "priority": 34,
+      "scoreDetail": {
+        "daily": 25,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 34
       }
     },
     {
@@ -52,22 +84,6 @@
       }
     },
     {
-      "title": "Is AI actually intelligent? | Pasterski, Lawson, Borowski, Wooldridge",
-      "url": "https://www.youtube.com/watch?v=DF8jyfEjymo",
-      "description": "Hilary Lawson, Sabrina Pasterski, Audrey Borowski and Michael Wooldridge debate whether true intelligence has to be embodied.\n\nIs AI actually intelligent?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/the-hype-and-limits-of-ai?utm_source=YouTube&utm_medium=description\n\nThe world is consumed with the power and potential of AI.  Leading tech names like Altman and Musk have claimed it threatens humanity’s future. All while trillions of dollars are being invested.  Th",
-      "date": "2026-11-21",
-      "thumbnail": "https://i1.ytimg.com/vi/DF8jyfEjymo/hqdefault.jpg",
-      "videoId": "DF8jyfEjymo",
-      "priority": 24,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 10,
-        "total": 24
-      }
-    },
-    {
       "title": "The Atrophy of Philosophy | Simon Critchley",
       "url": "https://www.youtube.com/watch?v=TwNVNv_nSSo",
       "description": "Simon Critchley discusses mysticism, Heidegger, and the future of philosophy\n\nWhat sits at the edges of philosophy?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/mysticism-heidegger-and-the-future-of-philosophy-with-simon-critchley?utm_source=YouTube&utm_medium=description\n\nHeidegger can often appear to be an impenetrable and esoteric thinker, whose ideas have little bearing on real life. But Simon Critchley works to undo this perception and bring phenomenology to b",
@@ -81,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "The Hungarian Problem | Michael Ignatieff",
+      "url": "https://www.youtube.com/shorts/cZDWjhwnyTY",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-age-of-the-illiberal-democracy?utm_source=YouTube&utm_medium=description\n\n#Hungary #orbán #university #diplomacy #politics",
+      "date": "2026-11-22",
+      "thumbnail": "https://i4.ytimg.com/vi/cZDWjhwnyTY/hqdefault.jpg",
+      "videoId": "cZDWjhwnyTY",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -180,22 +212,6 @@
       }
     },
     {
-      "title": "AI vs Bacteria | Denis Noble",
-      "url": "https://www.youtube.com/shorts/le-vY4g5nPU",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description \n\n#ai #artificialintelligence #biology#evolution #Turing #Darwin",
-      "date": "2026-11-08",
-      "thumbnail": "https://i1.ytimg.com/vi/le-vY4g5nPU/hqdefault.jpg",
-      "videoId": "le-vY4g5nPU",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Young people are not nostalgic | Louisa Munch",
       "url": "https://www.youtube.com/shorts/SobUaFTnfMs",
       "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch\n\n#nostalgia #politics #loss #young",
@@ -218,22 +234,6 @@
       "date": "2026-11-14",
       "thumbnail": "https://i1.ytimg.com/vi/DKoSK-UhiNU/hqdefault.jpg",
       "videoId": "DKoSK-UhiNU",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Fascism is self-destruction | Louisa Munch",
-      "url": "https://www.youtube.com/shorts/eEepmU_p7XY",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch\n\n#fascism #revengestory #politics #destruction #extreme #influencer",
-      "date": "2026-11-07",
-      "thumbnail": "https://i2.ytimg.com/vi/eEepmU_p7XY/hqdefault.jpg",
-      "videoId": "eEepmU_p7XY",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,

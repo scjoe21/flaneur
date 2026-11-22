@@ -1,7 +1,7 @@
 {
   "sourceId": "le-precepteur",
   "sourceName": "Le Précepteur",
-  "fetchedAt": "2026-11-21T21:42:25.032596+00:00",
+  "fetchedAt": "2026-11-22T22:26:29.525260+00:00",
   "items": [
     {
       "title": "La vraie infidélité",
@@ -100,6 +100,22 @@
       }
     },
     {
+      "title": "Les Darwin Awards",
+      "url": "https://www.youtube.com/shorts/WjgOpfNMqgY",
+      "description": "Mort en voulant utiliser un grille-pain dans sa baignoire, mort en sautant d'un avion sans parachute… Les Darwin Awards récompensent les morts les plus stupides. Dans cette vidéo, je vous explique pourquoi on les appelle ainsi, et pourquoi la bêtise humaine est peut-être la seule chose qui donne une idée de l'infini.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de l'épisode « LES LOIS DE LA STUPIDITÉ » : https://youtu.be/g7LyRp_KJ8c\n\n#philosophie #précepteur #stupidité #bêtise #dar",
+      "date": "2026-11-22",
+      "thumbnail": "https://i4.ytimg.com/vi/WjgOpfNMqgY/hqdefault.jpg",
+      "videoId": "WjgOpfNMqgY",
+      "priority": 30,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 30
+      }
+    },
+    {
       "title": "[BAC PHILO] Comment avoir une bonne note en philo ?",
       "url": "https://www.youtube.com/shorts/kmblOxN8fWQ",
       "description": "Qu'est-ce qu'un correcteur attend vraiment de ta copie de philo ? Mon avatar IA t'explique ce qui fait la différence le jour du bac.\n\n👉 7 jours d'essai gratuit sur Learning Frontier : https://learningfrontier.ai/fr/bac-philo\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\n#philosophie #précepteur #bacdephilo #bac2027 #méthode #copie",
@@ -142,22 +158,6 @@
       "scoreDetail": {
         "daily": 30,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Pourquoi l’alcool est en vente libre",
-      "url": "https://www.youtube.com/shorts/G_-qWUgLajk",
-      "description": "En 1932, dans Le Meilleur des mondes, Aldous Huxley imagine une société où une drogue rend tout le monde heureux… et docile. Dans cette vidéo, je vous explique pourquoi certaines drogues, parmi les plus nocives, sont tolérées par le pouvoir, et pourquoi la drogue, loin d’être révolutionnaire, est avant tout un instrument de soumission.\n\n🚀 Pensez à liker, à vous abonner et à partager !\n\nExtrait de l’épisode « ALDOUS HUXLEY - Le meilleur des mondes » : https://youtu.be/_Dt4nhRtfJ4\n\n#philosophie #p",
-      "date": "2026-11-01",
-      "thumbnail": "https://i4.ytimg.com/vi/G_-qWUgLajk/hqdefault.jpg",
-      "videoId": "G_-qWUgLajk",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 15,
         "flaneur": 0,
         "novelty": 0,
         "total": 30

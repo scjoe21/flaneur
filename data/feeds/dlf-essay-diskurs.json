@@ -1,7 +1,7 @@
 {
   "sourceId": "dlf-essay-diskurs",
   "sourceName": "Essay und Diskurs (Deutschlandfunk)",
-  "fetchedAt": "2026-11-21T21:42:51.699039+00:00",
+  "fetchedAt": "2026-11-22T22:26:56.829526+00:00",
   "items": [
     {
       "title": "Wer sind wir, und wenn ja, wie viele? Über die Möglichkeit kollektiver Identität in pluralen Gesellschaften",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "Erzählen gegen den Untergang - Scheherazades Kunst und die Kraft der Fiktionen in Zeiten der Bedrohung",
-      "url": "https://www.deutschlandfunk.de/erzaehlen-gegen-den-untergang-100.html",
-      "description": "Wie hilft Erzählen in autoritären Zeiten, in Gewaltszenarien und Multikrisen? Von Scheherazade bis heute erweisen sich Fiktionen als Überlebensstrategie: Sie verwandelt Ohnmacht in Handlung und Chaos in Sinn. Von Samira El Ouassil www.deutschlandfunk.de, Essay und Diskurs",
-      "date": "Sun, 16 Aug 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Kleider machen Macht – Eine politische Geschichte der Mode",
       "url": "https://www.deutschlandfunk.de/kleider-machen-macht-eine-politische-geschrichte-der-mode-100.html",
       "description": "Wenn die Geschichte der Mode politisch erzählt wird, dann wird sie zu einer Geschichte der Ordnung, so Diana Weis, Professorin für Modejournalismus. Sie erklärt unter anderem, warum es ein Irrtum ist, dass Mode Ausdruck von Individualität ist. Weis, Diana; Jantschek, Thorsten www.deutschlandfunk.de, Essay und Diskurs",
@@ -177,6 +161,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 19
+      }
+    },
+    {
+      "title": "Pioniergemeinschaften - Die Zukunftsmacher aus dem Silicon Valley",
+      "url": "https://www.deutschlandfunk.de/die-zukunftsmacher-pioniergemeinschaften-im-silicon-valley-100.html",
+      "description": "Hinter dem Mythos radikaler Innovation stehen oft Netzwerke digitaler Pioniere, sagt der Medienwissenschaftler Andreas Hepp: Sie kennen sich oft persönlich, prägen neue Technologien und tragen ihre Ideen dann in den Mainstream. Hepp, Andreas; Jantschek, Thorsten www.deutschlandfunk.de, Essay und Diskurs",
+      "date": "Sun, 22 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {

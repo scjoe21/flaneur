@@ -1,7 +1,7 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-21T21:42:54.803298+00:00",
+  "fetchedAt": "2026-11-22T22:27:00.403141+00:00",
   "items": [
     {
       "title": "Bioweine, PiWi und Events – Wie Winzer die Krise bewältigen wollen",
@@ -62,22 +62,6 @@
       "scoreDetail": {
         "daily": 25,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Waffenschmuggel aus Kriegsgebieten – Gefahr für Europa",
-      "url": "https://www.swr.de/swrkultur/wissen/waffenschmuggel-aus-kriegsgebieten-gefahr-fuer-europa-100.html",
-      "description": "Werden bei einer Razzia Kriegswaffen wie die Kalaschnikow sichergestellt, ist es für die Ermittler schwer, ihre Herkunft nachzuvollziehen und damit die Schmuggler herauszufinden.",
-      "date": "Fri, 6 Nov 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 30,
-        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 30
@@ -193,6 +177,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Kinder als Zeugen – Richtig fragen, ohne zu manipulieren",
+      "url": "https://www.swr.de/swrkultur/wissen/kinder-als-zeugen-richtig-fragen-ohne-zu-manipulieren-104.html",
+      "description": "In Fällen von Missbrauch sind die betroffenen Kinder oft die einzigen Zeugen. Es ist einiges zu beachten, damit ihre Aussagen verlässlich sind. Sie müssen altersgemäß befragt werden.",
+      "date": "Sun, 22 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {

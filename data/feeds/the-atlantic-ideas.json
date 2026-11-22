@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-21T21:42:47.194615+00:00",
+  "fetchedAt": "2026-11-22T22:26:51.336351+00:00",
   "items": [
     {
       "title": "How Jared Kushner Sparked a Revolution in the Balkans",
@@ -97,6 +97,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "My Apology to American Democracy",
+      "url": "https://www.theatlantic.com/ideas/2026/11/doomerism-elections-authoritarianism-trump/689493/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -214,22 +230,6 @@
     {
       "title": "Diplomacy, but Make It Obnoxious",
       "url": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-17",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "The Hollowing of the Venezuelan State",
-      "url": "https://www.theatlantic.com/international/2026/11/venezuela-maduro-oil-earthquake-intervention/689113/?utm_source=feed",
       "description": "",
       "date": "2026-11-17",
       "thumbnail": "",

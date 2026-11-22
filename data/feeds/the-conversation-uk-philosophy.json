@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-11-21T21:42:56.137163+00:00",
+  "fetchedAt": "2026-11-22T22:27:01.158803+00:00",
   "items": [
     {
       "title": "Guide to the classics: Machiavelli’s ‘audaciously honest’ The Prince reveals how politics works",
@@ -33,6 +33,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "It’s not OK to sexually assault characters in GTA. So why is murder acceptable?",
+      "url": "https://theconversation.com/its-not-ok-to-sexually-assault-characters-in-gta-so-why-is-murder-acceptable-296825",
+      "description": "",
+      "date": "2026-11-22",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://theconversation.com/star-trek-at-60-the-secret-of-this-pioneering-series-was-its-exploration-of-humanity-not-aliens-290646",
       "description": "",
       "date": "2026-08-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Accepting free will doesn’t exist could make us less hateful and ashamed",
-      "url": "https://theconversation.com/accepting-free-will-doesnt-exist-could-make-us-less-hateful-and-ashamed-282155",
-      "description": "",
-      "date": "2026-07-26",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
