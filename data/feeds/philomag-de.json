@@ -1,7 +1,7 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-27T13:23:55.498746+00:00",
+  "fetchedAt": "2026-11-27T23:21:42.160858+00:00",
   "items": [
     {
       "title": "Ken Mogi: „Die größte Weisheit besteht darin, sich der eigenen Unwissenheit bewusst zu sein“",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "Mit Habermas das Klima retten",
-      "url": "https://www.philomag.de/artikel/mit-habermas-das-klima-retten",
-      "description": "Unser demokratisches System ist oft träge und schwerfällig. Hat es ausgedient, wenn es darum geht, effektiv gegen die Klimakrise vorzugehen? Keineswegs, argumentiert Friederike Otto. Demokratie ist nicht das Hindernis, sondern die Lösung des Problems.",
-      "date": "Fri, 27 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 20,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 20
-      }
-    },
-    {
       "title": "KI-gemanagte Arbeit",
       "url": "https://www.philomag.de/artikel/ki-gemanagte-arbeit",
       "description": "Der Einsatz von künstlicher Intelligenz in der Arbeitswelt hat drastische Folgen. Er wirkt sich auf soziale Praktiken, die kollektive Identität unter den Beschäftigten und ihr politisches Engagement aus. Ist das Ergebnis ein entpolitisiertes, isoliertes und algorithmengesteuertes Berufsleben? Eine kritische Analyse.",
@@ -110,6 +94,22 @@
       "scoreDetail": {
         "daily": 10,
         "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Mit Habermas das Klima retten",
+      "url": "https://www.philomag.de/artikel/mit-habermas-das-klima-retten",
+      "description": "Unser demokratisches System ist oft träge und schwerfällig. Hat es ausgedient, wenn es darum geht, effektiv gegen die Klimakrise vorzugehen? Keineswegs, argumentiert Friederike Otto. Demokratie ist nicht das Hindernis, sondern die Lösung des Problems.",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
@@ -148,9 +148,9 @@
       }
     },
     {
-      "title": "Der schmutzige Körper der KI",
-      "url": "https://www.philomag.de/artikel/der-schmutzige-koerper-der-ki",
-      "description": "Rechenzentren sind ökologisch verheerend und ökonomisch fragwürdig. Dennoch werden sie gerade überall gebaut. Steckt dahinter die Sehnsucht nach dem großen Anderen, der uns beherrscht und umfängt? Zeit für eine Entzauberung.",
+      "title": "Kwame Anthony Appiah: „Die Welt braucht Grenzen“",
+      "url": "https://www.philomag.de/artikel/kwame-anthony-appiah-die-welt-braucht-grenzen",
+      "description": "Dem einen gelten sie als Schutzwall gegen ein bedrohliches Außen, dem anderen als Hindernis auf dem Weg zur Weltgemeinschaft: Grenzen. Im Gespräch stellt der New Yorker Philosoph Kwame Anthony Appiah ihre schöpferische Funktion heraus. Inwiefern ermöglichen Grenzen kulturelle Vielfalt, kollektive Identität und dezentrale Handlungsmacht?",
       "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -196,22 +196,6 @@
       }
     },
     {
-      "title": "Kwame Anthony Appiah: „Die Welt braucht Grenzen“",
-      "url": "https://www.philomag.de/artikel/kwame-anthony-appiah-die-welt-braucht-grenzen",
-      "description": "Dem einen gelten sie als Schutzwall gegen ein bedrohliches Außen, dem anderen als Hindernis auf dem Weg zur Weltgemeinschaft: Grenzen. Im Gespräch stellt der New Yorker Philosoph Kwame Anthony Appiah ihre schöpferische Funktion heraus. Inwiefern ermöglichen Grenzen kulturelle Vielfalt, kollektive Identität und dezentrale Handlungsmacht?",
-      "date": "Fri, 27 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "KI-Apokalypse und das kartesische Cogito",
       "url": "https://www.philomag.de/artikel/ki-apokalypse-und-das-kartesische-cogito",
       "description": "Wird KI eines Tages ihre eigene Moral entwickeln, uns Menschen gar auslöschen? Statt nur solchen Science-Fiction-Vorstellungen nachzuhängen, sollten wir uns auch fragen: Was, wenn die dunkle Seite der KI mehr mit uns gemein hat, als uns lieb ist?",
@@ -222,6 +206,22 @@
       "scoreDetail": {
         "daily": 0,
         "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Der schmutzige Körper der KI",
+      "url": "https://www.philomag.de/artikel/der-schmutzige-koerper-der-ki",
+      "description": "Rechenzentren sind ökologisch verheerend und ökonomisch fragwürdig. Dennoch werden sie gerade überall gebaut. Steckt dahinter die Sehnsucht nach dem großen Anderen, der uns beherrscht und umfängt? Zeit für eine Entzauberung.",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10

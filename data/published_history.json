@@ -1,278 +1,6 @@
 {
   "weeks": [
     {
-      "week": "2026-W23",
-      "tags": [
-        "르상티망",
-        "니체",
-        "도덕심리학",
-        "자발적복종",
-        "라보에시",
-        "권력의동의",
-        "돌봄의공공성",
-        "아렌트",
-        "세대와책임",
-        "외모규범",
-        "신체정치",
-        "규율권력",
-        "돌봄노동",
-        "인정이론",
-        "노동의정의",
-        "책임의윤리",
-        "오류문화",
-        "제도와책임",
-        "오이코포비아",
-        "문화비판",
-        "자기혐오",
-        "이념과데이터",
-        "인식적완고함",
-        "프래그머티즘",
-        "불일치",
-        "귀속감",
-        "자아이탈",
-        "미학적판단",
-        "예술과도덕",
-        "공감의윤리",
-        "장소성",
-        "탈식민주의",
-        "토지와정체성",
-        "혼종성",
-        "지정학과철학",
-        "상처의사유",
-        "유희충동",
-        "자기경직성",
-        "페르소나",
-        "놀이의철학",
-        "통제된공간",
-        "아동기",
-        "탄생성",
-        "재생산의윤리",
-        "세대와미래"
-      ],
-      "articles": [
-        {
-          "title": "당신의 도덕적 분노는 진짜인가",
-          "summary": "남의 성공을 비난할 때, 우리는 정의를 말하는가 아니면 시기를 숨기는가",
-          "philosopher": "니체 (Friedrich Nietzsche)",
-          "philosophers": [
-            "니체 (Friedrich Nietzsche)",
-            "부르디외 (Pierre Bourdieu)"
-          ],
-          "tags": [
-            "르상티망",
-            "니체",
-            "도덕심리학"
-          ],
-          "sourceUrl": "https://www.youtube.com/shorts/FiUM_f1_iMY",
-          "originalTitle": "Nietzsche et le ressentiment"
-        },
-        {
-          "title": "우리는 왜 스스로 복종을 선택하는가",
-          "summary": "폭군의 힘은 칼이 아니라 우리의 동의에서 온다는 500년 전의 물음",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "자발적복종",
-            "라보에시",
-            "권력의동의"
-          ],
-          "sourceUrl": "https://www.radiofrance.fr",
-          "originalTitle": "Le \"Discours de la servitude volontaire\" de La Boétie  : La servitude volontaire, une hypothèse hautement transgressive en philosophie politique"
-        },
-        {
-          "title": "누가 아이를 돌봐야 하는가",
-          "summary": "방과 후 아이들의 빈 시간이 드러내는 돌봄의 공백과 공동체의 철수",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)"
-          ],
-          "tags": [
-            "돌봄의공공성",
-            "아렌트",
-            "세대와책임"
-          ],
-          "sourceUrl": "https://www.philomag.com/articles/periscolaire-pourquoi-avons-nous-renonce-veiller-sur-nos-enfants",
-          "originalTitle": "Périscolaire : pourquoi avons-nous renoncé à veiller sur nos enfants ?"
-        },
-        {
-          "title": "남자도 예뻐야 한다는 압박, 평등인가 함정인가",
-          "summary": "남성 외모 가꾸기 열풍, 그것이 해방인지 새로운 굴레인지 묻는다",
-          "philosopher": "푸코 (Michel Foucault)",
-          "philosophers": [
-            "푸코 (Michel Foucault)"
-          ],
-          "tags": [
-            "외모규범",
-            "신체정치",
-            "규율권력"
-          ],
-          "sourceUrl": "https://www.deutschlandfunkkultur.de/looksmaxxing-schoenheitsideale-manosphere-maennlichkeit-gleichberechtigung-100.html",
-          "originalTitle": "Beautytrend \"Looksmaxxing\" - Schönheitswahn bei Männern ist keine Gleichberechtigung"
-        },
-        {
-          "title": "더 많이 일해야 한다는 말, 정말 맞는가",
-          "summary": "보이지 않는 노동을 지운 채 '생산성'을 말하는 사회에 던지는 철학적 질문",
-          "philosopher": "악셀 호네트 (Axel Honneth)",
-          "philosophers": [
-            "악셀 호네트 (Axel Honneth)",
-            "공자 (Confucius)"
-          ],
-          "tags": [
-            "돌봄노동",
-            "인정이론",
-            "노동의정의"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=PCPoI5vGb6s",
-          "originalTitle": "Wir müssen mehr arbeiten  – stimmt das wirklich? | NANO Talk"
-        },
-        {
-          "title": "병원에서 죽는다는 것, 실수로 죽는다는 것",
-          "summary": "의료 오류 앞에서 '인간은 실수한다'는 말이 용납되는 순간과 그렇지 않은 순간",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "책임의윤리",
-            "오류문화",
-            "제도와책임"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=3VAVrPH0A2w",
-          "originalTitle": "Behandlungsfehler: 17.000 Opfer durch Pfusch im Krankenhaus? | NANO Doku"
-        },
-        {
-          "title": "왜 우리는 스스로의 문화를 혐오하는가",
-          "summary": "자기 문화에 죄책감을 느끼는 시대, 그 감정의 철학적 정체는 무엇인가",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "오이코포비아",
-            "문화비판",
-            "자기혐오"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=k56Ao_BUFlM",
-          "originalTitle": "Perché oggi tutti ODIANO l’Occidente? (La verità scomoda)"
-        },
-        {
-          "title": "데이터를 거부할 때 현실은 어떻게 무너지는가",
-          "summary": "이념이 증거를 이기는 순간, 가장 많은 사람이 죽는다",
-          "philosopher": "",
-          "philosophers": [],
-          "tags": [
-            "이념과데이터",
-            "인식적완고함",
-            "프래그머티즘"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=QEVig7dUf-4",
-          "originalTitle": "L’uomo che ha ucciso più persone nella Storia (senza usare un’arma) - Luca Romano"
-        },
-        {
-          "title": "완벽한 자리를 떠날 때 비로소 나를 찾는다",
-          "summary": "가족, 젠더, 계급—그 자리를 박차고 나오는 것이 왜 철학적 행위인가",
-          "philosopher": "클레르 마랭 (Claire Marin)",
-          "philosophers": [
-            "클레르 마랭 (Claire Marin)"
-          ],
-          "tags": [
-            "불일치",
-            "귀속감",
-            "자아이탈"
-          ],
-          "sourceUrl": "https://www.youtube.com/watch?v=X6uxYOB227M",
-          "originalTitle": "Festival del Pensare Contemporaneo 2025 | LA NOSTRA IMPERFEZIONE NEL MONDO"
-        },
-        {
-          "title": "모차르트는 왜 우리를 불편하게 하는가",
-          "summary": "아름다운 선율 속에 숨겨진 도덕적 함정, 오페라가 청중을 시험하는 방식",
-          "philosopher": "칸트 (Immanuel Kant)",
-          "philosophers": [
-            "칸트 (Immanuel Kant)"
-          ],
-          "tags": [
-            "미학적판단",
-            "예술과도덕",
-            "공감의윤리"
-          ],
-          "sourceUrl": "https://aeon.co/essays/why-mozarts-operas-are-tests-of-moral-character",
-          "originalTitle": "Artist of sympathy and cruelty"
-        },
-        {
-          "title": "하와이는 왜 낙원이 될 수 없는가",
-          "summary": "관광 포스터 속 하와이와 그 땅에 살아온 사람들이 말하는 하와이는 왜 다른가",
-          "philosopher": "발터 벤야민 (Walter Benjamin)",
-          "philosophers": [
-            "발터 벤야민 (Walter Benjamin)"
-          ],
-          "tags": [
-            "장소성",
-            "탈식민주의",
-            "토지와정체성"
-          ],
-          "sourceUrl": "https://aeon.co/videos/reclaiming-aloha-the-hawaiian-poet-rewriting-the-story-of-her-home",
-          "originalTitle": "Aloha ʻāina"
-        },
-        {
-          "title": "멕시코 철학은 왜 폐허에서 꽃피는가",
-          "summary": "패배와 혼종의 역사 속에서 탄생한 철학, 고통이 사유의 언어가 될 때",
-          "philosopher": "하이데거 (Martin Heidegger)",
-          "philosophers": [
-            "하이데거 (Martin Heidegger)"
-          ],
-          "tags": [
-            "혼종성",
-            "지정학과철학",
-            "상처의사유"
-          ],
-          "sourceUrl": "https://philosophybites.libsyn.com/carlos-alberto-snchez-on-mexican-philosophy",
-          "originalTitle": "Carlos Alberto Sánchez on Mexican Philosophy"
-        },
-        {
-          "title": "자신을 너무 진지하게 대할 때 잃는 것",
-          "summary": "풀밭을 구르는 아이를 보며 부러움을 느낀 순간, 우리는 무엇을 잃었는가?",
-          "philosopher": "베르그송 (Henri Bergson)",
-          "philosophers": [
-            "베르그송 (Henri Bergson)"
-          ],
-          "tags": [
-            "유희충동",
-            "자기경직성",
-            "페르소나"
-          ],
-          "sourceUrl": "https://bigthink.com/mind-behavior/the-hidden-cost-of-taking-yourself-too-seriously/",
-          "originalTitle": "The hidden cost of taking yourself too seriously"
-        },
-        {
-          "title": "놀이터는 어떻게 어린 시절을 재설계했는가",
-          "summary": "아이들이 자유롭게 뛰놀던 세계는 어떻게 설계된 공간으로 바뀌었는가?",
-          "philosopher": "존 듀이 (John Dewey)",
-          "philosophers": [
-            "존 듀이 (John Dewey)"
-          ],
-          "tags": [
-            "놀이의철학",
-            "통제된공간",
-            "아동기"
-          ],
-          "sourceUrl": "https://bigthink.com/history-society/how-playgrounds-reinvented-childhood/",
-          "originalTitle": "How playgrounds reinvented childhood"
-        },
-        {
-          "title": "아이를 낳지 않는 세계의 철학",
-          "summary": "전 세계적 출산율 감소는 개인의 선택인가, 문명의 신호인가?",
-          "philosopher": "한나 아렌트 (Hannah Arendt)",
-          "philosophers": [
-            "한나 아렌트 (Hannah Arendt)",
-            "쇼펜하우어 (Schopenhauer)"
-          ],
-          "tags": [
-            "탄생성",
-            "재생산의윤리",
-            "세대와미래"
-          ],
-          "sourceUrl": "https://www.theatlantic.com/ideas/2026/05/global-birthrate-decline/687297/?utm_source=feed",
-          "originalTitle": "The Great Depopulation"
-        }
-      ]
-    },
-    {
       "week": "2026-W24",
       "tags": [
         "관음충동",
@@ -7269,6 +6997,283 @@
           ],
           "sourceUrl": "https://kangaeruhito.jp/interview/764486",
           "originalTitle": "推し活は依存か希望か【後編】"
+        }
+      ]
+    },
+    {
+      "week": "2026-W49",
+      "tags": [
+        "불면",
+        "무위",
+        "수면의 역설",
+        "AI와 창작",
+        "책임 윤리",
+        "예술가의 죄책감",
+        "권위",
+        "영성",
+        "믿음",
+        "예술의 자유",
+        "검열",
+        "의미 창출",
+        "웃음의 사회학",
+        "공동체와 유머",
+        "베르그송",
+        "장례 의식",
+        "통과의례",
+        "죽음의 의미",
+        "도덕 감각",
+        "가상현실",
+        "악의 철학",
+        "군중 심리",
+        "스포츠와 폭력",
+        "집단 정체성",
+        "운과 노력",
+        "불확실성",
+        "능력주의",
+        "저항",
+        "몸의 정치",
+        "일상의 전술",
+        "정신건강",
+        "문화와 의학",
+        "진단의 정치학",
+        "원주민 정체성",
+        "문화적 절도",
+        "식민주의",
+        "감정적 상상력",
+        "비판적 사고",
+        "돌봄 윤리",
+        "사랑",
+        "관계의 지속성",
+        "공동의 세계",
+        "민족주의",
+        "만들어진 전통",
+        "고고학의 정치학",
+        "죽음",
+        "길들여진 죽음",
+        "연명치료",
+        "이키가이",
+        "삶의 의미",
+        "일상의 기쁨",
+        "취향",
+        "자기해석",
+        "일상의 감각"
+      ],
+      "articles": [
+        {
+          "title": "잠들려 할수록 잠은 달아난다",
+          "summary": "억지로 잠들려는 순간 잠은 사라진다—노자의 무위가 불면에 건네는 역설",
+          "philosopher": "노자 (Laozi)",
+          "tags": [
+            "불면",
+            "무위",
+            "수면의 역설"
+          ],
+          "sourceUrl": "https://www.radiofrance.fr/franceculture/podcasts/le-fil-philo/l-erreur-des-insomniaques-ou-la-loi-du-non-agir-8184195",
+          "originalTitle": "L'erreur des insomniaques, ou la loi du non-agir"
+        },
+        {
+          "title": "AI를 쓰는 예술가의 죄책감",
+          "summary": "창작 도구로 AI를 택한 예술가들이 느끼는 수치심—그 감정은 무엇을 말하는가",
+          "philosopher": "한스 요나스 (Hans Jonas)",
+          "tags": [
+            "AI와 창작",
+            "책임 윤리",
+            "예술가의 죄책감"
+          ],
+          "sourceUrl": "https://usbeketrica.com/fr/article/la-culpabilite-est-immediate-les-artistes-face-au-cout-social-et-ecologique-de-l-ia",
+          "originalTitle": "« La culpabilité est immédiate » : les artistes face au coût social et écologique de l’IA"
+        },
+        {
+          "title": "권위 없는 영성은 가능한가",
+          "summary": "SF 작가 필립 K. 딕이 평생 쓴 비밀 일기가 묻는다—신도 국가도 없이 우리는 무엇을 믿을 수 있는가?",
+          "philosopher": "필립 K. 딕 (Philip K. Dick)",
+          "tags": [
+            "권위",
+            "영성",
+            "믿음"
+          ],
+          "sourceUrl": "https://www.radiofrance.fr/franceculture/podcasts/avec-philosophie/philip-k-dick-journal-d-un-ecrivain-anti-autoritariste-1304041",
+          "originalTitle": "Autorité, une philosophie à (dé)faire : Philip K. Dick : journal d’un écrivain anti-autoritariste"
+        },
+        {
+          "title": "예술의 자유는 어디서 끝나는가",
+          "summary": "정치도 도덕도 예술을 제한할 수 있는가 — 자유의 한계를 묻는 오래된 질문",
+          "philosopher": "마르쿠스 가브리엘 (Markus Gabriel)",
+          "tags": [
+            "예술의 자유",
+            "검열",
+            "의미 창출"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/wo-endet-die-freiheit-der-kunst-100.html",
+          "originalTitle": "Wo endet die Freiheit der Kunst?"
+        },
+        {
+          "title": "어디서 웃느냐가 당신이 누구인지 말한다",
+          "summary": "코미디언들이 독일 전역을 돌며 발견한 것—웃음에도 지역과 계층의 지형도가 있다.",
+          "philosopher": "앙리 베르그송 (Henri Bergson)",
+          "tags": [
+            "웃음의 사회학",
+            "공동체와 유머",
+            "베르그송"
+          ],
+          "sourceUrl": "https://www.deutschlandfunkkultur.de/comedians-auf-tour-eine-etwas-andere-rundreise-durch-deutschland-100.html",
+          "originalTitle": "Comedians auf Tour: Wo im Lande wird wie gelacht?"
+        },
+        {
+          "title": "죽음의 의식이 바뀔 때 삶도 바뀐다",
+          "summary": "고전적 장례를 거부하는 사람들, 그 선택이 드러내는 죽음과 삶의 철학",
+          "philosopher": "아르놀트 판 헤네프 (Arnold van Gennep)",
+          "tags": [
+            "장례 의식",
+            "통과의례",
+            "죽음의 의미"
+          ],
+          "sourceUrl": "https://www.swr.de/swrkultur/wissen/bestattungskultur-neue-rituale-im-umgang-mit-dem-tod-100.html",
+          "originalTitle": "Bestattungskultur – Neue Rituale im Umgang mit dem Tod"
+        },
+        {
+          "title": "GTA 6의 보이지 않는 도덕적 경계",
+          "summary": "게임 속 금지선 하나가 우리 안의 도덕 감각을 어떻게 드러내는가?",
+          "philosopher": "수잔 니먼 (Susan Neiman)",
+          "tags": [
+            "도덕 감각",
+            "가상현실",
+            "악의 철학"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=OSi_7LqVSzY",
+          "originalTitle": "Perché in GTA 6 puoi INVESTIRE una vecchietta ma non SPARARE a un bambino?"
+        },
+        {
+          "title": "축구 경기가 전쟁의 불씨가 된 날",
+          "summary": "1990년 자그레브 경기장에서 시작된 폭력이 한 나라를 어떻게 갈라놓았는가?",
+          "philosopher": "엘리아스 카네티 (Elias Canetti)",
+          "tags": [
+            "군중 심리",
+            "스포츠와 폭력",
+            "집단 정체성"
+          ],
+          "sourceUrl": "https://www.youtube.com/watch?v=TmHWLkrPrDE",
+          "originalTitle": "Dinamo Zagabria - Stella Rossa Belgrado: calcio e guerra in Jugoslavia"
+        },
+        {
+          "title": "준비한 사람이 왜 더 낮은 점수를 받는가",
+          "summary": "운과 노력 사이, 마키아벨리가 발견한 불공정의 구조를 묻다",
+          "philosopher": "니콜로 마키아벨리 (Niccolò Machiavelli)",
+          "tags": [
+            "운과 노력",
+            "불확실성",
+            "능력주의"
+          ],
+          "sourceUrl": "https://www.youtube.com/shorts/4rl1ZP02BnU",
+          "originalTitle": "Cosa ci insegna il \"Principe\" sul caso"
+        },
+        {
+          "title": "옷 한 벌이 혁명이 될 때",
+          "summary": "테헤란 여성들이 히잡 없이 거리를 걷는다—그 작은 선택이 왜 사회 전체를 바꾸는가",
+          "philosopher": "미셸 드 세르토 (Michel de Certeau)",
+          "tags": [
+            "저항",
+            "몸의 정치",
+            "일상의 전술"
+          ],
+          "sourceUrl": "https://aeon.co/essays/its-not-political-the-young-fashionistas-of-tehran",
+          "originalTitle": "Catwalks and crackdowns"
+        },
+        {
+          "title": "정신질환은 모든 문화에서 같은가",
+          "summary": "우울증과 불안은 보편적 질환인가, 아니면 문화가 빚어낸 경험인가",
+          "philosopher": "아서 클라인만 (Arthur Kleinman)",
+          "tags": [
+            "정신건강",
+            "문화와 의학",
+            "진단의 정치학"
+          ],
+          "sourceUrl": "https://aeon.co/essays/are-mental-illnesses-universal-or-are-they-culturally-specific",
+          "originalTitle": "Is mental illness universal?"
+        },
+        {
+          "title": "원주민 정체성을 훔친다는 것",
+          "summary": "타인의 정체성을 '자처'하는 행위가 왜 단순한 오해가 아닌 심각한 도둑질인가?",
+          "philosopher": "디나 질리오-위태커 (Dina Gilio-Whitaker)",
+          "tags": [
+            "원주민 정체성",
+            "문화적 절도",
+            "식민주의"
+          ],
+          "sourceUrl": "https://aeon.co/essays/falsely-claiming-indigenous-identity-is-a-grave-form-of-theft",
+          "originalTitle": "The pretendian wars"
+        },
+        {
+          "title": "머리만이 아닌 가슴으로 사유할 때",
+          "summary": "이성만으로는 세계를 고칠 수 없다—19세기 여성 학자가 남긴 감정적 상상력의 유산",
+          "philosopher": "제인 엘런 해리슨 (Jane Ellen Harrison)",
+          "tags": [
+            "감정적 상상력",
+            "비판적 사고",
+            "돌봄 윤리"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/11/23/jane-ellen-harrison-heresy-and-humanity/",
+          "originalTitle": "Heart, the Heretic: The Forgotten Visionary Jane Ellen Harrison on Critical Thinking, Emotional Imagination, and How to Fix the World"
+        },
+        {
+          "title": "사랑이 오래 지속되는 비밀",
+          "summary": "두 사람만의 세계에 갇힌 사랑은 왜 시들고, '제3의 것'이 있는 사랑은 왜 지속되는가?",
+          "philosopher": "도널드 홀 (Donald Hall)",
+          "tags": [
+            "사랑",
+            "관계의 지속성",
+            "공동의 세계"
+          ],
+          "sourceUrl": "https://www.themarginalian.org/2026/11/26/donald-hall-the-third-thing/",
+          "originalTitle": "The Third Thing: Poet Donald Hall on the Secret to Lasting Love"
+        },
+        {
+          "title": "고고학은 어떻게 선전의 도구가 되는가",
+          "summary": "과거의 유물이 민족의 신화가 될 때, 역사는 무기가 된다",
+          "philosopher": "에릭 홉스봄 (Eric Hobsbawm)",
+          "tags": [
+            "민족주의",
+            "만들어진 전통",
+            "고고학의 정치학"
+          ],
+          "sourceUrl": "https://bigthink.com/history-society/how-propagandists-weaponize-archaeology/",
+          "originalTitle": "How propagandists weaponize archaeology to rewrite the past"
+        },
+        {
+          "title": "죽음을 이야기하지 않는 사회",
+          "summary": "기술이 발전할수록 우리는 왜 더 죽음을 두려워하고 외면하는가?",
+          "philosopher": "필립 아리에스 (Philippe Ariès)",
+          "tags": [
+            "죽음",
+            "길들여진 죽음",
+            "연명치료"
+          ],
+          "sourceUrl": "https://shinsho-plus.shueisha.co.jp/interview/tutumi_manda/37705",
+          "originalTitle": "テクノロジーの時代こそ、人生の最終章のシナリオを自分で書く"
+        },
+        {
+          "title": "이키가이: 작은 기쁨의 철학",
+          "summary": "남의 평가와 무관하게 오늘 하루를 살게 하는 힘, 그것은 어디서 오는가?",
+          "philosopher": "미키 기요시 (Miki Kiyoshi)",
+          "tags": [
+            "이키가이",
+            "삶의 의미",
+            "일상의 기쁨"
+          ],
+          "sourceUrl": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37845",
+          "originalTitle": "生きがい"
+        },
+        {
+          "title": "좋아하는 색을 모르는 어른들",
+          "summary": "일상에서 색을 선택할 기회를 잃을 때, 우리는 무엇을 함께 잃어가는가?",
+          "philosopher": "한스 블루멘베르크 (Hans Blumenberg)",
+          "tags": [
+            "취향",
+            "자기해석",
+            "일상의 감각"
+          ],
+          "sourceUrl": "https://gendai.media/articles/-/173311",
+          "originalTitle": "「好きな色は何ですか？」に答えられない…35歳を過ぎた日本の「おじさん」に起きている意外な変化"
         }
       ]
     }

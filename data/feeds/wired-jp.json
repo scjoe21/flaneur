@@ -1,7 +1,7 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-27T13:24:32.888470+00:00",
+  "fetchedAt": "2026-11-27T23:22:09.182464+00:00",
   "items": [
     {
       "title": "“危うさ”と“アンバランス”を肯定する──「つくる」とは何かを問い直したCREATIVE HACK AWARDS 2026 授賞式レポート",
@@ -17,22 +17,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
-      }
-    },
-    {
-      "title": "10人の専門家に訊く、AIの「本当の悪夢」",
-      "url": "https://wired.jp/article/sz-the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
-      "description": "核の大惨事のリスクも米中の覇権争いの脅威も現実だ。ただし“スカイネット”を恐れてパニックになる必要はない。",
-      "date": "Tue, 24 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 10,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
       }
     },
     {
@@ -97,6 +81,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "相次いだ大規模なシステム障害は、まだ序章にすぎない",
+      "url": "https://wired.jp/article/brace-yourself-for-years-of-outage-chaos/",
+      "description": "AIによって脆弱性の発見と悪用が加速し、企業はシステムの修正を急ぐ必要に迫られている。しかし、十分に検証せずにパッチを適用することで、かえってシステム障害が起きる可能性がある。",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "スマートフォンになれなかった冷蔵庫｜FOOD Lab",
+      "url": "https://wired.jp/article/sz-food-lab-regenerative-technology/",
+      "description": "「実現すれば世界が大きく変わる」と期待されながら、結局は終わってしまった数々のフードイノベーション構想。そこに宿っていた未来の可能性を、リジェネラティブ・テクノロジーの視点から読み解く。",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -216,22 +232,6 @@
       "url": "https://wired.jp/article/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
       "description": "NVIDIAのCEOに復帰したジェンスン・フアンは、社内規定に違反したことを認める一方、取締役会の判断の正当性を主張した。従業員への接し方や後継者計画にも言及したが、社内には依然として復帰への懸念が残る。",
       "date": "Wed, 25 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "脳の信号をリアルタイムで音声化。BCIのデータ処理にNVIDIAのAI技術",
-      "url": "https://wired.jp/article/nvidia-is-powering-brain-computer-interfaces-now/",
-      "description": "発話が困難な人の思考を言葉に変換するには、膨大な計算能力が必要となる。ブレイン・コンピューター・インターフェース（BCI）を開発するParadromicsは、NVIDIAと提携し、処理装置の小型化と実用化を目指す。",
-      "date": "Tue, 24 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

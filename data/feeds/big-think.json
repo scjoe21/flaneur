@@ -1,7 +1,7 @@
 {
   "sourceId": "big-think",
   "sourceName": "Big Think",
-  "fetchedAt": "2026-11-27T13:24:09.639916+00:00",
+  "fetchedAt": "2026-11-27T23:21:51.855133+00:00",
   "items": [
     {
       "title": "How propagandists weaponize archaeology to rewrite the past",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "3 keys will unlock the next level in how the Universe began",
-      "url": "https://bigthink.com/starts-with-a-bang/3-keys-next-level-how-universe-began/",
-      "description": "In all the Universe, there’s no bigger question — and no greater mystery — than where all of this came from, and how all of this came to be. For countless generations, our cosmic origins were a question for poets, theologians, and philosophers, as our scientific knowledge had not yet advanced to the point where we could uncover an evidence-based answer to such questions. However, the 20th and 21st centuries changed all of that, allowing us to pin down the answers to such questions as: \n \n What r",
-      "date": "Tue, 24 Nov 2026",
-      "thumbnail": "https://bigthink.com/wp-content/uploads/2025/02/mapping-timeline.jpg?quality=85&w=640",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
       "title": "Why neutrality is worth chasing, even if no one gets there",
       "url": "https://bigthink.com/series/conversations/why-neutrality-is-worth-chasing-even-if-no-one-gets-there/",
       "description": "Critics say neutrality is impossible, but Jimmy Wales, founder of Wikipedia and author of  The Seven Rules of Trust , argues that this is no reason to stop trying. In this conversation with Jonny Thomson, he explains why a fight over a single word, from “Gdańsk” to “security fence,” is often what an encyclopedia should explain. He also says no one can fully see the biases built into AI models, and that people were cruel to each other online long before algorithms. The two also discuss why Wales ",
@@ -97,6 +81,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "The invention that changed reading forever (and it wasn’t the Kindle)",
+      "url": "https://bigthink.com/books/history-of-paperback-books/",
+      "description": "We live in a time of technological revolution. The past 50 years have birthed the personal computer, the smartphone, and now artificial intelligence. While each is a world-changing invention and still relatively young, none yet rivals the movable-type printing press.  \n Starting around 1440 in Mainz, Germany, Johannes Gutenberg’s invention enabled information to spread as never before. It cultivated ideas, seeded revolutions, and so much more. It also gave birth to a new industry: bookselling. T",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "https://bigthink.com/wp-content/uploads/2026/11/war-on-paperbacks.jpg?quality=85&w=640",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {

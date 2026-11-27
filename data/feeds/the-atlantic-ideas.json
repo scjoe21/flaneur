@@ -1,7 +1,7 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-27T13:24:10.190778+00:00",
+  "fetchedAt": "2026-11-27T23:21:52.217048+00:00",
   "items": [
     {
       "title": "Why I Changed My Mind About the Death Penalty",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "Why College Towns Are Booming",
+      "url": "https://www.theatlantic.com/ideas/2026/11/housing-yimby-college-towns/689596/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-27",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -52,22 +68,6 @@
       }
     },
     {
-      "title": "The YIMBY Movement’s Greatest Success",
-      "url": "https://www.theatlantic.com/ideas/2026/11/housing-yimby-college-towns/689596/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-27",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "The Great American Tradition",
       "url": "https://www.theatlantic.com/ideas/2026/11/boycotts-mississippi-naacp-press-scotus/689568/?utm_source=feed",
       "description": "",
@@ -100,19 +100,19 @@
       }
     },
     {
-      "title": "Orwell Has Become What He Despised",
-      "url": "https://www.theatlantic.com/ideas/2026/11/george-orwell-trump-authoritarianism/689542/?utm_source=feed",
+      "title": "Jared Kushner’s Strategic Pixie Dust",
+      "url": "https://www.theatlantic.com/ideas/2026/11/kushner-ukraine/689599/?utm_source=feed",
       "description": "",
-      "date": "2026-11-23",
+      "date": "2026-11-27",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {

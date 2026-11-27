@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-27T13:24:22.830306+00:00",
+  "fetchedAt": "2026-11-27T23:21:59.956878+00:00",
   "items": [
     {
       "title": "How AI has made us rethink what 'intelligence' is | Pasterski, Lawson, Borowski, Wooldridge",
@@ -49,6 +49,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 25
+      }
+    },
+    {
+      "title": "Who is eligible to die? | Kathleen Stock",
+      "url": "https://www.youtube.com/shorts/YmLQ_Obq5eo",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/when-compassion-turns-dangerous?utm_source=YouTube&utm_medium=description\n\n#dying #death #philosophy",
+      "date": "2026-11-27",
+      "thumbnail": "https://i2.ytimg.com/vi/YmLQ_Obq5eo/hqdefault.jpg",
+      "videoId": "YmLQ_Obq5eo",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-11-21",
       "thumbnail": "https://i4.ytimg.com/vi/SobUaFTnfMs/hqdefault.jpg",
       "videoId": "SobUaFTnfMs",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Politics is like being in a relationship | Louisa Munch",
-      "url": "https://www.youtube.com/shorts/DKoSK-UhiNU",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/the-media-manufactures-your-ignorance-with-louisa-munch\n\n#politics #solution #rightwing #leftwing #relationship",
-      "date": "2026-11-14",
-      "thumbnail": "https://i1.ytimg.com/vi/DKoSK-UhiNU/hqdefault.jpg",
-      "videoId": "DKoSK-UhiNU",
       "priority": 5,
       "scoreDetail": {
         "daily": 5,

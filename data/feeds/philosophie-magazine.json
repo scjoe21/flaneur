@@ -1,8 +1,24 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-27T13:23:49.626661+00:00",
+  "fetchedAt": "2026-11-27T23:21:37.431536+00:00",
   "items": [
+    {
+      "title": "Santé mentale : bienvenue dans l’âge du spectre",
+      "url": "https://www.philomag.com/articles/sante-mentale-bienvenue-dans-lage-du-spectre",
+      "description": "",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
     {
       "title": "Srdja Popovic : “Pour que les jeunes prennent le pouvoir, la colère ne suffit pas”",
       "url": "https://www.philomag.com/articles/srdja-popovic-pour-que-les-jeunes-prennent-le-pouvoir-la-colere-ne-suffit-pas",
@@ -216,22 +232,6 @@
       "url": "https://www.philomag.com/articles/lhistoire-est-elle-un-eternel-recommencement",
       "description": "",
       "date": "Tue, 17 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "À quoi voit-on qu’on est encore jeune ?",
-      "url": "https://www.philomag.com/articles/quoi-voit-quon-est-encore-jeune",
-      "description": "",
-      "date": "Fri, 13 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
