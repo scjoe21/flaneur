@@ -1,7 +1,7 @@
 {
   "sourceId": "sternstunde-philosophie",
   "sourceName": "Sternstunde Philosophie (SRF)",
-  "fetchedAt": "2026-11-22T22:26:39.070109+00:00",
+  "fetchedAt": "2026-11-27T13:23:57.591019+00:00",
   "items": [
     {
       "title": "Bequeme neue Welt: Verlernen wir das Menschsein? | Sternstunde Philosophie | SRF Kultur",
@@ -65,6 +65,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 50
+      }
+    },
+    {
+      "title": "Jugendproteste: Wem gehört die Zukunft? | Sternstunde Philosophie | SRF Kultur",
+      "url": "https://www.youtube.com/watch?v=PkjIoKzfcOM",
+      "description": "Junge Menschen protestieren. Sie fordern bessere Lebensbedingungen und mehr Mitsprache. Was schulden die Generationen einander? Und wie weit darf Protest gehen? \n\nThemen in dieser Folge:\n00:00 Wieso protestieren junge Menschen gerade jetzt? \n21:29 Wozu braucht eine Demokratie Proteste? \n32:05 Bestimmen aufgrund der demografischen Überlegenheit die Älteren über die Zukunft der Jüngeren? \n42:05 Was schulden die Älteren der jüngeren Generation? \n\nSich anstrengen, eine Ausbildung machen, ein gutes L",
+      "date": "2026-11-23",
+      "thumbnail": "https://i1.ytimg.com/vi/PkjIoKzfcOM/hqdefault.jpg",
+      "videoId": "PkjIoKzfcOM",
+      "priority": 45,
+      "scoreDetail": {
+        "daily": 30,
+        "phil": 15,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 45
       }
     },
     {
@@ -225,22 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 20
-      }
-    },
-    {
-      "title": "Gewaltfreie Kommunikation: Wie geht das, Benjamin Küntzel?",
-      "url": "https://www.youtube.com/watch?v=4vCavNTzeUQ",
-      "description": "Vorwürfe brennen wie eine Ohrfeige, latente Aggression zermürbt. Die Methode der «Gewaltfreien Kommunikation» verspricht, Konflikte empathisch und verletzungsfrei zu lösen. Der Philosoph Benjamin Küntzel führt im «Zimmer 42» an die Methode heran.\n\n«Immer unterbrichst Du mich!» - «Nie kann man es dir recht machen!» Wer solche Sätze hört, macht dicht. Der US-Psychologe Marshall B. Rosenberg (1934–2015) entwickelte mit der «Gewaltfreien Kommunikation» (GFK) eine Methode, um Konflikte zu entschärfen",
-      "date": "2026-09-22",
-      "thumbnail": "https://i1.ytimg.com/vi/4vCavNTzeUQ/hqdefault.jpg",
-      "videoId": "4vCavNTzeUQ",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
       }
     }
   ]

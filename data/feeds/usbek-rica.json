@@ -1,7 +1,7 @@
 {
   "sourceId": "usbek-rica",
   "sourceName": "Usbek & Rica",
-  "fetchedAt": "2026-11-22T22:26:30.661168+00:00",
+  "fetchedAt": "2026-11-27T13:23:50.145959+00:00",
   "items": [
     {
       "title": "Et si la meilleure manière de prévenir la dépression, c’était de réduire les inégalités de genre ?",
@@ -20,16 +20,80 @@
       }
     },
     {
-      "title": "IA et cinéma : 8 milliards d'humains, mais un seul récit ?",
-      "url": "https://usbeketrica.com/fr/article/ia-et-cinema-huit-milliards-d-humains-un-seul-recit",
-      "description": "Alors que les images générées par IA envahissent nos écrans, une question reste dans l’angle mort du débat : qui, désormais, raconte le monde ? C’est la question que pose dans cette tribune Michael Swierczynski, cofondateur et président de We Are Human, festival international de films  consacré aux droits humains et à la création à l’ère de l’IA. Sa première édition, placée sous l’article premier de la Déclaration universelle des droits de l’homme, se tient le 24 novembre à Paris. Il plaide pour",
-      "date": "Tue, 17 Nov 2026",
+      "title": "En Inde, les « cafards » rebattent les cartes de la contestation numérique",
+      "url": "https://usbeketrica.com/fr/article/en-inde-les-cafards-rebattent-les-cartes-de-la-contestation-numerique",
+      "description": "Quinze ans après les printemps arabes, la Gen Z est descendue dans les rues de New Delhi et de plusieurs grandes villes du pays pour dénoncer la précarité de la jeunesse indienne. Née en ligne, cette fronde inédite par son ampleur montre que les réseaux sociaux peuvent encore constituer un puissant contre-pouvoir. Mais comment manifester à l’ère des drones et des lunettes connectées ? Un reportage à retrouver dans le nouveau numéro de FUTUR, le magazine d'Usbek & Rica.",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 28,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 28
+      }
+    },
+    {
+      "title": "« nous, enfants du 21e siècle », une expo pour rendre à l’enfance son épaisseur politique",
+      "url": "https://usbeketrica.com/fr/article/nous-enfants-du-21e-siecle-une-expo-pour-rendre-a-l-enfance-son-epaisseur-politique",
+      "description": "À travers des archives historiques et des œuvres contemporaines, l’exposition nous, enfants du 21e siècle entremêle les enjeux de justice climatique et le mouvement des droits de l’enfant. Un dispositif emballant, à découvrir jusqu’au 14 mars 2027 au Centre d'art contemporain de Malakoff, dans les Hauts-de-Seine.",
+      "date": "Thu, 26 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 5,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "« La culpabilité est immédiate » : les artistes face au coût social et écologique de l’IA",
+      "url": "https://usbeketrica.com/fr/article/la-culpabilite-est-immediate-les-artistes-face-au-cout-social-et-ecologique-de-l-ia",
+      "description": "Par curiosité ou souci d’efficacité, les artistes utilisent de plus en plus des outils d’IA générative, tout en ayant conscience de leur impact sur l’environnement et sur le marché du travail. Témoignages croisés, du petit dilemme à la honte envahissante.",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 23,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 23
+      }
+    },
+    {
+      "title": "La réglementation climatique peut devenir la meilleure des politiques industrielles pour la France",
+      "url": "https://usbeketrica.com/fr/article/la-reglementation-climatique-peut-devenir-la-meilleure-des-politiques-industrielles-pour-la-france",
+      "description": "TRIBUNE // Fondateur de Team for the Planet, un réseau d’investisseurs citoyens pour le climat, Mehdi Coly avance dans cet article que la réglementation climatique, souvent présentée comme une source de contraintes et un frein à la compétitivité pour les entreprises françaises, peut au contraire devenir un facteur d’émancipation économique.",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 5,
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "« La COP31 a été prise en otage par des régimes financés par la rente pétrolière »",
+      "url": "https://usbeketrica.com/fr/article/la-cop31-a-ete-prise-en-otage-par-des-regimes-finances-par-la-rente-petroliere",
+      "description": "La COP31 s’est achevée sans accord sur la déclaration finale ce samedi 20 novembre à Antalya, en Turquie. On fait le bilan avec Géraldine Pflieger, auteure principale du GIEC et professeure en sciences politiques à l'université de Genève. Présente sur place ces deux dernières semaines, elle vient également de faire paraître Négocier le climat. Géopolitique des COP aux éditions Armand Colin.",
+      "date": "Mon, 23 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
@@ -54,7 +118,7 @@
     {
       "title": "AVANT-POSTE",
       "url": "https://usbeketrica.com/fr/article/competences-un-bien-commun",
-      "description": "Dans cet épisode d’Avant-poste, le podcast de l’Unédic, Léa Lejeune reçoit Samuel Durand, réalisateur et spécialiste du futur du travail. Au cœur de leur échange : la question des compétences, qui ne relève plus seulement des parcours individuels, mais devient un enjeu collectif, au cœur de l’équilibre du marché du travail.",
+      "description": "Dans cet épisode d’Avant-poste, le podcast de l’Unédic, la journaliste Léa Lejeune reçoit Samuel Durand, réalisateur et spécialiste du futur du travail. Au cœur de leur échange : la question des compétences, qui ne relève plus seulement des parcours individuels, mais devient un enjeu collectif, au cœur de l’équilibre du marché du travail.",
       "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
@@ -65,6 +129,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 14
+      }
+    },
+    {
+      "title": "IA et cinéma : 8 milliards d'humains, mais un seul récit ?",
+      "url": "https://usbeketrica.com/fr/article/ia-et-cinema-huit-milliards-d-humains-un-seul-recit",
+      "description": "C’est la question que pose dans cette tribune Michael Swierczynski, cofondateur et président de We Are Human. Pour sa première édition le 24 novembre à Paris, ce festival international de films - consacré aux droits humains à l’ère de l’IA - plaide pour que la création reprenne la main sur l’imaginaire de demain.",
+      "date": "Tue, 17 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
       }
     },
     {
@@ -81,38 +161,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 10
-      }
-    },
-    {
-      "title": "À Roubaix, une école pour former les réparateurs de demain",
-      "url": "https://usbeketrica.com/fr/article/a-roubaix-une-ecole-pour-former-les-reparateurs-de-demain",
-      "description": "Former les artisans de la mode circulaire de demain : c’est toute l’ambition de l’École de la Réparation qui a accueilli sa deuxième promotion à la rentrée 2026. Plongée dans cet établissement hybride qui entend raccommoder bien plus que des vêtements et des chaussures.",
-      "date": "Sun, 08 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "L'université ne prépare pas les étudiants à résoudre les problèmes du futur",
-      "url": "https://usbeketrica.com/fr/article/l-universite-ne-prepare-pas-les-etudiants-a-resoudre-les-probleme-du-futur",
-      "description": "TRIBUNE // Face aux transitions écologiques et aux incertitudes économiques, les étudiants doivent apprendre à se préparer à des métiers qui n'existent pas encore. Et si imaginer le futur devenait une compétence à part entière ? C'est ce que défend Mathieu Dunes, professeur associé en Science de Gestion à l'IAE Amiens et co-auteur de travaux sur les bénéfices du design fiction dans la formation étudiante.",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://usbeketrica.com/fr/article/repetitif-ou-audacieux-notre-avis-sur-hunger-games-lever-de-soleil-sur-la-moisson",
       "description": "Le nouveau volet de la saga de science-fiction à succès, consacré à la jeunesse du personnage d’Haymitch Abernathy, mentor des protagonistes Katniss et Peeta dans les films originaux, sort en salles ce mercredi 18 novembre.",
       "date": "Tue, 17 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "En Tanzanie, les crédits carbone menacent les Maasaï",
-      "url": "https://usbeketrica.com/fr/article/en-tanzanie-les-credits-carbone-menacent-les-maasai",
-      "description": "Ces dernières années, les projets de crédits carbone se multiplient en Afrique. En Tanzanie, ils promettent de préserver les sols, mais privent parfois les Maasaï de leurs terres ancestrales. Les éleveurs dénoncent un mécanisme écologique qui, sous sa forme actuelle, reproduit les déséquilibres entre le Nord et le Sud, suivant une logique profondément néocolonialiste. Reportage initialement publié dans le numéro d'hiver 2026 de FUTUR, le magazine d'Usbek & Rica.",
-      "date": "Tue, 10 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Les Français et le futur : 5 chiffres pour briser les clichés",
-      "url": "https://usbeketrica.com/fr/article/jeunes-moderes-riches-pessimistes-5-cliches-sur-notre-rapport-au-futur-dementis",
-      "description": "Non, les jeunes ne sont pas tous avides de rupture. Non, la France rurale  n'est pas forcément plus inquiète que celle des métropoles. Dans un rapport publié le 29 octobre, la Fondation Jean-Jaurès s’est penchée sur le rapport au futur des Français. Une étude qui permet de briser quelques clichés sur le sujet. La preuve à travers cinq chiffres emblématiques.",
-      "date": "Fri, 06 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Midterms : les data centers, autres grands perdants du scrutin",
-      "url": "https://usbeketrica.com/fr/article/midterms-les-data-centers-autres-grands-perdants-du-scrutin",
-      "description": "Avec l’adoption d’une trentaine de mesures locales visant à freiner la création de nouveaux data centers (selon un décompte encore provisoire), les élections de mi-mandat aux États-Unis ont été marquées par un net rejet des « grands projets industriels » liés à l’intelligence artificielle (IA).",
-      "date": "Wed, 04 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

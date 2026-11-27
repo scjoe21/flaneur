@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophy-bites",
   "sourceName": "Philosophy Bites",
-  "fetchedAt": "2026-11-22T22:26:49.373200+00:00",
+  "fetchedAt": "2026-11-27T13:24:08.792318+00:00",
   "items": [
     {
       "title": "Lani Watson on the Power of Questions",
@@ -116,6 +116,22 @@
       }
     },
     {
+      "title": "Carlo Rovelli on the Nature of Reality",
+      "url": "https://philosophybites.libsyn.com/carlo-rovelli-on-the-nature-of-reality",
+      "description": "Philosophers and physicists have historically tried to get an accurate picture of reality. But is there some ultimate reality that we're gradually getting a better grasp of? Physicist-philosopher Carlo Rovelli, author of  On the Equality of All Things , discusses this question with Nigel Warburton in this episode of the Philosophy Bites podcast.",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
       "title": "Nilanjan Das on Buddhist Philosophy and Caste",
       "url": "https://philosophybites.libsyn.com/nilanjan-das-on-buddhist-philosophy-and-caste",
       "description": "There is a long tradition of caste in South Asia. In this episode of the Philosophy Bites podcast Nilanjan Das discusses a pre-modern philosophical critic of the whole system, and particularly of its underlying metaphysical assumptions.   This episode was supported by the Ideas Workshop, part of the Open Society Foundations",
@@ -136,22 +152,6 @@
       "url": "https://philosophybites.libsyn.com/tarun-khaitan-on-decolonising-institutions",
       "description": "Narendra Modi has spoken of \"decolonising\" India including its post-colonial constitution Are philosophical criticisms of this constitution well-founded? Tarun Khaitan of the London School of Economics discusses.   This episode of the Philosophy Bites podcast was supported by the Ideas Workshop, part of the Open Society Foundations.",
       "date": "Thu, 26 Feb 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Chike Jeffers on Africana Philosophy",
-      "url": "https://philosophybites.libsyn.com/chike-jeffers-on-afrikana-philosphy",
-      "description": "David Edmonds talks to Chike Jeffers of Dalhousie University about Africana Philosophy.   This episode was supported by the Ideas Workshop, part of the Open Society Foundations.",
-      "date": "Thu, 01 Jan 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,

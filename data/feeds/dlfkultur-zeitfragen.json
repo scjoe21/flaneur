@@ -1,7 +1,7 @@
 {
   "sourceId": "dlfkultur-zeitfragen",
   "sourceName": "Zeitfragen. Feature (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-22T22:26:57.743050+00:00",
+  "fetchedAt": "2026-11-27T13:24:16.164375+00:00",
   "items": [
     {
       "title": "Smart Store und Plauderkasse - Wie sich Supermärkte neu erfinden",
@@ -52,22 +52,6 @@
       }
     },
     {
-      "title": "Die Weisheit der Wenigen - Wer auf Prognosemärkten gewinnt",
-      "url": "https://www.deutschlandfunkkultur.de/die-weisheit-der-wenigen-wer-auf-prognosemaerkten-gewinnt-100.html",
-      "description": "Vor den US-Midterms boomen Prognosemärkte wie Kalshi und Polymarket. Sie liefern oft erstaunlich gute Vorhersagen. Wer viel Geld setzt, kann Quoten verschieben und so den Wahlkampf beeinflussen. Während die Masse zahlt, profitieren andere. Guckelsberger, Florian www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Thu, 29 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 39,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 39
-      }
-    },
-    {
       "title": "NS-Verbrechen - Warum die SED jüdische Opfer nicht entschädigt hat",
       "url": "https://www.deutschlandfunkkultur.de/leo-zuckermanns-scheitern-die-sed-und-die-entschaedigung-juedischer-ns-opfer-100.html",
       "description": "Schon 1946 plante die SED eine Entschädigung jüdischer NS-Opfer. Trotz ihrer Vorbehalte gegen Privateigentum ließ sie dafür einen Gesetzentwurf erarbeiten. Doch der ist nie in Kraft getreten, denn mit der Gründung der DDR drehte sich der Wind. Beckmann, Andreas www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -100,6 +84,38 @@
       }
     },
     {
+      "title": "Kugelblitz: Das Geheimnis eines mysteriösen Naturphänomens",
+      "url": "https://www.deutschlandfunkkultur.de/der-kugelblitz-das-geheimnis-eines-myserioesen-naturphaenomens-100.html",
+      "description": "Als Achtjähriger erlebt Axel Wittmann an einem gewittrigen Sommerabend ein faszinierendes Naturschauspiel. Der Physiker ist sich mittlerweile sicher, es war ein Kugelblitz. Ein Phänomen, das die Wissenschaft bis heute vor Rätsel stellt. (Erstsendung am 24.4.2025) Reidt, Lutz www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Thu, 26 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Meinungsfreiheit und die Justiz - Was ist sagbar, was ist strafbar?",
+      "url": "https://www.deutschlandfunkkultur.de/meinungsfreiheit-und-die-justiz-was-ist-sagbar-was-ist-strafbar-100.html",
+      "description": "Darf man Soldaten als \"Mörder\" und Politiker als \"Lackaffen\" oder \"Schwachkopf\" bezeichnen? Einiges ist schnell gesagt - aus dem Affekt oder von langer Hand geplant. Doch was ist sagbar, und was ist strafbar? Elfering, Marius www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Mon, 23 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 25,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
       "title": "KI-assoziierte Psychosen: Wie Chatbots unsere Wahrnehmung verändern können",
       "url": "https://www.deutschlandfunkkultur.de/gefaehrliche-naehe-ki-psychose-und-die-sehnsucht-nach-menschlichkeit-100.html",
       "description": "Unterhaltungen mit Chatbots wirken zum Teil wie Gespräche mit echten Menschen. Aber was passiert, wenn ein KI-System nicht nur reagiert, sondern uns bestätigt und scheinbar versteht? Schon gibt es das Schlagwort von der KI-Psychose. (Erstsendung 9.7.2026) Schroeder,Carina www.deutschlandfunkkultur.de, Zeitfragen. Feature",
@@ -110,22 +126,6 @@
       "scoreDetail": {
         "daily": 20,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Harry Houdini - Vom Nobody zur Marke",
-      "url": "https://www.deutschlandfunkkultur.de/harry-houdini-102.html",
-      "description": "Harry Houdini ist der berühmteste Entfesselungskünstler der Welt. Seine Zwangsjacken-Nummer gilt heute als einer der größten Stunts der Illusionskunst. Dass Houdini so erfolgreich wurde, war reiner Zu- und ein echter Glücksfall. Just, Dagmar www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Wed, 28 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
         "total": 25
@@ -196,19 +196,19 @@
       }
     },
     {
-      "title": "Hermann Bickels letzter Sommer - Wird die Alpwirtschaft verschwinden?",
-      "url": "https://www.deutschlandfunkkultur.de/hermann-bickels-letzter-sommer-wird-die-alpwirtschaft-verschwinden-100.html",
-      "description": "Kühe melken, Zäune bauen, steile Hänge meistern: Hinter der Alpenromantik steckt harte Arbeit. Auf einer Alpe in Vorarlberg steht ein Generationenwechsel bevor. Nun entscheidet sich, ob eine jahrhundertealte Tradition weiterleben kann. Schlag, Gabi www.deutschlandfunkkultur.de, Zeitfragen. Feature",
-      "date": "Tue, 27 Oct 2026",
+      "title": "Arbeitsmarkt - Ohne Job trotz offener Stellen",
+      "url": "https://www.deutschlandfunkkultur.de/keine-arbeit-keine-arbeitskraefte-mismatch-in-deutschland-100.html",
+      "description": "Viele junge Menschen in Deutschland finden keinen Ausbildungsplatz. Gleichzeitig fehlt Unternehmen der Nachwuchs. Was passt da nicht zusammen? Unter dem \"Mismatch\" von Bedarf und Qualifikation am Arbeitsmarkt leidet die gesamte Wirtschaft. (Erstendung am 10.02.2026) Hildebrandt, Paul www.deutschlandfunkkultur.de, Zeitfragen. Feature",
+      "date": "Tue, 24 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 19,
       "scoreDetail": {
         "daily": 10,
         "phil": 5,
-        "flaneur": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 15
+        "total": 19
       }
     },
     {

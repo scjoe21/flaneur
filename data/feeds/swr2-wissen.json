@@ -1,22 +1,22 @@
 {
   "sourceId": "swr2-wissen",
   "sourceName": "Das Wissen (SWR Kultur)",
-  "fetchedAt": "2026-11-22T22:27:00.403141+00:00",
+  "fetchedAt": "2026-11-27T13:24:18.719112+00:00",
   "items": [
     {
-      "title": "Bioweine, PiWi und Events – Wie Winzer die Krise bewältigen wollen",
-      "url": "https://www.swr.de/swrkultur/wissen/bioweine-piwi-und-events-wie-winzer-die-krise-bewaeltigen-wollen-100.html",
-      "description": "Kostenexplosion, sinkender Weinkonsum und Klimawandel zwingen viele Winzer, Geschäftsmodelle zu überdenken und Neues auszuprobieren, etwa pilzresistente Sorten.",
-      "date": "Tue, 10 Nov 2026",
+      "title": "Wirecard und Cum-Ex – Warum Wirtschaftsbetrug so einfach ist",
+      "url": "https://www.swr.de/swrkultur/wissen/wirecard-und-cum-ex-warum-wirtschaftsbetrug-so-einfach-ist-102.html",
+      "description": "Ein System, das man überlisten kann. Dann geht der Betrug in kleinen Schritten weiter. Erfolg muss her, egal wie. Das zu durchschauen, dafür fehlt Ermittlern oft das Spezialwissen.",
+      "date": "Mon, 23 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
+      "priority": 33,
       "scoreDetail": {
         "daily": 25,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 35
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 33
       }
     },
     {
@@ -100,19 +100,51 @@
       }
     },
     {
-      "title": "Albträume – Was uns quält und wie wir es loswerden",
-      "url": "https://www.swr.de/swrkultur/wissen/albtraeume-was-uns-quaelt-und-wie-wir-es-loswerden-100.html",
-      "description": "Millionen Menschen in Deutschland bekommen im Traum Panikattacken oder leiden unter Versagensängsten. Wir blicken auf typische Albtraummotive und wirksame Therapien.",
-      "date": "Mon, 9 Nov 2026 ",
+      "title": "Leihmutterschaft und Eizellspende – Was dafür und was dagegen spricht",
+      "url": "https://www.swr.de/swrkultur/wissen/leihmutterschaft-und-eizellspende-was-dafuer-und-was-dagegen-spricht-100.html",
+      "description": "Jens Spahn ist nicht der Einzige: Weil Eizellspende und Leihmutterschaft in Deutschland verboten sind, weichen viele ins Ausland aus. Wie sehen ethisch vertretbare Lösungen aus?",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 19,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Bestattungskultur – Neue Rituale im Umgang mit dem Tod",
+      "url": "https://www.swr.de/swrkultur/wissen/bestattungskultur-neue-rituale-im-umgang-mit-dem-tod-100.html",
+      "description": "Die Hälfte der Deutschen möchte keine klassische Bestattung mehr. Neue Formen wie die Re-Erdigung oder Asche, die in die Erde eines Baumes gegeben wird, werden nun nachgefragt.",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
       "scoreDetail": {
         "daily": 15,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 19
+        "total": 15
+      }
+    },
+    {
+      "title": "Recycling kritischer Rohstoffe – Wie Europa unabhängiger werden will",
+      "url": "https://www.swr.de/swrkultur/wissen/recycling-kritischer-rohstoffe-wie-europa-unabhaengiger-werden-will-100.html",
+      "description": "Seltene Erden und andere Rohstoffe für die Hightech-Industrie müssen bisher meist aus China importiert werden. Bis 2030 will die EU 25 Prozent aus dem Recycling zurückgewinnen.",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -148,38 +180,6 @@
       }
     },
     {
-      "title": "Bürokratie abbauen – Was ist vernünftig?",
-      "url": "https://www.swr.de/swrkultur/wissen/buerokratie-abbauen-was-ist-vernuenftig-100.html",
-      "description": "Die Bundes- und viele Landesregierungen versprechen Bürokratieabbau – meinen damit aber zum Teil ganz unterschiedliche Maßnahmen. Welche Maßnahmen sind wirklich sinnvoll?",
-      "date": "Sun, 8 Nov 2026 ",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 10
-      }
-    },
-    {
-      "title": "Veteranen in Deutschland – Zwischen Ehre, Trauma und Symbolpolitik",
-      "url": "https://www.swr.de/swrkultur/wissen/veteranen-in-deutschland-zwischen-ehre-trauma-und-symbolpolitik-100.html",
-      "description": "In den USA gehört der Veterans Day am 11. November zur politischen Kultur. Deutschland hat erst 2025 einen Veteranentag eingeführt – und ringt um seine Bedeutung.",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 9,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 9
-      }
-    },
-    {
       "title": "Kinder als Zeugen – Richtig fragen, ohne zu manipulieren",
       "url": "https://www.swr.de/swrkultur/wissen/kinder-als-zeugen-richtig-fragen-ohne-zu-manipulieren-104.html",
       "description": "In Fällen von Missbrauch sind die betroffenen Kinder oft die einzigen Zeugen. Es ist einiges zu beachten, damit ihre Aussagen verlässlich sind. Sie müssen altersgemäß befragt werden.",
@@ -212,19 +212,19 @@
       }
     },
     {
-      "title": "KI als Dolmetscher – Wozu noch Fremdsprachen lernen?",
-      "url": "https://www.swr.de/swrkultur/wissen/ki-als-dolmetscher-wozu-noch-fremdsprachen-lernen-100.html",
-      "description": "KI kann Nachrichten oder technische Texte gut übersetzen, hat aber ihre Grenzen bei Literatur, Comics oder Poesie. Und wer eine Sprache lernt, tut etwas für seine Kognition.",
-      "date": "Sat, 7 Nov 2026 ",
+      "title": "Femizide verhindern ‒ Männergewalt frühzeitig erkennen und stoppen",
+      "url": "https://www.swr.de/swrkultur/wissen/femizide-verhindern-maennergewalt-fruehzeitig-erkennen-und-stoppen-100.html",
+      "description": "Der Mord an einer Frau, die nicht den Vorstellungen des Täters von \"Frau sein\" entspricht, kündigt sich häufig an. Prävention ist möglich.",
+      "date": "Wed, 25 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
+        "phil": 0,
+        "flaneur": 4,
         "novelty": 0,
-        "total": 5
+        "total": 4
       }
     },
     {

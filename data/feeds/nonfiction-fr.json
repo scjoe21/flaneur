@@ -1,7 +1,7 @@
 {
   "sourceId": "nonfiction-fr",
   "sourceName": "Nonfiction.fr",
-  "fetchedAt": "2026-11-22T22:26:55.132380+00:00",
+  "fetchedAt": "2026-11-27T13:24:13.791788+00:00",
   "items": [
     {
       "title": "Anton Jäger et Olivier Roy : comment refaire du collectif ?",
@@ -148,35 +148,35 @@
       }
     },
     {
-      "title": "Fantomatique Modiano",
-      "url": "https://www.nonfiction.fr/article-12885-fantomatique-modiano.htm",
-      "description": "* Anne Coudreuse a également publié une  critique  du roman de Patrick Modiano.  \r\n\r\n Il y a une sorte de point aveugle dans l’œuvre de Modiano. Une chose non précisément représentable, qu’il n’a pas vécue, mais qui l’habite cependant. Sa conscience vogue sur les ondes de l’espace-temps. Il est, en même temps, là et ailleurs. Il cherche des traces dans son passé et dans celui de personnes qu’il a connues dans les jours lointains de sa jeunesse. Il poursuit notamment l’insaisissable Albert Modian",
-      "date": "Sat, 17 Oct 2026",
+      "title": "Cité-Philo 2026 : les arts contre le déclinisme",
+      "url": "https://www.nonfiction.fr/article-12938-cite-philo-2026-les-arts-contre-le-declinisme.htm",
+      "description": "L’édition 2026 de Cité-Philo Lille  a choisi pour thème de ses rencontres une interrogation massive :  «  Que nous arrive-t-il ?  »  Ce titre constitue un emprunt : cette formule a notamment été employée par Jacques Derrida et Jean-François Lyotard dans l'objectif d'interroger notre temps et ce que nous appelons encore « la modernité ». Elle s'inscrit dans une succession historique de grandes interrogations : après le dépassement de la dualité « Amour et Loi », caractéristique de l'époque médiév",
+      "date": "Wed, 25 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 9,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 4,
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 9
+        "total": 5
       }
     },
     {
-      "title": "Le Crépuscule des dieux : Wagner en majesté",
-      "url": "https://www.nonfiction.fr/article-12884-le-crepuscule-des-dieux-wagner-en-majeste.htm",
-      "description": "Avec  Le Crépuscule des dieux , la Tétralogie de Richard Wagner s’achève à l’Opéra Bastille dans un embrasement musical qui finit par emporter presque toutes les réserves. Au fil du cycle, la mise en scène de Calixto Bieito a gagné en pertinence — du moins en sobriété. Après les costumes et les décors souvent agressivement laids des deux premiers volets, les derniers épisodes offrent heureusement un univers visuel moins systématiquement hostile, où quelques images suffisent parfois à laisser per",
-      "date": "Thu, 15 Oct 2026",
+      "title": "Olivier Hervé : une géographie poétique du désir",
+      "url": "https://www.nonfiction.fr/article-12930-olivier-herve-une-geographie-poetique-du-desir.htm",
+      "description": "«  Poète, romancier et cycliste accompli  », ainsi que le présente la quatrième de couverture, Olivier Hervé signe avec  Lamoura  un recueil émouvant, placé sous le signe de l’amour et de la douleur – de cette «  douleur  » dont Paul Valéry disait qu’elle est «  chose très musicale  », ainsi que le rappelle l’exergue. \r\n\r\n  «  La géométrie des sentiments n’a rien de logique  »  \r\n\r\n Il est des distances qui se calculent en kilomètres, et d’autres dont la seule mesure est une absence qui échappe ",
+      "date": "Mon, 23 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 5,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 5
       }
     }
   ]

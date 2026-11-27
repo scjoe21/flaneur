@@ -1,7 +1,7 @@
 {
   "sourceId": "iai-tv",
   "sourceName": "The Institute of Art and Ideas (IAI)",
-  "fetchedAt": "2026-11-22T22:27:03.671740+00:00",
+  "fetchedAt": "2026-11-27T13:24:22.830306+00:00",
   "items": [
     {
       "title": "How AI has made us rethink what 'intelligence' is | Pasterski, Lawson, Borowski, Wooldridge",
@@ -20,35 +20,19 @@
       }
     },
     {
-      "title": "How to Morally Take a Life | Kathleen Stock, Mary Ann Sieghart",
-      "url": "https://www.youtube.com/watch?v=-2WiuxR24os",
-      "description": "Kathleen Stock and Mary Ann Sieghart discuss the moral, ethical and societal implications of assisted dying.\n\nShould we legalise assisted dying?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/when-compassion-turns-dangerous\n\nWith an increasingly ageing population, few issues expose our moral confusion like assisted dying. Kathleen Stock — philosopher and author of Do Not Go Gentle — argues that expanding assisted death risks redefining care as elimination and autonom",
-      "date": "2026-11-14",
-      "thumbnail": "https://i2.ytimg.com/vi/-2WiuxR24os/hqdefault.jpg",
-      "videoId": "-2WiuxR24os",
-      "priority": 35,
+      "title": "Does Freedom Lead to Gender Equality? | Minna Salami, Mary Harrington, Kathleen Stock, Lucy Jones",
+      "url": "https://www.youtube.com/watch?v=r9y4bsyedOo",
+      "description": "Minna Salami, Mary Harrington, Kathleen Stock, and Lucy Jones discuss gender equality in the context of freedom, and its consequences. \n\nIs freedom really equality?\n\nWith a free trial, you can watch the full debate NOW at https://iai.tv/video/gender-equality-and-the-freedom-trap?utm_source=YouTube&utm_medium=description\n\nWe believed that freedom would do the work of equality, that once women could make their own choices, the rest would take care of itself. But studies show that the greater the g",
+      "date": "2026-11-24",
+      "thumbnail": "https://i3.ytimg.com/vi/r9y4bsyedOo/hqdefault.jpg",
+      "videoId": "r9y4bsyedOo",
+      "priority": 30,
       "scoreDetail": {
-        "daily": 30,
+        "daily": 20,
         "phil": 5,
         "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Sea Change | Rana Foroohar",
-      "url": "https://www.youtube.com/watch?v=UNtH5g-YQNo",
-      "description": "Climate change is happening, and the Arctic is melting. The Mercator projection has long neglected the North Pole, hiding it from public view. This previously neglected expanse is fracturing, allowing ships to pass, decreasing intercontinental transit times and providing access to the bountiful natural resources locked beneath the ice.\n\nWhat does this mean for international politics?\n\nRana Foroohar, the first journalist to board US Coast Guard cutter Healy, shares her insights from the three wee",
-      "date": "2026-11-20",
-      "thumbnail": "https://i2.ytimg.com/vi/UNtH5g-YQNo/hqdefault.jpg",
-      "videoId": "UNtH5g-YQNo",
-      "priority": 34,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 5,
-        "flaneur": 4,
-        "novelty": 0,
-        "total": 34
+        "novelty": 5,
+        "total": 30
       }
     },
     {
@@ -68,35 +52,35 @@
       }
     },
     {
-      "title": "How Will AI Impact the Future of Our Economy? | Sebastian Mallaby, Martin Wolf",
-      "url": "https://www.youtube.com/watch?v=FDUXyUqlnkU",
-      "description": "Sebastian Mallaby and Martin Wolf discuss AI and its potential effects, both positive and negative, on the economy and society as a whole.\n\nTo what extent will AI impact the future of the economy?\n\nWith a free trial, you can watch the full talk NOW at: https://iai.tv/video/the-future-of-the-ai-economy\n\nA handful of companies are racing to build machines that surpass human intelligence, and the economic shockwaves are already being felt. Some economists predict an explosion of growth; others warn",
-      "date": "2026-11-12",
-      "thumbnail": "https://i3.ytimg.com/vi/FDUXyUqlnkU/hqdefault.jpg",
-      "videoId": "FDUXyUqlnkU",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "The Atrophy of Philosophy | Simon Critchley",
-      "url": "https://www.youtube.com/watch?v=TwNVNv_nSSo",
-      "description": "Simon Critchley discusses mysticism, Heidegger, and the future of philosophy\n\nWhat sits at the edges of philosophy?\n\nWith a free trial, you can watch the full talk NOW at https://iai.tv/video/mysticism-heidegger-and-the-future-of-philosophy-with-simon-critchley?utm_source=YouTube&utm_medium=description\n\nHeidegger can often appear to be an impenetrable and esoteric thinker, whose ideas have little bearing on real life. But Simon Critchley works to undo this perception and bring phenomenology to b",
-      "date": "2026-11-10",
-      "thumbnail": "https://i1.ytimg.com/vi/TwNVNv_nSSo/hqdefault.jpg",
-      "videoId": "TwNVNv_nSSo",
+      "title": "Sex robots don't exist | Trudy Barber",
+      "url": "https://www.youtube.com/shorts/fyUmlNZQSeg",
+      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/why-we-should-embrace-cybersex-trudy-barber?utm_source=YouTube&utm_medium=description\n\n#sex #sexbot #robot #ai #dating #transhumanism #relationship #virtual #cybersex",
+      "date": "2026-11-25",
+      "thumbnail": "https://i3.ytimg.com/vi/fyUmlNZQSeg/hqdefault.jpg",
+      "videoId": "fyUmlNZQSeg",
       "priority": 20,
       "scoreDetail": {
-        "daily": 10,
-        "phil": 10,
+        "daily": 20,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 20
+      }
+    },
+    {
+      "title": "This is the future of quantum gravity | Jonathan Oppenheim",
+      "url": "https://www.youtube.com/watch?v=wh69TUbG_So",
+      "description": "Jonathan Oppenheim presents a radical new solution to the issue of unifying quantum theory and spacetime.\n\nDo you think that this hybrid theory is the right approach to take?\n\nWith a free trial, you can watch Jonathan in a debate with Avshalom Elitzur and Ivette Fuentes on spacetime NOW at https://iai.tv/video/spacetime-and-the-framework-of-the-world2?utm_source=YouTube&utm_medium=description\n\nPhysics has been trying to unify quantum theory and gravity for decades. String theory, loop quantum gr",
+      "date": "2026-11-26",
+      "thumbnail": "https://i4.ytimg.com/vi/wh69TUbG_So/hqdefault.jpg",
+      "videoId": "wh69TUbG_So",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
       }
     },
     {
@@ -180,28 +164,44 @@
       }
     },
     {
-      "title": "Dawkins' AI Friend | Denis Noble",
-      "url": "https://www.youtube.com/shorts/YIqLxL3T2GE",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/consciousness-is-biologys-biggest-blunder?utm_source=YouTube&utm_medium=description\n\n#biology# evolution #richarddawkins #ai #conscience",
-      "date": "2026-11-13",
-      "thumbnail": "https://i2.ytimg.com/vi/YIqLxL3T2GE/hqdefault.jpg",
-      "videoId": "YIqLxL3T2GE",
-      "priority": 15,
+      "title": "What is the Egoist Machine? | Erin Meryl McGurk",
+      "url": "https://www.youtube.com/shorts/Zuv-lbRQm9E",
+      "description": "Listen to the full interview here: https://pfot.riverside.com/ \n\n#education #study #philosophy #politics\n\n@erinmerylstudy",
+      "date": "2026-11-27",
+      "thumbnail": "https://i3.ytimg.com/vi/Zuv-lbRQm9E/hqdefault.jpg",
+      "videoId": "Zuv-lbRQm9E",
+      "priority": 10,
       "scoreDetail": {
         "daily": 5,
-        "phil": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
       }
     },
     {
-      "title": "Who holds the New York Times accountable? | Curtis Yarvin",
-      "url": "https://www.youtube.com/shorts/zANzdVlzk8U",
-      "description": "With a free trial, you can watch the full talk NOW at https://iai.tv/video/curtis-yarvin-challenged-on-his-argument-for-benevolent-monarchy?stage=Stage\n\n#newyorktimes #nytimes #news #accountability #politics #audience",
-      "date": "2026-11-11",
-      "thumbnail": "https://i3.ytimg.com/vi/zANzdVlzk8U/hqdefault.jpg",
-      "videoId": "zANzdVlzk8U",
+      "title": "What is 'Curiositymaxing'? | Erin Meryl McGurk",
+      "url": "https://www.youtube.com/shorts/gnUu--Alvuo",
+      "description": "Listen to the full interview here: https://pfot.riverside.com/ \n\n#education #study #philosophy #politics #curious \n\n@erinmerylstudy",
+      "date": "2026-11-25",
+      "thumbnail": "https://i4.ytimg.com/vi/gnUu--Alvuo/hqdefault.jpg",
+      "videoId": "gnUu--Alvuo",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "The McGurk Mission | Erin Meryl McGurk",
+      "url": "https://www.youtube.com/shorts/FYjU518bxq4",
+      "description": "Listen to the full interview here: https://pfot.riverside.com/ \n\n#education #study #philosophy #politics\n\n@erinmerylstudy",
+      "date": "2026-11-24",
+      "thumbnail": "https://i3.ytimg.com/vi/FYjU518bxq4/hqdefault.jpg",
+      "videoId": "FYjU518bxq4",
       "priority": 10,
       "scoreDetail": {
         "daily": 5,

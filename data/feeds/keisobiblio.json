@@ -1,7 +1,7 @@
 {
   "sourceId": "keisobiblio",
   "sourceName": "Keiso Bibliophile (Keiso Shobo)",
-  "fetchedAt": "2026-11-22T22:27:08.878291+00:00",
+  "fetchedAt": "2026-11-27T13:24:28.879128+00:00",
   "items": [
     {
       "title": "コヨーテ歩き撮り#261",
@@ -68,22 +68,6 @@
       }
     },
     {
-      "title": "あとがきたちよみ『社会的ジレンマ――ゲーム理論・計算社会科学・因果推論からの解明』",
-      "url": "https://keisobiblio.com/2026/10/02/atogakitachiyomi_shakaitekidilemma/",
-      "description": "「まえがき」「第8章　協力はいかに成立するのか」を公開しました。",
-      "date": "Fri, 02 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
       "title": "憲法学の散歩道第50回　リアルでない法学とは何か？",
       "url": "https://keisobiblio.com/2026/10/06/hasebeyasuo1006/",
       "description": "ロンドン大学ユニヴァーシティ・コレッジ（University College London: UCL  [...]",
@@ -97,6 +81,38 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 4
+      }
+    },
+    {
+      "title": "あとがきたちよみ『ドキュメント年金改革――2025年制度改正はどこへ向かうのか』",
+      "url": "https://keisobiblio.com/2026/11/25/atogakitachiyomi_nenkinkaikaku/",
+      "description": "「あとがき」を公開しました。",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "コヨーテ歩き撮り#262",
+      "url": "https://keisobiblio.com/2026/11/24/coyote262/",
+      "description": "大阪駅周辺もずいぶん変わったが、こんな方が池でなごんでおられた。彫刻作品かな。移動してやまないニンゲンたちより、ずっとリアルにそこにいる。\n\nOh, it has changed a lot around Osaka station! It’s been a while since I came last. Then I came across this relaxing sculpture by the pond. It feels much more real than the humans who are constantly on the move around it.",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://keisobiblio.com/2026/10/05/coyote259/",
       "description": "霧の中の高層湿原、池塘の静謐な美しさ。月山８合目付近。\nWetlands at a high altitude. The serene beauty of the ponds are striking and feels sacred on this mountain called “The Moon Mountain (Gassan).”  Tradtionally, Mount Gassan has been considered the realm of the dead.",
       "date": "Mon, 05 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "あとがきたちよみ『新装版　パース著作集3　形而上学』",
-      "url": "https://keisobiblio.com/2026/10/01/atogakitachiyomi_peircechosakushu03/",
-      "description": "「訳者解説」「新装版への解説――「希望」としてのパース形而上学」を公開しました。",
-      "date": "Thu, 01 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

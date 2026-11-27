@@ -1,7 +1,7 @@
 {
   "sourceId": "pandora-rivista",
   "sourceName": "Pandora Rivista",
-  "fetchedAt": "2026-11-22T22:27:00.516247+00:00",
+  "fetchedAt": "2026-11-27T13:24:18.953206+00:00",
   "items": [
     {
       "title": "Alessandro Vanoli - Iniziare da Oriente",
@@ -81,6 +81,22 @@
         "flaneur": 4,
         "novelty": 0,
         "total": 9
+      }
+    },
+    {
+      "title": "Luca Sofri - I nostri inizi",
+      "url": "https://www.youtube.com/watch?v=X7O-Y2Luqas",
+      "description": "Luca Sofri - giornalista e scrittore - è stato ospite al Festival del Presente 2026, che si è svolto dal 1 al 18 ottobre a Bologna, in dialogo con Sara Sanzi. \n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una rivista cartacea, un archivio online, podcast, festival e ricerche. Scopri Pandora Rivista: https://www.pandorarivista.it \n\n📱 Puoi seguirci anche su:\n▸ Instagram https://www.instagram.com/pandorari",
+      "date": "2026-11-26",
+      "thumbnail": "https://i1.ytimg.com/vi/X7O-Y2Luqas/hqdefault.jpg",
+      "videoId": "X7O-Y2Luqas",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -218,22 +234,6 @@
       "date": "2026-10-25",
       "thumbnail": "https://i3.ytimg.com/vi/jspfqPP5xj0/hqdefault.jpg",
       "videoId": "jspfqPP5xj0",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Michele Marchi e Luigi Mascilli Migliorini - Ravenna, crocevia tra terra e mare",
-      "url": "https://www.youtube.com/watch?v=Us1kJW8FFt8",
-      "description": "Michele Marchi - storico contemporaneista - e Luigi Mascilli Migliorini - storico dell'età moderna - sono stati ospiti al Festival Atlanti del Presente 2026, che si è svolto dal 24 al 26 luglio a Ravenna.\n\n🔔 Iscriviti al canale e attiva le notifiche per non perdere i prossimi video.\n\nPandora Rivista è un progetto che parla linguaggi diversi: una rivista cartacea, un archivio online, podcast, festival e ricerche. Scopri Pandora Rivista: https://www.pandorarivista.it \n\n📱 Puoi seguirci anche su:\n▸ ",
-      "date": "2026-09-27",
-      "thumbnail": "https://i2.ytimg.com/vi/Us1kJW8FFt8/hqdefault.jpg",
-      "videoId": "Us1kJW8FFt8",
       "priority": 0,
       "scoreDetail": {
         "daily": 0,

@@ -1,7 +1,7 @@
 {
   "sourceId": "il-tascabile",
   "sourceName": "Il Tascabile",
-  "fetchedAt": "2026-11-22T22:26:41.362017+00:00",
+  "fetchedAt": "2026-11-27T13:24:00.785887+00:00",
   "items": [
     {
       "title": "Processo ai data centers",
@@ -52,26 +52,10 @@
       }
     },
     {
-      "title": "L’alchimista del suono",
-      "url": "https://www.iltascabile.com/linguaggi/alchimista-suono/",
-      "description": "I 50 anni di  Oxygène , l’IA, la storia dell’elettronica in 80 strumenti, la pioggia come eredità sonora: intervista a Jean-Michel Jarre. \n L'articolo  L’alchimista del suono  proviene da  Il Tascabile .",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Identità o comunità?",
-      "url": "https://www.iltascabile.com/linguaggi/identita-comunita/",
-      "description": "Dalla politica della rappresentanza al soggetto collettivo: i femminismi del decennio 2016-2026. \n L'articolo  Identità o comunità?  proviene da  Il Tascabile .",
-      "date": "Wed, 11 Nov 2026",
+      "title": "Scegliere cosa salvare",
+      "url": "https://www.iltascabile.com/scienze/scegliere-cosa-salvare/",
+      "description": "Il cambiamento climatico rende la perdita in parte inevitabile e mette in crisi l’idea che tutto possa essere mantenuto com’è. L’Italia ha sviluppato una soluzione d’avanguardia già cinquant’anni fa, ma l’ha messa in un cassetto. \n L'articolo  Scegliere cosa salvare  proviene da  Il Tascabile .",
+      "date": "Mon, 23 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -84,19 +68,67 @@
       }
     },
     {
-      "title": "Spazzatura spaziale",
-      "url": "https://www.iltascabile.com/scienze/spazzatura-spaziale/",
-      "description": "L’accumulo di detriti spaziali ha raggiunto un livello critico, aumentando il rischio di una disastrosa reazione a catena. Ma chi più avrebbe interesse a risolvere il problema stenta a intervenire. \n L'articolo  Spazzatura spaziale  proviene da  Il Tascabile .",
-      "date": "Mon, 09 Nov 2026",
+      "title": "Il nuovo fascismo di Naomi Klein e Astra Taylor",
+      "url": "https://www.iltascabile.com/recensioni/nuovo-fascismo-naomi-klein-astra-taylor/",
+      "description": "L'articolo  Il nuovo fascismo di Naomi Klein e Astra Taylor  proviene da  Il Tascabile .",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 10,
+      "priority": 4,
       "scoreDetail": {
         "daily": 0,
-        "phil": 10,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Non si muore per sé",
+      "url": "https://www.iltascabile.com/letterature/non-si-muore-se/",
+      "description": "L’ultima fase del pensiero di Giorgio Agamben, tra autobiografia, quaderni e riflessione sulla fine. \n L'articolo  Non si muore per sé  proviene da  Il Tascabile .",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Ecoturismo a Puerto Nariño",
+      "url": "https://www.iltascabile.com/societa/ecoturismo-puerto-narino/",
+      "description": "Nell’Amazzonia colombiana, una cittadina raggiungibile solo dal fiume prova a costruire un turismo compatibile con i limiti della foresta. Intorno, però, miniere illegali, narcotraffico e deforestazione mostrano la scala delle economie che consumano il territorio. \n L'articolo  Ecoturismo a Puerto Nariño  proviene da  Il Tascabile .",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Essere donna nell’industria delle canzonette",
+      "url": "https://www.iltascabile.com/linguaggi/essere-donna-industria-canzonette/",
+      "description": "Un’intervista a Roberta D’Angelo su cantautorato, punk e reinvenzioni social. \n L'articolo  Essere donna nell’industria delle canzonette  proviene da  Il Tascabile .",
+      "date": "Thu, 26 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 10
+        "total": 0
       }
     },
     {
@@ -120,38 +152,6 @@
       "url": "https://www.iltascabile.com/scienze/conoscere-mondo-memoria/",
       "description": "Da semplice videogioco sulla geografia, GeoGuessr sta diventando il banco di prova per capire cosa separa l’intuizione umana dall’apprendimento automatico. \n L'articolo  Conoscere il mondo a memoria  proviene da  Il Tascabile .",
       "date": "Mon, 16 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Una splendida rovina di Vincenzo Latronico",
-      "url": "https://www.iltascabile.com/recensioni/splendida-rovina-vincenzo-latronico/",
-      "description": "L'articolo  Una splendida rovina di Vincenzo Latronico  proviene da  Il Tascabile .",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La memoria (sconveniente) degli alberi",
-      "url": "https://www.iltascabile.com/societa/memoria-sconveniente-alberi/",
-      "description": "Sul monte Giano, sopra Antrodoco, ventimila pini neri compongono uno dei più grandi monumenti fascisti d’Italia. Ma negli archivi non esiste, e nel paese quasi nessuno ne parla. \n L'articolo  La memoria (sconveniente) degli alberi  proviene da  Il Tascabile .",
-      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

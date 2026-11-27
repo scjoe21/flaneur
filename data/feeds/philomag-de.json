@@ -1,205 +1,237 @@
 {
   "sourceId": "philomag-de",
   "sourceName": "Philosophie Magazin (Deutschland)",
-  "fetchedAt": "2026-11-22T22:26:36.026755+00:00",
+  "fetchedAt": "2026-11-27T13:23:55.498746+00:00",
   "items": [
     {
-      "title": "Laura Anna Klein: „Leihmutterschaft ist ein einzigartiges Beziehungsgefüge“",
-      "url": "https://www.philomag.de/artikel/laura-anna-klein-leihmutterschaft-ist-ein-einzigartiges-beziehungsgefuege",
-      "description": "Die einen sehen in Leihmutterschaft eine unzulässige Kommerzialisierung des Körpers, die anderen ein queerfeministisches Potenzial. Ein Gespräch mit der Rechtswissenschaftlerin Laura Anna Klein über die Gründe für das in Deutschland geltende Verbot von Leihmutterschaft und die Frage, wie wir sie idealerweise denken sollten.",
-      "date": "Tue, 17 Nov 2026",
+      "title": "Ken Mogi: „Die größte Weisheit besteht darin, sich der eigenen Unwissenheit bewusst zu sein“",
+      "url": "https://www.philomag.de/artikel/ken-mogi-die-groesste-weisheit-besteht-darin-sich-der-eigenen-unwissenheit-bewusst-zu",
+      "description": "Alltagsstress und turbulente Weltlage – wie kann man da innerlich im Gleichgewicht bleiben? Der Neurowissenschaftler Ken Mogi findet die Anleitung dafür bei den antiken Stoikern, den Samurai und bei Taylor Swift.",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 39,
+      "priority": 34,
       "scoreDetail": {
-        "daily": 20,
-        "phil": 15,
+        "daily": 25,
+        "phil": 5,
         "flaneur": 4,
         "novelty": 0,
-        "total": 39
+        "total": 34
       }
     },
     {
-      "title": "Hendrik Bolz: „Ich war lange beseelt von dem Wunsch, hart zu sein“",
-      "url": "https://www.philomag.de/artikel/hendrik-bolz-ich-war-lange-beseelt-von-dem-wunsch-hart-zu-sein",
-      "description": "Harte Männer werden heute zunehmend als Problem betrachtet. Als toxisch. Wie aber fühlt sich so eine Männlichkeit für diejenigen an, die sie leben? Und warum bleibt sie für viele erstrebenswert? Der Musiker und Autor Hendrik Bolz blickt zurück auf seine eigene Jugend und erklärt, wie sein Männlichkeitsbild Quelle von Halt und Schmerz zugleich war.",
-      "date": "Thu, 12 Nov 2026",
+      "title": "Liebe in Zeiten der Rackets",
+      "url": "https://www.philomag.de/artikel/liebe-zeiten-der-rackets",
+      "description": "Skrupelloses Machtstreben und grotesker US-Alltagswahnsinn bestimmen seit jeher die Welt von GTA. In der langen Wartezeit auf den neuesten Teil hat die Wirklichkeit die Satire der Spiele in beiderlei Hinsicht längst eingeholt. GTA 6 reagiert darauf, indem es seiner zynischen Weltsicht eine Liebesgeschichte entgegensetzt.",
+      "date": "Wed, 25 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 35,
-      "scoreDetail": {
-        "daily": 25,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 35
-      }
-    },
-    {
-      "title": "Unsere erste Ausgabe von 2011: Warum haben wir Kinder?",
-      "url": "https://www.philomag.de/artikel/unsere-erste-ausgabe-von-2011-warum-haben-wir-kinder",
-      "description": "Heute vor 15 Jahren, am 16. November 2011, erschien die erste Ausgabe des Philosophie Magazins mit dem Thema: Warum haben wir Kinder? Ein Dossier über die Gründe, sich fortzupflanzen, die Herausforderungen des Mutter- und Vaterseins und die Irrationalität menschlicher Wünsche. Blättern Sie  hier  noch einmal durch die allererste Ausgabe!",
-      "date": "Mon, 16 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
+      "priority": 34,
       "scoreDetail": {
         "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Alva Noë: „Wir sind in Träumen so begrenzt wie im echten Leben“",
-      "url": "https://www.philomag.de/artikel/alva-noe-wir-sind-traeumen-so-begrenzt-wie-im-echten-leben",
-      "description": "Im Schlaf sind wir da und doch nicht da. Der Philosoph und Kognitionswissenschaftler Alva Noë erklärt, warum der Schlaf die Unterscheidung von Aktivität und Passivität unterläuft und wir die Autoren unserer Albträume sind.",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 25,
         "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
+        "flaneur": 4,
+        "novelty": 5,
+        "total": 34
       }
     },
     {
-      "title": "Die Erkenntniskraft der frühen Jahre",
-      "url": "https://www.philomag.de/artikel/die-erkenntniskraft-der-fruehen-jahre",
-      "description": "Was können wir von Menschen lernen, die am Anfang ihres Lebens stehen? Vieles, wie ein Blick in die Philosophiegeschichte zeigt.",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 30,
-      "scoreDetail": {
-        "daily": 20,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 30
-      }
-    },
-    {
-      "title": "Brauchen wir einen erneuerten Republikanismus?",
-      "url": "https://www.philomag.de/artikel/brauchen-wir-einen-erneuerten-republikanismus",
-      "description": "Angesichts anhaltender Spaltungstendenzen drängt die Frage, wie sich gesellschaftlicher Zusammenhalt stiften lässt. Womöglich mit Partizipation, Tugenden und einem Habermas'schen „Verfassungspatriotismus“? Ein Grundriss des Republikanismus.",
-      "date": "Fri, 20 Nov 2026",
+      "title": "Ist da noch jemand wach?",
+      "url": "https://www.philomag.de/artikel/ist-da-noch-jemand-wach",
+      "description": "Die Analytische Philosophie erscheint als öffentlichkeitsscheu und weltfremd. Dennoch beherrscht sie die deutschen Universitäten. Welche Freiheit des Denkens wird sich aber eröffnen, wenn KI ihr das Feld streitig macht? Ein Plädoyer für eine neue Aufklärung von Wolfram Eilenberger.",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 25,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 20,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 25
+      }
+    },
+    {
+      "title": "Die Weltuntergangsuhr tickt",
+      "url": "https://www.philomag.de/artikel/die-weltuntergangsuhr-tickt",
+      "description": "Dieter Martin Gruen half, die Atombombe zu bauen. Heute meint der Chemiker, eine nukleare Eskalation sei näher als zu Zeiten der Kubakrise. Die Menschheit taumelt in immer größere Gefahren, sagen die Macher der „Weltuntergangsuhr“. Wie brenzlig ist es?",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 24,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 24
+      }
+    },
+    {
+      "title": "Mit Habermas das Klima retten",
+      "url": "https://www.philomag.de/artikel/mit-habermas-das-klima-retten",
+      "description": "Unser demokratisches System ist oft träge und schwerfällig. Hat es ausgedient, wenn es darum geht, effektiv gegen die Klimakrise vorzugehen? Keineswegs, argumentiert Friederike Otto. Demokratie ist nicht das Hindernis, sondern die Lösung des Problems.",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
       "scoreDetail": {
         "daily": 15,
-        "phil": 10,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 25
-      }
-    },
-    {
-      "title": "Srđa Popović: „Schafft eine alternative Zukunft, bevor ihr die gegenwärtige zerstört“",
-      "url": "https://www.philomag.de/artikel/srda-popovic-schafft-eine-alternative-zukunft-bevor-ihr-die-gegenwaertige-zerstoert",
-      "description": "In Serbien hat das neue Parlament am Dienstag seine Arbeit aufgenommen. Darin stellt die Studentenliste, die mit ihrem Wahlsieg der nationalkonservativen Regierung von Aleksandar Vučić ein Ende gesetzt und somit den ersten Machtwechsel seit zwölf Jahren bewirkt hat, die größte Fraktion. Wodurch sich das besondere Vorgehen der Studentenliste auszeichnete und was andere Bewegungen von ihr lernen können, erklärt der Politikaktivist Srđa Popović im Gespräch.",
-      "date": "Thu, 19 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 25,
-      "scoreDetail": {
-        "daily": 20,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 20
       }
     },
     {
-      "title": "Susanne Langer und die Symbolphilosophie",
-      "url": "https://www.philomag.de/artikel/susanne-langer-und-die-symbolphilosophie",
-      "description": "Während man seit der Antike den Mythos aus dem Denken verbannt, faszinierte Susanne Langer die Erkenntnis, die jenseits der Sprache liegt — in Träumen, Kunst und Ritualen. Damit entwickelte die Schülerin Cassirers eine Auffassung von Philosophie, die uns nichtzuletzt ermöglicht, fernöstliche Denktraditionen besser zu verstehen.",
-      "date": "Wed, 18 Nov 2026",
+      "title": "KI-gemanagte Arbeit",
+      "url": "https://www.philomag.de/artikel/ki-gemanagte-arbeit",
+      "description": "Der Einsatz von künstlicher Intelligenz in der Arbeitswelt hat drastische Folgen. Er wirkt sich auf soziale Praktiken, die kollektive Identität unter den Beschäftigten und ihr politisches Engagement aus. Ist das Ergebnis ein entpolitisiertes, isoliertes und algorithmengesteuertes Berufsleben? Eine kritische Analyse.",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Francis Fukuyama: „Es gibt eine große Sehnsucht nach Freiheit“",
+      "url": "https://www.philomag.de/artikel/francis-fukuyama-es-gibt-eine-grosse-sehnsucht-nach-freiheit",
+      "description": "Der Politikwissenschaftler Francis Fukuyama wurde mit der These vom Ende der Geschichte berühmt. Nun stellt er in einem neuen Buch seine Prognose auf den Prüfstand. Ein Gespräch über die gegenwärtige Rolle der USA und die Chancen von Demokratie gegen autoritäre Tendenzen.",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
       "scoreDetail": {
         "daily": 10,
+        "phil": 10,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Die neue Edition ist da!",
+      "url": "https://www.philomag.de/artikel/die-neue-edition-ist-da-2",
+      "description": "Klimawandel, KI und ein zerbröselnder Liberalismus zeichnen sich als Konturen des 21. Jahrhunderts ab. Die Rolle des Menschen darin ist indes noch weitgehend unbestimmt. Die Essays und Interviews in diesem Heft versuchen, sich einen Reim auf den Umbruch zu machen, unterbreiten Deutungs-, Handlungs- und Haltungsvorschläge. Hier geht's zur  umfangreichen Heftvorschau !",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 15,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "Rüdiger Safranski: „Der Maschinengeist ist ein rein rationaler, kalkulatorischer Geist“",
+      "url": "https://www.philomag.de/artikel/ruediger-safranski-der-maschinengeist-ist-ein-rein-rationaler-kalkulatorischer-geist",
+      "description": "KI kann Dinge, die wir nicht können. Ist die schöpferische Freiheit des Menschen damit an ein Ende gelangt? Oder muss sich unser lebendiger Geist lediglich neu orientieren? Ein Gespräch mit Rüdiger Safranski über technologischen Animismus, Bewusstsein als ungelöstes Herstellungsproblem und Gewaltenteilung im Bereich der Lebensmächte.",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 15,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 15
       }
     },
     {
-      "title": "„Philosophieren heißt: Nie mit dem Zeitgeist gehen“",
-      "url": "https://www.philomag.de/artikel/philosophieren-heisst-nie-mit-dem-zeitgeist-gehen",
-      "description": "Das Philosophie Magazin wird 15 Jahre alt. Chefredakteurin Svenja Flaßpöhler und Magazin-Gründer Fabrice Gerschel werfen einen Blick zurück. Ein Gespräch über andere Zeiten, Philosophie als Kinderkriegen und Unterschiede zwischen Deutschland und Frankreich.",
-      "date": "Mon, 16 Nov 2026",
+      "title": "Der schmutzige Körper der KI",
+      "url": "https://www.philomag.de/artikel/der-schmutzige-koerper-der-ki",
+      "description": "Rechenzentren sind ökologisch verheerend und ökonomisch fragwürdig. Dennoch werden sie gerade überall gebaut. Steckt dahinter die Sehnsucht nach dem großen Anderen, der uns beherrscht und umfängt? Zeit für eine Entzauberung.",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 25,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 15,
+        "daily": 10,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 10
+      }
+    },
+    {
+      "title": "Kuscheln statt KI",
+      "url": "https://www.philomag.de/artikel/kuscheln-statt-ki",
+      "description": "Ausgelagerte Entscheidungen, Chatbots als Freunde, die Natur als Nebensache: Das Silicon Valley beschert uns eine Existenz ohne Verbundenheit. Doch es gibt einen Ausweg – zu erkennen, was das Leben lebenswert macht.",
+      "date": "Fri, 27 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 10,
+      "scoreDetail": {
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 25
+        "total": 10
       }
     },
     {
-      "title": "Ein andres gutes Land",
-      "url": "https://www.philomag.de/artikel/ein-andres-gutes-land",
-      "description": "Die Kamerun Qrella Group verhandelt auf dem Album  Abteilung Blühende Landschaften  das deutschdeutsche Verhältnis.",
-      "date": "Fri, 20 Nov 2026",
+      "title": "Müde vom Sein",
+      "url": "https://www.philomag.de/artikel/muede-vom-sein",
+      "description": "Wir sind erschöpft von der Welt, und nicht nur das: Das Sein selbst, die Natur ist es ebenfalls. Ein Gespräch über ontologisch-existenzielle Erschöpfung, das Unbehagen an der Zivilisation und die Suche nach einer neuen Lebensweise.",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 0,
+        "daily": 5,
         "phil": 5,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "Relikt der Gabe",
-      "url": "https://www.philomag.de/artikel/relikt-der-gabe",
-      "description": "Festgelegte Trinkgeldbeträge an EC-Geräten mehren sich. Doch die Sozialität stiftende Funktion der Gabe geht auf diese Weise verloren.",
-      "date": "Thu, 19 Nov 2026",
+      "title": "Kwame Anthony Appiah: „Die Welt braucht Grenzen“",
+      "url": "https://www.philomag.de/artikel/kwame-anthony-appiah-die-welt-braucht-grenzen",
+      "description": "Dem einen gelten sie als Schutzwall gegen ein bedrohliches Außen, dem anderen als Hindernis auf dem Weg zur Weltgemeinschaft: Grenzen. Im Gespräch stellt der New Yorker Philosoph Kwame Anthony Appiah ihre schöpferische Funktion heraus. Inwiefern ermöglichen Grenzen kulturelle Vielfalt, kollektive Identität und dezentrale Handlungsmacht?",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 10,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "Die Rückkehr des Gemeinen",
-      "url": "https://www.philomag.de/artikel/die-rueckkehr-des-gemeinen",
-      "description": "Die US-Rechte, traditionell ein Hort des Libertarismus, entdeckt gerade den Gemeinsinn für sich, meint Wolfram Eilenberger.",
-      "date": "Tue, 17 Nov 2026",
+      "title": "KI-Apokalypse und das kartesische Cogito",
+      "url": "https://www.philomag.de/artikel/ki-apokalypse-und-das-kartesische-cogito",
+      "description": "Wird KI eines Tages ihre eigene Moral entwickeln, uns Menschen gar auslöschen? Statt nur solchen Science-Fiction-Vorstellungen nachzuhängen, sollten wir uns auch fragen: Was, wenn die dunkle Seite der KI mehr mit uns gemein hat, als uns lieb ist?",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 10,
       "scoreDetail": {
         "daily": 0,
-        "phil": 5,
+        "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 10
       }
     },
     {
-      "title": "Der Zerrissene",
-      "url": "https://www.philomag.de/artikel/der-zerrissene",
-      "description": "In der Langhalslaute verdichtete sich Ata Cananis Leben. Geschenkt wurde ihm das Instrument in seiner Jugend vom türkischen Vater. Doch erst vor ein paar Jahren veröffentlichte der hochbegabte Musiker sein erstes Album, anlässlich dessen unser Autor ihn 2021 porträtierte. Nun ist Ozan Ata Canani im Alter von 63 Jahren gestorben.",
-      "date": "Mon, 16 Nov 2026",
+      "title": "Loneliness Influencer",
+      "url": "https://www.philomag.de/artikel/loneliness-influencer",
+      "description": "In den Sozialen Medien kursieren zahlreiche Videos, in denen junge Frauen ihr Single-Dasein zelebrieren. Zeigt sich darin eine neue Figur der Einsamen?",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -209,38 +241,6 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
-      }
-    },
-    {
-      "title": "Das schwarz-rot-goldene Symbol",
-      "url": "https://www.philomag.de/artikel/das-schwarz-rot-goldene-symbol",
-      "description": "Die Deutschlandflagge wird oftmals mit rechten bis rechtsextremen Ansichten assoziiert. Zugleich scheinen wir sie in staatlichen Kontexten und bei Sportveranstaltungen als Symbol eines demokratischen Landes zu akzeptieren. Dass darin kein Widerspruch besteht, lässt sich mit ihren historischen Ursprüngen erklären.",
-      "date": "Thu, 12 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "James Talarico: Der Glaube im Dienst des Progressismus",
-      "url": "https://www.philomag.de/artikel/james-talarico-der-glaube-im-dienst-des-progressismus",
-      "description": "James Talarico, der bei den Zwischenwahlen zum demokratischen Senator von Texas gewählt wurde, ist eine der Leitfiguren der Erneuerung der amerikanischen Linken. Ein Porträt.",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
       }
     }
   ]

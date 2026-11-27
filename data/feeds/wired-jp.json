@@ -1,77 +1,45 @@
 {
   "sourceId": "wired-jp",
   "sourceName": "WIRED Japan",
-  "fetchedAt": "2026-11-22T22:27:12.684400+00:00",
+  "fetchedAt": "2026-11-27T13:24:32.888470+00:00",
   "items": [
     {
-      "title": "終わらないAI終末論",
-      "url": "https://wired.jp/article/sz-the-long-doomsday-of-ai/",
-      "description": "業界の内外からAIへの規制を求める声が上がるなか、不安なのは問題が現実のものであることではない。確実な解決策が存在しないことだ。",
-      "date": "Thu, 19 Nov 2026",
+      "title": "“危うさ”と“アンバランス”を肯定する──「つくる」とは何かを問い直したCREATIVE HACK AWARDS 2026 授賞式レポート",
+      "url": "https://wired.jp/article/creative-hack-awards-2026-final/",
+      "description": "14回目となる今年の「CREATIVE HACK AWARDS」には、昨年の2.5倍を超える580作品が寄せられ、授賞式ではグランプリ、準グランプリをはじめ7作品が表彰された。今年はどんな「ハック」にスポットライトが当たったのか。",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 15,
+      "scoreDetail": {
+        "daily": 10,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 15
+      }
+    },
+    {
+      "title": "10人の専門家に訊く、AIの「本当の悪夢」",
+      "url": "https://wired.jp/article/sz-the-ai-safety-debate-has-lost-the-plot-we-asked-10-experts-what-the-real-nightmares-are/",
+      "description": "核の大惨事のリスクも米中の覇権争いの脅威も現実だ。ただし“スカイネット”を恐れてパニックになる必要はない。",
+      "date": "Tue, 24 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
       "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
+        "daily": 10,
+        "phil": 0,
         "flaneur": 0,
         "novelty": 0,
         "total": 10
       }
     },
     {
-      "title": "『グランド・セフト・オートVI』本日発売。わたしがこのシリーズをプレイし続ける理由",
-      "url": "https://wired.jp/article/i-will-never-stop-playing-grand-theft-auto/",
-      "description": "待望の最新作『GTA6』が11月19日、発売された。このシリーズの魅力は、過激な暴力表現や自由自在なドライビングだけではない。家族や友人と繰り広げる予測不能な騒動や、そこから生まれる絆にこそある。",
-      "date": "Thu, 19 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
-      "title": "AIが死んでも脳オルガノイドは生きている",
-      "url": "https://wired.jp/article/sz-organoids-lab-grown-brains-neural-networks/",
-      "description": "世界中の実験室で、ごく小さな人間の脳が育てられている。それらはやがて、ニューラルネットワークを超える知能をもつかもしれない。",
-      "date": "Sun, 22 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "「シリコンバレー流」の兵器開発は、防衛産業に何をもたらすのか",
-      "url": "https://wired.jp/article/ai-told-these-ex-google-guys-how-to-build-a-billion-dollar-weapons-business/",
-      "description": "ウクライナでの戦争で膠着状態が続くなか、グーグルやアップルの出身者が率いる防衛テック企業「Tiberius Aerospace」は、シリコンバレーでの経験を兵器製造に取り入れようとしている。",
-      "date": "Fri, 20 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "ランサムウェア攻撃、急増の背景にAIの存在",
-      "url": "https://wired.jp/article/beware-the-new-ai-fueled-ransomware-boom/",
-      "description": "ランサムウェア攻撃は、完全な自動化には至っていない。しかし、AIの活用が攻撃を加速させているとみられ、経験の浅い攻撃者でも短期間で多額の利益を得る例があるなど、サイバー犯罪の脅威が拡大している。",
-      "date": "Thu, 19 Nov 2026",
+      "title": "“超知能”の到来なのか？ AIで「リーマン予想を証明」という主張が意味すること",
+      "url": "https://wired.jp/article/ai-riemann-hypothesis-proof-claim-meaning/",
+      "description": "Anthropicの数学者が人工知能（AI）を用いて「リーマン予想を証明」したという主張が波紋を広げている。外部コミュニティの検証では証明が「正しい」との結果も出ているが、これは何を意味するのか。",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -84,10 +52,10 @@
       }
     },
     {
-      "title": "スーパーコンピューター「富岳」は、いかにして不正アクセスされたのか",
-      "url": "https://wired.jp/article/riken-fugaku-supercomputer-hacked-via-public-dashboard/",
-      "description": "理化学研究所のスーパーコンピューター「富岳」の運用系システムが外部から不正アクセスを受けた。利用者最大4,597人分の情報が漏えいした可能性があるとされるが、なぜ、いかにしてこのような事態が起きたのか。",
-      "date": "Thu, 19 Nov 2026",
+      "title": "大人も楽しめるレゴの世界：WIRED SHOPPING GUIDE",
+      "url": "https://wired.jp/article/lego-shopping-guide/",
+      "description": "幼いころに誰もが夢中になったレゴブロック。今年の冬は、レゴ ブラックフライデー＆サイバーマンデーでホリデーギフトや自分へのごほうびを探してみてはどうだろうか。",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +68,42 @@
       }
     },
     {
-      "title": "MacでSteamOSを動かすには？ 手軽な導入方法を解説",
-      "url": "https://wired.jp/article/get-steamos-easily-running-on-your-mac/",
-      "description": "無料の「FX Steam Launcher」を使えば、Apple Silicon搭載Macの仮想マシン上でSteamOSを起動できる。通常はMacでは動作しないPCゲームや旧世代のゲームもプレイできるようになる。",
-      "date": "Sun, 22 Nov 2026",
+      "title": "気候変動で雪氷圏が「安全限界」を越えたいま、地球の“安定”に向けて必要なこと",
+      "url": "https://wired.jp/article/cryosphere-beyond-planetary-safe-operating-space/",
+      "description": "これまで人類文明を支えてきた氷床や海氷、積雪、永久凍土といった凍結した領域が安定状態から逸脱し、地球にとって安全とされる限界を超えた。その「安全限界」を国際研究チームが4つの指標で数値化し、気候政策に生かすよう提案している。",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "ジェフ・ベゾスが出資、「知能のアルゴリズム」を探す大胆な挑戦",
+      "url": "https://wired.jp/article/sz-jeff-bezos-is-funding-a-wild-hunt-for-the-brains-core-algorithm/",
+      "description": "5億ドルの資金を調達したスタートアップFlourishは、神経細胞を顕微鏡で観察することで、まったく新しいAIを生み出そうとしている。",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 4,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 4,
+        "novelty": 0,
+        "total": 4
+      }
+    },
+    {
+      "title": "Netflixでいま観るべき、おすすめドラマ・番組76選【2026年最新】",
+      "url": "https://wired.jp/article/netflix-best-shows-2026/",
+      "description": "『ブラック・ダヴ』や『アルトリスト』、『アバター: 伝説の少年アン』など。注目の話題作が続々登場するNetflixのおすすめ番組を『WIRED』編集部がピックアップ。",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +116,10 @@
       }
     },
     {
-      "title": "『ニューロマンサー』がついに映像化。出演者と制作陣が語る舞台裏",
-      "url": "https://wired.jp/article/exclusive-apple-tv-neuromancer-creator-interviews/",
-      "description": "SF文学を代表する名作『ニューロマンサー』が、2027年1月にApple TVでドラマとして配信される。ウィリアム・ギブスンのカメオ出演や日本でのロケ、ドレイクの関与など、制作秘話を訊いた。",
-      "date": "Sun, 22 Nov 2026",
+      "title": "【先行セール開催中！】Amazonブラックフライデー2026 おすすめ目玉商品196選＆攻略法",
+      "url": "https://wired.jp/article/amazon-blackfriday-2026-preparation-2/",
+      "description": "Amazonブラックフライデー2026の先行セールがスタートした。年に一度のビッグセールの攻略法と、事前にチェックしておくべきおすすめの目玉商品を紹介しよう。",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +132,10 @@
       }
     },
     {
-      "title": "期末試験を対面にしたら成績が急降下──アイビーリーグのAI不正事情",
-      "url": "https://wired.jp/article/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/",
-      "description": "学生のAI不正を疑ったアイビーリーグの教授が期末試験を対面で実施したところ、試験の得点が50パーセント低下した。",
-      "date": "Sat, 21 Nov 2026",
+      "title": "16歳でAIミサイル企業を創業、“殺害コスト”削減を目指す",
+      "url": "https://wired.jp/article/henrijs-dandzbergs-polemos-missiles-ai-warfare/",
+      "description": "16歳のヘンリス・ダンズバーグスは高校を中退し、AI誘導ミサイルのスタートアップでYコンビネーターに採択された。ウクライナ侵攻を機に防衛分野に関心を抱き、欧米の同盟国を守る製品の開発を目指している。",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +148,10 @@
       }
     },
     {
-      "title": "日用品にたまごっちのような表情を。新たなAIデバイス「OAT」",
-      "url": "https://wired.jp/article/this-ai-tamagotchi-oats-turns-everyday-objects-into-needy-virtual-pets/",
-      "description": "カーネギーメロン大学の学生が開発した、E Inkディスプレイ搭載の小型デバイス「OAT」。観葉植物やスケートボード、ダンベルなどに取り付けると、AIで生成したキャラクターがモノの状態に応じて表情を変え、生活習慣の改善を促す。",
-      "date": "Sat, 21 Nov 2026",
+      "title": "AIの「潜在空間」は、いかにして人類の創造性を解き放つのか？──Latent Space｜WIRED Futures Conference 2026 レポート",
+      "url": "https://wired.jp/article/wired-futures-conference-2026-latent-space-keisuke-nagami-kent-kajitani/",
+      "description": "AIの「潜在空間」を探索すると、わたしたちのアイデアやアウトプットはどう変わりうるのか？ HATRAの長見佳祐とPOSTS代表の梶谷健人を迎えたライブポッドキャストから、一部抜粋・編集してお届けする。",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +164,10 @@
       }
     },
     {
-      "title": "AIにファクトチェックをどこまで任せられるか",
-      "url": "https://wired.jp/article/fact-checking-ai/",
-      "description": "校閲者の採用試験を引っ張り出し、ChatGPT、Claude、Gemini、Grok（いずれも無料版）に解かせてみると──。『WIRED』のファクトチェッカーが検証する。",
-      "date": "Sat, 21 Nov 2026",
+      "title": "Amazonプライム・ビデオで観るべきおすすめドラマ・番組34選【2026年最新】",
+      "url": "https://wired.jp/article/best-shows-amazon-prime-2026/",
+      "description": "『ブレードランナー 2099』から『X-ファイル』、『ロード・オブ・ザ・リング：力の指輪』まで。いまプライム・ビデオで見逃せないシリーズを紹介する。",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +180,10 @@
       }
     },
     {
-      "title": "史上初のテックバブルの教訓",
-      "url": "https://wired.jp/article/sz-lessons-from-the-original-tech-bubble/",
-      "description": "SpaceXに続いてAnthropicのIPOなど、AI企業の株式公開ラッシュが始まった2026年を、19世紀の鉄道狂時代に重ねると何が見えるだろうか。",
-      "date": "Fri, 20 Nov 2026",
+      "title": "アップルのFace ID開発者が挑む、AIによる脳の健康分析",
+      "url": "https://wired.jp/article/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
+      "description": "うつ病やPTSD、パーキンソン病などを診断する脳スキャン技術を開発するスタートアップのHemispheric。目指すのは、血液検査並みに安価で手軽な脳検査の実現だ。",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +196,10 @@
       }
     },
     {
-      "title": "【先行セールは11月27日から】Amazonブラックフライデー2026 おすすめ目玉商品186選＆攻略法",
-      "url": "https://wired.jp/article/amazon-blackfriday-2026-preparation-1/",
-      "description": "Amazonブラックフライデー2026の開催日が発表された。年に一度のビッグセールの攻略法と、事前にチェックしておくべきおすすめの目玉商品を紹介しよう。",
-      "date": "Fri, 20 Nov 2026",
+      "title": "AIが数学界屈指の難問「リーマン予想」を証明。人間はその解読に苦闘している",
+      "url": "https://wired.jp/article/ai-solved-maths-most-famous-problem/",
+      "description": "Anthropicの研究者がAIを使い、167年間未解決だったリーマン予想の証明を公開した。1,700万行に及ぶ証明は人間の直感に反する部分が多く、数学者たちが内容を理解するには数カ月かかるとみられている。",
+      "date": "Wed, 25 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,10 +212,10 @@
       }
     },
     {
-      "title": "Anthropicが史上最大規模のIPO。それでも残る成長への懸念",
-      "url": "https://wired.jp/article/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
-      "description": "Anthropicは史上最大規模のIPOを実現した。しかし、AIの安全性を重視する企業方針や、データセンター建設への反発など、今後の成長を妨げかねない課題も抱えている。",
-      "date": "Fri, 20 Nov 2026",
+      "title": "ジェンスン・フアン、CEO復帰後初の全社員集会で謝罪。「個人として極めて深刻な過ち」",
+      "url": "https://wired.jp/article/jensen-huang-apologizes-to-nvidia-employees-in-first-all-hands-since-his-return/",
+      "description": "NVIDIAのCEOに復帰したジェンスン・フアンは、社内規定に違反したことを認める一方、取締役会の判断の正当性を主張した。従業員への接し方や後継者計画にも言及したが、社内には依然として復帰への懸念が残る。",
+      "date": "Wed, 25 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -228,10 +228,10 @@
       }
     },
     {
-      "title": "「ロマンティックなメディアとしてのアルバム、質という言葉に逃げられない現実」──渋谷慶一郎が最新アルバム『Threshold』で引いた一線",
-      "url": "https://wired.jp/article/keiichiro-shibuya-threshold-interview/",
-      "description": "11月20日に音楽家・渋谷慶一郎がリリースする全14曲入りのアルバム『ATAK030 Threshold』。どう聴かれるかの保証もないまま、0.1秒のノイズを取り除く。その作業の先に、渋谷は何を、誰を、見ているのか。",
-      "date": "Fri, 20 Nov 2026",
+      "title": "脳の信号をリアルタイムで音声化。BCIのデータ処理にNVIDIAのAI技術",
+      "url": "https://wired.jp/article/nvidia-is-powering-brain-computer-interfaces-now/",
+      "description": "発話が困難な人の思考を言葉に変換するには、膨大な計算能力が必要となる。ブレイン・コンピューター・インターフェース（BCI）を開発するParadromicsは、NVIDIAと提携し、処理装置の小型化と実用化を目指す。",
+      "date": "Tue, 24 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

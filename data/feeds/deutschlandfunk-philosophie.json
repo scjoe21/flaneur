@@ -1,7 +1,7 @@
 {
   "sourceId": "deutschlandfunk-philosophie",
   "sourceName": "Sein und Streit (Deutschlandfunk Kultur)",
-  "fetchedAt": "2026-11-22T22:26:33.538077+00:00",
+  "fetchedAt": "2026-11-27T13:23:53.223993+00:00",
   "items": [
     {
       "title": "Digitale neue Welt: Smartphones zielen auf das Kind in uns",
@@ -149,22 +149,6 @@
     },
     {
       "title": "Regeln für Killerroboter: Krieg ist kein Sport",
-      "url": "https://www.deutschlandfunkkultur.de/regeln-fuer-killerroboter-krieg-ist-kein-sport-100.html",
-      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
-      "date": "Sun, 22 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Regeln für Killerroboter: Krieg ist kein Sport",
       "url": "https://www.deutschlandfunkkultur.de/regeln-fuer-killerroboter-krieg-ist-kein-sport-102.html",
       "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 22 Nov 2026",
@@ -232,6 +216,22 @@
       "url": "https://www.deutschlandfunkkultur.de/menschsein-im-ai-zeitalter-was-eine-ki-niemals-koennte-100.html",
       "description": "Rehse-Knauf, Luca www.deutschlandfunkkultur.de, Sein und Streit",
       "date": "Sun, 18 Oct 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Gefährliche KI: Bombenstimmung im Silicon Valley",
+      "url": "https://www.deutschlandfunkkultur.de/gefaehrliche-ki-bombenstimmung-im-silicon-valley-100.html",
+      "description": "Pollmann, Arnd www.deutschlandfunkkultur.de, Sein und Streit",
+      "date": "Sun, 20 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

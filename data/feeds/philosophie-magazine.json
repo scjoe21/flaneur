@@ -1,7 +1,7 @@
 {
   "sourceId": "philosophie-magazine",
   "sourceName": "Philosophie Magazine",
-  "fetchedAt": "2026-11-22T22:26:30.390144+00:00",
+  "fetchedAt": "2026-11-27T13:23:49.626661+00:00",
   "items": [
     {
       "title": "Srdja Popovic : “Pour que les jeunes prennent le pouvoir, la colère ne suffit pas”",
@@ -14,22 +14,6 @@
       "scoreDetail": {
         "daily": 5,
         "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "Pillages du 17 octobre : “Ces phénomènes de prédation font penser aux jacqueries de l’Ancien Régime\"",
-      "url": "https://www.philomag.com/articles/pillages-du-17-octobre-ces-phenomenes-de-predation-font-penser-aux-jacqueries-de-lancien",
-      "description": "",
-      "date": "Mon, 09 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 5
@@ -68,19 +52,83 @@
       }
     },
     {
-      "title": "Norman Ajari : “Les idées qui ont motivé l’attentat de Trappes circulent librement aujourd’hui dans l’espace public”",
-      "url": "https://www.philomag.com/articles/norman-ajari-les-idees-qui-ont-motive-lattentat-de-trappes-circulent-librement",
+      "title": "Viviane Pons : “Oui, on peut refuser l’IA”",
+      "url": "https://www.philomag.com/articles/viviane-pons-oui-peut-refuser-lia",
       "description": "",
-      "date": "Thu, 12 Nov 2026",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "Dans la tête de Jensen Huang",
+      "url": "https://www.philomag.com/articles/dans-la-tete-de-jensen-huang",
+      "description": "",
+      "date": "Thu, 26 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Teddy Riner, candidat wébérien ?",
+      "url": "https://www.philomag.com/articles/teddy-riner-candidat-weberien",
+      "description": "",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Jean-Yves Pranchère : “Nous sommes entrés dans l’ère de la démocratie à l’état gazeux”",
+      "url": "https://www.philomag.com/articles/jean-yves-pranchere-nous-sommes-entres-dans-lere-de-la-democratie-letat-gazeux",
+      "description": "",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "Jan Sowa : “Partout, les populistes tentent de détricoter la Constitution”",
+      "url": "https://www.philomag.com/articles/jan-sowa-partout-les-populistes-tentent-de-detricoter-la-constitution",
+      "description": "",
+      "date": "Mon, 23 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -184,54 +232,6 @@
       "url": "https://www.philomag.com/articles/quoi-voit-quon-est-encore-jeune",
       "description": "",
       "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "“Ni Dieu ni maître !” : anarchy in Roubaix",
-      "url": "https://www.philomag.com/articles/ni-dieu-ni-maitre-anarchy-roubaix",
-      "description": "",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Le “syndrome du manque de nature”, racine des maux de la jeunesse ?",
-      "url": "https://www.philomag.com/articles/le-syndrome-du-manque-de-nature-racine-des-maux-de-la-jeunesse",
-      "description": "",
-      "date": "Wed, 11 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "La victoire de la “démocratie profonde”",
-      "url": "https://www.philomag.com/articles/la-victoire-de-la-democratie-profonde",
-      "description": "",
-      "date": "Tue, 10 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

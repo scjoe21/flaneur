@@ -1,13 +1,29 @@
 {
   "sourceId": "the-atlantic-ideas",
   "sourceName": "The Atlantic — Ideas",
-  "fetchedAt": "2026-11-22T22:26:51.336351+00:00",
+  "fetchedAt": "2026-11-27T13:24:10.190778+00:00",
   "items": [
     {
-      "title": "How Jared Kushner Sparked a Revolution in the Balkans",
-      "url": "https://www.theatlantic.com/magazine/2027/01/albania-kushner-flamingo-revolution/689407/?utm_source=feed",
+      "title": "Why I Changed My Mind About the Death Penalty",
+      "url": "https://www.theatlantic.com/magazine/2027/01/pro-life-death-penalty/689406/?utm_source=feed",
       "description": "",
-      "date": "2026-11-18",
+      "date": "2026-11-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 20,
+      "scoreDetail": {
+        "daily": 20,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 20
+      }
+    },
+    {
+      "title": "Why Trump Rescued Jensen Huang",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-jensen-huang-backing/689545/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-23",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
@@ -20,26 +36,10 @@
       }
     },
     {
-      "title": "Why Moderate Democrats Are Magnanimous in Victory",
-      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-intraparty-divide-denial/689480/?utm_source=feed",
+      "title": "Jensen Huang Isn’t Worried. But You Should Be.",
+      "url": "https://www.theatlantic.com/ideas/2026/11/nvidia-stock-market-crisis/689557/?utm_source=feed",
       "description": "",
-      "date": "2026-11-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 15,
-      "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 15
-      }
-    },
-    {
-      "title": "Welcome to Software Beirut",
-      "url": "https://www.theatlantic.com/ideas/2026/11/software-beirut-ai-outages/689508/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-19",
+      "date": "2026-11-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 10,
@@ -52,10 +52,10 @@
       }
     },
     {
-      "title": "Gerrymandering Worked",
-      "url": "https://www.theatlantic.com/ideas/2026/11/gerrymandering-redistricting-black-voters/689492/?utm_source=feed",
+      "title": "The YIMBY Movement’s Greatest Success",
+      "url": "https://www.theatlantic.com/ideas/2026/11/housing-yimby-college-towns/689596/?utm_source=feed",
       "description": "",
-      "date": "2026-11-20",
+      "date": "2026-11-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -68,26 +68,10 @@
       }
     },
     {
-      "title": "<em>Grand Theft Auto VI</em> Is Really Weird",
-      "url": "https://www.theatlantic.com/ideas/2026/11/grand-theft-auto-vi-review/689514/?utm_source=feed",
+      "title": "The Great American Tradition",
+      "url": "https://www.theatlantic.com/ideas/2026/11/boycotts-mississippi-naacp-press-scotus/689568/?utm_source=feed",
       "description": "",
-      "date": "2026-11-19",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 5,
-        "total": 5
-      }
-    },
-    {
-      "title": "‘No Take, Only Throw’ Politics",
-      "url": "https://www.theatlantic.com/ideas/2026/11/no-take-only-throw-democrats-budget-taxes/689497/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-18",
+      "date": "2026-11-25",
       "thumbnail": "",
       "videoId": "",
       "priority": 5,
@@ -100,10 +84,42 @@
       }
     },
     {
-      "title": "My Apology to American Democracy",
-      "url": "https://www.theatlantic.com/ideas/2026/11/doomerism-elections-authoritarianism-trump/689493/?utm_source=feed",
+      "title": "The President Is Acting Like He Works for China",
+      "url": "https://www.theatlantic.com/ideas/2026/11/trump-huang-national-security-risk/689547/?utm_source=feed",
       "description": "",
-      "date": "2026-11-22",
+      "date": "2026-11-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Orwell Has Become What He Despised",
+      "url": "https://www.theatlantic.com/ideas/2026/11/george-orwell-trump-authoritarianism/689542/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-23",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
+      }
+    },
+    {
+      "title": "Gift Guide for the AI Apocalypse",
+      "url": "https://www.theatlantic.com/ideas/2026/11/gift-guide-ai-apocalypse/689561/?utm_source=feed",
+      "description": "",
+      "date": "2026-11-27",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -116,10 +132,10 @@
       }
     },
     {
-      "title": "Hollywood Needs a New Pixar",
-      "url": "https://www.theatlantic.com/ideas/2026/11/movies-pixar-animation-media/689535/?utm_source=feed",
+      "title": "The Scandinavian Compromise",
+      "url": "https://www.theatlantic.com/ideas/2026/11/scandinavia-inclusion-dynamism-welfare-sweden/689556/?utm_source=feed",
       "description": "",
-      "date": "2026-11-21",
+      "date": "2026-11-26",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -132,10 +148,10 @@
       }
     },
     {
-      "title": "Trump vs. America",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-putin-ukraine-collins/689537/?utm_source=feed",
+      "title": "The Misguided Democratic Opposition to Permitting Reform",
+      "url": "https://www.theatlantic.com/ideas/2026/11/permit-reform-democratic-accountability/689575/?utm_source=feed",
       "description": "",
-      "date": "2026-11-20",
+      "date": "2026-11-25",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -148,10 +164,10 @@
       }
     },
     {
-      "title": "Trump’s Embarrassing, Inconsequential Summit",
-      "url": "https://www.theatlantic.com/ideas/2026/11/trump-xi-putin-summit/689503/?utm_source=feed",
+      "title": "Trump Doesn’t Care Who Might Get Hurt",
+      "url": "https://www.theatlantic.com/ideas/2026/11/nvidia-china-dictators/689577/?utm_source=feed",
       "description": "",
-      "date": "2026-11-19",
+      "date": "2026-11-25",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -164,10 +180,10 @@
       }
     },
     {
-      "title": "Election Denialism Is All but Dead",
-      "url": "https://www.theatlantic.com/ideas/2026/11/election-denialism-end-midterms/689495/?utm_source=feed",
+      "title": "‘Our History Is Better Than Anybody Else’s’",
+      "url": "https://www.theatlantic.com/ideas/2026/11/western-civilization-culture-war/689289/?utm_source=feed",
       "description": "",
-      "date": "2026-11-18",
+      "date": "2026-11-24",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -180,10 +196,10 @@
       }
     },
     {
-      "title": "Can Pope Leo Bridge the Church’s Demographic Divide?",
-      "url": "https://www.theatlantic.com/ideas/2026/11/pope-leo-south-america-unity/689494/?utm_source=feed",
+      "title": "Three Theories of Jensen Huang’s Resurrection",
+      "url": "https://www.theatlantic.com/ideas/2026/11/jensen-huang-nvidia-reinstated/689546/?utm_source=feed",
       "description": "",
-      "date": "2026-11-18",
+      "date": "2026-11-23",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -196,10 +212,10 @@
       }
     },
     {
-      "title": "What on Earth Is Going On?",
-      "url": "https://www.theatlantic.com/ideas/2026/11/major-server-outage-response/689486/?utm_source=feed",
+      "title": "A New Age of Sail",
+      "url": "https://www.theatlantic.com/magazine/2027/01/neoliner-origin-wind-powered-cargo-ship/689402/?utm_source=feed",
       "description": "",
-      "date": "2026-11-18",
+      "date": "2026-11-23",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
@@ -212,26 +228,10 @@
       }
     },
     {
-      "title": "Black Politicians Can Be Like This",
-      "url": "https://www.theatlantic.com/ideas/2026/11/democrats-midterms-black-politicians/689477/?utm_source=feed",
+      "title": "Air Is Easing Out of the AI Bubble",
+      "url": "https://www.theatlantic.com/ideas/2026/11/ai-bubble-returns-timeline/689504/?utm_source=feed",
       "description": "",
-      "date": "2026-11-18",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Diplomacy, but Make It Obnoxious",
-      "url": "https://www.theatlantic.com/ideas/2026/11/marco-rubio-federalist-society-speech/689473/?utm_source=feed",
-      "description": "",
-      "date": "2026-11-17",
+      "date": "2026-11-23",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

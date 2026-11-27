@@ -1,7 +1,7 @@
 {
   "sourceId": "the-conversation-uk-philosophy",
   "sourceName": "The Conversation UK — Philosophy",
-  "fetchedAt": "2026-11-22T22:27:01.158803+00:00",
+  "fetchedAt": "2026-11-27T13:24:20.215313+00:00",
   "items": [
     {
       "title": "Guide to the classics: Machiavelli’s ‘audaciously honest’ The Prince reveals how politics works",
@@ -100,22 +100,6 @@
       }
     },
     {
-      "title": "You can love an AI but can it love you back? Philosophy has the answer",
-      "url": "https://theconversation.com/you-can-love-an-ai-but-can-it-love-you-back-philosophy-has-the-answer-287610",
-      "description": "",
-      "date": "2026-08-03",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 10,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 10
-      }
-    },
-    {
       "title": "Is it genuine love – or obsessive passion? Kierkegaard, the father of existentialism, had some thoughts",
       "url": "https://theconversation.com/is-it-genuine-love-or-obsessive-passion-kierkegaard-the-father-of-existentialism-had-some-thoughts-291950",
       "description": "",
@@ -145,6 +129,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 5
+      }
+    },
+    {
+      "title": "Voting rights for AI? The research behind an unsettling idea",
+      "url": "https://theconversation.com/voting-rights-for-ai-the-research-behind-an-unsettling-idea-295036",
+      "description": "",
+      "date": "2026-11-25",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {

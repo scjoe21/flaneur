@@ -1,7 +1,7 @@
 {
   "sourceId": "hedgehog-review",
   "sourceName": "The Hedgehog Review",
-  "fetchedAt": "2026-11-22T22:27:04.048649+00:00",
+  "fetchedAt": "2026-11-27T13:24:23.210605+00:00",
   "items": [
     {
       "title": "The Digital Hive and the End of a Common World",
@@ -17,6 +17,22 @@
         "flaneur": 0,
         "novelty": 0,
         "total": 15
+      }
+    },
+    {
+      "title": "A Frog, Water, and Refracted Light",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/a-frog-water-and-refracted-light",
+      "description": "We invent Kermit the moment “he” doubts his own possible existence.",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 5,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -68,19 +84,19 @@
       }
     },
     {
-      "title": "Slouching Toward Paris",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/slouching-toward-paris",
-      "description": "Two memoirs from the Theory Generation.",
-      "date": "Wed, 16 Sep 2026",
+      "title": "November 22, 1963",
+      "url": "https://hedgehogreview.com/web-features/thr/posts/november-22-1963",
+      "description": "Any memory of that day is filtered through a psychology that almost certainly no longer exists.",
+      "date": "Wed, 18 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
+      "priority": 0,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 0,
         "flaneur": 0,
         "novelty": 0,
-        "total": 5
+        "total": 0
       }
     },
     {
@@ -136,22 +152,6 @@
       "url": "https://hedgehogreview.com/web-features/thr/posts/inheriting-wendell-berry",
       "description": "",
       "date": "Wed, 21 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "Roy Redux",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/roy-redux",
-      "description": "In which our correspondent blocks Roy Cohn’s sunshine.",
-      "date": "Mon, 14 Sep 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,

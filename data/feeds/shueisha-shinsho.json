@@ -1,38 +1,86 @@
 {
   "sourceId": "shueisha-shinsho",
   "sourceName": "Shueisha Shinsho Plus",
-  "fetchedAt": "2026-11-22T22:27:07.321806+00:00",
+  "fetchedAt": "2026-11-27T13:24:27.346622+00:00",
   "items": [
     {
-      "title": "題名のつけ方とインスマスの「影」について",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/cthulhu_mythos_maker/37496",
-      "description": "序 　わたしが初めてハワード・フィリップス・ラヴクラフト（Howard Philips Lovecraft、1890-1937）の小説に接したのは、創元推理文庫で最初に出た大西尹明訳『ラヴクラフト傑作集』によってだった。 […]",
-      "date": "Tue, 03 Nov 2026",
+      "title": "まじめに働いているのに、なぜ職場で疲弊するのか",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/ebina_kimura/37689",
+      "description": "木村　『病まないための職場サバイバル戦略』を拝読して、会社で追い込まれたときの対処について大事なことが書かれていると感じました。私は「社内政治」というものを研究しているのですが、共通するのは、物事の意味や解釈をどう変える […]",
+      "date": "Thu, 26 Nov 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 15,
       "scoreDetail": {
-        "daily": 15,
-        "phil": 0,
+        "daily": 10,
+        "phil": 5,
         "flaneur": 0,
         "novelty": 0,
         "total": 15
       }
     },
     {
-      "title": "「連帯」が語られない日本社会で、社会保障と財政をどう構想すればよいのか？",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/koryohi_beyond/37533",
-      "description": "高額療養費制度などのセーフティネットを社会に張り巡らせて、安定的に維持してゆくためには、当然ながらそれなりの財源が必要だ。その一方で世論調査などによれば、これらの財源を削ぐことを意味する「社会保険料負担の軽減」を訴える […]",
-      "date": "Mon, 02 Nov 2026",
+      "title": "生きがい",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37845",
+      "description": "「生きがい」（IKIGAI）とは、他人からの評価や、社会の中での報酬とは関係のない、自分自身の人生の中での小さなよろこびのことである。私自身が書いた英語の本も一つのきっかけとなって、今、日本発のこの生命哲学の考え方が、 […]",
+      "date": "Tue, 24 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 15,
+      "priority": 10,
       "scoreDetail": {
-        "daily": 5,
+        "daily": 0,
         "phil": 10,
         "flaneur": 0,
         "novelty": 0,
-        "total": 15
+        "total": 10
+      }
+    },
+    {
+      "title": "「富裕層」と「浮遊層」の街へ　シブヤは絶賛・魔改造中【後編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37828",
+      "description": "「しぶしょく」でハンバーグ定食やグラタンに心を奪われていた子ども時代の後、1970年代後半から私が目撃、体験した渋谷は、西武百貨店とPARCOを中心に、都市のサブカルチャーがまばゆく花開いた街だった。　東京の活気は、バブ […]",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 8,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 8
+      }
+    },
+    {
+      "title": "「富裕層」と「浮遊層」の街へ　シブヤは絶賛・魔改造中【前編】",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/makaizou_tokyo/37815",
+      "description": "渋谷の夕刻。日中の陽射しが弱まる時刻になると、街の中心に面したピクチャーウインドウのシェードが、音を立てて上がっていく。ガガガガッ、というドラマチックな音響とともに、都市の光景が徐々に表れ、やがて目の前に180度のパノ […]",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 8,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 8,
+        "novelty": 0,
+        "total": 8
+      }
+    },
+    {
+      "title": "役割を飛び越える",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/care_genba_art/37872",
+      "description": "2013年1月、後に耳原総合病院のアートディレクターとなる室野愛子さんは、耳原のことをほとんど知らないまま堺へやってきました。国内でもめずらしい、ホスピタルアートを専門に取り組むNPO法人アーツプロジェクトのスタッフと […]",
+      "date": "Tue, 24 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 5,
+      "scoreDetail": {
+        "daily": 5,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 5
       }
     },
     {
@@ -52,51 +100,51 @@
       }
     },
     {
-      "title": "なぜ極右は矛盾だらけなのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/nazekyokuu_france/37570",
-      "description": "極右とは矛盾のかたまりである。「極右」と呼ばれるのを嫌う割に、過激さを完全に脱ぎ捨てることはしない。政権を担える普通の政党になりたいが、既成政党と同じにはなりたくない。「エリート」に反発するが、「弱者」にもなりたくない […]",
-      "date": "Sat, 07 Nov 2026",
+      "title": "シンガポール驚異的な経済発展の裏にあった「緑化戦略」",
+      "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/37920",
+      "description": "2026年10月末、私はチャンギ国際空港に降り立った。シンガポールは空港のなかを移動しているだけで、この国が緑化にただならない力を入れていることがわかる。それは、空港の中に木が植えられている・・・・・・・・・・・・・・ […]",
+      "date": "Fri, 27 Nov 2026",
       "thumbnail": "",
       "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 5,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "第３回　マハティールは日本に何を問いかけているのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/naitou_kushimoto/37332",
-      "description": "――イスラーム圏というと中東をイメージしがちですが、人口が多いのは東南アジアです。マレーシアとインドネシアは経済的にもうまくいっている。「イスラームが経済発展の妨げになる」という議論は、もう成り立たないのではと思えます。 […]",
-      "date": "Fri, 30 Oct 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 5,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 5,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 5
-      }
-    },
-    {
-      "title": "パリを欧州で一番緑豊かにする画期的方法とは？",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/sekai_no_toshi/37576",
-      "description": "2026年10月初頭、私はフランスのパリを訪れた。プラタナスの街路樹は少しずつ黄色く色づき始めていた。以前パリに来たのは2023年のことだったが、わずか３年の間にパリの街が大きく変わっていることに私は衝撃を覚えた。 　 […]",
-      "date": "Mon, 09 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 4,
+      "priority": 0,
       "scoreDetail": {
         "daily": 0,
         "phil": 0,
-        "flaneur": 4,
+        "flaneur": 0,
         "novelty": 0,
-        "total": 4
+        "total": 0
+      }
+    },
+    {
+      "title": "テクノロジーの時代こそ、人生の最終章のシナリオを自分で書く",
+      "url": "https://shinsho-plus.shueisha.co.jp/interview/tutumi_manda/37705",
+      "description": "堤　「死」とは不思議なものですね。いつか来るものだと分かっていても、自分や大切な人のことは、想像したくない。日本では死について語ると「縁起でもない」と嗜めるでしょう？特に親の死は、その日が来ることが怖くて、ずっと避けてい […]",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
+      }
+    },
+    {
+      "title": "周縁から世界を捉えた、ほんものの知識人",
+      "url": "https://shinsho-plus.shueisha.co.jp/review/37866",
+      "description": "松岡正剛は、日本の知的世界のメインストリームで活躍する能力も機会も十分に持ちながら、あえて周縁にとどまった知識人である。中心から遠ざけられたのではない。中心が見落としているものを捉えるために、自ら立つ場所を選んだのだ。 […]",
+      "date": "Wed, 25 Nov 2026",
+      "thumbnail": "",
+      "videoId": "",
+      "priority": 0,
+      "scoreDetail": {
+        "daily": 0,
+        "phil": 0,
+        "flaneur": 0,
+        "novelty": 0,
+        "total": 0
       }
     },
     {
@@ -104,54 +152,6 @@
       "url": "https://shinsho-plus.shueisha.co.jp/column/hagiharahuman/37763",
       "description": "Hagihara, H., Ishibashi, M., Moriguchi, Y., & Shinya, Y. (2022). Object labeling activates young children’ […]",
       "date": "Mon, 16 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "魂",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37642",
-      "description": "人間の「魂」とはなんだろう？ 　カナダのノースウエスト準州にある世界自然遺産、ナハニ国立公園を訪れて、５泊６日の川下りの旅をした。カナダ観光局にお世話になった。川下りをしている中で、「魂」の問題を、ずっと考えていた。  […]",
-      "date": "Fri, 13 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "宇宙",
-      "url": "https://shinsho-plus.shueisha.co.jp/column/nahanni_mogiken/37459",
-      "description": "今年の夏、カナダのノースウエスト準州にある世界自然遺産、ナハニ国立公園を訪れて、5泊6日の川下りの旅をした。カナダ観光局にお世話になった。 　出発前から、「宇宙」のイメージが私の頭の中にあった。15歳で初めて行った外国 […]",
-      "date": "Tue, 03 Nov 2026",
-      "thumbnail": "",
-      "videoId": "",
-      "priority": 0,
-      "scoreDetail": {
-        "daily": 0,
-        "phil": 0,
-        "flaneur": 0,
-        "novelty": 0,
-        "total": 0
-      }
-    },
-    {
-      "title": "第２回　トルコとマレーシア　「西洋化」とどう向き合ったのか",
-      "url": "https://shinsho-plus.shueisha.co.jp/interview/naitou_kushimoto/37330",
-      "description": "内藤　1990年代にイスラームの復興がトルコにも影響を及ぼしていくなかで出てくる、福祉党というイスラーム主義政党があります。1990年代半ばに一度政権を取るんですが、軍に潰されてしまいます。当時の首相、ネジメッディン・エ […]",
-      "date": "Thu, 29 Oct 2026",
       "thumbnail": "",
       "videoId": "",
       "priority": 0,
